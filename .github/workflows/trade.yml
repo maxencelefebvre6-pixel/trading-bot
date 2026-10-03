@@ -2,21 +2,26 @@ name: Trading bot (simulation)
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # toutes les heures
-  workflow_dispatch:       # lancement manuel possible
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: trading-bot
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 4
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install yfinance
+      - run: pip install requests
       - run: python trading_bot.py
       - name: Sauvegarder le portefeuille
         run: |
@@ -24,4 +29,5 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add portfolio.json
           git commit -m "Mise à jour du portefeuille" || echo "Rien à commiter"
+          git pull --rebase
           git push
