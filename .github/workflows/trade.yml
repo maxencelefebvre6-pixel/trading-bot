@@ -2,8 +2,8 @@ name: Trading bot (simulation)
 
 on:
   schedule:
-    - cron: "0 * * * *"   # toutes les heures
-  workflow_dispatch:       # lancement manuel possible
+    - cron: "*/5 * * * *"   # toutes les heures
+  workflow_dis patch:       # lancement manuel possible
 
 permissions:
   contents: write
