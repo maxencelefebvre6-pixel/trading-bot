@@ -1,41 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 235772.4700836187,
+  "cash": 235893.74214424109,
   "positions": {
-    "CkmekWmR5hEtT36kNXf7S8zra6mFamqgyJavQ63Cpump": {
-      "symbol": "$BYTE",
-      "qty": 7255501.900429252,
-      "entry_price": 6.822408798083489e-06,
-      "last_price": 6.56022904e-06,
+    "HjSKJE8qw5LmDfWS8acVKJ79559tuGLs3MVkg7YVpump": {
+      "symbol": "Ink",
+      "qty": 5844696.63657552,
+      "entry_price": 8.469216296057867e-06,
+      "last_price": 8.157264170487304e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-04T22:21:10+00:00",
-      "missing": 0
-    },
-    "AWNx5kbjkQhmBHTm6wGfNrikNXbYCyAQfGmphvYbpump": {
-      "symbol": "PSTR",
-      "qty": 1000916.3522720764,
-      "entry_price": 4.945468208970228e-05,
-      "last_price": 4.7901988196828844e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-04T23:11:55+00:00",
-      "missing": 0
-    },
-    "CSFcnhFS5qxuHTsjiuPFUswtzGGnyRCM9dF7WvxMpump": {
-      "symbol": "CLOUT",
-      "qty": 6026899.975263757,
-      "entry_price": 8.213177620860336e-06,
-      "last_price": 7.899205814200179e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-04T23:11:55+00:00",
-      "missing": 0
-    },
-    "7jXpuNLyxAfVWS5x4Za6bjqBwnrz22iR7aQCSeLLpump": {
-      "symbol": "AlterLife",
-      "qty": 741203.5506774342,
-      "entry_price": 6.678327425004741e-05,
-      "last_price": 6.4689592472512e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-04T23:11:55+00:00",
+      "entry_time": "2026-10-04T23:29:54+00:00",
       "missing": 0
     }
   },
@@ -467,6 +440,54 @@
       "address": "7jXpuNLyxAfVWS5x4Za6bjqBwnrz22iR7aQCSeLLpump",
       "price": 6.678327425004741e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T23:29:54+00:00",
+      "side": "sell",
+      "symbol": "$BYTE",
+      "address": "CkmekWmR5hEtT36kNXf7S8zra6mFamqgyJavQ63Cpump",
+      "price": 6.56022904e-06,
+      "proceeds": 45.26,
+      "pnl_usd": -4.74,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-04T23:29:54+00:00",
+      "side": "sell",
+      "symbol": "PSTR",
+      "address": "AWNx5kbjkQhmBHTm6wGfNrikNXbYCyAQfGmphvYbpump",
+      "price": 0.000200351164,
+      "proceeds": 99.26,
+      "pnl_usd": 49.26,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T23:29:54+00:00",
+      "side": "sell",
+      "symbol": "CLOUT",
+      "address": "CSFcnhFS5qxuHTsjiuPFUswtzGGnyRCM9dF7WvxMpump",
+      "price": 3.411453997e-06,
+      "proceeds": 19.59,
+      "pnl_usd": -30.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-04T23:29:54+00:00",
+      "side": "sell",
+      "symbol": "AlterLife",
+      "address": "7jXpuNLyxAfVWS5x4Za6bjqBwnrz22iR7aQCSeLLpump",
+      "price": 1.006764099e-05,
+      "proceeds": 7.16,
+      "pnl_usd": -42.84,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-04T23:29:54+00:00",
+      "side": "buy",
+      "symbol": "Ink",
+      "address": "HjSKJE8qw5LmDfWS8acVKJ79559tuGLs3MVkg7YVpump",
+      "price": 8.469216296057867e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -521,6 +542,10 @@
     {
       "date": "2026-10-04T23:11:55+00:00",
       "equity": 235963.57
+    },
+    {
+      "date": "2026-10-04T23:29:54+00:00",
+      "equity": 235941.42
     }
   ]
 }
