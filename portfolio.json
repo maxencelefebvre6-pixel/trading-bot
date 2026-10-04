@@ -1,17 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 236161.86254217033,
-  "positions": {
-    "8RB2eq4vn2mTSNaNvaHByUALmNzbFuSTJT7wSP9Hpump": {
-      "symbol": "BLUECAT",
-      "qty": 1226546.4375700897,
-      "entry_price": 4.0357216395381174e-05,
-      "last_price": 3.911818184929757e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-04T05:13:10+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 236207.9046134291,
+  "positions": {},
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -110,6 +100,16 @@
       "address": "8RB2eq4vn2mTSNaNvaHByUALmNzbFuSTJT7wSP9Hpump",
       "price": 4.0357216395381174e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T11:04:29+00:00",
+      "side": "sell",
+      "symbol": "BLUECAT",
+      "address": "8RB2eq4vn2mTSNaNvaHByUALmNzbFuSTJT7wSP9Hpump",
+      "price": 3.915469359e-05,
+      "proceeds": 46.04,
+      "pnl_usd": -3.96,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -128,6 +128,10 @@
     {
       "date": "2026-10-04T05:13:10+00:00",
       "equity": 236209.84
+    },
+    {
+      "date": "2026-10-04T11:04:29+00:00",
+      "equity": 236207.9
     }
   ]
 }
