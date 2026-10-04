@@ -1,14 +1,41 @@
 {
   "mode": "pumpfun",
-  "cash": 235893.74214424109,
+  "cash": 235703.945229442,
   "positions": {
-    "HjSKJE8qw5LmDfWS8acVKJ79559tuGLs3MVkg7YVpump": {
-      "symbol": "Ink",
-      "qty": 5844696.63657552,
-      "entry_price": 8.469216296057867e-06,
-      "last_price": 8.157264170487304e-06,
+    "3teWjWfKb337KyzNrqB7YXNFdwKwiH94oduP9rzvpump": {
+      "symbol": "SWIPE",
+      "qty": 990801.0911083363,
+      "entry_price": 4.995957356549536e-05,
+      "last_price": 4.839176310417642e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T23:29:54+00:00",
+      "entry_time": "2026-10-04T23:47:21+00:00",
+      "missing": 0
+    },
+    "CGR72v9ybBEmGwLBQJXjGoGVKcEd4jAQtqJMDPF4pump": {
+      "symbol": "SWIPE",
+      "qty": 999288.8783912527,
+      "entry_price": 4.95352255692965e-05,
+      "last_price": 4.7979861770709916e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T23:47:21+00:00",
+      "missing": 0
+    },
+    "GhH62RubJVSDrAxSzVUZh443jDBHFGjnXKyxc9zXpump": {
+      "symbol": "JEANYO",
+      "qty": 5747367.699441889,
+      "entry_price": 8.612638443997032e-06,
+      "last_price": 8.295060834897821e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T23:47:21+00:00",
+      "missing": 0
+    },
+    "DbTfeF2equtPC9GcirhRtF38sMi8EqskNmKYNp1Rpump": {
+      "symbol": "DOOB",
+      "qty": 3813542.8648494887,
+      "entry_price": 1.2980056014646015e-05,
+      "last_price": 1.2539791543589366e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T23:47:21+00:00",
       "missing": 0
     }
   },
@@ -488,6 +515,48 @@
       "address": "HjSKJE8qw5LmDfWS8acVKJ79559tuGLs3MVkg7YVpump",
       "price": 8.469216296057867e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T23:47:21+00:00",
+      "side": "sell",
+      "symbol": "Ink",
+      "address": "HjSKJE8qw5LmDfWS8acVKJ79559tuGLs3MVkg7YVpump",
+      "price": 3.526666073e-06,
+      "proceeds": 10.2,
+      "pnl_usd": -39.8,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T23:47:21+00:00",
+      "side": "buy",
+      "symbol": "SWIPE",
+      "address": "3teWjWfKb337KyzNrqB7YXNFdwKwiH94oduP9rzvpump",
+      "price": 4.995957356549536e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T23:47:21+00:00",
+      "side": "buy",
+      "symbol": "SWIPE",
+      "address": "CGR72v9ybBEmGwLBQJXjGoGVKcEd4jAQtqJMDPF4pump",
+      "price": 4.95352255692965e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T23:47:21+00:00",
+      "side": "buy",
+      "symbol": "JEANYO",
+      "address": "GhH62RubJVSDrAxSzVUZh443jDBHFGjnXKyxc9zXpump",
+      "price": 8.612638443997032e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T23:47:21+00:00",
+      "side": "buy",
+      "symbol": "DOOB",
+      "address": "DbTfeF2equtPC9GcirhRtF38sMi8EqskNmKYNp1Rpump",
+      "price": 1.2980056014646015e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -546,6 +615,10 @@
     {
       "date": "2026-10-04T23:29:54+00:00",
       "equity": 235941.42
+    },
+    {
+      "date": "2026-10-04T23:47:21+00:00",
+      "equity": 235895.33
     }
   ]
 }
