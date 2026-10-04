@@ -1,14 +1,41 @@
 {
   "mode": "pumpfun",
-  "cash": 235812.88301287522,
+  "cash": 235662.88301287522,
   "positions": {
     "CkmekWmR5hEtT36kNXf7S8zra6mFamqgyJavQ63Cpump": {
       "symbol": "$BYTE",
       "qty": 7255501.900429252,
       "entry_price": 6.822408798083489e-06,
-      "last_price": 6.560229040386373e-06,
+      "last_price": 6.56022904e-06,
       "cost": 50.0,
       "entry_time": "2026-10-04T22:21:10+00:00",
+      "missing": 0
+    },
+    "CxcqRz92SeGGgNzc2z9qb8UyHDmvBuBZpEh8pa2gpump": {
+      "symbol": "batontrump",
+      "qty": 2955939.25673224,
+      "entry_price": 1.6745946279938695e-05,
+      "last_price": 1.6134240081535566e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T22:39:01+00:00",
+      "missing": 0
+    },
+    "6w6oo6xGAtMgWMCzK2cJhLgzEyMa3UP4LhxiYsUTpump": {
+      "symbol": "BOILER",
+      "qty": 5111293.523954214,
+      "entry_price": 9.684436976279474e-06,
+      "last_price": 9.314792012168984e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T22:39:01+00:00",
+      "missing": 0
+    },
+    "Cr2CSudegn49pg83qKYZjKgQypwVtZgy2xWw1NRZpump": {
+      "symbol": "$GOAT",
+      "qty": 3767286.251867614,
+      "entry_price": 1.3139431593620105e-05,
+      "last_price": 1.2685752911623724e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T22:39:01+00:00",
       "missing": 0
     }
   },
@@ -308,6 +335,30 @@
       "address": "CkmekWmR5hEtT36kNXf7S8zra6mFamqgyJavQ63Cpump",
       "price": 6.822408798083489e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T22:39:01+00:00",
+      "side": "buy",
+      "symbol": "batontrump",
+      "address": "CxcqRz92SeGGgNzc2z9qb8UyHDmvBuBZpEh8pa2gpump",
+      "price": 1.6745946279938695e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T22:39:01+00:00",
+      "side": "buy",
+      "symbol": "BOILER",
+      "address": "6w6oo6xGAtMgWMCzK2cJhLgzEyMa3UP4LhxiYsUTpump",
+      "price": 9.684436976279474e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T22:39:01+00:00",
+      "side": "buy",
+      "symbol": "$GOAT",
+      "address": "Cr2CSudegn49pg83qKYZjKgQypwVtZgy2xWw1NRZpump",
+      "price": 1.3139431593620105e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -350,6 +401,10 @@
     {
       "date": "2026-10-04T22:21:10+00:00",
       "equity": 235860.48
+    },
+    {
+      "date": "2026-10-04T22:39:01+00:00",
+      "equity": 235853.57
     }
   ]
 }
