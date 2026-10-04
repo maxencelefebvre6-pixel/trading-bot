@@ -1,7 +1,26 @@
 {
   "mode": "pumpfun",
-  "cash": 236207.9046134291,
-  "positions": {},
+  "cash": 236107.9046134291,
+  "positions": {
+    "AfG7LpbDTDUsDFU2f7jhW6YzCdadL5mJGUP6M1Z8pump": {
+      "symbol": "CELLUMO",
+      "qty": 1003599.9391407097,
+      "entry_price": 4.932244220977364e-05,
+      "last_price": 4.7773902042136066e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T17:59:17+00:00",
+      "missing": 0
+    },
+    "GxGrp3RSJSHH5mV1CjGVk6UsPXW2wm9Yr7wSS6Dfpump": {
+      "symbol": "ANSEMOGGOTH",
+      "qty": 846777.1718756384,
+      "entry_price": 5.8456937248740326e-05,
+      "last_price": 5.6609765624367995e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T17:59:17+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -110,6 +129,22 @@
       "proceeds": 46.04,
       "pnl_usd": -3.96,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-04T17:59:17+00:00",
+      "side": "buy",
+      "symbol": "CELLUMO",
+      "address": "AfG7LpbDTDUsDFU2f7jhW6YzCdadL5mJGUP6M1Z8pump",
+      "price": 4.932244220977364e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T17:59:17+00:00",
+      "side": "buy",
+      "symbol": "ANSEMOGGOTH",
+      "address": "GxGrp3RSJSHH5mV1CjGVk6UsPXW2wm9Yr7wSS6Dfpump",
+      "price": 5.8456937248740326e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -132,6 +167,10 @@
     {
       "date": "2026-10-04T11:04:29+00:00",
       "equity": 236207.9
+    },
+    {
+      "date": "2026-10-04T17:59:17+00:00",
+      "equity": 236203.79
     }
   ]
 }
