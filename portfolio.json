@@ -1,41 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 235837.41370601256,
+  "cash": 235859.8023183613,
   "positions": {
-    "6NcSFyJFzbrDHYtf69sHQokKkirbQpubXGYhxKx4pump": {
-      "symbol": "trade/up",
-      "qty": 1002278.2566962147,
-      "entry_price": 4.938748263697313e-05,
-      "last_price": 4.783711792236274e-05,
+    "DUTHRDggMDnnvyMSt3b351EkcnFAADboLWCPtRQBpump": {
+      "symbol": "Unwind",
+      "qty": 1212100.1414719077,
+      "entry_price": 4.083820990226923e-05,
+      "last_price": 3.953835683194196e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T21:43:15+00:00",
-      "missing": 0
-    },
-    "BCfTvPtECDuRkRM1hksFFQtQu5QxU6o1EuQ3AiYapump": {
-      "symbol": "Office",
-      "qty": 4582627.255468864,
-      "entry_price": 1.080166403255407e-05,
-      "last_price": 1.0404514673413087e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-04T21:43:15+00:00",
-      "missing": 0
-    },
-    "LCkEB3XRniTjLStk8LBTPvvK6D8TFoPVucndKsNpump": {
-      "symbol": "Apple",
-      "qty": 117242.37701797855,
-      "entry_price": 0.0004222022894708917,
-      "last_price": 0.00040955508749323827,
-      "cost": 50.0,
-      "entry_time": "2026-10-04T21:43:15+00:00",
-      "missing": 0
-    },
-    "EGYFy3sNQdnJMQDXZZE8uDCxAAntux79M23e9aGfpump": {
-      "symbol": "GUS",
-      "qty": 8567941.90423387,
-      "entry_price": 5.777350097990213e-06,
-      "last_price": 5.573132509011882e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-04T21:43:15+00:00",
+      "entry_time": "2026-10-04T22:00:00+00:00",
       "missing": 0
     }
   },
@@ -269,6 +242,54 @@
       "address": "EGYFy3sNQdnJMQDXZZE8uDCxAAntux79M23e9aGfpump",
       "price": 5.777350097990213e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T22:00:00+00:00",
+      "side": "sell",
+      "symbol": "trade/up",
+      "address": "6NcSFyJFzbrDHYtf69sHQokKkirbQpubXGYhxKx4pump",
+      "price": 5.979586136e-05,
+      "proceeds": 29.67,
+      "pnl_usd": -20.33,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T22:00:00+00:00",
+      "side": "sell",
+      "symbol": "Office",
+      "address": "BCfTvPtECDuRkRM1hksFFQtQu5QxU6o1EuQ3AiYapump",
+      "price": 3.396241821e-06,
+      "proceeds": 14.86,
+      "pnl_usd": -35.14,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-04T22:00:00+00:00",
+      "side": "sell",
+      "symbol": "Apple",
+      "address": "LCkEB3XRniTjLStk8LBTPvvK6D8TFoPVucndKsNpump",
+      "price": 2.172319085e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T22:00:00+00:00",
+      "side": "sell",
+      "symbol": "GUS",
+      "address": "EGYFy3sNQdnJMQDXZZE8uDCxAAntux79M23e9aGfpump",
+      "price": 3.394879087e-06,
+      "proceeds": 27.62,
+      "pnl_usd": -22.38,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-04T22:00:00+00:00",
+      "side": "buy",
+      "symbol": "Unwind",
+      "address": "DUTHRDggMDnnvyMSt3b351EkcnFAADboLWCPtRQBpump",
+      "price": 4.083820990226923e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -303,6 +324,10 @@
     {
       "date": "2026-10-04T21:43:15+00:00",
       "equity": 236028.81
+    },
+    {
+      "date": "2026-10-04T22:00:00+00:00",
+      "equity": 235907.73
     }
   ]
 }
