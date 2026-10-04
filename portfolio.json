@@ -1,23 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 911.5548177464406,
+  "cash": 881.8705234548755,
   "positions": {
-    "9v7B9K2GeszkeAWvJe1AEdi3jrWTwogqDBifSzZspump": {
-      "symbol": "LMAO",
-      "qty": 3211357.942071204,
-      "entry_price": 1.5414040070561048e-05,
-      "last_price": 1.489590468e-05,
+    "9XX7Zk6WiFGrYbxuTByWUXDMg2McU68GkZD6ZUe8pump": {
+      "symbol": "SPLICE",
+      "qty": 1006801.0015114973,
+      "entry_price": 4.9165624513370855e-05,
+      "last_price": 4.762121043734215e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-03T22:42:11+00:00",
+      "entry_time": "2026-10-04T02:57:17+00:00",
       "missing": 0
     },
-    "FSJH5tLS2LdL9rgeNgkM4QcH41Vg66nBUeAyDFyrpump": {
-      "symbol": "LMAO",
-      "qty": 16749821.470369482,
-      "entry_price": 2.9552553791433386e-06,
-      "last_price": 2.846398790623409e-06,
+    "BKhvdZpFMrCnJmxKcn7TG3RimLwihR6myUXVu8TYpump": {
+      "symbol": "zfly",
+      "qty": 1005025.0684063026,
+      "entry_price": 4.925250280422715e-05,
+      "last_price": 4.770553898653561e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-03T22:53:02+00:00",
+      "entry_time": "2026-10-04T02:57:17+00:00",
       "missing": 0
     }
   },
@@ -55,6 +55,42 @@
       "address": "FSJH5tLS2LdL9rgeNgkM4QcH41Vg66nBUeAyDFyrpump",
       "price": 2.9552553791433386e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T02:57:17+00:00",
+      "side": "sell",
+      "symbol": "LMAO",
+      "address": "9v7B9K2GeszkeAWvJe1AEdi3jrWTwogqDBifSzZspump",
+      "price": 1.489590468e-05,
+      "proceeds": 45.72,
+      "pnl_usd": -4.28,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-04T02:57:17+00:00",
+      "side": "sell",
+      "symbol": "LMAO",
+      "address": "FSJH5tLS2LdL9rgeNgkM4QcH41Vg66nBUeAyDFyrpump",
+      "price": 1.564205691e-06,
+      "proceeds": 24.6,
+      "pnl_usd": -25.4,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-04T02:57:17+00:00",
+      "side": "buy",
+      "symbol": "SPLICE",
+      "address": "9XX7Zk6WiFGrYbxuTByWUXDMg2McU68GkZD6ZUe8pump",
+      "price": 4.9165624513370855e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T02:57:17+00:00",
+      "side": "buy",
+      "symbol": "zfly",
+      "address": "BKhvdZpFMrCnJmxKcn7TG3RimLwihR6myUXVu8TYpump",
+      "price": 4.925250280422715e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -65,6 +101,10 @@
     {
       "date": "2026-10-03T22:53:02+00:00",
       "equity": 1007.07
+    },
+    {
+      "date": "2026-10-04T02:57:17+00:00",
+      "equity": 977.76
     }
   ]
 }
