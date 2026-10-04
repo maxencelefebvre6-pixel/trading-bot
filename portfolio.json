@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 235662.88301287522,
+  "cash": 235563.34799496562,
   "positions": {
     "CkmekWmR5hEtT36kNXf7S8zra6mFamqgyJavQ63Cpump": {
       "symbol": "$BYTE",
@@ -11,31 +11,31 @@
       "entry_time": "2026-10-04T22:21:10+00:00",
       "missing": 0
     },
-    "CxcqRz92SeGGgNzc2z9qb8UyHDmvBuBZpEh8pa2gpump": {
-      "symbol": "batontrump",
-      "qty": 2955939.25673224,
-      "entry_price": 1.6745946279938695e-05,
-      "last_price": 1.6134240081535566e-05,
+    "Cwq4GPKtes9o4sZPmMxHZPMuRxUPmsKGQBC6KbrFpump": {
+      "symbol": "SHIBO",
+      "qty": 2832221.6685018633,
+      "entry_price": 1.747744555113993e-05,
+      "last_price": 1.687878805554104e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T22:39:01+00:00",
+      "entry_time": "2026-10-04T22:54:29+00:00",
       "missing": 0
     },
-    "6w6oo6xGAtMgWMCzK2cJhLgzEyMa3UP4LhxiYsUTpump": {
-      "symbol": "BOILER",
-      "qty": 5111293.523954214,
-      "entry_price": 9.684436976279474e-06,
-      "last_price": 9.314792012168984e-06,
+    "DqdXT8owJimNgPL84cqhtuo5CHSdNBXXkyvYeYKpump": {
+      "symbol": "PSTR",
+      "qty": 998840.86734796,
+      "entry_price": 4.955744365108761e-05,
+      "last_price": 4.800183045352752e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T22:39:01+00:00",
+      "entry_time": "2026-10-04T22:54:29+00:00",
       "missing": 0
     },
-    "Cr2CSudegn49pg83qKYZjKgQypwVtZgy2xWw1NRZpump": {
-      "symbol": "$GOAT",
-      "qty": 3767286.251867614,
-      "entry_price": 1.3139431593620105e-05,
-      "last_price": 1.2685752911623724e-05,
+    "EtEmx611BVmakyzQXhkBG62K94EmdpUmJSixYCdgpump": {
+      "symbol": "MECHAZILLA",
+      "qty": 1330447.024984469,
+      "entry_price": 3.720553999553484e-05,
+      "last_price": 3.600874416714414e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T22:39:01+00:00",
+      "entry_time": "2026-10-04T22:54:29+00:00",
       "missing": 0
     }
   },
@@ -359,6 +359,60 @@
       "address": "Cr2CSudegn49pg83qKYZjKgQypwVtZgy2xWw1NRZpump",
       "price": 1.3139431593620105e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T22:54:29+00:00",
+      "side": "sell",
+      "symbol": "batontrump",
+      "address": "CxcqRz92SeGGgNzc2z9qb8UyHDmvBuBZpEh8pa2gpump",
+      "price": 3.618960943e-06,
+      "proceeds": 10.23,
+      "pnl_usd": -39.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-04T22:54:29+00:00",
+      "side": "sell",
+      "symbol": "BOILER",
+      "address": "6w6oo6xGAtMgWMCzK2cJhLgzEyMa3UP4LhxiYsUTpump",
+      "price": 3.404422612e-06,
+      "proceeds": 16.6,
+      "pnl_usd": -33.4,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-04T22:54:29+00:00",
+      "side": "sell",
+      "symbol": "$GOAT",
+      "address": "Cr2CSudegn49pg83qKYZjKgQypwVtZgy2xWw1NRZpump",
+      "price": 1.267368126e-05,
+      "proceeds": 23.63,
+      "pnl_usd": -26.37,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T22:54:29+00:00",
+      "side": "buy",
+      "symbol": "SHIBO",
+      "address": "Cwq4GPKtes9o4sZPmMxHZPMuRxUPmsKGQBC6KbrFpump",
+      "price": 1.747744555113993e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T22:54:29+00:00",
+      "side": "buy",
+      "symbol": "PSTR",
+      "address": "DqdXT8owJimNgPL84cqhtuo5CHSdNBXXkyvYeYKpump",
+      "price": 4.955744365108761e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T22:54:29+00:00",
+      "side": "buy",
+      "symbol": "MECHAZILLA",
+      "address": "EtEmx611BVmakyzQXhkBG62K94EmdpUmJSixYCdgpump",
+      "price": 3.720553999553484e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -405,6 +459,10 @@
     {
       "date": "2026-10-04T22:39:01+00:00",
       "equity": 235853.57
+    },
+    {
+      "date": "2026-10-04T22:54:29+00:00",
+      "equity": 235754.6
     }
   ]
 }
