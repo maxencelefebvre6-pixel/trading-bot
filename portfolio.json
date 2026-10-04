@@ -1,23 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 236107.9046134291,
+  "cash": 235995.61055369693,
   "positions": {
-    "AfG7LpbDTDUsDFU2f7jhW6YzCdadL5mJGUP6M1Z8pump": {
-      "symbol": "CELLUMO",
-      "qty": 1003599.9391407097,
-      "entry_price": 4.932244220977364e-05,
-      "last_price": 4.7773902042136066e-05,
+    "341eiay965XcqfTd4kV6UetAx73ccJEQhrbFm31Spump": {
+      "symbol": "EGO",
+      "qty": 990697.042823697,
+      "entry_price": 4.9964820586235414e-05,
+      "last_price": 4.839674730588951e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T17:59:17+00:00",
+      "entry_time": "2026-10-04T21:12:23+00:00",
       "missing": 0
     },
-    "GxGrp3RSJSHH5mV1CjGVk6UsPXW2wm9Yr7wSS6Dfpump": {
-      "symbol": "ANSEMOGGOTH",
-      "qty": 846777.1718756384,
-      "entry_price": 5.8456937248740326e-05,
-      "last_price": 5.6609765624367995e-05,
+    "8qQDYrK1tHQS2zYfWszRkeAj6h7zoSyqvLiVqx2ipump": {
+      "symbol": "MAW",
+      "qty": 3182669.021082122,
+      "entry_price": 1.5552983886200576e-05,
+      "last_price": 1.5000239693259648e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T17:59:17+00:00",
+      "entry_time": "2026-10-04T21:12:23+00:00",
+      "missing": 0
+    },
+    "94WQk8CVhZ5BwzFAkETKVwX935GcwgPvfmEid6RMpump": {
+      "symbol": "NRD",
+      "qty": 12199819.375430856,
+      "entry_price": 4.0574371207239145e-06,
+      "last_price": 3.917870244764292e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T21:12:23+00:00",
       "missing": 0
     }
   },
@@ -145,6 +154,50 @@
       "address": "GxGrp3RSJSHH5mV1CjGVk6UsPXW2wm9Yr7wSS6Dfpump",
       "price": 5.8456937248740326e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T21:12:23+00:00",
+      "side": "sell",
+      "symbol": "CELLUMO",
+      "address": "AfG7LpbDTDUsDFU2f7jhW6YzCdadL5mJGUP6M1Z8pump",
+      "price": 5.519197655e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T21:12:23+00:00",
+      "side": "sell",
+      "symbol": "ANSEMOGGOTH",
+      "address": "GxGrp3RSJSHH5mV1CjGVk6UsPXW2wm9Yr7wSS6Dfpump",
+      "price": 4.986462646e-05,
+      "proceeds": 37.71,
+      "pnl_usd": -12.29,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T21:12:23+00:00",
+      "side": "buy",
+      "symbol": "EGO",
+      "address": "341eiay965XcqfTd4kV6UetAx73ccJEQhrbFm31Spump",
+      "price": 4.9964820586235414e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T21:12:23+00:00",
+      "side": "buy",
+      "symbol": "MAW",
+      "address": "8qQDYrK1tHQS2zYfWszRkeAj6h7zoSyqvLiVqx2ipump",
+      "price": 1.5552983886200576e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T21:12:23+00:00",
+      "side": "buy",
+      "symbol": "NRD",
+      "address": "94WQk8CVhZ5BwzFAkETKVwX935GcwgPvfmEid6RMpump",
+      "price": 4.0574371207239145e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -171,6 +224,10 @@
     {
       "date": "2026-10-04T17:59:17+00:00",
       "equity": 236203.79
+    },
+    {
+      "date": "2026-10-04T21:12:23+00:00",
+      "equity": 236139.1
     }
   ]
 }
