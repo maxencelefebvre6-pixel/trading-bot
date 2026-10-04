@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 235563.34799496562,
+  "cash": 235772.4700836187,
   "positions": {
     "CkmekWmR5hEtT36kNXf7S8zra6mFamqgyJavQ63Cpump": {
       "symbol": "$BYTE",
@@ -11,31 +11,31 @@
       "entry_time": "2026-10-04T22:21:10+00:00",
       "missing": 0
     },
-    "Cwq4GPKtes9o4sZPmMxHZPMuRxUPmsKGQBC6KbrFpump": {
-      "symbol": "SHIBO",
-      "qty": 2832221.6685018633,
-      "entry_price": 1.747744555113993e-05,
-      "last_price": 1.687878805554104e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-04T22:54:29+00:00",
-      "missing": 0
-    },
-    "DqdXT8owJimNgPL84cqhtuo5CHSdNBXXkyvYeYKpump": {
+    "AWNx5kbjkQhmBHTm6wGfNrikNXbYCyAQfGmphvYbpump": {
       "symbol": "PSTR",
-      "qty": 998840.86734796,
-      "entry_price": 4.955744365108761e-05,
-      "last_price": 4.800183045352752e-05,
+      "qty": 1000916.3522720764,
+      "entry_price": 4.945468208970228e-05,
+      "last_price": 4.7901988196828844e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T22:54:29+00:00",
+      "entry_time": "2026-10-04T23:11:55+00:00",
       "missing": 0
     },
-    "EtEmx611BVmakyzQXhkBG62K94EmdpUmJSixYCdgpump": {
-      "symbol": "MECHAZILLA",
-      "qty": 1330447.024984469,
-      "entry_price": 3.720553999553484e-05,
-      "last_price": 3.600874416714414e-05,
+    "CSFcnhFS5qxuHTsjiuPFUswtzGGnyRCM9dF7WvxMpump": {
+      "symbol": "CLOUT",
+      "qty": 6026899.975263757,
+      "entry_price": 8.213177620860336e-06,
+      "last_price": 7.899205814200179e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-04T22:54:29+00:00",
+      "entry_time": "2026-10-04T23:11:55+00:00",
+      "missing": 0
+    },
+    "7jXpuNLyxAfVWS5x4Za6bjqBwnrz22iR7aQCSeLLpump": {
+      "symbol": "AlterLife",
+      "qty": 741203.5506774342,
+      "entry_price": 6.678327425004741e-05,
+      "last_price": 6.4689592472512e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-04T23:11:55+00:00",
       "missing": 0
     }
   },
@@ -413,6 +413,60 @@
       "address": "EtEmx611BVmakyzQXhkBG62K94EmdpUmJSixYCdgpump",
       "price": 3.720553999553484e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T23:11:55+00:00",
+      "side": "sell",
+      "symbol": "SHIBO",
+      "address": "Cwq4GPKtes9o4sZPmMxHZPMuRxUPmsKGQBC6KbrFpump",
+      "price": 2.087926633e-05,
+      "proceeds": 56.07,
+      "pnl_usd": 6.07,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-04T23:11:55+00:00",
+      "side": "sell",
+      "symbol": "PSTR",
+      "address": "DqdXT8owJimNgPL84cqhtuo5CHSdNBXXkyvYeYKpump",
+      "price": 0.0006067629202,
+      "proceeds": 300.0,
+      "pnl_usd": 250.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T23:11:55+00:00",
+      "side": "sell",
+      "symbol": "MECHAZILLA",
+      "address": "EtEmx611BVmakyzQXhkBG62K94EmdpUmJSixYCdgpump",
+      "price": 2.400372022e-06,
+      "proceeds": 3.05,
+      "pnl_usd": -46.95,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-04T23:11:55+00:00",
+      "side": "buy",
+      "symbol": "PSTR",
+      "address": "AWNx5kbjkQhmBHTm6wGfNrikNXbYCyAQfGmphvYbpump",
+      "price": 4.945468208970228e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T23:11:55+00:00",
+      "side": "buy",
+      "symbol": "CLOUT",
+      "address": "CSFcnhFS5qxuHTsjiuPFUswtzGGnyRCM9dF7WvxMpump",
+      "price": 8.213177620860336e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-04T23:11:55+00:00",
+      "side": "buy",
+      "symbol": "AlterLife",
+      "address": "7jXpuNLyxAfVWS5x4Za6bjqBwnrz22iR7aQCSeLLpump",
+      "price": 6.678327425004741e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -463,6 +517,10 @@
     {
       "date": "2026-10-04T22:54:29+00:00",
       "equity": 235754.6
+    },
+    {
+      "date": "2026-10-04T23:11:55+00:00",
+      "equity": 235963.57
     }
   ]
 }
