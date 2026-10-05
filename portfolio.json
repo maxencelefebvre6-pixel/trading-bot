@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 640840.0289724235,
+  "cash": 640736.0684111037,
   "positions": {
-    "7B9SKu8P8cJxRV39YgqFpwXSFmqsKUuSHpX1u5Gppump": {
-      "symbol": "34%",
-      "qty": 447741.5539565991,
-      "entry_price": 0.00011055484924858724,
-      "last_price": 0.0001071458198,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T22:54:05+00:00",
-      "missing": 0
-    },
     "HqMTGBfa32sFiwmZeFa1dPGsmbBjxapoto8NUBQspump": {
       "symbol": "STENKS",
       "qty": 2446029.703098711,
       "entry_price": 2.0236876084248598e-05,
-      "last_price": 1.9559402097314826e-05,
+      "last_price": 1.95594021e-05,
       "cost": 50.0,
       "entry_time": "2026-10-05T23:44:43+00:00",
       "missing": 0
@@ -24,9 +15,36 @@
       "symbol": "MIND",
       "qty": 6531156.376994464,
       "entry_price": 7.579056011330589e-06,
-      "last_price": 7.296883470718801e-06,
+      "last_price": 7.296883471e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T23:44:43+00:00",
+      "missing": 0
+    },
+    "DpiKG27BdYaf4heRCdFGbi3g4CVEkQo4Qn4vxKRSpump": {
+      "symbol": "blast",
+      "qty": 1007134.9289542894,
+      "entry_price": 4.9149323071731775e-05,
+      "last_price": 4.760545321487289e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T23:57:06+00:00",
+      "missing": 0
+    },
+    "L4hyHwh1diYkPCUpTnLq9PN91TEEqfqcixv3VEWpump": {
+      "symbol": "NEURALS",
+      "qty": 1002606.8084642825,
+      "entry_price": 4.9371298481226516e-05,
+      "last_price": 4.782088834456179e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T23:57:06+00:00",
+      "missing": 0
+    },
+    "36Qp8N7rAvMyJnYt7H6R19H2Y5KqvMuMWPjnVCL9pump": {
+      "symbol": "PLAGUE",
+      "qty": 1006421.4245407067,
+      "entry_price": 4.9184167579292106e-05,
+      "last_price": 4.7639393557722126e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T23:57:06+00:00",
       "missing": 0
     }
   },
@@ -2610,6 +2628,40 @@
       "address": "8bDBj8hcVGKK21SzCAScpJnRKNFfXkxCvjiiEKdCpump",
       "price": 7.579056011330589e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T23:57:06+00:00",
+      "side": "sell",
+      "symbol": "34%",
+      "address": "7B9SKu8P8cJxRV39YgqFpwXSFmqsKUuSHpX1u5Gppump",
+      "price": 0.0001071458198,
+      "proceeds": 46.04,
+      "pnl_usd": -3.96,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T23:57:06+00:00",
+      "side": "buy",
+      "symbol": "blast",
+      "address": "DpiKG27BdYaf4heRCdFGbi3g4CVEkQo4Qn4vxKRSpump",
+      "price": 4.9149323071731775e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T23:57:06+00:00",
+      "side": "buy",
+      "symbol": "NEURALS",
+      "address": "L4hyHwh1diYkPCUpTnLq9PN91TEEqfqcixv3VEWpump",
+      "price": 4.9371298481226516e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T23:57:06+00:00",
+      "side": "buy",
+      "symbol": "PLAGUE",
+      "address": "36Qp8N7rAvMyJnYt7H6R19H2Y5KqvMuMWPjnVCL9pump",
+      "price": 4.9184167579292106e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2900,6 +2952,10 @@
     {
       "date": "2026-10-05T23:44:43+00:00",
       "equity": 640983.5
+    },
+    {
+      "date": "2026-10-05T23:57:06+00:00",
+      "equity": 640975.4
     }
   ]
 }
