@@ -1,14 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 641368.1122162541,
+  "cash": 641370.3112842249,
   "positions": {
-    "EddkLepEPdgGMdPoGHNd1V9JbwCT8PXZNQHVGUynpump": {
-      "symbol": "SOTTO",
-      "qty": 781013.7591294708,
-      "entry_price": 6.337916511890061e-05,
-      "last_price": 6.139526419856501e-05,
+    "Exday3DFohJpzT6uFwwXycyXivMQhJ76f1pU8G1bpump": {
+      "symbol": "SCOMB",
+      "qty": 6427089.363674543,
+      "entry_price": 7.701775593750185e-06,
+      "last_price": 7.4059712094339765e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-05T18:01:34+00:00",
+      "entry_time": "2026-10-05T18:29:03+00:00",
       "missing": 0
     }
   },
@@ -2306,6 +2306,24 @@
       "address": "EddkLepEPdgGMdPoGHNd1V9JbwCT8PXZNQHVGUynpump",
       "price": 6.337916511890061e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T18:29:03+00:00",
+      "side": "sell",
+      "symbol": "SOTTO",
+      "address": "EddkLepEPdgGMdPoGHNd1V9JbwCT8PXZNQHVGUynpump",
+      "price": 6.992402933e-05,
+      "proceeds": 52.2,
+      "pnl_usd": 2.2,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T18:29:03+00:00",
+      "side": "buy",
+      "symbol": "SCOMB",
+      "address": "Exday3DFohJpzT6uFwwXycyXivMQhJ76f1pU8G1bpump",
+      "price": 7.701775593750185e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2552,6 +2570,10 @@
     {
       "date": "2026-10-05T18:01:34+00:00",
       "equity": 641416.06
+    },
+    {
+      "date": "2026-10-05T18:29:03+00:00",
+      "equity": 641417.91
     }
   ]
 }
