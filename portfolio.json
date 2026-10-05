@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 314565.3293651245,
+  "cash": 314515.3293651245,
   "positions": {
     "2U5wn1ZvpyW2To9XxzU5VhtfggWFcXiLNeYa3YPXpump": {
       "symbol": "EMZ",
       "qty": 5268122.67039718,
       "entry_price": 9.396136555086718e-06,
-      "last_price": 9.060680045294756e-06,
+      "last_price": 9.111583223e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T03:43:16+00:00",
       "missing": 0
@@ -15,9 +15,18 @@
       "symbol": "OTTER",
       "qty": 2001719.4565961417,
       "entry_price": 2.472874000244426e-05,
-      "last_price": 2.394674812313815e-05,
+      "last_price": 2.394871704e-05,
       "cost": 50.0,
       "entry_time": "2026-10-05T03:43:16+00:00",
+      "missing": 0
+    },
+    "FdR9Wdrq8FHjffwYZPNgmEko5P9c5ZRhFHEbN4yCpump": {
+      "symbol": "SI",
+      "qty": 2006583.639884407,
+      "entry_price": 2.4668794769427874e-05,
+      "last_price": 2.381267094566701e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T04:04:15+00:00",
       "missing": 0
     }
   },
@@ -955,6 +964,14 @@
       "address": "aDAhGaCgH39inGh44MFPYw71ouHRT5hbkVCfUTgpump",
       "price": 2.472874000244426e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T04:04:15+00:00",
+      "side": "buy",
+      "symbol": "SI",
+      "address": "FdR9Wdrq8FHjffwYZPNgmEko5P9c5ZRhFHEbN4yCpump",
+      "price": 2.4668794769427874e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1053,6 +1070,10 @@
     {
       "date": "2026-10-05T03:43:16+00:00",
       "equity": 314661.0
+    },
+    {
+      "date": "2026-10-05T04:04:15+00:00",
+      "equity": 314659.05
     }
   ]
 }
