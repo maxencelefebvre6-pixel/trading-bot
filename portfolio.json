@@ -1,32 +1,41 @@
 {
   "mode": "pumpfun",
-  "cash": 552272.445680479,
+  "cash": 552167.8529053805,
   "positions": {
     "Cy53sukGJC38KQ5DEQ24Ajcq6BsjJ3ysJZR6gQFdpump": {
       "symbol": "COLECTODEL",
       "qty": 14026388.086304381,
       "entry_price": 3.529062485325976e-06,
-      "last_price": 3.402920004e-06,
+      "last_price": 3.372650687e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T09:07:17+00:00",
       "missing": 0
     },
-    "DuRjAgju4uA2N439tzQ7A1zeDJgRYpMntDfXEAnapump": {
+    "3RTTFWoMZ5BYVEy8qrAVJCaQHWQWRq6xKuGQzWV1pump": {
       "symbol": "BACKERS",
-      "qty": 998865.0914257233,
-      "entry_price": 4.955624180373198e-05,
-      "last_price": 4.800013481575197e-05,
+      "qty": 2032.007525897906,
+      "entry_price": 0.024360145998045396,
+      "last_price": 0.02359491005719567,
       "cost": 50.0,
-      "entry_time": "2026-10-05T09:33:34+00:00",
+      "entry_time": "2026-10-05T09:54:05+00:00",
       "missing": 0
     },
-    "2MocN1TYiTxmj6W8pQ4eks6CdmTRXzWLdYMSCh9Ppump": {
-      "symbol": "FEODOR",
-      "qty": 5538013.539433909,
-      "entry_price": 8.938223001357965e-06,
-      "last_price": 8.601690061099682e-06,
+    "9uKRVK31eVdTKtFkyBq19KByGy817pPwdT51hDnQpump": {
+      "symbol": "Spread",
+      "qty": 1001556.2209724818,
+      "entry_price": 4.9423086755865734e-05,
+      "last_price": 4.787101838353098e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T09:33:34+00:00",
+      "entry_time": "2026-10-05T09:54:05+00:00",
+      "missing": 0
+    },
+    "3Y7Wb5Y1sTkv69S9iu6e132shxMQxeySXiFWkr38pump": {
+      "symbol": "nibble",
+      "qty": 3072964.6086200387,
+      "entry_price": 1.610822326464369e-05,
+      "last_price": 1.5544663287045957e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T09:54:05+00:00",
       "missing": 0
     }
   },
@@ -1566,6 +1575,50 @@
       "address": "2MocN1TYiTxmj6W8pQ4eks6CdmTRXzWLdYMSCh9Ppump",
       "price": 8.938223001357965e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T09:54:05+00:00",
+      "side": "sell",
+      "symbol": "BACKERS",
+      "address": "DuRjAgju4uA2N439tzQ7A1zeDJgRYpMntDfXEAnapump",
+      "price": 5.580906556e-05,
+      "proceeds": 27.59,
+      "pnl_usd": -22.41,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T09:54:05+00:00",
+      "side": "sell",
+      "symbol": "FEODOR",
+      "address": "2MocN1TYiTxmj6W8pQ4eks6CdmTRXzWLdYMSCh9Ppump",
+      "price": 3.373520062e-06,
+      "proceeds": 17.81,
+      "pnl_usd": -32.19,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T09:54:05+00:00",
+      "side": "buy",
+      "symbol": "BACKERS",
+      "address": "3RTTFWoMZ5BYVEy8qrAVJCaQHWQWRq6xKuGQzWV1pump",
+      "price": 0.024360145998045396,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T09:54:05+00:00",
+      "side": "buy",
+      "symbol": "Spread",
+      "address": "9uKRVK31eVdTKtFkyBq19KByGy817pPwdT51hDnQpump",
+      "price": 4.9423086755865734e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T09:54:05+00:00",
+      "side": "buy",
+      "symbol": "nibble",
+      "address": "3Y7Wb5Y1sTkv69S9iu6e132shxMQxeySXiFWkr38pump",
+      "price": 1.610822326464369e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1720,6 +1773,10 @@
     {
       "date": "2026-10-05T09:33:34+00:00",
       "equity": 552415.76
+    },
+    {
+      "date": "2026-10-05T09:54:05+00:00",
+      "equity": 552358.82
     }
   ]
 }
