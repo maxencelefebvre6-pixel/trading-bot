@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 551942.1306786899,
+  "cash": 552334.7388898629,
   "positions": {
     "EbhgQrAnWuSHBEfZZzqiX9stY7GdcVyLvHmERxfYpump": {
       "symbol": "SPACEX CO",
@@ -11,31 +11,22 @@
       "entry_time": "2026-10-05T08:00:09+00:00",
       "missing": 0
     },
-    "2QswRc9eWkx1YeQMCr7G1kZiL9EXQRyegzufVUm4pump": {
+    "DxCHaGbwSFWe8NVNtZ4THdWogovVqk71xVazAnn5pump": {
       "symbol": "BACKERS",
-      "qty": 981200.319129975,
-      "entry_price": 5.044841408520065e-05,
-      "last_price": 4.886591032750166e-05,
+      "qty": 994603.8190808629,
+      "entry_price": 4.976856015467961e-05,
+      "last_price": 4.8205779557772606e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T08:25:56+00:00",
+      "entry_time": "2026-10-05T08:49:51+00:00",
       "missing": 0
     },
-    "5w8HxWS4tQUKAxBYMzuM4NTjw43mcLdJKBpUeG3tpump": {
-      "symbol": "Instinct",
-      "qty": 990871.9802724629,
-      "entry_price": 4.9955999347553297e-05,
-      "last_price": 4.838824667826514e-05,
+    "2K1EbGjsnTSygbfJgy8nSZK4Kv9GS6kSN352A5Kppump": {
+      "symbol": "Familiar",
+      "qty": 1934270.9671433487,
+      "entry_price": 2.5591037057804094e-05,
+      "last_price": 2.4717644020549266e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T08:25:56+00:00",
-      "missing": 0
-    },
-    "JAs3uypfFHjeWuqcj9ZuUrXYH7yaGEZThNFVaYrxpump": {
-      "symbol": "Jdog",
-      "qty": 999948.4629391399,
-      "entry_price": 4.9502551215994745e-05,
-      "last_price": 4.7948655674778586e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T08:25:56+00:00",
+      "entry_time": "2026-10-05T08:49:51+00:00",
       "missing": 0
     }
   },
@@ -1457,6 +1448,52 @@
       "address": "JAs3uypfFHjeWuqcj9ZuUrXYH7yaGEZThNFVaYrxpump",
       "price": 4.9502551215994745e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T08:49:51+00:00",
+      "side": "sell",
+      "symbol": "BACKERS",
+      "address": "2QswRc9eWkx1YeQMCr7G1kZiL9EXQRyegzufVUm4pump",
+      "price": 6.677873889e-05,
+      "proceeds": 32.43,
+      "pnl_usd": -17.57,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T08:49:51+00:00",
+      "side": "sell",
+      "symbol": "Instinct",
+      "address": "5w8HxWS4tQUKAxBYMzuM4NTjw43mcLdJKBpUeG3tpump",
+      "price": 0.0004257807306,
+      "proceeds": 208.84,
+      "pnl_usd": 158.84,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T08:49:51+00:00",
+      "side": "sell",
+      "symbol": "Jdog",
+      "address": "JAs3uypfFHjeWuqcj9ZuUrXYH7yaGEZThNFVaYrxpump",
+      "price": 0.0005077767571,
+      "proceeds": 251.34,
+      "pnl_usd": 201.34,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T08:49:51+00:00",
+      "side": "buy",
+      "symbol": "BACKERS",
+      "address": "DxCHaGbwSFWe8NVNtZ4THdWogovVqk71xVazAnn5pump",
+      "price": 4.976856015467961e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T08:49:51+00:00",
+      "side": "buy",
+      "symbol": "Familiar",
+      "address": "2K1EbGjsnTSygbfJgy8nSZK4Kv9GS6kSN352A5Kppump",
+      "price": 2.5591037057804094e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1599,6 +1636,10 @@
     {
       "date": "2026-10-05T08:25:56+00:00",
       "equity": 552133.81
+    },
+    {
+      "date": "2026-10-05T08:49:51+00:00",
+      "equity": 552478.34
     }
   ]
 }
