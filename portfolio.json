@@ -1,23 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 567554.7479522886,
+  "cash": 641481.723205441,
   "positions": {
-    "2jmVwgeTUqXwXRpXnuyqQSPF1ipgmidfHfPUfGwupump": {
-      "symbol": "Netrun",
-      "qty": 1008591.0158577334,
-      "entry_price": 4.907836697107979e-05,
-      "last_price": 4.753603985905142e-05,
+    "C3ssfY1cDz9eBkuPGW73K5ryYMsu7E4zfVLzPQa9pump": {
+      "symbol": "memesoncrt",
+      "qty": 714000.3264090283,
+      "entry_price": 6.932769939889777e-05,
+      "last_price": 6.714827950921908e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T17:02:06+00:00",
+      "entry_time": "2026-10-05T17:23:41+00:00",
       "missing": 0
     },
-    "7UWeQ2SxjE2GcRrmd8DBd4DQEbyg82FpY9Ag9eQepump": {
-      "symbol": "1010",
-      "qty": 4041875.681256582,
-      "entry_price": 1.2246789338313073e-05,
-      "last_price": 1.1804015565090648e-05,
+    "CiL6PcWvJEiBL2Qxg1VHoLNvdTTNLmLZZJNmibeapump": {
+      "symbol": "kfc",
+      "qty": 2219584.8107464225,
+      "entry_price": 2.2301468166631437e-05,
+      "last_price": 2.1529962058358007e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T17:02:06+00:00",
+      "entry_time": "2026-10-05T17:23:41+00:00",
       "missing": 0
     }
   },
@@ -2215,6 +2215,42 @@
       "address": "7UWeQ2SxjE2GcRrmd8DBd4DQEbyg82FpY9Ag9eQepump",
       "price": 1.2246789338313073e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T17:23:41+00:00",
+      "side": "sell",
+      "symbol": "Netrun",
+      "address": "2jmVwgeTUqXwXRpXnuyqQSPF1ipgmidfHfPUfGwupump",
+      "price": 0.1482480268,
+      "proceeds": 74013.21,
+      "pnl_usd": 73963.21,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T17:23:41+00:00",
+      "side": "sell",
+      "symbol": "1010",
+      "address": "7UWeQ2SxjE2GcRrmd8DBd4DQEbyg82FpY9Ag9eQepump",
+      "price": 3.567135781e-06,
+      "proceeds": 13.77,
+      "pnl_usd": -36.23,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T17:23:41+00:00",
+      "side": "buy",
+      "symbol": "memesoncrt",
+      "address": "C3ssfY1cDz9eBkuPGW73K5ryYMsu7E4zfVLzPQa9pump",
+      "price": 6.932769939889777e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T17:23:41+00:00",
+      "side": "buy",
+      "symbol": "kfc",
+      "address": "CiL6PcWvJEiBL2Qxg1VHoLNvdTTNLmLZZJNmibeapump",
+      "price": 2.2301468166631437e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2449,6 +2485,10 @@
     {
       "date": "2026-10-05T17:02:06+00:00",
       "equity": 567650.4
+    },
+    {
+      "date": "2026-10-05T17:23:41+00:00",
+      "equity": 641577.45
     }
   ]
 }
