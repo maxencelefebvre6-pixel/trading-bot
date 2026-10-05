@@ -1,14 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 552420.2436721256,
+  "cash": 552457.4039497646,
   "positions": {
-    "7daR2AKfpCruUvwQHH1jfJdyVP7VVegemQzTMJTspump": {
-      "symbol": "DJT",
-      "qty": 996314.1250980019,
-      "entry_price": 4.9683125786388865e-05,
-      "last_price": 4.812318712482638e-05,
+    "FZnLCBKHPaAL1mi9Jqj41fHj1cFLy5MLaiafq5Wspump": {
+      "symbol": "BROKEN",
+      "qty": 820095.0862807536,
+      "entry_price": 6.035885451343143e-05,
+      "last_price": 5.846070369339788e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T10:38:28+00:00",
+      "entry_time": "2026-10-05T10:57:33+00:00",
       "missing": 0
     }
   },
@@ -1640,6 +1640,24 @@
       "address": "7daR2AKfpCruUvwQHH1jfJdyVP7VVegemQzTMJTspump",
       "price": 4.9683125786388865e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T10:57:33+00:00",
+      "side": "sell",
+      "symbol": "DJT",
+      "address": "7daR2AKfpCruUvwQHH1jfJdyVP7VVegemQzTMJTspump",
+      "price": 0.0001767327839,
+      "proceeds": 87.16,
+      "pnl_usd": 37.16,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T10:57:33+00:00",
+      "side": "buy",
+      "symbol": "BROKEN",
+      "address": "FZnLCBKHPaAL1mi9Jqj41fHj1cFLy5MLaiafq5Wspump",
+      "price": 6.035885451343143e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1806,6 +1824,10 @@
     {
       "date": "2026-10-05T10:38:28+00:00",
       "equity": 552468.19
+    },
+    {
+      "date": "2026-10-05T10:57:33+00:00",
+      "equity": 552505.35
     }
   ]
 }
