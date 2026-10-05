@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 552053.9531776743,
+  "cash": 552011.8667417668,
   "positions": {
     "82wUr948pKQBajLCCMtu5bYSG5qq2A4X32s4rKzopump": {
       "symbol": "$BANX",
@@ -11,31 +11,31 @@
       "entry_time": "2026-10-05T07:18:40+00:00",
       "missing": 0
     },
-    "FF6iud4J472ckSsWRzT89wydQspFJquhzdno2ebkpump": {
-      "symbol": "Auton",
-      "qty": 999921.82470604,
-      "entry_price": 4.950386997958781e-05,
-      "last_price": 4.7949905446683265e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T07:41:21+00:00",
-      "missing": 0
-    },
-    "CgqZdiSMUu6XLTRxQugtqPXbSx7sp8Mq8ptG12GJpump": {
-      "symbol": "Auton",
-      "qty": 1160106.6177026862,
-      "entry_price": 4.266849205465521e-05,
-      "last_price": 4.130584930173375e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T07:41:21+00:00",
-      "missing": 0
-    },
     "3JuKpRqoptXyE9Js91JU5a3SkaDgTHMvD35CAPfipump": {
       "symbol": "CRANKER",
       "qty": 2219439.582775746,
       "entry_price": 2.2302927452565635e-05,
-      "last_price": 2.1533281882224524e-05,
+      "last_price": 2.418347121e-05,
       "cost": 50.0,
       "entry_time": "2026-10-05T07:41:21+00:00",
+      "missing": 0
+    },
+    "FT6j5wSX3LZYDxqaBHhWv75TxPD6xDWtdgPuMu4Rpump": {
+      "symbol": "DECEL",
+      "qty": 3585219.8446131092,
+      "entry_price": 1.3806684707041077e-05,
+      "last_price": 1.332384117084496e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T08:00:09+00:00",
+      "missing": 0
+    },
+    "EbhgQrAnWuSHBEfZZzqiX9stY7GdcVyLvHmERxfYpump": {
+      "symbol": "SPACEX CO",
+      "qty": 3514154.403546395,
+      "entry_price": 1.408589217082945e-05,
+      "last_price": 1.3613775004846929e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T08:00:09+00:00",
       "missing": 0
     }
   },
@@ -1367,6 +1367,42 @@
       "address": "3JuKpRqoptXyE9Js91JU5a3SkaDgTHMvD35CAPfipump",
       "price": 2.2302927452565635e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T08:00:09+00:00",
+      "side": "sell",
+      "symbol": "Auton",
+      "address": "FF6iud4J472ckSsWRzT89wydQspFJquhzdno2ebkpump",
+      "price": 5.691427214e-05,
+      "proceeds": 28.17,
+      "pnl_usd": -21.83,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T08:00:09+00:00",
+      "side": "sell",
+      "symbol": "Auton",
+      "address": "CgqZdiSMUu6XLTRxQugtqPXbSx7sp8Mq8ptG12GJpump",
+      "price": 2.681703155e-05,
+      "proceeds": 29.74,
+      "pnl_usd": -20.26,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T08:00:09+00:00",
+      "side": "buy",
+      "symbol": "DECEL",
+      "address": "FT6j5wSX3LZYDxqaBHhWv75TxPD6xDWtdgPuMu4Rpump",
+      "price": 1.3806684707041077e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T08:00:09+00:00",
+      "side": "buy",
+      "symbol": "SPACEX CO",
+      "address": "EbhgQrAnWuSHBEfZZzqiX9stY7GdcVyLvHmERxfYpump",
+      "price": 1.408589217082945e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1501,6 +1537,10 @@
     {
       "date": "2026-10-05T07:41:21+00:00",
       "equity": 552245.35
+    },
+    {
+      "date": "2026-10-05T08:00:09+00:00",
+      "equity": 552208.89
     }
   ]
 }
