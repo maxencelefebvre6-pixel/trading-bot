@@ -1,7 +1,17 @@
 {
   "mode": "pumpfun",
-  "cash": 552470.2436721256,
-  "positions": {},
+  "cash": 552420.2436721256,
+  "positions": {
+    "7daR2AKfpCruUvwQHH1jfJdyVP7VVegemQzTMJTspump": {
+      "symbol": "DJT",
+      "qty": 996314.1250980019,
+      "entry_price": 4.9683125786388865e-05,
+      "last_price": 4.812318712482638e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T10:38:28+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -1622,6 +1632,14 @@
       "proceeds": 7.65,
       "pnl_usd": -42.35,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T10:38:28+00:00",
+      "side": "buy",
+      "symbol": "DJT",
+      "address": "7daR2AKfpCruUvwQHH1jfJdyVP7VVegemQzTMJTspump",
+      "price": 4.9683125786388865e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1784,6 +1802,10 @@
     {
       "date": "2026-10-05T10:15:55+00:00",
       "equity": 552470.24
+    },
+    {
+      "date": "2026-10-05T10:38:28+00:00",
+      "equity": 552468.19
     }
   ]
 }
