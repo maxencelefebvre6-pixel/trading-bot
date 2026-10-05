@@ -1,14 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 641341.7138663495,
+  "cash": 641309.4684178049,
   "positions": {
-    "7Wc2wGoptxcGc1jw9uX6wzLo23cxAKtvT2FwmULGpump": {
-      "symbol": "Auton",
-      "qty": 3651079.9480015542,
-      "entry_price": 1.3557632455321663e-05,
-      "last_price": 1.3071915448287061e-05,
+    "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump": {
+      "symbol": "CKPE",
+      "qty": 4591278.719155607,
+      "entry_price": 1.0781310181296e-05,
+      "last_price": 1.0384816447611847e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T18:54:29+00:00",
+      "entry_time": "2026-10-05T21:32:09+00:00",
       "missing": 0
     }
   },
@@ -2342,6 +2342,24 @@
       "address": "7Wc2wGoptxcGc1jw9uX6wzLo23cxAKtvT2FwmULGpump",
       "price": 1.3557632455321663e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T21:32:09+00:00",
+      "side": "sell",
+      "symbol": "Auton",
+      "address": "7Wc2wGoptxcGc1jw9uX6wzLo23cxAKtvT2FwmULGpump",
+      "price": 5.096263113e-06,
+      "proceeds": 17.75,
+      "pnl_usd": -32.25,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T21:32:09+00:00",
+      "side": "buy",
+      "symbol": "CKPE",
+      "address": "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump",
+      "price": 1.0781310181296e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2596,6 +2614,10 @@
     {
       "date": "2026-10-05T18:54:29+00:00",
       "equity": 641389.44
+    },
+    {
+      "date": "2026-10-05T21:32:09+00:00",
+      "equity": 641357.15
     }
   ]
 }
