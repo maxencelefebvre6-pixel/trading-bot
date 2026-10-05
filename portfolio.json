@@ -1,14 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 552457.4039497646,
+  "cash": 552409.5477323248,
   "positions": {
-    "FZnLCBKHPaAL1mi9Jqj41fHj1cFLy5MLaiafq5Wspump": {
-      "symbol": "BROKEN",
-      "qty": 820095.0862807536,
-      "entry_price": 6.035885451343143e-05,
-      "last_price": 5.846070369339788e-05,
+    "9aQwx5QQSpvrntr7EvHqRNbAqKrLUd9WaiqHGZoppump": {
+      "symbol": "ANY",
+      "qty": 1242035.4702163287,
+      "entry_price": 3.985393427723803e-05,
+      "last_price": 3.848233481503544e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T10:57:33+00:00",
+      "entry_time": "2026-10-05T11:20:49+00:00",
       "missing": 0
     }
   },
@@ -1658,6 +1658,24 @@
       "address": "FZnLCBKHPaAL1mi9Jqj41fHj1cFLy5MLaiafq5Wspump",
       "price": 6.035885451343143e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T11:20:49+00:00",
+      "side": "sell",
+      "symbol": "BROKEN",
+      "address": "FZnLCBKHPaAL1mi9Jqj41fHj1cFLy5MLaiafq5Wspump",
+      "price": 2.727153177e-06,
+      "proceeds": 2.14,
+      "pnl_usd": -47.86,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T11:20:49+00:00",
+      "side": "buy",
+      "symbol": "ANY",
+      "address": "9aQwx5QQSpvrntr7EvHqRNbAqKrLUd9WaiqHGZoppump",
+      "price": 3.985393427723803e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1828,6 +1846,10 @@
     {
       "date": "2026-10-05T10:57:33+00:00",
       "equity": 552505.35
+    },
+    {
+      "date": "2026-10-05T11:20:49+00:00",
+      "equity": 552457.34
     }
   ]
 }
