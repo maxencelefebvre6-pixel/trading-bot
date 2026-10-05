@@ -1,14 +1,41 @@
 {
   "mode": "pumpfun",
-  "cash": 314726.1098128669,
+  "cash": 314576.1098128669,
   "positions": {
     "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump": {
       "symbol": "CBC",
       "qty": 2670848.5111081805,
       "entry_price": 1.853343602009895e-05,
-      "last_price": 1.7927479598292862e-05,
+      "last_price": 1.79274796e-05,
       "cost": 50.0,
       "entry_time": "2026-10-05T00:57:12+00:00",
+      "missing": 0
+    },
+    "E4WP92DBEdG7DZsUdgiVVJp2QsiaJVu8uksGprL3pump": {
+      "symbol": "Human",
+      "qty": 994224.531029853,
+      "entry_price": 4.9787546429503346e-05,
+      "last_price": 4.8224673221241474e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T01:38:18+00:00",
+      "missing": 0
+    },
+    "Fi2XVksbR7Uih8VqRU8ZsTuTKSBzVUoJKAFquwRUpump": {
+      "symbol": "Human",
+      "qty": 1003441.1181618627,
+      "entry_price": 4.933024878497681e-05,
+      "last_price": 4.7781320351896854e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T01:38:18+00:00",
+      "missing": 0
+    },
+    "73fLRXxYYy6LG7u2YFMyfdMbcxF4zBwtvLhZBEv4pump": {
+      "symbol": "ai",
+      "qty": 1100894.4844155353,
+      "entry_price": 4.4963437187424496e-05,
+      "last_price": 4.3407758724848905e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T01:38:18+00:00",
       "missing": 0
     }
   },
@@ -686,6 +713,30 @@
       "address": "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump",
       "price": 1.853343602009895e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T01:38:18+00:00",
+      "side": "buy",
+      "symbol": "Human",
+      "address": "E4WP92DBEdG7DZsUdgiVVJp2QsiaJVu8uksGprL3pump",
+      "price": 4.9787546429503346e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T01:38:18+00:00",
+      "side": "buy",
+      "symbol": "Human",
+      "address": "Fi2XVksbR7Uih8VqRU8ZsTuTKSBzVUoJKAFquwRUpump",
+      "price": 4.933024878497681e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T01:38:18+00:00",
+      "side": "buy",
+      "symbol": "ai",
+      "address": "73fLRXxYYy6LG7u2YFMyfdMbcxF4zBwtvLhZBEv4pump",
+      "price": 4.4963437187424496e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -760,6 +811,10 @@
     {
       "date": "2026-10-05T00:57:12+00:00",
       "equity": 314773.99
+    },
+    {
+      "date": "2026-10-05T01:38:18+00:00",
+      "equity": 314767.67
     }
   ]
 }
