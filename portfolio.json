@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 641110.8605511746,
+  "cash": 641122.8720989992,
   "positions": {
     "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump": {
       "symbol": "CKPE",
@@ -9,33 +9,6 @@
       "last_price": 1.039419777e-05,
       "cost": 50.0,
       "entry_time": "2026-10-05T21:32:09+00:00",
-      "missing": 0
-    },
-    "EyZRGobHoi7jXi2yQxgsGBfX6QgLPeywRRcboaiRpump": {
-      "symbol": "ily",
-      "qty": 1941084.7412290587,
-      "entry_price": 2.5501205047162198e-05,
-      "last_price": 2.4620165788754685e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T21:58:51+00:00",
-      "missing": 0
-    },
-    "GhbQttett4TjRQAt5hpmR6VWENY2QGZaiUHepfGApump": {
-      "symbol": "noceiling",
-      "qty": 1311287.716495207,
-      "entry_price": 3.774915251421935e-05,
-      "last_price": 3.647441278005381e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T21:58:51+00:00",
-      "missing": 0
-    },
-    "7fKbDN5GxLW2EXd7vj1AbVHHBSzzFtd8GvH9z8Tjpump": {
-      "symbol": "ily",
-      "qty": 1514034.9380516899,
-      "entry_price": 3.2694093614311326e-05,
-      "last_price": 3.157412627919372e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T21:58:51+00:00",
       "missing": 0
     }
   },
@@ -2447,6 +2420,36 @@
       "address": "7fKbDN5GxLW2EXd7vj1AbVHHBSzzFtd8GvH9z8Tjpump",
       "price": 3.2694093614311326e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T22:20:28+00:00",
+      "side": "sell",
+      "symbol": "ily",
+      "address": "EyZRGobHoi7jXi2yQxgsGBfX6QgLPeywRRcboaiRpump",
+      "price": 2.300070501e-06,
+      "proceeds": 4.24,
+      "pnl_usd": -45.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T22:20:28+00:00",
+      "side": "sell",
+      "symbol": "noceiling",
+      "address": "GhbQttett4TjRQAt5hpmR6VWENY2QGZaiUHepfGApump",
+      "price": 2.273168429e-06,
+      "proceeds": 2.84,
+      "pnl_usd": -47.16,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T22:20:28+00:00",
+      "side": "sell",
+      "symbol": "ily",
+      "address": "7fKbDN5GxLW2EXd7vj1AbVHHBSzzFtd8GvH9z8Tjpump",
+      "price": 3.39790952e-06,
+      "proceeds": 4.93,
+      "pnl_usd": -45.07,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -2713,6 +2716,10 @@
     {
       "date": "2026-10-05T21:58:51+00:00",
       "equity": 641302.01
+    },
+    {
+      "date": "2026-10-05T22:20:28+00:00",
+      "equity": 641170.59
     }
   ]
 }
