@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 551820.9483136028,
+  "cash": 551706.4495178721,
   "positions": {
-    "8Rp83nYc44LejgFKSDxLyu9Jk5HgcWXDtG81NvCrpump": {
-      "symbol": "Cadence",
-      "qty": 1004622.5589798242,
-      "entry_price": 4.927223618218005e-05,
-      "last_price": 4.7724560755933576e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T05:34:43+00:00",
-      "missing": 0
-    },
-    "DTzWbZvhfev9tbhdiQ4mKL4i5Kjjq1hj4FYNUFvxpump": {
-      "symbol": "SLM",
-      "qty": 1266102.6563552627,
-      "entry_price": 3.909635585355767e-05,
-      "last_price": 3.784921760701363e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T05:34:43+00:00",
-      "missing": 0
-    },
     "7fPdiXXdeRkpYb9a9BJvg9c4YtHkAX7itWyhRcthpump": {
       "symbol": "DUEL",
       "qty": 5590473.343516219,
       "entry_price": 8.854348631750414e-06,
-      "last_price": 8.521417410648855e-06,
+      "last_price": 9.320529955e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T05:34:43+00:00",
       "missing": 0
@@ -33,9 +15,36 @@
       "symbol": "$BULLY",
       "qty": 6568525.661165337,
       "entry_price": 7.535937675124815e-06,
-      "last_price": 7.255085491088181e-06,
+      "last_price": 7.255085491e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T05:34:43+00:00",
+      "missing": 0
+    },
+    "pUuEmX3Uex66fhwboHo9gBoyMMYG3LdZpBNGhLvpump": {
+      "symbol": "IOF",
+      "qty": 5092.985319036537,
+      "entry_price": 0.009719250478688626,
+      "last_price": 0.009434538017759606,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T05:54:51+00:00",
+      "missing": 0
+    },
+    "Aqv8Gj8MesSzuEsgigq4kEDWVRFHgPUZq4Po4Q1Mpump": {
+      "symbol": "SM",
+      "qty": 704683.6540746514,
+      "entry_price": 7.024428580651619e-05,
+      "last_price": 6.805051737046034e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T05:54:51+00:00",
+      "missing": 0
+    },
+    "2qVjSJvGQ4Huf9ZsEJsF2AX1DKfvZ34bkndgK7Y2pump": {
+      "symbol": "DELL",
+      "qty": 120531.6276474049,
+      "entry_price": 0.00041068059036590765,
+      "last_price": 0.0003983747218055575,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T05:54:51+00:00",
       "missing": 0
     }
   },
@@ -1151,6 +1160,50 @@
       "address": "5sQPh163AGYmoQ1addcr2A5wCNTJZFZz9Gmbo42npump",
       "price": 7.535937675124815e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T05:54:51+00:00",
+      "side": "sell",
+      "symbol": "Cadence",
+      "address": "8Rp83nYc44LejgFKSDxLyu9Jk5HgcWXDtG81NvCrpump",
+      "price": 6.176222628e-05,
+      "proceeds": 30.71,
+      "pnl_usd": -19.29,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T05:54:51+00:00",
+      "side": "sell",
+      "symbol": "SLM",
+      "address": "DTzWbZvhfev9tbhdiQ4mKL4i5Kjjq1hj4FYNUFvxpump",
+      "price": 3.944657138e-06,
+      "proceeds": 4.79,
+      "pnl_usd": -45.21,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T05:54:51+00:00",
+      "side": "buy",
+      "symbol": "IOF",
+      "address": "pUuEmX3Uex66fhwboHo9gBoyMMYG3LdZpBNGhLvpump",
+      "price": 0.009719250478688626,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T05:54:51+00:00",
+      "side": "buy",
+      "symbol": "SM",
+      "address": "Aqv8Gj8MesSzuEsgigq4kEDWVRFHgPUZq4Po4Q1Mpump",
+      "price": 7.024428580651619e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T05:54:51+00:00",
+      "side": "buy",
+      "symbol": "DELL",
+      "address": "2qVjSJvGQ4Huf9ZsEJsF2AX1DKfvZ34bkndgK7Y2pump",
+      "price": 0.00041068059036590765,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1265,6 +1318,10 @@
     {
       "date": "2026-10-05T05:34:43+00:00",
       "equity": 552012.11
+    },
+    {
+      "date": "2026-10-05T05:54:51+00:00",
+      "equity": 551950.23
     }
   ]
 }
