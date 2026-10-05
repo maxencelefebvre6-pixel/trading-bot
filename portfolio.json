@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 567475.5927221789,
+  "cash": 567423.0700235179,
   "positions": {
     "3eVTqortfqWjwXoxvh5C8TYvfsSrPemsRe3BH7Wtpump": {
       "symbol": "PUMP",
@@ -11,31 +11,31 @@
       "entry_time": "2026-10-05T13:25:00+00:00",
       "missing": 0
     },
-    "5MkrRi4nrJ2hS5sXdFK6ksoVXPTprMhL2G9NNcjBpump": {
-      "symbol": "HOOK",
-      "qty": 4000503.760035439,
-      "entry_price": 1.2373441688644106e-05,
-      "last_price": 1.1922805720583728e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T13:49:07+00:00",
-      "missing": 0
-    },
-    "5BNWdUotJxTUWnn63quZEv3Q4dN57pibr1vzusf8pump": {
-      "symbol": "Gus",
-      "qty": 4860066.299002968,
-      "entry_price": 1.0185046243125289e-05,
-      "last_price": 9.811704072953005e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T13:49:07+00:00",
-      "missing": 0
-    },
     "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump": {
       "symbol": "PALESTINE",
       "qty": 4162628.651713605,
       "entry_price": 1.189152435676015e-05,
-      "last_price": 1.1478821402621443e-05,
+      "last_price": 1.146877274e-05,
       "cost": 50.0,
       "entry_time": "2026-10-05T13:49:07+00:00",
+      "missing": 0
+    },
+    "3PG51QJF37MigcPqYEQWXyWJXeju5Mt9yQesgTbtpump": {
+      "symbol": "catana",
+      "qty": 2726668.9433703236,
+      "entry_price": 1.815401907164244e-05,
+      "last_price": 1.7512241898629878e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T14:06:40+00:00",
+      "missing": 0
+    },
+    "HPwesJWgA6DNjKCMT9y1AxDgQvwhfL6qGvuzPTkEpump": {
+      "symbol": "USDF",
+      "qty": 4887.099569066189,
+      "entry_price": 0.010128707078799766,
+      "last_price": 0.009832031576367554,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T14:06:40+00:00",
       "missing": 0
     }
   },
@@ -1907,6 +1907,42 @@
       "address": "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump",
       "price": 1.189152435676015e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T14:06:40+00:00",
+      "side": "sell",
+      "symbol": "HOOK",
+      "address": "5MkrRi4nrJ2hS5sXdFK6ksoVXPTprMhL2G9NNcjBpump",
+      "price": 8.359869424e-06,
+      "proceeds": 31.78,
+      "pnl_usd": -18.22,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T14:06:40+00:00",
+      "side": "sell",
+      "symbol": "Gus",
+      "address": "5BNWdUotJxTUWnn63quZEv3Q4dN57pibr1vzusf8pump",
+      "price": 3.385865297e-06,
+      "proceeds": 15.7,
+      "pnl_usd": -34.3,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T14:06:40+00:00",
+      "side": "buy",
+      "symbol": "catana",
+      "address": "3PG51QJF37MigcPqYEQWXyWJXeju5Mt9yQesgTbtpump",
+      "price": 1.815401907164244e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T14:06:40+00:00",
+      "side": "buy",
+      "symbol": "USDF",
+      "address": "HPwesJWgA6DNjKCMT9y1AxDgQvwhfL6qGvuzPTkEpump",
+      "price": 0.010128707078799766,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2105,6 +2141,10 @@
     {
       "date": "2026-10-05T13:49:07+00:00",
       "equity": 567666.56
+    },
+    {
+      "date": "2026-10-05T14:06:40+00:00",
+      "equity": 567614.41
     }
   ]
 }
