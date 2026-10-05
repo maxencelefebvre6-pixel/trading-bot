@@ -1,32 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 552334.7388898629,
+  "cash": 552355.6127023079,
   "positions": {
-    "EbhgQrAnWuSHBEfZZzqiX9stY7GdcVyLvHmERxfYpump": {
-      "symbol": "SPACEX CO",
-      "qty": 3514154.403546395,
-      "entry_price": 1.408589217082945e-05,
-      "last_price": 1.3613775e-05,
+    "Fuy2XegkNGxoZbJMRjWD8hvmQAZXRreZ8eXQMb3pump": {
+      "symbol": "MOCHI",
+      "qty": 5212348.113153023,
+      "entry_price": 9.496679601097623e-06,
+      "last_price": 9.139489258860747e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-05T08:00:09+00:00",
+      "entry_time": "2026-10-05T09:07:17+00:00",
       "missing": 0
     },
-    "DxCHaGbwSFWe8NVNtZ4THdWogovVqk71xVazAnn5pump": {
-      "symbol": "BACKERS",
-      "qty": 994603.8190808629,
-      "entry_price": 4.976856015467961e-05,
-      "last_price": 4.8205779557772606e-05,
+    "Cy53sukGJC38KQ5DEQ24Ajcq6BsjJ3ysJZR6gQFdpump": {
+      "symbol": "COLECTODEL",
+      "qty": 14026388.086304381,
+      "entry_price": 3.529062485325976e-06,
+      "last_price": 3.3968312538447574e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-05T08:49:51+00:00",
-      "missing": 0
-    },
-    "2K1EbGjsnTSygbfJgy8nSZK4Kv9GS6kSN352A5Kppump": {
-      "symbol": "Familiar",
-      "qty": 1934270.9671433487,
-      "entry_price": 2.5591037057804094e-05,
-      "last_price": 2.4717644020549266e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T08:49:51+00:00",
+      "entry_time": "2026-10-05T09:07:17+00:00",
       "missing": 0
     }
   },
@@ -1494,6 +1485,52 @@
       "address": "2K1EbGjsnTSygbfJgy8nSZK4Kv9GS6kSN352A5Kppump",
       "price": 2.5591037057804094e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T09:07:17+00:00",
+      "side": "sell",
+      "symbol": "SPACEX CO",
+      "address": "EbhgQrAnWuSHBEfZZzqiX9stY7GdcVyLvHmERxfYpump",
+      "price": 1.3613775e-05,
+      "proceeds": 45.73,
+      "pnl_usd": -4.27,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T09:07:17+00:00",
+      "side": "sell",
+      "symbol": "BACKERS",
+      "address": "DxCHaGbwSFWe8NVNtZ4THdWogovVqk71xVazAnn5pump",
+      "price": 7.241452493e-05,
+      "proceeds": 68.76,
+      "pnl_usd": 18.76,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T09:07:17+00:00",
+      "side": "sell",
+      "symbol": "Familiar",
+      "address": "2K1EbGjsnTSygbfJgy8nSZK4Kv9GS6kSN352A5Kppump",
+      "price": 3.447482062e-06,
+      "proceeds": 6.39,
+      "pnl_usd": -43.61,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T09:07:17+00:00",
+      "side": "buy",
+      "symbol": "MOCHI",
+      "address": "Fuy2XegkNGxoZbJMRjWD8hvmQAZXRreZ8eXQMb3pump",
+      "price": 9.496679601097623e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T09:07:17+00:00",
+      "side": "buy",
+      "symbol": "COLECTODEL",
+      "address": "Cy53sukGJC38KQ5DEQ24Ajcq6BsjJ3ysJZR6gQFdpump",
+      "price": 3.529062485325976e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1640,6 +1677,10 @@
     {
       "date": "2026-10-05T08:49:51+00:00",
       "equity": 552478.34
+    },
+    {
+      "date": "2026-10-05T09:07:17+00:00",
+      "equity": 552450.9
     }
   ]
 }
