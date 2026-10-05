@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 314576.1098128669,
+  "cash": 314438.57380760525,
   "positions": {
     "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump": {
       "symbol": "CBC",
@@ -11,31 +11,49 @@
       "entry_time": "2026-10-05T00:57:12+00:00",
       "missing": 0
     },
-    "E4WP92DBEdG7DZsUdgiVVJp2QsiaJVu8uksGprL3pump": {
-      "symbol": "Human",
-      "qty": 994224.531029853,
-      "entry_price": 4.9787546429503346e-05,
-      "last_price": 4.8224673221241474e-05,
+    "3uYpLn1rmU6uspiXka6Wd2Q5DBpCnStMZqwTwhVNpump": {
+      "symbol": "Attention+",
+      "qty": 999901.5471037346,
+      "entry_price": 4.9504873898214534e-05,
+      "last_price": 4.7950505838019576e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T01:38:18+00:00",
+      "entry_time": "2026-10-05T01:55:34+00:00",
       "missing": 0
     },
-    "Fi2XVksbR7Uih8VqRU8ZsTuTKSBzVUoJKAFquwRUpump": {
-      "symbol": "Human",
-      "qty": 1003441.1181618627,
-      "entry_price": 4.933024878497681e-05,
-      "last_price": 4.7781320351896854e-05,
+    "qgARFoVmTgx5H8v4C73UEtGN5nR4bYJLaVLLzFCpump": {
+      "symbol": "Super Inu",
+      "qty": 107908.06958182337,
+      "entry_price": 0.00045872380250918743,
+      "last_price": 0.00044500128661163475,
       "cost": 50.0,
-      "entry_time": "2026-10-05T01:38:18+00:00",
+      "entry_time": "2026-10-05T01:55:34+00:00",
       "missing": 0
     },
-    "73fLRXxYYy6LG7u2YFMyfdMbcxF4zBwtvLhZBEv4pump": {
-      "symbol": "ai",
-      "qty": 1100894.4844155353,
-      "entry_price": 4.4963437187424496e-05,
-      "last_price": 4.3407758724848905e-05,
+    "CNbSP9iD1PyST7kqzpv6QSwj9owLZzXBVnxuMgnApump": {
+      "symbol": "LOCALER",
+      "qty": 5114433.854356761,
+      "entry_price": 9.678490603184383e-06,
+      "last_price": 9.310861115382441e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-05T01:38:18+00:00",
+      "entry_time": "2026-10-05T01:55:34+00:00",
+      "missing": 0
+    },
+    "3fKaPunaMV8DAxRMoArwV1M1WvQamiHbCCwbBFqjpump": {
+      "symbol": "Allowance",
+      "qty": 2596241.763668276,
+      "entry_price": 1.90660210049393e-05,
+      "last_price": 1.834725730305697e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T01:55:34+00:00",
+      "missing": 0
+    },
+    "97EouEau4KgNJtWpXogTQv3HawaKLa4y3XQXFm4Fpump": {
+      "symbol": "CBC",
+      "qty": 4735273.337528223,
+      "entry_price": 1.0453462022498288e-05,
+      "last_price": 1.0079273961535979e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T01:55:34+00:00",
       "missing": 0
     }
   },
@@ -737,6 +755,76 @@
       "address": "73fLRXxYYy6LG7u2YFMyfdMbcxF4zBwtvLhZBEv4pump",
       "price": 4.4963437187424496e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "side": "sell",
+      "symbol": "Human",
+      "address": "E4WP92DBEdG7DZsUdgiVVJp2QsiaJVu8uksGprL3pump",
+      "price": 6.640440064e-05,
+      "proceeds": 32.68,
+      "pnl_usd": -17.32,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "side": "sell",
+      "symbol": "Human",
+      "address": "Fi2XVksbR7Uih8VqRU8ZsTuTKSBzVUoJKAFquwRUpump",
+      "price": 6.247964818e-05,
+      "proceeds": 31.03,
+      "pnl_usd": -18.97,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "side": "sell",
+      "symbol": "ai",
+      "address": "73fLRXxYYy6LG7u2YFMyfdMbcxF4zBwtvLhZBEv4pump",
+      "price": 4.966482294e-05,
+      "proceeds": 48.75,
+      "pnl_usd": -1.25,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "side": "buy",
+      "symbol": "Attention+",
+      "address": "3uYpLn1rmU6uspiXka6Wd2Q5DBpCnStMZqwTwhVNpump",
+      "price": 4.9504873898214534e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "side": "buy",
+      "symbol": "Super Inu",
+      "address": "qgARFoVmTgx5H8v4C73UEtGN5nR4bYJLaVLLzFCpump",
+      "price": 0.00045872380250918743,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "side": "buy",
+      "symbol": "LOCALER",
+      "address": "CNbSP9iD1PyST7kqzpv6QSwj9owLZzXBVnxuMgnApump",
+      "price": 9.678490603184383e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "side": "buy",
+      "symbol": "Allowance",
+      "address": "3fKaPunaMV8DAxRMoArwV1M1WvQamiHbCCwbBFqjpump",
+      "price": 1.90660210049393e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "side": "buy",
+      "symbol": "CBC",
+      "address": "97EouEau4KgNJtWpXogTQv3HawaKLa4y3XQXFm4Fpump",
+      "price": 1.0453462022498288e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -815,6 +903,10 @@
     {
       "date": "2026-10-05T01:38:18+00:00",
       "equity": 314767.67
+    },
+    {
+      "date": "2026-10-05T01:55:34+00:00",
+      "equity": 314725.4
     }
   ]
 }
