@@ -1,14 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 641309.4684178049,
+  "cash": 641209.4684178049,
   "positions": {
     "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump": {
       "symbol": "CKPE",
       "qty": 4591278.719155607,
       "entry_price": 1.0781310181296e-05,
-      "last_price": 1.0384816447611847e-05,
+      "last_price": 1.039419777e-05,
       "cost": 50.0,
       "entry_time": "2026-10-05T21:32:09+00:00",
+      "missing": 0
+    },
+    "7yHUCnZkPEzgCr7rSq7dwoBtrAT9iDyXgc1NiQeQpump": {
+      "symbol": "Quants",
+      "qty": 3892225.403958973,
+      "entry_price": 1.271766017190349e-05,
+      "last_price": 1.2260738894007653e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T21:41:47+00:00",
+      "missing": 0
+    },
+    "EtbsgMyLMWi2WSweFSLxUChtYJesSMPC7Qf67p24pump": {
+      "symbol": "NHTL",
+      "qty": 12091841.841327123,
+      "entry_price": 4.0936691572346265e-06,
+      "last_price": 3.940019228315923e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T21:41:47+00:00",
       "missing": 0
     }
   },
@@ -2360,6 +2378,22 @@
       "address": "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump",
       "price": 1.0781310181296e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T21:41:47+00:00",
+      "side": "buy",
+      "symbol": "Quants",
+      "address": "7yHUCnZkPEzgCr7rSq7dwoBtrAT9iDyXgc1NiQeQpump",
+      "price": 1.271766017190349e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T21:41:47+00:00",
+      "side": "buy",
+      "symbol": "NHTL",
+      "address": "EtbsgMyLMWi2WSweFSLxUChtYJesSMPC7Qf67p24pump",
+      "price": 4.0936691572346265e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2618,6 +2652,10 @@
     {
       "date": "2026-10-05T21:32:09+00:00",
       "equity": 641357.15
+    },
+    {
+      "date": "2026-10-05T21:41:47+00:00",
+      "equity": 641352.55
     }
   ]
 }
