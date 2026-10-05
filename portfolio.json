@@ -1,41 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 314671.6913572651,
+  "cash": 314726.1098128669,
   "positions": {
-    "DbTfeF2equtPC9GcirhRtF38sMi8EqskNmKYNp1Rpump": {
-      "symbol": "DOOB",
-      "qty": 3813542.8648494887,
-      "entry_price": 1.2980056014646015e-05,
-      "last_price": 1.253618768e-05,
+    "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump": {
+      "symbol": "CBC",
+      "qty": 2670848.5111081805,
+      "entry_price": 1.853343602009895e-05,
+      "last_price": 1.7927479598292862e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T23:47:21+00:00",
-      "missing": 0
-    },
-    "F52W8dqyhJBcjS4eV4hpgVuhYeofucvCweaZDbyppump": {
-      "symbol": "GOON",
-      "qty": 3379820.70272072,
-      "entry_price": 1.4645747320309928e-05,
-      "last_price": 1.4127398702335208e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T00:31:08+00:00",
-      "missing": 0
-    },
-    "Bd6B4iqQxmnP2Rd3TCWDxGi3PJ3rvXsHy97NzCFipump": {
-      "symbol": "THINGS",
-      "qty": 6278263.71139583,
-      "entry_price": 7.884345461652294e-06,
-      "last_price": 7.587150247607978e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T00:31:08+00:00",
-      "missing": 0
-    },
-    "A1mtFkUjPt3KdV2KBuHHSbL5QpiBEtXnBEubFTwbpump": {
-      "symbol": "ZABSON",
-      "qty": 4965477.55227197,
-      "entry_price": 9.968829680309626e-06,
-      "last_price": 9.614325360709012e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T00:31:08+00:00",
+      "entry_time": "2026-10-05T00:57:12+00:00",
       "missing": 0
     }
   },
@@ -665,6 +638,54 @@
       "address": "A1mtFkUjPt3KdV2KBuHHSbL5QpiBEtXnBEubFTwbpump",
       "price": 9.968829680309626e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T00:57:12+00:00",
+      "side": "sell",
+      "symbol": "DOOB",
+      "address": "DbTfeF2equtPC9GcirhRtF38sMi8EqskNmKYNp1Rpump",
+      "price": 1.253618768e-05,
+      "proceeds": 45.68,
+      "pnl_usd": -4.32,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T00:57:12+00:00",
+      "side": "sell",
+      "symbol": "GOON",
+      "address": "F52W8dqyhJBcjS4eV4hpgVuhYeofucvCweaZDbyppump",
+      "price": 6.953940166e-06,
+      "proceeds": 22.41,
+      "pnl_usd": -27.59,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T00:57:12+00:00",
+      "side": "sell",
+      "symbol": "THINGS",
+      "address": "Bd6B4iqQxmnP2Rd3TCWDxGi3PJ3rvXsHy97NzCFipump",
+      "price": 3.389406681e-06,
+      "proceeds": 20.27,
+      "pnl_usd": -29.73,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T00:57:12+00:00",
+      "side": "sell",
+      "symbol": "ZABSON",
+      "address": "A1mtFkUjPt3KdV2KBuHHSbL5QpiBEtXnBEubFTwbpump",
+      "price": 3.391321335e-06,
+      "proceeds": 16.07,
+      "pnl_usd": -33.93,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T00:57:12+00:00",
+      "side": "buy",
+      "symbol": "CBC",
+      "address": "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump",
+      "price": 1.853343602009895e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -735,6 +756,10 @@
     {
       "date": "2026-10-05T00:31:08+00:00",
       "equity": 314862.62
+    },
+    {
+      "date": "2026-10-05T00:57:12+00:00",
+      "equity": 314773.99
     }
   ]
 }
