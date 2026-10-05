@@ -1,23 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 641068.4249274964,
+  "cash": 640974.1778836992,
   "positions": {
-    "CZ1PJk2ZVZ8dwVmQf8eQEGzQSN9jBTGAG4hQMphPpump": {
-      "symbol": "4bit",
-      "qty": 1632775.7278069959,
-      "entry_price": 3.031647222394967e-05,
-      "last_price": 2.933248387373672e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T22:37:49+00:00",
-      "missing": 0
-    },
     "Btvv4oFbghWEgUTfP7m1tM4jYsDmTx6SVQKTn2pTpump": {
       "symbol": "STUTUTU",
       "qty": 5120099.582019438,
       "entry_price": 9.667780715404858e-06,
-      "last_price": 9.327198552865834e-06,
+      "last_price": 9.327198553e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T22:37:49+00:00",
+      "missing": 0
+    },
+    "7B9SKu8P8cJxRV39YgqFpwXSFmqsKUuSHpX1u5Gppump": {
+      "symbol": "34%",
+      "qty": 447741.5539565991,
+      "entry_price": 0.00011055484924858724,
+      "last_price": 0.00010719829983690117,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T22:54:05+00:00",
+      "missing": 0
+    },
+    "gA5zPXB5mPsemqGQULbRV8dQcjJcCZ9McZDBUb6pump": {
+      "symbol": "PLAGUEINT",
+      "qty": 6199058.529055094,
+      "entry_price": 7.985083503888961e-06,
+      "last_price": 7.692053768406774e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T22:54:05+00:00",
       "missing": 0
     }
   },
@@ -2485,6 +2494,32 @@
       "address": "Btvv4oFbghWEgUTfP7m1tM4jYsDmTx6SVQKTn2pTpump",
       "price": 9.667780715404858e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T22:54:04+00:00",
+      "side": "sell",
+      "symbol": "4bit",
+      "address": "CZ1PJk2ZVZ8dwVmQf8eQEGzQSN9jBTGAG4hQMphPpump",
+      "price": 3.677173044e-06,
+      "proceeds": 5.75,
+      "pnl_usd": -44.25,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T22:54:05+00:00",
+      "side": "buy",
+      "symbol": "34%",
+      "address": "7B9SKu8P8cJxRV39YgqFpwXSFmqsKUuSHpX1u5Gppump",
+      "price": 0.00011055484924858724,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T22:54:05+00:00",
+      "side": "buy",
+      "symbol": "PLAGUEINT",
+      "address": "gA5zPXB5mPsemqGQULbRV8dQcjJcCZ9McZDBUb6pump",
+      "price": 7.985083503888961e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2759,6 +2794,10 @@
     {
       "date": "2026-10-05T22:37:49+00:00",
       "equity": 641164.07
+    },
+    {
+      "date": "2026-10-05T22:54:05+00:00",
+      "equity": 641117.61
     }
   ]
 }
