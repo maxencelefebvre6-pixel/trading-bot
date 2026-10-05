@@ -1,23 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 641481.723205441,
+  "cash": 641386.8975899755,
   "positions": {
-    "C3ssfY1cDz9eBkuPGW73K5ryYMsu7E4zfVLzPQa9pump": {
-      "symbol": "memesoncrt",
-      "qty": 714000.3264090283,
-      "entry_price": 6.932769939889777e-05,
-      "last_price": 6.714827950921908e-05,
+    "63ynnPhHZKHwCChvzcSA8cABiEuWCDjytqLKTzA3pump": {
+      "symbol": "PIL",
+      "qty": 1009919.5067526889,
+      "entry_price": 4.901380720842108e-05,
+      "last_price": 4.747371851620368e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T17:23:41+00:00",
+      "entry_time": "2026-10-05T17:44:28+00:00",
       "missing": 0
     },
-    "CiL6PcWvJEiBL2Qxg1VHoLNvdTTNLmLZZJNmibeapump": {
-      "symbol": "kfc",
-      "qty": 2219584.8107464225,
-      "entry_price": 2.2301468166631437e-05,
-      "last_price": 2.1529962058358007e-05,
+    "4Q77F4tLvYW6KA1LjLHDYKj88z5webEJvsocc8Ytpump": {
+      "symbol": "ChatGPT",
+      "qty": 112568.53947139604,
+      "entry_price": 0.00043973209772858496,
+      "last_price": 0.00042656417056778314,
       "cost": 50.0,
-      "entry_time": "2026-10-05T17:23:41+00:00",
+      "entry_time": "2026-10-05T17:44:28+00:00",
       "missing": 0
     }
   },
@@ -2251,6 +2251,42 @@
       "address": "CiL6PcWvJEiBL2Qxg1VHoLNvdTTNLmLZZJNmibeapump",
       "price": 2.2301468166631437e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T17:44:28+00:00",
+      "side": "sell",
+      "symbol": "memesoncrt",
+      "address": "C3ssfY1cDz9eBkuPGW73K5ryYMsu7E4zfVLzPQa9pump",
+      "price": 2.354114127e-06,
+      "proceeds": 1.61,
+      "pnl_usd": -48.39,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T17:44:28+00:00",
+      "side": "sell",
+      "symbol": "kfc",
+      "address": "CiL6PcWvJEiBL2Qxg1VHoLNvdTTNLmLZZJNmibeapump",
+      "price": 1.676954043e-06,
+      "proceeds": 3.56,
+      "pnl_usd": -46.44,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T17:44:28+00:00",
+      "side": "buy",
+      "symbol": "PIL",
+      "address": "63ynnPhHZKHwCChvzcSA8cABiEuWCDjytqLKTzA3pump",
+      "price": 4.901380720842108e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T17:44:28+00:00",
+      "side": "buy",
+      "symbol": "ChatGPT",
+      "address": "4Q77F4tLvYW6KA1LjLHDYKj88z5webEJvsocc8Ytpump",
+      "price": 0.00043973209772858496,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2489,6 +2525,10 @@
     {
       "date": "2026-10-05T17:23:41+00:00",
       "equity": 641577.45
+    },
+    {
+      "date": "2026-10-05T17:44:28+00:00",
+      "equity": 641482.86
     }
   ]
 }
