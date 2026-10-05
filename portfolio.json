@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 551706.4495178721,
+  "cash": 551997.2002256609,
   "positions": {
     "7fPdiXXdeRkpYb9a9BJvg9c4YtHkAX7itWyhRcthpump": {
       "symbol": "DUEL",
       "qty": 5590473.343516219,
       "entry_price": 8.854348631750414e-06,
-      "last_price": 9.320529955e-06,
+      "last_price": 9.034737791e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T05:34:43+00:00",
       "missing": 0
@@ -24,27 +24,45 @@
       "symbol": "IOF",
       "qty": 5092.985319036537,
       "entry_price": 0.009719250478688626,
-      "last_price": 0.009434538017759606,
+      "last_price": 0.009780615512,
       "cost": 50.0,
       "entry_time": "2026-10-05T05:54:51+00:00",
       "missing": 0
     },
-    "Aqv8Gj8MesSzuEsgigq4kEDWVRFHgPUZq4Po4Q1Mpump": {
+    "C1h1VKMLkDFqUftQimwkmTqEXtg3CYVj72fafrE1pump": {
+      "symbol": "DOTF",
+      "qty": 755.9770298587483,
+      "entry_price": 0.06547817995111425,
+      "last_price": 0.06356684006402193,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T06:23:36+00:00",
+      "missing": 0
+    },
+    "9whgTrhNqcJrtvBADuSty6jZbnBS9ydaypzYaoYFpump": {
       "symbol": "SM",
-      "qty": 704683.6540746514,
-      "entry_price": 7.024428580651619e-05,
-      "last_price": 6.805051737046034e-05,
+      "qty": 991292.3124996367,
+      "entry_price": 4.993481677990733e-05,
+      "last_price": 4.836737399259934e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T05:54:51+00:00",
+      "entry_time": "2026-10-05T06:23:36+00:00",
       "missing": 0
     },
-    "2qVjSJvGQ4Huf9ZsEJsF2AX1DKfvZ34bkndgK7Y2pump": {
-      "symbol": "DELL",
-      "qty": 120531.6276474049,
-      "entry_price": 0.00041068059036590765,
-      "last_price": 0.0003983747218055575,
+    "9ZPgTo6bbNsZjyhrtHnmUhtQg8ogRrzmJHpbqzJLpump": {
+      "symbol": "Dots",
+      "qty": 1399042.9059847223,
+      "entry_price": 3.5381330900040704e-05,
+      "last_price": 3.424124011219962e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T05:54:51+00:00",
+      "entry_time": "2026-10-05T06:23:36+00:00",
+      "missing": 0
+    },
+    "87nurPUErNijUX9HGTn1ERyP1AGLoNQnCVjKH4wspump": {
+      "symbol": "CUBELY",
+      "qty": 5422158.839373897,
+      "entry_price": 9.129205076130861e-06,
+      "last_price": 8.779400947584272e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T06:23:36+00:00",
       "missing": 0
     }
   },
@@ -1204,6 +1222,58 @@
       "address": "2qVjSJvGQ4Huf9ZsEJsF2AX1DKfvZ34bkndgK7Y2pump",
       "price": 0.00041068059036590765,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T06:23:35+00:00",
+      "side": "sell",
+      "symbol": "SM",
+      "address": "Aqv8Gj8MesSzuEsgigq4kEDWVRFHgPUZq4Po4Q1Mpump",
+      "price": 0.0007334497483,
+      "proceeds": 490.5,
+      "pnl_usd": 440.5,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T06:23:35+00:00",
+      "side": "sell",
+      "symbol": "DELL",
+      "address": "2qVjSJvGQ4Huf9ZsEJsF2AX1DKfvZ34bkndgK7Y2pump",
+      "price": 2.171480882e-06,
+      "proceeds": 0.25,
+      "pnl_usd": -49.75,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T06:23:36+00:00",
+      "side": "buy",
+      "symbol": "DOTF",
+      "address": "C1h1VKMLkDFqUftQimwkmTqEXtg3CYVj72fafrE1pump",
+      "price": 0.06547817995111425,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T06:23:36+00:00",
+      "side": "buy",
+      "symbol": "SM",
+      "address": "9whgTrhNqcJrtvBADuSty6jZbnBS9ydaypzYaoYFpump",
+      "price": 4.993481677990733e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T06:23:36+00:00",
+      "side": "buy",
+      "symbol": "Dots",
+      "address": "9ZPgTo6bbNsZjyhrtHnmUhtQg8ogRrzmJHpbqzJLpump",
+      "price": 3.5381330900040704e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T06:23:36+00:00",
+      "side": "buy",
+      "symbol": "CUBELY",
+      "address": "87nurPUErNijUX9HGTn1ERyP1AGLoNQnCVjKH4wspump",
+      "price": 9.129205076130861e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1322,6 +1392,10 @@
     {
       "date": "2026-10-05T05:54:51+00:00",
       "equity": 551950.23
+    },
+    {
+      "date": "2026-10-05T06:23:36+00:00",
+      "equity": 552336.69
     }
   ]
 }
