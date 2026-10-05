@@ -1,7 +1,17 @@
 {
   "mode": "pumpfun",
-  "cash": 567696.3033266397,
-  "positions": {},
+  "cash": 567646.3033266397,
+  "positions": {
+    "8YLuvWwHDHJ5zPvoTzjBBmuVzVJ62rah7qy9ynd9pump": {
+      "symbol": "SHILL",
+      "qty": 2624629.9908035924,
+      "entry_price": 1.8859801257107637e-05,
+      "last_price": 1.819818401402571e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T16:47:23+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -2162,6 +2172,14 @@
       "proceeds": 13.26,
       "pnl_usd": -36.74,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T16:47:23+00:00",
+      "side": "buy",
+      "symbol": "SHILL",
+      "address": "8YLuvWwHDHJ5zPvoTzjBBmuVzVJ62rah7qy9ynd9pump",
+      "price": 1.8859801257107637e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2388,6 +2406,10 @@
     {
       "date": "2026-10-05T16:24:18+00:00",
       "equity": 567696.3
+    },
+    {
+      "date": "2026-10-05T16:47:23+00:00",
+      "equity": 567694.07
     }
   ]
 }
