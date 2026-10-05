@@ -1,14 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 641122.8720989992,
+  "cash": 641068.4249274964,
   "positions": {
-    "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump": {
-      "symbol": "CKPE",
-      "qty": 4591278.719155607,
-      "entry_price": 1.0781310181296e-05,
-      "last_price": 1.039419777e-05,
+    "CZ1PJk2ZVZ8dwVmQf8eQEGzQSN9jBTGAG4hQMphPpump": {
+      "symbol": "4bit",
+      "qty": 1632775.7278069959,
+      "entry_price": 3.031647222394967e-05,
+      "last_price": 2.933248387373672e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T21:32:09+00:00",
+      "entry_time": "2026-10-05T22:37:49+00:00",
+      "missing": 0
+    },
+    "Btvv4oFbghWEgUTfP7m1tM4jYsDmTx6SVQKTn2pTpump": {
+      "symbol": "STUTUTU",
+      "qty": 5120099.582019438,
+      "entry_price": 9.667780715404858e-06,
+      "last_price": 9.327198552865834e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T22:37:49+00:00",
       "missing": 0
     }
   },
@@ -2450,6 +2459,32 @@
       "proceeds": 4.93,
       "pnl_usd": -45.07,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T22:37:49+00:00",
+      "side": "sell",
+      "symbol": "CKPE",
+      "address": "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump",
+      "price": 1.039419777e-05,
+      "proceeds": 45.55,
+      "pnl_usd": -4.45,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T22:37:49+00:00",
+      "side": "buy",
+      "symbol": "4bit",
+      "address": "CZ1PJk2ZVZ8dwVmQf8eQEGzQSN9jBTGAG4hQMphPpump",
+      "price": 3.031647222394967e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T22:37:49+00:00",
+      "side": "buy",
+      "symbol": "STUTUTU",
+      "address": "Btvv4oFbghWEgUTfP7m1tM4jYsDmTx6SVQKTn2pTpump",
+      "price": 9.667780715404858e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2720,6 +2755,10 @@
     {
       "date": "2026-10-05T22:20:28+00:00",
       "equity": 641170.59
+    },
+    {
+      "date": "2026-10-05T22:37:49+00:00",
+      "equity": 641164.07
     }
   ]
 }
