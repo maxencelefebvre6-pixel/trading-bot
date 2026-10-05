@@ -1,44 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 567651.8143460744,
-  "positions": {
-    "BBQcxTqQNb2s6mdUycztpGmyqsYwu4TQAqDvSg4gpump": {
-      "symbol": "AVERY",
-      "qty": 3087472.6228895495,
-      "entry_price": 1.603253082570598e-05,
-      "last_price": 1.5458054943947558e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T15:59:47+00:00",
-      "missing": 0
-    },
-    "GUsXkpMWmZUa4yxzjBWvmZPKRFig52QGHtYjCaN9pump": {
-      "symbol": "PCAT",
-      "qty": 345.5368935591805,
-      "entry_price": 0.14325532503961716,
-      "last_price": 0.13875121938198867,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T15:59:47+00:00",
-      "missing": 0
-    },
-    "Fda2DfHKUwqyiSK2E6inNktdstep6ndVkVgp7gvppump": {
-      "symbol": "MemeRocket",
-      "qty": 6681471.2293851925,
-      "entry_price": 7.408547953076321e-06,
-      "last_price": 7.136855787329536e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T15:59:47+00:00",
-      "missing": 0
-    },
-    "3rr11Ej5QD6j1qxYZ5AVR1dW1RCxQYkp7sMKdwGgpump": {
-      "symbol": "NLM",
-      "qty": 11450760.536786996,
-      "entry_price": 4.322856970152775e-06,
-      "last_price": 4.159318663894876e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T15:59:47+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 567696.3033266397,
+  "positions": {},
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -2159,6 +2122,46 @@
       "address": "3rr11Ej5QD6j1qxYZ5AVR1dW1RCxQYkp7sMKdwGgpump",
       "price": 4.322856970152775e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T16:24:17+00:00",
+      "side": "sell",
+      "symbol": "AVERY",
+      "address": "BBQcxTqQNb2s6mdUycztpGmyqsYwu4TQAqDvSg4gpump",
+      "price": 3.383240405e-06,
+      "proceeds": 9.99,
+      "pnl_usd": -40.01,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T16:24:17+00:00",
+      "side": "sell",
+      "symbol": "PCAT",
+      "address": "GUsXkpMWmZUa4yxzjBWvmZPKRFig52QGHtYjCaN9pump",
+      "price": 6.530924893e-05,
+      "proceeds": 0.01,
+      "pnl_usd": -49.99,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T16:24:17+00:00",
+      "side": "sell",
+      "symbol": "MemeRocket",
+      "address": "Fda2DfHKUwqyiSK2E6inNktdstep6ndVkVgp7gvppump",
+      "price": 3.33772115e-06,
+      "proceeds": 21.23,
+      "pnl_usd": -28.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T16:24:17+00:00",
+      "side": "sell",
+      "symbol": "NLM",
+      "address": "3rr11Ej5QD6j1qxYZ5AVR1dW1RCxQYkp7sMKdwGgpump",
+      "price": 1.228913988e-06,
+      "proceeds": 13.26,
+      "pnl_usd": -36.74,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -2381,6 +2384,10 @@
     {
       "date": "2026-10-05T15:59:47+00:00",
       "equity": 567842.8
+    },
+    {
+      "date": "2026-10-05T16:24:18+00:00",
+      "equity": 567696.3
     }
   ]
 }
