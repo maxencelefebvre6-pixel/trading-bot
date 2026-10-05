@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 640860.2104313637,
+  "cash": 640840.0289724235,
   "positions": {
-    "Btvv4oFbghWEgUTfP7m1tM4jYsDmTx6SVQKTn2pTpump": {
-      "symbol": "STUTUTU",
-      "qty": 5120099.582019438,
-      "entry_price": 9.667780715404858e-06,
-      "last_price": 9.327198553e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T22:37:49+00:00",
-      "missing": 0
-    },
     "7B9SKu8P8cJxRV39YgqFpwXSFmqsKUuSHpX1u5Gppump": {
       "symbol": "34%",
       "qty": 447741.5539565991,
@@ -20,31 +11,22 @@
       "entry_time": "2026-10-05T22:54:05+00:00",
       "missing": 0
     },
-    "EikhnEmEVz7M3VqFfbnFS2yDaDuYNtsybCuVM52Tpump": {
-      "symbol": "ponzo",
-      "qty": 2039911.9595457332,
-      "entry_price": 2.4265753121533306e-05,
-      "last_price": 2.3420782861100486e-05,
+    "HqMTGBfa32sFiwmZeFa1dPGsmbBjxapoto8NUBQspump": {
+      "symbol": "STENKS",
+      "qty": 2446029.703098711,
+      "entry_price": 2.0236876084248598e-05,
+      "last_price": 1.9559402097314826e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T23:28:43+00:00",
+      "entry_time": "2026-10-05T23:44:43+00:00",
       "missing": 0
     },
-    "7G8FeKWSYr3tQ5Sw2feSVWTZmTLHmbEp6jJsDVpspump": {
-      "symbol": "MATRIX",
-      "qty": 3438546.3320116736,
-      "entry_price": 1.4395618153861174e-05,
-      "last_price": 1.388226071861011e-05,
+    "8bDBj8hcVGKK21SzCAScpJnRKNFfXkxCvjiiEKdCpump": {
+      "symbol": "MIND",
+      "qty": 6531156.376994464,
+      "entry_price": 7.579056011330589e-06,
+      "last_price": 7.296883470718801e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-05T23:28:43+00:00",
-      "missing": 0
-    },
-    "5EgW8f1SiJyRtJQiA7P7jMXczxsvDVTLRiBHqyN6pump": {
-      "symbol": "WC",
-      "qty": 1006548.6031622505,
-      "entry_price": 4.917795310081102e-05,
-      "last_price": 4.762000700465925e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T23:28:43+00:00",
+      "entry_time": "2026-10-05T23:44:43+00:00",
       "missing": 0
     }
   },
@@ -2572,6 +2554,62 @@
       "address": "5EgW8f1SiJyRtJQiA7P7jMXczxsvDVTLRiBHqyN6pump",
       "price": 4.917795310081102e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T23:44:42+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "Btvv4oFbghWEgUTfP7m1tM4jYsDmTx6SVQKTn2pTpump",
+      "price": 9.327198553e-06,
+      "proceeds": 45.55,
+      "pnl_usd": -4.45,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T23:44:42+00:00",
+      "side": "sell",
+      "symbol": "ponzo",
+      "address": "EikhnEmEVz7M3VqFfbnFS2yDaDuYNtsybCuVM52Tpump",
+      "price": 3.45777622e-06,
+      "proceeds": 6.76,
+      "pnl_usd": -43.24,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T23:44:42+00:00",
+      "side": "sell",
+      "symbol": "MATRIX",
+      "address": "7G8FeKWSYr3tQ5Sw2feSVWTZmTLHmbEp6jJsDVpspump",
+      "price": 7.628791522e-06,
+      "proceeds": 24.98,
+      "pnl_usd": -25.02,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T23:44:42+00:00",
+      "side": "sell",
+      "symbol": "WC",
+      "address": "5EgW8f1SiJyRtJQiA7P7jMXczxsvDVTLRiBHqyN6pump",
+      "price": 2.624008792e-06,
+      "proceeds": 2.53,
+      "pnl_usd": -47.47,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T23:44:43+00:00",
+      "side": "buy",
+      "symbol": "STENKS",
+      "address": "HqMTGBfa32sFiwmZeFa1dPGsmbBjxapoto8NUBQspump",
+      "price": 2.0236876084248598e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T23:44:43+00:00",
+      "side": "buy",
+      "symbol": "MIND",
+      "address": "8bDBj8hcVGKK21SzCAScpJnRKNFfXkxCvjiiEKdCpump",
+      "price": 7.579056011330589e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2858,6 +2896,10 @@
     {
       "date": "2026-10-05T23:28:43+00:00",
       "equity": 641099.38
+    },
+    {
+      "date": "2026-10-05T23:44:43+00:00",
+      "equity": 640983.5
     }
   ]
 }
