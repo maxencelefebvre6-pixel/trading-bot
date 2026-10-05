@@ -1,7 +1,26 @@
 {
   "mode": "pumpfun",
-  "cash": 314665.3293651245,
-  "positions": {},
+  "cash": 314565.3293651245,
+  "positions": {
+    "2U5wn1ZvpyW2To9XxzU5VhtfggWFcXiLNeYa3YPXpump": {
+      "symbol": "EMZ",
+      "qty": 5268122.67039718,
+      "entry_price": 9.396136555086718e-06,
+      "last_price": 9.060680045294756e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T03:43:16+00:00",
+      "missing": 0
+    },
+    "aDAhGaCgH39inGh44MFPYw71ouHRT5hbkVCfUTgpump": {
+      "symbol": "OTTER",
+      "qty": 2001719.4565961417,
+      "entry_price": 2.472874000244426e-05,
+      "last_price": 2.394674812313815e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T03:43:16+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -920,6 +939,22 @@
       "proceeds": 40.22,
       "pnl_usd": -9.78,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T03:43:16+00:00",
+      "side": "buy",
+      "symbol": "EMZ",
+      "address": "2U5wn1ZvpyW2To9XxzU5VhtfggWFcXiLNeYa3YPXpump",
+      "price": 9.396136555086718e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T03:43:16+00:00",
+      "side": "buy",
+      "symbol": "OTTER",
+      "address": "aDAhGaCgH39inGh44MFPYw71ouHRT5hbkVCfUTgpump",
+      "price": 2.472874000244426e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1014,6 +1049,10 @@
     {
       "date": "2026-10-05T02:56:28+00:00",
       "equity": 314665.33
+    },
+    {
+      "date": "2026-10-05T03:43:16+00:00",
+      "equity": 314661.0
     }
   ]
 }
