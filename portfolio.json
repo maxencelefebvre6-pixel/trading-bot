@@ -1,68 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 567340.1204138013,
+  "cash": 567398.3366576176,
   "positions": {
-    "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump": {
-      "symbol": "PALESTINE",
-      "qty": 4162628.651713605,
-      "entry_price": 1.189152435676015e-05,
-      "last_price": 1.146877274e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T13:49:07+00:00",
-      "missing": 0
-    },
     "HPwesJWgA6DNjKCMT9y1AxDgQvwhfL6qGvuzPTkEpump": {
       "symbol": "USDF",
       "qty": 4887.099569066189,
       "entry_price": 0.010128707078799766,
-      "last_price": 0.01003714717,
+      "last_price": 0.01013981084,
       "cost": 50.0,
       "entry_time": "2026-10-05T14:06:40+00:00",
-      "missing": 0
-    },
-    "8ib7CMQjx3BVmUys1TttBdALfbzYHEVhh77yZhatpump": {
-      "symbol": "feeppo",
-      "qty": 1580533.3255663305,
-      "entry_price": 3.131854241811912e-05,
-      "last_price": 3.0249759474078754e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T14:33:34+00:00",
-      "missing": 0
-    },
-    "HL6QDVQucr3SPLWMF42GmoxoSwncsSYN1n8M9Ejmpump": {
-      "symbol": "life",
-      "qty": 8495271.617428103,
-      "entry_price": 5.8267707295491804e-06,
-      "last_price": 5.6126528956886695e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T14:33:34+00:00",
-      "missing": 0
-    },
-    "EjgSwoB3gVRPW1JgBZE1VTtrZLWRPhPZGdrLZ7yXpump": {
-      "symbol": "LAPDOG",
-      "qty": 3159167.5835617715,
-      "entry_price": 1.5668684452691088e-05,
-      "last_price": 1.511374763607496e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T14:33:34+00:00",
-      "missing": 0
-    },
-    "DSS9ZXqduPCw2DECFkZKdmDgqHzS4N2744EBa1s5pump": {
-      "symbol": "ORE",
-      "qty": 7336662.883737646,
-      "entry_price": 6.746936691028979e-06,
-      "last_price": 6.505566434444053e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T14:33:34+00:00",
       "missing": 0
     },
     "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump": {
       "symbol": "att",
       "qty": 7302615.811999459,
       "entry_price": 6.77839301345457e-06,
-      "last_price": 6.519408311317191e-06,
+      "last_price": 6.519408311e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T14:33:34+00:00",
+      "missing": 0
+    },
+    "8mF5MKKEk4bX7Bdfhdt2BQ8jQr6nKGid2B544Msfpump": {
+      "symbol": "TRUMPTANA",
+      "qty": 6012780.190610062,
+      "entry_price": 8.232464588893891e-06,
+      "last_price": 7.929444764829417e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T14:55:11+00:00",
       "missing": 0
     }
   },
@@ -2030,6 +1994,64 @@
       "address": "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump",
       "price": 6.77839301345457e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T14:55:11+00:00",
+      "side": "sell",
+      "symbol": "PALESTINE",
+      "address": "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump",
+      "price": 1.146877274e-05,
+      "proceeds": 45.59,
+      "pnl_usd": -4.41,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T14:55:11+00:00",
+      "side": "sell",
+      "symbol": "feeppo",
+      "address": "8ib7CMQjx3BVmUys1TttBdALfbzYHEVhh77yZhatpump",
+      "price": 2.256861588e-06,
+      "proceeds": 3.39,
+      "pnl_usd": -46.61,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T14:55:11+00:00",
+      "side": "sell",
+      "symbol": "life",
+      "address": "HL6QDVQucr3SPLWMF42GmoxoSwncsSYN1n8M9Ejmpump",
+      "price": 3.389036872e-06,
+      "proceeds": 27.34,
+      "pnl_usd": -22.66,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T14:55:11+00:00",
+      "side": "sell",
+      "symbol": "LAPDOG",
+      "address": "EjgSwoB3gVRPW1JgBZE1VTtrZLWRPhPZGdrLZ7yXpump",
+      "price": 2.29176676e-06,
+      "proceeds": 6.84,
+      "pnl_usd": -43.16,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T14:55:11+00:00",
+      "side": "sell",
+      "symbol": "ORE",
+      "address": "DSS9ZXqduPCw2DECFkZKdmDgqHzS4N2744EBa1s5pump",
+      "price": 3.590990789e-06,
+      "proceeds": 25.05,
+      "pnl_usd": -24.95,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T14:55:11+00:00",
+      "side": "buy",
+      "symbol": "TRUMPTANA",
+      "address": "8mF5MKKEk4bX7Bdfhdt2BQ8jQr6nKGid2B544Msfpump",
+      "price": 8.232464588893891e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2236,6 +2258,10 @@
     {
       "date": "2026-10-05T14:33:34+00:00",
       "equity": 567675.49
+    },
+    {
+      "date": "2026-10-05T14:55:11+00:00",
+      "equity": 567543.18
     }
   ]
 }
