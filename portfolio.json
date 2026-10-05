@@ -1,44 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 552167.8529053805,
-  "positions": {
-    "Cy53sukGJC38KQ5DEQ24Ajcq6BsjJ3ysJZR6gQFdpump": {
-      "symbol": "COLECTODEL",
-      "qty": 14026388.086304381,
-      "entry_price": 3.529062485325976e-06,
-      "last_price": 3.372650687e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T09:07:17+00:00",
-      "missing": 0
-    },
-    "3RTTFWoMZ5BYVEy8qrAVJCaQHWQWRq6xKuGQzWV1pump": {
-      "symbol": "BACKERS",
-      "qty": 2032.007525897906,
-      "entry_price": 0.024360145998045396,
-      "last_price": 0.02359491005719567,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T09:54:05+00:00",
-      "missing": 0
-    },
-    "9uKRVK31eVdTKtFkyBq19KByGy817pPwdT51hDnQpump": {
-      "symbol": "Spread",
-      "qty": 1001556.2209724818,
-      "entry_price": 4.9423086755865734e-05,
-      "last_price": 4.787101838353098e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T09:54:05+00:00",
-      "missing": 0
-    },
-    "3Y7Wb5Y1sTkv69S9iu6e132shxMQxeySXiFWkr38pump": {
-      "symbol": "nibble",
-      "qty": 3072964.6086200387,
-      "entry_price": 1.610822326464369e-05,
-      "last_price": 1.5544663287045957e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T09:54:05+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 552470.2436721256,
+  "positions": {},
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -1619,6 +1582,46 @@
       "address": "3Y7Wb5Y1sTkv69S9iu6e132shxMQxeySXiFWkr38pump",
       "price": 1.610822326464369e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T10:15:55+00:00",
+      "side": "sell",
+      "symbol": "COLECTODEL",
+      "address": "Cy53sukGJC38KQ5DEQ24Ajcq6BsjJ3ysJZR6gQFdpump",
+      "price": 3.372650687e-06,
+      "proceeds": 44.6,
+      "pnl_usd": -5.4,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T10:15:55+00:00",
+      "side": "sell",
+      "symbol": "BACKERS",
+      "address": "3RTTFWoMZ5BYVEy8qrAVJCaQHWQWRq6xKuGQzWV1pump",
+      "price": 0.02359491006,
+      "proceeds": 23.73,
+      "pnl_usd": -26.27,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T10:15:55+00:00",
+      "side": "sell",
+      "symbol": "Spread",
+      "address": "9uKRVK31eVdTKtFkyBq19KByGy817pPwdT51hDnQpump",
+      "price": 0.0004566733717,
+      "proceeds": 226.41,
+      "pnl_usd": 176.41,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T10:15:55+00:00",
+      "side": "sell",
+      "symbol": "nibble",
+      "address": "3Y7Wb5Y1sTkv69S9iu6e132shxMQxeySXiFWkr38pump",
+      "price": 2.613320892e-06,
+      "proceeds": 7.65,
+      "pnl_usd": -42.35,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -1777,6 +1780,10 @@
     {
       "date": "2026-10-05T09:54:05+00:00",
       "equity": 552358.82
+    },
+    {
+      "date": "2026-10-05T10:15:55+00:00",
+      "equity": 552470.24
     }
   ]
 }
