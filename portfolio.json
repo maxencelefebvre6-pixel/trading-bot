@@ -1,14 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 641370.3112842249,
+  "cash": 641341.7138663495,
   "positions": {
-    "Exday3DFohJpzT6uFwwXycyXivMQhJ76f1pU8G1bpump": {
-      "symbol": "SCOMB",
-      "qty": 6427089.363674543,
-      "entry_price": 7.701775593750185e-06,
-      "last_price": 7.4059712094339765e-06,
+    "7Wc2wGoptxcGc1jw9uX6wzLo23cxAKtvT2FwmULGpump": {
+      "symbol": "Auton",
+      "qty": 3651079.9480015542,
+      "entry_price": 1.3557632455321663e-05,
+      "last_price": 1.3071915448287061e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T18:29:03+00:00",
+      "entry_time": "2026-10-05T18:54:29+00:00",
       "missing": 0
     }
   },
@@ -2324,6 +2324,24 @@
       "address": "Exday3DFohJpzT6uFwwXycyXivMQhJ76f1pU8G1bpump",
       "price": 7.701775593750185e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T18:54:29+00:00",
+      "side": "sell",
+      "symbol": "SCOMB",
+      "address": "Exday3DFohJpzT6uFwwXycyXivMQhJ76f1pU8G1bpump",
+      "price": 3.49778024e-06,
+      "proceeds": 21.4,
+      "pnl_usd": -28.6,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T18:54:29+00:00",
+      "side": "buy",
+      "symbol": "Auton",
+      "address": "7Wc2wGoptxcGc1jw9uX6wzLo23cxAKtvT2FwmULGpump",
+      "price": 1.3557632455321663e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2574,6 +2592,10 @@
     {
       "date": "2026-10-05T18:29:03+00:00",
       "equity": 641417.91
+    },
+    {
+      "date": "2026-10-05T18:54:29+00:00",
+      "equity": 641389.44
     }
   ]
 }
