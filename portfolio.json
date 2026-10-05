@@ -1,32 +1,41 @@
 {
   "mode": "pumpfun",
-  "cash": 567391.2398905332,
+  "cash": 567651.8143460744,
   "positions": {
-    "8mF5MKKEk4bX7Bdfhdt2BQ8jQr6nKGid2B544Msfpump": {
-      "symbol": "TRUMPTANA",
-      "qty": 6012780.190610062,
-      "entry_price": 8.232464588893891e-06,
-      "last_price": 7.906917472e-06,
+    "BBQcxTqQNb2s6mdUycztpGmyqsYwu4TQAqDvSg4gpump": {
+      "symbol": "AVERY",
+      "qty": 3087472.6228895495,
+      "entry_price": 1.603253082570598e-05,
+      "last_price": 1.5458054943947558e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T14:55:11+00:00",
+      "entry_time": "2026-10-05T15:59:47+00:00",
       "missing": 0
     },
-    "4QDYEVmVEGhGzM1YkrzNLgVrxM4iD6CuNsgZmsvgpump": {
-      "symbol": "solOS",
-      "qty": 1009965.3286149187,
-      "entry_price": 4.9011583464835395e-05,
-      "last_price": 4.747155805462661e-05,
+    "GUsXkpMWmZUa4yxzjBWvmZPKRFig52QGHtYjCaN9pump": {
+      "symbol": "PCAT",
+      "qty": 345.5368935591805,
+      "entry_price": 0.14325532503961716,
+      "last_price": 0.13875121938198867,
       "cost": 50.0,
-      "entry_time": "2026-10-05T15:41:24+00:00",
+      "entry_time": "2026-10-05T15:59:47+00:00",
       "missing": 0
     },
-    "GvpTKh6shHeoTurUmiHoxkJ87bsiVy6JKSj9zmJ3pump": {
-      "symbol": "RE-TRILLIONIZ",
-      "qty": 2573079.677852389,
-      "entry_price": 1.9237647565315578e-05,
-      "last_price": 1.8563433573410368e-05,
+    "Fda2DfHKUwqyiSK2E6inNktdstep6ndVkVgp7gvppump": {
+      "symbol": "MemeRocket",
+      "qty": 6681471.2293851925,
+      "entry_price": 7.408547953076321e-06,
+      "last_price": 7.136855787329536e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-05T15:41:24+00:00",
+      "entry_time": "2026-10-05T15:59:47+00:00",
+      "missing": 0
+    },
+    "3rr11Ej5QD6j1qxYZ5AVR1dW1RCxQYkp7sMKdwGgpump": {
+      "symbol": "NLM",
+      "qty": 11450760.536786996,
+      "entry_price": 4.322856970152775e-06,
+      "last_price": 4.159318663894876e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T15:59:47+00:00",
       "missing": 0
     }
   },
@@ -2088,6 +2097,68 @@
       "address": "GvpTKh6shHeoTurUmiHoxkJ87bsiVy6JKSj9zmJ3pump",
       "price": 1.9237647565315578e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T15:59:47+00:00",
+      "side": "sell",
+      "symbol": "TRUMPTANA",
+      "address": "8mF5MKKEk4bX7Bdfhdt2BQ8jQr6nKGid2B544Msfpump",
+      "price": 7.906917472e-06,
+      "proceeds": 45.29,
+      "pnl_usd": -4.71,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T15:59:47+00:00",
+      "side": "sell",
+      "symbol": "solOS",
+      "address": "4QDYEVmVEGhGzM1YkrzNLgVrxM4iD6CuNsgZmsvgpump",
+      "price": 0.0008142369725,
+      "proceeds": 407.06,
+      "pnl_usd": 357.06,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T15:59:47+00:00",
+      "side": "sell",
+      "symbol": "RE-TRILLIONIZ",
+      "address": "GvpTKh6shHeoTurUmiHoxkJ87bsiVy6JKSj9zmJ3pump",
+      "price": 3.339305947e-06,
+      "proceeds": 8.22,
+      "pnl_usd": -41.78,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T15:59:47+00:00",
+      "side": "buy",
+      "symbol": "AVERY",
+      "address": "BBQcxTqQNb2s6mdUycztpGmyqsYwu4TQAqDvSg4gpump",
+      "price": 1.603253082570598e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T15:59:47+00:00",
+      "side": "buy",
+      "symbol": "PCAT",
+      "address": "GUsXkpMWmZUa4yxzjBWvmZPKRFig52QGHtYjCaN9pump",
+      "price": 0.14325532503961716,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T15:59:47+00:00",
+      "side": "buy",
+      "symbol": "MemeRocket",
+      "address": "Fda2DfHKUwqyiSK2E6inNktdstep6ndVkVgp7gvppump",
+      "price": 7.408547953076321e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T15:59:47+00:00",
+      "side": "buy",
+      "symbol": "NLM",
+      "address": "3rr11Ej5QD6j1qxYZ5AVR1dW1RCxQYkp7sMKdwGgpump",
+      "price": 4.322856970152775e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2306,6 +2377,10 @@
     {
       "date": "2026-10-05T15:41:24+00:00",
       "equity": 567534.49
+    },
+    {
+      "date": "2026-10-05T15:59:47+00:00",
+      "equity": 567842.8
     }
   ]
 }
