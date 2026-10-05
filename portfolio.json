@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 640974.1778836992,
+  "cash": 641010.2104313637,
   "positions": {
     "Btvv4oFbghWEgUTfP7m1tM4jYsDmTx6SVQKTn2pTpump": {
       "symbol": "STUTUTU",
@@ -15,16 +15,7 @@
       "symbol": "34%",
       "qty": 447741.5539565991,
       "entry_price": 0.00011055484924858724,
-      "last_price": 0.00010719829983690117,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T22:54:05+00:00",
-      "missing": 0
-    },
-    "gA5zPXB5mPsemqGQULbRV8dQcjJcCZ9McZDBUb6pump": {
-      "symbol": "PLAGUEINT",
-      "qty": 6199058.529055094,
-      "entry_price": 7.985083503888961e-06,
-      "last_price": 7.692053768406774e-06,
+      "last_price": 0.0001071458198,
       "cost": 50.0,
       "entry_time": "2026-10-05T22:54:05+00:00",
       "missing": 0
@@ -2520,6 +2511,16 @@
       "address": "gA5zPXB5mPsemqGQULbRV8dQcjJcCZ9McZDBUb6pump",
       "price": 7.985083503888961e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T23:11:53+00:00",
+      "side": "sell",
+      "symbol": "PLAGUEINT",
+      "address": "gA5zPXB5mPsemqGQULbRV8dQcjJcCZ9McZDBUb6pump",
+      "price": 6.123182628e-06,
+      "proceeds": 36.03,
+      "pnl_usd": -13.97,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -2798,6 +2799,10 @@
     {
       "date": "2026-10-05T22:54:05+00:00",
       "equity": 641117.61
+    },
+    {
+      "date": "2026-10-05T23:11:53+00:00",
+      "equity": 641105.94
     }
   ]
 }
