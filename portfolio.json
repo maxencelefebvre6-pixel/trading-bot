@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 567423.0700235179,
+  "cash": 567340.1204138013,
   "positions": {
-    "3eVTqortfqWjwXoxvh5C8TYvfsSrPemsRe3BH7Wtpump": {
-      "symbol": "PUMP",
-      "qty": 5663219.229195722,
-      "entry_price": 8.740611655083302e-06,
-      "last_price": 8.440232127e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T13:25:00+00:00",
-      "missing": 0
-    },
     "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump": {
       "symbol": "PALESTINE",
       "qty": 4162628.651713605,
@@ -20,22 +11,58 @@
       "entry_time": "2026-10-05T13:49:07+00:00",
       "missing": 0
     },
-    "3PG51QJF37MigcPqYEQWXyWJXeju5Mt9yQesgTbtpump": {
-      "symbol": "catana",
-      "qty": 2726668.9433703236,
-      "entry_price": 1.815401907164244e-05,
-      "last_price": 1.7512241898629878e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T14:06:40+00:00",
-      "missing": 0
-    },
     "HPwesJWgA6DNjKCMT9y1AxDgQvwhfL6qGvuzPTkEpump": {
       "symbol": "USDF",
       "qty": 4887.099569066189,
       "entry_price": 0.010128707078799766,
-      "last_price": 0.009832031576367554,
+      "last_price": 0.01003714717,
       "cost": 50.0,
       "entry_time": "2026-10-05T14:06:40+00:00",
+      "missing": 0
+    },
+    "8ib7CMQjx3BVmUys1TttBdALfbzYHEVhh77yZhatpump": {
+      "symbol": "feeppo",
+      "qty": 1580533.3255663305,
+      "entry_price": 3.131854241811912e-05,
+      "last_price": 3.0249759474078754e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T14:33:34+00:00",
+      "missing": 0
+    },
+    "HL6QDVQucr3SPLWMF42GmoxoSwncsSYN1n8M9Ejmpump": {
+      "symbol": "life",
+      "qty": 8495271.617428103,
+      "entry_price": 5.8267707295491804e-06,
+      "last_price": 5.6126528956886695e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T14:33:34+00:00",
+      "missing": 0
+    },
+    "EjgSwoB3gVRPW1JgBZE1VTtrZLWRPhPZGdrLZ7yXpump": {
+      "symbol": "LAPDOG",
+      "qty": 3159167.5835617715,
+      "entry_price": 1.5668684452691088e-05,
+      "last_price": 1.511374763607496e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T14:33:34+00:00",
+      "missing": 0
+    },
+    "DSS9ZXqduPCw2DECFkZKdmDgqHzS4N2744EBa1s5pump": {
+      "symbol": "ORE",
+      "qty": 7336662.883737646,
+      "entry_price": 6.746936691028979e-06,
+      "last_price": 6.505566434444053e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T14:33:34+00:00",
+      "missing": 0
+    },
+    "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump": {
+      "symbol": "att",
+      "qty": 7302615.811999459,
+      "entry_price": 6.77839301345457e-06,
+      "last_price": 6.519408311317191e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T14:33:34+00:00",
       "missing": 0
     }
   },
@@ -1943,6 +1970,66 @@
       "address": "HPwesJWgA6DNjKCMT9y1AxDgQvwhfL6qGvuzPTkEpump",
       "price": 0.010128707078799766,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T14:33:34+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "3eVTqortfqWjwXoxvh5C8TYvfsSrPemsRe3BH7Wtpump",
+      "price": 8.440232127e-06,
+      "proceeds": 45.55,
+      "pnl_usd": -4.45,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T14:33:34+00:00",
+      "side": "sell",
+      "symbol": "catana",
+      "address": "3PG51QJF37MigcPqYEQWXyWJXeju5Mt9yQesgTbtpump",
+      "price": 4.924844318e-05,
+      "proceeds": 121.5,
+      "pnl_usd": 71.5,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T14:33:34+00:00",
+      "side": "buy",
+      "symbol": "feeppo",
+      "address": "8ib7CMQjx3BVmUys1TttBdALfbzYHEVhh77yZhatpump",
+      "price": 3.131854241811912e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T14:33:34+00:00",
+      "side": "buy",
+      "symbol": "life",
+      "address": "HL6QDVQucr3SPLWMF42GmoxoSwncsSYN1n8M9Ejmpump",
+      "price": 5.8267707295491804e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T14:33:34+00:00",
+      "side": "buy",
+      "symbol": "LAPDOG",
+      "address": "EjgSwoB3gVRPW1JgBZE1VTtrZLWRPhPZGdrLZ7yXpump",
+      "price": 1.5668684452691088e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T14:33:34+00:00",
+      "side": "buy",
+      "symbol": "ORE",
+      "address": "DSS9ZXqduPCw2DECFkZKdmDgqHzS4N2744EBa1s5pump",
+      "price": 6.746936691028979e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T14:33:34+00:00",
+      "side": "buy",
+      "symbol": "att",
+      "address": "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump",
+      "price": 6.77839301345457e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2145,6 +2232,10 @@
     {
       "date": "2026-10-05T14:06:40+00:00",
       "equity": 567614.41
+    },
+    {
+      "date": "2026-10-05T14:33:34+00:00",
+      "equity": 567675.49
     }
   ]
 }
