@@ -1,23 +1,41 @@
 {
   "mode": "pumpfun",
-  "cash": 552156.1332364079,
+  "cash": 552053.9531776743,
   "positions": {
-    "C1h1VKMLkDFqUftQimwkmTqEXtg3CYVj72fafrE1pump": {
-      "symbol": "DOTF",
-      "qty": 755.9770298587483,
-      "entry_price": 0.06547817995111425,
-      "last_price": 0.06757228906,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T06:23:36+00:00",
-      "missing": 0
-    },
     "82wUr948pKQBajLCCMtu5bYSG5qq2A4X32s4rKzopump": {
       "symbol": "$BANX",
       "qty": 5866518.6213248065,
       "entry_price": 8.437712925697944e-06,
-      "last_price": 8.138340445785602e-06,
+      "last_price": 8.138340446e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T07:18:40+00:00",
+      "missing": 0
+    },
+    "FF6iud4J472ckSsWRzT89wydQspFJquhzdno2ebkpump": {
+      "symbol": "Auton",
+      "qty": 999921.82470604,
+      "entry_price": 4.950386997958781e-05,
+      "last_price": 4.7949905446683265e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T07:41:21+00:00",
+      "missing": 0
+    },
+    "CgqZdiSMUu6XLTRxQugtqPXbSx7sp8Mq8ptG12GJpump": {
+      "symbol": "Auton",
+      "qty": 1160106.6177026862,
+      "entry_price": 4.266849205465521e-05,
+      "last_price": 4.130584930173375e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T07:41:21+00:00",
+      "missing": 0
+    },
+    "3JuKpRqoptXyE9Js91JU5a3SkaDgTHMvD35CAPfipump": {
+      "symbol": "CRANKER",
+      "qty": 2219439.582775746,
+      "entry_price": 2.2302927452565635e-05,
+      "last_price": 2.1533281882224524e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T07:41:21+00:00",
       "missing": 0
     }
   },
@@ -1315,6 +1333,40 @@
       "address": "82wUr948pKQBajLCCMtu5bYSG5qq2A4X32s4rKzopump",
       "price": 8.437712925697944e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T07:41:21+00:00",
+      "side": "sell",
+      "symbol": "DOTF",
+      "address": "C1h1VKMLkDFqUftQimwkmTqEXtg3CYVj72fafrE1pump",
+      "price": 0.06765068092,
+      "proceeds": 47.82,
+      "pnl_usd": -2.18,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T07:41:21+00:00",
+      "side": "buy",
+      "symbol": "Auton",
+      "address": "FF6iud4J472ckSsWRzT89wydQspFJquhzdno2ebkpump",
+      "price": 4.950386997958781e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T07:41:21+00:00",
+      "side": "buy",
+      "symbol": "Auton",
+      "address": "CgqZdiSMUu6XLTRxQugtqPXbSx7sp8Mq8ptG12GJpump",
+      "price": 4.266849205465521e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T07:41:21+00:00",
+      "side": "buy",
+      "symbol": "CRANKER",
+      "address": "3JuKpRqoptXyE9Js91JU5a3SkaDgTHMvD35CAPfipump",
+      "price": 2.2302927452565635e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1445,6 +1497,10 @@
     {
       "date": "2026-10-05T07:18:40+00:00",
       "equity": 552254.96
+    },
+    {
+      "date": "2026-10-05T07:41:21+00:00",
+      "equity": 552245.35
     }
   ]
 }
