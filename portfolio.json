@@ -1,14 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 552409.5477323248,
+  "cash": 552663.2452851657,
   "positions": {
-    "9aQwx5QQSpvrntr7EvHqRNbAqKrLUd9WaiqHGZoppump": {
+    "8NBAZqTKLCoC1pyXa6KHG5GfJtM1XoGhF9K2Tz8vpump": {
       "symbol": "ANY",
-      "qty": 1242035.4702163287,
-      "entry_price": 3.985393427723803e-05,
-      "last_price": 3.848233481503544e-05,
+      "qty": 1004098.5291550221,
+      "entry_price": 4.929795091090879e-05,
+      "last_price": 4.7749555127842606e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T11:20:49+00:00",
+      "entry_time": "2026-10-05T11:43:21+00:00",
       "missing": 0
     }
   },
@@ -1676,6 +1676,24 @@
       "address": "9aQwx5QQSpvrntr7EvHqRNbAqKrLUd9WaiqHGZoppump",
       "price": 3.985393427723803e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T11:43:21+00:00",
+      "side": "sell",
+      "symbol": "ANY",
+      "address": "9aQwx5QQSpvrntr7EvHqRNbAqKrLUd9WaiqHGZoppump",
+      "price": 0.0002575352777,
+      "proceeds": 303.7,
+      "pnl_usd": 253.7,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T11:43:21+00:00",
+      "side": "buy",
+      "symbol": "ANY",
+      "address": "8NBAZqTKLCoC1pyXa6KHG5GfJtM1XoGhF9K2Tz8vpump",
+      "price": 4.929795091090879e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1850,6 +1868,10 @@
     {
       "date": "2026-10-05T11:20:49+00:00",
       "equity": 552457.34
+    },
+    {
+      "date": "2026-10-05T11:43:21+00:00",
+      "equity": 552711.19
     }
   ]
 }
