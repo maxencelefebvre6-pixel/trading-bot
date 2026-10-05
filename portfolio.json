@@ -1,23 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 552492.089682106,
+  "cash": 552575.5541591899,
   "positions": {
-    "77K3wfGSgrmUUGTv56cH13rBm9bSYsnVhQY67ZS5pump": {
-      "symbol": "BARRON",
-      "qty": 5844320.869990577,
-      "entry_price": 8.46976083297764e-06,
-      "last_price": 8.17114774778272e-06,
+    "EwDymCbbMhNxJ5xrQgwix1MVoPdnVNbebLt6pxeUpump": {
+      "symbol": "KWIF",
+      "qty": 1008373.5673848712,
+      "entry_price": 4.908895036625556e-05,
+      "last_price": 4.754694772885763e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T12:57:18+00:00",
+      "entry_time": "2026-10-05T13:25:00+00:00",
       "missing": 0
     },
-    "JNWePghAnPqWMpDvu2Tp1fyCWyxhqEcR6FC3Xjwpump": {
-      "symbol": "OFF",
-      "qty": 4162825.9163620733,
-      "entry_price": 1.1890960850762273e-05,
-      "last_price": 1.1452422756470803e-05,
+    "DL3Yhk8nrhqYGQL9ScfL3DqeVqCJDu914Nnzxk19pump": {
+      "symbol": "Tabfold",
+      "qty": 4207456.4669614015,
+      "entry_price": 1.176482760753282e-05,
+      "last_price": 1.132777486311986e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T12:57:18+00:00",
+      "entry_time": "2026-10-05T13:25:00+00:00",
+      "missing": 0
+    },
+    "3eVTqortfqWjwXoxvh5C8TYvfsSrPemsRe3BH7Wtpump": {
+      "symbol": "PUMP",
+      "qty": 5663219.229195722,
+      "entry_price": 8.740611655083302e-06,
+      "last_price": 8.440232126818627e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T13:25:00+00:00",
       "missing": 0
     }
   },
@@ -1801,6 +1810,50 @@
       "address": "JNWePghAnPqWMpDvu2Tp1fyCWyxhqEcR6FC3Xjwpump",
       "price": 1.1890960850762273e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T13:25:00+00:00",
+      "side": "sell",
+      "symbol": "BARRON",
+      "address": "77K3wfGSgrmUUGTv56cH13rBm9bSYsnVhQY67ZS5pump",
+      "price": 3.394622859e-06,
+      "proceeds": 18.91,
+      "pnl_usd": -31.09,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T13:25:00+00:00",
+      "side": "sell",
+      "symbol": "OFF",
+      "address": "JNWePghAnPqWMpDvu2Tp1fyCWyxhqEcR6FC3Xjwpump",
+      "price": 5.485007642e-05,
+      "proceeds": 214.56,
+      "pnl_usd": 164.56,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T13:25:00+00:00",
+      "side": "buy",
+      "symbol": "KWIF",
+      "address": "EwDymCbbMhNxJ5xrQgwix1MVoPdnVNbebLt6pxeUpump",
+      "price": 4.908895036625556e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T13:25:00+00:00",
+      "side": "buy",
+      "symbol": "Tabfold",
+      "address": "DL3Yhk8nrhqYGQL9ScfL3DqeVqCJDu914Nnzxk19pump",
+      "price": 1.176482760753282e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T13:25:00+00:00",
+      "side": "buy",
+      "symbol": "PUMP",
+      "address": "3eVTqortfqWjwXoxvh5C8TYvfsSrPemsRe3BH7Wtpump",
+      "price": 8.740611655083302e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1991,6 +2044,10 @@
     {
       "date": "2026-10-05T12:57:18+00:00",
       "equity": 552587.52
+    },
+    {
+      "date": "2026-10-05T13:25:00+00:00",
+      "equity": 552718.96
     }
   ]
 }
