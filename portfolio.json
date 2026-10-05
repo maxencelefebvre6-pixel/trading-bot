@@ -1,23 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 314611.26165257953,
+  "cash": 314598.7303547586,
   "positions": {
-    "Cy8oivbihjxjJ9aLY2A2a6ThXh3mt6zbqJgoanRMpump": {
-      "symbol": "JeanA",
-      "qty": 790850.1308607026,
-      "entry_price": 6.259087287009471e-05,
-      "last_price": 6.063033955306462e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T02:17:05+00:00",
-      "missing": 0
-    },
     "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump": {
       "symbol": "HUMANSPAD",
-      "qty": 3300198.8148088483,
-      "entry_price": 1.4999096350765492e-05,
-      "last_price": 1.4466641059764314e-05,
+      "qty": 1416208.5048941968,
+      "entry_price": 3.495248039320177e-05,
+      "last_price": 3.382285155284815e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T02:17:05+00:00",
+      "entry_time": "2026-10-05T02:37:44+00:00",
+      "missing": 0
+    },
+    "7WZoVKpJENzwk9Fv2KAwJP9Mnupzq4SGYR6DJjYwpump": {
+      "symbol": "Beam",
+      "qty": 5250085.538534845,
+      "entry_price": 9.428417810848487e-06,
+      "last_price": 9.072705406773579e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T02:37:44+00:00",
+      "missing": 0
+    },
+    "DCiDFSu6Q7pkrHCVc3LQFZMq2TkrUyeqy343X8WHpump": {
+      "symbol": "Human",
+      "qty": 10575482.067088403,
+      "entry_price": 4.680637694431658e-06,
+      "last_price": 4.5023899372797704e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T02:37:44+00:00",
       "missing": 0
     }
   },
@@ -865,6 +874,50 @@
       "address": "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump",
       "price": 1.4999096350765492e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T02:37:44+00:00",
+      "side": "sell",
+      "symbol": "JeanA",
+      "address": "Cy8oivbihjxjJ9aLY2A2a6ThXh3mt6zbqJgoanRMpump",
+      "price": 2.756872053e-06,
+      "proceeds": 2.09,
+      "pnl_usd": -47.91,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T02:37:44+00:00",
+      "side": "sell",
+      "symbol": "HUMANSPAD",
+      "address": "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump",
+      "price": 4.963116985e-05,
+      "proceeds": 135.38,
+      "pnl_usd": 85.38,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T02:37:44+00:00",
+      "side": "buy",
+      "symbol": "HUMANSPAD",
+      "address": "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump",
+      "price": 3.495248039320177e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T02:37:44+00:00",
+      "side": "buy",
+      "symbol": "Beam",
+      "address": "7WZoVKpJENzwk9Fv2KAwJP9Mnupzq4SGYR6DJjYwpump",
+      "price": 9.428417810848487e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T02:37:44+00:00",
+      "side": "buy",
+      "symbol": "Human",
+      "address": "DCiDFSu6Q7pkrHCVc3LQFZMq2TkrUyeqy343X8WHpump",
+      "price": 4.680637694431658e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -951,6 +1004,10 @@
     {
       "date": "2026-10-05T02:17:05+00:00",
       "equity": 314706.95
+    },
+    {
+      "date": "2026-10-05T02:37:44+00:00",
+      "equity": 314741.88
     }
   ]
 }
