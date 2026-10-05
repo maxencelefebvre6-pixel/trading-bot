@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 641209.4684178049,
+  "cash": 641110.8605511746,
   "positions": {
     "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump": {
       "symbol": "CKPE",
@@ -11,22 +11,31 @@
       "entry_time": "2026-10-05T21:32:09+00:00",
       "missing": 0
     },
-    "7yHUCnZkPEzgCr7rSq7dwoBtrAT9iDyXgc1NiQeQpump": {
-      "symbol": "Quants",
-      "qty": 3892225.403958973,
-      "entry_price": 1.271766017190349e-05,
-      "last_price": 1.2260738894007653e-05,
+    "EyZRGobHoi7jXi2yQxgsGBfX6QgLPeywRRcboaiRpump": {
+      "symbol": "ily",
+      "qty": 1941084.7412290587,
+      "entry_price": 2.5501205047162198e-05,
+      "last_price": 2.4620165788754685e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T21:41:47+00:00",
+      "entry_time": "2026-10-05T21:58:51+00:00",
       "missing": 0
     },
-    "EtbsgMyLMWi2WSweFSLxUChtYJesSMPC7Qf67p24pump": {
-      "symbol": "NHTL",
-      "qty": 12091841.841327123,
-      "entry_price": 4.0936691572346265e-06,
-      "last_price": 3.940019228315923e-06,
+    "GhbQttett4TjRQAt5hpmR6VWENY2QGZaiUHepfGApump": {
+      "symbol": "noceiling",
+      "qty": 1311287.716495207,
+      "entry_price": 3.774915251421935e-05,
+      "last_price": 3.647441278005381e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T21:41:47+00:00",
+      "entry_time": "2026-10-05T21:58:51+00:00",
+      "missing": 0
+    },
+    "7fKbDN5GxLW2EXd7vj1AbVHHBSzzFtd8GvH9z8Tjpump": {
+      "symbol": "ily",
+      "qty": 1514034.9380516899,
+      "entry_price": 3.2694093614311326e-05,
+      "last_price": 3.157412627919372e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T21:58:51+00:00",
       "missing": 0
     }
   },
@@ -2394,6 +2403,50 @@
       "address": "EtbsgMyLMWi2WSweFSLxUChtYJesSMPC7Qf67p24pump",
       "price": 4.0936691572346265e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T21:58:51+00:00",
+      "side": "sell",
+      "symbol": "Quants",
+      "address": "7yHUCnZkPEzgCr7rSq7dwoBtrAT9iDyXgc1NiQeQpump",
+      "price": 3.434976823e-06,
+      "proceeds": 12.77,
+      "pnl_usd": -37.23,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T21:58:51+00:00",
+      "side": "sell",
+      "symbol": "NHTL",
+      "address": "EtbsgMyLMWi2WSweFSLxUChtYJesSMPC7Qf67p24pump",
+      "price": 3.379023678e-06,
+      "proceeds": 38.62,
+      "pnl_usd": -11.38,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T21:58:51+00:00",
+      "side": "buy",
+      "symbol": "ily",
+      "address": "EyZRGobHoi7jXi2yQxgsGBfX6QgLPeywRRcboaiRpump",
+      "price": 2.5501205047162198e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T21:58:51+00:00",
+      "side": "buy",
+      "symbol": "noceiling",
+      "address": "GhbQttett4TjRQAt5hpmR6VWENY2QGZaiUHepfGApump",
+      "price": 3.774915251421935e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T21:58:51+00:00",
+      "side": "buy",
+      "symbol": "ily",
+      "address": "7fKbDN5GxLW2EXd7vj1AbVHHBSzzFtd8GvH9z8Tjpump",
+      "price": 3.2694093614311326e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2656,6 +2709,10 @@
     {
       "date": "2026-10-05T21:41:47+00:00",
       "equity": 641352.55
+    },
+    {
+      "date": "2026-10-05T21:58:51+00:00",
+      "equity": 641302.01
     }
   ]
 }
