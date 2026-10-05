@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 567398.3366576176,
+  "cash": 567445.9570424793,
   "positions": {
-    "HPwesJWgA6DNjKCMT9y1AxDgQvwhfL6qGvuzPTkEpump": {
-      "symbol": "USDF",
-      "qty": 4887.099569066189,
-      "entry_price": 0.010128707078799766,
-      "last_price": 0.01013981084,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T14:06:40+00:00",
-      "missing": 0
-    },
     "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump": {
       "symbol": "att",
       "qty": 7302615.811999459,
@@ -24,7 +15,7 @@
       "symbol": "TRUMPTANA",
       "qty": 6012780.190610062,
       "entry_price": 8.232464588893891e-06,
-      "last_price": 7.929444764829417e-06,
+      "last_price": 7.906917472e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T14:55:11+00:00",
       "missing": 0
@@ -2052,6 +2043,16 @@
       "address": "8mF5MKKEk4bX7Bdfhdt2BQ8jQr6nKGid2B544Msfpump",
       "price": 8.232464588893891e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T15:18:58+00:00",
+      "side": "sell",
+      "symbol": "USDF",
+      "address": "HPwesJWgA6DNjKCMT9y1AxDgQvwhfL6qGvuzPTkEpump",
+      "price": 0.01015048664,
+      "proceeds": 47.62,
+      "pnl_usd": -2.38,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -2262,6 +2263,10 @@
     {
       "date": "2026-10-05T14:55:11+00:00",
       "equity": 567543.18
+    },
+    {
+      "date": "2026-10-05T15:18:59+00:00",
+      "equity": 567541.11
     }
   ]
 }
