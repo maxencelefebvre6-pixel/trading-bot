@@ -1,23 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 552588.4972230456,
+  "cash": 552566.8739860128,
   "positions": {
-    "HJo4v9isWFZgoksMFbkzGDkGmvzrBkeDiEkLZKt6pump": {
-      "symbol": "DEMO",
-      "qty": 5652466.585329447,
-      "entry_price": 8.75723885364905e-06,
-      "last_price": 8.434723066233879e-06,
+    "HeaMinytPmTNJmU9dQNhGv7QU4mkJ3YBNajisBtFpump": {
+      "symbol": "Nice Coin",
+      "qty": 2055488.2999526781,
+      "entry_price": 2.4081869014355178e-05,
+      "last_price": 2.3253508072741054e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T12:00:18+00:00",
+      "entry_time": "2026-10-05T12:29:46+00:00",
       "missing": 0
     },
-    "HqZCswKyyYf6dSetc4bagv5FBSJajqH6wHQXt3GGpump": {
-      "symbol": "DICE",
-      "qty": 6452046.931207013,
-      "entry_price": 7.671983872370844e-06,
-      "last_price": 7.379480767937906e-06,
+    "DC8J9r8HG1DLTfXhtpjycTbCDCeQacCmFAnycQaSpump": {
+      "symbol": "PUMP",
+      "qty": 2371557.9506750964,
+      "entry_price": 2.0872355232099283e-05,
+      "last_price": 2.011548425906392e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T12:00:18+00:00",
+      "entry_time": "2026-10-05T12:29:46+00:00",
       "missing": 0
     }
   },
@@ -1729,6 +1729,42 @@
       "address": "HqZCswKyyYf6dSetc4bagv5FBSJajqH6wHQXt3GGpump",
       "price": 7.671983872370844e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T12:29:45+00:00",
+      "side": "sell",
+      "symbol": "DEMO",
+      "address": "HJo4v9isWFZgoksMFbkzGDkGmvzrBkeDiEkLZKt6pump",
+      "price": 1.461962934e-05,
+      "proceeds": 77.31,
+      "pnl_usd": 27.31,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T12:29:45+00:00",
+      "side": "sell",
+      "symbol": "DICE",
+      "address": "HqZCswKyyYf6dSetc4bagv5FBSJajqH6wHQXt3GGpump",
+      "price": 1.728834031e-07,
+      "proceeds": 1.06,
+      "pnl_usd": -48.94,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T12:29:46+00:00",
+      "side": "buy",
+      "symbol": "Nice Coin",
+      "address": "HeaMinytPmTNJmU9dQNhGv7QU4mkJ3YBNajisBtFpump",
+      "price": 2.4081869014355178e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T12:29:46+00:00",
+      "side": "buy",
+      "symbol": "PUMP",
+      "address": "DC8J9r8HG1DLTfXhtpjycTbCDCeQacCmFAnycQaSpump",
+      "price": 2.0872355232099283e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1911,6 +1947,10 @@
     {
       "date": "2026-10-05T12:00:18+00:00",
       "equity": 552683.79
+    },
+    {
+      "date": "2026-10-05T12:29:46+00:00",
+      "equity": 552662.38
     }
   ]
 }
