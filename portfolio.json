@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 314551.0467672435,
+  "cash": 314671.6913572651,
   "positions": {
     "DbTfeF2equtPC9GcirhRtF38sMi8EqskNmKYNp1Rpump": {
       "symbol": "DOOB",
@@ -11,31 +11,31 @@
       "entry_time": "2026-10-04T23:47:21+00:00",
       "missing": 0
     },
-    "4xhCKUxvFTvva9Qgq6raEMjwh5cVfjQtrZ2UNpSzpump": {
-      "symbol": "Human",
-      "qty": 991893.0419566489,
-      "entry_price": 4.990457428993984e-05,
-      "last_price": 4.833827877203078e-05,
+    "F52W8dqyhJBcjS4eV4hpgVuhYeofucvCweaZDbyppump": {
+      "symbol": "GOON",
+      "qty": 3379820.70272072,
+      "entry_price": 1.4645747320309928e-05,
+      "last_price": 1.4127398702335208e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-04T23:59:22+00:00",
+      "entry_time": "2026-10-05T00:31:08+00:00",
       "missing": 0
     },
-    "3M4EPrHdBxxRDCb8q2RTDQ3oDTi3QGi3iMgVxifqpump": {
-      "symbol": "$T800",
-      "qty": 1860149.555787861,
-      "entry_price": 2.6610763551769586e-05,
-      "last_price": 2.5679310836189056e-05,
+    "Bd6B4iqQxmnP2Rd3TCWDxGi3PJ3rvXsHy97NzCFipump": {
+      "symbol": "THINGS",
+      "qty": 6278263.71139583,
+      "entry_price": 7.884345461652294e-06,
+      "last_price": 7.587150247607978e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-04T23:59:22+00:00",
+      "entry_time": "2026-10-05T00:31:08+00:00",
       "missing": 0
     },
-    "FtzN8RU8yurtkkSS87Pf3iX5NujnTV8FYy6Q8zJMpump": {
-      "symbol": "ashe",
-      "qty": 9552976.228810191,
-      "entry_price": 5.181631233491005e-06,
-      "last_price": 4.983280983641455e-06,
+    "A1mtFkUjPt3KdV2KBuHHSbL5QpiBEtXnBEubFTwbpump": {
+      "symbol": "ZABSON",
+      "qty": 4965477.55227197,
+      "entry_price": 9.968829680309626e-06,
+      "last_price": 9.614325360709012e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-04T23:59:22+00:00",
+      "entry_time": "2026-10-05T00:31:08+00:00",
       "missing": 0
     }
   },
@@ -611,6 +611,60 @@
       "address": "FtzN8RU8yurtkkSS87Pf3iX5NujnTV8FYy6Q8zJMpump",
       "price": 5.181631233491005e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T00:31:08+00:00",
+      "side": "sell",
+      "symbol": "Human",
+      "address": "4xhCKUxvFTvva9Qgq6raEMjwh5cVfjQtrZ2UNpSzpump",
+      "price": 0.0004260897687,
+      "proceeds": 209.2,
+      "pnl_usd": 159.2,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T00:31:08+00:00",
+      "side": "sell",
+      "symbol": "$T800",
+      "address": "3M4EPrHdBxxRDCb8q2RTDQ3oDTi3QGi3iMgVxifqpump",
+      "price": 1.681334391e-05,
+      "proceeds": 29.89,
+      "pnl_usd": -20.11,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T00:31:08+00:00",
+      "side": "sell",
+      "symbol": "ashe",
+      "address": "FtzN8RU8yurtkkSS87Pf3iX5NujnTV8FYy6Q8zJMpump",
+      "price": 3.482929078e-06,
+      "proceeds": 31.55,
+      "pnl_usd": -18.45,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T00:31:08+00:00",
+      "side": "buy",
+      "symbol": "GOON",
+      "address": "F52W8dqyhJBcjS4eV4hpgVuhYeofucvCweaZDbyppump",
+      "price": 1.4645747320309928e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T00:31:08+00:00",
+      "side": "buy",
+      "symbol": "THINGS",
+      "address": "Bd6B4iqQxmnP2Rd3TCWDxGi3PJ3rvXsHy97NzCFipump",
+      "price": 7.884345461652294e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T00:31:08+00:00",
+      "side": "buy",
+      "symbol": "ZABSON",
+      "address": "A1mtFkUjPt3KdV2KBuHHSbL5QpiBEtXnBEubFTwbpump",
+      "price": 9.968829680309626e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -677,6 +731,10 @@
     {
       "date": "2026-10-04T23:59:22+00:00",
       "equity": 314742.17
+    },
+    {
+      "date": "2026-10-05T00:31:08+00:00",
+      "equity": 314862.62
     }
   ]
 }
