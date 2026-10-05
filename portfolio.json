@@ -1,59 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 314438.57380760525,
+  "cash": 314611.26165257953,
   "positions": {
-    "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump": {
-      "symbol": "CBC",
-      "qty": 2670848.5111081805,
-      "entry_price": 1.853343602009895e-05,
-      "last_price": 1.79274796e-05,
+    "Cy8oivbihjxjJ9aLY2A2a6ThXh3mt6zbqJgoanRMpump": {
+      "symbol": "JeanA",
+      "qty": 790850.1308607026,
+      "entry_price": 6.259087287009471e-05,
+      "last_price": 6.063033955306462e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T00:57:12+00:00",
+      "entry_time": "2026-10-05T02:17:05+00:00",
       "missing": 0
     },
-    "3uYpLn1rmU6uspiXka6Wd2Q5DBpCnStMZqwTwhVNpump": {
-      "symbol": "Attention+",
-      "qty": 999901.5471037346,
-      "entry_price": 4.9504873898214534e-05,
-      "last_price": 4.7950505838019576e-05,
+    "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump": {
+      "symbol": "HUMANSPAD",
+      "qty": 3300198.8148088483,
+      "entry_price": 1.4999096350765492e-05,
+      "last_price": 1.4466641059764314e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T01:55:34+00:00",
-      "missing": 0
-    },
-    "qgARFoVmTgx5H8v4C73UEtGN5nR4bYJLaVLLzFCpump": {
-      "symbol": "Super Inu",
-      "qty": 107908.06958182337,
-      "entry_price": 0.00045872380250918743,
-      "last_price": 0.00044500128661163475,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T01:55:34+00:00",
-      "missing": 0
-    },
-    "CNbSP9iD1PyST7kqzpv6QSwj9owLZzXBVnxuMgnApump": {
-      "symbol": "LOCALER",
-      "qty": 5114433.854356761,
-      "entry_price": 9.678490603184383e-06,
-      "last_price": 9.310861115382441e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T01:55:34+00:00",
-      "missing": 0
-    },
-    "3fKaPunaMV8DAxRMoArwV1M1WvQamiHbCCwbBFqjpump": {
-      "symbol": "Allowance",
-      "qty": 2596241.763668276,
-      "entry_price": 1.90660210049393e-05,
-      "last_price": 1.834725730305697e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T01:55:34+00:00",
-      "missing": 0
-    },
-    "97EouEau4KgNJtWpXogTQv3HawaKLa4y3XQXFm4Fpump": {
-      "symbol": "CBC",
-      "qty": 4735273.337528223,
-      "entry_price": 1.0453462022498288e-05,
-      "last_price": 1.0079273961535979e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T01:55:34+00:00",
+      "entry_time": "2026-10-05T02:17:05+00:00",
       "missing": 0
     }
   },
@@ -825,6 +789,82 @@
       "address": "97EouEau4KgNJtWpXogTQv3HawaKLa4y3XQXFm4Fpump",
       "price": 1.0453462022498288e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "side": "sell",
+      "symbol": "CBC",
+      "address": "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump",
+      "price": 1.79274796e-05,
+      "proceeds": 45.81,
+      "pnl_usd": -4.19,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "side": "sell",
+      "symbol": "Attention+",
+      "address": "3uYpLn1rmU6uspiXka6Wd2Q5DBpCnStMZqwTwhVNpump",
+      "price": 0.0001693468324,
+      "proceeds": 83.82,
+      "pnl_usd": 33.82,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "side": "sell",
+      "symbol": "Super Inu",
+      "address": "qgARFoVmTgx5H8v4C73UEtGN5nR4bYJLaVLLzFCpump",
+      "price": 2.18877043e-06,
+      "proceeds": 0.23,
+      "pnl_usd": -49.77,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "side": "sell",
+      "symbol": "LOCALER",
+      "address": "CNbSP9iD1PyST7kqzpv6QSwj9owLZzXBVnxuMgnApump",
+      "price": 3.418766466e-06,
+      "proceeds": 16.68,
+      "pnl_usd": -33.32,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "side": "sell",
+      "symbol": "Allowance",
+      "address": "3fKaPunaMV8DAxRMoArwV1M1WvQamiHbCCwbBFqjpump",
+      "price": 3.407124996e-06,
+      "proceeds": 8.47,
+      "pnl_usd": -41.53,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "side": "sell",
+      "symbol": "CBC",
+      "address": "97EouEau4KgNJtWpXogTQv3HawaKLa4y3XQXFm4Fpump",
+      "price": 2.604637116e-05,
+      "proceeds": 117.69,
+      "pnl_usd": 67.69,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "side": "buy",
+      "symbol": "JeanA",
+      "address": "Cy8oivbihjxjJ9aLY2A2a6ThXh3mt6zbqJgoanRMpump",
+      "price": 6.259087287009471e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "side": "buy",
+      "symbol": "HUMANSPAD",
+      "address": "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump",
+      "price": 1.4999096350765492e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -907,6 +947,10 @@
     {
       "date": "2026-10-05T01:55:34+00:00",
       "equity": 314725.4
+    },
+    {
+      "date": "2026-10-05T02:17:05+00:00",
+      "equity": 314706.95
     }
   ]
 }
