@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 567445.9570424793,
+  "cash": 567391.2398905332,
   "positions": {
-    "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump": {
-      "symbol": "att",
-      "qty": 7302615.811999459,
-      "entry_price": 6.77839301345457e-06,
-      "last_price": 6.519408311e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T14:33:34+00:00",
-      "missing": 0
-    },
     "8mF5MKKEk4bX7Bdfhdt2BQ8jQr6nKGid2B544Msfpump": {
       "symbol": "TRUMPTANA",
       "qty": 6012780.190610062,
@@ -18,6 +9,24 @@
       "last_price": 7.906917472e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T14:55:11+00:00",
+      "missing": 0
+    },
+    "4QDYEVmVEGhGzM1YkrzNLgVrxM4iD6CuNsgZmsvgpump": {
+      "symbol": "solOS",
+      "qty": 1009965.3286149187,
+      "entry_price": 4.9011583464835395e-05,
+      "last_price": 4.747155805462661e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T15:41:24+00:00",
+      "missing": 0
+    },
+    "GvpTKh6shHeoTurUmiHoxkJ87bsiVy6JKSj9zmJ3pump": {
+      "symbol": "RE-TRILLIONIZ",
+      "qty": 2573079.677852389,
+      "entry_price": 1.9237647565315578e-05,
+      "last_price": 1.8563433573410368e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T15:41:24+00:00",
       "missing": 0
     }
   },
@@ -2053,6 +2062,32 @@
       "proceeds": 47.62,
       "pnl_usd": -2.38,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T15:41:24+00:00",
+      "side": "sell",
+      "symbol": "att",
+      "address": "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump",
+      "price": 6.519408311e-06,
+      "proceeds": 45.28,
+      "pnl_usd": -4.72,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T15:41:24+00:00",
+      "side": "buy",
+      "symbol": "solOS",
+      "address": "4QDYEVmVEGhGzM1YkrzNLgVrxM4iD6CuNsgZmsvgpump",
+      "price": 4.9011583464835395e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T15:41:24+00:00",
+      "side": "buy",
+      "symbol": "RE-TRILLIONIZ",
+      "address": "GvpTKh6shHeoTurUmiHoxkJ87bsiVy6JKSj9zmJ3pump",
+      "price": 1.9237647565315578e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2267,6 +2302,10 @@
     {
       "date": "2026-10-05T15:18:59+00:00",
       "equity": 567541.11
+    },
+    {
+      "date": "2026-10-05T15:41:24+00:00",
+      "equity": 567534.49
     }
   ]
 }
