@@ -1,32 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 552070.5167444275,
+  "cash": 552156.1332364079,
   "positions": {
-    "pUuEmX3Uex66fhwboHo9gBoyMMYG3LdZpBNGhLvpump": {
-      "symbol": "IOF",
-      "qty": 5092.985319036537,
-      "entry_price": 0.009719250478688626,
-      "last_price": 0.009871927825,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T05:54:51+00:00",
-      "missing": 0
-    },
     "C1h1VKMLkDFqUftQimwkmTqEXtg3CYVj72fafrE1pump": {
       "symbol": "DOTF",
       "qty": 755.9770298587483,
       "entry_price": 0.06547817995111425,
-      "last_price": 0.06638291862,
+      "last_price": 0.06757228906,
       "cost": 50.0,
       "entry_time": "2026-10-05T06:23:36+00:00",
       "missing": 0
     },
-    "HmaBjdmqnxboGq6kZafJ37CgWnFmQP1mGxwEPXinpump": {
-      "symbol": "SIF",
-      "qty": 1001515.7012869308,
-      "entry_price": 4.942508633303835e-05,
-      "last_price": 4.787319633454733e-05,
+    "82wUr948pKQBajLCCMtu5bYSG5qq2A4X32s4rKzopump": {
+      "symbol": "$BANX",
+      "qty": 5866518.6213248065,
+      "entry_price": 8.437712925697944e-06,
+      "last_price": 8.138340445785602e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-05T06:54:10+00:00",
+      "entry_time": "2026-10-05T07:18:40+00:00",
       "missing": 0
     }
   },
@@ -1296,6 +1287,34 @@
       "address": "HmaBjdmqnxboGq6kZafJ37CgWnFmQP1mGxwEPXinpump",
       "price": 4.942508633303835e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T07:18:40+00:00",
+      "side": "sell",
+      "symbol": "IOF",
+      "address": "pUuEmX3Uex66fhwboHo9gBoyMMYG3LdZpBNGhLvpump",
+      "price": 0.009846242722,
+      "proceeds": 48.14,
+      "pnl_usd": -1.86,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-05T07:18:40+00:00",
+      "side": "sell",
+      "symbol": "SIF",
+      "address": "HmaBjdmqnxboGq6kZafJ37CgWnFmQP1mGxwEPXinpump",
+      "price": 0.0001764550404,
+      "proceeds": 87.48,
+      "pnl_usd": 37.48,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T07:18:40+00:00",
+      "side": "buy",
+      "symbol": "$BANX",
+      "address": "82wUr948pKQBajLCCMtu5bYSG5qq2A4X32s4rKzopump",
+      "price": 8.437712925697944e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1422,6 +1441,10 @@
     {
       "date": "2026-10-05T06:54:10+00:00",
       "equity": 552218.92
+    },
+    {
+      "date": "2026-10-05T07:18:40+00:00",
+      "equity": 552254.96
     }
   ]
 }
