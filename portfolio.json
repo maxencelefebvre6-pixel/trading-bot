@@ -1,23 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 552355.6127023079,
+  "cash": 552272.445680479,
   "positions": {
-    "Fuy2XegkNGxoZbJMRjWD8hvmQAZXRreZ8eXQMb3pump": {
-      "symbol": "MOCHI",
-      "qty": 5212348.113153023,
-      "entry_price": 9.496679601097623e-06,
-      "last_price": 9.139489258860747e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T09:07:17+00:00",
-      "missing": 0
-    },
     "Cy53sukGJC38KQ5DEQ24Ajcq6BsjJ3ysJZR6gQFdpump": {
       "symbol": "COLECTODEL",
       "qty": 14026388.086304381,
       "entry_price": 3.529062485325976e-06,
-      "last_price": 3.3968312538447574e-06,
+      "last_price": 3.402920004e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T09:07:17+00:00",
+      "missing": 0
+    },
+    "DuRjAgju4uA2N439tzQ7A1zeDJgRYpMntDfXEAnapump": {
+      "symbol": "BACKERS",
+      "qty": 998865.0914257233,
+      "entry_price": 4.955624180373198e-05,
+      "last_price": 4.800013481575197e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T09:33:34+00:00",
+      "missing": 0
+    },
+    "2MocN1TYiTxmj6W8pQ4eks6CdmTRXzWLdYMSCh9Ppump": {
+      "symbol": "FEODOR",
+      "qty": 5538013.539433909,
+      "entry_price": 8.938223001357965e-06,
+      "last_price": 8.601690061099682e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T09:33:34+00:00",
       "missing": 0
     }
   },
@@ -1531,6 +1540,32 @@
       "address": "Cy53sukGJC38KQ5DEQ24Ajcq6BsjJ3ysJZR6gQFdpump",
       "price": 3.529062485325976e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T09:33:34+00:00",
+      "side": "sell",
+      "symbol": "MOCHI",
+      "address": "Fuy2XegkNGxoZbJMRjWD8hvmQAZXRreZ8eXQMb3pump",
+      "price": 3.385915545e-06,
+      "proceeds": 16.83,
+      "pnl_usd": -33.17,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T09:33:34+00:00",
+      "side": "buy",
+      "symbol": "BACKERS",
+      "address": "DuRjAgju4uA2N439tzQ7A1zeDJgRYpMntDfXEAnapump",
+      "price": 4.955624180373198e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T09:33:34+00:00",
+      "side": "buy",
+      "symbol": "FEODOR",
+      "address": "2MocN1TYiTxmj6W8pQ4eks6CdmTRXzWLdYMSCh9Ppump",
+      "price": 8.938223001357965e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -1681,6 +1716,10 @@
     {
       "date": "2026-10-05T09:07:17+00:00",
       "equity": 552450.9
+    },
+    {
+      "date": "2026-10-05T09:33:34+00:00",
+      "equity": 552415.76
     }
   ]
 }
