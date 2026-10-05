@@ -1,32 +1,41 @@
 {
   "mode": "pumpfun",
-  "cash": 552575.5541591899,
+  "cash": 567475.5927221789,
   "positions": {
-    "EwDymCbbMhNxJ5xrQgwix1MVoPdnVNbebLt6pxeUpump": {
-      "symbol": "KWIF",
-      "qty": 1008373.5673848712,
-      "entry_price": 4.908895036625556e-05,
-      "last_price": 4.754694772885763e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T13:25:00+00:00",
-      "missing": 0
-    },
-    "DL3Yhk8nrhqYGQL9ScfL3DqeVqCJDu914Nnzxk19pump": {
-      "symbol": "Tabfold",
-      "qty": 4207456.4669614015,
-      "entry_price": 1.176482760753282e-05,
-      "last_price": 1.132777486311986e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T13:25:00+00:00",
-      "missing": 0
-    },
     "3eVTqortfqWjwXoxvh5C8TYvfsSrPemsRe3BH7Wtpump": {
       "symbol": "PUMP",
       "qty": 5663219.229195722,
       "entry_price": 8.740611655083302e-06,
-      "last_price": 8.440232126818627e-06,
+      "last_price": 8.440232127e-06,
       "cost": 50.0,
       "entry_time": "2026-10-05T13:25:00+00:00",
+      "missing": 0
+    },
+    "5MkrRi4nrJ2hS5sXdFK6ksoVXPTprMhL2G9NNcjBpump": {
+      "symbol": "HOOK",
+      "qty": 4000503.760035439,
+      "entry_price": 1.2373441688644106e-05,
+      "last_price": 1.1922805720583728e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T13:49:07+00:00",
+      "missing": 0
+    },
+    "5BNWdUotJxTUWnn63quZEv3Q4dN57pibr1vzusf8pump": {
+      "symbol": "Gus",
+      "qty": 4860066.299002968,
+      "entry_price": 1.0185046243125289e-05,
+      "last_price": 9.811704072953005e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T13:49:07+00:00",
+      "missing": 0
+    },
+    "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump": {
+      "symbol": "PALESTINE",
+      "qty": 4162628.651713605,
+      "entry_price": 1.189152435676015e-05,
+      "last_price": 1.1478821402621443e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-05T13:49:07+00:00",
       "missing": 0
     }
   },
@@ -1854,6 +1863,50 @@
       "address": "3eVTqortfqWjwXoxvh5C8TYvfsSrPemsRe3BH7Wtpump",
       "price": 8.740611655083302e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T13:49:06+00:00",
+      "side": "sell",
+      "symbol": "KWIF",
+      "address": "EwDymCbbMhNxJ5xrQgwix1MVoPdnVNbebLt6pxeUpump",
+      "price": 0.03012436514,
+      "proceeds": 15036.42,
+      "pnl_usd": 14986.42,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-05T13:49:06+00:00",
+      "side": "sell",
+      "symbol": "Tabfold",
+      "address": "DL3Yhk8nrhqYGQL9ScfL3DqeVqCJDu914Nnzxk19pump",
+      "price": 3.388263338e-06,
+      "proceeds": 13.61,
+      "pnl_usd": -36.39,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-05T13:49:07+00:00",
+      "side": "buy",
+      "symbol": "HOOK",
+      "address": "5MkrRi4nrJ2hS5sXdFK6ksoVXPTprMhL2G9NNcjBpump",
+      "price": 1.2373441688644106e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T13:49:07+00:00",
+      "side": "buy",
+      "symbol": "Gus",
+      "address": "5BNWdUotJxTUWnn63quZEv3Q4dN57pibr1vzusf8pump",
+      "price": 1.0185046243125289e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-05T13:49:07+00:00",
+      "side": "buy",
+      "symbol": "PALESTINE",
+      "address": "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump",
+      "price": 1.189152435676015e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2048,6 +2101,10 @@
     {
       "date": "2026-10-05T13:25:00+00:00",
       "equity": 552718.96
+    },
+    {
+      "date": "2026-10-05T13:49:07+00:00",
+      "equity": 567666.56
     }
   ]
 }
