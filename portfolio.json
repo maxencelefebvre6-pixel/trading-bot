@@ -1,14 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 669525.2470966282,
+  "cash": 669425.2471018168,
   "positions": {
-    "B2wFTnXEJGKV1g5WKK1ej6FduEyTXKhYqZ7YkWyFpump": {
-      "symbol": "UP",
-      "qty": 1016977.5680901011,
-      "entry_price": 4.867363996332951e-05,
-      "last_price": 4.714385926193377e-05,
+    "8oR5b2PniSoQ1zJ66nd8LtZzPekbXvk9GHMSppWbpump": {
+      "symbol": "R32",
+      "qty": 6034843.963179567,
+      "entry_price": 8.202366175830672e-06,
+      "last_price": 7.889339843470145e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-06T07:14:17+00:00",
+      "entry_time": "2026-10-06T07:36:24+00:00",
+      "missing": 0
+    },
+    "5qpr6sTXPoSNmzfsy8jy3d65qCwv9ASAeYQ6ci8ypump": {
+      "symbol": "DMA",
+      "qty": 5906566.1879770495,
+      "entry_price": 8.380503735107274e-06,
+      "last_price": 8.073512901136739e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:36:24+00:00",
       "missing": 0
     }
   },
@@ -3332,6 +3341,32 @@
       "address": "B2wFTnXEJGKV1g5WKK1ej6FduEyTXKhYqZ7YkWyFpump",
       "price": 4.867363996332951e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:36:24+00:00",
+      "side": "sell",
+      "symbol": "UP",
+      "address": "B2wFTnXEJGKV1g5WKK1ej6FduEyTXKhYqZ7YkWyFpump",
+      "price": 5.440206873e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T07:36:24+00:00",
+      "side": "buy",
+      "symbol": "R32",
+      "address": "8oR5b2PniSoQ1zJ66nd8LtZzPekbXvk9GHMSppWbpump",
+      "price": 8.202366175830672e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:36:24+00:00",
+      "side": "buy",
+      "symbol": "DMA",
+      "address": "5qpr6sTXPoSNmzfsy8jy3d65qCwv9ASAeYQ6ci8ypump",
+      "price": 8.380503735107274e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3706,6 +3741,10 @@
     {
       "date": "2026-10-06T07:14:17+00:00",
       "equity": 669573.19
+    },
+    {
+      "date": "2026-10-06T07:36:24+00:00",
+      "equity": 669520.54
     }
   ]
 }
