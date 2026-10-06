@@ -1,26 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 669563.9351360358,
-  "positions": {
-    "FmDUp5pzHkf8SThZoxy3M6fNxUW6Lv3MAm2ft1MCpump": {
-      "symbol": "COOKED",
-      "qty": 1019670.7104229865,
-      "entry_price": 4.8545083715767496e-05,
-      "last_price": 4.701917521264068e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T06:27:10+00:00",
-      "missing": 0
-    },
-    "473e3MgHs3S3cYjcGNex79v68wkjPci6XMFUBzUwpump": {
-      "symbol": "BEAM",
-      "qty": 3428646.318029639,
-      "entry_price": 1.4437184652060136e-05,
-      "last_price": 1.393126102147148e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T06:27:10+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 669575.2470966282,
+  "positions": {},
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -3313,6 +3294,26 @@
       "address": "473e3MgHs3S3cYjcGNex79v68wkjPci6XMFUBzUwpump",
       "price": 1.4437184652060136e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T06:53:48+00:00",
+      "side": "sell",
+      "symbol": "COOKED",
+      "address": "FmDUp5pzHkf8SThZoxy3M6fNxUW6Lv3MAm2ft1MCpump",
+      "price": 5.428217479e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T06:53:48+00:00",
+      "side": "sell",
+      "symbol": "BEAM",
+      "address": "473e3MgHs3S3cYjcGNex79v68wkjPci6XMFUBzUwpump",
+      "price": 3.45059347e-06,
+      "proceeds": 11.31,
+      "pnl_usd": -38.69,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -3679,6 +3680,10 @@
     {
       "date": "2026-10-06T06:27:10+00:00",
       "equity": 669659.64
+    },
+    {
+      "date": "2026-10-06T06:53:48+00:00",
+      "equity": 669575.25
     }
   ]
 }
