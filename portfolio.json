@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 686612.6904003725,
+  "cash": 686675.966189535,
   "positions": {
     "6w5uQZrpQyT5739XBnpt3Wv1eEGQbjooVdsK2m8Ppump": {
       "symbol": "MONY",
@@ -10,62 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-06T21:18:47+00:00",
       "missing": 0
-    },
-    "2Tdx84wXLmtAvmnvBPapoSJ36sCmfyoih1utPp15pump": {
-      "symbol": "RARI",
-      "qty": 1004432.544548072,
-      "entry_price": 4.928155730186114e-05,
-      "last_price": 4.7734003139536774e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T21:36:50+00:00",
-      "missing": 0
-    },
-    "kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump": {
-      "symbol": "REDEEM",
-      "qty": 396283.95303045906,
-      "entry_price": 0.0001249104325861899,
-      "last_price": 0.00012110964089137085,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T21:36:50+00:00",
-      "missing": 0
-    },
-    "DbemqvuVauWatXRfFcsK3tAeJognPTPtLYoZa5Bqpump": {
-      "symbol": "BREAD",
-      "qty": 3993290.8077094494,
-      "entry_price": 1.2395791437086242e-05,
-      "last_price": 1.1973349544838585e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T21:36:50+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-04T22:54:29+00:00",
-      "side": "sell",
-      "symbol": "$GOAT",
-      "address": "Cr2CSudegn49pg83qKYZjKgQypwVtZgy2xWw1NRZpump",
-      "price": 1.267368126e-05,
-      "proceeds": 23.63,
-      "pnl_usd": -26.37,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-04T22:54:29+00:00",
-      "side": "buy",
-      "symbol": "SHIBO",
-      "address": "Cwq4GPKtes9o4sZPmMxHZPMuRxUPmsKGQBC6KbrFpump",
-      "price": 1.747744555113993e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-04T22:54:29+00:00",
-      "side": "buy",
-      "symbol": "PSTR",
-      "address": "DqdXT8owJimNgPL84cqhtuo5CHSdNBXXkyvYeYKpump",
-      "price": 4.955744365108761e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-04T22:54:29+00:00",
       "side": "buy",
@@ -4537,6 +4484,36 @@
       "address": "DbemqvuVauWatXRfFcsK3tAeJognPTPtLYoZa5Bqpump",
       "price": 1.2395791437086242e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T21:53:11+00:00",
+      "side": "sell",
+      "symbol": "RARI",
+      "address": "2Tdx84wXLmtAvmnvBPapoSJ36sCmfyoih1utPp15pump",
+      "price": 6.227630548e-05,
+      "proceeds": 30.96,
+      "pnl_usd": -19.04,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T21:53:11+00:00",
+      "side": "sell",
+      "symbol": "REDEEM",
+      "address": "kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump",
+      "price": 2.274207357e-05,
+      "proceeds": 8.64,
+      "pnl_usd": -41.36,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T21:53:11+00:00",
+      "side": "sell",
+      "symbol": "BREAD",
+      "address": "DbemqvuVauWatXRfFcsK3tAeJognPTPtLYoZa5Bqpump",
+      "price": 1.197334954e-05,
+      "proceeds": 23.67,
+      "pnl_usd": -26.33,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5079,6 +5056,10 @@
     {
       "date": "2026-10-06T21:36:50+00:00",
       "equity": 686804.18
+    },
+    {
+      "date": "2026-10-06T21:53:11+00:00",
+      "equity": 686723.7
     }
   ]
 }
