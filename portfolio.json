@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 669206.0277751451,
+  "cash": 668976.0575169969,
   "positions": {
-    "2mmtcXsN39C8PxCxaMHy7esWhgymEzoMZq8HyVA9pump": {
-      "symbol": "buru",
-      "qty": 5842165.537435652,
-      "entry_price": 8.47288555635954e-06,
-      "last_price": 8.157711896697862e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T08:57:33+00:00",
-      "missing": 0
-    },
     "ADyg7uBg3EWajwAxERBX2yo7b2GvetcHCdeyKyprpump": {
       "symbol": "BYTE",
       "qty": 2052148.2400079272,
       "entry_price": 2.412106447037607e-05,
-      "last_price": 2.3352199813353857e-05,
+      "last_price": 2.335219981e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T08:57:33+00:00",
       "missing": 0
@@ -24,9 +15,54 @@
       "symbol": "PUMP",
       "qty": 4454679.567868449,
       "entry_price": 1.1111910350868538e-05,
-      "last_price": 1.0716374850183136e-05,
+      "last_price": 1.071637485e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T08:57:33+00:00",
+      "missing": 0
+    },
+    "A2uRZ9L8SgnZeCp4KKawdejwqTLaUU9YokxxY9N7pump": {
+      "symbol": "Q",
+      "qty": 1003038.9860036889,
+      "entry_price": 4.935002596182035e-05,
+      "last_price": 4.7800176937024056e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T09:21:22+00:00",
+      "missing": 0
+    },
+    "FpMpXXagy5tAeHXUi7zu75qUCmhJeJJyLA2CS9DNpump": {
+      "symbol": "CROSSY",
+      "qty": 4875889.102674332,
+      "entry_price": 1.0151994632702001e-05,
+      "last_price": 9.770034400543525e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T09:21:22+00:00",
+      "missing": 0
+    },
+    "5QnqyA8FrTjQc15WuE9kRnuKfDuW2zuzru462L8Npump": {
+      "symbol": "CASHCOW",
+      "qty": 5931269.678651995,
+      "entry_price": 8.345599286803952e-06,
+      "last_price": 8.040752905932264e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T09:21:22+00:00",
+      "missing": 0
+    },
+    "FTZJiS4oTmuKuWWVND5zLYrGrtJ8LEKkfRtr7WsXpump": {
+      "symbol": "PLAGUED",
+      "qty": 3888379.3448931337,
+      "entry_price": 1.2730239415815134e-05,
+      "last_price": 1.229558912267899e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T09:21:22+00:00",
+      "missing": 0
+    },
+    "GQp8sNQYGATCA47sEh84EcpPvnv2xufGTz6xFWBppump": {
+      "symbol": "JUMP",
+      "qty": 6168255.693395302,
+      "entry_price": 8.024959155471203e-06,
+      "last_price": 7.74730219212973e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T09:21:22+00:00",
       "missing": 0
     }
   },
@@ -3564,6 +3600,56 @@
       "address": "4C6AKZnoTN1FVYkc7K1EzdcX8zaDJR6zCPHRv8YQpump",
       "price": 1.1111910350868538e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T09:21:22+00:00",
+      "side": "sell",
+      "symbol": "buru",
+      "address": "2mmtcXsN39C8PxCxaMHy7esWhgymEzoMZq8HyVA9pump",
+      "price": 3.597942393e-06,
+      "proceeds": 20.03,
+      "pnl_usd": -29.97,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T09:21:22+00:00",
+      "side": "buy",
+      "symbol": "Q",
+      "address": "A2uRZ9L8SgnZeCp4KKawdejwqTLaUU9YokxxY9N7pump",
+      "price": 4.935002596182035e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T09:21:22+00:00",
+      "side": "buy",
+      "symbol": "CROSSY",
+      "address": "FpMpXXagy5tAeHXUi7zu75qUCmhJeJJyLA2CS9DNpump",
+      "price": 1.0151994632702001e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T09:21:22+00:00",
+      "side": "buy",
+      "symbol": "CASHCOW",
+      "address": "5QnqyA8FrTjQc15WuE9kRnuKfDuW2zuzru462L8Npump",
+      "price": 8.345599286803952e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T09:21:22+00:00",
+      "side": "buy",
+      "symbol": "PLAGUED",
+      "address": "FTZJiS4oTmuKuWWVND5zLYrGrtJ8LEKkfRtr7WsXpump",
+      "price": 1.2730239415815134e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T09:21:22+00:00",
+      "side": "buy",
+      "symbol": "JUMP",
+      "address": "GQp8sNQYGATCA47sEh84EcpPvnv2xufGTz6xFWBppump",
+      "price": 8.024959155471203e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3958,6 +4044,10 @@
     {
       "date": "2026-10-06T08:57:33+00:00",
       "equity": 669349.35
+    },
+    {
+      "date": "2026-10-06T09:21:22+00:00",
+      "equity": 669310.59
     }
   ]
 }
