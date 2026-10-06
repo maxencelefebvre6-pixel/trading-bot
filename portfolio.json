@@ -1,41 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 687307.9852824513,
+  "cash": 687230.1858406713,
   "positions": {
-    "EE6Cuph9DHtxf31YVFB5zrzLbWNS9zQ2PBQgQpc6pump": {
-      "symbol": "X",
-      "qty": 6656711.469289737,
-      "entry_price": 7.436104182728171e-06,
-      "last_price": 7.158080117e-06,
+    "7zueQSmz9xnj4yaPkVBcebgR85Aw4fdAq9TCMZ1cpump": {
+      "symbol": "Geeg",
+      "qty": 4872727.565891464,
+      "entry_price": 1.0158581478368367e-05,
+      "last_price": 9.772430495142354e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-06T13:55:02+00:00",
+      "entry_time": "2026-10-06T14:57:50+00:00",
       "missing": 0
     },
-    "FHVdTbrqehAD8nVv3Qa1Bgg6beuHXXeTdTr3wXGupump": {
-      "symbol": "shard",
-      "qty": 999797.0663855692,
-      "entry_price": 4.951004725283966e-05,
-      "last_price": 4.7955565350217796e-05,
+    "B2V4qvkKjs41vrkzW43oDvMmDsYdgKiKFs1SUFGtpump": {
+      "symbol": "Nori",
+      "qty": 5436479.774664811,
+      "entry_price": 9.105156654988559e-06,
+      "last_price": 8.765320679656362e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-06T14:37:38+00:00",
+      "entry_time": "2026-10-06T14:57:50+00:00",
       "missing": 0
     },
-    "5g7ancoJQK65c6c1ZaEfq2LxfT7J9PSJpj553Enbpump": {
-      "symbol": "XLIFT",
-      "qty": 3237840.995645134,
-      "entry_price": 1.5287965056522862e-05,
-      "last_price": 1.4739026059387964e-05,
+    "E8fWUeUa8awSWfKPMsn1vWstpRt1XHp3mmrUEVjjpump": {
+      "symbol": "DUMP",
+      "qty": 2760247.8357101358,
+      "entry_price": 1.7933172289677753e-05,
+      "last_price": 1.7349356572982833e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T14:37:38+00:00",
-      "missing": 0
-    },
-    "H3kLjbRfq6hmKAsvshs2GYjS1Ur8hrScVRafF6C1pump": {
-      "symbol": "XLT",
-      "qty": 4966445.727530442,
-      "entry_price": 9.966886323876896e-06,
-      "last_price": 9.598234368673e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T14:37:38+00:00",
+      "entry_time": "2026-10-06T14:57:50+00:00",
       "missing": 0
     }
   },
@@ -4139,6 +4130,70 @@
       "address": "H3kLjbRfq6hmKAsvshs2GYjS1Ur8hrScVRafF6C1pump",
       "price": 9.966886323876896e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T14:57:50+00:00",
+      "side": "sell",
+      "symbol": "X",
+      "address": "EE6Cuph9DHtxf31YVFB5zrzLbWNS9zQ2PBQgQpc6pump",
+      "price": 7.158080117e-06,
+      "proceeds": 45.36,
+      "pnl_usd": -4.64,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T14:57:50+00:00",
+      "side": "sell",
+      "symbol": "shard",
+      "address": "FHVdTbrqehAD8nVv3Qa1Bgg6beuHXXeTdTr3wXGupump",
+      "price": 5.499433095e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T14:57:50+00:00",
+      "side": "sell",
+      "symbol": "XLIFT",
+      "address": "5g7ancoJQK65c6c1ZaEfq2LxfT7J9PSJpj553Enbpump",
+      "price": 3.389570294e-06,
+      "proceeds": 10.49,
+      "pnl_usd": -39.51,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T14:57:50+00:00",
+      "side": "sell",
+      "symbol": "XLT",
+      "address": "H3kLjbRfq6hmKAsvshs2GYjS1Ur8hrScVRafF6C1pump",
+      "price": 3.449799443e-06,
+      "proceeds": 16.35,
+      "pnl_usd": -33.65,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T14:57:50+00:00",
+      "side": "buy",
+      "symbol": "Geeg",
+      "address": "7zueQSmz9xnj4yaPkVBcebgR85Aw4fdAq9TCMZ1cpump",
+      "price": 1.0158581478368367e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T14:57:50+00:00",
+      "side": "buy",
+      "symbol": "Nori",
+      "address": "B2V4qvkKjs41vrkzW43oDvMmDsYdgKiKFs1SUFGtpump",
+      "price": 9.105156654988559e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T14:57:50+00:00",
+      "side": "buy",
+      "symbol": "DUMP",
+      "address": "E8fWUeUa8awSWfKPMsn1vWstpRt1XHp3mmrUEVjjpump",
+      "price": 1.7933172289677753e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4597,6 +4652,10 @@
     {
       "date": "2026-10-06T14:37:38+00:00",
       "equity": 687498.97
+    },
+    {
+      "date": "2026-10-06T14:57:50+00:00",
+      "equity": 687373.35
     }
   ]
 }
