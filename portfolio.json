@@ -1,32 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 687230.1858406713,
+  "cash": 687214.2907326223,
   "positions": {
-    "7zueQSmz9xnj4yaPkVBcebgR85Aw4fdAq9TCMZ1cpump": {
-      "symbol": "Geeg",
-      "qty": 4872727.565891464,
-      "entry_price": 1.0158581478368367e-05,
-      "last_price": 9.772430495142354e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T14:57:50+00:00",
-      "missing": 0
-    },
-    "B2V4qvkKjs41vrkzW43oDvMmDsYdgKiKFs1SUFGtpump": {
-      "symbol": "Nori",
-      "qty": 5436479.774664811,
-      "entry_price": 9.105156654988559e-06,
-      "last_price": 8.765320679656362e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T14:57:50+00:00",
-      "missing": 0
-    },
     "E8fWUeUa8awSWfKPMsn1vWstpRt1XHp3mmrUEVjjpump": {
       "symbol": "DUMP",
       "qty": 2760247.8357101358,
       "entry_price": 1.7933172289677753e-05,
-      "last_price": 1.7349356572982833e-05,
+      "last_price": 1.734935657e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T14:57:50+00:00",
+      "missing": 0
+    },
+    "HKg2y1VoiP6GnP41i2CU7wVovETUUmhF6jT9deotpump": {
+      "symbol": "BINDER",
+      "qty": 996410.903465471,
+      "entry_price": 4.967830021514346e-05,
+      "last_price": 4.811869345353035e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T15:20:59+00:00",
       "missing": 0
     }
   },
@@ -4194,6 +4185,34 @@
       "address": "E8fWUeUa8awSWfKPMsn1vWstpRt1XHp3mmrUEVjjpump",
       "price": 1.7933172289677753e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T15:20:59+00:00",
+      "side": "sell",
+      "symbol": "Geeg",
+      "address": "7zueQSmz9xnj4yaPkVBcebgR85Aw4fdAq9TCMZ1cpump",
+      "price": 3.412076653e-06,
+      "proceeds": 15.86,
+      "pnl_usd": -34.14,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T15:20:59+00:00",
+      "side": "sell",
+      "symbol": "Nori",
+      "address": "B2V4qvkKjs41vrkzW43oDvMmDsYdgKiKFs1SUFGtpump",
+      "price": 3.519304855e-06,
+      "proceeds": 18.24,
+      "pnl_usd": -31.76,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T15:20:59+00:00",
+      "side": "buy",
+      "symbol": "BINDER",
+      "address": "HKg2y1VoiP6GnP41i2CU7wVovETUUmhF6jT9deotpump",
+      "price": 4.967830021514346e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4656,6 +4675,10 @@
     {
       "date": "2026-10-06T14:57:50+00:00",
       "equity": 687373.35
+    },
+    {
+      "date": "2026-10-06T15:20:59+00:00",
+      "equity": 687310.13
     }
   ]
 }
