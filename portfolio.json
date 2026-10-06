@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 678233.5527068689,
+  "cash": 678233.5527119497,
   "positions": {
     "52vzBEddVWgoAjSkzxyKbApKF3RYxAFEWuv654Tnpump": {
       "symbol": "$GOAT",
@@ -20,20 +20,11 @@
       "entry_time": "2026-10-06T10:59:33+00:00",
       "missing": 0
     },
-    "HceT5eCu3eViHXkqaEK1YvbGbp8YCaVHKndKMPscpump": {
-      "symbol": ".meowfart",
-      "qty": 1005097.0427456277,
-      "entry_price": 4.924897586483853e-05,
-      "last_price": 4.7702054432653777e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T11:21:58+00:00",
-      "missing": 0
-    },
     "F8S9qY1qFYACrSaCogPF2yzwH84q3Boq7VRsTKuLpump": {
       "symbol": "sanctum",
       "qty": 4339901.928274017,
       "entry_price": 1.1405787692462028e-05,
-      "last_price": 1.099293501765316e-05,
+      "last_price": 1.099293502e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T11:21:58+00:00",
       "missing": 0
@@ -42,7 +33,7 @@
       "symbol": "DODGE",
       "qty": 4241135.924745742,
       "entry_price": 1.1671401454309093e-05,
-      "last_price": 1.1241086508651816e-05,
+      "last_price": 1.124108651e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T11:21:58+00:00",
       "missing": 0
@@ -3850,6 +3841,16 @@
       "address": "CkLQ2Sz9hJ3rPqTSE3irti9tNf2zhefWKGVya8adpump",
       "price": 1.1671401454309093e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T11:41:55+00:00",
+      "side": "sell",
+      "symbol": ".meowfart",
+      "address": "HceT5eCu3eViHXkqaEK1YvbGbp8YCaVHKndKMPscpump",
+      "price": 5.46547649e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -4272,6 +4273,10 @@
     {
       "date": "2026-10-06T11:21:58+00:00",
       "equity": 678472.22
+    },
+    {
+      "date": "2026-10-06T11:41:55+00:00",
+      "equity": 678424.27
     }
   ]
 }
