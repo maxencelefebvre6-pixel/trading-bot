@@ -1,50 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 645073.390030709,
+  "cash": 645134.6086731481,
   "positions": {
-    "3oa5Gy38GwD5aRZHuitScfVfGafhYPPn7D5XYFgPpump": {
-      "symbol": "D O T F",
-      "qty": 4424.878496621419,
-      "entry_price": 0.011186747848058502,
-      "last_price": 0.0113950079,
+    "21ijR2hSz5Rrp6TjXTNXQtMWWJwPDKttFGVbBpnUpump": {
+      "symbol": "SLOP",
+      "qty": 999934.8861642235,
+      "entry_price": 4.950322334475528e-05,
+      "last_price": 4.7948889084213473e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T02:48:59+00:00",
+      "entry_time": "2026-10-06T04:01:43+00:00",
       "missing": 0
     },
-    "2wuPgrAttzi8NK2vA5kRnrQd7qtw6VpWNm4c1Gqhpump": {
-      "symbol": "Arrow",
-      "qty": 47169.168342900615,
-      "entry_price": 0.0010494143047033433,
-      "last_price": 0.00113873372,
+    "Dm5fSm8dCKdHvmKVpXYTcWX5CJWbKCDs4yAnBhCspump": {
+      "symbol": "SLOP",
+      "qty": 843634.2671139285,
+      "entry_price": 5.8674714778169725e-05,
+      "last_price": 5.683136326152526e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T03:24:24+00:00",
-      "missing": 0
-    },
-    "2oWTKCF64dMkPF4ABkDF9DfD7KaNmipzZVtdzeK6pump": {
-      "symbol": "PLAGUE",
-      "qty": 1012957.0648375849,
-      "entry_price": 4.8866829324041206e-05,
-      "last_price": 4.733141487107051e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T03:45:57+00:00",
-      "missing": 0
-    },
-    "6eG4H5JGdhA9ULnE6t6WhHYdkHxXCUd2gTfdf3VCpump": {
-      "symbol": "NASA",
-      "qty": 126163.51748445643,
-      "entry_price": 0.00039234797021332643,
-      "last_price": 0.00038058414965718253,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T03:45:57+00:00",
-      "missing": 0
-    },
-    "H4gJVtfia63SUxMnjtc7TdTZiTzcRQun9j8hLwAYpump": {
-      "symbol": "tntcat",
-      "qty": 6199129.9945207415,
-      "entry_price": 7.984991449405293e-06,
-      "last_price": 7.67992670764076e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T03:45:57+00:00",
+      "entry_time": "2026-10-06T04:01:43+00:00",
       "missing": 0
     }
   },
@@ -3040,6 +3013,72 @@
       "address": "H4gJVtfia63SUxMnjtc7TdTZiTzcRQun9j8hLwAYpump",
       "price": 7.984991449405293e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T04:01:42+00:00",
+      "side": "sell",
+      "symbol": "D O T F",
+      "address": "3oa5Gy38GwD5aRZHuitScfVfGafhYPPn7D5XYFgPpump",
+      "price": 0.01151571692,
+      "proceeds": 48.92,
+      "pnl_usd": -1.08,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T04:01:42+00:00",
+      "side": "sell",
+      "symbol": "Arrow",
+      "address": "2wuPgrAttzi8NK2vA5kRnrQd7qtw6VpWNm4c1Gqhpump",
+      "price": 0.001184712388,
+      "proceeds": 53.6,
+      "pnl_usd": 3.6,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-06T04:01:42+00:00",
+      "side": "sell",
+      "symbol": "PLAGUE",
+      "address": "2oWTKCF64dMkPF4ABkDF9DfD7KaNmipzZVtdzeK6pump",
+      "price": 6.38522137e-05,
+      "proceeds": 32.02,
+      "pnl_usd": -17.98,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T04:01:42+00:00",
+      "side": "sell",
+      "symbol": "NASA",
+      "address": "6eG4H5JGdhA9ULnE6t6WhHYdkHxXCUd2gTfdf3VCpump",
+      "price": 2.197286379e-06,
+      "proceeds": 0.27,
+      "pnl_usd": -49.73,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T04:01:42+00:00",
+      "side": "sell",
+      "symbol": "tntcat",
+      "address": "H4gJVtfia63SUxMnjtc7TdTZiTzcRQun9j8hLwAYpump",
+      "price": 4.477083153e-06,
+      "proceeds": 26.42,
+      "pnl_usd": -23.58,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T04:01:43+00:00",
+      "side": "buy",
+      "symbol": "SLOP",
+      "address": "21ijR2hSz5Rrp6TjXTNXQtMWWJwPDKttFGVbBpnUpump",
+      "price": 4.950322334475528e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T04:01:43+00:00",
+      "side": "buy",
+      "symbol": "SLOP",
+      "address": "Dm5fSm8dCKdHvmKVpXYTcWX5CJWbKCDs4yAnBhCspump",
+      "price": 5.8674714778169725e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3374,6 +3413,10 @@
     {
       "date": "2026-10-06T03:45:57+00:00",
       "equity": 645321.09
+    },
+    {
+      "date": "2026-10-06T04:01:43+00:00",
+      "equity": 645230.5
     }
   ]
 }
