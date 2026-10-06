@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 687403.3514357309,
+  "cash": 687307.9852824513,
   "positions": {
     "EE6Cuph9DHtxf31YVFB5zrzLbWNS9zQ2PBQgQpc6pump": {
       "symbol": "X",
@@ -11,22 +11,31 @@
       "entry_time": "2026-10-06T13:55:02+00:00",
       "missing": 0
     },
-    "C22mdKGLt89D56JfvcRSFSMPGoexrWiSdSGWZWutpump": {
-      "symbol": "GOMO",
-      "qty": 3223966.078019233,
-      "entry_price": 1.5353759562635418e-05,
-      "last_price": 1.4825130546504721e-05,
+    "FHVdTbrqehAD8nVv3Qa1Bgg6beuHXXeTdTr3wXGupump": {
+      "symbol": "shard",
+      "qty": 999797.0663855692,
+      "entry_price": 4.951004725283966e-05,
+      "last_price": 4.7955565350217796e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T14:17:15+00:00",
+      "entry_time": "2026-10-06T14:37:38+00:00",
       "missing": 0
     },
-    "6nmSgNNu5wE3nfQiQWpvKqjxjyrb8UMYEuZRDww1pump": {
-      "symbol": "$KLD",
-      "qty": 1955972.082333803,
-      "entry_price": 2.5307109670470446e-05,
-      "last_price": 2.4507195219753206e-05,
+    "5g7ancoJQK65c6c1ZaEfq2LxfT7J9PSJpj553Enbpump": {
+      "symbol": "XLIFT",
+      "qty": 3237840.995645134,
+      "entry_price": 1.5287965056522862e-05,
+      "last_price": 1.4739026059387964e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T14:17:15+00:00",
+      "entry_time": "2026-10-06T14:37:38+00:00",
+      "missing": 0
+    },
+    "H3kLjbRfq6hmKAsvshs2GYjS1Ur8hrScVRafF6C1pump": {
+      "symbol": "XLT",
+      "qty": 4966445.727530442,
+      "entry_price": 9.966886323876896e-06,
+      "last_price": 9.598234368673e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T14:37:38+00:00",
       "missing": 0
     }
   },
@@ -4086,6 +4095,50 @@
       "address": "6nmSgNNu5wE3nfQiQWpvKqjxjyrb8UMYEuZRDww1pump",
       "price": 2.5307109670470446e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T14:37:37+00:00",
+      "side": "sell",
+      "symbol": "GOMO",
+      "address": "C22mdKGLt89D56JfvcRSFSMPGoexrWiSdSGWZWutpump",
+      "price": 1.760019069e-05,
+      "proceeds": 53.84,
+      "pnl_usd": 3.84,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-06T14:37:37+00:00",
+      "side": "sell",
+      "symbol": "$KLD",
+      "address": "6nmSgNNu5wE3nfQiQWpvKqjxjyrb8UMYEuZRDww1pump",
+      "price": 4.247677933e-07,
+      "proceeds": 0.8,
+      "pnl_usd": -49.2,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T14:37:38+00:00",
+      "side": "buy",
+      "symbol": "shard",
+      "address": "FHVdTbrqehAD8nVv3Qa1Bgg6beuHXXeTdTr3wXGupump",
+      "price": 4.951004725283966e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T14:37:38+00:00",
+      "side": "buy",
+      "symbol": "XLIFT",
+      "address": "5g7ancoJQK65c6c1ZaEfq2LxfT7J9PSJpj553Enbpump",
+      "price": 1.5287965056522862e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T14:37:38+00:00",
+      "side": "buy",
+      "symbol": "XLT",
+      "address": "H3kLjbRfq6hmKAsvshs2GYjS1Ur8hrScVRafF6C1pump",
+      "price": 9.966886323876896e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4540,6 +4593,10 @@
     {
       "date": "2026-10-06T14:17:15+00:00",
       "equity": 687546.73
+    },
+    {
+      "date": "2026-10-06T14:37:38+00:00",
+      "equity": 687498.97
     }
   ]
 }
