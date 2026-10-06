@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 678383.5527041384,
+  "cash": 678233.5527068689,
   "positions": {
     "52vzBEddVWgoAjSkzxyKbApKF3RYxAFEWuv654Tnpump": {
       "symbol": "$GOAT",
@@ -11,22 +11,40 @@
       "entry_time": "2026-10-06T10:42:52+00:00",
       "missing": 0
     },
-    "8rR4dpp7xpxZWkaVaYQmvhiTKM5McYEaSMP9x7n1pump": {
-      "symbol": "REMORA",
-      "qty": 1009542.799236285,
-      "entry_price": 4.903209654652239e-05,
-      "last_price": 4.749169091265863e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T10:59:33+00:00",
-      "missing": 0
-    },
     "CLFretPrsXRCNEaQeZndEkySCiD7iihv7h3tM8ipump": {
       "symbol": "VIRZEC",
       "qty": 4840695.761321079,
       "entry_price": 1.022580274420942e-05,
-      "last_price": 9.863969010049974e-06,
+      "last_price": 9.860018171e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T10:59:33+00:00",
+      "missing": 0
+    },
+    "HceT5eCu3eViHXkqaEK1YvbGbp8YCaVHKndKMPscpump": {
+      "symbol": ".meowfart",
+      "qty": 1005097.0427456277,
+      "entry_price": 4.924897586483853e-05,
+      "last_price": 4.7702054432653777e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T11:21:58+00:00",
+      "missing": 0
+    },
+    "F8S9qY1qFYACrSaCogPF2yzwH84q3Boq7VRsTKuLpump": {
+      "symbol": "sanctum",
+      "qty": 4339901.928274017,
+      "entry_price": 1.1405787692462028e-05,
+      "last_price": 1.099293501765316e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T11:21:58+00:00",
+      "missing": 0
+    },
+    "CkLQ2Sz9hJ3rPqTSE3irti9tNf2zhefWKGVya8adpump": {
+      "symbol": "DODGE",
+      "qty": 4241135.924745742,
+      "entry_price": 1.1671401454309093e-05,
+      "last_price": 1.1241086508651816e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T11:21:58+00:00",
       "missing": 0
     }
   },
@@ -3798,6 +3816,40 @@
       "address": "CLFretPrsXRCNEaQeZndEkySCiD7iihv7h3tM8ipump",
       "price": 1.022580274420942e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T11:21:57+00:00",
+      "side": "sell",
+      "symbol": "REMORA",
+      "address": "8rR4dpp7xpxZWkaVaYQmvhiTKM5McYEaSMP9x7n1pump",
+      "price": 5.463915849e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T11:21:58+00:00",
+      "side": "buy",
+      "symbol": ".meowfart",
+      "address": "HceT5eCu3eViHXkqaEK1YvbGbp8YCaVHKndKMPscpump",
+      "price": 4.924897586483853e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T11:21:58+00:00",
+      "side": "buy",
+      "symbol": "sanctum",
+      "address": "F8S9qY1qFYACrSaCogPF2yzwH84q3Boq7VRsTKuLpump",
+      "price": 1.1405787692462028e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T11:21:58+00:00",
+      "side": "buy",
+      "symbol": "DODGE",
+      "address": "CkLQ2Sz9hJ3rPqTSE3irti9tNf2zhefWKGVya8adpump",
+      "price": 1.1671401454309093e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4216,6 +4268,10 @@
     {
       "date": "2026-10-06T10:59:33+00:00",
       "equity": 678526.85
+    },
+    {
+      "date": "2026-10-06T11:21:58+00:00",
+      "equity": 678472.22
     }
   ]
 }
