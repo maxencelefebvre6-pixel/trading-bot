@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 686803.8830897119,
-  "positions": {
-    "ArFfacqUUYnDLjWXGvzbGLHEyGT5PHGdim7bdiG9pump": {
-      "symbol": "XSTOK",
-      "qty": 2721792.8073693123,
-      "entry_price": 1.818654229152847e-05,
-      "last_price": 1.7552446318169462e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T20:41:19+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 686812.6904003725,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-04T22:39:01+00:00",
-      "side": "buy",
-      "symbol": "batontrump",
-      "address": "CxcqRz92SeGGgNzc2z9qb8UyHDmvBuBZpEh8pa2gpump",
-      "price": 1.6745946279938695e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-04T22:39:01+00:00",
       "side": "buy",
@@ -4512,6 +4494,16 @@
       "address": "ArFfacqUUYnDLjWXGvzbGLHEyGT5PHGdim7bdiG9pump",
       "price": 1.818654229152847e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T20:57:20+00:00",
+      "side": "sell",
+      "symbol": "XSTOK",
+      "address": "ArFfacqUUYnDLjWXGvzbGLHEyGT5PHGdim7bdiG9pump",
+      "price": 3.381577839e-06,
+      "proceeds": 8.81,
+      "pnl_usd": -41.19,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5042,6 +5034,10 @@
     {
       "date": "2026-10-06T20:41:19+00:00",
       "equity": 686851.66
+    },
+    {
+      "date": "2026-10-06T20:57:20+00:00",
+      "equity": 686812.69
     }
   ]
 }
