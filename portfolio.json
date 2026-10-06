@@ -1,23 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 645134.6086731481,
+  "cash": 659683.8995496271,
   "positions": {
-    "21ijR2hSz5Rrp6TjXTNXQtMWWJwPDKttFGVbBpnUpump": {
-      "symbol": "SLOP",
-      "qty": 999934.8861642235,
-      "entry_price": 4.950322334475528e-05,
-      "last_price": 4.7948889084213473e-05,
+    "4DuT5UUGcL7a6ekCZc3VVLxxG3bxSfmN3ie6FYVEpump": {
+      "symbol": "PLAGUE",
+      "qty": 970527.7910166051,
+      "entry_price": 5.10031762698417e-05,
+      "last_price": 4.9402240332547516e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T04:01:43+00:00",
+      "entry_time": "2026-10-06T04:24:46+00:00",
       "missing": 0
     },
-    "Dm5fSm8dCKdHvmKVpXYTcWX5CJWbKCDs4yAnBhCspump": {
-      "symbol": "SLOP",
-      "qty": 843634.2671139285,
-      "entry_price": 5.8674714778169725e-05,
-      "last_price": 5.683136326152526e-05,
+    "9ZDtQL9inSf5ZtqcnnKRBePaKPWxkktwLhraNcL2pump": {
+      "symbol": "Chungus",
+      "qty": 1223520.8417731686,
+      "entry_price": 4.045701414310433e-05,
+      "last_price": 3.909204677039836e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T04:01:43+00:00",
+      "entry_time": "2026-10-06T04:24:46+00:00",
+      "missing": 0
+    },
+    "9nV8DH5JBYUycejw1S3fPfZVQZY4zMLhTRSoHWkrpump": {
+      "symbol": "SOOTS",
+      "qty": 6394118.20609443,
+      "entry_price": 7.741489663550485e-06,
+      "last_price": 7.453599793323932e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T04:24:46+00:00",
       "missing": 0
     }
   },
@@ -3079,6 +3088,50 @@
       "address": "Dm5fSm8dCKdHvmKVpXYTcWX5CJWbKCDs4yAnBhCspump",
       "price": 5.8674714778169725e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T04:24:46+00:00",
+      "side": "sell",
+      "symbol": "SLOP",
+      "address": "21ijR2hSz5Rrp6TjXTNXQtMWWJwPDKttFGVbBpnUpump",
+      "price": 0.02961409489,
+      "proceeds": 14658.02,
+      "pnl_usd": 14608.02,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T04:24:46+00:00",
+      "side": "sell",
+      "symbol": "SLOP",
+      "address": "Dm5fSm8dCKdHvmKVpXYTcWX5CJWbKCDs4yAnBhCspump",
+      "price": 5.119829058e-05,
+      "proceeds": 41.27,
+      "pnl_usd": -8.73,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T04:24:46+00:00",
+      "side": "buy",
+      "symbol": "PLAGUE",
+      "address": "4DuT5UUGcL7a6ekCZc3VVLxxG3bxSfmN3ie6FYVEpump",
+      "price": 5.10031762698417e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T04:24:46+00:00",
+      "side": "buy",
+      "symbol": "Chungus",
+      "address": "9ZDtQL9inSf5ZtqcnnKRBePaKPWxkktwLhraNcL2pump",
+      "price": 4.045701414310433e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T04:24:46+00:00",
+      "side": "buy",
+      "symbol": "SOOTS",
+      "address": "9nV8DH5JBYUycejw1S3fPfZVQZY4zMLhTRSoHWkrpump",
+      "price": 7.741489663550485e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3417,6 +3470,10 @@
     {
       "date": "2026-10-06T04:01:43+00:00",
       "equity": 645230.5
+    },
+    {
+      "date": "2026-10-06T04:24:46+00:00",
+      "equity": 659827.33
     }
   ]
 }
