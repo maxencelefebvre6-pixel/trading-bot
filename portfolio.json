@@ -1,14 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 678291.1808184814,
+  "cash": 678205.9337053229,
   "positions": {
-    "3haVsWNH9fDkChAcdJ9vvTkcGZyV9DLvzqsWvijPpump": {
-      "symbol": "shard",
-      "qty": 4321031.975115761,
-      "entry_price": 1.145559678453291e-05,
-      "last_price": 1.103773000368696e-05,
+    "5RRPPkrBPZmqJ1yUXAm1RQqQ6U4GQC5WGcM4d4TApump": {
+      "symbol": "QUANTS",
+      "qty": 2595782.0639246046,
+      "entry_price": 1.9069397499865668e-05,
+      "last_price": 1.840391687919277e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T12:52:30+00:00",
+      "entry_time": "2026-10-06T13:11:39+00:00",
+      "missing": 0
+    },
+    "89s69Lq5MUeGEfrzLj9V7jbSKxFzT3NCJTciyYjYpump": {
+      "symbol": "SLICE",
+      "qty": 2581373.772427555,
+      "entry_price": 1.9175835955538355e-05,
+      "last_price": 1.8506453639513756e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T13:11:39+00:00",
       "missing": 0
     }
   },
@@ -3926,6 +3935,32 @@
       "address": "3haVsWNH9fDkChAcdJ9vvTkcGZyV9DLvzqsWvijPpump",
       "price": 1.145559678453291e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T13:11:39+00:00",
+      "side": "sell",
+      "symbol": "shard",
+      "address": "3haVsWNH9fDkChAcdJ9vvTkcGZyV9DLvzqsWvijPpump",
+      "price": 3.576003844e-06,
+      "proceeds": 14.75,
+      "pnl_usd": -35.25,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T13:11:39+00:00",
+      "side": "buy",
+      "symbol": "QUANTS",
+      "address": "5RRPPkrBPZmqJ1yUXAm1RQqQ6U4GQC5WGcM4d4TApump",
+      "price": 1.9069397499865668e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T13:11:39+00:00",
+      "side": "buy",
+      "symbol": "SLICE",
+      "address": "89s69Lq5MUeGEfrzLj9V7jbSKxFzT3NCJTciyYjYpump",
+      "price": 1.9175835955538355e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4364,6 +4399,10 @@
     {
       "date": "2026-10-06T12:52:30+00:00",
       "equity": 678338.88
+    },
+    {
+      "date": "2026-10-06T13:11:39+00:00",
+      "equity": 678301.48
     }
   ]
 }
