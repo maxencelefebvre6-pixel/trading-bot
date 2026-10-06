@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 686812.6904003725,
-  "positions": {},
+  "cash": 686762.6904003725,
+  "positions": {
+    "6w5uQZrpQyT5739XBnpt3Wv1eEGQbjooVdsK2m8Ppump": {
+      "symbol": "MONY",
+      "qty": 5157544.347529688,
+      "entry_price": 9.597590765013789e-06,
+      "last_price": 9.255975186289603e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T21:18:47+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-04T22:39:01+00:00",
-      "side": "buy",
-      "symbol": "BOILER",
-      "address": "6w6oo6xGAtMgWMCzK2cJhLgzEyMa3UP4LhxiYsUTpump",
-      "price": 9.684436976279474e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-04T22:39:01+00:00",
       "side": "buy",
@@ -4504,6 +4506,14 @@
       "proceeds": 8.81,
       "pnl_usd": -41.19,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T21:18:47+00:00",
+      "side": "buy",
+      "symbol": "MONY",
+      "address": "6w5uQZrpQyT5739XBnpt3Wv1eEGQbjooVdsK2m8Ppump",
+      "price": 9.597590765013789e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5038,6 +5048,10 @@
     {
       "date": "2026-10-06T20:57:20+00:00",
       "equity": 686812.69
+    },
+    {
+      "date": "2026-10-06T21:18:47+00:00",
+      "equity": 686810.43
     }
   ]
 }
