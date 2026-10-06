@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 669643.179759987,
+  "cash": 669567.9536644454,
   "positions": {
     "9nV8DH5JBYUycejw1S3fPfZVQZY4zMLhTRSoHWkrpump": {
       "symbol": "SOOTS",
@@ -11,31 +11,31 @@
       "entry_time": "2026-10-06T04:24:46+00:00",
       "missing": 0
     },
-    "Dx4zAwHCiT8i4ivtdkpfQBMHfCEjPYqptUgyYztUpump": {
-      "symbol": "MOONAH",
-      "qty": 992875.9206285091,
-      "entry_price": 4.985517220385964e-05,
-      "last_price": 4.8289704971241e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T05:01:02+00:00",
-      "missing": 0
-    },
-    "AgocEwbL6sgoTUgysbpEyJySMVBigZMqx88TeckUpump": {
-      "symbol": "MOTHER",
-      "qty": 1910796.4438090965,
-      "entry_price": 2.5905428158178755e-05,
-      "last_price": 2.501679204435686e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T05:01:02+00:00",
-      "missing": 0
-    },
     "3K5sQnaqLGvag8Zy4dV4SmB9EvFNFKmQaRoyZnzQpump": {
       "symbol": "BOOTY",
       "qty": 3653507.1018927675,
       "entry_price": 1.3548625640923376e-05,
-      "last_price": 1.3092193545058165e-05,
+      "last_price": 1.309219355e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T05:01:02+00:00",
+      "missing": 0
+    },
+    "Bu2TVnLY2nRzDq6gst4fyRtc9xP6Rt5oX7pyKwh5pump": {
+      "symbol": "CNDR",
+      "qty": 1014375.1260372043,
+      "entry_price": 4.879851519366267e-05,
+      "last_price": 4.726505409414252e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T05:23:09+00:00",
+      "missing": 0
+    },
+    "6XZF575pWFU2dhsQtSBdC1FtLtG4ZEi4ooxUBGW8pump": {
+      "symbol": "CASA",
+      "qty": 2600439.670999927,
+      "entry_price": 1.9035242598404964e-05,
+      "last_price": 1.8367481336130153e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T05:23:09+00:00",
       "missing": 0
     }
   },
@@ -3185,6 +3185,42 @@
       "address": "3K5sQnaqLGvag8Zy4dV4SmB9EvFNFKmQaRoyZnzQpump",
       "price": 1.3548625640923376e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T05:23:09+00:00",
+      "side": "sell",
+      "symbol": "MOONAH",
+      "address": "Dx4zAwHCiT8i4ivtdkpfQBMHfCEjPYqptUgyYztUpump",
+      "price": 3.731345209e-05,
+      "proceeds": 18.34,
+      "pnl_usd": -31.66,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T05:23:09+00:00",
+      "side": "sell",
+      "symbol": "MOTHER",
+      "address": "AgocEwbL6sgoTUgysbpEyJySMVBigZMqx88TeckUpump",
+      "price": 3.516120362e-06,
+      "proceeds": 6.44,
+      "pnl_usd": -43.56,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T05:23:09+00:00",
+      "side": "buy",
+      "symbol": "CNDR",
+      "address": "Bu2TVnLY2nRzDq6gst4fyRtc9xP6Rt5oX7pyKwh5pump",
+      "price": 4.879851519366267e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T05:23:09+00:00",
+      "side": "buy",
+      "symbol": "CASA",
+      "address": "6XZF575pWFU2dhsQtSBdC1FtLtG4ZEi4ooxUBGW8pump",
+      "price": 1.9035242598404964e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3535,6 +3571,10 @@
     {
       "date": "2026-10-06T05:01:02+00:00",
       "equity": 669834.71
+    },
+    {
+      "date": "2026-10-06T05:23:09+00:00",
+      "equity": 669759.44
     }
   ]
 }
