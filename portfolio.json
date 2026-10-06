@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 687143.723652397,
+  "cash": 686893.723652397,
   "positions": {
     "Ew3w3NcED9sf1ofY4pwaKR5fgyERwbvyzwX7uqh5pump": {
       "symbol": "Pullinu",
@@ -9,6 +9,51 @@
       "last_price": 8.820312331e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T17:59:04+00:00",
+      "missing": 0
+    },
+    "4UypjhJxy8S4UuNjFhJNtoSxK3eJTHhRnV8fyWtGpump": {
+      "symbol": "cumrocketinu",
+      "qty": 856573.851712064,
+      "entry_price": 5.7788362207254664e-05,
+      "last_price": 5.5964135147471686e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T18:47:24+00:00",
+      "missing": 0
+    },
+    "26caxWxHVhkXdEF8FWnNXsgkJFooSuPRnZ1itxpZpump": {
+      "symbol": "CashPad",
+      "qty": 3336047.0106653576,
+      "entry_price": 1.48379204015256e-05,
+      "last_price": 1.4310516563251682e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T18:47:24+00:00",
+      "missing": 0
+    },
+    "6LJoRKXQ6dusV9sHmMmyHBSByRQbXcxgJ4J9yrDJpump": {
+      "symbol": "INUX",
+      "qty": 2593194.4760016515,
+      "entry_price": 1.9088425668838452e-05,
+      "last_price": 1.847012989127655e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T18:47:24+00:00",
+      "missing": 0
+    },
+    "5zvfCFpkbwcCTAvXQTFMdHKM3wzCkXGZZXao2doipump": {
+      "symbol": "DOLPHIN",
+      "qty": 3814258.5578862727,
+      "entry_price": 1.2977620486071912e-05,
+      "last_price": 1.2537989445971316e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T18:47:24+00:00",
+      "missing": 0
+    },
+    "615yAEVw1TeHLsgKxfUzmapyMrxufAH9mSkVavCKpump": {
+      "symbol": "PRIEST",
+      "qty": 4879583.4099937305,
+      "entry_price": 1.0144308610161375e-05,
+      "last_price": 9.77268390891277e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T18:47:24+00:00",
       "missing": 0
     }
   },
@@ -4430,6 +4475,46 @@
       "proceeds": 12.84,
       "pnl_usd": -37.16,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T18:47:24+00:00",
+      "side": "buy",
+      "symbol": "cumrocketinu",
+      "address": "4UypjhJxy8S4UuNjFhJNtoSxK3eJTHhRnV8fyWtGpump",
+      "price": 5.7788362207254664e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T18:47:24+00:00",
+      "side": "buy",
+      "symbol": "CashPad",
+      "address": "26caxWxHVhkXdEF8FWnNXsgkJFooSuPRnZ1itxpZpump",
+      "price": 1.48379204015256e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T18:47:24+00:00",
+      "side": "buy",
+      "symbol": "INUX",
+      "address": "6LJoRKXQ6dusV9sHmMmyHBSByRQbXcxgJ4J9yrDJpump",
+      "price": 1.9088425668838452e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T18:47:24+00:00",
+      "side": "buy",
+      "symbol": "DOLPHIN",
+      "address": "5zvfCFpkbwcCTAvXQTFMdHKM3wzCkXGZZXao2doipump",
+      "price": 1.2977620486071912e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T18:47:24+00:00",
+      "side": "buy",
+      "symbol": "PRIEST",
+      "address": "615yAEVw1TeHLsgKxfUzmapyMrxufAH9mSkVavCKpump",
+      "price": 1.0144308610161375e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4932,6 +5017,10 @@
     {
       "date": "2026-10-06T18:23:03+00:00",
       "equity": 687191.45
+    },
+    {
+      "date": "2026-10-06T18:47:24+00:00",
+      "equity": 687180.53
     }
   ]
 }
