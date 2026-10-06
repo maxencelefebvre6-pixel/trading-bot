@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 669234.8483433904,
+  "cash": 669279.8632780215,
   "positions": {
-    "ADyg7uBg3EWajwAxERBX2yo7b2GvetcHCdeyKyprpump": {
-      "symbol": "BYTE",
-      "qty": 2052148.2400079272,
-      "entry_price": 2.412106447037607e-05,
-      "last_price": 2.335219981e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T08:57:33+00:00",
-      "missing": 0
-    },
-    "4C6AKZnoTN1FVYkc7K1EzdcX8zaDJR6zCPHRv8YQpump": {
-      "symbol": "PUMP",
-      "qty": 4454679.567868449,
-      "entry_price": 1.1111910350868538e-05,
-      "last_price": 1.071637485e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T08:57:33+00:00",
-      "missing": 0
-    },
     "FTZJiS4oTmuKuWWVND5zLYrGrtJ8LEKkfRtr7WsXpump": {
       "symbol": "PLAGUED",
       "qty": 3888379.3448931337,
@@ -38,13 +20,13 @@
       "entry_time": "2026-10-06T09:21:22+00:00",
       "missing": 0
     },
-    "8YqFyE8ho81cV84W5GtAFNJWeGze9JRQTq8LEX8Apump": {
-      "symbol": "GrenCAT",
-      "qty": 9151712.844859889,
-      "entry_price": 5.408823554576666e-06,
-      "last_price": 5.2021163128636615e-06,
+    "2xN77oby5a7phaGEeChwDR4CzWem1zA7ex7DpccGpump": {
+      "symbol": "pippo",
+      "qty": 970974.8282064047,
+      "entry_price": 5.097969438758463e-05,
+      "last_price": 4.938012605414383e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T09:42:09+00:00",
+      "entry_time": "2026-10-06T09:59:15+00:00",
       "missing": 0
     }
   },
@@ -3670,6 +3652,44 @@
       "address": "8YqFyE8ho81cV84W5GtAFNJWeGze9JRQTq8LEX8Apump",
       "price": 5.408823554576666e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T09:59:15+00:00",
+      "side": "sell",
+      "symbol": "BYTE",
+      "address": "ADyg7uBg3EWajwAxERBX2yo7b2GvetcHCdeyKyprpump",
+      "price": 2.335219981e-05,
+      "proceeds": 45.89,
+      "pnl_usd": -4.11,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T09:59:15+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "4C6AKZnoTN1FVYkc7K1EzdcX8zaDJR6zCPHRv8YQpump",
+      "price": 1.071637485e-05,
+      "proceeds": 45.53,
+      "pnl_usd": -4.47,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T09:59:15+00:00",
+      "side": "sell",
+      "symbol": "GrenCAT",
+      "address": "8YqFyE8ho81cV84W5GtAFNJWeGze9JRQTq8LEX8Apump",
+      "price": 4.143841554e-07,
+      "proceeds": 3.6,
+      "pnl_usd": -46.4,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T09:59:15+00:00",
+      "side": "buy",
+      "symbol": "pippo",
+      "address": "2xN77oby5a7phaGEeChwDR4CzWem1zA7ex7DpccGpump",
+      "price": 5.097969438758463e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4072,6 +4092,10 @@
     {
       "date": "2026-10-06T09:42:09+00:00",
       "equity": 669473.28
+    },
+    {
+      "date": "2026-10-06T09:59:15+00:00",
+      "equity": 669422.97
     }
   ]
 }
