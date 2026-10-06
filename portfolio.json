@@ -1,7 +1,17 @@
 {
   "mode": "pumpfun",
-  "cash": 669575.2470966282,
-  "positions": {},
+  "cash": 669525.2470966282,
+  "positions": {
+    "B2wFTnXEJGKV1g5WKK1ej6FduEyTXKhYqZ7YkWyFpump": {
+      "symbol": "UP",
+      "qty": 1016977.5680901011,
+      "entry_price": 4.867363996332951e-05,
+      "last_price": 4.714385926193377e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:14:17+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -3314,6 +3324,14 @@
       "proceeds": 11.31,
       "pnl_usd": -38.69,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T07:14:17+00:00",
+      "side": "buy",
+      "symbol": "UP",
+      "address": "B2wFTnXEJGKV1g5WKK1ej6FduEyTXKhYqZ7YkWyFpump",
+      "price": 4.867363996332951e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3684,6 +3702,10 @@
     {
       "date": "2026-10-06T06:53:48+00:00",
       "equity": 669575.25
+    },
+    {
+      "date": "2026-10-06T07:14:17+00:00",
+      "equity": 669573.19
     }
   ]
 }
