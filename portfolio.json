@@ -1,23 +1,32 @@
 {
   "mode": "pumpfun",
-  "cash": 687487.350927417,
+  "cash": 687403.3514357309,
   "positions": {
-    "6jUeqsWiSPz54iUXzaEt6d1m3DPxJj6q4VWhi8Gpump": {
-      "symbol": "PAR",
-      "qty": 3056531.163088352,
-      "entry_price": 1.619482915724133e-05,
-      "last_price": 1.5614038165355408e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T13:55:02+00:00",
-      "missing": 0
-    },
     "EE6Cuph9DHtxf31YVFB5zrzLbWNS9zQ2PBQgQpc6pump": {
       "symbol": "X",
       "qty": 6656711.469289737,
       "entry_price": 7.436104182728171e-06,
-      "last_price": 7.1580801173852525e-06,
+      "last_price": 7.158080117e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T13:55:02+00:00",
+      "missing": 0
+    },
+    "C22mdKGLt89D56JfvcRSFSMPGoexrWiSdSGWZWutpump": {
+      "symbol": "GOMO",
+      "qty": 3223966.078019233,
+      "entry_price": 1.5353759562635418e-05,
+      "last_price": 1.4825130546504721e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T14:17:15+00:00",
+      "missing": 0
+    },
+    "6nmSgNNu5wE3nfQiQWpvKqjxjyrb8UMYEuZRDww1pump": {
+      "symbol": "$KLD",
+      "qty": 1955972.082333803,
+      "entry_price": 2.5307109670470446e-05,
+      "last_price": 2.4507195219753206e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T14:17:15+00:00",
       "missing": 0
     }
   },
@@ -4051,6 +4060,32 @@
       "address": "EE6Cuph9DHtxf31YVFB5zrzLbWNS9zQ2PBQgQpc6pump",
       "price": 7.436104182728171e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T14:17:15+00:00",
+      "side": "sell",
+      "symbol": "PAR",
+      "address": "6jUeqsWiSPz54iUXzaEt6d1m3DPxJj6q4VWhi8Gpump",
+      "price": 5.481871198e-06,
+      "proceeds": 16.0,
+      "pnl_usd": -34.0,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T14:17:15+00:00",
+      "side": "buy",
+      "symbol": "GOMO",
+      "address": "C22mdKGLt89D56JfvcRSFSMPGoexrWiSdSGWZWutpump",
+      "price": 1.5353759562635418e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T14:17:15+00:00",
+      "side": "buy",
+      "symbol": "$KLD",
+      "address": "6nmSgNNu5wE3nfQiQWpvKqjxjyrb8UMYEuZRDww1pump",
+      "price": 2.5307109670470446e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4501,6 +4536,10 @@
     {
       "date": "2026-10-06T13:55:02+00:00",
       "equity": 687582.72
+    },
+    {
+      "date": "2026-10-06T14:17:15+00:00",
+      "equity": 687546.73
     }
   ]
 }
