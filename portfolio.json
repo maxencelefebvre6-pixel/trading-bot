@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 644861.4615373714,
+  "cash": 644816.3037613566,
   "positions": {
     "7474AGB9bDJL2JoJapEPgKWfn4a7H24MtfLPTh4pump": {
       "symbol": "fuck",
@@ -11,31 +11,13 @@
       "entry_time": "2026-10-06T00:29:33+00:00",
       "missing": 0
     },
-    "4tKTcKxaQicwP2dH7qQEpJUjKWHZqRFzk3TsUCscpump": {
-      "symbol": "NEURALS",
-      "qty": 1004544.5292937865,
-      "entry_price": 4.9276063486005367e-05,
-      "last_price": 4.772886100351235e-05,
+    "Chg6adcFwcfpcaJEGCwXJZceFPhjpSn4shMzodgfpump": {
+      "symbol": "VACCINU",
+      "qty": 4822038.495301419,
+      "entry_price": 1.0265368069589793e-05,
+      "last_price": 9.881792438002064e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-06T00:55:23+00:00",
-      "missing": 0
-    },
-    "A8FzDN4QMh319Vj6rxdLUkBiuwQs45M3RjjKdFG3pump": {
-      "symbol": "Mr Beast",
-      "qty": 115009.90991268851,
-      "entry_price": 0.00043039769388201994,
-      "last_price": 0.00041750766952370423,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T00:55:23+00:00",
-      "missing": 0
-    },
-    "D5X4EM9nSAWKrFZdChmqHSDQDFqGDcZRsKfJsKUWpump": {
-      "symbol": "CAST",
-      "qty": 1291422.888896897,
-      "entry_price": 3.832981467618383e-05,
-      "last_price": 3.709724034608935e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T00:55:23+00:00",
+      "entry_time": "2026-10-06T01:16:18+00:00",
       "missing": 0
     }
   },
@@ -2789,6 +2771,44 @@
       "address": "D5X4EM9nSAWKrFZdChmqHSDQDFqGDcZRsKfJsKUWpump",
       "price": 3.832981467618383e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T01:16:18+00:00",
+      "side": "sell",
+      "symbol": "NEURALS",
+      "address": "4tKTcKxaQicwP2dH7qQEpJUjKWHZqRFzk3TsUCscpump",
+      "price": 5.498179777e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T01:16:18+00:00",
+      "side": "sell",
+      "symbol": "Mr Beast",
+      "address": "A8FzDN4QMh319Vj6rxdLUkBiuwQs45M3RjjKdFG3pump",
+      "price": 2.175321051e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T01:16:18+00:00",
+      "side": "sell",
+      "symbol": "CAST",
+      "address": "D5X4EM9nSAWKrFZdChmqHSDQDFqGDcZRsKfJsKUWpump",
+      "price": 3.717337626e-06,
+      "proceeds": 4.6,
+      "pnl_usd": -45.4,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T01:16:18+00:00",
+      "side": "buy",
+      "symbol": "VACCINU",
+      "address": "Chg6adcFwcfpcaJEGCwXJZceFPhjpSn4shMzodgfpump",
+      "price": 1.0265368069589793e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3091,6 +3111,10 @@
     {
       "date": "2026-10-06T00:55:23+00:00",
       "equity": 645053.16
+    },
+    {
+      "date": "2026-10-06T01:16:18+00:00",
+      "equity": 644911.78
     }
   ]
 }
