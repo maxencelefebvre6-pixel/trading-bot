@@ -1,59 +1,41 @@
 {
   "mode": "pumpfun",
-  "cash": 644818.1531899819,
+  "cash": 644861.4615373714,
   "positions": {
-    "HqMTGBfa32sFiwmZeFa1dPGsmbBjxapoto8NUBQspump": {
-      "symbol": "STENKS",
-      "qty": 2446029.703098711,
-      "entry_price": 2.0236876084248598e-05,
-      "last_price": 1.95594021e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T23:44:43+00:00",
-      "missing": 0
-    },
-    "8bDBj8hcVGKK21SzCAScpJnRKNFfXkxCvjiiEKdCpump": {
-      "symbol": "MIND",
-      "qty": 6531156.376994464,
-      "entry_price": 7.579056011330589e-06,
-      "last_price": 7.296883471e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-05T23:44:43+00:00",
-      "missing": 0
-    },
-    "EjQ3zU8meoHdum2Akgh5RhM8vKhFGTsXC5Ru9mtPpump": {
-      "symbol": "phubber",
-      "qty": 991088.038146725,
-      "entry_price": 4.994510890532189e-05,
-      "last_price": 4.8377392186627596e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T00:29:33+00:00",
-      "missing": 0
-    },
-    "J7TbzAFxsMGYX5PNTwVSzjyKYzueMAGdPUcdHsbMpump": {
-      "symbol": "Gemini",
-      "qty": 112888.48761594381,
-      "entry_price": 0.00043848581060278874,
-      "last_price": 0.00042535448891821,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T00:29:33+00:00",
-      "missing": 0
-    },
-    "H9iECFFB97XkruexYthpJJGuL2NktvjRXf68amgPpump": {
-      "symbol": "OTTER",
-      "qty": 6452083.512711088,
-      "entry_price": 7.671940374373843e-06,
-      "last_price": 7.385681939550161e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T00:29:33+00:00",
-      "missing": 0
-    },
     "7474AGB9bDJL2JoJapEPgKWfn4a7H24MtfLPTh4pump": {
       "symbol": "fuck",
       "qty": 3778703.0787998256,
       "entry_price": 1.3099732624591918e-05,
-      "last_price": 1.2656494384572972e-05,
+      "last_price": 1.265649438e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T00:29:33+00:00",
+      "missing": 0
+    },
+    "4tKTcKxaQicwP2dH7qQEpJUjKWHZqRFzk3TsUCscpump": {
+      "symbol": "NEURALS",
+      "qty": 1004544.5292937865,
+      "entry_price": 4.9276063486005367e-05,
+      "last_price": 4.772886100351235e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T00:55:23+00:00",
+      "missing": 0
+    },
+    "A8FzDN4QMh319Vj6rxdLUkBiuwQs45M3RjjKdFG3pump": {
+      "symbol": "Mr Beast",
+      "qty": 115009.90991268851,
+      "entry_price": 0.00043039769388201994,
+      "last_price": 0.00041750766952370423,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T00:55:23+00:00",
+      "missing": 0
+    },
+    "D5X4EM9nSAWKrFZdChmqHSDQDFqGDcZRsKfJsKUWpump": {
+      "symbol": "CAST",
+      "qty": 1291422.888896897,
+      "entry_price": 3.832981467618383e-05,
+      "last_price": 3.709724034608935e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T00:55:23+00:00",
       "missing": 0
     }
   },
@@ -2733,6 +2715,80 @@
       "address": "7474AGB9bDJL2JoJapEPgKWfn4a7H24MtfLPTh4pump",
       "price": 1.3099732624591918e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "side": "sell",
+      "symbol": "STENKS",
+      "address": "HqMTGBfa32sFiwmZeFa1dPGsmbBjxapoto8NUBQspump",
+      "price": 1.95594021e-05,
+      "proceeds": 45.8,
+      "pnl_usd": -4.2,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "side": "sell",
+      "symbol": "MIND",
+      "address": "8bDBj8hcVGKK21SzCAScpJnRKNFfXkxCvjiiEKdCpump",
+      "price": 7.296883471e-06,
+      "proceeds": 45.38,
+      "pnl_usd": -4.62,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "side": "sell",
+      "symbol": "phubber",
+      "address": "EjQ3zU8meoHdum2Akgh5RhM8vKhFGTsXC5Ru9mtPpump",
+      "price": 0.0001976732453,
+      "proceeds": 96.98,
+      "pnl_usd": 46.98,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "side": "sell",
+      "symbol": "Gemini",
+      "address": "J7TbzAFxsMGYX5PNTwVSzjyKYzueMAGdPUcdHsbMpump",
+      "price": 2.178906079e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "side": "sell",
+      "symbol": "OTTER",
+      "address": "H9iECFFB97XkruexYthpJJGuL2NktvjRXf68amgPpump",
+      "price": 8.017287517e-07,
+      "proceeds": 4.92,
+      "pnl_usd": -45.08,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "side": "buy",
+      "symbol": "NEURALS",
+      "address": "4tKTcKxaQicwP2dH7qQEpJUjKWHZqRFzk3TsUCscpump",
+      "price": 4.9276063486005367e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "side": "buy",
+      "symbol": "Mr Beast",
+      "address": "A8FzDN4QMh319Vj6rxdLUkBiuwQs45M3RjjKdFG3pump",
+      "price": 0.00043039769388201994,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "side": "buy",
+      "symbol": "CAST",
+      "address": "D5X4EM9nSAWKrFZdChmqHSDQDFqGDcZRsKfJsKUWpump",
+      "price": 3.832981467618383e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3031,6 +3087,10 @@
     {
       "date": "2026-10-06T00:29:33+00:00",
       "equity": 645105.1
+    },
+    {
+      "date": "2026-10-06T00:55:23+00:00",
+      "equity": 645053.16
     }
   ]
 }
