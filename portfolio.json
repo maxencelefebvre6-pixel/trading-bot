@@ -1,23 +1,77 @@
 {
   "mode": "pumpfun",
-  "cash": 669425.2471018168,
+  "cash": 669094.5948024344,
   "positions": {
-    "8oR5b2PniSoQ1zJ66nd8LtZzPekbXvk9GHMSppWbpump": {
-      "symbol": "R32",
-      "qty": 6034843.963179567,
-      "entry_price": 8.202366175830672e-06,
-      "last_price": 7.889339843470145e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T07:36:24+00:00",
-      "missing": 0
-    },
     "5qpr6sTXPoSNmzfsy8jy3d65qCwv9ASAeYQ6ci8ypump": {
       "symbol": "DMA",
       "qty": 5906566.1879770495,
       "entry_price": 8.380503735107274e-06,
-      "last_price": 8.073512901136739e-06,
+      "last_price": 8.073512901e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T07:36:24+00:00",
+      "missing": 0
+    },
+    "D4rxi85GiED267AgsDFyJytDyQKfg1FuMCaPJS3hpump": {
+      "symbol": "RAM",
+      "qty": 985852.0793816079,
+      "entry_price": 5.021037236240319e-05,
+      "last_price": 4.8634103764282264e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:55:29+00:00",
+      "missing": 0
+    },
+    "8WNJBRAirQJPGxf255NbiLMfdzuPigmpRC1wzNQZpump": {
+      "symbol": "drillcat",
+      "qty": 1002564.4393735534,
+      "entry_price": 4.937338494763468e-05,
+      "last_price": 4.782250845037942e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:55:29+00:00",
+      "missing": 0
+    },
+    "5nFY2FdPDEQrbQsNUL3Sx8Qv7pFyB43Ckw3ShYDupump": {
+      "symbol": "MINEPAD",
+      "qty": 1408287.9426234076,
+      "entry_price": 3.5149061851505795e-05,
+      "last_price": 3.401457241365357e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:55:29+00:00",
+      "missing": 0
+    },
+    "4W5tihkXssrC8ziBZQVR5ezCXRDM9QPNgMStSFgUpump": {
+      "symbol": "Pika",
+      "qty": 4955022.582885317,
+      "entry_price": 9.989863652886942e-06,
+      "last_price": 9.618445914333814e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:55:29+00:00",
+      "missing": 0
+    },
+    "2Uqit4ifUmxa6qpJ9gh8ehTSzhRLGqTQv2oFrKhppump": {
+      "symbol": "CHAIN",
+      "qty": 6429024.764690427,
+      "entry_price": 7.699457042359603e-06,
+      "last_price": 7.404527781508396e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:55:29+00:00",
+      "missing": 0
+    },
+    "5f1f9Qyw2r2wFd5ExQE9nBLo8JueCVEWgHhhmPZ9pump": {
+      "symbol": "VANTA",
+      "qty": 6730910.636090066,
+      "entry_price": 7.354131212883576e-06,
+      "last_price": 7.077523151686537e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:55:29+00:00",
+      "missing": 0
+    },
+    "HmVjyzezaybRobpaLThRsb1EbE8SBetRH5AmeLZ4pump": {
+      "symbol": "SOL",
+      "qty": 5600868.706399564,
+      "entry_price": 8.837914722664576e-06,
+      "last_price": 8.519049732865378e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T07:55:29+00:00",
       "missing": 0
     }
   },
@@ -3367,6 +3421,72 @@
       "address": "5qpr6sTXPoSNmzfsy8jy3d65qCwv9ASAeYQ6ci8ypump",
       "price": 8.380503735107274e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "side": "sell",
+      "symbol": "R32",
+      "address": "8oR5b2PniSoQ1zJ66nd8LtZzPekbXvk9GHMSppWbpump",
+      "price": 3.364967469e-06,
+      "proceeds": 19.35,
+      "pnl_usd": -30.65,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "side": "buy",
+      "symbol": "RAM",
+      "address": "D4rxi85GiED267AgsDFyJytDyQKfg1FuMCaPJS3hpump",
+      "price": 5.021037236240319e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "side": "buy",
+      "symbol": "drillcat",
+      "address": "8WNJBRAirQJPGxf255NbiLMfdzuPigmpRC1wzNQZpump",
+      "price": 4.937338494763468e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "side": "buy",
+      "symbol": "MINEPAD",
+      "address": "5nFY2FdPDEQrbQsNUL3Sx8Qv7pFyB43Ckw3ShYDupump",
+      "price": 3.5149061851505795e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "side": "buy",
+      "symbol": "Pika",
+      "address": "4W5tihkXssrC8ziBZQVR5ezCXRDM9QPNgMStSFgUpump",
+      "price": 9.989863652886942e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "side": "buy",
+      "symbol": "CHAIN",
+      "address": "2Uqit4ifUmxa6qpJ9gh8ehTSzhRLGqTQv2oFrKhppump",
+      "price": 7.699457042359603e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "side": "buy",
+      "symbol": "VANTA",
+      "address": "5f1f9Qyw2r2wFd5ExQE9nBLo8JueCVEWgHhhmPZ9pump",
+      "price": 7.354131212883576e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "side": "buy",
+      "symbol": "SOL",
+      "address": "HmVjyzezaybRobpaLThRsb1EbE8SBetRH5AmeLZ4pump",
+      "price": 8.837914722664576e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3745,6 +3865,10 @@
     {
       "date": "2026-10-06T07:36:24+00:00",
       "equity": 669520.54
+    },
+    {
+      "date": "2026-10-06T07:55:29+00:00",
+      "equity": 669476.69
     }
   ]
 }
