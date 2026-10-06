@@ -1,7 +1,26 @@
 {
   "mode": "pumpfun",
-  "cash": 687276.33974804,
-  "positions": {},
+  "cash": 687176.33974804,
+  "positions": {
+    "54959gzAsWpmoVw1wbpqiU8xj5JJuEzcKMGb7aEhpump": {
+      "symbol": "SAGENT",
+      "qty": 2492144.710641399,
+      "entry_price": 1.9862409991135816e-05,
+      "last_price": 1.9171616571888733e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T17:22:08+00:00",
+      "missing": 0
+    },
+    "CVB8YUEqY6w7UwLeryknNMLzj64Wvb7PUzRmMmFYpump": {
+      "symbol": "LEMON",
+      "qty": 64427345.32152083,
+      "entry_price": 7.683073041885119e-07,
+      "last_price": 7.396950734270606e-07,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T17:22:08+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -4340,6 +4359,22 @@
       "proceeds": 17.65,
       "pnl_usd": -32.35,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T17:22:08+00:00",
+      "side": "buy",
+      "symbol": "SAGENT",
+      "address": "54959gzAsWpmoVw1wbpqiU8xj5JJuEzcKMGb7aEhpump",
+      "price": 1.9862409991135816e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T17:22:08+00:00",
+      "side": "buy",
+      "symbol": "LEMON",
+      "address": "CVB8YUEqY6w7UwLeryknNMLzj64Wvb7PUzRmMmFYpump",
+      "price": 7.683073041885119e-07,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4826,6 +4861,10 @@
     {
       "date": "2026-10-06T17:02:05+00:00",
       "equity": 687276.34
+    },
+    {
+      "date": "2026-10-06T17:22:08+00:00",
+      "equity": 687271.77
     }
   ]
 }
