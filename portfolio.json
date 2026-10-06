@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 686675.966189535,
+  "cash": 686575.966189535,
   "positions": {
     "6w5uQZrpQyT5739XBnpt3Wv1eEGQbjooVdsK2m8Ppump": {
       "symbol": "MONY",
@@ -10,27 +10,27 @@
       "cost": 50.0,
       "entry_time": "2026-10-06T21:18:47+00:00",
       "missing": 0
+    },
+    "26MACBX1vfe4eSagrCDToW88uiV8nQRwVQWTGhjspump": {
+      "symbol": "TWEET",
+      "qty": 5785481.281000747,
+      "entry_price": 8.555900122355543e-06,
+      "last_price": 8.227711613661839e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T22:10:33+00:00",
+      "missing": 0
+    },
+    "6kQUqcEamYutuR29fQWx7TYfT2pTdqSxRWeXd89upump": {
+      "symbol": "vrl",
+      "qty": 3524042.462464299,
+      "entry_price": 1.4046368773146266e-05,
+      "last_price": 1.357550540846494e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T22:10:33+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-04T22:54:29+00:00",
-      "side": "buy",
-      "symbol": "MECHAZILLA",
-      "address": "EtEmx611BVmakyzQXhkBG62K94EmdpUmJSixYCdgpump",
-      "price": 3.720553999553484e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-04T23:11:55+00:00",
-      "side": "sell",
-      "symbol": "SHIBO",
-      "address": "Cwq4GPKtes9o4sZPmMxHZPMuRxUPmsKGQBC6KbrFpump",
-      "price": 2.087926633e-05,
-      "proceeds": 56.07,
-      "pnl_usd": 6.07,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-04T23:11:55+00:00",
       "side": "sell",
@@ -4514,6 +4514,22 @@
       "proceeds": 23.67,
       "pnl_usd": -26.33,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T22:10:33+00:00",
+      "side": "buy",
+      "symbol": "TWEET",
+      "address": "26MACBX1vfe4eSagrCDToW88uiV8nQRwVQWTGhjspump",
+      "price": 8.555900122355543e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T22:10:33+00:00",
+      "side": "buy",
+      "symbol": "vrl",
+      "address": "6kQUqcEamYutuR29fQWx7TYfT2pTdqSxRWeXd89upump",
+      "price": 1.4046368773146266e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5060,6 +5076,10 @@
     {
       "date": "2026-10-06T21:53:11+00:00",
       "equity": 686723.7
+    },
+    {
+      "date": "2026-10-06T22:10:33+00:00",
+      "equity": 686719.15
     }
   ]
 }
