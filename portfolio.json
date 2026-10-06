@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 640736.0684111037,
+  "cash": 644818.1531899819,
   "positions": {
     "HqMTGBfa32sFiwmZeFa1dPGsmbBjxapoto8NUBQspump": {
       "symbol": "STENKS",
@@ -20,31 +20,40 @@
       "entry_time": "2026-10-05T23:44:43+00:00",
       "missing": 0
     },
-    "DpiKG27BdYaf4heRCdFGbi3g4CVEkQo4Qn4vxKRSpump": {
-      "symbol": "blast",
-      "qty": 1007134.9289542894,
-      "entry_price": 4.9149323071731775e-05,
-      "last_price": 4.760545321487289e-05,
+    "EjQ3zU8meoHdum2Akgh5RhM8vKhFGTsXC5Ru9mtPpump": {
+      "symbol": "phubber",
+      "qty": 991088.038146725,
+      "entry_price": 4.994510890532189e-05,
+      "last_price": 4.8377392186627596e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-05T23:57:06+00:00",
+      "entry_time": "2026-10-06T00:29:33+00:00",
       "missing": 0
     },
-    "L4hyHwh1diYkPCUpTnLq9PN91TEEqfqcixv3VEWpump": {
-      "symbol": "NEURALS",
-      "qty": 1002606.8084642825,
-      "entry_price": 4.9371298481226516e-05,
-      "last_price": 4.782088834456179e-05,
+    "J7TbzAFxsMGYX5PNTwVSzjyKYzueMAGdPUcdHsbMpump": {
+      "symbol": "Gemini",
+      "qty": 112888.48761594381,
+      "entry_price": 0.00043848581060278874,
+      "last_price": 0.00042535448891821,
       "cost": 50.0,
-      "entry_time": "2026-10-05T23:57:06+00:00",
+      "entry_time": "2026-10-06T00:29:33+00:00",
       "missing": 0
     },
-    "36Qp8N7rAvMyJnYt7H6R19H2Y5KqvMuMWPjnVCL9pump": {
-      "symbol": "PLAGUE",
-      "qty": 1006421.4245407067,
-      "entry_price": 4.9184167579292106e-05,
-      "last_price": 4.7639393557722126e-05,
+    "H9iECFFB97XkruexYthpJJGuL2NktvjRXf68amgPpump": {
+      "symbol": "OTTER",
+      "qty": 6452083.512711088,
+      "entry_price": 7.671940374373843e-06,
+      "last_price": 7.385681939550161e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-05T23:57:06+00:00",
+      "entry_time": "2026-10-06T00:29:33+00:00",
+      "missing": 0
+    },
+    "7474AGB9bDJL2JoJapEPgKWfn4a7H24MtfLPTh4pump": {
+      "symbol": "fuck",
+      "qty": 3778703.0787998256,
+      "entry_price": 1.3099732624591918e-05,
+      "last_price": 1.2656494384572972e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T00:29:33+00:00",
       "missing": 0
     }
   },
@@ -2662,6 +2671,68 @@
       "address": "36Qp8N7rAvMyJnYt7H6R19H2Y5KqvMuMWPjnVCL9pump",
       "price": 4.9184167579292106e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T00:29:33+00:00",
+      "side": "sell",
+      "symbol": "blast",
+      "address": "DpiKG27BdYaf4heRCdFGbi3g4CVEkQo4Qn4vxKRSpump",
+      "price": 0.00852615071,
+      "proceeds": 4250.56,
+      "pnl_usd": 4200.56,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T00:29:33+00:00",
+      "side": "sell",
+      "symbol": "NEURALS",
+      "address": "L4hyHwh1diYkPCUpTnLq9PN91TEEqfqcixv3VEWpump",
+      "price": 5.486145646e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T00:29:33+00:00",
+      "side": "sell",
+      "symbol": "PLAGUE",
+      "address": "36Qp8N7rAvMyJnYt7H6R19H2Y5KqvMuMWPjnVCL9pump",
+      "price": 6.328573944e-05,
+      "proceeds": 31.53,
+      "pnl_usd": -18.47,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T00:29:33+00:00",
+      "side": "buy",
+      "symbol": "phubber",
+      "address": "EjQ3zU8meoHdum2Akgh5RhM8vKhFGTsXC5Ru9mtPpump",
+      "price": 4.994510890532189e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T00:29:33+00:00",
+      "side": "buy",
+      "symbol": "Gemini",
+      "address": "J7TbzAFxsMGYX5PNTwVSzjyKYzueMAGdPUcdHsbMpump",
+      "price": 0.00043848581060278874,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T00:29:33+00:00",
+      "side": "buy",
+      "symbol": "OTTER",
+      "address": "H9iECFFB97XkruexYthpJJGuL2NktvjRXf68amgPpump",
+      "price": 7.671940374373843e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T00:29:33+00:00",
+      "side": "buy",
+      "symbol": "fuck",
+      "address": "7474AGB9bDJL2JoJapEPgKWfn4a7H24MtfLPTh4pump",
+      "price": 1.3099732624591918e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -2956,6 +3027,10 @@
     {
       "date": "2026-10-05T23:57:06+00:00",
       "equity": 640975.4
+    },
+    {
+      "date": "2026-10-06T00:29:33+00:00",
+      "equity": 645105.1
     }
   ]
 }
