@@ -1,14 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 678308.899775912,
+  "cash": 678291.1808184814,
   "positions": {
-    "H4vubzipN5b5L2izZJMUZNt6ghHBNv56iByTgeL6pump": {
-      "symbol": "MoonCat",
-      "qty": 9647311.485292342,
-      "entry_price": 5.130963178235144e-06,
-      "last_price": 4.937647740981851e-06,
+    "3haVsWNH9fDkChAcdJ9vvTkcGZyV9DLvzqsWvijPpump": {
+      "symbol": "shard",
+      "qty": 4321031.975115761,
+      "entry_price": 1.145559678453291e-05,
+      "last_price": 1.103773000368696e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T12:27:03+00:00",
+      "entry_time": "2026-10-06T12:52:30+00:00",
       "missing": 0
     }
   },
@@ -3908,6 +3908,24 @@
       "address": "H4vubzipN5b5L2izZJMUZNt6ghHBNv56iByTgeL6pump",
       "price": 5.130963178235144e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T12:52:30+00:00",
+      "side": "sell",
+      "symbol": "MoonCat",
+      "address": "H4vubzipN5b5L2izZJMUZNt6ghHBNv56iByTgeL6pump",
+      "price": 3.530181347e-06,
+      "proceeds": 32.28,
+      "pnl_usd": -17.72,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T12:52:30+00:00",
+      "side": "buy",
+      "symbol": "shard",
+      "address": "3haVsWNH9fDkChAcdJ9vvTkcGZyV9DLvzqsWvijPpump",
+      "price": 1.145559678453291e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4342,6 +4360,10 @@
     {
       "date": "2026-10-06T12:27:03+00:00",
       "equity": 678356.53
+    },
+    {
+      "date": "2026-10-06T12:52:30+00:00",
+      "equity": 678338.88
     }
   ]
 }
