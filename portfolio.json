@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 686607.2275053438,
+  "cash": 686559.4965447888,
   "positions": {
     "2iYgFcovEFPhR2fRXZWuYdYPmCaYd4EfdPAPoPm4pump": {
       "symbol": "$CI",
@@ -20,37 +20,17 @@
       "entry_time": "2026-10-06T23:01:02+00:00",
       "missing": 0
     },
-    "DPw9mntrASk8XeYy3S9iKxXkP2h4vgYLp7sEV8H3pump": {
-      "symbol": "vrl",
-      "qty": 7810116.342346005,
-      "entry_price": 6.33793375543125e-06,
-      "last_price": 6.094169931962553e-06,
+    "CyQmFuyC9taFRT7KJ4EEAnisUPNWZGv8vLrQWzGtpump": {
+      "symbol": "KILLDOBBY",
+      "qty": 4915767.4895752035,
+      "entry_price": 1.0069638180604336e-05,
+      "last_price": 9.714916363937829e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-06T23:39:53+00:00",
+      "entry_time": "2026-10-06T23:55:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T00:57:12+00:00",
-      "side": "sell",
-      "symbol": "GOON",
-      "address": "F52W8dqyhJBcjS4eV4hpgVuhYeofucvCweaZDbyppump",
-      "price": 6.953940166e-06,
-      "proceeds": 22.41,
-      "pnl_usd": -27.59,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T00:57:12+00:00",
-      "side": "sell",
-      "symbol": "THINGS",
-      "address": "Bd6B4iqQxmnP2Rd3TCWDxGi3PJ3rvXsHy97NzCFipump",
-      "price": 3.389406681e-06,
-      "proceeds": 20.27,
-      "pnl_usd": -29.73,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-05T00:57:12+00:00",
       "side": "sell",
@@ -4530,6 +4510,24 @@
       "address": "DPw9mntrASk8XeYy3S9iKxXkP2h4vgYLp7sEV8H3pump",
       "price": 6.33793375543125e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T23:55:37+00:00",
+      "side": "sell",
+      "symbol": "vrl",
+      "address": "DPw9mntrASk8XeYy3S9iKxXkP2h4vgYLp7sEV8H3pump",
+      "price": 3.057319481e-07,
+      "proceeds": 2.27,
+      "pnl_usd": -47.73,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T23:55:37+00:00",
+      "side": "buy",
+      "symbol": "KILLDOBBY",
+      "address": "CyQmFuyC9taFRT7KJ4EEAnisUPNWZGv8vLrQWzGtpump",
+      "price": 1.0069638180604336e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5100,6 +5098,10 @@
     {
       "date": "2026-10-06T23:39:53+00:00",
       "equity": 686750.69
+    },
+    {
+      "date": "2026-10-06T23:55:37+00:00",
+      "equity": 686703.12
     }
   ]
 }
