@@ -1,32 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 678072.6200913329,
+  "cash": 687487.350927417,
   "positions": {
-    "BkAVWGL4j3tfh1qgZuJzra64E1FuH7hf5PEADQLvpump": {
-      "symbol": "RALLY",
-      "qty": 995853.1841125304,
-      "entry_price": 4.970612213698214e-05,
-      "last_price": 4.814507384359268e-05,
+    "6jUeqsWiSPz54iUXzaEt6d1m3DPxJj6q4VWhi8Gpump": {
+      "symbol": "PAR",
+      "qty": 3056531.163088352,
+      "entry_price": 1.619482915724133e-05,
+      "last_price": 1.5614038165355408e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T13:35:03+00:00",
+      "entry_time": "2026-10-06T13:55:02+00:00",
       "missing": 0
     },
-    "6QofvHjvUAe833epmVpkwT2p7vqW51DFWRBiWm1zpump": {
-      "symbol": "MEME",
-      "qty": 760279.2517514104,
-      "entry_price": 6.510765601714077e-05,
-      "last_price": 6.304924269260203e-05,
+    "EE6Cuph9DHtxf31YVFB5zrzLbWNS9zQ2PBQgQpc6pump": {
+      "symbol": "X",
+      "qty": 6656711.469289737,
+      "entry_price": 7.436104182728171e-06,
+      "last_price": 7.1580801173852525e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-06T13:35:03+00:00",
-      "missing": 0
-    },
-    "Dr52hFb2nWCe5HwVfLWXitBsKKDffXTavLkDTTd1pump": {
-      "symbol": "KING",
-      "qty": 5655481.846511751,
-      "entry_price": 8.752569868212227e-06,
-      "last_price": 8.432266010521861e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T13:35:03+00:00",
+      "entry_time": "2026-10-06T13:55:02+00:00",
       "missing": 0
     }
   },
@@ -4014,6 +4005,52 @@
       "address": "Dr52hFb2nWCe5HwVfLWXitBsKKDffXTavLkDTTd1pump",
       "price": 8.752569868212227e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T13:55:01+00:00",
+      "side": "sell",
+      "symbol": "RALLY",
+      "address": "BkAVWGL4j3tfh1qgZuJzra64E1FuH7hf5PEADQLvpump",
+      "price": 0.01929447284,
+      "proceeds": 9511.16,
+      "pnl_usd": 9461.16,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T13:55:01+00:00",
+      "side": "sell",
+      "symbol": "MEME",
+      "address": "6QofvHjvUAe833epmVpkwT2p7vqW51DFWRBiWm1zpump",
+      "price": 2.828920648e-06,
+      "proceeds": 2.06,
+      "pnl_usd": -47.94,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T13:55:01+00:00",
+      "side": "sell",
+      "symbol": "KING",
+      "address": "Dr52hFb2nWCe5HwVfLWXitBsKKDffXTavLkDTTd1pump",
+      "price": 2.801885738e-07,
+      "proceeds": 1.51,
+      "pnl_usd": -48.49,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T13:55:02+00:00",
+      "side": "buy",
+      "symbol": "PAR",
+      "address": "6jUeqsWiSPz54iUXzaEt6d1m3DPxJj6q4VWhi8Gpump",
+      "price": 1.619482915724133e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T13:55:02+00:00",
+      "side": "buy",
+      "symbol": "X",
+      "address": "EE6Cuph9DHtxf31YVFB5zrzLbWNS9zQ2PBQgQpc6pump",
+      "price": 7.436104182728171e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4460,6 +4497,10 @@
     {
       "date": "2026-10-06T13:35:03+00:00",
       "equity": 678216.19
+    },
+    {
+      "date": "2026-10-06T13:55:02+00:00",
+      "equity": 687582.72
     }
   ]
 }
