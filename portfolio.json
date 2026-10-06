@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 668976.0575169969,
+  "cash": 669234.8483433904,
   "positions": {
     "ADyg7uBg3EWajwAxERBX2yo7b2GvetcHCdeyKyprpump": {
       "symbol": "BYTE",
@@ -20,38 +20,11 @@
       "entry_time": "2026-10-06T08:57:33+00:00",
       "missing": 0
     },
-    "A2uRZ9L8SgnZeCp4KKawdejwqTLaUU9YokxxY9N7pump": {
-      "symbol": "Q",
-      "qty": 1003038.9860036889,
-      "entry_price": 4.935002596182035e-05,
-      "last_price": 4.7800176937024056e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T09:21:22+00:00",
-      "missing": 0
-    },
-    "FpMpXXagy5tAeHXUi7zu75qUCmhJeJJyLA2CS9DNpump": {
-      "symbol": "CROSSY",
-      "qty": 4875889.102674332,
-      "entry_price": 1.0151994632702001e-05,
-      "last_price": 9.770034400543525e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T09:21:22+00:00",
-      "missing": 0
-    },
-    "5QnqyA8FrTjQc15WuE9kRnuKfDuW2zuzru462L8Npump": {
-      "symbol": "CASHCOW",
-      "qty": 5931269.678651995,
-      "entry_price": 8.345599286803952e-06,
-      "last_price": 8.040752905932264e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T09:21:22+00:00",
-      "missing": 0
-    },
     "FTZJiS4oTmuKuWWVND5zLYrGrtJ8LEKkfRtr7WsXpump": {
       "symbol": "PLAGUED",
       "qty": 3888379.3448931337,
       "entry_price": 1.2730239415815134e-05,
-      "last_price": 1.229558912267899e-05,
+      "last_price": 1.229802626e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T09:21:22+00:00",
       "missing": 0
@@ -60,9 +33,18 @@
       "symbol": "JUMP",
       "qty": 6168255.693395302,
       "entry_price": 8.024959155471203e-06,
-      "last_price": 7.74730219212973e-06,
+      "last_price": 7.674865637e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T09:21:22+00:00",
+      "missing": 0
+    },
+    "8YqFyE8ho81cV84W5GtAFNJWeGze9JRQTq8LEX8Apump": {
+      "symbol": "GrenCAT",
+      "qty": 9151712.844859889,
+      "entry_price": 5.408823554576666e-06,
+      "last_price": 5.2021163128636615e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T09:42:09+00:00",
       "missing": 0
     }
   },
@@ -3650,6 +3632,44 @@
       "address": "GQp8sNQYGATCA47sEh84EcpPvnv2xufGTz6xFWBppump",
       "price": 8.024959155471203e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T09:42:09+00:00",
+      "side": "sell",
+      "symbol": "Q",
+      "address": "A2uRZ9L8SgnZeCp4KKawdejwqTLaUU9YokxxY9N7pump",
+      "price": 0.0005039881141,
+      "proceeds": 250.23,
+      "pnl_usd": 200.23,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T09:42:09+00:00",
+      "side": "sell",
+      "symbol": "CROSSY",
+      "address": "FpMpXXagy5tAeHXUi7zu75qUCmhJeJJyLA2CS9DNpump",
+      "price": 1.261083657e-05,
+      "proceeds": 57.83,
+      "pnl_usd": 7.83,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-06T09:42:09+00:00",
+      "side": "sell",
+      "symbol": "CASHCOW",
+      "address": "5QnqyA8FrTjQc15WuE9kRnuKfDuW2zuzru462L8Npump",
+      "price": 1.292759663e-07,
+      "proceeds": 0.73,
+      "pnl_usd": -49.27,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T09:42:09+00:00",
+      "side": "buy",
+      "symbol": "GrenCAT",
+      "address": "8YqFyE8ho81cV84W5GtAFNJWeGze9JRQTq8LEX8Apump",
+      "price": 5.408823554576666e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4048,6 +4068,10 @@
     {
       "date": "2026-10-06T09:21:22+00:00",
       "equity": 669310.59
+    },
+    {
+      "date": "2026-10-06T09:42:09+00:00",
+      "equity": 669473.28
     }
   ]
 }
