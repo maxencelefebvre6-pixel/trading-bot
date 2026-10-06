@@ -1,26 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 644816.3037613566,
-  "positions": {
-    "7474AGB9bDJL2JoJapEPgKWfn4a7H24MtfLPTh4pump": {
-      "symbol": "fuck",
-      "qty": 3778703.0787998256,
-      "entry_price": 1.3099732624591918e-05,
-      "last_price": 1.265649438e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T00:29:33+00:00",
-      "missing": 0
-    },
-    "Chg6adcFwcfpcaJEGCwXJZceFPhjpSn4shMzodgfpump": {
-      "symbol": "VACCINU",
-      "qty": 4822038.495301419,
-      "entry_price": 1.0265368069589793e-05,
-      "last_price": 9.881792438002064e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T01:16:18+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 644880.0905941967,
+  "positions": {},
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -2809,6 +2790,26 @@
       "address": "Chg6adcFwcfpcaJEGCwXJZceFPhjpSn4shMzodgfpump",
       "price": 1.0265368069589793e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T01:34:59+00:00",
+      "side": "sell",
+      "symbol": "fuck",
+      "address": "7474AGB9bDJL2JoJapEPgKWfn4a7H24MtfLPTh4pump",
+      "price": 1.265649438e-05,
+      "proceeds": 45.7,
+      "pnl_usd": -4.3,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T01:34:59+00:00",
+      "side": "sell",
+      "symbol": "VACCINU",
+      "address": "Chg6adcFwcfpcaJEGCwXJZceFPhjpSn4shMzodgfpump",
+      "price": 3.933471407e-06,
+      "proceeds": 18.09,
+      "pnl_usd": -31.91,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -3115,6 +3116,10 @@
     {
       "date": "2026-10-06T01:16:18+00:00",
       "equity": 644911.78
+    },
+    {
+      "date": "2026-10-06T01:35:00+00:00",
+      "equity": 644880.09
     }
   ]
 }
