@@ -1,50 +1,14 @@
 {
   "mode": "pumpfun",
-  "cash": 678178.8285149506,
+  "cash": 678308.899775912,
   "positions": {
-    "CLFretPrsXRCNEaQeZndEkySCiD7iihv7h3tM8ipump": {
-      "symbol": "VIRZEC",
-      "qty": 4840695.761321079,
-      "entry_price": 1.022580274420942e-05,
-      "last_price": 9.860018171e-06,
+    "H4vubzipN5b5L2izZJMUZNt6ghHBNv56iByTgeL6pump": {
+      "symbol": "MoonCat",
+      "qty": 9647311.485292342,
+      "entry_price": 5.130963178235144e-06,
+      "last_price": 4.937647740981851e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-06T10:59:33+00:00",
-      "missing": 0
-    },
-    "F8S9qY1qFYACrSaCogPF2yzwH84q3Boq7VRsTKuLpump": {
-      "symbol": "sanctum",
-      "qty": 4339901.928274017,
-      "entry_price": 1.1405787692462028e-05,
-      "last_price": 1.099293502e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T11:21:58+00:00",
-      "missing": 0
-    },
-    "CkLQ2Sz9hJ3rPqTSE3irti9tNf2zhefWKGVya8adpump": {
-      "symbol": "DODGE",
-      "qty": 4241135.924745742,
-      "entry_price": 1.1671401454309093e-05,
-      "last_price": 1.124108651e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T11:21:58+00:00",
-      "missing": 0
-    },
-    "B8S7WGQYteNSBz4rU4Xs1hkr1seGpxYgUuV2wgtbpump": {
-      "symbol": "TLT",
-      "qty": 393454.3832480343,
-      "entry_price": 0.0001258087394817384,
-      "last_price": 0.00012193946776133083,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T11:59:22+00:00",
-      "missing": 0
-    },
-    "K8cdf9cgcVRGrVgXXPyzCGd5NLxS4QMJKRiUpfipump": {
-      "symbol": "PAYBACK",
-      "qty": 4212519.043290388,
-      "entry_price": 1.175068871886587e-05,
-      "last_price": 1.1315626613120713e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T11:59:22+00:00",
+      "entry_time": "2026-10-06T12:27:03+00:00",
       "missing": 0
     }
   },
@@ -3886,6 +3850,64 @@
       "address": "K8cdf9cgcVRGrVgXXPyzCGd5NLxS4QMJKRiUpfipump",
       "price": 1.175068871886587e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T12:27:03+00:00",
+      "side": "sell",
+      "symbol": "VIRZEC",
+      "address": "CLFretPrsXRCNEaQeZndEkySCiD7iihv7h3tM8ipump",
+      "price": 9.860018171e-06,
+      "proceeds": 45.53,
+      "pnl_usd": -4.47,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T12:27:03+00:00",
+      "side": "sell",
+      "symbol": "sanctum",
+      "address": "F8S9qY1qFYACrSaCogPF2yzwH84q3Boq7VRsTKuLpump",
+      "price": 1.099293502e-05,
+      "proceeds": 45.46,
+      "pnl_usd": -4.54,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T12:27:03+00:00",
+      "side": "sell",
+      "symbol": "DODGE",
+      "address": "CkLQ2Sz9hJ3rPqTSE3irti9tNf2zhefWKGVya8adpump",
+      "price": 1.124108651e-05,
+      "proceeds": 45.53,
+      "pnl_usd": -4.47,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T12:27:03+00:00",
+      "side": "sell",
+      "symbol": "TLT",
+      "address": "B8S7WGQYteNSBz4rU4Xs1hkr1seGpxYgUuV2wgtbpump",
+      "price": 7.678467555e-05,
+      "proceeds": 28.95,
+      "pnl_usd": -21.05,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T12:27:03+00:00",
+      "side": "sell",
+      "symbol": "PAYBACK",
+      "address": "K8cdf9cgcVRGrVgXXPyzCGd5NLxS4QMJKRiUpfipump",
+      "price": 3.628431274e-06,
+      "proceeds": 14.59,
+      "pnl_usd": -35.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T12:27:03+00:00",
+      "side": "buy",
+      "symbol": "MoonCat",
+      "address": "H4vubzipN5b5L2izZJMUZNt6ghHBNv56iByTgeL6pump",
+      "price": 5.130963178235144e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -4316,6 +4338,10 @@
     {
       "date": "2026-10-06T11:59:22+00:00",
       "equity": 678417.59
+    },
+    {
+      "date": "2026-10-06T12:27:03+00:00",
+      "equity": 678356.53
     }
   ]
 }
