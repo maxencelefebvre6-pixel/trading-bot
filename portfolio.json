@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 669094.5948024344,
+  "cash": 669239.6435757058,
   "positions": {
     "5qpr6sTXPoSNmzfsy8jy3d65qCwv9ASAeYQ6ci8ypump": {
       "symbol": "DMA",
@@ -11,56 +11,11 @@
       "entry_time": "2026-10-06T07:36:24+00:00",
       "missing": 0
     },
-    "D4rxi85GiED267AgsDFyJytDyQKfg1FuMCaPJS3hpump": {
-      "symbol": "RAM",
-      "qty": 985852.0793816079,
-      "entry_price": 5.021037236240319e-05,
-      "last_price": 4.8634103764282264e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T07:55:29+00:00",
-      "missing": 0
-    },
-    "8WNJBRAirQJPGxf255NbiLMfdzuPigmpRC1wzNQZpump": {
-      "symbol": "drillcat",
-      "qty": 1002564.4393735534,
-      "entry_price": 4.937338494763468e-05,
-      "last_price": 4.782250845037942e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T07:55:29+00:00",
-      "missing": 0
-    },
-    "5nFY2FdPDEQrbQsNUL3Sx8Qv7pFyB43Ckw3ShYDupump": {
-      "symbol": "MINEPAD",
-      "qty": 1408287.9426234076,
-      "entry_price": 3.5149061851505795e-05,
-      "last_price": 3.401457241365357e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T07:55:29+00:00",
-      "missing": 0
-    },
-    "4W5tihkXssrC8ziBZQVR5ezCXRDM9QPNgMStSFgUpump": {
-      "symbol": "Pika",
-      "qty": 4955022.582885317,
-      "entry_price": 9.989863652886942e-06,
-      "last_price": 9.618445914333814e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T07:55:29+00:00",
-      "missing": 0
-    },
-    "2Uqit4ifUmxa6qpJ9gh8ehTSzhRLGqTQv2oFrKhppump": {
-      "symbol": "CHAIN",
-      "qty": 6429024.764690427,
-      "entry_price": 7.699457042359603e-06,
-      "last_price": 7.404527781508396e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T07:55:29+00:00",
-      "missing": 0
-    },
     "5f1f9Qyw2r2wFd5ExQE9nBLo8JueCVEWgHhhmPZ9pump": {
       "symbol": "VANTA",
       "qty": 6730910.636090066,
       "entry_price": 7.354131212883576e-06,
-      "last_price": 7.077523151686537e-06,
+      "last_price": 7.077523152e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T07:55:29+00:00",
       "missing": 0
@@ -69,7 +24,7 @@
       "symbol": "SOL",
       "qty": 5600868.706399564,
       "entry_price": 8.837914722664576e-06,
-      "last_price": 8.519049732865378e-06,
+      "last_price": 8.519049733e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T07:55:29+00:00",
       "missing": 0
@@ -3487,6 +3442,56 @@
       "address": "HmVjyzezaybRobpaLThRsb1EbE8SBetRH5AmeLZ4pump",
       "price": 8.837914722664576e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T08:17:46+00:00",
+      "side": "sell",
+      "symbol": "RAM",
+      "address": "D4rxi85GiED267AgsDFyJytDyQKfg1FuMCaPJS3hpump",
+      "price": 0.0001976493023,
+      "proceeds": 96.45,
+      "pnl_usd": 46.45,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T08:17:46+00:00",
+      "side": "sell",
+      "symbol": "drillcat",
+      "address": "8WNJBRAirQJPGxf255NbiLMfdzuPigmpRC1wzNQZpump",
+      "price": 5.457703823e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T08:17:46+00:00",
+      "side": "sell",
+      "symbol": "MINEPAD",
+      "address": "5nFY2FdPDEQrbQsNUL3Sx8Qv7pFyB43Ckw3ShYDupump",
+      "price": 3.283461938e-06,
+      "proceeds": 4.43,
+      "pnl_usd": -45.57,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T08:17:46+00:00",
+      "side": "sell",
+      "symbol": "Pika",
+      "address": "4W5tihkXssrC8ziBZQVR5ezCXRDM9QPNgMStSFgUpump",
+      "price": 4.773214588e-06,
+      "proceeds": 22.55,
+      "pnl_usd": -27.45,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T08:17:46+00:00",
+      "side": "sell",
+      "symbol": "CHAIN",
+      "address": "2Uqit4ifUmxa6qpJ9gh8ehTSzhRLGqTQv2oFrKhppump",
+      "price": 3.531526833e-06,
+      "proceeds": 21.61,
+      "pnl_usd": -28.39,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -3869,6 +3874,10 @@
     {
       "date": "2026-10-06T07:55:29+00:00",
       "equity": 669476.69
+    },
+    {
+      "date": "2026-10-06T08:17:46+00:00",
+      "equity": 669382.68
     }
   ]
 }
