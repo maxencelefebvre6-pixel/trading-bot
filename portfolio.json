@@ -1,7 +1,26 @@
 {
   "mode": "pumpfun",
-  "cash": 644880.0905941967,
-  "positions": {},
+  "cash": 644780.0905941967,
+  "positions": {
+    "6DgqmrLMNPDfF5ndwxS3YpTNFpAUAHgBZ16j6wt9pump": {
+      "symbol": "offchain",
+      "qty": 5222308.067981342,
+      "entry_price": 9.478567590351672e-06,
+      "last_price": 9.12347186816229e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T01:51:37+00:00",
+      "missing": 0
+    },
+    "7Ews7L1jF3vzmzRY7hjcq2vWBSdJrZqbQ4TEKRYzpump": {
+      "symbol": "LEGO",
+      "qty": 124384.2512364374,
+      "entry_price": 0.00039796034874147606,
+      "last_price": 0.00038602823821525553,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T01:51:37+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -2810,6 +2829,22 @@
       "proceeds": 18.09,
       "pnl_usd": -31.91,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T01:51:37+00:00",
+      "side": "buy",
+      "symbol": "offchain",
+      "address": "6DgqmrLMNPDfF5ndwxS3YpTNFpAUAHgBZ16j6wt9pump",
+      "price": 9.478567590351672e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T01:51:37+00:00",
+      "side": "buy",
+      "symbol": "LEGO",
+      "address": "7Ews7L1jF3vzmzRY7hjcq2vWBSdJrZqbQ4TEKRYzpump",
+      "price": 0.00039796034874147606,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3120,6 +3155,10 @@
     {
       "date": "2026-10-06T01:35:00+00:00",
       "equity": 644880.09
+    },
+    {
+      "date": "2026-10-06T01:51:37+00:00",
+      "equity": 644875.75
     }
   ]
 }
