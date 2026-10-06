@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 686441.6102125671,
+  "cash": 686519.7449762183,
   "positions": {
     "6kQUqcEamYutuR29fQWx7TYfT2pTdqSxRWeXd89upump": {
       "symbol": "vrl",
@@ -15,7 +15,7 @@
       "symbol": "pUP",
       "qty": 13994757.660788745,
       "entry_price": 3.537038739776947e-06,
-      "last_price": 3.4114447998777413e-06,
+      "last_price": 3.397919303e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T22:31:06+00:00",
       "missing": 0
@@ -24,61 +24,22 @@
       "symbol": "LINK",
       "qty": 13343410.109521745,
       "entry_price": 3.709696366499087e-06,
-      "last_price": 3.5760505866592136e-06,
+      "last_price": 3.439440841e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T22:31:06+00:00",
       "missing": 0
     },
-    "6BKwLosWXZX7ML2zirHXHjbiqUePsHZewCTaUD7Dpump": {
-      "symbol": "bot",
-      "qty": 2268654.9853176586,
-      "entry_price": 2.1819095596446092e-05,
-      "last_price": 2.1042101519890682e-05,
+    "D2S92xGcusVdDidezHGxcXrUy8uduGJJQC5yBpFkpump": {
+      "symbol": "HUGE",
+      "qty": 1988599.9230665637,
+      "entry_price": 2.4891884700300828e-05,
+      "last_price": 2.4035052097613725e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T22:31:06+00:00",
-      "missing": 0
-    },
-    "B22n8doQi4Umjeg4qTQT6yTZ38ZzYTf3yxZ47nsupump": {
-      "symbol": "sol",
-      "qty": 3170131.574490046,
-      "entry_price": 1.561449385833857e-05,
-      "last_price": 1.5097864821575783e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T22:31:06+00:00",
+      "entry_time": "2026-10-06T22:48:09+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-04T23:29:54+00:00",
-      "side": "sell",
-      "symbol": "PSTR",
-      "address": "AWNx5kbjkQhmBHTm6wGfNrikNXbYCyAQfGmphvYbpump",
-      "price": 0.000200351164,
-      "proceeds": 99.26,
-      "pnl_usd": 49.26,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-04T23:29:54+00:00",
-      "side": "sell",
-      "symbol": "CLOUT",
-      "address": "CSFcnhFS5qxuHTsjiuPFUswtzGGnyRCM9dF7WvxMpump",
-      "price": 3.411453997e-06,
-      "proceeds": 19.59,
-      "pnl_usd": -30.41,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-04T23:29:54+00:00",
-      "side": "sell",
-      "symbol": "AlterLife",
-      "address": "7jXpuNLyxAfVWS5x4Za6bjqBwnrz22iR7aQCSeLLpump",
-      "price": 1.006764099e-05,
-      "proceeds": 7.16,
-      "pnl_usd": -42.84,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-04T23:29:54+00:00",
       "side": "buy",
@@ -4546,6 +4507,34 @@
       "address": "B22n8doQi4Umjeg4qTQT6yTZ38ZzYTf3yxZ47nsupump",
       "price": 1.561449385833857e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T22:48:08+00:00",
+      "side": "sell",
+      "symbol": "bot",
+      "address": "6BKwLosWXZX7ML2zirHXHjbiqUePsHZewCTaUD7Dpump",
+      "price": 4.848245623e-05,
+      "proceeds": 104.44,
+      "pnl_usd": 54.44,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-06T22:48:08+00:00",
+      "side": "sell",
+      "symbol": "sol",
+      "address": "B22n8doQi4Umjeg4qTQT6yTZ38ZzYTf3yxZ47nsupump",
+      "price": 1.509786482e-05,
+      "proceeds": 23.69,
+      "pnl_usd": -26.31,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T22:48:09+00:00",
+      "side": "buy",
+      "symbol": "HUGE",
+      "address": "D2S92xGcusVdDidezHGxcXrUy8uduGJJQC5yBpFkpump",
+      "price": 2.4891884700300828e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5100,6 +5089,10 @@
     {
       "date": "2026-10-06T22:31:06+00:00",
       "equity": 686680.51
+    },
+    {
+      "date": "2026-10-06T22:48:09+00:00",
+      "equity": 686708.83
     }
   ]
 }
