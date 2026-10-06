@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 669567.9536644454,
+  "cash": 669597.1683716837,
   "positions": {
-    "9nV8DH5JBYUycejw1S3fPfZVQZY4zMLhTRSoHWkrpump": {
-      "symbol": "SOOTS",
-      "qty": 6394118.20609443,
-      "entry_price": 7.741489663550485e-06,
-      "last_price": 7.498706442e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T04:24:46+00:00",
-      "missing": 0
-    },
     "3K5sQnaqLGvag8Zy4dV4SmB9EvFNFKmQaRoyZnzQpump": {
       "symbol": "BOOTY",
       "qty": 3653507.1018927675,
@@ -20,22 +11,22 @@
       "entry_time": "2026-10-06T05:01:02+00:00",
       "missing": 0
     },
-    "Bu2TVnLY2nRzDq6gst4fyRtc9xP6Rt5oX7pyKwh5pump": {
-      "symbol": "CNDR",
-      "qty": 1014375.1260372043,
-      "entry_price": 4.879851519366267e-05,
-      "last_price": 4.726505409414252e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T05:23:09+00:00",
-      "missing": 0
-    },
     "6XZF575pWFU2dhsQtSBdC1FtLtG4ZEi4ooxUBGW8pump": {
       "symbol": "CASA",
       "qty": 2600439.670999927,
       "entry_price": 1.9035242598404964e-05,
-      "last_price": 1.8367481336130153e-05,
+      "last_price": 1.836748134e-05,
       "cost": 50.0,
       "entry_time": "2026-10-06T05:23:09+00:00",
+      "missing": 0
+    },
+    "7APC5Sv811PMqk86jZUYAuybcot7qgQj1UjPF9zTpump": {
+      "symbol": "PGPZ",
+      "qty": 1003767.6602845272,
+      "entry_price": 4.93142008440168e-05,
+      "last_price": 4.7765185944031054e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-06T05:43:09+00:00",
       "missing": 0
     }
   },
@@ -3221,6 +3212,34 @@
       "address": "6XZF575pWFU2dhsQtSBdC1FtLtG4ZEi4ooxUBGW8pump",
       "price": 1.9035242598404964e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T05:43:09+00:00",
+      "side": "sell",
+      "symbol": "SOOTS",
+      "address": "9nV8DH5JBYUycejw1S3fPfZVQZY4zMLhTRSoHWkrpump",
+      "price": 7.498706442e-06,
+      "proceeds": 45.65,
+      "pnl_usd": -4.35,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T05:43:09+00:00",
+      "side": "sell",
+      "symbol": "CNDR",
+      "address": "Bu2TVnLY2nRzDq6gst4fyRtc9xP6Rt5oX7pyKwh5pump",
+      "price": 6.684028315e-05,
+      "proceeds": 33.56,
+      "pnl_usd": -16.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-06T05:43:09+00:00",
+      "side": "buy",
+      "symbol": "PGPZ",
+      "address": "7APC5Sv811PMqk86jZUYAuybcot7qgQj1UjPF9zTpump",
+      "price": 4.93142008440168e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3575,6 +3594,10 @@
     {
       "date": "2026-10-06T05:23:09+00:00",
       "equity": 669759.44
+    },
+    {
+      "date": "2026-10-06T05:43:09+00:00",
+      "equity": 669740.71
     }
   ]
 }
