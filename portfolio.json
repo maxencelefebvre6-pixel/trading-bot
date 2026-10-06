@@ -1,26 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 687240.2273668353,
-  "positions": {
-    "B6WZJdXXeXPcxcMFLovTZs4VrwMak73E4h8M3HbNpump": {
-      "symbol": "BeeCat",
-      "qty": 5372519.314084378,
-      "entry_price": 9.21355459257872e-06,
-      "last_price": 8.867282293580047e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T16:46:19+00:00",
-      "missing": 0
-    },
-    "6Rpa9xsk8p8HVHWt5Cpbqrw8NbmWDnSWZoY1pcfJpump": {
-      "symbol": "Scrolling",
-      "qty": 4748927.199932383,
-      "entry_price": 1.0423406785579866e-05,
-      "last_price": 1.0041425985943307e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T16:46:19+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 687276.33974804,
+  "positions": {},
   "trades": [
     {
       "date": "2026-10-03T22:42:11+00:00",
@@ -4339,6 +4320,26 @@
       "address": "6Rpa9xsk8p8HVHWt5Cpbqrw8NbmWDnSWZoY1pcfJpump",
       "price": 1.0423406785579866e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T17:02:05+00:00",
+      "side": "sell",
+      "symbol": "BeeCat",
+      "address": "B6WZJdXXeXPcxcMFLovTZs4VrwMak73E4h8M3HbNpump",
+      "price": 3.603970897e-06,
+      "proceeds": 18.46,
+      "pnl_usd": -31.54,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T17:02:05+00:00",
+      "side": "sell",
+      "symbol": "Scrolling",
+      "address": "6Rpa9xsk8p8HVHWt5Cpbqrw8NbmWDnSWZoY1pcfJpump",
+      "price": 3.898041298e-06,
+      "proceeds": 17.65,
+      "pnl_usd": -32.35,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -4821,6 +4822,10 @@
     {
       "date": "2026-10-06T16:46:19+00:00",
       "equity": 687335.55
+    },
+    {
+      "date": "2026-10-06T17:02:05+00:00",
+      "equity": 687276.34
     }
   ]
 }
