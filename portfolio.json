@@ -1,41 +1,23 @@
 {
   "mode": "pumpfun",
-  "cash": 669559.7416089061,
+  "cash": 669563.9351360358,
   "positions": {
-    "3K5sQnaqLGvag8Zy4dV4SmB9EvFNFKmQaRoyZnzQpump": {
-      "symbol": "BOOTY",
-      "qty": 3653507.1018927675,
-      "entry_price": 1.3548625640923376e-05,
-      "last_price": 1.309219355e-05,
+    "FmDUp5pzHkf8SThZoxy3M6fNxUW6Lv3MAm2ft1MCpump": {
+      "symbol": "COOKED",
+      "qty": 1019670.7104229865,
+      "entry_price": 4.8545083715767496e-05,
+      "last_price": 4.701917521264068e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T05:01:02+00:00",
+      "entry_time": "2026-10-06T06:27:10+00:00",
       "missing": 0
     },
-    "6XZF575pWFU2dhsQtSBdC1FtLtG4ZEi4ooxUBGW8pump": {
-      "symbol": "CASA",
-      "qty": 2600439.670999927,
-      "entry_price": 1.9035242598404964e-05,
-      "last_price": 1.836748134e-05,
+    "473e3MgHs3S3cYjcGNex79v68wkjPci6XMFUBzUwpump": {
+      "symbol": "BEAM",
+      "qty": 3428646.318029639,
+      "entry_price": 1.4437184652060136e-05,
+      "last_price": 1.393126102147148e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-06T05:23:09+00:00",
-      "missing": 0
-    },
-    "71tuZ7SdkP7CurzDduZLce1uR7EyqKADLN9ENJaipump": {
-      "symbol": "Meow",
-      "qty": 3248962.9903340978,
-      "entry_price": 1.5235630614219403e-05,
-      "last_price": 1.4701594976266689e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T05:59:15+00:00",
-      "missing": 0
-    },
-    "7WRxcV22UTpgVyDw6gSZZwozLge1nodxsDCCGnGNpump": {
-      "symbol": "ROLLO",
-      "qty": 856217.4099676263,
-      "entry_price": 5.781241939692817e-05,
-      "last_price": 5.598889440410559e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T05:59:15+00:00",
+      "entry_time": "2026-10-06T06:27:10+00:00",
       "missing": 0
     }
   },
@@ -3275,6 +3257,62 @@
       "address": "7WRxcV22UTpgVyDw6gSZZwozLge1nodxsDCCGnGNpump",
       "price": 5.781241939692817e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T06:27:10+00:00",
+      "side": "sell",
+      "symbol": "BOOTY",
+      "address": "3K5sQnaqLGvag8Zy4dV4SmB9EvFNFKmQaRoyZnzQpump",
+      "price": 1.309219355e-05,
+      "proceeds": 45.71,
+      "pnl_usd": -4.29,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T06:27:10+00:00",
+      "side": "sell",
+      "symbol": "CASA",
+      "address": "6XZF575pWFU2dhsQtSBdC1FtLtG4ZEi4ooxUBGW8pump",
+      "price": 1.836748134e-05,
+      "proceeds": 45.58,
+      "pnl_usd": -4.42,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-06T06:27:10+00:00",
+      "side": "sell",
+      "symbol": "Meow",
+      "address": "71tuZ7SdkP7CurzDduZLce1uR7EyqKADLN9ENJaipump",
+      "price": 3.343441609e-06,
+      "proceeds": 10.39,
+      "pnl_usd": -39.61,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T06:27:10+00:00",
+      "side": "sell",
+      "symbol": "ROLLO",
+      "address": "7WRxcV22UTpgVyDw6gSZZwozLge1nodxsDCCGnGNpump",
+      "price": 3.060790585e-06,
+      "proceeds": 2.51,
+      "pnl_usd": -47.49,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-06T06:27:10+00:00",
+      "side": "buy",
+      "symbol": "COOKED",
+      "address": "FmDUp5pzHkf8SThZoxy3M6fNxUW6Lv3MAm2ft1MCpump",
+      "price": 4.8545083715767496e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-06T06:27:10+00:00",
+      "side": "buy",
+      "symbol": "BEAM",
+      "address": "473e3MgHs3S3cYjcGNex79v68wkjPci6XMFUBzUwpump",
+      "price": 1.4437184652060136e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -3637,6 +3675,10 @@
     {
       "date": "2026-10-06T05:59:15+00:00",
       "equity": 669751.04
+    },
+    {
+      "date": "2026-10-06T06:27:10+00:00",
+      "equity": 669659.64
     }
   ]
 }
