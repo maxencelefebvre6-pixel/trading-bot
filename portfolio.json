@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 1173353.8362272487,
+  "cash": 1173340.1256370721,
   "positions": {
     "3N9hpcKEWDW1ow7SciMQZe966tXrDj7UeZrWEfM7pump": {
       "symbol": "$AGNT",
@@ -11,56 +11,17 @@
       "entry_time": "2026-10-07T18:25:57+00:00",
       "missing": 0
     },
-    "3HRQjK8UuqfMNbB6YfK4kesBBhuVKLdiCm2Ywb1gpump": {
-      "symbol": "LOBBY",
-      "qty": 1038571.0336960269,
-      "entry_price": 4.766164123010565e-05,
-      "last_price": 4.6160541765729126e-05,
+    "F53GYixZziZBiSNqrPZq67EESWQqA5oU2eBHPEcjpump": {
+      "symbol": "REC",
+      "qty": 597637.4107926155,
+      "entry_price": 8.282614024170728e-05,
+      "last_price": 8.034813506710913e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-07T18:52:21+00:00",
-      "missing": 0
-    },
-    "CKMYGTR21v6A6TExiAfrBF8wEEFVeDz3PRP44KVspump": {
-      "symbol": "neetjak",
-      "qty": 1904153.0148227317,
-      "entry_price": 2.599581000826671e-05,
-      "last_price": 2.5084069686373065e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T18:52:21+00:00",
+      "entry_time": "2026-10-07T19:10:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T16:24:17+00:00",
-      "side": "sell",
-      "symbol": "PCAT",
-      "address": "GUsXkpMWmZUa4yxzjBWvmZPKRFig52QGHtYjCaN9pump",
-      "price": 6.530924893e-05,
-      "proceeds": 0.01,
-      "pnl_usd": -49.99,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T16:24:17+00:00",
-      "side": "sell",
-      "symbol": "MemeRocket",
-      "address": "Fda2DfHKUwqyiSK2E6inNktdstep6ndVkVgp7gvppump",
-      "price": 3.33772115e-06,
-      "proceeds": 21.23,
-      "pnl_usd": -28.77,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T16:24:17+00:00",
-      "side": "sell",
-      "symbol": "NLM",
-      "address": "3rr11Ej5QD6j1qxYZ5AVR1dW1RCxQYkp7sMKdwGgpump",
-      "price": 1.228913988e-06,
-      "proceeds": 13.26,
-      "pnl_usd": -36.74,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-05T16:47:23+00:00",
       "side": "buy",
@@ -4530,6 +4491,34 @@
       "address": "CKMYGTR21v6A6TExiAfrBF8wEEFVeDz3PRP44KVspump",
       "price": 2.599581000826671e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T19:10:55+00:00",
+      "side": "sell",
+      "symbol": "LOBBY",
+      "address": "3HRQjK8UuqfMNbB6YfK4kesBBhuVKLdiCm2Ywb1gpump",
+      "price": 6.252963393e-05,
+      "proceeds": 32.15,
+      "pnl_usd": -17.85,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T19:10:55+00:00",
+      "side": "sell",
+      "symbol": "neetjak",
+      "address": "CKMYGTR21v6A6TExiAfrBF8wEEFVeDz3PRP44KVspump",
+      "price": 2.285599061e-06,
+      "proceeds": 4.14,
+      "pnl_usd": -45.86,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T19:10:56+00:00",
+      "side": "buy",
+      "symbol": "REC",
+      "address": "F53GYixZziZBiSNqrPZq67EESWQqA5oU2eBHPEcjpump",
+      "price": 8.282614024170728e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5292,6 +5281,10 @@
     {
       "date": "2026-10-07T18:52:21+00:00",
       "equity": 1173497.33
+    },
+    {
+      "date": "2026-10-07T19:10:56+00:00",
+      "equity": 1173435.93
     }
   ]
 }
