@@ -1,90 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 1173032.2870797676,
+  "cash": 3461447.467010124,
   "positions": {
-    "F53GYixZziZBiSNqrPZq67EESWQqA5oU2eBHPEcjpump": {
-      "symbol": "REC",
-      "qty": 597637.4107926155,
-      "entry_price": 8.282614024170728e-05,
-      "last_price": 8.023937312e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T19:10:56+00:00",
-      "missing": 0
-    },
-    "2PEzsT3fo9ZCcKRzLtB8fzR26Z3UaUwPv9Ucb1Uxpump": {
-      "symbol": "Eco",
-      "qty": 1051350.0877253443,
-      "entry_price": 4.7082318799341195e-05,
-      "last_price": 4.559910578838993e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T20:05:59+00:00",
-      "missing": 0
-    },
-    "6H6tvMNu5fzxVTNn4je6W23yH9STBU1medMijrt4pump": {
-      "symbol": "BeeCat",
-      "qty": 1269304.1680299588,
-      "entry_price": 3.899774478549705e-05,
-      "last_price": 3.766945733317964e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T20:05:59+00:00",
-      "missing": 0
-    },
-    "GJiWxuds6Ms8JQcX4xQLk2HXexCFrf3HNAm3cqjtpump": {
-      "symbol": "VRAM",
-      "qty": 3826796.705359587,
-      "entry_price": 1.2935100506037648e-05,
-      "last_price": 1.2467737366856265e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T20:05:59+00:00",
-      "missing": 0
-    },
     "26eYh6qat3hEXXmXcBUeeej6iPwz21Y4oFsCN287pump": {
       "symbol": "Ahh",
       "qty": 5002890.509221866,
       "entry_price": 9.894280098426355e-06,
-      "last_price": 9.541096433227591e-06,
+      "last_price": 9.541096433e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T20:05:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T18:54:29+00:00",
-      "side": "sell",
-      "symbol": "SCOMB",
-      "address": "Exday3DFohJpzT6uFwwXycyXivMQhJ76f1pU8G1bpump",
-      "price": 3.49778024e-06,
-      "proceeds": 21.4,
-      "pnl_usd": -28.6,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T18:54:29+00:00",
-      "side": "buy",
-      "symbol": "Auton",
-      "address": "7Wc2wGoptxcGc1jw9uX6wzLo23cxAKtvT2FwmULGpump",
-      "price": 1.3557632455321663e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T21:32:09+00:00",
-      "side": "sell",
-      "symbol": "Auton",
-      "address": "7Wc2wGoptxcGc1jw9uX6wzLo23cxAKtvT2FwmULGpump",
-      "price": 5.096263113e-06,
-      "proceeds": 17.75,
-      "pnl_usd": -32.25,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T21:32:09+00:00",
-      "side": "buy",
-      "symbol": "CKPE",
-      "address": "4Yy45WZCW67eriW7aj1VRJSCbw9JivB9TrNf4LSTpump",
-      "price": 1.0781310181296e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T21:41:47+00:00",
       "side": "buy",
@@ -4544,6 +4472,46 @@
       "address": "26eYh6qat3hEXXmXcBUeeej6iPwz21Y4oFsCN287pump",
       "price": 9.894280098426355e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T20:28:17+00:00",
+      "side": "sell",
+      "symbol": "REC",
+      "address": "F53GYixZziZBiSNqrPZq67EESWQqA5oU2eBHPEcjpump",
+      "price": 8.023937312e-05,
+      "proceeds": 46.01,
+      "pnl_usd": -3.99,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T20:28:17+00:00",
+      "side": "sell",
+      "symbol": "Eco",
+      "address": "2PEzsT3fo9ZCcKRzLtB8fzR26Z3UaUwPv9Ucb1Uxpump",
+      "price": 4.3971441762,
+      "proceeds": 2288354.27,
+      "pnl_usd": 2288304.27,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T20:28:17+00:00",
+      "side": "sell",
+      "symbol": "BeeCat",
+      "address": "6H6tvMNu5fzxVTNn4je6W23yH9STBU1medMijrt4pump",
+      "price": 2.274315267e-06,
+      "proceeds": 2.76,
+      "pnl_usd": -47.24,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T20:28:17+00:00",
+      "side": "sell",
+      "symbol": "VRAM",
+      "address": "GJiWxuds6Ms8JQcX4xQLk2HXexCFrf3HNAm3cqjtpump",
+      "price": 3.32101721e-06,
+      "proceeds": 12.14,
+      "pnl_usd": -37.86,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5322,6 +5290,10 @@
     {
       "date": "2026-10-07T20:05:59+00:00",
       "equity": 1173271.44
+    },
+    {
+      "date": "2026-10-07T20:28:17+00:00",
+      "equity": 3461495.2
     }
   ]
 }
