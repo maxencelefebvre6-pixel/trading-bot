@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 3460949.236649088,
+  "cash": 3460903.073575541,
   "positions": {
     "EKHpJ9TMGP8dThzhvyJNQdQvZ6Yu5Sg1B8vPE5rmpump": {
       "symbol": "$SLJK",
       "qty": 14561561.44346339,
       "entry_price": 3.399360720496104e-06,
-      "last_price": 3.2737649949880667e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T22:21:36+00:00",
-      "missing": 0
-    },
-    "A83GpAwi2XPLvmtbzGDJNvjbbSMdLBpj6VXcdSQEpump": {
-      "symbol": "Dungeons",
-      "qty": 4047006.31499889,
-      "entry_price": 1.2231263345585756e-05,
-      "last_price": 1.1779429558010263e-05,
+      "last_price": 3.273764995e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T22:21:36+00:00",
       "missing": 0
@@ -24,29 +15,22 @@
       "symbol": "BetOnBlak",
       "qty": 6855042.808620494,
       "entry_price": 7.220961470547163e-06,
-      "last_price": 6.96363369117075e-06,
+      "last_price": 6.963633691e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T22:21:36+00:00",
+      "missing": 0
+    },
+    "3NBD8kWNTbnX3RguKZ9bCkDrWbChciZjuZSLaoSmpump": {
+      "symbol": "GOAT",
+      "qty": 7093346.374599091,
+      "entry_price": 6.978370628742586e-06,
+      "last_price": 6.7108324599086236e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T22:41:16+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T23:44:43+00:00",
-      "side": "buy",
-      "symbol": "STENKS",
-      "address": "HqMTGBfa32sFiwmZeFa1dPGsmbBjxapoto8NUBQspump",
-      "price": 2.0236876084248598e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T23:44:43+00:00",
-      "side": "buy",
-      "symbol": "MIND",
-      "address": "8bDBj8hcVGKK21SzCAScpJnRKNFfXkxCvjiiEKdCpump",
-      "price": 7.579056011330589e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T23:57:06+00:00",
       "side": "sell",
@@ -4528,6 +4512,24 @@
       "address": "mUJ6sSoQdr3rGbN91LaYmyDU15gkTUvZhztvfXqpump",
       "price": 7.220961470547163e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T22:41:16+00:00",
+      "side": "sell",
+      "symbol": "Dungeons",
+      "address": "A83GpAwi2XPLvmtbzGDJNvjbbSMdLBpj6VXcdSQEpump",
+      "price": 9.912152685e-07,
+      "proceeds": 3.84,
+      "pnl_usd": -46.16,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T22:41:16+00:00",
+      "side": "buy",
+      "symbol": "GOAT",
+      "address": "3NBD8kWNTbnX3RguKZ9bCkDrWbChciZjuZSLaoSmpump",
+      "price": 6.978370628742586e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5334,6 +5336,10 @@
     {
       "date": "2026-10-07T22:21:36+00:00",
       "equity": 3461092.32
+    },
+    {
+      "date": "2026-10-07T22:41:16+00:00",
+      "equity": 3461046.08
     }
   ]
 }
