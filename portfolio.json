@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 1173506.1713243052,
+  "cash": 1173502.0304830333,
   "positions": {
-    "2WZnseF9pVjbEgbyuiPA9uukpDGymsMF2JcfLQGypump": {
-      "symbol": "WUMPUS",
-      "qty": 1213178.4773138594,
-      "entry_price": 4.080191078694346e-05,
-      "last_price": 3.941153481701302e-05,
+    "J8oiCmvz4FsW33uyF4ZDci2uHodNBG23a3qmEdeSpump": {
+      "symbol": "CHILL",
+      "qty": 431644.3174081855,
+      "entry_price": 0.00011467775203719456,
+      "last_price": 0.00011112199519000593,
       "cost": 50.0,
-      "entry_time": "2026-10-07T15:45:12+00:00",
-      "missing": 0
-    },
-    "9tV8cs2ezwb4ovC7AELZqvytYCGfvPJwXantJ7tupump": {
-      "symbol": "GPAD",
-      "qty": 1142793.5037550954,
-      "entry_price": 4.331491195683942e-05,
-      "last_price": 4.193471969884303e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T15:45:12+00:00",
+      "entry_time": "2026-10-07T16:04:53+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T14:55:11+00:00",
-      "side": "buy",
-      "symbol": "TRUMPTANA",
-      "address": "8mF5MKKEk4bX7Bdfhdt2BQ8jQr6nKGid2B544Msfpump",
-      "price": 8.232464588893891e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T15:18:58+00:00",
-      "side": "sell",
-      "symbol": "USDF",
-      "address": "HPwesJWgA6DNjKCMT9y1AxDgQvwhfL6qGvuzPTkEpump",
-      "price": 0.01015048664,
-      "proceeds": 47.62,
-      "pnl_usd": -2.38,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-05T15:41:24+00:00",
-      "side": "sell",
-      "symbol": "att",
-      "address": "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump",
-      "price": 6.519408311e-06,
-      "proceeds": 45.28,
-      "pnl_usd": -4.72,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-05T15:41:24+00:00",
       "side": "buy",
@@ -4521,6 +4484,34 @@
       "address": "9tV8cs2ezwb4ovC7AELZqvytYCGfvPJwXantJ7tupump",
       "price": 4.331491195683942e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T16:04:53+00:00",
+      "side": "sell",
+      "symbol": "WUMPUS",
+      "address": "2WZnseF9pVjbEgbyuiPA9uukpDGymsMF2JcfLQGypump",
+      "price": 1.233811666e-05,
+      "proceeds": 14.33,
+      "pnl_usd": -35.67,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T16:04:53+00:00",
+      "side": "sell",
+      "symbol": "GPAD",
+      "address": "9tV8cs2ezwb4ovC7AELZqvytYCGfvPJwXantJ7tupump",
+      "price": 2.884376015e-05,
+      "proceeds": 31.53,
+      "pnl_usd": -18.47,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T16:04:53+00:00",
+      "side": "buy",
+      "symbol": "CHILL",
+      "address": "J8oiCmvz4FsW33uyF4ZDci2uHodNBG23a3qmEdeSpump",
+      "price": 0.00011467775203719456,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5259,6 +5250,10 @@
     {
       "date": "2026-10-07T15:45:12+00:00",
       "equity": 1173601.91
+    },
+    {
+      "date": "2026-10-07T16:04:53+00:00",
+      "equity": 1173550.0
     }
   ]
 }
