@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 735805.4966771315,
-  "positions": {
-    "3ioZCFgsKkr1QdNJC5TSsJfaCSQgDtmqNwPx7Mujpump": {
-      "symbol": "$I",
-      "qty": 921215.9551653045,
-      "entry_price": 5.373332900114354e-05,
-      "last_price": 5.210348829e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T06:55:03+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 735851.5247896791,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-05T08:25:56+00:00",
-      "side": "sell",
-      "symbol": "CRANKER",
-      "address": "3JuKpRqoptXyE9Js91JU5a3SkaDgTHMvD35CAPfipump",
-      "price": 9.21034036e-06,
-      "proceeds": 19.51,
-      "pnl_usd": -30.49,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-05T08:25:56+00:00",
       "side": "sell",
@@ -4514,6 +4494,16 @@
       "proceeds": 114.86,
       "pnl_usd": 64.86,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-07T07:58:17+00:00",
+      "side": "sell",
+      "symbol": "$I",
+      "address": "3ioZCFgsKkr1QdNJC5TSsJfaCSQgDtmqNwPx7Mujpump",
+      "price": 5.210348829e-05,
+      "proceeds": 46.03,
+      "pnl_usd": -3.97,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -5172,6 +5162,10 @@
     {
       "date": "2026-10-07T07:39:03+00:00",
       "equity": 735853.5
+    },
+    {
+      "date": "2026-10-07T07:58:18+00:00",
+      "equity": 735851.52
     }
   ]
 }
