@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 735568.8243239794,
+  "cash": 735679.7623336937,
   "positions": {
-    "CfjZwEc7hcUNs7YDJkMUnrtEu3kQkqdkMbxkVTmZpump": {
-      "symbol": "$LA BEAST",
-      "qty": 5591040.184808973,
-      "entry_price": 8.853450943617435e-06,
-      "last_price": 8.528132965e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T09:49:23+00:00",
-      "missing": 0
-    },
     "D54fyom2zeT1uXzshmrUGYWAd7Ve5k8zWnVUtzLppump": {
       "symbol": "Karikar",
       "qty": 6413752.690135993,
@@ -19,36 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-07T10:06:03+00:00",
       "missing": 0
-    },
-    "5FTWtB6YkNcCkqTHzkYKFCfeoP2VusoCvwrGY4eBpump": {
-      "symbol": "BITCOINU",
-      "qty": 3564581.104566858,
-      "entry_price": 1.388662469668084e-05,
-      "last_price": 1.3420402585819308e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T10:31:08+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T11:43:21+00:00",
-      "side": "sell",
-      "symbol": "ANY",
-      "address": "9aQwx5QQSpvrntr7EvHqRNbAqKrLUd9WaiqHGZoppump",
-      "price": 0.0002575352777,
-      "proceeds": 303.7,
-      "pnl_usd": 253.7,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-05T11:43:21+00:00",
-      "side": "buy",
-      "symbol": "ANY",
-      "address": "8NBAZqTKLCoC1pyXa6KHG5GfJtM1XoGhF9K2Tz8vpump",
-      "price": 4.929795091090879e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T12:00:18+00:00",
       "side": "sell",
@@ -4528,6 +4492,26 @@
       "address": "5FTWtB6YkNcCkqTHzkYKFCfeoP2VusoCvwrGY4eBpump",
       "price": 1.388662469668084e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T10:50:33+00:00",
+      "side": "sell",
+      "symbol": "$LA BEAST",
+      "address": "CfjZwEc7hcUNs7YDJkMUnrtEu3kQkqdkMbxkVTmZpump",
+      "price": 8.528132965e-06,
+      "proceeds": 45.45,
+      "pnl_usd": -4.55,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T10:50:33+00:00",
+      "side": "sell",
+      "symbol": "BITCOINU",
+      "address": "5FTWtB6YkNcCkqTHzkYKFCfeoP2VusoCvwrGY4eBpump",
+      "price": 1.922055927e-05,
+      "proceeds": 65.48,
+      "pnl_usd": 15.48,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
@@ -5218,6 +5202,10 @@
     {
       "date": "2026-10-07T10:31:08+00:00",
       "equity": 735712.0
+    },
+    {
+      "date": "2026-10-07T10:50:33+00:00",
+      "equity": 735727.42
     }
   ]
 }
