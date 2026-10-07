@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 1173646.23681984,
-  "positions": {},
+  "cash": 1173596.23681984,
+  "positions": {
+    "FMiyLAyBkuNaV69RBi4hrQ5Wxd3g6k1eyoiMPqaCpump": {
+      "symbol": "ALBUS",
+      "qty": 3187407.450841323,
+      "entry_price": 1.5529862674737228e-05,
+      "last_price": 1.4975771578502797e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T15:17:54+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-05T14:55:11+00:00",
-      "side": "sell",
-      "symbol": "feeppo",
-      "address": "8ib7CMQjx3BVmUys1TttBdALfbzYHEVhh77yZhatpump",
-      "price": 2.256861588e-06,
-      "proceeds": 3.39,
-      "pnl_usd": -46.61,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-05T14:55:11+00:00",
       "side": "sell",
@@ -4508,6 +4508,14 @@
       "proceeds": 1.76,
       "pnl_usd": -48.24,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T15:17:54+00:00",
+      "side": "buy",
+      "symbol": "ALBUS",
+      "address": "FMiyLAyBkuNaV69RBi4hrQ5Wxd3g6k1eyoiMPqaCpump",
+      "price": 1.5529862674737228e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5238,6 +5246,10 @@
     {
       "date": "2026-10-07T14:30:56+00:00",
       "equity": 1173646.24
+    },
+    {
+      "date": "2026-10-07T15:17:54+00:00",
+      "equity": 1173643.97
     }
   ]
 }
