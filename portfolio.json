@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 1173453.0328036423,
-  "positions": {
-    "kikbvGsUQHwSZSHhrFUzriZDe2LTZuvJLf59Pcmpump": {
-      "symbol": "RKY",
-      "qty": 1495280.7954910581,
-      "entry_price": 3.310415016983077e-05,
-      "last_price": 3.2052626359518645e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T16:29:56+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 1173454.0623399932,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-05T15:59:47+00:00",
-      "side": "sell",
-      "symbol": "TRUMPTANA",
-      "address": "8mF5MKKEk4bX7Bdfhdt2BQ8jQr6nKGid2B544Msfpump",
-      "price": 7.906917472e-06,
-      "proceeds": 45.29,
-      "pnl_usd": -4.71,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-05T15:59:47+00:00",
       "side": "sell",
@@ -4514,6 +4494,16 @@
       "address": "kikbvGsUQHwSZSHhrFUzriZDe2LTZuvJLf59Pcmpump",
       "price": 3.310415016983077e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T16:52:19+00:00",
+      "side": "sell",
+      "symbol": "RKY",
+      "address": "kikbvGsUQHwSZSHhrFUzriZDe2LTZuvJLf59Pcmpump",
+      "price": 7.184115736e-07,
+      "proceeds": 1.03,
+      "pnl_usd": -48.97,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5260,6 +5250,10 @@
     {
       "date": "2026-10-07T16:29:56+00:00",
       "equity": 1173500.96
+    },
+    {
+      "date": "2026-10-07T16:52:20+00:00",
+      "equity": 1173454.06
     }
   ]
 }
