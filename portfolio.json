@@ -1,64 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 735652.1984859019,
+  "cash": 735485.0825063463,
   "positions": {
-    "535ReArATSQyMCSjMfN5ngvyBAW1wS9iyq2hwd2rpump": {
-      "symbol": "CORNYBOB",
-      "qty": 1042174.7665112296,
-      "entry_price": 4.7496832192268046e-05,
-      "last_price": 4.600170883508873e-05,
+    "J1tjLHnNFZQX3JccUxX4etq8sgtZ53rAWQZDCcNpump": {
+      "symbol": "stash",
+      "qty": 700894.1478313009,
+      "entry_price": 7.062407376800387e-05,
+      "last_price": 6.83911974704146e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-07T12:06:41+00:00",
+      "entry_time": "2026-10-07T12:36:30+00:00",
+      "missing": 0
+    },
+    "3eJ2HRFXRPDjeLgwyNnj3s6P6irPYqqApV7wmB6Kpump": {
+      "symbol": "PACE",
+      "qty": 5326073.61166993,
+      "entry_price": 9.293900837483888e-06,
+      "last_price": 8.944079457625178e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T12:36:30+00:00",
+      "missing": 0
+    },
+    "GHucED3WKGb3h1BRvHja2xCuEaBcY5xZ4U5t9yq6pump": {
+      "symbol": "kittylick",
+      "qty": 2518278.675331599,
+      "entry_price": 1.9656283669035157e-05,
+      "last_price": 1.8980762224683586e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T12:36:30+00:00",
+      "missing": 0
+    },
+    "FKEXKnXWTvTKXibSkyAbrQoKrcmHf5K5p45rE4k9pump": {
+      "symbol": "KAN",
+      "qty": 6992688.736378113,
+      "entry_price": 7.078822162137121e-06,
+      "last_price": 6.829609824229044e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T12:36:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T12:29:45+00:00",
-      "side": "sell",
-      "symbol": "DICE",
-      "address": "HqZCswKyyYf6dSetc4bagv5FBSJajqH6wHQXt3GGpump",
-      "price": 1.728834031e-07,
-      "proceeds": 1.06,
-      "pnl_usd": -48.94,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T12:29:46+00:00",
-      "side": "buy",
-      "symbol": "Nice Coin",
-      "address": "HeaMinytPmTNJmU9dQNhGv7QU4mkJ3YBNajisBtFpump",
-      "price": 2.4081869014355178e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T12:29:46+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "DC8J9r8HG1DLTfXhtpjycTbCDCeQacCmFAnycQaSpump",
-      "price": 2.0872355232099283e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T12:57:18+00:00",
-      "side": "sell",
-      "symbol": "Nice Coin",
-      "address": "HeaMinytPmTNJmU9dQNhGv7QU4mkJ3YBNajisBtFpump",
-      "price": 3.377987219e-06,
-      "proceeds": 6.65,
-      "pnl_usd": -43.35,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T12:57:18+00:00",
-      "side": "sell",
-      "symbol": "PUMP",
-      "address": "DC8J9r8HG1DLTfXhtpjycTbCDCeQacCmFAnycQaSpump",
-      "price": 1.581519044e-05,
-      "proceeds": 18.57,
-      "pnl_usd": -31.43,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-05T12:57:18+00:00",
       "side": "buy",
@@ -4512,6 +4493,48 @@
       "address": "535ReArATSQyMCSjMfN5ngvyBAW1wS9iyq2hwd2rpump",
       "price": 4.7496832192268046e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T12:36:30+00:00",
+      "side": "sell",
+      "symbol": "CORNYBOB",
+      "address": "535ReArATSQyMCSjMfN5ngvyBAW1wS9iyq2hwd2rpump",
+      "price": 6.374397718e-05,
+      "proceeds": 32.88,
+      "pnl_usd": -17.12,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T12:36:30+00:00",
+      "side": "buy",
+      "symbol": "stash",
+      "address": "J1tjLHnNFZQX3JccUxX4etq8sgtZ53rAWQZDCcNpump",
+      "price": 7.062407376800387e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T12:36:30+00:00",
+      "side": "buy",
+      "symbol": "PACE",
+      "address": "3eJ2HRFXRPDjeLgwyNnj3s6P6irPYqqApV7wmB6Kpump",
+      "price": 9.293900837483888e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T12:36:30+00:00",
+      "side": "buy",
+      "symbol": "kittylick",
+      "address": "GHucED3WKGb3h1BRvHja2xCuEaBcY5xZ4U5t9yq6pump",
+      "price": 1.9656283669035157e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T12:36:30+00:00",
+      "side": "buy",
+      "symbol": "KAN",
+      "address": "FKEXKnXWTvTKXibSkyAbrQoKrcmHf5K5p45rE4k9pump",
+      "price": 7.078822162137121e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5218,6 +5241,10 @@
     {
       "date": "2026-10-07T12:06:41+00:00",
       "equity": 735700.14
+    },
+    {
+      "date": "2026-10-07T12:36:30+00:00",
+      "equity": 735676.21
     }
   ]
 }
