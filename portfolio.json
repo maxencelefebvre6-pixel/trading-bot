@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 735702.1984859019,
-  "positions": {},
+  "cash": 735652.1984859019,
+  "positions": {
+    "535ReArATSQyMCSjMfN5ngvyBAW1wS9iyq2hwd2rpump": {
+      "symbol": "CORNYBOB",
+      "qty": 1042174.7665112296,
+      "entry_price": 4.7496832192268046e-05,
+      "last_price": 4.600170883508873e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T12:06:41+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-05T12:29:45+00:00",
-      "side": "sell",
-      "symbol": "DEMO",
-      "address": "HJo4v9isWFZgoksMFbkzGDkGmvzrBkeDiEkLZKt6pump",
-      "price": 1.461962934e-05,
-      "proceeds": 77.31,
-      "pnl_usd": 27.31,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-05T12:29:45+00:00",
       "side": "sell",
@@ -4504,6 +4504,14 @@
       "proceeds": 27.05,
       "pnl_usd": -22.95,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T12:06:41+00:00",
+      "side": "buy",
+      "symbol": "CORNYBOB",
+      "address": "535ReArATSQyMCSjMfN5ngvyBAW1wS9iyq2hwd2rpump",
+      "price": 4.7496832192268046e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5206,6 +5214,10 @@
     {
       "date": "2026-10-07T11:29:17+00:00",
       "equity": 735702.2
+    },
+    {
+      "date": "2026-10-07T12:06:41+00:00",
+      "equity": 735700.14
     }
   ]
 }
