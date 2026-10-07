@@ -1,75 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3461045.0274561606,
+  "cash": 3460949.236649088,
   "positions": {
-    "AximE7veJGMMXDVYJrkAtJNUvxHBCYvL621iW9wEpump": {
-      "symbol": "AC",
-      "qty": 3747818.9440664696,
-      "entry_price": 1.3207681784726603e-05,
-      "last_price": 1.2731902006171233e-05,
+    "EKHpJ9TMGP8dThzhvyJNQdQvZ6Yu5Sg1B8vPE5rmpump": {
+      "symbol": "$SLJK",
+      "qty": 14561561.44346339,
+      "entry_price": 3.399360720496104e-06,
+      "last_price": 3.2737649949880667e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-07T22:01:26+00:00",
+      "entry_time": "2026-10-07T22:21:36+00:00",
       "missing": 0
     },
-    "xQLcSPCd5YuWHKCGcLXjVM8VLsGHQs7Y7csWkbUpump": {
-      "symbol": "GOLDRUSH",
-      "qty": 929899.0000674977,
-      "entry_price": 5.3231587512629854e-05,
-      "last_price": 5.1542455549160123e-05,
+    "A83GpAwi2XPLvmtbzGDJNvjbbSMdLBpj6VXcdSQEpump": {
+      "symbol": "Dungeons",
+      "qty": 4047006.31499889,
+      "entry_price": 1.2231263345585756e-05,
+      "last_price": 1.1779429558010263e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-07T22:01:26+00:00",
+      "entry_time": "2026-10-07T22:21:36+00:00",
+      "missing": 0
+    },
+    "mUJ6sSoQdr3rGbN91LaYmyDU15gkTUvZhztvfXqpump": {
+      "symbol": "BetOnBlak",
+      "qty": 6855042.808620494,
+      "entry_price": 7.220961470547163e-06,
+      "last_price": 6.96363369117075e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T22:21:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T23:28:43+00:00",
-      "side": "buy",
-      "symbol": "WC",
-      "address": "5EgW8f1SiJyRtJQiA7P7jMXczxsvDVTLRiBHqyN6pump",
-      "price": 4.917795310081102e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T23:44:42+00:00",
-      "side": "sell",
-      "symbol": "STUTUTU",
-      "address": "Btvv4oFbghWEgUTfP7m1tM4jYsDmTx6SVQKTn2pTpump",
-      "price": 9.327198553e-06,
-      "proceeds": 45.55,
-      "pnl_usd": -4.45,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-05T23:44:42+00:00",
-      "side": "sell",
-      "symbol": "ponzo",
-      "address": "EikhnEmEVz7M3VqFfbnFS2yDaDuYNtsybCuVM52Tpump",
-      "price": 3.45777622e-06,
-      "proceeds": 6.76,
-      "pnl_usd": -43.24,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T23:44:42+00:00",
-      "side": "sell",
-      "symbol": "MATRIX",
-      "address": "7G8FeKWSYr3tQ5Sw2feSVWTZmTLHmbEp6jJsDVpspump",
-      "price": 7.628791522e-06,
-      "proceeds": 24.98,
-      "pnl_usd": -25.02,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T23:44:42+00:00",
-      "side": "sell",
-      "symbol": "WC",
-      "address": "5EgW8f1SiJyRtJQiA7P7jMXczxsvDVTLRiBHqyN6pump",
-      "price": 2.624008792e-06,
-      "proceeds": 2.53,
-      "pnl_usd": -47.47,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-05T23:44:43+00:00",
       "side": "buy",
@@ -4523,6 +4484,50 @@
       "address": "xQLcSPCd5YuWHKCGcLXjVM8VLsGHQs7Y7csWkbUpump",
       "price": 5.3231587512629854e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T22:21:36+00:00",
+      "side": "sell",
+      "symbol": "AC",
+      "address": "AximE7veJGMMXDVYJrkAtJNUvxHBCYvL621iW9wEpump",
+      "price": 5.418628993e-06,
+      "proceeds": 19.36,
+      "pnl_usd": -30.64,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T22:21:36+00:00",
+      "side": "sell",
+      "symbol": "GOLDRUSH",
+      "address": "xQLcSPCd5YuWHKCGcLXjVM8VLsGHQs7Y7csWkbUpump",
+      "price": 3.915632834e-05,
+      "proceeds": 34.85,
+      "pnl_usd": -15.15,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T22:21:36+00:00",
+      "side": "buy",
+      "symbol": "$SLJK",
+      "address": "EKHpJ9TMGP8dThzhvyJNQdQvZ6Yu5Sg1B8vPE5rmpump",
+      "price": 3.399360720496104e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T22:21:36+00:00",
+      "side": "buy",
+      "symbol": "Dungeons",
+      "address": "A83GpAwi2XPLvmtbzGDJNvjbbSMdLBpj6VXcdSQEpump",
+      "price": 1.2231263345585756e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T22:21:36+00:00",
+      "side": "buy",
+      "symbol": "BetOnBlak",
+      "address": "mUJ6sSoQdr3rGbN91LaYmyDU15gkTUvZhztvfXqpump",
+      "price": 7.220961470547163e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5325,6 +5330,10 @@
     {
       "date": "2026-10-07T22:01:26+00:00",
       "equity": 3461140.67
+    },
+    {
+      "date": "2026-10-07T22:21:36+00:00",
+      "equity": 3461092.32
     }
   ]
 }
