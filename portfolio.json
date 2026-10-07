@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 735548.3344440756,
+  "cash": 735595.3461586634,
   "positions": {
-    "7K8X8avRbYMQ41ViPkq4VkCXEvJ6AEooLBRzQnVgpump": {
-      "symbol": "duluth",
-      "qty": 5658291.635042595,
-      "entry_price": 8.748223526238829e-06,
-      "last_price": 8.431876983e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T03:20:14+00:00",
-      "missing": 0
-    },
     "F3aw4R2jxAMXtgc38vd3vKCSD9A8jtqy7BsfguYGpump": {
       "symbol": "BRAINROT",
       "qty": 6955927.2504497785,
@@ -29,111 +20,26 @@
       "entry_time": "2026-10-07T03:41:34+00:00",
       "missing": 0
     },
-    "BqxP1FhMJ41RDSLzYZLoidi5eUYrUJpg2yJJLQwXpump": {
-      "symbol": "Bapepe",
-      "qty": 1005447.5985465395,
-      "entry_price": 4.9231804891231014e-05,
-      "last_price": 4.768391541093941e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T03:59:30+00:00",
-      "missing": 0
-    },
-    "6yHDLTzBbW1C5hRZuS5FoXJHpiDZYPbLrB4bu4Ynpump": {
-      "symbol": "Unccat",
-      "qty": 1008380.2073321454,
-      "entry_price": 4.908862712702515e-05,
-      "last_price": 4.7545421301240333e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T03:59:30+00:00",
-      "missing": 0
-    },
-    "8X49BHxGXYh1yhfdFHuoraBB2bHwC9sb23mNDhZupump": {
-      "symbol": "NIB",
-      "qty": 784390.0572994052,
-      "entry_price": 6.310635829631077e-05,
-      "last_price": 6.112832035900713e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T03:59:30+00:00",
-      "missing": 0
-    },
-    "8sHyTrDoVtUMsBzoakKoniEYThEHb4kyGokNTVJfpump": {
-      "symbol": "LIVING",
-      "qty": 5391069.465085989,
-      "entry_price": 9.181851638264962e-06,
-      "last_price": 8.83677227092423e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T03:59:30+00:00",
-      "missing": 0
-    },
     "9ySLTm1SUeecPGKUXWA3LX3GZE39mFrTrWFC2Ttdpump": {
       "symbol": "run",
       "qty": 4173367.3679721183,
       "entry_price": 1.1860925635226921e-05,
-      "last_price": 1.1453889280771641e-05,
+      "last_price": 1.145388928e-05,
       "cost": 50.0,
       "entry_time": "2026-10-07T03:59:30+00:00",
+      "missing": 0
+    },
+    "EpXm1c14wkJnTHULedghLc7TAGZKj7c8DQoSdz98pump": {
+      "symbol": "duluth",
+      "qty": 3306507.5563149936,
+      "entry_price": 1.4970478414743533e-05,
+      "last_price": 1.4465285890166276e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T04:23:53+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T05:09:25+00:00",
-      "side": "sell",
-      "symbol": "OTTER",
-      "address": "aDAhGaCgH39inGh44MFPYw71ouHRT5hbkVCfUTgpump",
-      "price": 2.394871704e-05,
-      "proceeds": 45.91,
-      "pnl_usd": -4.09,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-05T05:09:25+00:00",
-      "side": "sell",
-      "symbol": "STREET",
-      "address": "AK9QsLMe383iLnBQry6CBeiEZhREfM5s3f79gj7bpump",
-      "price": 0.4812969025,
-      "proceeds": 237549.54,
-      "pnl_usd": 237499.54,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T05:09:25+00:00",
-      "side": "sell",
-      "symbol": "OUTREACH",
-      "address": "52HV1hQfvgqHY3Z8RN717hJagZRSu2B3mRoic9aPpump",
-      "price": 4.194984881e-06,
-      "proceeds": 11.34,
-      "pnl_usd": -38.66,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T05:09:25+00:00",
-      "side": "sell",
-      "symbol": "Department",
-      "address": "9SeXb1T9vkcvBFic7xbWeceoxQV88tCKWTQJoud9pump",
-      "price": 4.523261659e-06,
-      "proceeds": 13.48,
-      "pnl_usd": -36.52,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T05:09:26+00:00",
-      "side": "buy",
-      "symbol": "si",
-      "address": "36jVRZYjtkCP9cWHWhZvdc12gY3igXgpcfRsJDLppump",
-      "price": 6.520662614780789e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T05:34:43+00:00",
-      "side": "sell",
-      "symbol": "MGOAT",
-      "address": "EWDpKsrwAqdVUxrkQ8b5rRAF6dSSnqcRGp2Rt3FGpump",
-      "price": 0.0001046835307,
-      "proceeds": 46.09,
-      "pnl_usd": -3.91,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-05T05:34:43+00:00",
       "side": "sell",
@@ -4573,6 +4479,64 @@
       "address": "9ySLTm1SUeecPGKUXWA3LX3GZE39mFrTrWFC2Ttdpump",
       "price": 1.1860925635226921e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T04:23:53+00:00",
+      "side": "sell",
+      "symbol": "duluth",
+      "address": "7K8X8avRbYMQ41ViPkq4VkCXEvJ6AEooLBRzQnVgpump",
+      "price": 8.431876983e-06,
+      "proceeds": 45.48,
+      "pnl_usd": -4.52,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T04:23:53+00:00",
+      "side": "sell",
+      "symbol": "Bapepe",
+      "address": "BqxP1FhMJ41RDSLzYZLoidi5eUYrUJpg2yJJLQwXpump",
+      "price": 5.37756459e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T04:23:53+00:00",
+      "side": "sell",
+      "symbol": "Unccat",
+      "address": "6yHDLTzBbW1C5hRZuS5FoXJHpiDZYPbLrB4bu4Ynpump",
+      "price": 6.512354677e-05,
+      "proceeds": 32.51,
+      "pnl_usd": -17.49,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T04:23:53+00:00",
+      "side": "sell",
+      "symbol": "NIB",
+      "address": "8X49BHxGXYh1yhfdFHuoraBB2bHwC9sb23mNDhZupump",
+      "price": 2.462883649e-06,
+      "proceeds": 1.85,
+      "pnl_usd": -48.15,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T04:23:53+00:00",
+      "side": "sell",
+      "symbol": "LIVING",
+      "address": "8sHyTrDoVtUMsBzoakKoniEYThEHb4kyGokNTVJfpump",
+      "price": 3.341512803e-06,
+      "proceeds": 17.18,
+      "pnl_usd": -32.82,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T04:23:53+00:00",
+      "side": "buy",
+      "symbol": "duluth",
+      "address": "EpXm1c14wkJnTHULedghLc7TAGZKj7c8DQoSdz98pump",
+      "price": 1.4970478414743533e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5191,6 +5155,10 @@
     {
       "date": "2026-10-07T03:59:30+00:00",
       "equity": 735930.55
+    },
+    {
+      "date": "2026-10-07T04:23:53+00:00",
+      "equity": 735786.2
     }
   ]
 }
