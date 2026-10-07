@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 1173454.0623399932,
-  "positions": {},
+  "cash": 1173404.0623399932,
+  "positions": {
+    "DGNHXH4mmjmia4JwWMV4fG4gEo7PWyNUmoVz7CQfpump": {
+      "symbol": "MHCI",
+      "qty": 8570478.195809962,
+      "entry_price": 5.77564038657728e-06,
+      "last_price": 5.5808794868114945e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T17:58:46+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-05T15:59:47+00:00",
-      "side": "sell",
-      "symbol": "solOS",
-      "address": "4QDYEVmVEGhGzM1YkrzNLgVrxM4iD6CuNsgZmsvgpump",
-      "price": 0.0008142369725,
-      "proceeds": 407.06,
-      "pnl_usd": 357.06,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-05T15:59:47+00:00",
       "side": "sell",
@@ -4504,6 +4504,14 @@
       "proceeds": 1.03,
       "pnl_usd": -48.97,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T17:58:46+00:00",
+      "side": "buy",
+      "symbol": "MHCI",
+      "address": "DGNHXH4mmjmia4JwWMV4fG4gEo7PWyNUmoVz7CQfpump",
+      "price": 5.77564038657728e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5254,6 +5262,10 @@
     {
       "date": "2026-10-07T16:52:20+00:00",
       "equity": 1173454.06
+    },
+    {
+      "date": "2026-10-07T17:58:46+00:00",
+      "equity": 1173451.89
     }
   ]
 }
