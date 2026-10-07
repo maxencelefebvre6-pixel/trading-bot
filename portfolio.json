@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 735524.9429370938,
+  "cash": 735568.8243239794,
   "positions": {
-    "5diVoWXf2qgavtuxuCzxZjPyoHJfiUj6XhMHveS2pump": {
-      "symbol": "LAMB",
-      "qty": 3802688.721809772,
-      "entry_price": 1.301710542756232e-05,
-      "last_price": 1.255963468e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T09:26:01+00:00",
-      "missing": 0
-    },
-    "ERrB1gm4EA1nMgnftHqR7xLUycjQy8pfYLKA15GKpump": {
-      "symbol": "TOYOTA",
-      "qty": 2575338.3414087016,
-      "entry_price": 1.9220775462428624e-05,
-      "last_price": 1.859920132e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T09:26:01+00:00",
-      "missing": 0
-    },
     "CfjZwEc7hcUNs7YDJkMUnrtEu3kQkqdkMbxkVTmZpump": {
       "symbol": "$LA BEAST",
       "qty": 5591040.184808973,
@@ -29,62 +11,26 @@
       "entry_time": "2026-10-07T09:49:23+00:00",
       "missing": 0
     },
-    "8sdmTaNSm6atoV5k9roELHagfkGJhezDuqnwcewTpump": {
-      "symbol": "HalloCat",
-      "qty": 990732.8882200861,
-      "entry_price": 4.996301282470784e-05,
-      "last_price": 4.8267722857310905e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T10:06:03+00:00",
-      "missing": 0
-    },
     "D54fyom2zeT1uXzshmrUGYWAd7Ve5k8zWnVUtzLppump": {
       "symbol": "Karikar",
       "qty": 6413752.690135993,
       "entry_price": 7.717790565284554e-06,
-      "last_price": 7.43107157043749e-06,
+      "last_price": 7.43107157e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T10:06:03+00:00",
+      "missing": 0
+    },
+    "5FTWtB6YkNcCkqTHzkYKFCfeoP2VusoCvwrGY4eBpump": {
+      "symbol": "BITCOINU",
+      "qty": 3564581.104566858,
+      "entry_price": 1.388662469668084e-05,
+      "last_price": 1.3420402585819308e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T10:31:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T10:57:33+00:00",
-      "side": "sell",
-      "symbol": "DJT",
-      "address": "7daR2AKfpCruUvwQHH1jfJdyVP7VVegemQzTMJTspump",
-      "price": 0.0001767327839,
-      "proceeds": 87.16,
-      "pnl_usd": 37.16,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T10:57:33+00:00",
-      "side": "buy",
-      "symbol": "BROKEN",
-      "address": "FZnLCBKHPaAL1mi9Jqj41fHj1cFLy5MLaiafq5Wspump",
-      "price": 6.035885451343143e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T11:20:49+00:00",
-      "side": "sell",
-      "symbol": "BROKEN",
-      "address": "FZnLCBKHPaAL1mi9Jqj41fHj1cFLy5MLaiafq5Wspump",
-      "price": 2.727153177e-06,
-      "proceeds": 2.14,
-      "pnl_usd": -47.86,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T11:20:49+00:00",
-      "side": "buy",
-      "symbol": "ANY",
-      "address": "9aQwx5QQSpvrntr7EvHqRNbAqKrLUd9WaiqHGZoppump",
-      "price": 3.985393427723803e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T11:43:21+00:00",
       "side": "sell",
@@ -4544,6 +4490,44 @@
       "address": "D54fyom2zeT1uXzshmrUGYWAd7Ve5k8zWnVUtzLppump",
       "price": 7.717790565284554e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T10:31:08+00:00",
+      "side": "sell",
+      "symbol": "LAMB",
+      "address": "5diVoWXf2qgavtuxuCzxZjPyoHJfiUj6XhMHveS2pump",
+      "price": 1.255963468e-05,
+      "proceeds": 45.64,
+      "pnl_usd": -4.36,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T10:31:08+00:00",
+      "side": "sell",
+      "symbol": "TOYOTA",
+      "address": "ERrB1gm4EA1nMgnftHqR7xLUycjQy8pfYLKA15GKpump",
+      "price": 1.859920132e-05,
+      "proceeds": 45.84,
+      "pnl_usd": -4.16,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T10:31:08+00:00",
+      "side": "sell",
+      "symbol": "HalloCat",
+      "address": "8sdmTaNSm6atoV5k9roELHagfkGJhezDuqnwcewTpump",
+      "price": 2.530603222e-06,
+      "proceeds": 2.4,
+      "pnl_usd": -47.6,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T10:31:08+00:00",
+      "side": "buy",
+      "symbol": "BITCOINU",
+      "address": "5FTWtB6YkNcCkqTHzkYKFCfeoP2VusoCvwrGY4eBpump",
+      "price": 1.388662469668084e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5230,6 +5214,10 @@
     {
       "date": "2026-10-07T10:06:03+00:00",
       "equity": 735763.77
+    },
+    {
+      "date": "2026-10-07T10:31:08+00:00",
+      "equity": 735712.0
     }
   ]
 }
