@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 686606.7597895513,
+  "cash": 686559.6780897323,
   "positions": {
     "2TLyN2oqRvGLrouJf1qfH934EFwEMi23gGoWHKodpump": {
       "symbol": "LAMBULL",
@@ -11,37 +11,17 @@
       "entry_time": "2026-10-07T01:38:37+00:00",
       "missing": 0
     },
-    "43eyPUbL3tGBrYPHNk3XyWeZKT24RTuRjkLnyoWvpump": {
-      "symbol": "BLOX",
-      "qty": 926178.6237291947,
-      "entry_price": 5.344541401818544e-05,
-      "last_price": 5.1747738269626576e-05,
+    "EhTrKdx4GWtc5fa2tiSVRu5n3tzEKNNcCLX7WG8Zpump": {
+      "symbol": "K/ACC",
+      "qty": 13922050.577953035,
+      "entry_price": 3.555510714663558e-06,
+      "last_price": 3.4188515554264617e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-07T01:56:36+00:00",
+      "entry_time": "2026-10-07T02:18:35+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "side": "sell",
-      "symbol": "CBC",
-      "address": "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump",
-      "price": 1.79274796e-05,
-      "proceeds": 45.81,
-      "pnl_usd": -4.19,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "side": "sell",
-      "symbol": "Attention+",
-      "address": "3uYpLn1rmU6uspiXka6Wd2Q5DBpCnStMZqwTwhVNpump",
-      "price": 0.0001693468324,
-      "proceeds": 83.82,
-      "pnl_usd": 33.82,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-05T02:17:05+00:00",
       "side": "sell",
@@ -4525,6 +4505,24 @@
       "address": "43eyPUbL3tGBrYPHNk3XyWeZKT24RTuRjkLnyoWvpump",
       "price": 5.344541401818544e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T02:18:35+00:00",
+      "side": "sell",
+      "symbol": "BLOX",
+      "address": "43eyPUbL3tGBrYPHNk3XyWeZKT24RTuRjkLnyoWvpump",
+      "price": 3.286116194e-06,
+      "proceeds": 2.92,
+      "pnl_usd": -47.08,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T02:18:35+00:00",
+      "side": "buy",
+      "symbol": "K/ACC",
+      "address": "EhTrKdx4GWtc5fa2tiSVRu5n3tzEKNNcCLX7WG8Zpump",
+      "price": 3.555510714663558e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5119,6 +5117,10 @@
     {
       "date": "2026-10-07T01:56:36+00:00",
       "equity": 686702.55
+    },
+    {
+      "date": "2026-10-07T02:18:35+00:00",
+      "equity": 686655.14
     }
   ]
 }
