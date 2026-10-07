@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 735851.5247896791,
-  "positions": {},
+  "cash": 735801.5247896791,
+  "positions": {
+    "G7ywcBEavxV2yFF8c3zyiJfwnpWt8qhqWC3DVByrpump": {
+      "symbol": "Jarvis",
+      "qty": 1009682.7343574954,
+      "entry_price": 4.9025301033298325e-05,
+      "last_price": 4.748374140908083e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T08:23:47+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-05T08:25:56+00:00",
-      "side": "sell",
-      "symbol": "DECEL",
-      "address": "FT6j5wSX3LZYDxqaBHhWv75TxPD6xDWtdgPuMu4Rpump",
-      "price": 4.456385339e-06,
-      "proceeds": 15.26,
-      "pnl_usd": -34.74,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-05T08:25:56+00:00",
       "side": "buy",
@@ -4504,6 +4504,14 @@
       "proceeds": 46.03,
       "pnl_usd": -3.97,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T08:23:47+00:00",
+      "side": "buy",
+      "symbol": "Jarvis",
+      "address": "G7ywcBEavxV2yFF8c3zyiJfwnpWt8qhqWC3DVByrpump",
+      "price": 4.9025301033298325e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5166,6 +5174,10 @@
     {
       "date": "2026-10-07T07:58:18+00:00",
       "equity": 735851.52
+    },
+    {
+      "date": "2026-10-07T08:23:47+00:00",
+      "equity": 735849.47
     }
   ]
 }
