@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 735645.2961774152,
+  "cash": 735805.4966771315,
   "positions": {
-    "DhzodvRrK9wfrmZHeFJpyb8yasMHwc9gqu2DXk7npump": {
-      "symbol": "REAPER",
-      "qty": 6841271.287978482,
-      "entry_price": 7.235497309832116e-06,
-      "last_price": 6.963291754e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T06:28:47+00:00",
-      "missing": 0
-    },
     "3ioZCFgsKkr1QdNJC5TSsJfaCSQgDtmqNwPx7Mujpump": {
       "symbol": "$I",
       "qty": 921215.9551653045,
@@ -19,36 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-07T06:55:03+00:00",
       "missing": 0
-    },
-    "7bYndjsetuU7tHb8YoQwtAhAzqoEfcC7oW1EpnKipump": {
-      "symbol": "BP",
-      "qty": 4276857.936818917,
-      "entry_price": 1.157391728489761e-05,
-      "last_price": 1.1144292845889945e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T07:17:36+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T08:00:09+00:00",
-      "side": "buy",
-      "symbol": "SPACEX CO",
-      "address": "EbhgQrAnWuSHBEfZZzqiX9stY7GdcVyLvHmERxfYpump",
-      "price": 1.408589217082945e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T08:25:56+00:00",
-      "side": "sell",
-      "symbol": "$BANX",
-      "address": "82wUr948pKQBajLCCMtu5bYSG5qq2A4X32s4rKzopump",
-      "price": 8.138340446e-06,
-      "proceeds": 45.5,
-      "pnl_usd": -4.5,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-05T08:25:56+00:00",
       "side": "sell",
@@ -4530,6 +4494,26 @@
       "address": "7bYndjsetuU7tHb8YoQwtAhAzqoEfcC7oW1EpnKipump",
       "price": 1.157391728489761e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T07:39:02+00:00",
+      "side": "sell",
+      "symbol": "REAPER",
+      "address": "DhzodvRrK9wfrmZHeFJpyb8yasMHwc9gqu2DXk7npump",
+      "price": 6.963291754e-06,
+      "proceeds": 45.34,
+      "pnl_usd": -4.66,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T07:39:02+00:00",
+      "side": "sell",
+      "symbol": "BP",
+      "address": "7bYndjsetuU7tHb8YoQwtAhAzqoEfcC7oW1EpnKipump",
+      "price": 2.960570669e-05,
+      "proceeds": 114.86,
+      "pnl_usd": 64.86,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
@@ -5184,6 +5168,10 @@
     {
       "date": "2026-10-07T07:17:36+00:00",
       "equity": 735788.6
+    },
+    {
+      "date": "2026-10-07T07:39:03+00:00",
+      "equity": 735853.5
     }
   ]
 }
