@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 735686.7228848768,
+  "cash": 735645.2961774152,
   "positions": {
     "DhzodvRrK9wfrmZHeFJpyb8yasMHwc9gqu2DXk7npump": {
       "symbol": "REAPER",
@@ -11,44 +11,26 @@
       "entry_time": "2026-10-07T06:28:47+00:00",
       "missing": 0
     },
-    "Ay3JaD5FLDrti9LrhtCbGX7G1FKRbowep5J6NDyGpump": {
-      "symbol": "RUFUS",
-      "qty": 2657597.7429349385,
-      "entry_price": 1.862584363325591e-05,
-      "last_price": 1.7972303992452277e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T06:55:03+00:00",
-      "missing": 0
-    },
     "3ioZCFgsKkr1QdNJC5TSsJfaCSQgDtmqNwPx7Mujpump": {
       "symbol": "$I",
       "qty": 921215.9551653045,
       "entry_price": 5.373332900114354e-05,
-      "last_price": 5.20986702778927e-05,
+      "last_price": 5.210348829e-05,
       "cost": 50.0,
       "entry_time": "2026-10-07T06:55:03+00:00",
+      "missing": 0
+    },
+    "7bYndjsetuU7tHb8YoQwtAhAzqoEfcC7oW1EpnKipump": {
+      "symbol": "BP",
+      "qty": 4276857.936818917,
+      "entry_price": 1.157391728489761e-05,
+      "last_price": 1.1144292845889945e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T07:17:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T08:00:09+00:00",
-      "side": "sell",
-      "symbol": "Auton",
-      "address": "CgqZdiSMUu6XLTRxQugtqPXbSx7sp8Mq8ptG12GJpump",
-      "price": 2.681703155e-05,
-      "proceeds": 29.74,
-      "pnl_usd": -20.26,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T08:00:09+00:00",
-      "side": "buy",
-      "symbol": "DECEL",
-      "address": "FT6j5wSX3LZYDxqaBHhWv75TxPD6xDWtdgPuMu4Rpump",
-      "price": 1.3806684707041077e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T08:00:09+00:00",
       "side": "buy",
@@ -4530,6 +4512,24 @@
       "address": "3ioZCFgsKkr1QdNJC5TSsJfaCSQgDtmqNwPx7Mujpump",
       "price": 5.373332900114354e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T07:17:36+00:00",
+      "side": "sell",
+      "symbol": "RUFUS",
+      "address": "Ay3JaD5FLDrti9LrhtCbGX7G1FKRbowep5J6NDyGpump",
+      "price": 3.371002266e-06,
+      "proceeds": 8.57,
+      "pnl_usd": -41.43,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T07:17:36+00:00",
+      "side": "buy",
+      "symbol": "BP",
+      "address": "7bYndjsetuU7tHb8YoQwtAhAzqoEfcC7oW1EpnKipump",
+      "price": 1.157391728489761e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5180,6 +5180,10 @@
     {
       "date": "2026-10-07T06:55:03+00:00",
       "equity": 735830.12
+    },
+    {
+      "date": "2026-10-07T07:17:36+00:00",
+      "equity": 735788.6
     }
   ]
 }
