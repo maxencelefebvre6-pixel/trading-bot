@@ -1,90 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 735964.9178349404,
+  "cash": 735784.5669766838,
   "positions": {
-    "3uLb6zmUBwfqvAphMp8NaoJdGUiARGhfmVoHeGDopump": {
-      "symbol": "MOCHI",
-      "qty": 6111387.185113595,
-      "entry_price": 8.099634092988648e-06,
-      "last_price": 7.79348137770204e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T03:20:14+00:00",
-      "missing": 0
-    },
-    "8YMQTU1HMViP5A82aV3HiziirTRex3hZZaTE8EJ9pump": {
-      "symbol": "Apple",
-      "qty": 86539.71534597906,
-      "entry_price": 0.0005719917127310027,
-      "last_price": 0.0005549203115366897,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T03:20:14+00:00",
-      "missing": 0
-    },
     "7K8X8avRbYMQ41ViPkq4VkCXEvJ6AEooLBRzQnVgpump": {
       "symbol": "duluth",
       "qty": 5658291.635042595,
       "entry_price": 8.748223526238829e-06,
-      "last_price": 8.431876982527936e-06,
+      "last_price": 8.431876983e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T03:20:14+00:00",
+      "missing": 0
+    },
+    "EUPA94mHtnZNjQe32ANkJ8DGdeWsVmfmEcwMz3ukpump": {
+      "symbol": "BULLPAID",
+      "qty": 877918.7524857719,
+      "entry_price": 5.6383349666291844e-05,
+      "last_price": 5.4608851102838674e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T03:41:34+00:00",
+      "missing": 0
+    },
+    "6B7AvwDw6P1iAHCyLGBBFU2YL8bY6HtLYgxDFn46pump": {
+      "symbol": "USMS",
+      "qty": 4244743.494663713,
+      "entry_price": 1.1661482033538428e-05,
+      "last_price": 1.1223271553884436e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T03:41:34+00:00",
+      "missing": 0
+    },
+    "F3aw4R2jxAMXtgc38vd3vKCSD9A8jtqy7BsfguYGpump": {
+      "symbol": "BRAINROT",
+      "qty": 6955927.2504497785,
+      "entry_price": 7.116233137257046e-06,
+      "last_price": 6.847199199412842e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T03:41:34+00:00",
+      "missing": 0
+    },
+    "2KewQNMYcMuKhmoZWncfFxYvmLfVWXwq5cJ8MW7fpump": {
+      "symbol": "DOOYET",
+      "qty": 7455949.388640671,
+      "entry_price": 6.638993563370281e-06,
+      "last_price": 6.383978110378849e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T03:41:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T02:56:28+00:00",
-      "side": "sell",
-      "symbol": "HUMANSPAD",
-      "address": "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump",
-      "price": 6.379761338e-06,
-      "proceeds": 8.66,
-      "pnl_usd": -41.34,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T02:56:28+00:00",
-      "side": "sell",
-      "symbol": "Beam",
-      "address": "7WZoVKpJENzwk9Fv2KAwJP9Mnupzq4SGYR6DJjYwpump",
-      "price": 3.540910022e-06,
-      "proceeds": 17.73,
-      "pnl_usd": -32.27,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T02:56:28+00:00",
-      "side": "sell",
-      "symbol": "Human",
-      "address": "DCiDFSu6Q7pkrHCVc3LQFZMq2TkrUyeqy343X8WHpump",
-      "price": 4.015150353e-06,
-      "proceeds": 40.22,
-      "pnl_usd": -9.78,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T03:43:16+00:00",
-      "side": "buy",
-      "symbol": "EMZ",
-      "address": "2U5wn1ZvpyW2To9XxzU5VhtfggWFcXiLNeYa3YPXpump",
-      "price": 9.396136555086718e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T03:43:16+00:00",
-      "side": "buy",
-      "symbol": "OTTER",
-      "address": "aDAhGaCgH39inGh44MFPYw71ouHRT5hbkVCfUTgpump",
-      "price": 2.472874000244426e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T04:04:15+00:00",
-      "side": "buy",
-      "symbol": "SI",
-      "address": "FdR9Wdrq8FHjffwYZPNgmEko5P9c5ZRhFHEbN4yCpump",
-      "price": 2.4668794769427874e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T04:28:17+00:00",
       "side": "sell",
@@ -4530,6 +4494,58 @@
       "address": "7K8X8avRbYMQ41ViPkq4VkCXEvJ6AEooLBRzQnVgpump",
       "price": 8.748223526238829e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T03:41:34+00:00",
+      "side": "sell",
+      "symbol": "MOCHI",
+      "address": "3uLb6zmUBwfqvAphMp8NaoJdGUiARGhfmVoHeGDopump",
+      "price": 3.341386504e-06,
+      "proceeds": 19.47,
+      "pnl_usd": -30.53,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T03:41:34+00:00",
+      "side": "sell",
+      "symbol": "Apple",
+      "address": "8YMQTU1HMViP5A82aV3HiziirTRex3hZZaTE8EJ9pump",
+      "price": 2.111670425e-06,
+      "proceeds": 0.18,
+      "pnl_usd": -49.82,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T03:41:34+00:00",
+      "side": "buy",
+      "symbol": "BULLPAID",
+      "address": "EUPA94mHtnZNjQe32ANkJ8DGdeWsVmfmEcwMz3ukpump",
+      "price": 5.6383349666291844e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T03:41:34+00:00",
+      "side": "buy",
+      "symbol": "USMS",
+      "address": "6B7AvwDw6P1iAHCyLGBBFU2YL8bY6HtLYgxDFn46pump",
+      "price": 1.1661482033538428e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T03:41:34+00:00",
+      "side": "buy",
+      "symbol": "BRAINROT",
+      "address": "F3aw4R2jxAMXtgc38vd3vKCSD9A8jtqy7BsfguYGpump",
+      "price": 7.116233137257046e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T03:41:34+00:00",
+      "side": "buy",
+      "symbol": "DOOYET",
+      "address": "2KewQNMYcMuKhmoZWncfFxYvmLfVWXwq5cJ8MW7fpump",
+      "price": 6.638993563370281e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5140,6 +5156,10 @@
     {
       "date": "2026-10-07T03:20:14+00:00",
       "equity": 736108.28
+    },
+    {
+      "date": "2026-10-07T03:41:34+00:00",
+      "equity": 736023.09
     }
   ]
 }
