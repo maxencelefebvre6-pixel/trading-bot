@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 735607.8573216673,
+  "cash": 735540.8587351814,
   "positions": {
-    "Cs3zs2QN7seL682JmPHJ7XNaddkmuc6g5UAeU4dYpump": {
-      "symbol": "Flappy",
-      "qty": 938350.6029941449,
-      "entry_price": 5.275213746551924e-05,
-      "last_price": 5.1097073523290655e-05,
+    "CwrPDf2miP7AgH7ys59ofgsSpDWk8ahpnzgMBCUdpump": {
+      "symbol": "Perpcard",
+      "qty": 4419407.078731793,
+      "entry_price": 1.1200597527712854e-05,
+      "last_price": 1.0792330602122365e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-07T13:02:57+00:00",
+      "entry_time": "2026-10-07T13:27:59+00:00",
       "missing": 0
     },
-    "4dXUGwFFD3XdmKw24HKeCeDJq9CcLAETn45Eiu6hpump": {
-      "symbol": "PAYTIP",
-      "qty": 774373.1516631731,
-      "entry_price": 6.392267073527218e-05,
-      "last_price": 6.19078345555204e-05,
+    "6WSbPt5D69UJiRPtmdNamawFG8EU7t9dR7q1ry2Npump": {
+      "symbol": "APPLE",
+      "qty": 4889845.779162219,
+      "entry_price": 1.0123018646301945e-05,
+      "last_price": 9.766890300291505e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-07T13:02:57+00:00",
+      "entry_time": "2026-10-07T13:27:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T13:25:00+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "3eVTqortfqWjwXoxvh5C8TYvfsSrPemsRe3BH7Wtpump",
-      "price": 8.740611655083302e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T13:49:06+00:00",
-      "side": "sell",
-      "symbol": "KWIF",
-      "address": "EwDymCbbMhNxJ5xrQgwix1MVoPdnVNbebLt6pxeUpump",
-      "price": 0.03012436514,
-      "proceeds": 15036.42,
-      "pnl_usd": 14986.42,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T13:49:06+00:00",
-      "side": "sell",
-      "symbol": "Tabfold",
-      "address": "DL3Yhk8nrhqYGQL9ScfL3DqeVqCJDu914Nnzxk19pump",
-      "price": 3.388263338e-06,
-      "proceeds": 13.61,
-      "pnl_usd": -36.39,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T13:49:07+00:00",
-      "side": "buy",
-      "symbol": "HOOK",
-      "address": "5MkrRi4nrJ2hS5sXdFK6ksoVXPTprMhL2G9NNcjBpump",
-      "price": 1.2373441688644106e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T13:49:07+00:00",
       "side": "buy",
@@ -4521,6 +4485,42 @@
       "address": "4dXUGwFFD3XdmKw24HKeCeDJq9CcLAETn45Eiu6hpump",
       "price": 6.392267073527218e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T13:27:58+00:00",
+      "side": "sell",
+      "symbol": "Flappy",
+      "address": "Cs3zs2QN7seL682JmPHJ7XNaddkmuc6g5UAeU4dYpump",
+      "price": 2.310677648e-05,
+      "proceeds": 10.73,
+      "pnl_usd": -39.27,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T13:27:58+00:00",
+      "side": "sell",
+      "symbol": "PAYTIP",
+      "address": "4dXUGwFFD3XdmKw24HKeCeDJq9CcLAETn45Eiu6hpump",
+      "price": 2.999014147e-05,
+      "proceeds": 22.27,
+      "pnl_usd": -27.73,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T13:27:59+00:00",
+      "side": "buy",
+      "symbol": "Perpcard",
+      "address": "CwrPDf2miP7AgH7ys59ofgsSpDWk8ahpnzgMBCUdpump",
+      "price": 1.1200597527712854e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T13:27:59+00:00",
+      "side": "buy",
+      "symbol": "APPLE",
+      "address": "6WSbPt5D69UJiRPtmdNamawFG8EU7t9dR7q1ry2Npump",
+      "price": 1.0123018646301945e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5235,6 +5235,10 @@
     {
       "date": "2026-10-07T13:02:57+00:00",
       "equity": 735703.74
+    },
+    {
+      "date": "2026-10-07T13:27:59+00:00",
+      "equity": 735636.31
     }
   ]
 }
