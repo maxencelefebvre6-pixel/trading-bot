@@ -1,52 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 736071.5604038973,
+  "cash": 735964.9178349404,
   "positions": {
-    "EhTrKdx4GWtc5fa2tiSVRu5n3tzEKNNcCLX7WG8Zpump": {
-      "symbol": "K/ACC",
-      "qty": 13922050.577953035,
-      "entry_price": 3.555510714663558e-06,
-      "last_price": 3.302945579e-06,
+    "3uLb6zmUBwfqvAphMp8NaoJdGUiARGhfmVoHeGDopump": {
+      "symbol": "MOCHI",
+      "qty": 6111387.185113595,
+      "entry_price": 8.099634092988648e-06,
+      "last_price": 7.79348137770204e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-07T02:18:35+00:00",
+      "entry_time": "2026-10-07T03:20:14+00:00",
+      "missing": 0
+    },
+    "8YMQTU1HMViP5A82aV3HiziirTRex3hZZaTE8EJ9pump": {
+      "symbol": "Apple",
+      "qty": 86539.71534597906,
+      "entry_price": 0.0005719917127310027,
+      "last_price": 0.0005549203115366897,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T03:20:14+00:00",
+      "missing": 0
+    },
+    "7K8X8avRbYMQ41ViPkq4VkCXEvJ6AEooLBRzQnVgpump": {
+      "symbol": "duluth",
+      "qty": 5658291.635042595,
+      "entry_price": 8.748223526238829e-06,
+      "last_price": 8.431876982527936e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T03:20:14+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T02:37:44+00:00",
-      "side": "sell",
-      "symbol": "HUMANSPAD",
-      "address": "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump",
-      "price": 4.963116985e-05,
-      "proceeds": 135.38,
-      "pnl_usd": 85.38,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-05T02:37:44+00:00",
-      "side": "buy",
-      "symbol": "HUMANSPAD",
-      "address": "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump",
-      "price": 3.495248039320177e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T02:37:44+00:00",
-      "side": "buy",
-      "symbol": "Beam",
-      "address": "7WZoVKpJENzwk9Fv2KAwJP9Mnupzq4SGYR6DJjYwpump",
-      "price": 9.428417810848487e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T02:37:44+00:00",
-      "side": "buy",
-      "symbol": "Human",
-      "address": "DCiDFSu6Q7pkrHCVc3LQFZMq2TkrUyeqy343X8WHpump",
-      "price": 4.680637694431658e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T02:56:28+00:00",
       "side": "sell",
@@ -4512,6 +4496,40 @@
       "proceeds": 1.39,
       "pnl_usd": -48.61,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T03:20:13+00:00",
+      "side": "sell",
+      "symbol": "K/ACC",
+      "address": "EhTrKdx4GWtc5fa2tiSVRu5n3tzEKNNcCLX7WG8Zpump",
+      "price": 3.302945579e-06,
+      "proceeds": 43.36,
+      "pnl_usd": -6.64,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T03:20:14+00:00",
+      "side": "buy",
+      "symbol": "MOCHI",
+      "address": "3uLb6zmUBwfqvAphMp8NaoJdGUiARGhfmVoHeGDopump",
+      "price": 8.099634092988648e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T03:20:14+00:00",
+      "side": "buy",
+      "symbol": "Apple",
+      "address": "8YMQTU1HMViP5A82aV3HiziirTRex3hZZaTE8EJ9pump",
+      "price": 0.0005719917127310027,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T03:20:14+00:00",
+      "side": "buy",
+      "symbol": "duluth",
+      "address": "7K8X8avRbYMQ41ViPkq4VkCXEvJ6AEooLBRzQnVgpump",
+      "price": 8.748223526238829e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5118,6 +5136,10 @@
     {
       "date": "2026-10-07T02:57:06+00:00",
       "equity": 736117.54
+    },
+    {
+      "date": "2026-10-07T03:20:14+00:00",
+      "equity": 736108.28
     }
   ]
 }
