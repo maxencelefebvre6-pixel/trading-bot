@@ -1,96 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 735296.1048280131,
-  "positions": {
-    "6WSbPt5D69UJiRPtmdNamawFG8EU7t9dR7q1ry2Npump": {
-      "symbol": "APPLE",
-      "qty": 4889845.779162219,
-      "entry_price": 1.0123018646301945e-05,
-      "last_price": 9.7668903e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T13:27:59+00:00",
-      "missing": 0
-    },
-    "AgtW86VbGTM3oTozZ6HdLHjKULM2vjBNq8fVmoNXpump": {
-      "symbol": "FIAT",
-      "qty": 1047680.7492171219,
-      "entry_price": 4.7247217281589656e-05,
-      "last_price": 4.575937651047649e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T14:06:57+00:00",
-      "missing": 0
-    },
-    "5n31ghJxTkGYP5XXi1tbDTFkwvQVnrcmdcYgZo8pump": {
-      "symbol": "GTA 6 Coin",
-      "qty": 135329.96703728213,
-      "entry_price": 0.00036577264506658174,
-      "last_price": 0.0003547844184630859,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T14:06:57+00:00",
-      "missing": 0
-    },
-    "6De5mAy5hHHoZpCx9uAg8zNrFSwz86LG7Px1jpDVpump": {
-      "symbol": "LATCH",
-      "qty": 2100906.2975720307,
-      "entry_price": 2.3561260231932293e-05,
-      "last_price": 2.274645460237358e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T14:06:57+00:00",
-      "missing": 0
-    },
-    "A5WkRhrZGLd4PozdGMdd2o9RF8qBXR6MMwzoDTrapump": {
-      "symbol": "POISE",
-      "qty": 832667.0019709389,
-      "entry_price": 5.9447534107671544e-05,
-      "last_price": 5.7573462062993105e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T14:06:57+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 1173646.23681984,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-05T14:33:34+00:00",
-      "side": "buy",
-      "symbol": "life",
-      "address": "HL6QDVQucr3SPLWMF42GmoxoSwncsSYN1n8M9Ejmpump",
-      "price": 5.8267707295491804e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T14:33:34+00:00",
-      "side": "buy",
-      "symbol": "LAPDOG",
-      "address": "EjgSwoB3gVRPW1JgBZE1VTtrZLWRPhPZGdrLZ7yXpump",
-      "price": 1.5668684452691088e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T14:33:34+00:00",
-      "side": "buy",
-      "symbol": "ORE",
-      "address": "DSS9ZXqduPCw2DECFkZKdmDgqHzS4N2744EBa1s5pump",
-      "price": 6.746936691028979e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T14:33:34+00:00",
-      "side": "buy",
-      "symbol": "att",
-      "address": "CWNS3o4yGqPx9FH143yA7jUU4bpWmRhyKhugYdrPpump",
-      "price": 6.77839301345457e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T14:55:11+00:00",
-      "side": "sell",
-      "symbol": "PALESTINE",
-      "address": "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump",
-      "price": 1.146877274e-05,
-      "proceeds": 45.59,
-      "pnl_usd": -4.41,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-05T14:55:11+00:00",
       "side": "sell",
@@ -4546,6 +4458,56 @@
       "address": "A5WkRhrZGLd4PozdGMdd2o9RF8qBXR6MMwzoDTrapump",
       "price": 5.9447534107671544e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T14:30:56+00:00",
+      "side": "sell",
+      "symbol": "APPLE",
+      "address": "6WSbPt5D69UJiRPtmdNamawFG8EU7t9dR7q1ry2Npump",
+      "price": 9.7668903e-06,
+      "proceeds": 45.57,
+      "pnl_usd": -4.43,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T14:30:56+00:00",
+      "side": "sell",
+      "symbol": "FIAT",
+      "address": "AgtW86VbGTM3oTozZ6HdLHjKULM2vjBNq8fVmoNXpump",
+      "price": 0.8451489908,
+      "proceeds": 438295.93,
+      "pnl_usd": 438245.93,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T14:30:56+00:00",
+      "side": "sell",
+      "symbol": "GTA 6 Coin",
+      "address": "5n31ghJxTkGYP5XXi1tbDTFkwvQVnrcmdcYgZo8pump",
+      "price": 2.057912168e-06,
+      "proceeds": 0.27,
+      "pnl_usd": -49.73,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T14:30:56+00:00",
+      "side": "sell",
+      "symbol": "LATCH",
+      "address": "6De5mAy5hHHoZpCx9uAg8zNrFSwz86LG7Px1jpDVpump",
+      "price": 3.281084845e-06,
+      "proceeds": 6.6,
+      "pnl_usd": -43.4,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T14:30:56+00:00",
+      "side": "sell",
+      "symbol": "POISE",
+      "address": "A5WkRhrZGLd4PozdGMdd2o9RF8qBXR6MMwzoDTrapump",
+      "price": 2.210334554e-06,
+      "proceeds": 1.76,
+      "pnl_usd": -48.24,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5272,6 +5234,10 @@
     {
       "date": "2026-10-07T14:06:57+00:00",
       "equity": 735535.55
+    },
+    {
+      "date": "2026-10-07T14:30:56+00:00",
+      "equity": 1173646.24
     }
   ]
 }
