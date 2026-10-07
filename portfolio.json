@@ -1,53 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 735540.8587351814,
+  "cash": 735462.9261884722,
   "positions": {
-    "CwrPDf2miP7AgH7ys59ofgsSpDWk8ahpnzgMBCUdpump": {
-      "symbol": "Perpcard",
-      "qty": 4419407.078731793,
-      "entry_price": 1.1200597527712854e-05,
-      "last_price": 1.0792330602122365e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T13:27:59+00:00",
-      "missing": 0
-    },
     "6WSbPt5D69UJiRPtmdNamawFG8EU7t9dR7q1ry2Npump": {
       "symbol": "APPLE",
       "qty": 4889845.779162219,
       "entry_price": 1.0123018646301945e-05,
-      "last_price": 9.766890300291505e-06,
+      "last_price": 9.7668903e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T13:27:59+00:00",
+      "missing": 0
+    },
+    "H6EYCWxNTUtytLWNHHLdE67xHh9ry8mMhz7tPUkZpump": {
+      "symbol": "Juniper",
+      "qty": 1049351.8171230126,
+      "entry_price": 4.717197720752339e-05,
+      "last_price": 4.5685734476455553e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T13:50:21+00:00",
+      "missing": 0
+    },
+    "FPtQhVFh5jVbFtV1d3CoGmQmHQhJ2NfiAknWZihKpump": {
+      "symbol": "MAYHEM",
+      "qty": 2529178.2434801976,
+      "entry_price": 1.9571574335499206e-05,
+      "last_price": 1.8886633928225145e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T13:50:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T13:49:07+00:00",
-      "side": "buy",
-      "symbol": "Gus",
-      "address": "5BNWdUotJxTUWnn63quZEv3Q4dN57pibr1vzusf8pump",
-      "price": 1.0185046243125289e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T13:49:07+00:00",
-      "side": "buy",
-      "symbol": "PALESTINE",
-      "address": "EwhRSoQdrXPoa3xowRTDqZvY7cFhWZ1wPHM12Jxwpump",
-      "price": 1.189152435676015e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T14:06:40+00:00",
-      "side": "sell",
-      "symbol": "HOOK",
-      "address": "5MkrRi4nrJ2hS5sXdFK6ksoVXPTprMhL2G9NNcjBpump",
-      "price": 8.359869424e-06,
-      "proceeds": 31.78,
-      "pnl_usd": -18.22,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-05T14:06:40+00:00",
       "side": "sell",
@@ -4521,6 +4504,32 @@
       "address": "6WSbPt5D69UJiRPtmdNamawFG8EU7t9dR7q1ry2Npump",
       "price": 1.0123018646301945e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T13:50:21+00:00",
+      "side": "sell",
+      "symbol": "Perpcard",
+      "address": "CwrPDf2miP7AgH7ys59ofgsSpDWk8ahpnzgMBCUdpump",
+      "price": 5.241934304e-06,
+      "proceeds": 22.07,
+      "pnl_usd": -27.93,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T13:50:21+00:00",
+      "side": "buy",
+      "symbol": "Juniper",
+      "address": "H6EYCWxNTUtytLWNHHLdE67xHh9ry8mMhz7tPUkZpump",
+      "price": 4.717197720752339e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T13:50:21+00:00",
+      "side": "buy",
+      "symbol": "MAYHEM",
+      "address": "FPtQhVFh5jVbFtV1d3CoGmQmHQhJ2NfiAknWZihKpump",
+      "price": 1.9571574335499206e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5239,6 +5248,10 @@
     {
       "date": "2026-10-07T13:27:59+00:00",
       "equity": 735636.31
+    },
+    {
+      "date": "2026-10-07T13:50:21+00:00",
+      "equity": 735606.39
     }
   ]
 }
