@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 686601.3089173869,
+  "cash": 686571.1708789222,
   "positions": {
-    "CyQmFuyC9taFRT7KJ4EEAnisUPNWZGv8vLrQWzGtpump": {
-      "symbol": "KILLDOBBY",
-      "qty": 4915767.4895752035,
-      "entry_price": 1.0069638180604336e-05,
-      "last_price": 9.714916364e-06,
+    "6rodMDM3g6fAQ4A45km87nJkkey6dpRWXcCnBVhPpump": {
+      "symbol": "YouTube",
+      "qty": 114328.21834813402,
+      "entry_price": 0.000432963976131164,
+      "last_price": 0.00041999795440392235,
       "cost": 50.0,
-      "entry_time": "2026-10-06T23:55:37+00:00",
+      "entry_time": "2026-10-07T00:55:51+00:00",
       "missing": 0
     },
-    "FiJfSk8BUPWkjcRzQmcTAvJm7NgfCX6HoxZeXFo6pump": {
-      "symbol": "Elytra",
-      "qty": 988896.3692246233,
-      "entry_price": 5.005580113395714e-05,
-      "last_price": 4.8484501263481554e-05,
+    "5dMAoYMqn5raovyqzmZXuQynECShZ2N3G1WfQCf3pump": {
+      "symbol": "Shares",
+      "qty": 1006465.81456467,
+      "entry_price": 4.918199831894976e-05,
+      "last_price": 4.763734133041582e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-07T00:26:36+00:00",
+      "entry_time": "2026-10-07T00:55:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T01:38:18+00:00",
-      "side": "buy",
-      "symbol": "Human",
-      "address": "Fi2XVksbR7Uih8VqRU8ZsTuTKSBzVUoJKAFquwRUpump",
-      "price": 4.933024878497681e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T01:38:18+00:00",
-      "side": "buy",
-      "symbol": "ai",
-      "address": "73fLRXxYYy6LG7u2YFMyfdMbcxF4zBwtvLhZBEv4pump",
-      "price": 4.4963437187424496e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T01:55:34+00:00",
-      "side": "sell",
-      "symbol": "Human",
-      "address": "E4WP92DBEdG7DZsUdgiVVJp2QsiaJVu8uksGprL3pump",
-      "price": 6.640440064e-05,
-      "proceeds": 32.68,
-      "pnl_usd": -17.32,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T01:55:34+00:00",
-      "side": "sell",
-      "symbol": "Human",
-      "address": "Fi2XVksbR7Uih8VqRU8ZsTuTKSBzVUoJKAFquwRUpump",
-      "price": 6.247964818e-05,
-      "proceeds": 31.03,
-      "pnl_usd": -18.97,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-05T01:55:34+00:00",
       "side": "sell",
@@ -4521,6 +4485,42 @@
       "address": "FiJfSk8BUPWkjcRzQmcTAvJm7NgfCX6HoxZeXFo6pump",
       "price": 5.005580113395714e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T00:55:50+00:00",
+      "side": "sell",
+      "symbol": "KILLDOBBY",
+      "address": "CyQmFuyC9taFRT7KJ4EEAnisUPNWZGv8vLrQWzGtpump",
+      "price": 9.714916364e-06,
+      "proceeds": 45.57,
+      "pnl_usd": -4.43,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T00:55:50+00:00",
+      "side": "sell",
+      "symbol": "Elytra",
+      "address": "FiJfSk8BUPWkjcRzQmcTAvJm7NgfCX6HoxZeXFo6pump",
+      "price": 4.963328747e-05,
+      "proceeds": 24.3,
+      "pnl_usd": -25.7,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T00:55:51+00:00",
+      "side": "buy",
+      "symbol": "YouTube",
+      "address": "6rodMDM3g6fAQ4A45km87nJkkey6dpRWXcCnBVhPpump",
+      "price": 0.000432963976131164,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T00:55:51+00:00",
+      "side": "buy",
+      "symbol": "Shares",
+      "address": "5dMAoYMqn5raovyqzmZXuQynECShZ2N3G1WfQCf3pump",
+      "price": 4.918199831894976e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5099,6 +5099,10 @@
     {
       "date": "2026-10-07T00:26:36+00:00",
       "equity": 686697.01
+    },
+    {
+      "date": "2026-10-07T00:55:51+00:00",
+      "equity": 686667.13
     }
   ]
 }
