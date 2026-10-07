@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3461347.467010124,
+  "cash": 3461298.7699219733,
   "positions": {
     "26eYh6qat3hEXXmXcBUeeej6iPwz21Y4oFsCN287pump": {
       "symbol": "Ahh",
@@ -11,54 +11,17 @@
       "entry_time": "2026-10-07T20:05:59+00:00",
       "missing": 0
     },
-    "94gDsjFrMg6Sz87MMHxBBLs1QmQVfPWNtkhCUmpPpump": {
-      "symbol": "OpenAI",
-      "qty": 126960.26424609916,
-      "entry_price": 0.00038988576696760366,
-      "last_price": 0.00037818216994237627,
+    "14dNjwb3swQW3YF63U5Ybr1vbqBA5fZ4ubzo3vDHpump": {
+      "symbol": "BloxPump",
+      "qty": 3886289.387028623,
+      "entry_price": 1.2737085448453103e-05,
+      "last_price": 1.2255609998238006e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-07T20:48:58+00:00",
-      "missing": 0
-    },
-    "6hvEBqt9T1utZeF1db4ZWw4joJDRd2FcYjgd3ezGpump": {
-      "symbol": "MILL1",
-      "qty": 42299122.993546106,
-      "entry_price": 1.1702370284970822e-06,
-      "last_price": 1.1259348700713123e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T20:48:58+00:00",
+      "entry_time": "2026-10-07T21:03:53+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T21:58:51+00:00",
-      "side": "sell",
-      "symbol": "Quants",
-      "address": "7yHUCnZkPEzgCr7rSq7dwoBtrAT9iDyXgc1NiQeQpump",
-      "price": 3.434976823e-06,
-      "proceeds": 12.77,
-      "pnl_usd": -37.23,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T21:58:51+00:00",
-      "side": "sell",
-      "symbol": "NHTL",
-      "address": "EtbsgMyLMWi2WSweFSLxUChtYJesSMPC7Qf67p24pump",
-      "price": 3.379023678e-06,
-      "proceeds": 38.62,
-      "pnl_usd": -11.38,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T21:58:51+00:00",
-      "side": "buy",
-      "symbol": "ily",
-      "address": "EyZRGobHoi7jXi2yQxgsGBfX6QgLPeywRRcboaiRpump",
-      "price": 2.5501205047162198e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T21:58:51+00:00",
       "side": "buy",
@@ -4530,6 +4493,34 @@
       "address": "6hvEBqt9T1utZeF1db4ZWw4joJDRd2FcYjgd3ezGpump",
       "price": 1.1702370284970822e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T21:03:53+00:00",
+      "side": "sell",
+      "symbol": "OpenAI",
+      "address": "94gDsjFrMg6Sz87MMHxBBLs1QmQVfPWNtkhCUmpPpump",
+      "price": 2.053586915e-06,
+      "proceeds": 0.25,
+      "pnl_usd": -49.75,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T21:03:53+00:00",
+      "side": "sell",
+      "symbol": "MILL1",
+      "address": "6hvEBqt9T1utZeF1db4ZWw4joJDRd2FcYjgd3ezGpump",
+      "price": 2.73211578e-08,
+      "proceeds": 1.05,
+      "pnl_usd": -48.95,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T21:03:53+00:00",
+      "side": "buy",
+      "symbol": "BloxPump",
+      "address": "14dNjwb3swQW3YF63U5Ybr1vbqBA5fZ4ubzo3vDHpump",
+      "price": 1.2737085448453103e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5316,6 +5307,10 @@
     {
       "date": "2026-10-07T20:48:58+00:00",
       "equity": 3461490.84
+    },
+    {
+      "date": "2026-10-07T21:03:53+00:00",
+      "equity": 3461394.13
     }
   ]
 }
