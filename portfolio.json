@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3461131.322293053,
+  "cash": 3461045.0274561606,
   "positions": {
-    "9GyfbqYXjb5T2MsJiYqPChvnizSmhboAYBm8Sqn3pump": {
-      "symbol": "EIN",
-      "qty": 4423580.492205838,
-      "entry_price": 1.1190030358262253e-05,
-      "last_price": 1.0778819582176908e-05,
+    "AximE7veJGMMXDVYJrkAtJNUvxHBCYvL621iW9wEpump": {
+      "symbol": "AC",
+      "qty": 3747818.9440664696,
+      "entry_price": 1.3207681784726603e-05,
+      "last_price": 1.2731902006171233e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-07T21:47:28+00:00",
+      "entry_time": "2026-10-07T22:01:26+00:00",
+      "missing": 0
+    },
+    "xQLcSPCd5YuWHKCGcLXjVM8VLsGHQs7Y7csWkbUpump": {
+      "symbol": "GOLDRUSH",
+      "qty": 929899.0000674977,
+      "entry_price": 5.3231587512629854e-05,
+      "last_price": 5.1542455549160123e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T22:01:26+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T23:11:53+00:00",
-      "side": "sell",
-      "symbol": "PLAGUEINT",
-      "address": "gA5zPXB5mPsemqGQULbRV8dQcjJcCZ9McZDBUb6pump",
-      "price": 6.123182628e-06,
-      "proceeds": 36.03,
-      "pnl_usd": -13.97,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T23:28:43+00:00",
-      "side": "buy",
-      "symbol": "ponzo",
-      "address": "EikhnEmEVz7M3VqFfbnFS2yDaDuYNtsybCuVM52Tpump",
-      "price": 2.4265753121533306e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T23:28:43+00:00",
-      "side": "buy",
-      "symbol": "MATRIX",
-      "address": "7G8FeKWSYr3tQ5Sw2feSVWTZmTLHmbEp6jJsDVpspump",
-      "price": 1.4395618153861174e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T23:28:43+00:00",
       "side": "buy",
@@ -4514,6 +4497,32 @@
       "address": "9GyfbqYXjb5T2MsJiYqPChvnizSmhboAYBm8Sqn3pump",
       "price": 1.1190030358262253e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T22:01:26+00:00",
+      "side": "sell",
+      "symbol": "EIN",
+      "address": "9GyfbqYXjb5T2MsJiYqPChvnizSmhboAYBm8Sqn3pump",
+      "price": 3.245009939e-06,
+      "proceeds": 13.71,
+      "pnl_usd": -36.29,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T22:01:26+00:00",
+      "side": "buy",
+      "symbol": "AC",
+      "address": "AximE7veJGMMXDVYJrkAtJNUvxHBCYvL621iW9wEpump",
+      "price": 1.3207681784726603e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T22:01:26+00:00",
+      "side": "buy",
+      "symbol": "GOLDRUSH",
+      "address": "xQLcSPCd5YuWHKCGcLXjVM8VLsGHQs7Y7csWkbUpump",
+      "price": 5.3231587512629854e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5312,6 +5321,10 @@
     {
       "date": "2026-10-07T21:47:28+00:00",
       "equity": 3461179.0
+    },
+    {
+      "date": "2026-10-07T22:01:26+00:00",
+      "equity": 3461140.67
     }
   ]
 }
