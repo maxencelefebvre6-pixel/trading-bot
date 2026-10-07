@@ -1,43 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 735442.3041231858,
+  "cash": 735524.9429370938,
   "positions": {
-    "GXRiF5TLRTAVv7ahZnwYSVCpqpWmGivRJxN7TKbhpump": {
-      "symbol": "SXSN",
-      "qty": 2624087.081721221,
-      "entry_price": 1.886370324552316e-05,
-      "last_price": 1.816569293e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T09:02:15+00:00",
-      "missing": 0
-    },
-    "ArC9ehxVbbT65RvSA51veYZZESWVLnUUAYRuAbZMpump": {
-      "symbol": "$BWIZ",
-      "qty": 1765699.3023311193,
-      "entry_price": 2.8034218473467646e-05,
-      "last_price": 2.714438216e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T09:02:15+00:00",
-      "missing": 0
-    },
-    "H2DHwH5zN1d5W2uBZYQKrHsgkf5RirVemvaBLfhEpump": {
-      "symbol": "ROMANO",
-      "qty": 3865496.4644051506,
-      "entry_price": 1.2805599605591e-05,
-      "last_price": 1.237018164e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T09:02:15+00:00",
-      "missing": 0
-    },
-    "2VQFfHsQxThQCNgVMhPCCfsf55sn8saL4XiUnhxQpump": {
-      "symbol": "LAMBULL",
-      "qty": 5977685.423508337,
-      "entry_price": 8.28079707997551e-06,
-      "last_price": 7.977992019e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T09:02:15+00:00",
-      "missing": 0
-    },
     "5diVoWXf2qgavtuxuCzxZjPyoHJfiUj6XhMHveS2pump": {
       "symbol": "LAMB",
       "qty": 3802688.721809772,
@@ -60,69 +24,31 @@
       "symbol": "$LA BEAST",
       "qty": 5591040.184808973,
       "entry_price": 8.853450943617435e-06,
-      "last_price": 8.534180397464331e-06,
+      "last_price": 8.528132965e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T09:49:23+00:00",
+      "missing": 0
+    },
+    "8sdmTaNSm6atoV5k9roELHagfkGJhezDuqnwcewTpump": {
+      "symbol": "HalloCat",
+      "qty": 990732.8882200861,
+      "entry_price": 4.996301282470784e-05,
+      "last_price": 4.8267722857310905e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T10:06:03+00:00",
+      "missing": 0
+    },
+    "D54fyom2zeT1uXzshmrUGYWAd7Ve5k8zWnVUtzLppump": {
+      "symbol": "Karikar",
+      "qty": 6413752.690135993,
+      "entry_price": 7.717790565284554e-06,
+      "last_price": 7.43107157043749e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T10:06:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T09:54:05+00:00",
-      "side": "buy",
-      "symbol": "nibble",
-      "address": "3Y7Wb5Y1sTkv69S9iu6e132shxMQxeySXiFWkr38pump",
-      "price": 1.610822326464369e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T10:15:55+00:00",
-      "side": "sell",
-      "symbol": "COLECTODEL",
-      "address": "Cy53sukGJC38KQ5DEQ24Ajcq6BsjJ3ysJZR6gQFdpump",
-      "price": 3.372650687e-06,
-      "proceeds": 44.6,
-      "pnl_usd": -5.4,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-05T10:15:55+00:00",
-      "side": "sell",
-      "symbol": "BACKERS",
-      "address": "3RTTFWoMZ5BYVEy8qrAVJCaQHWQWRq6xKuGQzWV1pump",
-      "price": 0.02359491006,
-      "proceeds": 23.73,
-      "pnl_usd": -26.27,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T10:15:55+00:00",
-      "side": "sell",
-      "symbol": "Spread",
-      "address": "9uKRVK31eVdTKtFkyBq19KByGy817pPwdT51hDnQpump",
-      "price": 0.0004566733717,
-      "proceeds": 226.41,
-      "pnl_usd": 176.41,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T10:15:55+00:00",
-      "side": "sell",
-      "symbol": "nibble",
-      "address": "3Y7Wb5Y1sTkv69S9iu6e132shxMQxeySXiFWkr38pump",
-      "price": 2.613320892e-06,
-      "proceeds": 7.65,
-      "pnl_usd": -42.35,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T10:38:28+00:00",
-      "side": "buy",
-      "symbol": "DJT",
-      "address": "7daR2AKfpCruUvwQHH1jfJdyVP7VVegemQzTMJTspump",
-      "price": 4.9683125786388865e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T10:57:33+00:00",
       "side": "sell",
@@ -4562,6 +4488,62 @@
       "address": "CfjZwEc7hcUNs7YDJkMUnrtEu3kQkqdkMbxkVTmZpump",
       "price": 8.853450943617435e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T10:06:03+00:00",
+      "side": "sell",
+      "symbol": "SXSN",
+      "address": "GXRiF5TLRTAVv7ahZnwYSVCpqpWmGivRJxN7TKbhpump",
+      "price": 1.816569293e-05,
+      "proceeds": 45.62,
+      "pnl_usd": -4.38,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T10:06:03+00:00",
+      "side": "sell",
+      "symbol": "$BWIZ",
+      "address": "ArC9ehxVbbT65RvSA51veYZZESWVLnUUAYRuAbZMpump",
+      "price": 2.714438216e-05,
+      "proceeds": 45.9,
+      "pnl_usd": -4.1,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T10:06:03+00:00",
+      "side": "sell",
+      "symbol": "ROMANO",
+      "address": "H2DHwH5zN1d5W2uBZYQKrHsgkf5RirVemvaBLfhEpump",
+      "price": 1.237018164e-05,
+      "proceeds": 45.68,
+      "pnl_usd": -4.32,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T10:06:03+00:00",
+      "side": "sell",
+      "symbol": "LAMBULL",
+      "address": "2VQFfHsQxThQCNgVMhPCCfsf55sn8saL4XiUnhxQpump",
+      "price": 7.977992019e-06,
+      "proceeds": 45.44,
+      "pnl_usd": -4.56,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T10:06:03+00:00",
+      "side": "buy",
+      "symbol": "HalloCat",
+      "address": "8sdmTaNSm6atoV5k9roELHagfkGJhezDuqnwcewTpump",
+      "price": 4.996301282470784e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T10:06:03+00:00",
+      "side": "buy",
+      "symbol": "Karikar",
+      "address": "D54fyom2zeT1uXzshmrUGYWAd7Ve5k8zWnVUtzLppump",
+      "price": 7.717790565284554e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5244,6 +5226,10 @@
     {
       "date": "2026-10-07T09:49:23+00:00",
       "equity": 735776.78
+    },
+    {
+      "date": "2026-10-07T10:06:03+00:00",
+      "equity": 735763.77
     }
   ]
 }
