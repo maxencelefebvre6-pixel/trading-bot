@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 735585.9288551342,
+  "cash": 735581.5819273834,
   "positions": {
-    "9ySLTm1SUeecPGKUXWA3LX3GZE39mFrTrWFC2Ttdpump": {
-      "symbol": "run",
-      "qty": 4173367.3679721183,
-      "entry_price": 1.1860925635226921e-05,
-      "last_price": 1.145388928e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T03:59:30+00:00",
-      "missing": 0
-    },
     "EpXm1c14wkJnTHULedghLc7TAGZKj7c8DQoSdz98pump": {
       "symbol": "duluth",
       "qty": 3306507.5563149936,
@@ -24,7 +15,7 @@
       "symbol": "Unc",
       "qty": 11649469.308487099,
       "entry_price": 4.249120598475442e-06,
-      "last_price": 4.09709212001372e-06,
+      "last_price": 3.879079316e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T04:46:59+00:00",
       "missing": 0
@@ -33,29 +24,22 @@
       "symbol": "FERSPE",
       "qty": 4216352.213928463,
       "entry_price": 1.1740005931307106e-05,
-      "last_price": 1.133926430458192e-05,
+      "last_price": 1.13392643e-05,
       "cost": 50.0,
       "entry_time": "2026-10-07T04:46:59+00:00",
+      "missing": 0
+    },
+    "Fm6gEFxeKKU8sPtQnL8GwbBeKVjzcxd8x17m5ypTpump": {
+      "symbol": "ZULL",
+      "qty": 4618896.493453238,
+      "entry_price": 1.0716845478170086e-05,
+      "last_price": 1.0342702082412574e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T05:02:55+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T05:34:43+00:00",
-      "side": "buy",
-      "symbol": "DUEL",
-      "address": "7fPdiXXdeRkpYb9a9BJvg9c4YtHkAX7itWyhRcthpump",
-      "price": 8.854348631750414e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T05:34:43+00:00",
-      "side": "buy",
-      "symbol": "$BULLY",
-      "address": "5sQPh163AGYmoQ1addcr2A5wCNTJZFZz9Gmbo42npump",
-      "price": 7.535937675124815e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T05:54:51+00:00",
       "side": "sell",
@@ -4537,6 +4521,24 @@
       "address": "4KiXzjwB4z9CdDyeh7X2MPTJWA5gnBLbM3oqEeVvpump",
       "price": 1.1740005931307106e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T05:02:54+00:00",
+      "side": "sell",
+      "symbol": "run",
+      "address": "9ySLTm1SUeecPGKUXWA3LX3GZE39mFrTrWFC2Ttdpump",
+      "price": 1.145388928e-05,
+      "proceeds": 45.65,
+      "pnl_usd": -4.35,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T05:02:55+00:00",
+      "side": "buy",
+      "symbol": "ZULL",
+      "address": "Fm6gEFxeKKU8sPtQnL8GwbBeKVjzcxd8x17m5ypTpump",
+      "price": 1.0716845478170086e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5163,6 +5165,10 @@
     {
       "date": "2026-10-07T04:46:59+00:00",
       "equity": 735777.1
+    },
+    {
+      "date": "2026-10-07T05:02:55+00:00",
+      "equity": 735770.18
     }
   ]
 }
