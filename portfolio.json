@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3460703.073575541,
+  "cash": 3460776.233812884,
   "positions": {
-    "EKHpJ9TMGP8dThzhvyJNQdQvZ6Yu5Sg1B8vPE5rmpump": {
-      "symbol": "$SLJK",
-      "qty": 14561561.44346339,
-      "entry_price": 3.399360720496104e-06,
-      "last_price": 3.273764995e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T22:21:36+00:00",
-      "missing": 0
-    },
-    "mUJ6sSoQdr3rGbN91LaYmyDU15gkTUvZhztvfXqpump": {
-      "symbol": "BetOnBlak",
-      "qty": 6855042.808620494,
-      "entry_price": 7.220961470547163e-06,
-      "last_price": 6.963633691e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T22:21:36+00:00",
-      "missing": 0
-    },
     "3NBD8kWNTbnX3RguKZ9bCkDrWbChciZjuZSLaoSmpump": {
       "symbol": "GOAT",
       "qty": 7093346.374599091,
@@ -33,25 +15,7 @@
       "symbol": "SARP",
       "qty": 6264.489398314273,
       "entry_price": 0.00790168150229771,
-      "last_price": 0.007670035761247152,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T23:16:18+00:00",
-      "missing": 0
-    },
-    "FYbGhAASq7ji6nczEfq1G3KwXRpq2ZoXykiqsGBjpump": {
-      "symbol": "Oso",
-      "qty": 1043321.8590061477,
-      "entry_price": 4.744461124120694e-05,
-      "last_price": 4.595030221793242e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T23:16:18+00:00",
-      "missing": 0
-    },
-    "2woFnzwzLA3hA5u1EkNfPJuxzGJVfMM5wm6UFkJhpump": {
-      "symbol": "pepe",
-      "qty": 2176006.6586739365,
-      "entry_price": 2.274809215435279e-05,
-      "last_price": 2.2032623906940243e-05,
+      "last_price": 0.007948809758,
       "cost": 50.0,
       "entry_time": "2026-10-07T23:16:18+00:00",
       "missing": 0
@@ -60,59 +24,22 @@
       "symbol": "JEAN",
       "qty": 3589035.0567722972,
       "entry_price": 1.3792007940016196e-05,
-      "last_price": 1.332769606290889e-05,
+      "last_price": 1.332769606e-05,
       "cost": 50.0,
       "entry_time": "2026-10-07T23:16:18+00:00",
+      "missing": 0
+    },
+    "DZ5FH45A3HqsPN56fKmZk3tj6Cnmc85uNti3VvgLpump": {
+      "symbol": "Goudvius",
+      "qty": 4200979.083040782,
+      "entry_price": 1.1782967499131312e-05,
+      "last_price": 1.135179558195974e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T23:34:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T00:29:33+00:00",
-      "side": "sell",
-      "symbol": "blast",
-      "address": "DpiKG27BdYaf4heRCdFGbi3g4CVEkQo4Qn4vxKRSpump",
-      "price": 0.00852615071,
-      "proceeds": 4250.56,
-      "pnl_usd": 4200.56,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T00:29:33+00:00",
-      "side": "sell",
-      "symbol": "NEURALS",
-      "address": "L4hyHwh1diYkPCUpTnLq9PN91TEEqfqcixv3VEWpump",
-      "price": 5.486145646e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T00:29:33+00:00",
-      "side": "sell",
-      "symbol": "PLAGUE",
-      "address": "36Qp8N7rAvMyJnYt7H6R19H2Y5KqvMuMWPjnVCL9pump",
-      "price": 6.328573944e-05,
-      "proceeds": 31.53,
-      "pnl_usd": -18.47,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T00:29:33+00:00",
-      "side": "buy",
-      "symbol": "phubber",
-      "address": "EjQ3zU8meoHdum2Akgh5RhM8vKhFGTsXC5Ru9mtPpump",
-      "price": 4.994510890532189e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T00:29:33+00:00",
-      "side": "buy",
-      "symbol": "Gemini",
-      "address": "J7TbzAFxsMGYX5PNTwVSzjyKYzueMAGdPUcdHsbMpump",
-      "price": 0.00043848581060278874,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T00:29:33+00:00",
       "side": "buy",
@@ -4564,6 +4491,54 @@
       "address": "Ah58vWotFZHLRfvacN5ZqhD2kMW11SDKxEy1k88Lpump",
       "price": 1.3792007940016196e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T23:34:07+00:00",
+      "side": "sell",
+      "symbol": "$SLJK",
+      "address": "EKHpJ9TMGP8dThzhvyJNQdQvZ6Yu5Sg1B8vPE5rmpump",
+      "price": 3.273764995e-06,
+      "proceeds": 45.4,
+      "pnl_usd": -4.6,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T23:34:07+00:00",
+      "side": "sell",
+      "symbol": "BetOnBlak",
+      "address": "mUJ6sSoQdr3rGbN91LaYmyDU15gkTUvZhztvfXqpump",
+      "price": 6.963633691e-06,
+      "proceeds": 45.43,
+      "pnl_usd": -4.57,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T23:34:07+00:00",
+      "side": "sell",
+      "symbol": "Oso",
+      "address": "FYbGhAASq7ji6nczEfq1G3KwXRpq2ZoXykiqsGBjpump",
+      "price": 6.164194364e-05,
+      "proceeds": 31.83,
+      "pnl_usd": -18.17,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T23:34:07+00:00",
+      "side": "sell",
+      "symbol": "pepe",
+      "address": "2woFnzwzLA3hA5u1EkNfPJuxzGJVfMM5wm6UFkJhpump",
+      "price": 2.366608171e-07,
+      "proceeds": 0.49,
+      "pnl_usd": -49.51,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T23:34:07+00:00",
+      "side": "buy",
+      "symbol": "Goudvius",
+      "address": "DZ5FH45A3HqsPN56fKmZk3tj6Cnmc85uNti3VvgLpump",
+      "price": 1.1782967499131312e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5378,6 +5353,10 @@
     {
       "date": "2026-10-07T23:16:18+00:00",
       "equity": 3461037.85
+    },
+    {
+      "date": "2026-10-07T23:34:07+00:00",
+      "equity": 3460969.15
     }
   ]
 }
