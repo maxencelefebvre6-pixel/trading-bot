@@ -1,53 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 1173441.6825342407,
+  "cash": 1173353.8362272487,
   "positions": {
-    "66hF3MhjLXMm2HTyph27njrtUjanG4cMW57hGgAHpump": {
-      "symbol": "MICHO",
-      "qty": 1283999.7004482693,
-      "entry_price": 3.855141086303882e-05,
-      "last_price": 3.731356325367026e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T18:25:57+00:00",
-      "missing": 0
-    },
     "3N9hpcKEWDW1ow7SciMQZe966tXrDj7UeZrWEfM7pump": {
       "symbol": "$AGNT",
       "qty": 3168057.1604619124,
       "entry_price": 1.562471808203825e-05,
-      "last_price": 1.5103483310801598e-05,
+      "last_price": 1.508371787e-05,
       "cost": 50.0,
       "entry_time": "2026-10-07T18:25:57+00:00",
+      "missing": 0
+    },
+    "3HRQjK8UuqfMNbB6YfK4kesBBhuVKLdiCm2Ywb1gpump": {
+      "symbol": "LOBBY",
+      "qty": 1038571.0336960269,
+      "entry_price": 4.766164123010565e-05,
+      "last_price": 4.6160541765729126e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T18:52:21+00:00",
+      "missing": 0
+    },
+    "CKMYGTR21v6A6TExiAfrBF8wEEFVeDz3PRP44KVspump": {
+      "symbol": "neetjak",
+      "qty": 1904153.0148227317,
+      "entry_price": 2.599581000826671e-05,
+      "last_price": 2.5084069686373065e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T18:52:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T15:59:47+00:00",
-      "side": "buy",
-      "symbol": "MemeRocket",
-      "address": "Fda2DfHKUwqyiSK2E6inNktdstep6ndVkVgp7gvppump",
-      "price": 7.408547953076321e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T15:59:47+00:00",
-      "side": "buy",
-      "symbol": "NLM",
-      "address": "3rr11Ej5QD6j1qxYZ5AVR1dW1RCxQYkp7sMKdwGgpump",
-      "price": 4.322856970152775e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T16:24:17+00:00",
-      "side": "sell",
-      "symbol": "AVERY",
-      "address": "BBQcxTqQNb2s6mdUycztpGmyqsYwu4TQAqDvSg4gpump",
-      "price": 3.383240405e-06,
-      "proceeds": 9.99,
-      "pnl_usd": -40.01,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-05T16:24:17+00:00",
       "side": "sell",
@@ -4521,6 +4504,32 @@
       "address": "3N9hpcKEWDW1ow7SciMQZe966tXrDj7UeZrWEfM7pump",
       "price": 1.562471808203825e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T18:52:20+00:00",
+      "side": "sell",
+      "symbol": "MICHO",
+      "address": "66hF3MhjLXMm2HTyph27njrtUjanG4cMW57hGgAHpump",
+      "price": 9.880064157e-06,
+      "proceeds": 12.15,
+      "pnl_usd": -37.85,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T18:52:21+00:00",
+      "side": "buy",
+      "symbol": "LOBBY",
+      "address": "3HRQjK8UuqfMNbB6YfK4kesBBhuVKLdiCm2Ywb1gpump",
+      "price": 4.766164123010565e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T18:52:21+00:00",
+      "side": "buy",
+      "symbol": "neetjak",
+      "address": "CKMYGTR21v6A6TExiAfrBF8wEEFVeDz3PRP44KVspump",
+      "price": 2.599581000826671e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5279,6 +5288,10 @@
     {
       "date": "2026-10-07T18:25:57+00:00",
       "equity": 1173537.44
+    },
+    {
+      "date": "2026-10-07T18:52:21+00:00",
+      "equity": 1173497.33
     }
   ]
 }
