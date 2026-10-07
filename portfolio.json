@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 686455.4440507158,
+  "cash": 736071.5604038973,
   "positions": {
     "EhTrKdx4GWtc5fa2tiSVRu5n3tzEKNNcCLX7WG8Zpump": {
       "symbol": "K/ACC",
@@ -10,62 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-07T02:18:35+00:00",
       "missing": 0
-    },
-    "9U6ZRt7P9irpeALj8ej62JAriKfSZRELUek9QtRnpump": {
-      "symbol": "CLAUDIA",
-      "qty": 1021980.9931519821,
-      "entry_price": 4.843534305597276e-05,
-      "last_price": 4.691199833298795e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T02:38:50+00:00",
-      "missing": 0
-    },
-    "G5snZPocFd9nqeLtvNkZ3kZr4M8XCS7ZjDzQNqk8pump": {
-      "symbol": "dihwarmer",
-      "qty": 4741126.112783615,
-      "entry_price": 1.0440557543181975e-05,
-      "last_price": 1.0048647207857768e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T02:38:50+00:00",
-      "missing": 0
-    },
-    "Exwm1uD2uqCqXejw8mzsAWv6K7AawfdBoSQxLf2mpump": {
-      "symbol": "MYCATS",
-      "qty": 23013556.01443007,
-      "entry_price": 2.150906186291344e-06,
-      "last_price": 2.0771573251049303e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T02:38:50+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "side": "buy",
-      "symbol": "JeanA",
-      "address": "Cy8oivbihjxjJ9aLY2A2a6ThXh3mt6zbqJgoanRMpump",
-      "price": 6.259087287009471e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "side": "buy",
-      "symbol": "HUMANSPAD",
-      "address": "FK5k1o8sKAT7CL6XWoqqsyoPhkzpiK35XRDH5Ty9pump",
-      "price": 1.4999096350765492e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T02:37:44+00:00",
-      "side": "sell",
-      "symbol": "JeanA",
-      "address": "Cy8oivbihjxjJ9aLY2A2a6ThXh3mt6zbqJgoanRMpump",
-      "price": 2.756872053e-06,
-      "proceeds": 2.09,
-      "pnl_usd": -47.91,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-05T02:37:44+00:00",
       "side": "sell",
@@ -4535,6 +4482,36 @@
       "address": "Exwm1uD2uqCqXejw8mzsAWv6K7AawfdBoSQxLf2mpump",
       "price": 2.150906186291344e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T02:57:06+00:00",
+      "side": "sell",
+      "symbol": "CLAUDIA",
+      "address": "9U6ZRt7P9irpeALj8ej62JAriKfSZRELUek9QtRnpump",
+      "price": 0.09804633344,
+      "proceeds": 49599.74,
+      "pnl_usd": 49549.74,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T02:57:06+00:00",
+      "side": "sell",
+      "symbol": "dihwarmer",
+      "address": "G5snZPocFd9nqeLtvNkZ3kZr4M8XCS7ZjDzQNqk8pump",
+      "price": 3.312985874e-06,
+      "proceeds": 14.99,
+      "pnl_usd": -35.01,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-07T02:57:06+00:00",
+      "side": "sell",
+      "symbol": "MYCATS",
+      "address": "Exwm1uD2uqCqXejw8mzsAWv6K7AawfdBoSQxLf2mpump",
+      "price": 6.47528443e-08,
+      "proceeds": 1.39,
+      "pnl_usd": -48.61,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5137,6 +5114,10 @@
     {
       "date": "2026-10-07T02:38:50+00:00",
       "equity": 686644.82
+    },
+    {
+      "date": "2026-10-07T02:57:06+00:00",
+      "equity": 736117.54
     }
   ]
 }
