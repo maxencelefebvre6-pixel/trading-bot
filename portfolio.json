@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 686633.0552119362,
+  "cash": 686606.7597895513,
   "positions": {
     "2TLyN2oqRvGLrouJf1qfH934EFwEMi23gGoWHKodpump": {
       "symbol": "LAMBULL",
       "qty": 3158076.6907842453,
       "entry_price": 1.5674096878156453e-05,
-      "last_price": 1.5154712880307998e-05,
+      "last_price": 1.515471288e-05,
       "cost": 50.0,
       "entry_time": "2026-10-07T01:38:37+00:00",
       "missing": 0
     },
-    "8GAV4KM2DQ3bSi8MaKfUgW9V2AgU9cH8MBUU5iaHpump": {
-      "symbol": "GBOY",
-      "qty": 2763610.734288102,
-      "entry_price": 1.7911350316400856e-05,
-      "last_price": 1.732806830724808e-05,
+    "43eyPUbL3tGBrYPHNk3XyWeZKT24RTuRjkLnyoWvpump": {
+      "symbol": "BLOX",
+      "qty": 926178.6237291947,
+      "entry_price": 5.344541401818544e-05,
+      "last_price": 5.1747738269626576e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-07T01:38:37+00:00",
+      "entry_time": "2026-10-07T01:56:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T01:55:34+00:00",
-      "side": "buy",
-      "symbol": "Allowance",
-      "address": "3fKaPunaMV8DAxRMoArwV1M1WvQamiHbCCwbBFqjpump",
-      "price": 1.90660210049393e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T01:55:34+00:00",
-      "side": "buy",
-      "symbol": "CBC",
-      "address": "97EouEau4KgNJtWpXogTQv3HawaKLa4y3XQXFm4Fpump",
-      "price": 1.0453462022498288e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T02:17:05+00:00",
       "side": "sell",
@@ -4523,6 +4507,24 @@
       "address": "8GAV4KM2DQ3bSi8MaKfUgW9V2AgU9cH8MBUU5iaHpump",
       "price": 1.7911350316400856e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T01:56:36+00:00",
+      "side": "sell",
+      "symbol": "GBOY",
+      "address": "8GAV4KM2DQ3bSi8MaKfUgW9V2AgU9cH8MBUU5iaHpump",
+      "price": 1.732806831e-05,
+      "proceeds": 23.7,
+      "pnl_usd": -26.3,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-07T01:56:36+00:00",
+      "side": "buy",
+      "symbol": "BLOX",
+      "address": "43eyPUbL3tGBrYPHNk3XyWeZKT24RTuRjkLnyoWvpump",
+      "price": 5.344541401818544e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5113,6 +5115,10 @@
     {
       "date": "2026-10-07T01:38:37+00:00",
       "equity": 686728.8
+    },
+    {
+      "date": "2026-10-07T01:56:36+00:00",
+      "equity": 686702.55
     }
   ]
 }
