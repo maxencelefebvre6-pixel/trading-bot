@@ -1,62 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 686559.4965447888,
+  "cash": 686601.3089173869,
   "positions": {
-    "2iYgFcovEFPhR2fRXZWuYdYPmCaYd4EfdPAPoPm4pump": {
-      "symbol": "$CI",
-      "qty": 2898847.2653992227,
-      "entry_price": 1.7075753038400582e-05,
-      "last_price": 1.65119871e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T23:01:02+00:00",
-      "missing": 0
-    },
-    "8QchFf2jQi993zVQjefkj3HgerCJ2pHSfUBprVwLpump": {
-      "symbol": "$PP",
-      "qty": 963761.6746446125,
-      "entry_price": 5.1361245526030224e-05,
-      "last_price": 4.980349392e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-06T23:01:02+00:00",
-      "missing": 0
-    },
     "CyQmFuyC9taFRT7KJ4EEAnisUPNWZGv8vLrQWzGtpump": {
       "symbol": "KILLDOBBY",
       "qty": 4915767.4895752035,
       "entry_price": 1.0069638180604336e-05,
-      "last_price": 9.714916363937829e-06,
+      "last_price": 9.714916364e-06,
       "cost": 50.0,
       "entry_time": "2026-10-06T23:55:37+00:00",
+      "missing": 0
+    },
+    "FiJfSk8BUPWkjcRzQmcTAvJm7NgfCX6HoxZeXFo6pump": {
+      "symbol": "Elytra",
+      "qty": 988896.3692246233,
+      "entry_price": 5.005580113395714e-05,
+      "last_price": 4.8484501263481554e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T00:26:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T00:57:12+00:00",
-      "side": "sell",
-      "symbol": "ZABSON",
-      "address": "A1mtFkUjPt3KdV2KBuHHSbL5QpiBEtXnBEubFTwbpump",
-      "price": 3.391321335e-06,
-      "proceeds": 16.07,
-      "pnl_usd": -33.93,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T00:57:12+00:00",
-      "side": "buy",
-      "symbol": "CBC",
-      "address": "2TKazvzuboGDUoRbE8trBpHgEmP7NsNxuZ2wkcU7pump",
-      "price": 1.853343602009895e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-05T01:38:18+00:00",
-      "side": "buy",
-      "symbol": "Human",
-      "address": "E4WP92DBEdG7DZsUdgiVVJp2QsiaJVu8uksGprL3pump",
-      "price": 4.9787546429503346e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-05T01:38:18+00:00",
       "side": "buy",
@@ -4528,6 +4493,34 @@
       "address": "CyQmFuyC9taFRT7KJ4EEAnisUPNWZGv8vLrQWzGtpump",
       "price": 1.0069638180604336e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T00:26:36+00:00",
+      "side": "sell",
+      "symbol": "$CI",
+      "address": "2iYgFcovEFPhR2fRXZWuYdYPmCaYd4EfdPAPoPm4pump",
+      "price": 1.65119871e-05,
+      "proceeds": 45.78,
+      "pnl_usd": -4.22,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T00:26:36+00:00",
+      "side": "sell",
+      "symbol": "$PP",
+      "address": "8QchFf2jQi993zVQjefkj3HgerCJ2pHSfUBprVwLpump",
+      "price": 4.980349392e-05,
+      "proceeds": 46.03,
+      "pnl_usd": -3.97,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T00:26:36+00:00",
+      "side": "buy",
+      "symbol": "Elytra",
+      "address": "FiJfSk8BUPWkjcRzQmcTAvJm7NgfCX6HoxZeXFo6pump",
+      "price": 5.005580113395714e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5102,6 +5095,10 @@
     {
       "date": "2026-10-06T23:55:37+00:00",
       "equity": 686703.12
+    },
+    {
+      "date": "2026-10-07T00:26:36+00:00",
+      "equity": 686697.01
     }
   ]
 }
