@@ -1,67 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 686559.6780897323,
+  "cash": 686455.4440507158,
   "positions": {
-    "2TLyN2oqRvGLrouJf1qfH934EFwEMi23gGoWHKodpump": {
-      "symbol": "LAMBULL",
-      "qty": 3158076.6907842453,
-      "entry_price": 1.5674096878156453e-05,
-      "last_price": 1.515471288e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T01:38:37+00:00",
-      "missing": 0
-    },
     "EhTrKdx4GWtc5fa2tiSVRu5n3tzEKNNcCLX7WG8Zpump": {
       "symbol": "K/ACC",
       "qty": 13922050.577953035,
       "entry_price": 3.555510714663558e-06,
-      "last_price": 3.4188515554264617e-06,
+      "last_price": 3.302945579e-06,
       "cost": 50.0,
       "entry_time": "2026-10-07T02:18:35+00:00",
+      "missing": 0
+    },
+    "9U6ZRt7P9irpeALj8ej62JAriKfSZRELUek9QtRnpump": {
+      "symbol": "CLAUDIA",
+      "qty": 1021980.9931519821,
+      "entry_price": 4.843534305597276e-05,
+      "last_price": 4.691199833298795e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T02:38:50+00:00",
+      "missing": 0
+    },
+    "G5snZPocFd9nqeLtvNkZ3kZr4M8XCS7ZjDzQNqk8pump": {
+      "symbol": "dihwarmer",
+      "qty": 4741126.112783615,
+      "entry_price": 1.0440557543181975e-05,
+      "last_price": 1.0048647207857768e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T02:38:50+00:00",
+      "missing": 0
+    },
+    "Exwm1uD2uqCqXejw8mzsAWv6K7AawfdBoSQxLf2mpump": {
+      "symbol": "MYCATS",
+      "qty": 23013556.01443007,
+      "entry_price": 2.150906186291344e-06,
+      "last_price": 2.0771573251049303e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-07T02:38:50+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "side": "sell",
-      "symbol": "Super Inu",
-      "address": "qgARFoVmTgx5H8v4C73UEtGN5nR4bYJLaVLLzFCpump",
-      "price": 2.18877043e-06,
-      "proceeds": 0.23,
-      "pnl_usd": -49.77,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "side": "sell",
-      "symbol": "LOCALER",
-      "address": "CNbSP9iD1PyST7kqzpv6QSwj9owLZzXBVnxuMgnApump",
-      "price": 3.418766466e-06,
-      "proceeds": 16.68,
-      "pnl_usd": -33.32,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "side": "sell",
-      "symbol": "Allowance",
-      "address": "3fKaPunaMV8DAxRMoArwV1M1WvQamiHbCCwbBFqjpump",
-      "price": 3.407124996e-06,
-      "proceeds": 8.47,
-      "pnl_usd": -41.53,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "side": "sell",
-      "symbol": "CBC",
-      "address": "97EouEau4KgNJtWpXogTQv3HawaKLa4y3XQXFm4Fpump",
-      "price": 2.604637116e-05,
-      "proceeds": 117.69,
-      "pnl_usd": 67.69,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-05T02:17:05+00:00",
       "side": "buy",
@@ -4523,6 +4501,40 @@
       "address": "EhTrKdx4GWtc5fa2tiSVRu5n3tzEKNNcCLX7WG8Zpump",
       "price": 3.555510714663558e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T02:38:50+00:00",
+      "side": "sell",
+      "symbol": "LAMBULL",
+      "address": "2TLyN2oqRvGLrouJf1qfH934EFwEMi23gGoWHKodpump",
+      "price": 1.515471288e-05,
+      "proceeds": 45.77,
+      "pnl_usd": -4.23,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-07T02:38:50+00:00",
+      "side": "buy",
+      "symbol": "CLAUDIA",
+      "address": "9U6ZRt7P9irpeALj8ej62JAriKfSZRELUek9QtRnpump",
+      "price": 4.843534305597276e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T02:38:50+00:00",
+      "side": "buy",
+      "symbol": "dihwarmer",
+      "address": "G5snZPocFd9nqeLtvNkZ3kZr4M8XCS7ZjDzQNqk8pump",
+      "price": 1.0440557543181975e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-07T02:38:50+00:00",
+      "side": "buy",
+      "symbol": "MYCATS",
+      "address": "Exwm1uD2uqCqXejw8mzsAWv6K7AawfdBoSQxLf2mpump",
+      "price": 2.150906186291344e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5121,6 +5133,10 @@
     {
       "date": "2026-10-07T02:18:35+00:00",
       "equity": 686655.14
+    },
+    {
+      "date": "2026-10-07T02:38:50+00:00",
+      "equity": 686644.82
     }
   ]
 }
