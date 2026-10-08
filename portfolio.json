@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3600113.7033312498,
+  "cash": 3600079.9223448364,
   "positions": {
-    "DxFtvbRJ2xLkZmyAgFwrSYyUu2kbi9LcvSjebms8pump": {
-      "symbol": "theranos",
-      "qty": 1856423.9696242942,
-      "entry_price": 2.66641676739489e-05,
-      "last_price": 2.576240891e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T19:47:25+00:00",
-      "missing": 0
-    },
     "GFcbjmAdCVT5PFpTmXAqgMKMtn6qZjTM4egWVA5epump": {
       "symbol": "pruple",
       "qty": 6092564.729361476,
@@ -20,68 +11,26 @@
       "entry_time": "2026-10-08T20:03:22+00:00",
       "missing": 0
     },
-    "ntwhfSL1gsrKk6rScrvTfTG8hSZi9bKDAzjxQfmpump": {
-      "symbol": "X",
-      "qty": 562755.5884909559,
-      "entry_price": 8.796003276082174e-05,
-      "last_price": 8.528563121127424e-05,
+    "HptU2ZoqyZ7ezCnMMwNENeVURASjHzkF9hJqa93Kpump": {
+      "symbol": "WOSE",
+      "qty": 45628.174082728015,
+      "entry_price": 0.0010848560345687298,
+      "last_price": 0.0010526841365101534,
       "cost": 50.0,
-      "entry_time": "2026-10-08T20:28:03+00:00",
+      "entry_time": "2026-10-08T20:51:24+00:00",
       "missing": 0
     },
-    "9NjD9ngQQB3EQ59Rmk6dNDdMVYczh4T5kTZxhpptpump": {
-      "symbol": "SNAPCAT",
-      "qty": 3997329.1498674164,
-      "entry_price": 1.2383268463554426e-05,
-      "last_price": 1.1935065789768065e-05,
+    "J83XpUexmei2RPXUyrUNa2euGfauEZjdPkp6NpmDpump": {
+      "symbol": "TASTE",
+      "qty": 4602397.526425492,
+      "entry_price": 1.0755263906645799e-05,
+      "last_price": 1.0356818856638172e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T20:28:03+00:00",
+      "entry_time": "2026-10-08T20:51:24+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T18:47:24+00:00",
-      "side": "buy",
-      "symbol": "CashPad",
-      "address": "26caxWxHVhkXdEF8FWnNXsgkJFooSuPRnZ1itxpZpump",
-      "price": 1.48379204015256e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T18:47:24+00:00",
-      "side": "buy",
-      "symbol": "INUX",
-      "address": "6LJoRKXQ6dusV9sHmMmyHBSByRQbXcxgJ4J9yrDJpump",
-      "price": 1.9088425668838452e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T18:47:24+00:00",
-      "side": "buy",
-      "symbol": "DOLPHIN",
-      "address": "5zvfCFpkbwcCTAvXQTFMdHKM3wzCkXGZZXao2doipump",
-      "price": 1.2977620486071912e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T18:47:24+00:00",
-      "side": "buy",
-      "symbol": "PRIEST",
-      "address": "615yAEVw1TeHLsgKxfUzmapyMrxufAH9mSkVavCKpump",
-      "price": 1.0144308610161375e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T19:02:22+00:00",
-      "side": "sell",
-      "symbol": "Pullinu",
-      "address": "Ew3w3NcED9sf1ofY4pwaKR5fgyERwbvyzwX7uqh5pump",
-      "price": 8.820312331e-06,
-      "proceeds": 45.51,
-      "pnl_usd": -4.49,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-06T19:02:22+00:00",
       "side": "sell",
@@ -4537,6 +4486,52 @@
       "address": "9NjD9ngQQB3EQ59Rmk6dNDdMVYczh4T5kTZxhpptpump",
       "price": 1.2383268463554426e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T20:51:24+00:00",
+      "side": "sell",
+      "symbol": "theranos",
+      "address": "DxFtvbRJ2xLkZmyAgFwrSYyUu2kbi9LcvSjebms8pump",
+      "price": 2.576240891e-05,
+      "proceeds": 45.7,
+      "pnl_usd": -4.3,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T20:51:24+00:00",
+      "side": "sell",
+      "symbol": "X",
+      "address": "ntwhfSL1gsrKk6rScrvTfTG8hSZi9bKDAzjxQfmpump",
+      "price": 4.964165762e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T20:51:24+00:00",
+      "side": "sell",
+      "symbol": "SNAPCAT",
+      "address": "9NjD9ngQQB3EQ59Rmk6dNDdMVYczh4T5kTZxhpptpump",
+      "price": 5.372461676e-06,
+      "proceeds": 20.51,
+      "pnl_usd": -29.49,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T20:51:24+00:00",
+      "side": "buy",
+      "symbol": "WOSE",
+      "address": "HptU2ZoqyZ7ezCnMMwNENeVURASjHzkF9hJqa93Kpump",
+      "price": 0.0010848560345687298,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T20:51:24+00:00",
+      "side": "buy",
+      "symbol": "TASTE",
+      "address": "J83XpUexmei2RPXUyrUNa2euGfauEZjdPkp6NpmDpump",
+      "price": 1.0755263906645799e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5579,6 +5574,10 @@
     {
       "date": "2026-10-08T20:28:03+00:00",
       "equity": 3600304.92
+    },
+    {
+      "date": "2026-10-08T20:51:24+00:00",
+      "equity": 3600223.3
     }
   ]
 }
