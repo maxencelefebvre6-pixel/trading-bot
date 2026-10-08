@@ -1,87 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3460555.568152584,
+  "cash": 3460659.534382867,
   "positions": {
-    "73mnfusfaKebhrKWqJJQASE3KNC1AfMicFGkutvLpump": {
-      "symbol": "wind",
-      "qty": 4490768.42506791,
-      "entry_price": 1.1022612460639508e-05,
-      "last_price": 1.063989484e-05,
+    "8gj52AG7G6tkFrGuHeB6rfNJMBqVizsYeTzJEwuEpump": {
+      "symbol": "mimo",
+      "qty": 3819395.6883323784,
+      "entry_price": 1.2960165439578388e-05,
+      "last_price": 1.248801086385973e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T10:18:27+00:00",
-      "missing": 0
-    },
-    "D3f2CQJhXVsfRZwAS3mpFv9G9wLn5AaaoTcF4Ttjpump": {
-      "symbol": "LMAO",
-      "qty": 6677173.959741994,
-      "entry_price": 7.413315917549148e-06,
-      "last_price": 7.133167899e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T10:18:27+00:00",
-      "missing": 0
-    },
-    "68uLfRx4DL64k6FZKAzQDWo5uqd9QbyxfT8cuygwpump": {
-      "symbol": "$AURA",
-      "qty": 5339665.870887154,
-      "entry_price": 9.27024296967403e-06,
-      "last_price": 8.938194648e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T10:18:27+00:00",
-      "missing": 0
-    },
-    "734cagXxECkwQhZaJFZTHw7iFdvv5rvF3spiiUDmpump": {
-      "symbol": "401si(k)",
-      "qty": 5367174.205356001,
-      "entry_price": 9.22273026849083e-06,
-      "last_price": 8.896938610889925e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T10:58:42+00:00",
+      "entry_time": "2026-10-08T11:22:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T10:42:52+00:00",
-      "side": "buy",
-      "symbol": "$GOAT",
-      "address": "52vzBEddVWgoAjSkzxyKbApKF3RYxAFEWuv654Tnpump",
-      "price": 6.822081930625989e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T10:59:33+00:00",
-      "side": "buy",
-      "symbol": "REMORA",
-      "address": "8rR4dpp7xpxZWkaVaYQmvhiTKM5McYEaSMP9x7n1pump",
-      "price": 4.903209654652239e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T10:59:33+00:00",
-      "side": "buy",
-      "symbol": "VIRZEC",
-      "address": "CLFretPrsXRCNEaQeZndEkySCiD7iihv7h3tM8ipump",
-      "price": 1.022580274420942e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T11:21:57+00:00",
-      "side": "sell",
-      "symbol": "REMORA",
-      "address": "8rR4dpp7xpxZWkaVaYQmvhiTKM5McYEaSMP9x7n1pump",
-      "price": 5.463915849e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T11:21:58+00:00",
-      "side": "buy",
-      "symbol": ".meowfart",
-      "address": "HceT5eCu3eViHXkqaEK1YvbGbp8YCaVHKndKMPscpump",
-      "price": 4.924897586483853e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T11:21:58+00:00",
       "side": "buy",
@@ -4535,6 +4466,54 @@
       "address": "734cagXxECkwQhZaJFZTHw7iFdvv5rvF3spiiUDmpump",
       "price": 9.22273026849083e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T11:22:40+00:00",
+      "side": "sell",
+      "symbol": "wind",
+      "address": "73mnfusfaKebhrKWqJJQASE3KNC1AfMicFGkutvLpump",
+      "price": 1.063989484e-05,
+      "proceeds": 45.61,
+      "pnl_usd": -4.39,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T11:22:40+00:00",
+      "side": "sell",
+      "symbol": "LMAO",
+      "address": "D3f2CQJhXVsfRZwAS3mpFv9G9wLn5AaaoTcF4Ttjpump",
+      "price": 7.133167899e-06,
+      "proceeds": 45.32,
+      "pnl_usd": -4.68,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T11:22:40+00:00",
+      "side": "sell",
+      "symbol": "$AURA",
+      "address": "68uLfRx4DL64k6FZKAzQDWo5uqd9QbyxfT8cuygwpump",
+      "price": 8.938194648e-06,
+      "proceeds": 45.51,
+      "pnl_usd": -4.49,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T11:22:40+00:00",
+      "side": "sell",
+      "symbol": "401si(k)",
+      "address": "734cagXxECkwQhZaJFZTHw7iFdvv5rvF3spiiUDmpump",
+      "price": 3.42427145e-06,
+      "proceeds": 17.52,
+      "pnl_usd": -32.48,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T11:22:40+00:00",
+      "side": "buy",
+      "symbol": "mimo",
+      "address": "8gj52AG7G6tkFrGuHeB6rfNJMBqVizsYeTzJEwuEpump",
+      "price": 1.2960165439578388e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5481,6 +5460,10 @@
     {
       "date": "2026-10-08T10:58:42+00:00",
       "equity": 3460746.46
+    },
+    {
+      "date": "2026-10-08T11:22:40+00:00",
+      "equity": 3460707.23
     }
   ]
 }
