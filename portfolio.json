@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 3461301.4185239123,
+  "cash": 3461269.3051282866,
   "positions": {
     "xs8CCLCTYMm6ThE68zqJGbuqv8YgyVfSKRTesegpump": {
       "symbol": "DAWS",
       "qty": 15935.414724377855,
       "entry_price": 0.0031062887823230193,
-      "last_price": 0.0030148699629424652,
+      "last_price": 0.003145847132,
       "cost": 50.0,
       "entry_time": "2026-10-08T02:43:02+00:00",
       "missing": 0
@@ -15,16 +15,7 @@
       "symbol": "andre",
       "qty": 1946146.1535212763,
       "entry_price": 2.543488314607654e-05,
-      "last_price": 2.456845433855849e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T02:43:02+00:00",
-      "missing": 0
-    },
-    "D9G1jwfN6XnyV6q3bNjm7ubj4nNtk4TQUjfySxeXpump": {
-      "symbol": "MUTATION",
-      "qty": 5450319.854726241,
-      "entry_price": 9.082035792280358e-06,
-      "last_price": 8.74320419015869e-06,
+      "last_price": 2.376092539e-05,
       "cost": 50.0,
       "entry_time": "2026-10-08T02:43:02+00:00",
       "missing": 0
@@ -33,33 +24,22 @@
       "symbol": "$AP",
       "qty": 7476707.380842083,
       "entry_price": 6.620561361921982e-06,
-      "last_price": 6.37913444692772e-06,
+      "last_price": 6.379134447e-06,
       "cost": 50.0,
       "entry_time": "2026-10-08T02:43:02+00:00",
+      "missing": 0
+    },
+    "Yjjhg8yTPtwJkxG4GDAfCcZ7i96eWnzeZMGNwtCpump": {
+      "symbol": "BORDR",
+      "qty": 531572.1472883831,
+      "entry_price": 9.312000309366428e-05,
+      "last_price": 9.029595515813295e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T02:59:42+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T04:01:42+00:00",
-      "side": "sell",
-      "symbol": "Arrow",
-      "address": "2wuPgrAttzi8NK2vA5kRnrQd7qtw6VpWNm4c1Gqhpump",
-      "price": 0.001184712388,
-      "proceeds": 53.6,
-      "pnl_usd": 3.6,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-06T04:01:42+00:00",
-      "side": "sell",
-      "symbol": "PLAGUE",
-      "address": "2oWTKCF64dMkPF4ABkDF9DfD7KaNmipzZVtdzeK6pump",
-      "price": 6.38522137e-05,
-      "proceeds": 32.02,
-      "pnl_usd": -17.98,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-06T04:01:42+00:00",
       "side": "sell",
@@ -4539,6 +4519,24 @@
       "address": "C44vMQiJBWmjswFjPkLKXMt1amUna5ELrsBmRyFipump",
       "price": 6.620561361921982e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T02:59:42+00:00",
+      "side": "sell",
+      "symbol": "MUTATION",
+      "address": "D9G1jwfN6XnyV6q3bNjm7ubj4nNtk4TQUjfySxeXpump",
+      "price": 3.442982134e-06,
+      "proceeds": 17.89,
+      "pnl_usd": -32.11,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T02:59:42+00:00",
+      "side": "buy",
+      "symbol": "BORDR",
+      "address": "Yjjhg8yTPtwJkxG4GDAfCcZ7i96eWnzeZMGNwtCpump",
+      "price": 9.312000309366428e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5393,6 +5391,10 @@
     {
       "date": "2026-10-08T02:43:02+00:00",
       "equity": 3461492.62
+    },
+    {
+      "date": "2026-10-08T02:59:42+00:00",
+      "equity": 3461461.37
     }
   ]
 }
