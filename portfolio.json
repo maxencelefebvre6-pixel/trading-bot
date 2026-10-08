@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3461074.644023094,
+  "cash": 3461086.5928825075,
   "positions": {
     "BNMrHLqHkyJr6L41ppvNHEeCDcfX8yRjLweSezfHpump": {
       "symbol": "ANY",
@@ -19,43 +19,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-08T04:25:11+00:00",
       "missing": 0
-    },
-    "rvajbC8iZBBCdfCadVV22THcYsa2LYvgfA6UKjapump": {
-      "symbol": "Apple",
-      "qty": 129684.37199697891,
-      "entry_price": 0.0003816959533192877,
-      "last_price": 0.0003702387999567489,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T04:47:47+00:00",
-      "missing": 0
-    },
-    "EmzUeS9gisTVNQL9iuijiPcdqSBMSevuPmsVMv5kpump": {
-      "symbol": "cap",
-      "qty": 18249194.70443438,
-      "entry_price": 2.7124484560391025e-06,
-      "last_price": 2.6182522362130723e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T04:47:47+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T05:23:09+00:00",
-      "side": "buy",
-      "symbol": "CNDR",
-      "address": "Bu2TVnLY2nRzDq6gst4fyRtc9xP6Rt5oX7pyKwh5pump",
-      "price": 4.879851519366267e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T05:23:09+00:00",
-      "side": "buy",
-      "symbol": "CASA",
-      "address": "6XZF575pWFU2dhsQtSBdC1FtLtG4ZEi4ooxUBGW8pump",
-      "price": 1.9035242598404964e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T05:43:09+00:00",
       "side": "sell",
@@ -4537,6 +4503,26 @@
       "address": "EmzUeS9gisTVNQL9iuijiPcdqSBMSevuPmsVMv5kpump",
       "price": 2.7124484560391025e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T05:02:44+00:00",
+      "side": "sell",
+      "symbol": "Apple",
+      "address": "rvajbC8iZBBCdfCadVV22THcYsa2LYvgfA6UKjapump",
+      "price": 7.733424431e-05,
+      "proceeds": 9.63,
+      "pnl_usd": -40.37,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T05:02:44+00:00",
+      "side": "sell",
+      "symbol": "cap",
+      "address": "EmzUeS9gisTVNQL9iuijiPcdqSBMSevuPmsVMv5kpump",
+      "price": 1.359283103e-07,
+      "proceeds": 2.32,
+      "pnl_usd": -47.68,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5415,6 +5401,10 @@
     {
       "date": "2026-10-08T04:47:47+00:00",
       "equity": 3461265.93
+    },
+    {
+      "date": "2026-10-08T05:02:45+00:00",
+      "equity": 3461182.08
     }
   ]
 }
