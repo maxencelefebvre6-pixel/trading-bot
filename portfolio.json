@@ -1,44 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 3599964.983801853,
+  "cash": 3599814.983801853,
   "positions": {
     "8pdA1WmR1BGEXqSu8D8RHjoWHhKij3Npigr6u1N6pump": {
       "symbol": "yoo",
       "qty": 1760351.2758165936,
       "entry_price": 2.8119387692685308e-05,
-      "last_price": 2.721092320679642e-05,
+      "last_price": 2.721092321e-05,
       "cost": 50.0,
       "entry_time": "2026-10-08T21:52:03+00:00",
+      "missing": 0
+    },
+    "AjwGC5PD7d4BYm81Qrp5Eqi2EBZejWby8snUEXrVpump": {
+      "symbol": "Dave",
+      "qty": 559805.5422688482,
+      "entry_price": 8.842356186646593e-05,
+      "last_price": 8.573615402135029e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T22:31:44+00:00",
+      "missing": 0
+    },
+    "ivdERh8PJC5m7mHz1b5ABLArttiE92T8bcaDAcmpump": {
+      "symbol": "Anthropic",
+      "qty": 135456.3814834495,
+      "entry_price": 0.00036543128834464004,
+      "last_price": 0.0003544461205622136,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T22:31:44+00:00",
+      "missing": 0
+    },
+    "Eq2dcoUkLKzPNh1QFHv4v8xE5fHHTrGR3dTUCC7Qpump": {
+      "symbol": "ChatGPT",
+      "qty": 117051.96771843736,
+      "entry_price": 0.0004228890890503419,
+      "last_price": 0.00041020417669462394,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T22:31:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T19:42:21+00:00",
-      "side": "sell",
-      "symbol": "BOK",
-      "address": "Bpy8nj6vLju8JxcFnMNrHuHkbiWGt2FtrfLVwAb9pump",
-      "price": 1.175901788e-05,
-      "proceeds": 98.18,
-      "pnl_usd": 48.18,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-06T19:42:22+00:00",
-      "side": "buy",
-      "symbol": "Buto",
-      "address": "EPYdWqr13kaxVEpHoo5JvS5FRjnqNkVUSQd8fMVVpump",
-      "price": 4.950502504528147e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T19:42:22+00:00",
-      "side": "buy",
-      "symbol": "RIP",
-      "address": "6EKekUmunHvZshLDZw3wtjzbidzQXs59rc1jF33Bpump",
-      "price": 4.946253171468312e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T19:42:22+00:00",
       "side": "buy",
@@ -4516,6 +4517,30 @@
       "address": "8pdA1WmR1BGEXqSu8D8RHjoWHhKij3Npigr6u1N6pump",
       "price": 2.8119387692685308e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T22:31:44+00:00",
+      "side": "buy",
+      "symbol": "Dave",
+      "address": "AjwGC5PD7d4BYm81Qrp5Eqi2EBZejWby8snUEXrVpump",
+      "price": 8.842356186646593e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T22:31:44+00:00",
+      "side": "buy",
+      "symbol": "Anthropic",
+      "address": "ivdERh8PJC5m7mHz1b5ABLArttiE92T8bcaDAcmpump",
+      "price": 0.00036543128834464004,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T22:31:44+00:00",
+      "side": "buy",
+      "symbol": "ChatGPT",
+      "address": "Eq2dcoUkLKzPNh1QFHv4v8xE5fHHTrGR3dTUCC7Qpump",
+      "price": 0.0004228890890503419,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5574,6 +5599,10 @@
     {
       "date": "2026-10-08T21:52:03+00:00",
       "equity": 3600012.88
+    },
+    {
+      "date": "2026-10-08T22:31:44+00:00",
+      "equity": 3600006.91
     }
   ]
 }
