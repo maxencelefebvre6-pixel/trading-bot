@@ -1,51 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3461512.6807059036,
+  "cash": 3461440.4373936425,
   "positions": {
     "Goh59QCfoX53RgJa615vzXx4swR3mv51VgvAN6ZCpump": {
       "symbol": "GOIF",
       "qty": 284.260294575232,
       "entry_price": 0.17413617358684397,
-      "last_price": 0.1704593059,
+      "last_price": 0.1722867622,
       "cost": 50.0,
       "entry_time": "2026-10-08T01:03:38+00:00",
       "missing": 0
     },
-    "7Ymqb2PaEbQjTwRADPgE8TtHHdUMpkzWS62DHVhppump": {
-      "symbol": "Topless",
-      "qty": 496172.85731928004,
-      "entry_price": 9.976361921012432e-05,
-      "last_price": 9.673873077941064e-05,
+    "HaAoBYsKy9d7n41shx8HDE5jazYWYsiQLD826zqLpump": {
+      "symbol": "Lupita",
+      "qty": 1041196.6704748855,
+      "entry_price": 4.754145052867222e-05,
+      "last_price": 4.60443077708109e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T01:25:49+00:00",
+      "entry_time": "2026-10-08T01:47:58+00:00",
+      "missing": 0
+    },
+    "6HBCngXNBst7r3MiXAgr1bCRahZnGBLoaTLE8saCpump": {
+      "symbol": "BOZ",
+      "qty": 531198.8733000868,
+      "entry_price": 9.318543861450601e-05,
+      "last_price": 9.035893982595154e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T01:47:58+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T02:48:59+00:00",
-      "side": "buy",
-      "symbol": "UP",
-      "address": "52FwKksBQPeUnV9jtrwRvdrUgijH93iBAHqZXtHFpump",
-      "price": 4.9034815918777086e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T02:48:59+00:00",
-      "side": "buy",
-      "symbol": "D O T F",
-      "address": "3oa5Gy38GwD5aRZHuitScfVfGafhYPPn7D5XYFgPpump",
-      "price": 0.011186747848058502,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T02:48:59+00:00",
-      "side": "buy",
-      "symbol": "ATM",
-      "address": "Y1s5GdrRPC44EV1CGrkB6rBgTpzcSWWwaWdo4VApump",
-      "price": 1.3225195894656419e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T03:03:22+00:00",
       "side": "sell",
@@ -4519,6 +4504,32 @@
       "address": "7Ymqb2PaEbQjTwRADPgE8TtHHdUMpkzWS62DHVhppump",
       "price": 9.976361921012432e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T01:47:57+00:00",
+      "side": "sell",
+      "symbol": "Topless",
+      "address": "7Ymqb2PaEbQjTwRADPgE8TtHHdUMpkzWS62DHVhppump",
+      "price": 0.0001130132691,
+      "proceeds": 27.76,
+      "pnl_usd": -22.24,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T01:47:58+00:00",
+      "side": "buy",
+      "symbol": "Lupita",
+      "address": "HaAoBYsKy9d7n41shx8HDE5jazYWYsiQLD826zqLpump",
+      "price": 4.754145052867222e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T01:47:58+00:00",
+      "side": "buy",
+      "symbol": "BOZ",
+      "address": "6HBCngXNBst7r3MiXAgr1bCRahZnGBLoaTLE8saCpump",
+      "price": 9.318543861450601e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5357,6 +5368,10 @@
     {
       "date": "2026-10-08T01:25:49+00:00",
       "equity": 3461609.13
+    },
+    {
+      "date": "2026-10-08T01:47:58+00:00",
+      "equity": 3461585.35
     }
   ]
 }
