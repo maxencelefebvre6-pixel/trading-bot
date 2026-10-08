@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3460659.534382867,
-  "positions": {
-    "8gj52AG7G6tkFrGuHeB6rfNJMBqVizsYeTzJEwuEpump": {
-      "symbol": "mimo",
-      "qty": 3819395.6883323784,
-      "entry_price": 1.2960165439578388e-05,
-      "last_price": 1.248801086385973e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T11:22:40+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3460671.5233632093,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-06T11:21:58+00:00",
-      "side": "buy",
-      "symbol": "sanctum",
-      "address": "F8S9qY1qFYACrSaCogPF2yzwH84q3Boq7VRsTKuLpump",
-      "price": 1.1405787692462028e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T11:21:58+00:00",
       "side": "buy",
@@ -4514,6 +4496,16 @@
       "address": "8gj52AG7G6tkFrGuHeB6rfNJMBqVizsYeTzJEwuEpump",
       "price": 1.2960165439578388e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T11:43:32+00:00",
+      "side": "sell",
+      "symbol": "mimo",
+      "address": "8gj52AG7G6tkFrGuHeB6rfNJMBqVizsYeTzJEwuEpump",
+      "price": 3.285456996e-06,
+      "proceeds": 11.99,
+      "pnl_usd": -38.01,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5464,6 +5456,10 @@
     {
       "date": "2026-10-08T11:22:40+00:00",
       "equity": 3460707.23
+    },
+    {
+      "date": "2026-10-08T11:43:32+00:00",
+      "equity": 3460671.52
     }
   ]
 }
