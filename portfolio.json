@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3600019.592084442,
+  "cash": 3600066.271664186,
   "positions": {
-    "4tSrhyh2WSTht6DrtiuWGD5BYDkyNMHFT5c7vxCdpump": {
-      "symbol": "ATFS",
-      "qty": 3335.584207033314,
-      "entry_price": 0.014839979124384197,
-      "last_price": 0.01441450618,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T14:54:50+00:00",
-      "missing": 0
-    },
     "FrGioZqyeWMb58crwk5yp65MDJb2iskAussHDi6upump": {
       "symbol": "Mario64",
       "qty": 555872.4641548838,
@@ -22,14 +13,6 @@
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T15:40:50+00:00",
-      "side": "buy",
-      "symbol": "VOCAL",
-      "address": "9PJXUAZbtyk6z2JVvPvNfBBNrFgSs8eFnaxzAQZRpump",
-      "price": 1.3335647271892016e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T15:59:04+00:00",
       "side": "sell",
@@ -4521,6 +4504,16 @@
       "proceeds": 12.62,
       "pnl_usd": -37.38,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T16:01:10+00:00",
+      "side": "sell",
+      "symbol": "ATFS",
+      "address": "4tSrhyh2WSTht6DrtiuWGD5BYDkyNMHFT5c7vxCdpump",
+      "price": 0.01457735509,
+      "proceeds": 46.68,
+      "pnl_usd": -3.32,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -5515,6 +5508,10 @@
     {
       "date": "2026-10-08T15:40:33+00:00",
       "equity": 3600121.11
+    },
+    {
+      "date": "2026-10-08T16:01:10+00:00",
+      "equity": 3600119.71
     }
   ]
 }
