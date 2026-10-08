@@ -1,74 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3460320.1616651993,
+  "cash": 3460281.0227661543,
   "positions": {
-    "2bCwqeEgkeXmtH3FhLMaxi9H58hLtVP7rzoJUJdWpump": {
-      "symbol": "SARP",
-      "qty": 7897.909051080838,
-      "entry_price": 0.006267481643540307,
-      "last_price": 0.006419149297,
+    "DEqh8K3jPjxeUtMBGsJgJ4XbDntNZ7kcbRAeigBZpump": {
+      "symbol": "FLIP",
+      "qty": 550623.5265580859,
+      "entry_price": 8.989808392209734e-05,
+      "last_price": 8.716681974889211e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T12:58:55+00:00",
-      "missing": 0
-    },
-    "AvcXontTzcT6eYLnx83rHMSJRhQ7H4HXpYvcgCGYpump": {
-      "symbol": "STONKS",
-      "qty": 3381671.5690926705,
-      "entry_price": 1.4637731367059175e-05,
-      "last_price": 1.4109111899010899e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T13:25:45+00:00",
-      "missing": 0
-    },
-    "AMKXdN3j6ATk1WJa9v9hjW2AGi8Qf1EszonwKJaqpump": {
-      "symbol": "Auruphil",
-      "qty": 1414133.859942624,
-      "entry_price": 3.500375841506855e-05,
-      "last_price": 3.379411536987716e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T13:25:45+00:00",
+      "entry_time": "2026-10-08T13:49:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T13:55:01+00:00",
-      "side": "sell",
-      "symbol": "RALLY",
-      "address": "BkAVWGL4j3tfh1qgZuJzra64E1FuH7hf5PEADQLvpump",
-      "price": 0.01929447284,
-      "proceeds": 9511.16,
-      "pnl_usd": 9461.16,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T13:55:01+00:00",
-      "side": "sell",
-      "symbol": "MEME",
-      "address": "6QofvHjvUAe833epmVpkwT2p7vqW51DFWRBiWm1zpump",
-      "price": 2.828920648e-06,
-      "proceeds": 2.06,
-      "pnl_usd": -47.94,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T13:55:01+00:00",
-      "side": "sell",
-      "symbol": "KING",
-      "address": "Dr52hFb2nWCe5HwVfLWXitBsKKDffXTavLkDTTd1pump",
-      "price": 2.801885738e-07,
-      "proceeds": 1.51,
-      "pnl_usd": -48.49,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T13:55:02+00:00",
-      "side": "buy",
-      "symbol": "PAR",
-      "address": "6jUeqsWiSPz54iUXzaEt6d1m3DPxJj6q4VWhi8Gpump",
-      "price": 1.619482915724133e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T13:55:02+00:00",
       "side": "buy",
@@ -4530,6 +4474,44 @@
       "address": "AMKXdN3j6ATk1WJa9v9hjW2AGi8Qf1EszonwKJaqpump",
       "price": 3.500375841506855e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T13:49:11+00:00",
+      "side": "sell",
+      "symbol": "SARP",
+      "address": "2bCwqeEgkeXmtH3FhLMaxi9H58hLtVP7rzoJUJdWpump",
+      "price": 1.957038349e-06,
+      "proceeds": 0.01,
+      "pnl_usd": -49.99,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T13:49:11+00:00",
+      "side": "sell",
+      "symbol": "STONKS",
+      "address": "AvcXontTzcT6eYLnx83rHMSJRhQ7H4HXpYvcgCGYpump",
+      "price": 2.07163043e-06,
+      "proceeds": 6.56,
+      "pnl_usd": -43.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T13:49:11+00:00",
+      "side": "sell",
+      "symbol": "Auruphil",
+      "address": "AMKXdN3j6ATk1WJa9v9hjW2AGi8Qf1EszonwKJaqpump",
+      "price": 3.158619314e-06,
+      "proceeds": 4.28,
+      "pnl_usd": -45.72,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T13:49:12+00:00",
+      "side": "buy",
+      "symbol": "FLIP",
+      "address": "DEqh8K3jPjxeUtMBGsJgJ4XbDntNZ7kcbRAeigBZpump",
+      "price": 8.989808392209734e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5500,6 +5482,10 @@
     {
       "date": "2026-10-08T13:25:45+00:00",
       "equity": 3460466.36
+    },
+    {
+      "date": "2026-10-08T13:49:12+00:00",
+      "equity": 3460329.02
     }
   ]
 }
