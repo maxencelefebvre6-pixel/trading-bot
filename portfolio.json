@@ -1,28 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3461562.6807059036,
+  "cash": 3461512.6807059036,
   "positions": {
     "Goh59QCfoX53RgJa615vzXx4swR3mv51VgvAN6ZCpump": {
       "symbol": "GOIF",
       "qty": 284.260294575232,
       "entry_price": 0.17413617358684397,
-      "last_price": 0.1690572649562868,
+      "last_price": 0.1704593059,
       "cost": 50.0,
       "entry_time": "2026-10-08T01:03:38+00:00",
+      "missing": 0
+    },
+    "7Ymqb2PaEbQjTwRADPgE8TtHHdUMpkzWS62DHVhppump": {
+      "symbol": "Topless",
+      "qty": 496172.85731928004,
+      "entry_price": 9.976361921012432e-05,
+      "last_price": 9.673873077941064e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T01:25:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T02:07:53+00:00",
-      "side": "sell",
-      "symbol": "LEGO",
-      "address": "7Ews7L1jF3vzmzRY7hjcq2vWBSdJrZqbQ4TEKRYzpump",
-      "price": 2.22953542e-06,
-      "proceeds": 0.27,
-      "pnl_usd": -49.73,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-06T02:48:59+00:00",
       "side": "buy",
@@ -4512,6 +4511,14 @@
       "address": "Goh59QCfoX53RgJa615vzXx4swR3mv51VgvAN6ZCpump",
       "price": 0.17413617358684397,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T01:25:49+00:00",
+      "side": "buy",
+      "symbol": "Topless",
+      "address": "7Ymqb2PaEbQjTwRADPgE8TtHHdUMpkzWS62DHVhppump",
+      "price": 9.976361921012432e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5346,6 +5353,10 @@
     {
       "date": "2026-10-08T01:03:38+00:00",
       "equity": 3461610.74
+    },
+    {
+      "date": "2026-10-08T01:25:49+00:00",
+      "equity": 3461609.13
     }
   ]
 }
