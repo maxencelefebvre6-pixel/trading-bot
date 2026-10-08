@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3461476.4778688555,
+  "cash": 3461562.6807059036,
   "positions": {
-    "4aM8NFTCkCL9QySb5VssKN1B7xwbvcW8kqZcBMKUpump": {
-      "symbol": "FERSPE",
-      "qty": 5300615.448399095,
-      "entry_price": 9.338538228603269e-06,
-      "last_price": 9.017733053e-06,
+    "Goh59QCfoX53RgJa615vzXx4swR3mv51VgvAN6ZCpump": {
+      "symbol": "GOIF",
+      "qty": 284.260294575232,
+      "entry_price": 0.17413617358684397,
+      "last_price": 0.1690572649562868,
       "cost": 50.0,
-      "entry_time": "2026-10-07T23:50:47+00:00",
-      "missing": 0
-    },
-    "ASTjEb8f4vksFrxCwM651kJjKgsFTYPQnggLXt4Dpump": {
-      "symbol": "brrrrr",
-      "qty": 7423004.830407713,
-      "entry_price": 6.668458546224762e-06,
-      "last_price": 6.408519942e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T23:50:47+00:00",
-      "missing": 0
-    },
-    "DxWRozbdUhXfHe2aGiBQnJ66PPF6kZynuG4RaY6cpump": {
-      "symbol": "DOOBIE",
-      "qty": 6362542.265491636,
-      "entry_price": 7.779909026062104e-06,
-      "last_price": 7.491931973e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T23:50:47+00:00",
+      "entry_time": "2026-10-08T01:03:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T01:34:59+00:00",
-      "side": "sell",
-      "symbol": "VACCINU",
-      "address": "Chg6adcFwcfpcaJEGCwXJZceFPhjpSn4shMzodgfpump",
-      "price": 3.933471407e-06,
-      "proceeds": 18.09,
-      "pnl_usd": -31.91,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T01:51:37+00:00",
-      "side": "buy",
-      "symbol": "offchain",
-      "address": "6DgqmrLMNPDfF5ndwxS3YpTNFpAUAHgBZ16j6wt9pump",
-      "price": 9.478567590351672e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T01:51:37+00:00",
-      "side": "buy",
-      "symbol": "LEGO",
-      "address": "7Ews7L1jF3vzmzRY7hjcq2vWBSdJrZqbQ4TEKRYzpump",
-      "price": 0.00039796034874147606,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T02:07:53+00:00",
-      "side": "sell",
-      "symbol": "offchain",
-      "address": "6DgqmrLMNPDfF5ndwxS3YpTNFpAUAHgBZ16j6wt9pump",
-      "price": 4.083952533e-06,
-      "proceeds": 20.35,
-      "pnl_usd": -29.65,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-06T02:07:53+00:00",
       "side": "sell",
@@ -4528,6 +4474,44 @@
       "proceeds": 17.6,
       "pnl_usd": -32.4,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T01:03:38+00:00",
+      "side": "sell",
+      "symbol": "FERSPE",
+      "address": "4aM8NFTCkCL9QySb5VssKN1B7xwbvcW8kqZcBMKUpump",
+      "price": 9.017733053e-06,
+      "proceeds": 45.57,
+      "pnl_usd": -4.43,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T01:03:38+00:00",
+      "side": "sell",
+      "symbol": "brrrrr",
+      "address": "ASTjEb8f4vksFrxCwM651kJjKgsFTYPQnggLXt4Dpump",
+      "price": 6.408519942e-06,
+      "proceeds": 45.24,
+      "pnl_usd": -4.76,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T01:03:38+00:00",
+      "side": "sell",
+      "symbol": "DOOBIE",
+      "address": "DxWRozbdUhXfHe2aGiBQnJ66PPF6kZynuG4RaY6cpump",
+      "price": 7.491931973e-06,
+      "proceeds": 45.4,
+      "pnl_usd": -4.6,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T01:03:38+00:00",
+      "side": "buy",
+      "symbol": "GOIF",
+      "address": "Goh59QCfoX53RgJa615vzXx4swR3mv51VgvAN6ZCpump",
+      "price": 0.17413617358684397,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5358,6 +5342,10 @@
     {
       "date": "2026-10-08T00:39:41+00:00",
       "equity": 3461619.52
+    },
+    {
+      "date": "2026-10-08T01:03:38+00:00",
+      "equity": 3461610.74
     }
   ]
 }
