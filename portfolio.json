@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3600066.271664186,
+  "cash": 3600017.445006324,
   "positions": {
-    "FrGioZqyeWMb58crwk5yp65MDJb2iskAussHDi6upump": {
-      "symbol": "Mario64",
-      "qty": 555872.4641548838,
-      "entry_price": 8.904920317515085e-05,
-      "last_price": 9.613442134e-05,
+    "Bw8H9ZNSwj71JzYBMDWVQfHRMt93R7GxSLK3Gsvxpump": {
+      "symbol": "fun",
+      "qty": 2302386.030794939,
+      "entry_price": 2.1499435515124827e-05,
+      "last_price": 2.080418756423573e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T15:16:22+00:00",
+      "entry_time": "2026-10-08T16:27:44+00:00",
+      "missing": 0
+    },
+    "P9kUGHZ83yGzsRqkjpsn15WmDeaCHSqJoz1hpDQpump": {
+      "symbol": "$BWIZ",
+      "qty": 2787847.055179779,
+      "entry_price": 1.775563688403556e-05,
+      "last_price": 1.713410971620914e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T16:27:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T15:59:04+00:00",
-      "side": "sell",
-      "symbol": "DUMP",
-      "address": "E8fWUeUa8awSWfKPMsn1vWstpRt1XHp3mmrUEVjjpump",
-      "price": 1.734935657e-05,
-      "proceeds": 45.82,
-      "pnl_usd": -4.18,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-06T15:59:04+00:00",
-      "side": "sell",
-      "symbol": "Nike",
-      "address": "9vFLZsgd2TpPWoJuYcgMNrX1STxJ4TQckDKTgyk7pump",
-      "price": 2.139433253e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T15:59:04+00:00",
-      "side": "buy",
-      "symbol": "Hero",
-      "address": "2ekWVpV5r2urvecgoxKwL9rdWbGbuypdm9meXDJCpump",
-      "price": 4.9685387013043536e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T15:59:04+00:00",
       "side": "buy",
@@ -4514,6 +4495,32 @@
       "proceeds": 46.68,
       "pnl_usd": -3.32,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T16:27:44+00:00",
+      "side": "sell",
+      "symbol": "Mario64",
+      "address": "FrGioZqyeWMb58crwk5yp65MDJb2iskAussHDi6upump",
+      "price": 9.613442134e-05,
+      "proceeds": 51.17,
+      "pnl_usd": 1.17,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T16:27:44+00:00",
+      "side": "buy",
+      "symbol": "fun",
+      "address": "Bw8H9ZNSwj71JzYBMDWVQfHRMt93R7GxSLK3Gsvxpump",
+      "price": 2.1499435515124827e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T16:27:44+00:00",
+      "side": "buy",
+      "symbol": "$BWIZ",
+      "address": "P9kUGHZ83yGzsRqkjpsn15WmDeaCHSqJoz1hpDQpump",
+      "price": 1.775563688403556e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5512,6 +5519,10 @@
     {
       "date": "2026-10-08T16:01:10+00:00",
       "equity": 3600119.71
+    },
+    {
+      "date": "2026-10-08T16:27:44+00:00",
+      "equity": 3600113.11
     }
   ]
 }
