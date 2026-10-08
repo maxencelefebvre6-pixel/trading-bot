@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3460864.284274074,
+  "cash": 3460856.3679527757,
   "positions": {
-    "AMdB8FNui7vhYJbqi2dCzKpjy5Woekc5KHjLBoP4pump": {
-      "symbol": "IRL",
-      "qty": 5985540.238236858,
-      "entry_price": 8.26993020342322e-06,
-      "last_price": 7.960015960222835e-06,
+    "B53Z1z5o4erVEMcmPT8MFn9aKb8UNpTu64b9SVCTpump": {
+      "symbol": "$TRUMPALG",
+      "qty": 6358340.260371842,
+      "entry_price": 7.785050496354718e-06,
+      "last_price": 7.4947801001603425e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-08T06:31:56+00:00",
-      "missing": 0
-    },
-    "3GywUAm9MYM4Akpd3U3X7GB1FGgRmARS4ejADig2pump": {
-      "symbol": "G CANDLE",
-      "qty": 7419340.725769512,
-      "entry_price": 6.671751821300269e-06,
-      "last_price": 6.415966673181757e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T06:31:56+00:00",
+      "entry_time": "2026-10-08T06:58:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T07:55:29+00:00",
-      "side": "sell",
-      "symbol": "R32",
-      "address": "8oR5b2PniSoQ1zJ66nd8LtZzPekbXvk9GHMSppWbpump",
-      "price": 3.364967469e-06,
-      "proceeds": 19.35,
-      "pnl_usd": -30.65,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T07:55:29+00:00",
-      "side": "buy",
-      "symbol": "RAM",
-      "address": "D4rxi85GiED267AgsDFyJytDyQKfg1FuMCaPJS3hpump",
-      "price": 5.021037236240319e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T07:55:29+00:00",
-      "side": "buy",
-      "symbol": "drillcat",
-      "address": "8WNJBRAirQJPGxf255NbiLMfdzuPigmpRC1wzNQZpump",
-      "price": 4.937338494763468e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T07:55:29+00:00",
       "side": "buy",
@@ -4521,6 +4486,34 @@
       "address": "3GywUAm9MYM4Akpd3U3X7GB1FGgRmARS4ejADig2pump",
       "price": 6.671751821300269e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T06:58:51+00:00",
+      "side": "sell",
+      "symbol": "IRL",
+      "address": "AMdB8FNui7vhYJbqi2dCzKpjy5Woekc5KHjLBoP4pump",
+      "price": 3.247536508e-06,
+      "proceeds": 18.52,
+      "pnl_usd": -31.48,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T06:58:51+00:00",
+      "side": "sell",
+      "symbol": "G CANDLE",
+      "address": "3GywUAm9MYM4Akpd3U3X7GB1FGgRmARS4ejADig2pump",
+      "price": 6.415966673e-06,
+      "proceeds": 23.56,
+      "pnl_usd": -26.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T06:58:51+00:00",
+      "side": "buy",
+      "symbol": "$TRUMPALG",
+      "address": "B53Z1z5o4erVEMcmPT8MFn9aKb8UNpTu64b9SVCTpump",
+      "price": 7.785050496354718e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5419,6 +5412,10 @@
     {
       "date": "2026-10-08T06:31:56+00:00",
       "equity": 3460959.53
+    },
+    {
+      "date": "2026-10-08T06:58:51+00:00",
+      "equity": 3460904.02
     }
   ]
 }
