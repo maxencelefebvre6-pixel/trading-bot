@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3460765.885637834,
+  "cash": 3460615.885637834,
   "positions": {
     "7mf513hDoMbKL3wC2KYsr3eAhFCoPpgBbUrVj1A9pump": {
       "symbol": "polaris",
@@ -19,39 +19,36 @@
       "cost": 50.0,
       "entry_time": "2026-10-08T07:45:55+00:00",
       "missing": 0
+    },
+    "8geiCBXLZAryr3HFYAo4FJKJyUE1Hd4TQPUCChkfpump": {
+      "symbol": "SOLCAT",
+      "qty": 123520.33323767805,
+      "entry_price": 0.0004007437375088036,
+      "last_price": 0.0003884285957262708,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T08:27:50+00:00",
+      "missing": 0
+    },
+    "CeNKRKYi9xU8Jh8b7pDDjPDwkvUDo5Dc73JAVXWZpump": {
+      "symbol": "wrld",
+      "qty": 539945.6084017794,
+      "entry_price": 9.167590073844347e-05,
+      "last_price": 8.889381040328386e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T08:27:50+00:00",
+      "missing": 0
+    },
+    "BYQxkr1DYpbag2S9JMsUBg8YVAYLH6qCGrk8ccU2pump": {
+      "symbol": "SCRVAN",
+      "qty": 1261107.9984000276,
+      "entry_price": 3.925119820253367e-05,
+      "last_price": 3.8046166079662434e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T08:27:50+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T08:17:46+00:00",
-      "side": "sell",
-      "symbol": "MINEPAD",
-      "address": "5nFY2FdPDEQrbQsNUL3Sx8Qv7pFyB43Ckw3ShYDupump",
-      "price": 3.283461938e-06,
-      "proceeds": 4.43,
-      "pnl_usd": -45.57,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T08:17:46+00:00",
-      "side": "sell",
-      "symbol": "Pika",
-      "address": "4W5tihkXssrC8ziBZQVR5ezCXRDM9QPNgMStSFgUpump",
-      "price": 4.773214588e-06,
-      "proceeds": 22.55,
-      "pnl_usd": -27.45,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T08:17:46+00:00",
-      "side": "sell",
-      "symbol": "CHAIN",
-      "address": "2Uqit4ifUmxa6qpJ9gh8ehTSzhRLGqTQv2oFrKhppump",
-      "price": 3.531526833e-06,
-      "proceeds": 21.61,
-      "pnl_usd": -28.39,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-06T08:38:48+00:00",
       "side": "sell",
@@ -4525,6 +4522,30 @@
       "proceeds": 29.54,
       "pnl_usd": -20.46,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T08:27:50+00:00",
+      "side": "buy",
+      "symbol": "SOLCAT",
+      "address": "8geiCBXLZAryr3HFYAo4FJKJyUE1Hd4TQPUCChkfpump",
+      "price": 0.0004007437375088036,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T08:27:50+00:00",
+      "side": "buy",
+      "symbol": "wrld",
+      "address": "CeNKRKYi9xU8Jh8b7pDDjPDwkvUDo5Dc73JAVXWZpump",
+      "price": 9.167590073844347e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T08:27:50+00:00",
+      "side": "buy",
+      "symbol": "SCRVAN",
+      "address": "BYQxkr1DYpbag2S9JMsUBg8YVAYLH6qCGrk8ccU2pump",
+      "price": 3.925119820253367e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5439,6 +5460,10 @@
     {
       "date": "2026-10-08T08:02:26+00:00",
       "equity": 3460861.36
+    },
+    {
+      "date": "2026-10-08T08:27:50+00:00",
+      "equity": 3460855.31
     }
   ]
 }
