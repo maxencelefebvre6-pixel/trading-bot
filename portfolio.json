@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 3460598.9572361833,
+  "cash": 3460633.1940519693,
   "positions": {
-    "vZiMwNxyHz4gtqaPYcDymFtjQ68C5tBMYnzKkixpump": {
-      "symbol": "LEGO",
-      "qty": 127824.44655217127,
-      "entry_price": 0.0003872498675736232,
-      "last_price": 0.000375629238657152,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T09:33:48+00:00",
-      "missing": 0
-    },
     "38bGyrSpxjdeGBPwvmjvVbYPtAmSfGhh4ULGV3UJpump": {
       "symbol": "PUMP",
       "qty": 3103257.485965399,
       "entry_price": 1.5950980614359474e-05,
-      "last_price": 1.5422051932469642e-05,
+      "last_price": 1.542205193e-05,
       "cost": 50.0,
       "entry_time": "2026-10-08T09:33:48+00:00",
       "missing": 0
@@ -24,31 +15,22 @@
       "symbol": "cap",
       "qty": 17835186.973230347,
       "entry_price": 2.7754124514812673e-06,
-      "last_price": 2.6729854012141045e-06,
+      "last_price": 2.656899571e-06,
       "cost": 50.0,
       "entry_time": "2026-10-08T09:33:48+00:00",
+      "missing": 0
+    },
+    "3JLgcgtNV88y9oomnUkuVaf824oj3n4aUuqo13K8pump": {
+      "symbol": "PUMP",
+      "qty": 2110797.176120169,
+      "entry_price": 2.3450855705134755e-05,
+      "last_price": 2.2695430443982316e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T09:55:22+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T09:42:09+00:00",
-      "side": "sell",
-      "symbol": "CASHCOW",
-      "address": "5QnqyA8FrTjQc15WuE9kRnuKfDuW2zuzru462L8Npump",
-      "price": 1.292759663e-07,
-      "proceeds": 0.73,
-      "pnl_usd": -49.27,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T09:42:09+00:00",
-      "side": "buy",
-      "symbol": "GrenCAT",
-      "address": "8YqFyE8ho81cV84W5GtAFNJWeGze9JRQTq8LEX8Apump",
-      "price": 5.408823554576666e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T09:59:15+00:00",
       "side": "sell",
@@ -4532,6 +4514,24 @@
       "address": "33vFVwqvaksdHxcRb2MJ1AACYTkrcm9AghXKdh64pump",
       "price": 2.7754124514812673e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T09:55:21+00:00",
+      "side": "sell",
+      "symbol": "LEGO",
+      "address": "vZiMwNxyHz4gtqaPYcDymFtjQ68C5tBMYnzKkixpump",
+      "price": 0.0006879279014,
+      "proceeds": 84.24,
+      "pnl_usd": 34.24,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T09:55:22+00:00",
+      "side": "buy",
+      "symbol": "PUMP",
+      "address": "3JLgcgtNV88y9oomnUkuVaf824oj3n4aUuqo13K8pump",
+      "price": 2.3450855705134755e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5462,6 +5462,10 @@
     {
       "date": "2026-10-08T09:33:48+00:00",
       "equity": 3460742.5
+    },
+    {
+      "date": "2026-10-08T09:55:22+00:00",
+      "equity": 3460776.34
     }
   ]
 }
