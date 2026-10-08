@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 3460691.102038961,
+  "cash": 3460765.885637834,
   "positions": {
-    "B53Z1z5o4erVEMcmPT8MFn9aKb8UNpTu64b9SVCTpump": {
-      "symbol": "$TRUMPALG",
-      "qty": 6358340.260371842,
-      "entry_price": 7.785050496354718e-06,
-      "last_price": 7.473972212e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T06:58:51+00:00",
-      "missing": 0
-    },
-    "6Aug5n6KjCfu8JmMk1xxCxoqtyprD3uNcmHF4Phdpump": {
-      "symbol": "Penguin",
-      "qty": 1057542.730519874,
-      "entry_price": 4.680661931803593e-05,
-      "last_price": 4.531047895964577e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T07:45:55+00:00",
-      "missing": 0
-    },
     "7mf513hDoMbKL3wC2KYsr3eAhFCoPpgBbUrVj1A9pump": {
       "symbol": "polaris",
       "qty": 6822009.201989103,
       "entry_price": 7.2559268881618066e-06,
-      "last_price": 6.98140202141931e-06,
+      "last_price": 6.984081706e-06,
       "cost": 50.0,
       "entry_time": "2026-10-08T07:45:55+00:00",
       "missing": 0
@@ -33,33 +15,13 @@
       "symbol": "Wam",
       "qty": 3671736.2482019933,
       "entry_price": 1.3481360493755393e-05,
-      "last_price": 1.302514342062982e-05,
+      "last_price": 1.302514342e-05,
       "cost": 50.0,
       "entry_time": "2026-10-08T07:45:55+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T08:17:46+00:00",
-      "side": "sell",
-      "symbol": "RAM",
-      "address": "D4rxi85GiED267AgsDFyJytDyQKfg1FuMCaPJS3hpump",
-      "price": 0.0001976493023,
-      "proceeds": 96.45,
-      "pnl_usd": 46.45,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T08:17:46+00:00",
-      "side": "sell",
-      "symbol": "drillcat",
-      "address": "8WNJBRAirQJPGxf255NbiLMfdzuPigmpRC1wzNQZpump",
-      "price": 5.457703823e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-06T08:17:46+00:00",
       "side": "sell",
@@ -4543,6 +4505,26 @@
       "address": "CzdB7ZWrLANFDo7eHpjhh32KTo44mZtLZLht67Mppump",
       "price": 1.3481360493755393e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T08:02:25+00:00",
+      "side": "sell",
+      "symbol": "$TRUMPALG",
+      "address": "B53Z1z5o4erVEMcmPT8MFn9aKb8UNpTu64b9SVCTpump",
+      "price": 7.473972212e-06,
+      "proceeds": 45.24,
+      "pnl_usd": -4.76,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T08:02:25+00:00",
+      "side": "sell",
+      "symbol": "Penguin",
+      "address": "6Aug5n6KjCfu8JmMk1xxCxoqtyprD3uNcmHF4Phdpump",
+      "price": 2.91991495e-05,
+      "proceeds": 29.54,
+      "pnl_usd": -20.46,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5453,6 +5435,10 @@
     {
       "date": "2026-10-08T07:45:55+00:00",
       "equity": 3460881.99
+    },
+    {
+      "date": "2026-10-08T08:02:26+00:00",
+      "equity": 3460861.36
     }
   ]
 }
