@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 3600006.971107061,
+  "cash": 3600019.592084442,
   "positions": {
     "4tSrhyh2WSTht6DrtiuWGD5BYDkyNMHFT5c7vxCdpump": {
       "symbol": "ATFS",
       "qty": 3335.584207033314,
       "entry_price": 0.014839979124384197,
-      "last_price": 0.01450243685,
+      "last_price": 0.01441450618,
       "cost": 50.0,
       "entry_time": "2026-10-08T14:54:50+00:00",
       "missing": 0
@@ -15,30 +15,13 @@
       "symbol": "Mario64",
       "qty": 555872.4641548838,
       "entry_price": 8.904920317515085e-05,
-      "last_price": 8.634359277089155e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T15:16:22+00:00",
-      "missing": 0
-    },
-    "6WSiuXb3djhMuFd6edCd7uyfPz1UcVHywwpBmLp3pump": {
-      "symbol": "EPS",
-      "qty": 4336068.889293664,
-      "entry_price": 1.1415870287997993e-05,
-      "last_price": 1.0983447120374589e-05,
+      "last_price": 9.613442134e-05,
       "cost": 50.0,
       "entry_time": "2026-10-08T15:16:22+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T15:40:50+00:00",
-      "side": "buy",
-      "symbol": "Nike",
-      "address": "9vFLZsgd2TpPWoJuYcgMNrX1STxJ4TQckDKTgyk7pump",
-      "price": 0.00045224975923145077,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T15:40:50+00:00",
       "side": "buy",
@@ -4528,6 +4511,16 @@
       "address": "6WSiuXb3djhMuFd6edCd7uyfPz1UcVHywwpBmLp3pump",
       "price": 1.1415870287997993e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T15:40:33+00:00",
+      "side": "sell",
+      "symbol": "EPS",
+      "address": "6WSiuXb3djhMuFd6edCd7uyfPz1UcVHywwpBmLp3pump",
+      "price": 3.048208311e-06,
+      "proceeds": 12.62,
+      "pnl_usd": -37.38,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5518,6 +5511,10 @@
     {
       "date": "2026-10-08T15:16:22+00:00",
       "equity": 3600150.97
+    },
+    {
+      "date": "2026-10-08T15:40:33+00:00",
+      "equity": 3600121.11
     }
   ]
 }
