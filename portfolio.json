@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3600016.2099266136,
+  "cash": 3600168.837464227,
   "positions": {
-    "E4nndVCm5c9efh9dFcFt7e89qHMSGayjvt6mchULpump": {
-      "symbol": "pear",
-      "qty": 2571355.834824368,
-      "entry_price": 1.9250544529703727e-05,
-      "last_price": 1.864847425e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T19:02:28+00:00",
-      "missing": 0
-    },
     "BDKqMLMzK36sSTrUAWxypkFAEwgcApFwuYWLSJ6epump": {
       "symbol": "meme",
       "qty": 15652394.868438214,
@@ -20,52 +11,26 @@
       "entry_time": "2026-10-08T19:25:32+00:00",
       "missing": 0
     },
-    "DPkQdwhs9ojo1zjwJcujZB7mwpQxFoQKx1UG7o7cpump": {
-      "symbol": "Pumpfolio",
-      "qty": 566919.171536998,
-      "entry_price": 8.731403431956359e-05,
-      "last_price": 8.465891008103424e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T19:47:25+00:00",
-      "missing": 0
-    },
     "DxFtvbRJ2xLkZmyAgFwrSYyUu2kbi9LcvSjebms8pump": {
       "symbol": "theranos",
       "qty": 1856423.9696242942,
       "entry_price": 2.66641676739489e-05,
-      "last_price": 2.574237374953805e-05,
+      "last_price": 2.576240891e-05,
       "cost": 50.0,
       "entry_time": "2026-10-08T19:47:25+00:00",
+      "missing": 0
+    },
+    "GFcbjmAdCVT5PFpTmXAqgMKMtn6qZjTM4egWVA5epump": {
+      "symbol": "pruple",
+      "qty": 6092564.729361476,
+      "entry_price": 8.124657217255004e-06,
+      "last_price": 7.826561758115502e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T20:03:22+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T17:42:02+00:00",
-      "side": "buy",
-      "symbol": "FORTPAD",
-      "address": "877DuAWChSwXCDogPoKj6EBgsFearMt3D4WGQ42Zpump",
-      "price": 4.9239030226586954e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T17:59:04+00:00",
-      "side": "sell",
-      "symbol": "FORTPAD",
-      "address": "877DuAWChSwXCDogPoKj6EBgsFearMt3D4WGQ42Zpump",
-      "price": 6.39843331e-05,
-      "proceeds": 31.84,
-      "pnl_usd": -18.16,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T17:59:04+00:00",
-      "side": "buy",
-      "symbol": "DRUKE",
-      "address": "EcxvvZEpS4ttPXRsGwy6xvmdwJDPW8dMxFrB48GRpump",
-      "price": 1.2646045878556836e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T17:59:04+00:00",
       "side": "buy",
@@ -4535,6 +4500,34 @@
       "address": "DxFtvbRJ2xLkZmyAgFwrSYyUu2kbi9LcvSjebms8pump",
       "price": 2.66641676739489e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T20:03:22+00:00",
+      "side": "sell",
+      "symbol": "pear",
+      "address": "E4nndVCm5c9efh9dFcFt7e89qHMSGayjvt6mchULpump",
+      "price": 1.864847425e-05,
+      "proceeds": 45.88,
+      "pnl_usd": -4.12,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T20:03:22+00:00",
+      "side": "sell",
+      "symbol": "Pumpfolio",
+      "address": "DPkQdwhs9ojo1zjwJcujZB7mwpQxFoQKx1UG7o7cpump",
+      "price": 0.0005585560899,
+      "proceeds": 156.74,
+      "pnl_usd": 106.74,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T20:03:22+00:00",
+      "side": "buy",
+      "symbol": "pruple",
+      "address": "GFcbjmAdCVT5PFpTmXAqgMKMtn6qZjTM4egWVA5epump",
+      "price": 8.124657217255004e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5569,6 +5562,10 @@
     {
       "date": "2026-10-08T19:47:25+00:00",
       "equity": 3600207.64
+    },
+    {
+      "date": "2026-10-08T20:03:22+00:00",
+      "equity": 3600312.04
     }
   ]
 }
