@@ -1,72 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3461440.4373936425,
+  "cash": 3461427.5663171136,
   "positions": {
     "Goh59QCfoX53RgJa615vzXx4swR3mv51VgvAN6ZCpump": {
       "symbol": "GOIF",
       "qty": 284.260294575232,
       "entry_price": 0.17413617358684397,
-      "last_price": 0.1722867622,
+      "last_price": 0.1732606577,
       "cost": 50.0,
       "entry_time": "2026-10-08T01:03:38+00:00",
       "missing": 0
     },
-    "HaAoBYsKy9d7n41shx8HDE5jazYWYsiQLD826zqLpump": {
-      "symbol": "Lupita",
-      "qty": 1041196.6704748855,
-      "entry_price": 4.754145052867222e-05,
-      "last_price": 4.60443077708109e-05,
+    "4ZvrSAshSGaDah4DUJij8yGwaVrjHbQeafZ68Exkpump": {
+      "symbol": "SKATE3",
+      "qty": 1036636.1590555256,
+      "entry_price": 4.775060137309818e-05,
+      "last_price": 4.624686556378196e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T01:47:58+00:00",
+      "entry_time": "2026-10-08T02:02:43+00:00",
       "missing": 0
     },
-    "6HBCngXNBst7r3MiXAgr1bCRahZnGBLoaTLE8saCpump": {
-      "symbol": "BOZ",
-      "qty": 531198.8733000868,
-      "entry_price": 9.318543861450601e-05,
-      "last_price": 9.035893982595154e-05,
+    "4LMZ26yaVVYUN2o1x6MKzJTkHWAJPgK2sYeZ66oUpump": {
+      "symbol": "SYN",
+      "qty": 4059343.327065598,
+      "entry_price": 1.2194090524435232e-05,
+      "last_price": 1.1730229738728671e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T01:47:58+00:00",
+      "entry_time": "2026-10-08T02:02:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T03:03:22+00:00",
-      "side": "sell",
-      "symbol": "UP",
-      "address": "52FwKksBQPeUnV9jtrwRvdrUgijH93iBAHqZXtHFpump",
-      "price": 6.518286368e-05,
-      "proceeds": 32.57,
-      "pnl_usd": -17.43,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T03:03:22+00:00",
-      "side": "sell",
-      "symbol": "ATM",
-      "address": "Y1s5GdrRPC44EV1CGrkB6rBgTpzcSWWwaWdo4VApump",
-      "price": 1.655044215e-05,
-      "proceeds": 58.23,
-      "pnl_usd": 8.23,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-06T03:03:23+00:00",
-      "side": "buy",
-      "symbol": "UP",
-      "address": "GWnejXFSxZs3NWs4uhd7oMXBzLjeozLDiqDGQ2Pqpump",
-      "price": 4.826258201071121e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T03:03:23+00:00",
-      "side": "buy",
-      "symbol": "SOL",
-      "address": "DChcLveTxjK61FXNJGwXr2hGViPT4iUTUS6jyEbypump",
-      "price": 8.948469637790674e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T03:24:24+00:00",
       "side": "sell",
@@ -4530,6 +4494,42 @@
       "address": "6HBCngXNBst7r3MiXAgr1bCRahZnGBLoaTLE8saCpump",
       "price": 9.318543861450601e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T02:02:43+00:00",
+      "side": "sell",
+      "symbol": "Lupita",
+      "address": "HaAoBYsKy9d7n41shx8HDE5jazYWYsiQLD826zqLpump",
+      "price": 6.02341607e-05,
+      "proceeds": 59.88,
+      "pnl_usd": 9.88,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T02:02:43+00:00",
+      "side": "sell",
+      "symbol": "BOZ",
+      "address": "6HBCngXNBst7r3MiXAgr1bCRahZnGBLoaTLE8saCpump",
+      "price": 0.0001036205189,
+      "proceeds": 27.25,
+      "pnl_usd": -22.75,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T02:02:43+00:00",
+      "side": "buy",
+      "symbol": "SKATE3",
+      "address": "4ZvrSAshSGaDah4DUJij8yGwaVrjHbQeafZ68Exkpump",
+      "price": 4.775060137309818e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T02:02:43+00:00",
+      "side": "buy",
+      "symbol": "SYN",
+      "address": "4LMZ26yaVVYUN2o1x6MKzJTkHWAJPgK2sYeZ66oUpump",
+      "price": 1.2194090524435232e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5372,6 +5372,10 @@
     {
       "date": "2026-10-08T01:47:58+00:00",
       "equity": 3461585.35
+    },
+    {
+      "date": "2026-10-08T02:02:43+00:00",
+      "equity": 3461572.38
     }
   ]
 }
