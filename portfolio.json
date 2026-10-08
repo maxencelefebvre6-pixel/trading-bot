@@ -1,99 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3599814.983801853,
+  "cash": 3599919.2112192777,
   "positions": {
-    "8pdA1WmR1BGEXqSu8D8RHjoWHhKij3Npigr6u1N6pump": {
-      "symbol": "yoo",
-      "qty": 1760351.2758165936,
-      "entry_price": 2.8119387692685308e-05,
-      "last_price": 2.721092321e-05,
+    "Dgte5CKAzyPYiLbzw5ng4D7takwNp3qhxE7WHNkrpump": {
+      "symbol": "SI",
+      "qty": 557394.0469220424,
+      "entry_price": 8.880611530270453e-05,
+      "last_price": 8.610735678600774e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T21:52:03+00:00",
+      "entry_time": "2026-10-08T22:52:04+00:00",
       "missing": 0
     },
-    "AjwGC5PD7d4BYm81Qrp5Eqi2EBZejWby8snUEXrVpump": {
-      "symbol": "Dave",
-      "qty": 559805.5422688482,
-      "entry_price": 8.842356186646593e-05,
-      "last_price": 8.573615402135029e-05,
+    "HirKBDK791M4XS1k9YVGRy2ukMnfATXikLhMqYpgpump": {
+      "symbol": "TikTok",
+      "qty": 560724.0586575038,
+      "entry_price": 8.827871612734763e-05,
+      "last_price": 8.559575513321973e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T22:31:44+00:00",
-      "missing": 0
-    },
-    "ivdERh8PJC5m7mHz1b5ABLArttiE92T8bcaDAcmpump": {
-      "symbol": "Anthropic",
-      "qty": 135456.3814834495,
-      "entry_price": 0.00036543128834464004,
-      "last_price": 0.0003544461205622136,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T22:31:44+00:00",
-      "missing": 0
-    },
-    "Eq2dcoUkLKzPNh1QFHv4v8xE5fHHTrGR3dTUCC7Qpump": {
-      "symbol": "ChatGPT",
-      "qty": 117051.96771843736,
-      "entry_price": 0.0004228890890503419,
-      "last_price": 0.00041020417669462394,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T22:31:44+00:00",
+      "entry_time": "2026-10-08T22:52:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T19:42:22+00:00",
-      "side": "buy",
-      "symbol": "SUPERBOT",
-      "address": "5jEJHAMBpBSWsVy8JuX5RiXzAs47g42e4si7e315pump",
-      "price": 1.4179112973794329e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T19:42:22+00:00",
-      "side": "buy",
-      "symbol": "SOUNDPAD",
-      "address": "26cm6rHtPMuQueHbJeP49SXqi2rW4hNBvs3uEVv4pump",
-      "price": 1.862178803848498e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T19:42:22+00:00",
-      "side": "buy",
-      "symbol": "CSM",
-      "address": "GoyS9ve3CZr9D9HxBzAWEs7bmNZWrdCRuhjkDgA9pump",
-      "price": 1.0465170534927561e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T19:57:46+00:00",
-      "side": "sell",
-      "symbol": "INUX",
-      "address": "6LJoRKXQ6dusV9sHmMmyHBSByRQbXcxgJ4J9yrDJpump",
-      "price": 1.847012989e-05,
-      "proceeds": 45.84,
-      "pnl_usd": -4.16,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-06T19:57:46+00:00",
-      "side": "sell",
-      "symbol": "DOLPHIN",
-      "address": "5zvfCFpkbwcCTAvXQTFMdHKM3wzCkXGZZXao2doipump",
-      "price": 1.253798945e-05,
-      "proceeds": 45.7,
-      "pnl_usd": -4.3,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-06T19:57:46+00:00",
-      "side": "sell",
-      "symbol": "PRIEST",
-      "address": "615yAEVw1TeHLsgKxfUzmapyMrxufAH9mSkVavCKpump",
-      "price": 9.772683909e-06,
-      "proceeds": 45.49,
-      "pnl_usd": -4.51,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-06T19:57:46+00:00",
       "side": "sell",
@@ -4541,6 +4469,62 @@
       "address": "Eq2dcoUkLKzPNh1QFHv4v8xE5fHHTrGR3dTUCC7Qpump",
       "price": 0.0004228890890503419,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T22:52:04+00:00",
+      "side": "sell",
+      "symbol": "yoo",
+      "address": "8pdA1WmR1BGEXqSu8D8RHjoWHhKij3Npigr6u1N6pump",
+      "price": 2.721092321e-05,
+      "proceeds": 45.89,
+      "pnl_usd": -4.11,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T22:52:04+00:00",
+      "side": "sell",
+      "symbol": "Dave",
+      "address": "AjwGC5PD7d4BYm81Qrp5Eqi2EBZejWby8snUEXrVpump",
+      "price": 9.855769642e-05,
+      "proceeds": 27.31,
+      "pnl_usd": -22.69,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T22:52:04+00:00",
+      "side": "sell",
+      "symbol": "Anthropic",
+      "address": "ivdERh8PJC5m7mHz1b5ABLArttiE92T8bcaDAcmpump",
+      "price": 0.0004615291403,
+      "proceeds": 59.9,
+      "pnl_usd": 9.9,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T22:52:04+00:00",
+      "side": "sell",
+      "symbol": "ChatGPT",
+      "address": "Eq2dcoUkLKzPNh1QFHv4v8xE5fHHTrGR3dTUCC7Qpump",
+      "price": 0.000634107411,
+      "proceeds": 71.12,
+      "pnl_usd": 21.12,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T22:52:04+00:00",
+      "side": "buy",
+      "symbol": "SI",
+      "address": "Dgte5CKAzyPYiLbzw5ng4D7takwNp3qhxE7WHNkrpump",
+      "price": 8.880611530270453e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T22:52:04+00:00",
+      "side": "buy",
+      "symbol": "TikTok",
+      "address": "HirKBDK791M4XS1k9YVGRy2ukMnfATXikLhMqYpgpump",
+      "price": 8.827871612734763e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5603,6 +5587,10 @@
     {
       "date": "2026-10-08T22:31:44+00:00",
       "equity": 3600006.91
+    },
+    {
+      "date": "2026-10-08T22:52:04+00:00",
+      "equity": 3600015.2
     }
   ]
 }
