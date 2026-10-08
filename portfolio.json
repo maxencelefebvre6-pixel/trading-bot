@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3460806.3679527757,
+  "cash": 3460691.102038961,
   "positions": {
     "B53Z1z5o4erVEMcmPT8MFn9aKb8UNpTu64b9SVCTpump": {
       "symbol": "$TRUMPALG",
@@ -11,49 +11,35 @@
       "entry_time": "2026-10-08T06:58:51+00:00",
       "missing": 0
     },
-    "8NihwynnzabWaZfGrzixzv1y3fBFMKnA2mBTCRgapump": {
-      "symbol": "MESSI",
-      "qty": 20931158.903598223,
-      "entry_price": 2.3648953327419717e-06,
-      "last_price": 2.284609069632564e-06,
+    "6Aug5n6KjCfu8JmMk1xxCxoqtyprD3uNcmHF4Phdpump": {
+      "symbol": "Penguin",
+      "qty": 1057542.730519874,
+      "entry_price": 4.680661931803593e-05,
+      "last_price": 4.531047895964577e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T07:23:38+00:00",
+      "entry_time": "2026-10-08T07:45:55+00:00",
+      "missing": 0
+    },
+    "7mf513hDoMbKL3wC2KYsr3eAhFCoPpgBbUrVj1A9pump": {
+      "symbol": "polaris",
+      "qty": 6822009.201989103,
+      "entry_price": 7.2559268881618066e-06,
+      "last_price": 6.98140202141931e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T07:45:55+00:00",
+      "missing": 0
+    },
+    "CzdB7ZWrLANFDo7eHpjhh32KTo44mZtLZLht67Mppump": {
+      "symbol": "Wam",
+      "qty": 3671736.2482019933,
+      "entry_price": 1.3481360493755393e-05,
+      "last_price": 1.302514342062982e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T07:45:55+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T07:55:29+00:00",
-      "side": "buy",
-      "symbol": "Pika",
-      "address": "4W5tihkXssrC8ziBZQVR5ezCXRDM9QPNgMStSFgUpump",
-      "price": 9.989863652886942e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T07:55:29+00:00",
-      "side": "buy",
-      "symbol": "CHAIN",
-      "address": "2Uqit4ifUmxa6qpJ9gh8ehTSzhRLGqTQv2oFrKhppump",
-      "price": 7.699457042359603e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T07:55:29+00:00",
-      "side": "buy",
-      "symbol": "VANTA",
-      "address": "5f1f9Qyw2r2wFd5ExQE9nBLo8JueCVEWgHhhmPZ9pump",
-      "price": 7.354131212883576e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T07:55:29+00:00",
-      "side": "buy",
-      "symbol": "SOL",
-      "address": "HmVjyzezaybRobpaLThRsb1EbE8SBetRH5AmeLZ4pump",
-      "price": 8.837914722664576e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T08:17:46+00:00",
       "side": "sell",
@@ -4523,6 +4509,40 @@
       "address": "8NihwynnzabWaZfGrzixzv1y3fBFMKnA2mBTCRgapump",
       "price": 2.3648953327419717e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T07:45:55+00:00",
+      "side": "sell",
+      "symbol": "MESSI",
+      "address": "8NihwynnzabWaZfGrzixzv1y3fBFMKnA2mBTCRgapump",
+      "price": 1.775790795e-06,
+      "proceeds": 34.73,
+      "pnl_usd": -15.27,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T07:45:55+00:00",
+      "side": "buy",
+      "symbol": "Penguin",
+      "address": "6Aug5n6KjCfu8JmMk1xxCxoqtyprD3uNcmHF4Phdpump",
+      "price": 4.680661931803593e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T07:45:55+00:00",
+      "side": "buy",
+      "symbol": "polaris",
+      "address": "7mf513hDoMbKL3wC2KYsr3eAhFCoPpgBbUrVj1A9pump",
+      "price": 7.2559268881618066e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T07:45:55+00:00",
+      "side": "buy",
+      "symbol": "Wam",
+      "address": "CzdB7ZWrLANFDo7eHpjhh32KTo44mZtLZLht67Mppump",
+      "price": 1.3481360493755393e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5429,6 +5449,10 @@
     {
       "date": "2026-10-08T07:23:38+00:00",
       "equity": 3460901.71
+    },
+    {
+      "date": "2026-10-08T07:45:55+00:00",
+      "equity": 3460881.99
     }
   ]
 }
