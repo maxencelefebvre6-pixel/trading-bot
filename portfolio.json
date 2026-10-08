@@ -1,83 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 3460571.5233632093,
+  "cash": 3460579.386445114,
   "positions": {
-    "9AALmABCJjvKmaKBbSZZLYLeBsshphC69eM3DVJCpump": {
-      "symbol": "LUDOR",
-      "qty": 2267522.5891189496,
-      "entry_price": 2.182999200869409e-05,
-      "last_price": 2.1046330688324598e-05,
+    "E3172BeGwdGtHYzaY3SD3H16aKcS5qVResrm58wipump": {
+      "symbol": "Gemini",
+      "qty": 121196.14197724388,
+      "entry_price": 0.00040842884263835933,
+      "last_price": 0.00039617677928114914,
       "cost": 50.0,
-      "entry_time": "2026-10-08T12:01:00+00:00",
+      "entry_time": "2026-10-08T12:31:07+00:00",
       "missing": 0
     },
-    "7eEqEXTrYjG4FbVq2PXfxJVaSRp4ZnYcD4RM1KxQpump": {
-      "symbol": "Mario64",
-      "qty": 5907770.347183662,
-      "entry_price": 8.378795567704747e-06,
-      "last_price": 8.068625520134436e-06,
+    "HnjZFqrDTp9TsRTTC5CxywhwaeCVEy3cu3uMTHpRpump": {
+      "symbol": "Quanta",
+      "qty": 5058990.866781124,
+      "entry_price": 9.784560064148778e-06,
+      "last_price": 9.417995065220603e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-08T12:01:00+00:00",
+      "entry_time": "2026-10-08T12:31:07+00:00",
+      "missing": 0
+    },
+    "D8TjijNmFz43yzVhHb2PdjhTHa785ayQupBiZRoHpump": {
+      "symbol": "HYNIX",
+      "qty": 3849115.732689163,
+      "entry_price": 1.2860096561819174e-05,
+      "last_price": 1.2391705459089795e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T12:31:07+00:00",
+      "missing": 0
+    },
+    "ErApNSfkagyfFdTtC5aG3RoqNHkPVE6x7ECfuRuMpump": {
+      "symbol": "Starcan",
+      "qty": 755.1684660280406,
+      "entry_price": 0.06554828786794441,
+      "last_price": 0.06361295189136117,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T12:31:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T11:59:21+00:00",
-      "side": "sell",
-      "symbol": "$GOAT",
-      "address": "52vzBEddVWgoAjSkzxyKbApKF3RYxAFEWuv654Tnpump",
-      "price": 6.560980132e-06,
-      "proceeds": 45.28,
-      "pnl_usd": -4.72,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-06T11:59:22+00:00",
-      "side": "buy",
-      "symbol": "TLT",
-      "address": "B8S7WGQYteNSBz4rU4Xs1hkr1seGpxYgUuV2wgtbpump",
-      "price": 0.0001258087394817384,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T11:59:22+00:00",
-      "side": "buy",
-      "symbol": "PAYBACK",
-      "address": "K8cdf9cgcVRGrVgXXPyzCGd5NLxS4QMJKRiUpfipump",
-      "price": 1.175068871886587e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T12:27:03+00:00",
-      "side": "sell",
-      "symbol": "VIRZEC",
-      "address": "CLFretPrsXRCNEaQeZndEkySCiD7iihv7h3tM8ipump",
-      "price": 9.860018171e-06,
-      "proceeds": 45.53,
-      "pnl_usd": -4.47,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-06T12:27:03+00:00",
-      "side": "sell",
-      "symbol": "sanctum",
-      "address": "F8S9qY1qFYACrSaCogPF2yzwH84q3Boq7VRsTKuLpump",
-      "price": 1.099293502e-05,
-      "proceeds": 45.46,
-      "pnl_usd": -4.54,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-06T12:27:03+00:00",
-      "side": "sell",
-      "symbol": "DODGE",
-      "address": "CkLQ2Sz9hJ3rPqTSE3irti9tNf2zhefWKGVya8adpump",
-      "price": 1.124108651e-05,
-      "proceeds": 45.53,
-      "pnl_usd": -4.47,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-06T12:27:03+00:00",
       "side": "sell",
@@ -4523,6 +4485,58 @@
       "address": "7eEqEXTrYjG4FbVq2PXfxJVaSRp4ZnYcD4RM1KxQpump",
       "price": 8.378795567704747e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T12:31:07+00:00",
+      "side": "sell",
+      "symbol": "LUDOR",
+      "address": "9AALmABCJjvKmaKBbSZZLYLeBsshphC69eM3DVJCpump",
+      "price": 4.033536283e-05,
+      "proceeds": 86.95,
+      "pnl_usd": 36.95,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T12:31:07+00:00",
+      "side": "sell",
+      "symbol": "Mario64",
+      "address": "7eEqEXTrYjG4FbVq2PXfxJVaSRp4ZnYcD4RM1KxQpump",
+      "price": 2.233288731e-05,
+      "proceeds": 120.92,
+      "pnl_usd": 70.92,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T12:31:07+00:00",
+      "side": "buy",
+      "symbol": "Gemini",
+      "address": "E3172BeGwdGtHYzaY3SD3H16aKcS5qVResrm58wipump",
+      "price": 0.00040842884263835933,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T12:31:07+00:00",
+      "side": "buy",
+      "symbol": "Quanta",
+      "address": "HnjZFqrDTp9TsRTTC5CxywhwaeCVEy3cu3uMTHpRpump",
+      "price": 9.784560064148778e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T12:31:07+00:00",
+      "side": "buy",
+      "symbol": "HYNIX",
+      "address": "D8TjijNmFz43yzVhHb2PdjhTHa785ayQupBiZRoHpump",
+      "price": 1.2860096561819174e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T12:31:07+00:00",
+      "side": "buy",
+      "symbol": "Starcan",
+      "address": "ErApNSfkagyfFdTtC5aG3RoqNHkPVE6x7ECfuRuMpump",
+      "price": 0.06554828786794441,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5481,6 +5495,10 @@
     {
       "date": "2026-10-08T12:01:00+00:00",
       "equity": 3460666.91
+    },
+    {
+      "date": "2026-10-08T12:31:07+00:00",
+      "equity": 3460770.78
     }
   ]
 }
