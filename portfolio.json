@@ -1,81 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 3461086.5928825075,
+  "cash": 3460977.7114282404,
   "positions": {
-    "BNMrHLqHkyJr6L41ppvNHEeCDcfX8yRjLweSezfHpump": {
-      "symbol": "ANY",
-      "qty": 5484220.200686168,
-      "entry_price": 9.025895786206164e-06,
-      "last_price": 8.69464361e-06,
+    "JwYvxY8dsiTENeC8r9us7oWArnPDBZLfZZKrBCnpump": {
+      "symbol": "KUMO",
+      "qty": 964326.4992145933,
+      "entry_price": 5.133116225709429e-05,
+      "last_price": 4.969482126838544e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T04:25:11+00:00",
+      "entry_time": "2026-10-08T05:25:24+00:00",
       "missing": 0
     },
-    "6jejnGRDbteTPr2McCqXU1XDNZ4ukCxUu9u2Myiwpump": {
-      "symbol": "ZKDARK",
-      "qty": 4049459.5404396323,
-      "entry_price": 1.2223853456411123e-05,
-      "last_price": 1.180556065e-05,
+    "6gVbgwEoZPbdjGwtUMygWR8SZD2Jwz67kbZU4DJqpump": {
+      "symbol": "DEDSEC",
+      "qty": 6420131.532325913,
+      "entry_price": 7.710122409605356e-06,
+      "last_price": 7.418853615292343e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-08T04:25:11+00:00",
+      "entry_time": "2026-10-08T05:25:24+00:00",
+      "missing": 0
+    },
+    "C3PnWanGLGr7HLY8Zr25qRUvg8moeBk2ZnZBWLrwpump": {
+      "symbol": "$NINJACAT",
+      "qty": 10316726.327257955,
+      "entry_price": 4.798033642630939e-06,
+      "last_price": 4.615773526332369e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T05:25:24+00:00",
+      "missing": 0
+    },
+    "4u2YcjV9m9WbsnmKM57GaW2Lw1mjbZAR4jwakTjxpump": {
+      "symbol": "FOMOCAT",
+      "qty": 2527955.619066918,
+      "entry_price": 1.9581039962351365e-05,
+      "last_price": 1.8939617185510336e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T05:25:24+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T05:43:09+00:00",
-      "side": "sell",
-      "symbol": "SOOTS",
-      "address": "9nV8DH5JBYUycejw1S3fPfZVQZY4zMLhTRSoHWkrpump",
-      "price": 7.498706442e-06,
-      "proceeds": 45.65,
-      "pnl_usd": -4.35,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-06T05:43:09+00:00",
-      "side": "sell",
-      "symbol": "CNDR",
-      "address": "Bu2TVnLY2nRzDq6gst4fyRtc9xP6Rt5oX7pyKwh5pump",
-      "price": 6.684028315e-05,
-      "proceeds": 33.56,
-      "pnl_usd": -16.44,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T05:43:09+00:00",
-      "side": "buy",
-      "symbol": "PGPZ",
-      "address": "7APC5Sv811PMqk86jZUYAuybcot7qgQj1UjPF9zTpump",
-      "price": 4.93142008440168e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T05:59:15+00:00",
-      "side": "sell",
-      "symbol": "PGPZ",
-      "address": "7APC5Sv811PMqk86jZUYAuybcot7qgQj1UjPF9zTpump",
-      "price": 6.528171538e-05,
-      "proceeds": 62.57,
-      "pnl_usd": 12.57,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-06T05:59:15+00:00",
-      "side": "buy",
-      "symbol": "Meow",
-      "address": "71tuZ7SdkP7CurzDduZLce1uR7EyqKADLN9ENJaipump",
-      "price": 1.5235630614219403e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T05:59:15+00:00",
-      "side": "buy",
-      "symbol": "ROLLO",
-      "address": "7WRxcV22UTpgVyDw6gSZZwozLge1nodxsDCCGnGNpump",
-      "price": 5.781241939692817e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T06:27:10+00:00",
       "side": "sell",
@@ -4523,6 +4487,58 @@
       "proceeds": 2.32,
       "pnl_usd": -47.68,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T05:25:24+00:00",
+      "side": "sell",
+      "symbol": "ANY",
+      "address": "BNMrHLqHkyJr6L41ppvNHEeCDcfX8yRjLweSezfHpump",
+      "price": 8.69464361e-06,
+      "proceeds": 45.46,
+      "pnl_usd": -4.54,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T05:25:24+00:00",
+      "side": "sell",
+      "symbol": "ZKDARK",
+      "address": "6jejnGRDbteTPr2McCqXU1XDNZ4ukCxUu9u2Myiwpump",
+      "price": 1.180556065e-05,
+      "proceeds": 45.66,
+      "pnl_usd": -4.34,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T05:25:24+00:00",
+      "side": "buy",
+      "symbol": "KUMO",
+      "address": "JwYvxY8dsiTENeC8r9us7oWArnPDBZLfZZKrBCnpump",
+      "price": 5.133116225709429e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T05:25:24+00:00",
+      "side": "buy",
+      "symbol": "DEDSEC",
+      "address": "6gVbgwEoZPbdjGwtUMygWR8SZD2Jwz67kbZU4DJqpump",
+      "price": 7.710122409605356e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T05:25:24+00:00",
+      "side": "buy",
+      "symbol": "$NINJACAT",
+      "address": "C3PnWanGLGr7HLY8Zr25qRUvg8moeBk2ZnZBWLrwpump",
+      "price": 4.798033642630939e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T05:25:24+00:00",
+      "side": "buy",
+      "symbol": "FOMOCAT",
+      "address": "4u2YcjV9m9WbsnmKM57GaW2Lw1mjbZAR4jwakTjxpump",
+      "price": 1.9581039962351365e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5405,6 +5421,10 @@
     {
       "date": "2026-10-08T05:02:45+00:00",
       "equity": 3461182.08
+    },
+    {
+      "date": "2026-10-08T05:25:24+00:00",
+      "equity": 3461168.76
     }
   ]
 }
