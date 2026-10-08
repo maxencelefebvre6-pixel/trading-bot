@@ -1,63 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 3600090.0271869446,
+  "cash": 3599959.616855496,
   "positions": {
     "HptU2ZoqyZ7ezCnMMwNENeVURASjHzkF9hJqa93Kpump": {
       "symbol": "WOSE",
       "qty": 45628.174082728015,
       "entry_price": 0.0010848560345687298,
-      "last_price": 0.001113207256,
+      "last_price": 0.001117476085,
       "cost": 50.0,
       "entry_time": "2026-10-08T20:51:24+00:00",
       "missing": 0
     },
-    "24iB17xZWuF3cnrncdb6nY2gEmfvspvdxEvQDKmYpump": {
-      "symbol": "LOOP",
-      "qty": 6682089.463991125,
-      "entry_price": 7.407862505695082e-06,
-      "last_price": 7.12668519459404e-06,
+    "6HZVPYRjmXTJES5KASWCiBJnwA75SGZVDFLa1QXYpump": {
+      "symbol": "GROK",
+      "qty": 1350915.2381777084,
+      "entry_price": 3.6641825187176135e-05,
+      "last_price": 3.544950216397809e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T21:08:49+00:00",
+      "entry_time": "2026-10-08T21:31:05+00:00",
+      "missing": 0
+    },
+    "eseTwB8GNAmfbMdvzLZc5B5WAeDmA44Ecnm3HPFpump": {
+      "symbol": "Dip Slayer",
+      "qty": 221542.01092552408,
+      "entry_price": 0.00022343392024477222,
+      "last_price": 0.00021665480825781969,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T21:31:05+00:00",
+      "missing": 0
+    },
+    "6X2pmNXuzM7DCk1raQh7rChkon5jFmGb6usRECKcpump": {
+      "symbol": "PVE",
+      "qty": 888279.9473034745,
+      "entry_price": 5.5725675391261173e-05,
+      "last_price": 5.396068496111256e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T21:31:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T19:02:22+00:00",
-      "side": "buy",
-      "symbol": "PRIEST",
-      "address": "4sCfpXBYuk6aHhBHKagSPn596sp6Rk9YdWusSu6gpump",
-      "price": 4.0761330934619706e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T19:02:22+00:00",
-      "side": "buy",
-      "symbol": "$MFRG",
-      "address": "HvMYS2Yw98GidU2aG967aMDcy2C4R1HJTqjTCJ3Ypump",
-      "price": 8.646037057933235e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T19:22:44+00:00",
-      "side": "sell",
-      "symbol": "LAB",
-      "address": "CESqPA15AkUeUREN8oKjCHh4RRjL7hx7SYVQ9mcGpump",
-      "price": 3.380562493e-06,
-      "proceeds": 18.28,
-      "pnl_usd": -31.72,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T19:22:44+00:00",
-      "side": "sell",
-      "symbol": "$MFRG",
-      "address": "HvMYS2Yw98GidU2aG967aMDcy2C4R1HJTqjTCJ3Ypump",
-      "price": 2.89667725e-05,
-      "proceeds": 158.05,
-      "pnl_usd": 108.05,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-06T19:22:44+00:00",
       "side": "buy",
@@ -4523,6 +4505,40 @@
       "address": "24iB17xZWuF3cnrncdb6nY2gEmfvspvdxEvQDKmYpump",
       "price": 7.407862505695082e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T21:31:05+00:00",
+      "side": "sell",
+      "symbol": "LOOP",
+      "address": "24iB17xZWuF3cnrncdb6nY2gEmfvspvdxEvQDKmYpump",
+      "price": 3.079640884e-06,
+      "proceeds": 19.59,
+      "pnl_usd": -30.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T21:31:05+00:00",
+      "side": "buy",
+      "symbol": "GROK",
+      "address": "6HZVPYRjmXTJES5KASWCiBJnwA75SGZVDFLa1QXYpump",
+      "price": 3.6641825187176135e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T21:31:05+00:00",
+      "side": "buy",
+      "symbol": "Dip Slayer",
+      "address": "eseTwB8GNAmfbMdvzLZc5B5WAeDmA44Ecnm3HPFpump",
+      "price": 0.00022343392024477222,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T21:31:05+00:00",
+      "side": "buy",
+      "symbol": "PVE",
+      "address": "6X2pmNXuzM7DCk1raQh7rChkon5jFmGb6usRECKcpump",
+      "price": 5.5725675391261173e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5573,6 +5589,10 @@
     {
       "date": "2026-10-08T21:08:49+00:00",
       "equity": 3600188.44
+    },
+    {
+      "date": "2026-10-08T21:31:05+00:00",
+      "equity": 3600154.42
     }
   ]
 }
