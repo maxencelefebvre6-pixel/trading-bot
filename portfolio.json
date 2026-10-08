@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3460281.0227661543,
+  "cash": 3460211.043217156,
   "positions": {
-    "DEqh8K3jPjxeUtMBGsJgJ4XbDntNZ7kcbRAeigBZpump": {
-      "symbol": "FLIP",
-      "qty": 550623.5265580859,
-      "entry_price": 8.989808392209734e-05,
-      "last_price": 8.716681974889211e-05,
+    "2hSsp3SsSaLVXMnUJuG9gkqwkgbFb9cSD3egT4Xupump": {
+      "symbol": "4206066",
+      "qty": 1037910.6723250322,
+      "entry_price": 4.769196552253832e-05,
+      "last_price": 4.6188140104210045e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-08T13:49:12+00:00",
+      "entry_time": "2026-10-08T14:06:26+00:00",
+      "missing": 0
+    },
+    "37EAUnVgSztVsZK2YGepJPBHe1TJKzUrwK4iBcDppump": {
+      "symbol": "DBLOC",
+      "qty": 2658749.4772507176,
+      "entry_price": 1.8617775169695765e-05,
+      "last_price": 1.7961380099252582e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T14:06:26+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T13:55:02+00:00",
-      "side": "buy",
-      "symbol": "X",
-      "address": "EE6Cuph9DHtxf31YVFB5zrzLbWNS9zQ2PBQgQpc6pump",
-      "price": 7.436104182728171e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T14:17:15+00:00",
-      "side": "sell",
-      "symbol": "PAR",
-      "address": "6jUeqsWiSPz54iUXzaEt6d1m3DPxJj6q4VWhi8Gpump",
-      "price": 5.481871198e-06,
-      "proceeds": 16.0,
-      "pnl_usd": -34.0,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T14:17:15+00:00",
-      "side": "buy",
-      "symbol": "GOMO",
-      "address": "C22mdKGLt89D56JfvcRSFSMPGoexrWiSdSGWZWutpump",
-      "price": 1.5353759562635418e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T14:17:15+00:00",
       "side": "buy",
@@ -4512,6 +4495,32 @@
       "address": "DEqh8K3jPjxeUtMBGsJgJ4XbDntNZ7kcbRAeigBZpump",
       "price": 8.989808392209734e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T14:06:26+00:00",
+      "side": "sell",
+      "symbol": "FLIP",
+      "address": "DEqh8K3jPjxeUtMBGsJgJ4XbDntNZ7kcbRAeigBZpump",
+      "price": 0.0001101430884,
+      "proceeds": 30.02,
+      "pnl_usd": -19.98,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T14:06:26+00:00",
+      "side": "buy",
+      "symbol": "4206066",
+      "address": "2hSsp3SsSaLVXMnUJuG9gkqwkgbFb9cSD3egT4Xupump",
+      "price": 4.769196552253832e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T14:06:26+00:00",
+      "side": "buy",
+      "symbol": "DBLOC",
+      "address": "37EAUnVgSztVsZK2YGepJPBHe1TJKzUrwK4iBcDppump",
+      "price": 1.8617775169695765e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5486,6 +5495,10 @@
     {
       "date": "2026-10-08T13:49:12+00:00",
       "equity": 3460329.02
+    },
+    {
+      "date": "2026-10-08T14:06:26+00:00",
+      "equity": 3460306.74
     }
   ]
 }
