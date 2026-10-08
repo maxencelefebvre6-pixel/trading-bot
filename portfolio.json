@@ -1,35 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3600017.445006324,
+  "cash": 3600309.776898114,
   "positions": {
     "Bw8H9ZNSwj71JzYBMDWVQfHRMt93R7GxSLK3Gsvxpump": {
       "symbol": "fun",
       "qty": 2302386.030794939,
       "entry_price": 2.1499435515124827e-05,
-      "last_price": 2.080418756423573e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T16:27:44+00:00",
-      "missing": 0
-    },
-    "P9kUGHZ83yGzsRqkjpsn15WmDeaCHSqJoz1hpDQpump": {
-      "symbol": "$BWIZ",
-      "qty": 2787847.055179779,
-      "entry_price": 1.775563688403556e-05,
-      "last_price": 1.713410971620914e-05,
+      "last_price": 2.080418756e-05,
       "cost": 50.0,
       "entry_time": "2026-10-08T16:27:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T15:59:04+00:00",
-      "side": "buy",
-      "symbol": "Tob",
-      "address": "8PnSffodcn3xzGLZDg9WjunEYtihECgg9BzeJJhKpump",
-      "price": 4.9299248426750474e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T15:59:04+00:00",
       "side": "buy",
@@ -4521,6 +4504,16 @@
       "address": "P9kUGHZ83yGzsRqkjpsn15WmDeaCHSqJoz1hpDQpump",
       "price": 1.775563688403556e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T16:52:06+00:00",
+      "side": "sell",
+      "symbol": "$BWIZ",
+      "address": "P9kUGHZ83yGzsRqkjpsn15WmDeaCHSqJoz1hpDQpump",
+      "price": 0.0001096622148,
+      "proceeds": 292.33,
+      "pnl_usd": 242.33,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
@@ -5523,6 +5516,10 @@
     {
       "date": "2026-10-08T16:27:44+00:00",
       "equity": 3600113.11
+    },
+    {
+      "date": "2026-10-08T16:52:06+00:00",
+      "equity": 3600357.68
     }
   ]
 }
