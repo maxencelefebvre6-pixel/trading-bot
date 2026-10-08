@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3460532.893251686,
+  "cash": 3460555.568152584,
   "positions": {
-    "3JLgcgtNV88y9oomnUkuVaf824oj3n4aUuqo13K8pump": {
-      "symbol": "PUMP",
-      "qty": 2110797.176120169,
-      "entry_price": 2.3450855705134755e-05,
-      "last_price": 2.269543044e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T09:55:22+00:00",
-      "missing": 0
-    },
-    "3rdmvzNh4awyPgTE6VUqMvNs9W1csbCUfEwTEd1spump": {
-      "symbol": "Xployer",
-      "qty": 1244827.8567106877,
-      "entry_price": 3.9764534295366726e-05,
-      "last_price": 4.022692742e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T10:18:27+00:00",
-      "missing": 0
-    },
     "73mnfusfaKebhrKWqJJQASE3KNC1AfMicFGkutvLpump": {
       "symbol": "wind",
       "qty": 4490768.42506791,
@@ -47,55 +29,17 @@
       "entry_time": "2026-10-08T10:18:27+00:00",
       "missing": 0
     },
-    "Ed7UHxWmq3uVSJvo7TjUjCui5dPhG5eYA3vPHbbcpump": {
-      "symbol": "PUMP",
-      "qty": 9041010.015487378,
-      "entry_price": 5.475052003615282e-06,
-      "last_price": 5.274516135256376e-06,
+    "734cagXxECkwQhZaJFZTHw7iFdvv5rvF3spiiUDmpump": {
+      "symbol": "401si(k)",
+      "qty": 5367174.205356001,
+      "entry_price": 9.22273026849083e-06,
+      "last_price": 8.896938610889925e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-08T10:39:50+00:00",
+      "entry_time": "2026-10-08T10:58:42+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T10:22:32+00:00",
-      "side": "buy",
-      "symbol": "$UNKSNAGS",
-      "address": "DX3HTiCy1Rq1GSU35vGRk9BKwN737sP63bp3tr5Gpump",
-      "price": 2.0006184216230477e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T10:42:52+00:00",
-      "side": "sell",
-      "symbol": "iPAID",
-      "address": "4R9PpuE5wQkwjVXN1fT4aX6uaEKQz78JteSP46TYpump",
-      "price": 5.450135645e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T10:42:52+00:00",
-      "side": "sell",
-      "symbol": "Neila",
-      "address": "FJXkLq4n8UdX96YM3P7ZFAn1xCvEmXEpFF4WznXYpump",
-      "price": 9.306745025e-06,
-      "proceeds": 24.33,
-      "pnl_usd": -25.67,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T10:42:52+00:00",
-      "side": "sell",
-      "symbol": "$UNKSNAGS",
-      "address": "DX3HTiCy1Rq1GSU35vGRk9BKwN737sP63bp3tr5Gpump",
-      "price": 2.334076783e-09,
-      "proceeds": 0.01,
-      "pnl_usd": -49.99,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-06T10:42:52+00:00",
       "side": "buy",
@@ -4553,6 +4497,44 @@
       "address": "Ed7UHxWmq3uVSJvo7TjUjCui5dPhG5eYA3vPHbbcpump",
       "price": 5.475052003615282e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T10:58:42+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "3JLgcgtNV88y9oomnUkuVaf824oj3n4aUuqo13K8pump",
+      "price": 2.269543044e-05,
+      "proceeds": 45.87,
+      "pnl_usd": -4.13,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T10:58:42+00:00",
+      "side": "sell",
+      "symbol": "Xployer",
+      "address": "3rdmvzNh4awyPgTE6VUqMvNs9W1csbCUfEwTEd1spump",
+      "price": 2.68591089e-06,
+      "proceeds": 3.2,
+      "pnl_usd": -46.8,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T10:58:42+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "Ed7UHxWmq3uVSJvo7TjUjCui5dPhG5eYA3vPHbbcpump",
+      "price": 5.274516135e-06,
+      "proceeds": 23.61,
+      "pnl_usd": -26.39,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T10:58:42+00:00",
+      "side": "buy",
+      "symbol": "401si(k)",
+      "address": "734cagXxECkwQhZaJFZTHw7iFdvv5rvF3spiiUDmpump",
+      "price": 9.22273026849083e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5495,6 +5477,10 @@
     {
       "date": "2026-10-08T10:39:50+00:00",
       "equity": 3460821.7
+    },
+    {
+      "date": "2026-10-08T10:58:42+00:00",
+      "equity": 3460746.46
     }
   ]
 }
