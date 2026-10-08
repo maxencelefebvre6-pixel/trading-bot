@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3461010.2858209014,
+  "cash": 3460860.2858209014,
   "positions": {
     "4u2YcjV9m9WbsnmKM57GaW2Lw1mjbZAR4jwakTjxpump": {
       "symbol": "FOMOCAT",
@@ -10,35 +10,36 @@
       "cost": 50.0,
       "entry_time": "2026-10-08T05:25:24+00:00",
       "missing": 0
+    },
+    "84rHYk5nra4caau69jb6eBJgxmGfw3vo7EDxfHetpump": {
+      "symbol": "GRAVY",
+      "qty": 538259.2812809679,
+      "entry_price": 9.196311465767614e-05,
+      "last_price": 8.917275224876597e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T06:02:22+00:00",
+      "missing": 0
+    },
+    "agYKZgcBE2XUzTypkkdJqvwPbu7k5CUZjA6Cm3jpump": {
+      "symbol": "$BITFOOTS",
+      "qty": 1363233.6991475602,
+      "entry_price": 3.631072209479028e-05,
+      "last_price": 3.5157973585415475e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T06:02:22+00:00",
+      "missing": 0
+    },
+    "7ng4irUHyKqQXCdUj1HGuC3ZEvuAAp3eJyyxaqKpump": {
+      "symbol": "kfc",
+      "qty": 16298525.709800426,
+      "entry_price": 3.0370845118976177e-06,
+      "last_price": 2.9216535085724005e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T06:02:22+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T06:27:10+00:00",
-      "side": "sell",
-      "symbol": "ROLLO",
-      "address": "7WRxcV22UTpgVyDw6gSZZwozLge1nodxsDCCGnGNpump",
-      "price": 3.060790585e-06,
-      "proceeds": 2.51,
-      "pnl_usd": -47.49,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T06:27:10+00:00",
-      "side": "buy",
-      "symbol": "COOKED",
-      "address": "FmDUp5pzHkf8SThZoxy3M6fNxUW6Lv3MAm2ft1MCpump",
-      "price": 4.8545083715767496e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T06:27:10+00:00",
-      "side": "buy",
-      "symbol": "BEAM",
-      "address": "473e3MgHs3S3cYjcGNex79v68wkjPci6XMFUBzUwpump",
-      "price": 1.4437184652060136e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T06:53:48+00:00",
       "side": "sell",
@@ -4512,6 +4513,30 @@
       "proceeds": 8.4,
       "pnl_usd": -41.6,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T06:02:22+00:00",
+      "side": "buy",
+      "symbol": "GRAVY",
+      "address": "84rHYk5nra4caau69jb6eBJgxmGfw3vo7EDxfHetpump",
+      "price": 9.196311465767614e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T06:02:22+00:00",
+      "side": "buy",
+      "symbol": "$BITFOOTS",
+      "address": "agYKZgcBE2XUzTypkkdJqvwPbu7k5CUZjA6Cm3jpump",
+      "price": 3.631072209479028e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T06:02:22+00:00",
+      "side": "buy",
+      "symbol": "kfc",
+      "address": "7ng4irUHyKqQXCdUj1HGuC3ZEvuAAp3eJyyxaqKpump",
+      "price": 3.0370845118976177e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5402,6 +5427,10 @@
     {
       "date": "2026-10-08T05:47:08+00:00",
       "equity": 3461060.73
+    },
+    {
+      "date": "2026-10-08T06:02:22+00:00",
+      "equity": 3461054.28
     }
   ]
 }
