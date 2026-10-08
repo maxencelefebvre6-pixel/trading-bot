@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 3461269.3051282866,
+  "cash": 3461291.7059112596,
   "positions": {
     "xs8CCLCTYMm6ThE68zqJGbuqv8YgyVfSKRTesegpump": {
       "symbol": "DAWS",
       "qty": 15935.414724377855,
       "entry_price": 0.0031062887823230193,
-      "last_price": 0.003145847132,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T02:43:02+00:00",
-      "missing": 0
-    },
-    "8zY9N1nwS8p2UvmtV65euwpMuDGgwGfyvmHJeGW2pump": {
-      "symbol": "andre",
-      "qty": 1946146.1535212763,
-      "entry_price": 2.543488314607654e-05,
-      "last_price": 2.376092539e-05,
+      "last_price": 0.003139500473,
       "cost": 50.0,
       "entry_time": "2026-10-08T02:43:02+00:00",
       "missing": 0
@@ -28,38 +19,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-08T02:43:02+00:00",
       "missing": 0
-    },
-    "Yjjhg8yTPtwJkxG4GDAfCcZ7i96eWnzeZMGNwtCpump": {
-      "symbol": "BORDR",
-      "qty": 531572.1472883831,
-      "entry_price": 9.312000309366428e-05,
-      "last_price": 9.029595515813295e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T02:59:42+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T04:01:42+00:00",
-      "side": "sell",
-      "symbol": "NASA",
-      "address": "6eG4H5JGdhA9ULnE6t6WhHYdkHxXCUd2gTfdf3VCpump",
-      "price": 2.197286379e-06,
-      "proceeds": 0.27,
-      "pnl_usd": -49.73,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T04:01:42+00:00",
-      "side": "sell",
-      "symbol": "tntcat",
-      "address": "H4gJVtfia63SUxMnjtc7TdTZiTzcRQun9j8hLwAYpump",
-      "price": 4.477083153e-06,
-      "proceeds": 26.42,
-      "pnl_usd": -23.58,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-06T04:01:43+00:00",
       "side": "buy",
@@ -4537,6 +4499,26 @@
       "address": "Yjjhg8yTPtwJkxG4GDAfCcZ7i96eWnzeZMGNwtCpump",
       "price": 9.312000309366428e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T03:23:04+00:00",
+      "side": "sell",
+      "symbol": "andre",
+      "address": "8zY9N1nwS8p2UvmtV65euwpMuDGgwGfyvmHJeGW2pump",
+      "price": 1.207453071e-05,
+      "proceeds": 22.4,
+      "pnl_usd": -27.6,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-08T03:23:04+00:00",
+      "side": "sell",
+      "symbol": "BORDR",
+      "address": "Yjjhg8yTPtwJkxG4GDAfCcZ7i96eWnzeZMGNwtCpump",
+      "price": 5.290286794e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5395,6 +5377,10 @@
     {
       "date": "2026-10-08T02:59:42+00:00",
       "equity": 3461461.37
+    },
+    {
+      "date": "2026-10-08T03:23:04+00:00",
+      "equity": 3461389.43
     }
   ]
 }
