@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3460810.1295600864,
+  "cash": 3461476.4778688555,
   "positions": {
-    "jygX63bt7e5HKXbNYgszgQGHqwTMRPVd8QMhka8pump": {
-      "symbol": "SARP",
-      "qty": 6264.489398314273,
-      "entry_price": 0.00790168150229771,
-      "last_price": 0.008036226011,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T23:16:18+00:00",
-      "missing": 0
-    },
-    "Ah58vWotFZHLRfvacN5ZqhD2kMW11SDKxEy1k88Lpump": {
-      "symbol": "JEAN",
-      "qty": 3589035.0567722972,
-      "entry_price": 1.3792007940016196e-05,
-      "last_price": 1.332769606e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-07T23:16:18+00:00",
-      "missing": 0
-    },
     "4aM8NFTCkCL9QySb5VssKN1B7xwbvcW8kqZcBMKUpump": {
       "symbol": "FERSPE",
       "qty": 5300615.448399095,
@@ -46,84 +28,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-07T23:50:47+00:00",
       "missing": 0
-    },
-    "HaQdrXRUoxxk1qLFZJNrSyzWNjn16o1r1np5h6jipump": {
-      "symbol": "SharkTank",
-      "qty": 3155773.0875470047,
-      "entry_price": 1.5685538416983127e-05,
-      "last_price": 1.5136161935086185e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T00:07:58+00:00",
-      "missing": 0
-    },
-    "FDL77KaQu8jNVax5JsCsLE6ecbPeWzWxzSc4YGLpump": {
-      "symbol": "Muse AI",
-      "qty": 129374.33630558926,
-      "entry_price": 0.00038261065844680584,
-      "last_price": 0.0003711240181036642,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T00:07:58+00:00",
-      "missing": 0
-    },
-    "FpXVkwLNk4k6YgNDhJuPHfe8rEinSLrYksx5GZcppump": {
-      "symbol": "cowe",
-      "qty": 5572338.009379129,
-      "entry_price": 8.883165363745639e-06,
-      "last_price": 8.548469416202928e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T00:07:58+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T01:16:18+00:00",
-      "side": "sell",
-      "symbol": "NEURALS",
-      "address": "4tKTcKxaQicwP2dH7qQEpJUjKWHZqRFzk3TsUCscpump",
-      "price": 5.498179777e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T01:16:18+00:00",
-      "side": "sell",
-      "symbol": "Mr Beast",
-      "address": "A8FzDN4QMh319Vj6rxdLUkBiuwQs45M3RjjKdFG3pump",
-      "price": 2.175321051e-06,
-      "proceeds": 0.24,
-      "pnl_usd": -49.76,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T01:16:18+00:00",
-      "side": "sell",
-      "symbol": "CAST",
-      "address": "D5X4EM9nSAWKrFZdChmqHSDQDFqGDcZRsKfJsKUWpump",
-      "price": 3.717337626e-06,
-      "proceeds": 4.6,
-      "pnl_usd": -45.4,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T01:16:18+00:00",
-      "side": "buy",
-      "symbol": "VACCINU",
-      "address": "Chg6adcFwcfpcaJEGCwXJZceFPhjpSn4shMzodgfpump",
-      "price": 1.0265368069589793e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T01:34:59+00:00",
-      "side": "sell",
-      "symbol": "fuck",
-      "address": "7474AGB9bDJL2JoJapEPgKWfn4a7H24MtfLPTh4pump",
-      "price": 1.265649438e-05,
-      "proceeds": 45.7,
-      "pnl_usd": -4.3,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-06T01:34:59+00:00",
       "side": "sell",
@@ -4571,6 +4478,56 @@
       "address": "FpXVkwLNk4k6YgNDhJuPHfe8rEinSLrYksx5GZcppump",
       "price": 8.883165363745639e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T00:39:40+00:00",
+      "side": "sell",
+      "symbol": "SARP",
+      "address": "jygX63bt7e5HKXbNYgszgQGHqwTMRPVd8QMhka8pump",
+      "price": 0.008233774178,
+      "proceeds": 49.51,
+      "pnl_usd": -0.49,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T00:39:40+00:00",
+      "side": "sell",
+      "symbol": "JEAN",
+      "address": "Ah58vWotFZHLRfvacN5ZqhD2kMW11SDKxEy1k88Lpump",
+      "price": 1.332769606e-05,
+      "proceeds": 45.72,
+      "pnl_usd": -4.28,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-08T00:39:40+00:00",
+      "side": "sell",
+      "symbol": "SharkTank",
+      "address": "HaQdrXRUoxxk1qLFZJNrSyzWNjn16o1r1np5h6jipump",
+      "price": 0.0001865379091,
+      "proceeds": 553.26,
+      "pnl_usd": 503.26,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T00:39:40+00:00",
+      "side": "sell",
+      "symbol": "Muse AI",
+      "address": "FDL77KaQu8jNVax5JsCsLE6ecbPeWzWxzSc4YGLpump",
+      "price": 2.086385346e-06,
+      "proceeds": 0.26,
+      "pnl_usd": -49.74,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T00:39:40+00:00",
+      "side": "sell",
+      "symbol": "cowe",
+      "address": "FpXVkwLNk4k6YgNDhJuPHfe8rEinSLrYksx5GZcppump",
+      "price": 3.313726934e-06,
+      "proceeds": 17.6,
+      "pnl_usd": -32.4,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5397,6 +5354,10 @@
     {
       "date": "2026-10-08T00:07:58+00:00",
       "equity": 3461194.76
+    },
+    {
+      "date": "2026-10-08T00:39:41+00:00",
+      "equity": 3461619.52
     }
   ]
 }
