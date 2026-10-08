@@ -1,70 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3460644.872062102,
+  "cash": 3460730.5544711957,
   "positions": {
-    "8obuZEhq4dadBZi7MZdhPfwrQXYA4G2sqKyCVxjipump": {
-      "symbol": "Bilbo",
-      "qty": 1052564.388037793,
-      "entry_price": 4.7028001861509554e-05,
-      "last_price": 4.5546173824010125e-05,
+    "4Hp392eptJX1yUDujfbPNL1RACcrLm6Zj3mc7zuppump": {
+      "symbol": "Offcurve",
+      "qty": 5967903.606010533,
+      "entry_price": 8.294369894002044e-06,
+      "last_price": 7.977613391801573e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-08T08:51:27+00:00",
-      "missing": 0
-    },
-    "2bfztxJtnQwYwYwFgZionFbDfidSM8nNaiAkxUMTpump": {
-      "symbol": "OTTER",
-      "qty": 4814689.364422817,
-      "entry_price": 1.0281037104028006e-05,
-      "last_price": 9.919539167815818e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T08:51:27+00:00",
-      "missing": 0
-    },
-    "8WCaGFZdgsw8ew2Gi8FwKT6ntbM1QQb1XmurRuGXpump": {
-      "symbol": "DOOYET",
-      "qty": 7306591.916346078,
-      "entry_price": 6.77470434461519e-06,
-      "last_price": 6.51523759317726e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T08:51:27+00:00",
+      "entry_time": "2026-10-08T09:09:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T09:21:22+00:00",
-      "side": "sell",
-      "symbol": "buru",
-      "address": "2mmtcXsN39C8PxCxaMHy7esWhgymEzoMZq8HyVA9pump",
-      "price": 3.597942393e-06,
-      "proceeds": 20.03,
-      "pnl_usd": -29.97,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T09:21:22+00:00",
-      "side": "buy",
-      "symbol": "Q",
-      "address": "A2uRZ9L8SgnZeCp4KKawdejwqTLaUU9YokxxY9N7pump",
-      "price": 4.935002596182035e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T09:21:22+00:00",
-      "side": "buy",
-      "symbol": "CROSSY",
-      "address": "FpMpXXagy5tAeHXUi7zu75qUCmhJeJJyLA2CS9DNpump",
-      "price": 1.0151994632702001e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T09:21:22+00:00",
-      "side": "buy",
-      "symbol": "CASHCOW",
-      "address": "5QnqyA8FrTjQc15WuE9kRnuKfDuW2zuzru462L8Npump",
-      "price": 8.345599286803952e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T09:21:22+00:00",
       "side": "buy",
@@ -4530,6 +4478,44 @@
       "address": "8WCaGFZdgsw8ew2Gi8FwKT6ntbM1QQb1XmurRuGXpump",
       "price": 6.77470434461519e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T09:09:49+00:00",
+      "side": "sell",
+      "symbol": "Bilbo",
+      "address": "8obuZEhq4dadBZi7MZdhPfwrQXYA4G2sqKyCVxjipump",
+      "price": 4.820915082e-05,
+      "proceeds": 25.12,
+      "pnl_usd": -24.88,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T09:09:49+00:00",
+      "side": "sell",
+      "symbol": "OTTER",
+      "address": "2bfztxJtnQwYwYwFgZionFbDfidSM8nNaiAkxUMTpump",
+      "price": 1.236104504e-05,
+      "proceeds": 56.79,
+      "pnl_usd": 6.79,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T09:09:49+00:00",
+      "side": "sell",
+      "symbol": "DOOYET",
+      "address": "8WCaGFZdgsw8ew2Gi8FwKT6ntbM1QQb1XmurRuGXpump",
+      "price": 7.738990214e-06,
+      "proceeds": 53.78,
+      "pnl_usd": 3.78,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-08T09:09:49+00:00",
+      "side": "buy",
+      "symbol": "Offcurve",
+      "address": "4Hp392eptJX1yUDujfbPNL1RACcrLm6Zj3mc7zuppump",
+      "price": 8.294369894002044e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5452,6 +5438,10 @@
     {
       "date": "2026-10-08T08:51:27+00:00",
       "equity": 3460788.18
+    },
+    {
+      "date": "2026-10-08T09:09:49+00:00",
+      "equity": 3460778.16
     }
   ]
 }
