@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3600308.9695046064,
-  "positions": {},
+  "cash": 3600258.9695046064,
+  "positions": {
+    "E4nndVCm5c9efh9dFcFt7e89qHMSGayjvt6mchULpump": {
+      "symbol": "pear",
+      "qty": 2571355.834824368,
+      "entry_price": 1.9250544529703727e-05,
+      "last_price": 1.8624156934911118e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-08T19:02:28+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-06T16:46:19+00:00",
-      "side": "buy",
-      "symbol": "BeeCat",
-      "address": "B6WZJdXXeXPcxcMFLovTZs4VrwMak73E4h8M3HbNpump",
-      "price": 9.21355459257872e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T16:46:19+00:00",
       "side": "buy",
@@ -4502,6 +4504,14 @@
       "proceeds": 8.02,
       "pnl_usd": -41.98,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T19:02:28+00:00",
+      "side": "buy",
+      "symbol": "pear",
+      "address": "E4nndVCm5c9efh9dFcFt7e89qHMSGayjvt6mchULpump",
+      "price": 1.9250544529703727e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5524,6 +5534,10 @@
     {
       "date": "2026-10-08T18:41:45+00:00",
       "equity": 3600308.97
+    },
+    {
+      "date": "2026-10-08T19:02:28+00:00",
+      "equity": 3600306.86
     }
   ]
 }
