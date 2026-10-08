@@ -1,47 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3599919.2112192777,
-  "positions": {
-    "Dgte5CKAzyPYiLbzw5ng4D7takwNp3qhxE7WHNkrpump": {
-      "symbol": "SI",
-      "qty": 557394.0469220424,
-      "entry_price": 8.880611530270453e-05,
-      "last_price": 8.610735678600774e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T22:52:04+00:00",
-      "missing": 0
-    },
-    "HirKBDK791M4XS1k9YVGRy2ukMnfATXikLhMqYpgpump": {
-      "symbol": "TikTok",
-      "qty": 560724.0586575038,
-      "entry_price": 8.827871612734763e-05,
-      "last_price": 8.559575513321973e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-08T22:52:04+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3599948.657017612,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-06T19:57:46+00:00",
-      "side": "sell",
-      "symbol": "Buto",
-      "address": "EPYdWqr13kaxVEpHoo5JvS5FRjnqNkVUSQd8fMVVpump",
-      "price": 4.564378283e-05,
-      "proceeds": 22.59,
-      "pnl_usd": -27.41,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T19:57:46+00:00",
-      "side": "sell",
-      "symbol": "RIP",
-      "address": "6EKekUmunHvZshLDZw3wtjzbidzQXs59rc1jF33Bpump",
-      "price": 5.548747728e-05,
-      "proceeds": 27.49,
-      "pnl_usd": -22.51,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-06T19:57:46+00:00",
       "side": "sell",
@@ -4525,6 +4486,26 @@
       "address": "HirKBDK791M4XS1k9YVGRy2ukMnfATXikLhMqYpgpump",
       "price": 8.827871612734763e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-08T23:08:59+00:00",
+      "side": "sell",
+      "symbol": "SI",
+      "address": "Dgte5CKAzyPYiLbzw5ng4D7takwNp3qhxE7WHNkrpump",
+      "price": 0.0001063484521,
+      "proceeds": 29.34,
+      "pnl_usd": -20.66,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-08T23:08:59+00:00",
+      "side": "sell",
+      "symbol": "TikTok",
+      "address": "HirKBDK791M4XS1k9YVGRy2ukMnfATXikLhMqYpgpump",
+      "price": 3.717821235e-07,
+      "proceeds": 0.1,
+      "pnl_usd": -49.9,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5591,6 +5572,10 @@
     {
       "date": "2026-10-08T22:52:04+00:00",
       "equity": 3600015.2
+    },
+    {
+      "date": "2026-10-08T23:08:59+00:00",
+      "equity": 3599948.66
     }
   ]
 }
