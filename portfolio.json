@@ -1,99 +1,63 @@
 {
   "mode": "pumpfun",
-  "cash": 3598670.82944144,
+  "cash": 3598383.9488927037,
   "positions": {
-    "tLFFh8hcohF9Foaq7RrHCFeR6zd9SeiB1oBavSKpump": {
-      "symbol": "GTA 6 Coin",
-      "qty": 1756974.0913600225,
-      "entry_price": 2.8173437641122807e-05,
-      "last_price": 2.731337978716647e-05,
+    "Gn8yPYNHZF1wrtvdFXgr2cE8Y8eGbLH4MHyzxvvBpump": {
+      "symbol": "SIQ",
+      "qty": 562951.6387682201,
+      "entry_price": 8.792940030925154e-05,
+      "last_price": 8.525640225072393e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T17:01:51+00:00",
+      "entry_time": "2026-10-09T17:22:44+00:00",
       "missing": 0
     },
-    "25fDJFJSVa9x3zjnYkHYjkKN1fZpcjWK21FCXRHXpump": {
-      "symbol": "Runepunk",
-      "qty": 1027325.9829859067,
-      "entry_price": 4.81833427945909e-05,
-      "last_price": 4.665257818069043e-05,
+    "w4N21SZS6eFrLsTpXJbpEZyXsgiR18BP1uXfVCQpump": {
+      "symbol": "0",
+      "qty": 563157.9671170663,
+      "entry_price": 8.789718496464103e-05,
+      "last_price": 8.522514629243838e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T17:01:51+00:00",
+      "entry_time": "2026-10-09T17:22:44+00:00",
+      "missing": 0
+    },
+    "D4B4CjVjpMTu2tnkrUe2SNyDWA3NsBCoGLH5yHqpump": {
+      "symbol": "1",
+      "qty": 2431529.7233121623,
+      "entry_price": 2.0357554968553902e-05,
+      "last_price": 1.9643313493975823e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T17:22:44+00:00",
+      "missing": 0
+    },
+    "F5oi7A9r5TDBbW24N3WF2NpvcUBgrVJ8U83wtCHpump": {
+      "symbol": "McDonald's",
+      "qty": 140800.5196568325,
+      "entry_price": 0.0003515612024774083,
+      "last_price": 0.0003408217155560705,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T17:22:44+00:00",
+      "missing": 0
+    },
+    "9jCXtiWjhNJnDkC5vdzNcRxymE9jsuSioreE9KYopump": {
+      "symbol": "SNAPCAT",
+      "qty": 1218361.8533765639,
+      "entry_price": 4.0628323894757435e-05,
+      "last_price": 3.9362667060903815e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T17:22:44+00:00",
+      "missing": 0
+    },
+    "8rmgfnxbbF9J6t8ocjQAyNVTQrKNRZ4wki7mn7zmpump": {
+      "symbol": "CLOLAL",
+      "qty": 6191761.632526621,
+      "entry_price": 7.994493802856707e-06,
+      "last_price": 7.691589647362498e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T17:22:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T12:36:30+00:00",
-      "side": "buy",
-      "symbol": "kittylick",
-      "address": "GHucED3WKGb3h1BRvHja2xCuEaBcY5xZ4U5t9yq6pump",
-      "price": 1.9656283669035157e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T12:36:30+00:00",
-      "side": "buy",
-      "symbol": "KAN",
-      "address": "FKEXKnXWTvTKXibSkyAbrQoKrcmHf5K5p45rE4k9pump",
-      "price": 7.078822162137121e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T13:02:57+00:00",
-      "side": "sell",
-      "symbol": "stash",
-      "address": "J1tjLHnNFZQX3JccUxX4etq8sgtZ53rAWQZDCcNpump",
-      "price": 3.473969844e-05,
-      "proceeds": 23.31,
-      "pnl_usd": -26.69,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T13:02:57+00:00",
-      "side": "sell",
-      "symbol": "PACE",
-      "address": "3eJ2HRFXRPDjeLgwyNnj3s6P6irPYqqApV7wmB6Kpump",
-      "price": 3.306541202e-06,
-      "proceeds": 16.79,
-      "pnl_usd": -33.21,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T13:02:57+00:00",
-      "side": "sell",
-      "symbol": "kittylick",
-      "address": "GHucED3WKGb3h1BRvHja2xCuEaBcY5xZ4U5t9yq6pump",
-      "price": 3.395642102e-05,
-      "proceeds": 81.78,
-      "pnl_usd": 31.78,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-07T13:02:57+00:00",
-      "side": "sell",
-      "symbol": "KAN",
-      "address": "FKEXKnXWTvTKXibSkyAbrQoKrcmHf5K5p45rE4k9pump",
-      "price": 1.516931786e-05,
-      "proceeds": 100.89,
-      "pnl_usd": 50.89,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-07T13:02:57+00:00",
-      "side": "buy",
-      "symbol": "Flappy",
-      "address": "Cs3zs2QN7seL682JmPHJ7XNaddkmuc6g5UAeU4dYpump",
-      "price": 5.275213746551924e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T13:02:57+00:00",
-      "side": "buy",
-      "symbol": "PAYTIP",
-      "address": "4dXUGwFFD3XdmKw24HKeCeDJq9CcLAETn45Eiu6hpump",
-      "price": 6.392267073527218e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T13:27:58+00:00",
       "side": "sell",
@@ -4521,6 +4485,74 @@
       "address": "25fDJFJSVa9x3zjnYkHYjkKN1fZpcjWK21FCXRHXpump",
       "price": 4.81833427945909e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "side": "sell",
+      "symbol": "GTA 6 Coin",
+      "address": "tLFFh8hcohF9Foaq7RrHCFeR6zd9SeiB1oBavSKpump",
+      "price": 1.958812304e-06,
+      "proceeds": 1.7,
+      "pnl_usd": -48.3,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "side": "sell",
+      "symbol": "Runepunk",
+      "address": "25fDJFJSVa9x3zjnYkHYjkKN1fZpcjWK21FCXRHXpump",
+      "price": 1.1597115e-05,
+      "proceeds": 11.42,
+      "pnl_usd": -38.58,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "side": "buy",
+      "symbol": "SIQ",
+      "address": "Gn8yPYNHZF1wrtvdFXgr2cE8Y8eGbLH4MHyzxvvBpump",
+      "price": 8.792940030925154e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "side": "buy",
+      "symbol": "0",
+      "address": "w4N21SZS6eFrLsTpXJbpEZyXsgiR18BP1uXfVCQpump",
+      "price": 8.789718496464103e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "side": "buy",
+      "symbol": "1",
+      "address": "D4B4CjVjpMTu2tnkrUe2SNyDWA3NsBCoGLH5yHqpump",
+      "price": 2.0357554968553902e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "side": "buy",
+      "symbol": "McDonald's",
+      "address": "F5oi7A9r5TDBbW24N3WF2NpvcUBgrVJ8U83wtCHpump",
+      "price": 0.0003515612024774083,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "side": "buy",
+      "symbol": "SNAPCAT",
+      "address": "9jCXtiWjhNJnDkC5vdzNcRxymE9jsuSioreE9KYopump",
+      "price": 4.0628323894757435e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "side": "buy",
+      "symbol": "CLOLAL",
+      "address": "8rmgfnxbbF9J6t8ocjQAyNVTQrKNRZ4wki7mn7zmpump",
+      "price": 7.994493802856707e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5775,6 +5807,10 @@
     {
       "date": "2026-10-09T17:01:51+00:00",
       "equity": 3598766.75
+    },
+    {
+      "date": "2026-10-09T17:22:44+00:00",
+      "equity": 3598671.27
     }
   ]
 }
