@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3598186.664342991,
-  "positions": {
-    "7r8LuNgczABCkHi4JhoNc3LSHYPBUVrf9KZDsSSRpump": {
-      "symbol": "MEGOON",
-      "qty": 4448726.54287237,
-      "entry_price": 1.1126779657721953e-05,
-      "last_price": 1.0715715314548816e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T18:50:34+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3598194.969779996,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-07T15:45:12+00:00",
-      "side": "buy",
-      "symbol": "GPAD",
-      "address": "9tV8cs2ezwb4ovC7AELZqvytYCGfvPJwXantJ7tupump",
-      "price": 4.331491195683942e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T16:04:53+00:00",
       "side": "sell",
@@ -4512,6 +4494,16 @@
       "address": "7r8LuNgczABCkHi4JhoNc3LSHYPBUVrf9KZDsSSRpump",
       "price": 1.1126779657721953e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T19:06:17+00:00",
+      "side": "sell",
+      "symbol": "MEGOON",
+      "address": "7r8LuNgczABCkHi4JhoNc3LSHYPBUVrf9KZDsSSRpump",
+      "price": 3.771564841e-06,
+      "proceeds": 8.31,
+      "pnl_usd": -41.69,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5786,6 +5778,10 @@
     {
       "date": "2026-10-09T18:50:34+00:00",
       "equity": 3598234.34
+    },
+    {
+      "date": "2026-10-09T19:06:17+00:00",
+      "equity": 3598194.97
     }
   ]
 }
