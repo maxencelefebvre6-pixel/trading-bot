@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3599617.490643615,
+  "cash": 3599911.159466919,
   "positions": {
     "6ETGivpE1NJULgd2htjJPvEoYhTJocSoCd1Q4Kk6pump": {
       "symbol": "adsadsdsa",
@@ -11,35 +11,17 @@
       "entry_time": "2026-10-09T02:48:47+00:00",
       "missing": 0
     },
-    "k3TjSYCXLPMZBajZGNhAG3ccuE7L3PYMdPFifZqpump": {
-      "symbol": "FRENCHCAT",
-      "qty": 886195.9496105332,
-      "entry_price": 5.585672110299572e-05,
-      "last_price": 5.4081101707007704e-05,
+    "DbrEnxQ9Xf3yDxbfWgqgtuXKFrxp3ga9Skaktnepump": {
+      "symbol": "GTA 6 Coin",
+      "qty": 132294.51400473466,
+      "entry_price": 0.0003741651751200239,
+      "last_price": 0.0003629225692484778,
       "cost": 50.0,
-      "entry_time": "2026-10-09T03:03:30+00:00",
+      "entry_time": "2026-10-09T03:26:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T22:48:08+00:00",
-      "side": "sell",
-      "symbol": "sol",
-      "address": "B22n8doQi4Umjeg4qTQT6yTZ38ZzYTf3yxZ47nsupump",
-      "price": 1.509786482e-05,
-      "proceeds": 23.69,
-      "pnl_usd": -26.31,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T22:48:09+00:00",
-      "side": "buy",
-      "symbol": "HUGE",
-      "address": "D2S92xGcusVdDidezHGxcXrUy8uduGJJQC5yBpFkpump",
-      "price": 2.4891884700300828e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T23:01:02+00:00",
       "side": "sell",
@@ -4523,6 +4505,24 @@
       "address": "k3TjSYCXLPMZBajZGNhAG3ccuE7L3PYMdPFifZqpump",
       "price": 5.585672110299572e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T03:26:21+00:00",
+      "side": "sell",
+      "symbol": "FRENCHCAT",
+      "address": "k3TjSYCXLPMZBajZGNhAG3ccuE7L3PYMdPFifZqpump",
+      "price": 0.0004090164857,
+      "proceeds": 343.67,
+      "pnl_usd": 293.67,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-09T03:26:21+00:00",
+      "side": "buy",
+      "symbol": "GTA 6 Coin",
+      "address": "DbrEnxQ9Xf3yDxbfWgqgtuXKFrxp3ga9Skaktnepump",
+      "price": 0.0003741651751200239,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5637,6 +5637,10 @@
     {
       "date": "2026-10-09T03:03:30+00:00",
       "equity": 3599713.02
+    },
+    {
+      "date": "2026-10-09T03:26:21+00:00",
+      "equity": 3600006.78
     }
   ]
 }
