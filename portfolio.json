@@ -1,58 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 3599487.2845073417,
+  "cash": 3599311.962461869,
   "positions": {
-    "FMDq83B3a44qQc86GKjhSDDAv7Emj7aDVH87YVqhpump": {
+    "3URjYJimkS9PvqvcFddEaJnHNn1TzLgLQAwfgpgMpump": {
       "symbol": "open/acc",
-      "qty": 559455.754725607,
-      "entry_price": 8.847884677543085e-05,
-      "last_price": 8.578990726304272e-05,
+      "qty": 1101016.8284854745,
+      "entry_price": 4.495844088785701e-05,
+      "last_price": 4.353688607631624e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T07:53:09+00:00",
+      "entry_time": "2026-10-09T08:13:08+00:00",
+      "missing": 0
+    },
+    "5QjDQEtu7X5GE4b8zUtpSSgg6zMVp4FwM7wK1a7apump": {
+      "symbol": "Ponzi",
+      "qty": 4484618.972771648,
+      "entry_price": 1.103772701773308e-05,
+      "last_price": 1.0624985247053684e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T08:13:08+00:00",
+      "missing": 0
+    },
+    "C4sepX6ik8SoTcrKKxTG2kBqQMU58VsquFjgweUxpump": {
+      "symbol": "BORN",
+      "qty": 6420609.835977973,
+      "entry_price": 7.709548043649387e-06,
+      "last_price": 7.413844892182477e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T08:13:08+00:00",
+      "missing": 0
+    },
+    "EDNtwECaFNmdmPWiQXR5ss2WRipfrV7wZE6nW7yXpump": {
+      "symbol": "DERP",
+      "qty": 4473376.346627584,
+      "entry_price": 1.1065467370595225e-05,
+      "last_price": 1.066713039617134e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T08:13:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T03:59:30+00:00",
-      "side": "buy",
-      "symbol": "Bapepe",
-      "address": "BqxP1FhMJ41RDSLzYZLoidi5eUYrUJpg2yJJLQwXpump",
-      "price": 4.9231804891231014e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T03:59:30+00:00",
-      "side": "buy",
-      "symbol": "Unccat",
-      "address": "6yHDLTzBbW1C5hRZuS5FoXJHpiDZYPbLrB4bu4Ynpump",
-      "price": 4.908862712702515e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T03:59:30+00:00",
-      "side": "buy",
-      "symbol": "NIB",
-      "address": "8X49BHxGXYh1yhfdFHuoraBB2bHwC9sb23mNDhZupump",
-      "price": 6.310635829631077e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T03:59:30+00:00",
-      "side": "buy",
-      "symbol": "LIVING",
-      "address": "8sHyTrDoVtUMsBzoakKoniEYThEHb4kyGokNTVJfpump",
-      "price": 9.181851638264962e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T03:59:30+00:00",
-      "side": "buy",
-      "symbol": "run",
-      "address": "9ySLTm1SUeecPGKUXWA3LX3GZE39mFrTrWFC2Ttdpump",
-      "price": 1.1860925635226921e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T04:23:53+00:00",
       "side": "sell",
@@ -4514,6 +4501,48 @@
       "address": "FMDq83B3a44qQc86GKjhSDDAv7Emj7aDVH87YVqhpump",
       "price": 8.847884677543085e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T08:13:07+00:00",
+      "side": "sell",
+      "symbol": "open/acc",
+      "address": "FMDq83B3a44qQc86GKjhSDDAv7Emj7aDVH87YVqhpump",
+      "price": 8.911241536e-05,
+      "proceeds": 24.68,
+      "pnl_usd": -25.32,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T08:13:08+00:00",
+      "side": "buy",
+      "symbol": "open/acc",
+      "address": "3URjYJimkS9PvqvcFddEaJnHNn1TzLgLQAwfgpgMpump",
+      "price": 4.495844088785701e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T08:13:08+00:00",
+      "side": "buy",
+      "symbol": "Ponzi",
+      "address": "5QjDQEtu7X5GE4b8zUtpSSgg6zMVp4FwM7wK1a7apump",
+      "price": 1.103772701773308e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T08:13:08+00:00",
+      "side": "buy",
+      "symbol": "BORN",
+      "address": "C4sepX6ik8SoTcrKKxTG2kBqQMU58VsquFjgweUxpump",
+      "price": 7.709548043649387e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T08:13:08+00:00",
+      "side": "buy",
+      "symbol": "DERP",
+      "address": "EDNtwECaFNmdmPWiQXR5ss2WRipfrV7wZE6nW7yXpump",
+      "price": 1.1065467370595225e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5680,6 +5709,10 @@
     {
       "date": "2026-10-09T07:53:09+00:00",
       "equity": 3599535.28
+    },
+    {
+      "date": "2026-10-09T08:13:08+00:00",
+      "equity": 3599502.87
     }
   ]
 }
