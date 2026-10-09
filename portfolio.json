@@ -1,82 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 3599806.6823085207,
+  "cash": 3599673.4714226048,
   "positions": {
-    "DUnZetwM5RnSfLmQ4aeS6Cogi8kPQQENu4LQBi1bpump": {
-      "symbol": "Tokenero",
-      "qty": 5128867.928172474,
-      "entry_price": 9.651252614266071e-06,
-      "last_price": 9.294385125578473e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T03:50:18+00:00",
-      "missing": 0
-    },
-    "FUZtahwrtp3bBk9QnRwAmHinsHuh1Kuw5wWy8fcepump": {
-      "symbol": "dudecat",
-      "qty": 1732200.4836262332,
-      "entry_price": 2.857636888333816e-05,
-      "last_price": 2.7681185816708352e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T03:50:18+00:00",
-      "missing": 0
-    },
     "64GpSHqDUGYLaxhXX9y7cCjyqY9Yn484wfff6Apepump": {
       "symbol": "$BWIZ",
       "qty": 5321125.264648128,
       "entry_price": 9.30254364219958e-06,
-      "last_price": 8.970110617725915e-06,
+      "last_price": 8.970110618e-06,
       "cost": 50.0,
       "entry_time": "2026-10-09T03:50:18+00:00",
+      "missing": 0
+    },
+    "agvY2SWgHiDjp8WwKERAgyaTKWZ9jf3vtu9ndfJpump": {
+      "symbol": "PQC",
+      "qty": 554863.2980877754,
+      "entry_price": 8.921116276854458e-05,
+      "last_price": 8.65000922738369e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T04:06:31+00:00",
+      "missing": 0
+    },
+    "8oAfrKqV2xVTuoPGnsRzUkhkyAdGFBzToHobH5MSpump": {
+      "symbol": "BMW",
+      "qty": 116187.63620182552,
+      "entry_price": 0.00042603500353527516,
+      "last_price": 0.0004132586331656101,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T04:06:31+00:00",
+      "missing": 0
+    },
+    "tb443qCLN6p7rVP8Mkg86GmfWm2rvMk4TGo7PrHpump": {
+      "symbol": "PAIDGAS",
+      "qty": 6868043.574114997,
+      "entry_price": 7.207292654135276e-06,
+      "last_price": 6.930626866423302e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T04:06:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T23:01:02+00:00",
-      "side": "buy",
-      "symbol": "M4",
-      "address": "HciAVS1urBtboqhLe59HWiMeeN2McEd6y8h4HGkrpump",
-      "price": 5.655686937505444e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T23:01:02+00:00",
-      "side": "buy",
-      "symbol": "$PP",
-      "address": "8QchFf2jQi993zVQjefkj3HgerCJ2pHSfUBprVwLpump",
-      "price": 5.1361245526030224e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T23:21:22+00:00",
-      "side": "sell",
-      "symbol": "vrl",
-      "address": "6kQUqcEamYutuR29fQWx7TYfT2pTdqSxRWeXd89upump",
-      "price": 1.357550541e-05,
-      "proceeds": 45.73,
-      "pnl_usd": -4.27,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-06T23:21:22+00:00",
-      "side": "sell",
-      "symbol": "CONDO",
-      "address": "2L8pKVt4YyXd6TS3BuftVvVJ2GsPQcQzfq9SBvmopump",
-      "price": 0.0004251656818,
-      "proceeds": 209.36,
-      "pnl_usd": 159.36,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-06T23:21:22+00:00",
-      "side": "sell",
-      "symbol": "CONDO",
-      "address": "H294esEJrGS9vaqvNW7hTyQ71WLVeU7Af4PhXh29pump",
-      "price": 2.387104209e-06,
-      "proceeds": 1.91,
-      "pnl_usd": -48.09,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-06T23:21:22+00:00",
       "side": "sell",
@@ -4534,6 +4497,50 @@
       "address": "64GpSHqDUGYLaxhXX9y7cCjyqY9Yn484wfff6Apepump",
       "price": 9.30254364219958e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T04:06:31+00:00",
+      "side": "sell",
+      "symbol": "Tokenero",
+      "address": "DUnZetwM5RnSfLmQ4aeS6Cogi8kPQQENu4LQBi1bpump",
+      "price": 3.329637928e-06,
+      "proceeds": 16.28,
+      "pnl_usd": -33.72,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-09T04:06:31+00:00",
+      "side": "sell",
+      "symbol": "dudecat",
+      "address": "FUZtahwrtp3bBk9QnRwAmHinsHuh1Kuw5wWy8fcepump",
+      "price": 3.041551467e-07,
+      "proceeds": 0.5,
+      "pnl_usd": -49.5,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T04:06:31+00:00",
+      "side": "buy",
+      "symbol": "PQC",
+      "address": "agvY2SWgHiDjp8WwKERAgyaTKWZ9jf3vtu9ndfJpump",
+      "price": 8.921116276854458e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T04:06:31+00:00",
+      "side": "buy",
+      "symbol": "BMW",
+      "address": "8oAfrKqV2xVTuoPGnsRzUkhkyAdGFBzToHobH5MSpump",
+      "price": 0.00042603500353527516,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T04:06:31+00:00",
+      "side": "buy",
+      "symbol": "PAIDGAS",
+      "address": "tb443qCLN6p7rVP8Mkg86GmfWm2rvMk4TGo7PrHpump",
+      "price": 7.207292654135276e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5656,6 +5663,10 @@
     {
       "date": "2026-10-09T03:50:18+00:00",
       "equity": 3599950.03
+    },
+    {
+      "date": "2026-10-09T04:06:31+00:00",
+      "equity": 3599864.81
     }
   ]
 }
