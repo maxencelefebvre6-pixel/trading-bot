@@ -1,38 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3597855.4425391536,
-  "positions": {},
+  "cash": 3597705.4425391536,
+  "positions": {
+    "FP3teuUvGShWqeCpTRGK64dM4dSq8Vc7RbdEouVUpump": {
+      "symbol": "tidecoin",
+      "qty": 2588541.746081925,
+      "entry_price": 1.9122735831834396e-05,
+      "last_price": 1.8489584574515353e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T21:22:50+00:00",
+      "missing": 0
+    },
+    "7mS3UP5vh4GD5jA3XjCZyT2KVwBhLNanjRn17Wfpump": {
+      "symbol": "Q/ACC",
+      "qty": 821602.6246492857,
+      "entry_price": 6.024810354169678e-05,
+      "last_price": 5.83267219068347e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T21:22:50+00:00",
+      "missing": 0
+    },
+    "Qv2EfS4yLxYWsQiudkVgkUacpCPkiWxYYjujbgSpump": {
+      "symbol": "QNTINU",
+      "qty": 3958617.4273518603,
+      "entry_price": 1.2504365705557282e-05,
+      "last_price": 1.2077987551267343e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T21:22:50+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-07T19:50:35+00:00",
-      "side": "sell",
-      "symbol": "MUT8",
-      "address": "9TqucuRbg6ntp45kQuxhG8HLTtdLrxC3fGwSFCCKpump",
-      "price": 3.291981871e-06,
-      "proceeds": 8.41,
-      "pnl_usd": -41.59,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T19:50:35+00:00",
-      "side": "sell",
-      "symbol": "SPAY",
-      "address": "7RdhBHkEh72FGsRAXZB6tvy2wCzga4oY1hYHFDKMpump",
-      "price": 3.311724496e-06,
-      "proceeds": 19.2,
-      "pnl_usd": -30.8,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T19:50:35+00:00",
-      "side": "sell",
-      "symbol": "DOGE PAID",
-      "address": "mDZLh1KtRGqPxrG2LMBwftjoQNevvz9i3Dk31pvpump",
-      "price": 2.796692229e-05,
-      "proceeds": 36.32,
-      "pnl_usd": -13.68,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-07T19:50:35+00:00",
       "side": "buy",
@@ -4506,6 +4504,30 @@
       "proceeds": 2.11,
       "pnl_usd": -47.89,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T21:22:50+00:00",
+      "side": "buy",
+      "symbol": "tidecoin",
+      "address": "FP3teuUvGShWqeCpTRGK64dM4dSq8Vc7RbdEouVUpump",
+      "price": 1.9122735831834396e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T21:22:50+00:00",
+      "side": "buy",
+      "symbol": "Q/ACC",
+      "address": "7mS3UP5vh4GD5jA3XjCZyT2KVwBhLNanjRn17Wfpump",
+      "price": 6.024810354169678e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T21:22:50+00:00",
+      "side": "buy",
+      "symbol": "QNTINU",
+      "address": "Qv2EfS4yLxYWsQiudkVgkUacpCPkiWxYYjujbgSpump",
+      "price": 1.2504365705557282e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5808,6 +5830,10 @@
     {
       "date": "2026-10-09T21:00:51+00:00",
       "equity": 3597855.44
+    },
+    {
+      "date": "2026-10-09T21:22:50+00:00",
+      "equity": 3597849.04
     }
   ]
 }
