@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3598996.967028248,
-  "positions": {},
+  "cash": 3598946.967028248,
+  "positions": {
+    "2XLis86dvE9ocys73rNwtNsKc3LPzSnEsPJzSjDppump": {
+      "symbol": "ALEJO",
+      "qty": 544674.5949729432,
+      "entry_price": 9.087995007819103e-05,
+      "last_price": 8.81198391434629e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T12:03:09+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-07T07:17:36+00:00",
-      "side": "buy",
-      "symbol": "BP",
-      "address": "7bYndjsetuU7tHb8YoQwtAhAzqoEfcC7oW1EpnKipump",
-      "price": 1.157391728489761e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T07:39:02+00:00",
       "side": "sell",
@@ -4504,6 +4506,14 @@
       "proceeds": 32.59,
       "pnl_usd": -17.41,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T12:03:09+00:00",
+      "side": "buy",
+      "symbol": "ALEJO",
+      "address": "2XLis86dvE9ocys73rNwtNsKc3LPzSnEsPJzSjDppump",
+      "price": 9.087995007819103e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5710,6 +5720,10 @@
     {
       "date": "2026-10-09T11:48:22+00:00",
       "equity": 3598996.97
+    },
+    {
+      "date": "2026-10-09T12:03:09+00:00",
+      "equity": 3598994.96
     }
   ]
 }
