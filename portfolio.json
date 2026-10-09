@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3599754.3755154843,
+  "cash": 3599762.822943681,
   "positions": {
-    "FXtTpM2nS8JpYVVZ2ssVAeK7knMiPYRWv5wrHcqipump": {
-      "symbol": "FLUNDA",
-      "qty": 5048587.334643938,
-      "entry_price": 9.804722929189674e-06,
-      "last_price": 9.448077912e-06,
+    "24nVSDdFfrXxYgsX731CNXbdVZwiEGcicD6awheEpump": {
+      "symbol": "receipts",
+      "qty": 4698688.736581824,
+      "entry_price": 1.0534854035896403e-05,
+      "last_price": 1.0146344182576653e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T00:02:02+00:00",
-      "missing": 0
-    },
-    "ZZ6zPC18xZyP9JqGEPFWAcvogh9Gbc2rZCGMqhSpump": {
-      "symbol": "HC",
-      "qty": 6274025.901265061,
-      "entry_price": 7.889670967092928e-06,
-      "last_price": 7.597768064223959e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T00:37:07+00:00",
+      "entry_time": "2026-10-09T01:04:57+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T20:20:32+00:00",
-      "side": "buy",
-      "symbol": "UNWIND",
-      "address": "FzcMjJh1inr6knMFAX11fSvvH2aVeSbxL5yTeeKjpump",
-      "price": 1.5504666197418566e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T20:20:32+00:00",
-      "side": "buy",
-      "symbol": "1+",
-      "address": "43mt4c94s8k5GSEktyzN1UVVdtG4kkM9ySDLUtG5pump",
-      "price": 4.191214863608033e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T20:41:19+00:00",
-      "side": "sell",
-      "symbol": "UNWIND",
-      "address": "FzcMjJh1inr6knMFAX11fSvvH2aVeSbxL5yTeeKjpump",
-      "price": 3.426833912e-06,
-      "proceeds": 10.46,
-      "pnl_usd": -39.54,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-06T20:41:19+00:00",
       "side": "sell",
@@ -4519,6 +4484,34 @@
       "address": "ZZ6zPC18xZyP9JqGEPFWAcvogh9Gbc2rZCGMqhSpump",
       "price": 7.889670967092928e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T01:04:57+00:00",
+      "side": "sell",
+      "symbol": "FLUNDA",
+      "address": "FXtTpM2nS8JpYVVZ2ssVAeK7knMiPYRWv5wrHcqipump",
+      "price": 9.448077912e-06,
+      "proceeds": 45.41,
+      "pnl_usd": -4.59,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-09T01:04:57+00:00",
+      "side": "sell",
+      "symbol": "HC",
+      "address": "ZZ6zPC18xZyP9JqGEPFWAcvogh9Gbc2rZCGMqhSpump",
+      "price": 2.181527178e-06,
+      "proceeds": 13.03,
+      "pnl_usd": -36.97,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-09T01:04:57+00:00",
+      "side": "buy",
+      "symbol": "receipts",
+      "address": "24nVSDdFfrXxYgsX731CNXbdVZwiEGcicD6awheEpump",
+      "price": 1.0534854035896403e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5605,6 +5598,10 @@
     {
       "date": "2026-10-09T00:37:07+00:00",
       "equity": 3599849.74
+    },
+    {
+      "date": "2026-10-09T01:04:57+00:00",
+      "equity": 3599810.5
     }
   ]
 }
