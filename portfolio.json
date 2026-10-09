@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3597944.2923019477,
+  "cash": 3597891.5397755555,
   "positions": {
-    "H3wG9u63Tga6gcVnhFdMijivUW8c5FTt5P9xxVXZpump": {
-      "symbol": "Burn",
-      "qty": 5490552.360694174,
-      "entry_price": 9.015486375170764e-06,
-      "last_price": 8.691476444218263e-06,
+    "BHdAydkQQ265dcGKY4kemDP7bwYj9hgCDsa2Dn6xpump": {
+      "symbol": "Miso",
+      "qty": 2895156.1282619573,
+      "entry_price": 1.7097523521025524e-05,
+      "last_price": 1.6490381467266025e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T20:00:45+00:00",
+      "entry_time": "2026-10-09T20:22:24+00:00",
       "missing": 0
     },
-    "GnVsszJn1E4FW9Tijj3jKE17RmgxcvEs5YAKnjmnpump": {
-      "symbol": "Burn",
-      "qty": 5352907.538308782,
-      "entry_price": 9.24731085783694e-06,
-      "last_price": 8.916357098459905e-06,
+    "Ct1tfGmYUSeQpGeopvBQFK6sGVqZitigHBYzJcEmpump": {
+      "symbol": "JOE",
+      "qty": 4872269.043315689,
+      "entry_price": 1.0159537488577218e-05,
+      "last_price": 9.784632080612556e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-09T20:00:45+00:00",
+      "entry_time": "2026-10-09T20:22:24+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T19:10:55+00:00",
-      "side": "sell",
-      "symbol": "neetjak",
-      "address": "CKMYGTR21v6A6TExiAfrBF8wEEFVeDz3PRP44KVspump",
-      "price": 2.285599061e-06,
-      "proceeds": 4.14,
-      "pnl_usd": -45.86,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T19:10:56+00:00",
-      "side": "buy",
-      "symbol": "REC",
-      "address": "F53GYixZziZBiSNqrPZq67EESWQqA5oU2eBHPEcjpump",
-      "price": 8.282614024170728e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T19:32:39+00:00",
-      "side": "sell",
-      "symbol": "$AGNT",
-      "address": "3N9hpcKEWDW1ow7SciMQZe966tXrDj7UeZrWEfM7pump",
-      "price": 1.508371787e-05,
-      "proceeds": 45.68,
-      "pnl_usd": -4.32,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T19:32:39+00:00",
-      "side": "buy",
-      "symbol": "FLY",
-      "address": "Cie4tGFs3c7wr1AA91WwhCiDhSpzSsUE7Sjs8JbApump",
-      "price": 4.7640926085451114e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T19:32:39+00:00",
       "side": "buy",
@@ -4521,6 +4485,42 @@
       "address": "GnVsszJn1E4FW9Tijj3jKE17RmgxcvEs5YAKnjmnpump",
       "price": 9.24731085783694e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T20:22:24+00:00",
+      "side": "sell",
+      "symbol": "Burn",
+      "address": "H3wG9u63Tga6gcVnhFdMijivUW8c5FTt5P9xxVXZpump",
+      "price": 8.691476444e-06,
+      "proceeds": 23.62,
+      "pnl_usd": -26.38,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T20:22:24+00:00",
+      "side": "sell",
+      "symbol": "Burn",
+      "address": "GnVsszJn1E4FW9Tijj3jKE17RmgxcvEs5YAKnjmnpump",
+      "price": 8.916357098e-06,
+      "proceeds": 23.63,
+      "pnl_usd": -26.37,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T20:22:24+00:00",
+      "side": "buy",
+      "symbol": "Miso",
+      "address": "BHdAydkQQ265dcGKY4kemDP7bwYj9hgCDsa2Dn6xpump",
+      "price": 1.7097523521025524e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T20:22:24+00:00",
+      "side": "buy",
+      "symbol": "JOE",
+      "address": "Ct1tfGmYUSeQpGeopvBQFK6sGVqZitigHBYzJcEmpump",
+      "price": 1.0159537488577218e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5811,6 +5811,10 @@
     {
       "date": "2026-10-09T20:00:45+00:00",
       "equity": 3598039.74
+    },
+    {
+      "date": "2026-10-09T20:22:24+00:00",
+      "equity": 3597986.96
     }
   ]
 }
