@@ -1,45 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3598938.3952422896,
-  "positions": {
-    "wjEYRUp7SowPSp3eEGozus9kmCBbzTMVpzd5NdQpump": {
-      "symbol": "UDR",
-      "qty": 119.56560038786739,
-      "entry_price": 0.41399867386123945,
-      "last_price": 0.4019293798422767,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T11:26:59+00:00",
-      "missing": 0
-    },
-    "NJyvrmY892VGapkfBit6do3NbrzCsC3BEBu3GFMpump": {
-      "symbol": "NOTCH",
-      "qty": 1090140.7951763743,
-      "entry_price": 4.540697882239273e-05,
-      "last_price": 4.3971154494770746e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T11:26:59+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3598996.967028248,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-07T06:55:03+00:00",
-      "side": "buy",
-      "symbol": "$I",
-      "address": "3ioZCFgsKkr1QdNJC5TSsJfaCSQgDtmqNwPx7Mujpump",
-      "price": 5.373332900114354e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T07:17:36+00:00",
-      "side": "sell",
-      "symbol": "RUFUS",
-      "address": "Ay3JaD5FLDrti9LrhtCbGX7G1FKRbowep5J6NDyGpump",
-      "price": 3.371002266e-06,
-      "proceeds": 8.57,
-      "pnl_usd": -41.43,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-07T07:17:36+00:00",
       "side": "buy",
@@ -4521,6 +4484,26 @@
       "address": "NJyvrmY892VGapkfBit6do3NbrzCsC3BEBu3GFMpump",
       "price": 4.540697882239273e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T11:48:22+00:00",
+      "side": "sell",
+      "symbol": "UDR",
+      "address": "wjEYRUp7SowPSp3eEGozus9kmCBbzTMVpzd5NdQpump",
+      "price": 0.4389570488,
+      "proceeds": 25.98,
+      "pnl_usd": -24.02,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T11:48:22+00:00",
+      "side": "sell",
+      "symbol": "NOTCH",
+      "address": "NJyvrmY892VGapkfBit6do3NbrzCsC3BEBu3GFMpump",
+      "price": 6.039832426e-05,
+      "proceeds": 32.59,
+      "pnl_usd": -17.41,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5723,6 +5706,10 @@
     {
       "date": "2026-10-09T11:26:59+00:00",
       "equity": 3599034.39
+    },
+    {
+      "date": "2026-10-09T11:48:22+00:00",
+      "equity": 3598996.97
     }
   ]
 }
