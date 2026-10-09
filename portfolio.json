@@ -1,80 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3598734.46781,
+  "cash": 3598670.82944144,
   "positions": {
-    "5BP3QBMCAZ1T2PMtEHpxzGDWStjAftS9PoQbfrm3pump": {
-      "symbol": "cum",
-      "qty": 1098253.4283646198,
-      "entry_price": 4.507156428704178e-05,
-      "last_price": 4.364598831369611e-05,
+    "tLFFh8hcohF9Foaq7RrHCFeR6zd9SeiB1oBavSKpump": {
+      "symbol": "GTA 6 Coin",
+      "qty": 1756974.0913600225,
+      "entry_price": 2.8173437641122807e-05,
+      "last_price": 2.731337978716647e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T16:42:58+00:00",
+      "entry_time": "2026-10-09T17:01:51+00:00",
       "missing": 0
     },
-    "6wEQZPn4imRjknaKvyzsQb9DvkfyKr9oJDEkCKxQpump": {
-      "symbol": "10TT",
-      "qty": 812839.3140889395,
-      "entry_price": 6.0897645010541157e-05,
-      "last_price": 5.8967217724074114e-05,
+    "25fDJFJSVa9x3zjnYkHYjkKN1fZpcjWK21FCXRHXpump": {
+      "symbol": "Runepunk",
+      "qty": 1027325.9829859067,
+      "entry_price": 4.81833427945909e-05,
+      "last_price": 4.665257818069043e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T16:42:58+00:00",
-      "missing": 0
-    },
-    "J1JbxugWAHfGZ6HMRz4EyysvFZiU7MSYY9JVvrWJpump": {
-      "symbol": "PROSPERITY",
-      "qty": 1492018.526436146,
-      "entry_price": 3.317653174068576e-05,
-      "last_price": 3.203662956405768e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T16:42:58+00:00",
+      "entry_time": "2026-10-09T17:01:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T11:29:17+00:00",
-      "side": "sell",
-      "symbol": "MSTRIKE",
-      "address": "2oJ8Gq5UqMHJ7y338rcRwVfFh9SN2SQcKFvaSouApump",
-      "price": 0.09812008062,
-      "proceeds": 27.05,
-      "pnl_usd": -22.95,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T12:06:41+00:00",
-      "side": "buy",
-      "symbol": "CORNYBOB",
-      "address": "535ReArATSQyMCSjMfN5ngvyBAW1wS9iyq2hwd2rpump",
-      "price": 4.7496832192268046e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T12:36:30+00:00",
-      "side": "sell",
-      "symbol": "CORNYBOB",
-      "address": "535ReArATSQyMCSjMfN5ngvyBAW1wS9iyq2hwd2rpump",
-      "price": 6.374397718e-05,
-      "proceeds": 32.88,
-      "pnl_usd": -17.12,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T12:36:30+00:00",
-      "side": "buy",
-      "symbol": "stash",
-      "address": "J1tjLHnNFZQX3JccUxX4etq8sgtZ53rAWQZDCcNpump",
-      "price": 7.062407376800387e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T12:36:30+00:00",
-      "side": "buy",
-      "symbol": "PACE",
-      "address": "3eJ2HRFXRPDjeLgwyNnj3s6P6irPYqqApV7wmB6Kpump",
-      "price": 9.293900837483888e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T12:36:30+00:00",
       "side": "buy",
@@ -4528,6 +4475,52 @@
       "address": "J1JbxugWAHfGZ6HMRz4EyysvFZiU7MSYY9JVvrWJpump",
       "price": 3.317653174068576e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:01:51+00:00",
+      "side": "sell",
+      "symbol": "cum",
+      "address": "5BP3QBMCAZ1T2PMtEHpxzGDWStjAftS9PoQbfrm3pump",
+      "price": 6.114929137e-05,
+      "proceeds": 33.24,
+      "pnl_usd": -16.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:01:51+00:00",
+      "side": "sell",
+      "symbol": "10TT",
+      "address": "6wEQZPn4imRjknaKvyzsQb9DvkfyKr9oJDEkCKxQpump",
+      "price": 2.110379367e-06,
+      "proceeds": 0.85,
+      "pnl_usd": -49.15,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:01:51+00:00",
+      "side": "sell",
+      "symbol": "PROSPERITY",
+      "address": "J1JbxugWAHfGZ6HMRz4EyysvFZiU7MSYY9JVvrWJpump",
+      "price": 3.073033615e-06,
+      "proceeds": 2.27,
+      "pnl_usd": -47.73,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:01:51+00:00",
+      "side": "buy",
+      "symbol": "GTA 6 Coin",
+      "address": "tLFFh8hcohF9Foaq7RrHCFeR6zd9SeiB1oBavSKpump",
+      "price": 2.8173437641122807e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:01:51+00:00",
+      "side": "buy",
+      "symbol": "Runepunk",
+      "address": "25fDJFJSVa9x3zjnYkHYjkKN1fZpcjWK21FCXRHXpump",
+      "price": 4.81833427945909e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5778,6 +5771,10 @@
     {
       "date": "2026-10-09T16:42:58+00:00",
       "equity": 3598878.13
+    },
+    {
+      "date": "2026-10-09T17:01:51+00:00",
+      "equity": 3598766.75
     }
   ]
 }
