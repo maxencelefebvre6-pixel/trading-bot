@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3599850.1342938966,
+  "cash": 3599777.2429418913,
   "positions": {
-    "954G9QMy1F1NNVU6z6F8phVjuVZ84e66Pm9b5Dz9pump": {
-      "symbol": "COIN",
-      "qty": 561851.4935259783,
-      "entry_price": 8.81015723378357e-05,
-      "last_price": 8.542350104453611e-05,
+    "iB1K255DfNgHWPvGuxYHSbd48wCh7U6o4o1Wvatpump": {
+      "symbol": "SOPHIA",
+      "qty": 706.8600634613507,
+      "entry_price": 0.07002800491742102,
+      "last_price": 0.06796101414388867,
       "cost": 50.0,
-      "entry_time": "2026-10-08T23:48:08+00:00",
+      "entry_time": "2026-10-09T00:02:02+00:00",
+      "missing": 0
+    },
+    "FXtTpM2nS8JpYVVZ2ssVAeK7knMiPYRWv5wrHcqipump": {
+      "symbol": "FLUNDA",
+      "qty": 5048587.334643938,
+      "entry_price": 9.804722929189674e-06,
+      "last_price": 9.448077912270194e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T00:02:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T19:57:46+00:00",
-      "side": "buy",
-      "symbol": "memegram",
-      "address": "23u7b9SFTKzZXydapC8oMyWFfDhQrdGpLdAQYXcMpump",
-      "price": 1.650128959470992e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T19:57:46+00:00",
-      "side": "buy",
-      "symbol": "slopcat",
-      "address": "6mEULKR637H1yDBbMTQz1sz3n6KgM3H2jm6AjwAKpump",
-      "price": 0.0001808427370418173,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T20:20:31+00:00",
-      "side": "sell",
-      "symbol": "PRIEST",
-      "address": "4sCfpXBYuk6aHhBHKagSPn596sp6Rk9YdWusSu6gpump",
-      "price": 3.94671082e-05,
-      "proceeds": 45.95,
-      "pnl_usd": -4.05,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-06T20:20:31+00:00",
       "side": "sell",
@@ -4512,6 +4495,32 @@
       "address": "954G9QMy1F1NNVU6z6F8phVjuVZ84e66Pm9b5Dz9pump",
       "price": 8.81015723378357e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T00:02:02+00:00",
+      "side": "sell",
+      "symbol": "COIN",
+      "address": "954G9QMy1F1NNVU6z6F8phVjuVZ84e66Pm9b5Dz9pump",
+      "price": 9.747227884e-05,
+      "proceeds": 27.11,
+      "pnl_usd": -22.89,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T00:02:02+00:00",
+      "side": "buy",
+      "symbol": "SOPHIA",
+      "address": "iB1K255DfNgHWPvGuxYHSbd48wCh7U6o4o1Wvatpump",
+      "price": 0.07002800491742102,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T00:02:02+00:00",
+      "side": "buy",
+      "symbol": "FLUNDA",
+      "address": "FXtTpM2nS8JpYVVZ2ssVAeK7knMiPYRWv5wrHcqipump",
+      "price": 9.804722929189674e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5590,6 +5599,10 @@
     {
       "date": "2026-10-08T23:48:08+00:00",
       "equity": 3599898.13
+    },
+    {
+      "date": "2026-10-09T00:02:02+00:00",
+      "equity": 3599872.98
     }
   ]
 }
