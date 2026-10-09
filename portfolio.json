@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3599504.74128142,
-  "positions": {
-    "4qdaJkw1dPDLA1NF4cZHwEaEC96hds7zLWp8nm4vpump": {
-      "symbol": "FLAXNJA",
-      "qty": 492.76869434257173,
-      "entry_price": 0.10045280994573025,
-      "last_price": 0.0974843814148242,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T07:06:37+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3599537.2845073417,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-07T03:59:30+00:00",
-      "side": "sell",
-      "symbol": "BULLPAID",
-      "address": "EUPA94mHtnZNjQe32ANkJ8DGdeWsVmfmEcwMz3ukpump",
-      "price": 2.725137741e-06,
-      "proceeds": 2.29,
-      "pnl_usd": -47.71,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-07T03:59:30+00:00",
       "side": "sell",
@@ -4516,6 +4496,16 @@
       "address": "4qdaJkw1dPDLA1NF4cZHwEaEC96hds7zLWp8nm4vpump",
       "price": 0.10045280994573025,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T07:31:24+00:00",
+      "side": "sell",
+      "symbol": "FLAXNJA",
+      "address": "4qdaJkw1dPDLA1NF4cZHwEaEC96hds7zLWp8nm4vpump",
+      "price": 0.1334173447,
+      "proceeds": 32.54,
+      "pnl_usd": -17.46,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5674,6 +5664,10 @@
     {
       "date": "2026-10-09T07:06:37+00:00",
       "equity": 3599552.78
+    },
+    {
+      "date": "2026-10-09T07:31:24+00:00",
+      "equity": 3599537.28
     }
   ]
 }
