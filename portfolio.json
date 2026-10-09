@@ -1,68 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3599452.355552982,
+  "cash": 3599504.74128142,
   "positions": {
-    "9vB7MF9KgP5gNaQF8mFCG79C2QRMy2fY4WamnPHvpump": {
-      "symbol": "open/acc",
-      "qty": 1088955.1067032183,
-      "entry_price": 4.5456419365036905e-05,
-      "last_price": 4.401977647617522e-05,
+    "4qdaJkw1dPDLA1NF4cZHwEaEC96hds7zLWp8nm4vpump": {
+      "symbol": "FLAXNJA",
+      "qty": 492.76869434257173,
+      "entry_price": 0.10045280994573025,
+      "last_price": 0.0974843814148242,
       "cost": 50.0,
-      "entry_time": "2026-10-09T06:45:24+00:00",
-      "missing": 0
-    },
-    "5b57W6Ygf1yLdC42PgzVmKqgZDcXqQUaPwv24u33pump": {
-      "symbol": "open/acc",
-      "qty": 557827.756887269,
-      "entry_price": 8.873706872568449e-05,
-      "last_price": 8.604039456584507e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T06:45:24+00:00",
-      "missing": 0
-    },
-    "JKvJDmC5WtoVivhCS45vzb8pqwMmmTrR7zaag39pump": {
-      "symbol": "Oscar",
-      "qty": 4426652.220550023,
-      "entry_price": 1.1182265408202657e-05,
-      "last_price": 1.0752566907715385e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T06:45:24+00:00",
+      "entry_time": "2026-10-09T07:06:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T03:41:34+00:00",
-      "side": "buy",
-      "symbol": "BULLPAID",
-      "address": "EUPA94mHtnZNjQe32ANkJ8DGdeWsVmfmEcwMz3ukpump",
-      "price": 5.6383349666291844e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T03:41:34+00:00",
-      "side": "buy",
-      "symbol": "USMS",
-      "address": "6B7AvwDw6P1iAHCyLGBBFU2YL8bY6HtLYgxDFn46pump",
-      "price": 1.1661482033538428e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T03:41:34+00:00",
-      "side": "buy",
-      "symbol": "BRAINROT",
-      "address": "F3aw4R2jxAMXtgc38vd3vKCSD9A8jtqy7BsfguYGpump",
-      "price": 7.116233137257046e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T03:41:34+00:00",
-      "side": "buy",
-      "symbol": "DOOYET",
-      "address": "2KewQNMYcMuKhmoZWncfFxYvmLfVWXwq5cJ8MW7fpump",
-      "price": 6.638993563370281e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T03:59:30+00:00",
       "side": "sell",
@@ -4528,6 +4478,44 @@
       "address": "JKvJDmC5WtoVivhCS45vzb8pqwMmmTrR7zaag39pump",
       "price": 1.1182265408202657e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T07:06:37+00:00",
+      "side": "sell",
+      "symbol": "open/acc",
+      "address": "9vB7MF9KgP5gNaQF8mFCG79C2QRMy2fY4WamnPHvpump",
+      "price": 6.188413124e-05,
+      "proceeds": 33.36,
+      "pnl_usd": -16.64,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T07:06:37+00:00",
+      "side": "sell",
+      "symbol": "open/acc",
+      "address": "5b57W6Ygf1yLdC42PgzVmKqgZDcXqQUaPwv24u33pump",
+      "price": 0.0001045691744,
+      "proceeds": 55.85,
+      "pnl_usd": 5.85,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-09T07:06:37+00:00",
+      "side": "sell",
+      "symbol": "Oscar",
+      "address": "JKvJDmC5WtoVivhCS45vzb8pqwMmmTrR7zaag39pump",
+      "price": 3.117654368e-06,
+      "proceeds": 13.18,
+      "pnl_usd": -36.82,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-09T07:06:37+00:00",
+      "side": "buy",
+      "symbol": "FLAXNJA",
+      "address": "4qdaJkw1dPDLA1NF4cZHwEaEC96hds7zLWp8nm4vpump",
+      "price": 0.10045280994573025,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5682,6 +5670,10 @@
     {
       "date": "2026-10-09T06:45:24+00:00",
       "equity": 3599595.88
+    },
+    {
+      "date": "2026-10-09T07:06:37+00:00",
+      "equity": 3599552.78
     }
   ]
 }
