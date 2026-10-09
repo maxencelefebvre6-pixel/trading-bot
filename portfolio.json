@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3599516.937924908,
+  "cash": 3599562.1474459814,
   "positions": {
-    "HJgCbJ2rUDUpd3WPhrno8KdT7DZ392G75oomHjYpump": {
-      "symbol": "RCSC",
-      "qty": 51847.08939773371,
-      "entry_price": 0.0009547305465938787,
-      "last_price": 0.0009925692874,
+    "FveBedJdje2Gymo2sKrmWwiEBGkBoa4VyQGDzUc4pump": {
+      "symbol": "ACCELERANDO",
+      "qty": 5241156.540393706,
+      "entry_price": 9.444480358200033e-06,
+      "last_price": 9.091623214347234e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-09T04:29:55+00:00",
-      "missing": 0
-    },
-    "4EQmDHsFQscNUf1yYDm6t81q4CYe5nKGbFfFiSPUpump": {
-      "symbol": "duluth",
-      "qty": 4033168.8240603893,
-      "entry_price": 1.2273227866064362e-05,
-      "last_price": 1.185118241e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T04:29:55+00:00",
+      "entry_time": "2026-10-09T05:32:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T00:55:51+00:00",
-      "side": "buy",
-      "symbol": "YouTube",
-      "address": "6rodMDM3g6fAQ4A45km87nJkkey6dpRWXcCnBVhPpump",
-      "price": 0.000432963976131164,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T00:55:51+00:00",
-      "side": "buy",
-      "symbol": "Shares",
-      "address": "5dMAoYMqn5raovyqzmZXuQynECShZ2N3G1WfQCf3pump",
-      "price": 4.918199831894976e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T01:18:27+00:00",
-      "side": "sell",
-      "symbol": "YouTube",
-      "address": "6rodMDM3g6fAQ4A45km87nJkkey6dpRWXcCnBVhPpump",
-      "price": 2.130832307e-06,
-      "proceeds": 0.23,
-      "pnl_usd": -49.77,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-07T01:18:27+00:00",
       "side": "sell",
@@ -4519,6 +4484,34 @@
       "proceeds": 103.51,
       "pnl_usd": 53.51,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T05:32:19+00:00",
+      "side": "sell",
+      "symbol": "RCSC",
+      "address": "HJgCbJ2rUDUpd3WPhrno8KdT7DZ392G75oomHjYpump",
+      "price": 0.0009966701534,
+      "proceeds": 49.56,
+      "pnl_usd": -0.44,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-09T05:32:19+00:00",
+      "side": "sell",
+      "symbol": "duluth",
+      "address": "4EQmDHsFQscNUf1yYDm6t81q4CYe5nKGbFfFiSPUpump",
+      "price": 1.185118241e-05,
+      "proceeds": 45.65,
+      "pnl_usd": -4.35,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-09T05:32:19+00:00",
+      "side": "buy",
+      "symbol": "ACCELERANDO",
+      "address": "FveBedJdje2Gymo2sKrmWwiEBGkBoa4VyQGDzUc4pump",
+      "price": 9.444480358200033e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5657,6 +5650,10 @@
     {
       "date": "2026-10-09T05:09:22+00:00",
       "equity": 3599616.2
+    },
+    {
+      "date": "2026-10-09T05:32:19+00:00",
+      "equity": 3599609.8
     }
   ]
 }
