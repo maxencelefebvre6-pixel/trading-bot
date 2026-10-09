@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 3599413.3569556754,
+  "cash": 3599516.937924908,
   "positions": {
     "HJgCbJ2rUDUpd3WPhrno8KdT7DZ392G75oomHjYpump": {
       "symbol": "RCSC",
       "qty": 51847.08939773371,
       "entry_price": 0.0009547305465938787,
-      "last_price": 0.0009905300907,
+      "last_price": 0.0009925692874,
       "cost": 50.0,
       "entry_time": "2026-10-09T04:29:55+00:00",
       "missing": 0
@@ -19,64 +19,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-09T04:29:55+00:00",
       "missing": 0
-    },
-    "FwAfzNnhCrYsHPrJkZiyr66L1sF3pkWuQm5HfWBLpump": {
-      "symbol": "Dotcoin",
-      "qty": 561815.412596753,
-      "entry_price": 8.810723040011895e-05,
-      "last_price": 8.542924085495422e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T04:51:36+00:00",
-      "missing": 0
-    },
-    "BSCEDjBr4nGYvoq9iS33K7cJc1FgBE1wT2KTXWnDpump": {
-      "symbol": "REA",
-      "qty": 557593.4050882112,
-      "entry_price": 8.877436416624962e-05,
-      "last_price": 8.607626702980732e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T04:51:36+00:00",
-      "missing": 0
-    },
-    "CBorvRvnZSfokVkGRoKeuuDhfdFufnkTWowmsnBmpump": {
-      "symbol": "TOPCAT",
-      "qty": 554492.9110287516,
-      "entry_price": 8.927075353977487e-05,
-      "last_price": 8.655772816906083e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T04:51:36+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T00:26:36+00:00",
-      "side": "buy",
-      "symbol": "Elytra",
-      "address": "FiJfSk8BUPWkjcRzQmcTAvJm7NgfCX6HoxZeXFo6pump",
-      "price": 5.005580113395714e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T00:55:50+00:00",
-      "side": "sell",
-      "symbol": "KILLDOBBY",
-      "address": "CyQmFuyC9taFRT7KJ4EEAnisUPNWZGv8vLrQWzGtpump",
-      "price": 9.714916364e-06,
-      "proceeds": 45.57,
-      "pnl_usd": -4.43,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T00:55:50+00:00",
-      "side": "sell",
-      "symbol": "Elytra",
-      "address": "FiJfSk8BUPWkjcRzQmcTAvJm7NgfCX6HoxZeXFo6pump",
-      "price": 4.963328747e-05,
-      "proceeds": 24.3,
-      "pnl_usd": -25.7,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-07T00:55:51+00:00",
       "side": "buy",
@@ -4544,6 +4489,36 @@
       "address": "CBorvRvnZSfokVkGRoKeuuDhfdFufnkTWowmsnBmpump",
       "price": 8.927075353977487e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T05:09:22+00:00",
+      "side": "sell",
+      "symbol": "Dotcoin",
+      "address": "FwAfzNnhCrYsHPrJkZiyr66L1sF3pkWuQm5HfWBLpump",
+      "price": 2.560234807e-07,
+      "proceeds": 0.07,
+      "pnl_usd": -49.93,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T05:09:22+00:00",
+      "side": "sell",
+      "symbol": "REA",
+      "address": "BSCEDjBr4nGYvoq9iS33K7cJc1FgBE1wT2KTXWnDpump",
+      "price": 4.994770421e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T05:09:22+00:00",
+      "side": "sell",
+      "symbol": "TOPCAT",
+      "address": "CBorvRvnZSfokVkGRoKeuuDhfdFufnkTWowmsnBmpump",
+      "price": 0.0003771204932,
+      "proceeds": 103.51,
+      "pnl_usd": 53.51,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5678,6 +5653,10 @@
     {
       "date": "2026-10-09T04:51:36+00:00",
       "equity": 3599656.5
+    },
+    {
+      "date": "2026-10-09T05:09:22+00:00",
+      "equity": 3599616.2
     }
   ]
 }
