@@ -1,56 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3599344.973198155,
+  "cash": 3599240.7336972393,
   "positions": {
-    "Ew9ZcwVETbauc1apvwc1YqDZkKVfVivfLim82vPApump": {
-      "symbol": "foff",
-      "qty": 1273268.3601966829,
-      "entry_price": 3.887632925423019e-05,
-      "last_price": 3.748800007e-05,
+    "8YjQDkfirECX3NbQQtK2V1wqURA46ucqdB4JWt6Mpump": {
+      "symbol": "stack",
+      "qty": 561455.5312536649,
+      "entry_price": 8.816370530622837e-05,
+      "last_price": 8.548424232911166e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T08:58:12+00:00",
+      "entry_time": "2026-10-09T10:02:08+00:00",
+      "missing": 0
+    },
+    "2mU1NrQzQL8HE3EgxydD8CWWp34h15TVUECuqyRRpump": {
+      "symbol": "GROKIPEDIA",
+      "qty": 1066616.174950752,
+      "entry_price": 4.640844678947938e-05,
+      "last_price": 4.4932651944326496e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T10:02:08+00:00",
+      "missing": 0
+    },
+    "D1VfjkKNJExiuQWvWG35awiyyH1r5KAqUAvVNPUwpump": {
+      "symbol": "Hood",
+      "qty": 6443245.643427228,
+      "entry_price": 7.682463581144867e-06,
+      "last_price": 7.396709626854504e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T10:02:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T05:02:55+00:00",
-      "side": "buy",
-      "symbol": "ZULL",
-      "address": "Fm6gEFxeKKU8sPtQnL8GwbBeKVjzcxd8x17m5ypTpump",
-      "price": 1.0716845478170086e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T05:25:53+00:00",
-      "side": "sell",
-      "symbol": "duluth",
-      "address": "EpXm1c14wkJnTHULedghLc7TAGZKj7c8DQoSdz98pump",
-      "price": 1.446528589e-05,
-      "proceeds": 45.71,
-      "pnl_usd": -4.29,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T05:25:53+00:00",
-      "side": "sell",
-      "symbol": "Unc",
-      "address": "Av9k8JodH82ywWTro2jsARBhDeEW8RfsBSrHemy1pump",
-      "price": 3.311149863e-06,
-      "proceeds": 36.48,
-      "pnl_usd": -13.52,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T05:25:53+00:00",
-      "side": "sell",
-      "symbol": "ZULL",
-      "address": "Fm6gEFxeKKU8sPtQnL8GwbBeKVjzcxd8x17m5ypTpump",
-      "price": 1.483039294e-05,
-      "proceeds": 65.38,
-      "pnl_usd": 15.38,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-07T05:25:54+00:00",
       "side": "buy",
@@ -4514,6 +4494,40 @@
       "proceeds": 45.49,
       "pnl_usd": -4.51,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-09T10:02:08+00:00",
+      "side": "sell",
+      "symbol": "foff",
+      "address": "Ew9ZcwVETbauc1apvwc1YqDZkKVfVivfLim82vPApump",
+      "price": 3.748800007e-05,
+      "proceeds": 45.76,
+      "pnl_usd": -4.24,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-09T10:02:08+00:00",
+      "side": "buy",
+      "symbol": "stack",
+      "address": "8YjQDkfirECX3NbQQtK2V1wqURA46ucqdB4JWt6Mpump",
+      "price": 8.816370530622837e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T10:02:08+00:00",
+      "side": "buy",
+      "symbol": "GROKIPEDIA",
+      "address": "2mU1NrQzQL8HE3EgxydD8CWWp34h15TVUECuqyRRpump",
+      "price": 4.640844678947938e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T10:02:08+00:00",
+      "side": "buy",
+      "symbol": "Hood",
+      "address": "D1VfjkKNJExiuQWvWG35awiyyH1r5KAqUAvVNPUwpump",
+      "price": 7.682463581144867e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5696,6 +5710,10 @@
     {
       "date": "2026-10-09T09:22:40+00:00",
       "equity": 3599392.71
+    },
+    {
+      "date": "2026-10-09T10:02:08+00:00",
+      "equity": 3599384.31
     }
   ]
 }
