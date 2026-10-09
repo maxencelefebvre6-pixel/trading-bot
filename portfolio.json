@@ -1,117 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3598383.9488927037,
-  "positions": {
-    "Gn8yPYNHZF1wrtvdFXgr2cE8Y8eGbLH4MHyzxvvBpump": {
-      "symbol": "SIQ",
-      "qty": 562951.6387682201,
-      "entry_price": 8.792940030925154e-05,
-      "last_price": 8.525640225072393e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T17:22:44+00:00",
-      "missing": 0
-    },
-    "w4N21SZS6eFrLsTpXJbpEZyXsgiR18BP1uXfVCQpump": {
-      "symbol": "0",
-      "qty": 563157.9671170663,
-      "entry_price": 8.789718496464103e-05,
-      "last_price": 8.522514629243838e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T17:22:44+00:00",
-      "missing": 0
-    },
-    "D4B4CjVjpMTu2tnkrUe2SNyDWA3NsBCoGLH5yHqpump": {
-      "symbol": "1",
-      "qty": 2431529.7233121623,
-      "entry_price": 2.0357554968553902e-05,
-      "last_price": 1.9643313493975823e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T17:22:44+00:00",
-      "missing": 0
-    },
-    "F5oi7A9r5TDBbW24N3WF2NpvcUBgrVJ8U83wtCHpump": {
-      "symbol": "McDonald's",
-      "qty": 140800.5196568325,
-      "entry_price": 0.0003515612024774083,
-      "last_price": 0.0003408217155560705,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T17:22:44+00:00",
-      "missing": 0
-    },
-    "9jCXtiWjhNJnDkC5vdzNcRxymE9jsuSioreE9KYopump": {
-      "symbol": "SNAPCAT",
-      "qty": 1218361.8533765639,
-      "entry_price": 4.0628323894757435e-05,
-      "last_price": 3.9362667060903815e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T17:22:44+00:00",
-      "missing": 0
-    },
-    "8rmgfnxbbF9J6t8ocjQAyNVTQrKNRZ4wki7mn7zmpump": {
-      "symbol": "CLOLAL",
-      "qty": 6191761.632526621,
-      "entry_price": 7.994493802856707e-06,
-      "last_price": 7.691589647362498e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T17:22:44+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3598444.788447456,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-07T13:27:58+00:00",
-      "side": "sell",
-      "symbol": "Flappy",
-      "address": "Cs3zs2QN7seL682JmPHJ7XNaddkmuc6g5UAeU4dYpump",
-      "price": 2.310677648e-05,
-      "proceeds": 10.73,
-      "pnl_usd": -39.27,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T13:27:58+00:00",
-      "side": "sell",
-      "symbol": "PAYTIP",
-      "address": "4dXUGwFFD3XdmKw24HKeCeDJq9CcLAETn45Eiu6hpump",
-      "price": 2.999014147e-05,
-      "proceeds": 22.27,
-      "pnl_usd": -27.73,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T13:27:59+00:00",
-      "side": "buy",
-      "symbol": "Perpcard",
-      "address": "CwrPDf2miP7AgH7ys59ofgsSpDWk8ahpnzgMBCUdpump",
-      "price": 1.1200597527712854e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T13:27:59+00:00",
-      "side": "buy",
-      "symbol": "APPLE",
-      "address": "6WSbPt5D69UJiRPtmdNamawFG8EU7t9dR7q1ry2Npump",
-      "price": 1.0123018646301945e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T13:50:21+00:00",
-      "side": "sell",
-      "symbol": "Perpcard",
-      "address": "CwrPDf2miP7AgH7ys59ofgsSpDWk8ahpnzgMBCUdpump",
-      "price": 5.241934304e-06,
-      "proceeds": 22.07,
-      "pnl_usd": -27.93,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T13:50:21+00:00",
-      "side": "buy",
-      "symbol": "Juniper",
-      "address": "H6EYCWxNTUtytLWNHHLdE67xHh9ry8mMhz7tPUkZpump",
-      "price": 4.717197720752339e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T13:50:21+00:00",
       "side": "buy",
@@ -4553,6 +4444,66 @@
       "address": "8rmgfnxbbF9J6t8ocjQAyNVTQrKNRZ4wki7mn7zmpump",
       "price": 7.994493802856707e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T17:42:54+00:00",
+      "side": "sell",
+      "symbol": "SIQ",
+      "address": "Gn8yPYNHZF1wrtvdFXgr2cE8Y8eGbLH4MHyzxvvBpump",
+      "price": 0.0001005549031,
+      "proceeds": 28.02,
+      "pnl_usd": -21.98,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:42:54+00:00",
+      "side": "sell",
+      "symbol": "0",
+      "address": "w4N21SZS6eFrLsTpXJbpEZyXsgiR18BP1uXfVCQpump",
+      "price": 9.79679344e-05,
+      "proceeds": 27.31,
+      "pnl_usd": -22.69,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:42:54+00:00",
+      "side": "sell",
+      "symbol": "1",
+      "address": "D4B4CjVjpMTu2tnkrUe2SNyDWA3NsBCoGLH5yHqpump",
+      "price": 3.065073693e-06,
+      "proceeds": 3.69,
+      "pnl_usd": -46.31,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:42:54+00:00",
+      "side": "sell",
+      "symbol": "McDonald's",
+      "address": "F5oi7A9r5TDBbW24N3WF2NpvcUBgrVJ8U83wtCHpump",
+      "price": 1.939113651e-06,
+      "proceeds": 0.14,
+      "pnl_usd": -49.86,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:42:54+00:00",
+      "side": "sell",
+      "symbol": "SNAPCAT",
+      "address": "9jCXtiWjhNJnDkC5vdzNcRxymE9jsuSioreE9KYopump",
+      "price": 9.02031777e-09,
+      "proceeds": 0.01,
+      "pnl_usd": -49.99,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T17:42:54+00:00",
+      "side": "sell",
+      "symbol": "CLOLAL",
+      "address": "8rmgfnxbbF9J6t8ocjQAyNVTQrKNRZ4wki7mn7zmpump",
+      "price": 5.478869092e-07,
+      "proceeds": 1.68,
+      "pnl_usd": -48.32,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5811,6 +5762,10 @@
     {
       "date": "2026-10-09T17:22:44+00:00",
       "equity": 3598671.27
+    },
+    {
+      "date": "2026-10-09T17:42:55+00:00",
+      "equity": 3598444.79
     }
   ]
 }
