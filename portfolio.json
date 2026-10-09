@@ -1,37 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3599299.4808433866,
+  "cash": 3599344.973198155,
   "positions": {
-    "EDNtwECaFNmdmPWiQXR5ss2WRipfrV7wZE6nW7yXpump": {
-      "symbol": "DERP",
-      "qty": 4473376.346627584,
-      "entry_price": 1.1065467370595225e-05,
-      "last_price": 1.06671304e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T08:13:08+00:00",
-      "missing": 0
-    },
     "Ew9ZcwVETbauc1apvwc1YqDZkKVfVivfLim82vPApump": {
       "symbol": "foff",
       "qty": 1273268.3601966829,
       "entry_price": 3.887632925423019e-05,
-      "last_price": 3.748800006701838e-05,
+      "last_price": 3.748800007e-05,
       "cost": 50.0,
       "entry_time": "2026-10-09T08:58:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T05:02:54+00:00",
-      "side": "sell",
-      "symbol": "run",
-      "address": "9ySLTm1SUeecPGKUXWA3LX3GZE39mFrTrWFC2Ttdpump",
-      "price": 1.145388928e-05,
-      "proceeds": 45.65,
-      "pnl_usd": -4.35,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-07T05:02:55+00:00",
       "side": "buy",
@@ -4523,6 +4504,16 @@
       "address": "Ew9ZcwVETbauc1apvwc1YqDZkKVfVivfLim82vPApump",
       "price": 3.887632925423019e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T09:22:39+00:00",
+      "side": "sell",
+      "symbol": "DERP",
+      "address": "EDNtwECaFNmdmPWiQXR5ss2WRipfrV7wZE6nW7yXpump",
+      "price": 1.06671304e-05,
+      "proceeds": 45.49,
+      "pnl_usd": -4.51,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -5701,6 +5692,10 @@
     {
       "date": "2026-10-09T08:58:12+00:00",
       "equity": 3599394.93
+    },
+    {
+      "date": "2026-10-09T09:22:40+00:00",
+      "equity": 3599392.71
     }
   ]
 }
