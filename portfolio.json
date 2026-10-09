@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3597853.333147997,
-  "positions": {
-    "EmZet2sGXeCWgFgxK8kSURL78DChAjERQ7ndeD3zpump": {
-      "symbol": "SIForce",
-      "qty": 1397891.909022926,
-      "entry_price": 3.5410463198544904e-05,
-      "last_price": 3.419269826363505e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T20:44:17+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3597855.4425391536,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-07T19:50:35+00:00",
-      "side": "sell",
-      "symbol": "FLY",
-      "address": "Cie4tGFs3c7wr1AA91WwhCiDhSpzSsUE7Sjs8JbApump",
-      "price": 6.215060851e-05,
-      "proceeds": 31.97,
-      "pnl_usd": -18.03,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-07T19:50:35+00:00",
       "side": "sell",
@@ -4516,6 +4496,16 @@
       "address": "EmZet2sGXeCWgFgxK8kSURL78DChAjERQ7ndeD3zpump",
       "price": 3.5410463198544904e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T21:00:51+00:00",
+      "side": "sell",
+      "symbol": "SIForce",
+      "address": "EmZet2sGXeCWgFgxK8kSURL78DChAjERQ7ndeD3zpump",
+      "price": 3.048444768e-06,
+      "proceeds": 2.11,
+      "pnl_usd": -47.89,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5814,6 +5804,10 @@
     {
       "date": "2026-10-09T20:44:17+00:00",
       "equity": 3597901.13
+    },
+    {
+      "date": "2026-10-09T21:00:51+00:00",
+      "equity": 3597855.44
     }
   ]
 }
