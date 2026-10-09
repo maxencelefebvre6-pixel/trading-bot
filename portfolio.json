@@ -1,92 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3597554.141604704,
+  "cash": 3597531.2224014555,
   "positions": {
-    "GGauatXaF2mxwzqvJpcZ8ep2mCnNyZjUywiWDktZpump": {
-      "symbol": "Ads",
-      "qty": 5460617.897251028,
-      "entry_price": 9.064908208450033e-06,
-      "last_price": 8.722407936203608e-06,
+    "EdjizRrYc56fvP4gvgpNQttVcX9Jm1xfUaFEwQUEpump": {
+      "symbol": "Māui",
+      "qty": 4115020.342172783,
+      "entry_price": 1.202910213898563e-05,
+      "last_price": 1.1593429739107844e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T23:20:29+00:00",
+      "entry_time": "2026-10-09T23:38:54+00:00",
       "missing": 0
     },
-    "EXtFEsA2vkXpF8qNtLhXuCqoTgACde8vhSvbp2EQpump": {
-      "symbol": "TOWN",
-      "qty": 6228085.263058907,
-      "entry_price": 7.94786807007973e-06,
-      "last_price": 7.647034044838571e-06,
+    "v8fBbW5S7sgyo7MJMAeAwR7EDfnwkZMu3BApxzepump": {
+      "symbol": "angel",
+      "qty": 4170973.525280949,
+      "entry_price": 1.1867732964491969e-05,
+      "last_price": 1.1459269837483155e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T23:20:29+00:00",
+      "entry_time": "2026-10-09T23:38:54+00:00",
       "missing": 0
     },
-    "CgsNJmBkgevB1y8TdrfU2f7JWzQpTfoRKEfLLiVYpump": {
-      "symbol": "Tiptoe",
-      "qty": 6831023.589323444,
-      "entry_price": 7.246351787946697e-06,
-      "last_price": 6.97289872262739e-06,
+    "bviEyocJRmX1WWDaCyfZGBGduXE99mcrzvn6SUGpump": {
+      "symbol": "angel",
+      "qty": 4607978.4894865425,
+      "entry_price": 1.0742237645626615e-05,
+      "last_price": 1.0367520860921743e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T23:20:29+00:00",
+      "entry_time": "2026-10-09T23:38:54+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T21:03:53+00:00",
-      "side": "sell",
-      "symbol": "OpenAI",
-      "address": "94gDsjFrMg6Sz87MMHxBBLs1QmQVfPWNtkhCUmpPpump",
-      "price": 2.053586915e-06,
-      "proceeds": 0.25,
-      "pnl_usd": -49.75,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T21:03:53+00:00",
-      "side": "sell",
-      "symbol": "MILL1",
-      "address": "6hvEBqt9T1utZeF1db4ZWw4joJDRd2FcYjgd3ezGpump",
-      "price": 2.73211578e-08,
-      "proceeds": 1.05,
-      "pnl_usd": -48.95,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T21:03:53+00:00",
-      "side": "buy",
-      "symbol": "BloxPump",
-      "address": "14dNjwb3swQW3YF63U5Ybr1vbqBA5fZ4ubzo3vDHpump",
-      "price": 1.2737085448453103e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T21:25:50+00:00",
-      "side": "sell",
-      "symbol": "Ahh",
-      "address": "26eYh6qat3hEXXmXcBUeeej6iPwz21Y4oFsCN287pump",
-      "price": 9.541096433e-06,
-      "proceeds": 45.49,
-      "pnl_usd": -4.51,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T21:25:50+00:00",
-      "side": "sell",
-      "symbol": "BloxPump",
-      "address": "14dNjwb3swQW3YF63U5Ybr1vbqBA5fZ4ubzo3vDHpump",
-      "price": 3.728948023e-06,
-      "proceeds": 13.85,
-      "pnl_usd": -36.15,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T21:25:51+00:00",
-      "side": "buy",
-      "symbol": "POH",
-      "address": "HhAMauBvGjeFYW3oXjQS5b8kEpVrf2staoGGeaDVpump",
-      "price": 1.0063256140857687e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T21:25:51+00:00",
       "side": "buy",
@@ -4530,6 +4474,60 @@
       "address": "CgsNJmBkgevB1y8TdrfU2f7JWzQpTfoRKEfLLiVYpump",
       "price": 7.246351787946697e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T23:38:54+00:00",
+      "side": "sell",
+      "symbol": "Ads",
+      "address": "GGauatXaF2mxwzqvJpcZ8ep2mCnNyZjUywiWDktZpump",
+      "price": 3.473479521e-05,
+      "proceeds": 93.89,
+      "pnl_usd": 43.89,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T23:38:54+00:00",
+      "side": "sell",
+      "symbol": "TOWN",
+      "address": "EXtFEsA2vkXpF8qNtLhXuCqoTgACde8vhSvbp2EQpump",
+      "price": 3.125059551e-06,
+      "proceeds": 9.63,
+      "pnl_usd": -40.37,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T23:38:54+00:00",
+      "side": "sell",
+      "symbol": "Tiptoe",
+      "address": "CgsNJmBkgevB1y8TdrfU2f7JWzQpTfoRKEfLLiVYpump",
+      "price": 6.967081871e-06,
+      "proceeds": 23.56,
+      "pnl_usd": -26.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T23:38:54+00:00",
+      "side": "buy",
+      "symbol": "Māui",
+      "address": "EdjizRrYc56fvP4gvgpNQttVcX9Jm1xfUaFEwQUEpump",
+      "price": 1.202910213898563e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T23:38:54+00:00",
+      "side": "buy",
+      "symbol": "angel",
+      "address": "v8fBbW5S7sgyo7MJMAeAwR7EDfnwkZMu3BApxzepump",
+      "price": 1.1867732964491969e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T23:38:54+00:00",
+      "side": "buy",
+      "symbol": "angel",
+      "address": "bviEyocJRmX1WWDaCyfZGBGduXE99mcrzvn6SUGpump",
+      "price": 1.0742237645626615e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5856,6 +5854,10 @@
     {
       "date": "2026-10-09T23:20:29+00:00",
       "equity": 3597697.03
+    },
+    {
+      "date": "2026-10-09T23:38:54+00:00",
+      "equity": 3597674.5
     }
   ]
 }
