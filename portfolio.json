@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3599726.513262876,
-  "positions": {
-    "DHUCi9GHRb6KZQDewSVGsnex71eAk3vTk1j64NqJpump": {
-      "symbol": "MIKITA",
-      "qty": 3854877.393818599,
-      "entry_price": 1.2840875323135982e-05,
-      "last_price": 1.234971454744545e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T01:28:16+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3599737.8577538957,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-06T20:57:20+00:00",
-      "side": "sell",
-      "symbol": "XSTOK",
-      "address": "ArFfacqUUYnDLjWXGvzbGLHEyGT5PHGdim7bdiG9pump",
-      "price": 3.381577839e-06,
-      "proceeds": 8.81,
-      "pnl_usd": -41.19,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-06T21:18:47+00:00",
       "side": "buy",
@@ -4512,6 +4492,16 @@
       "address": "DHUCi9GHRb6KZQDewSVGsnex71eAk3vTk1j64NqJpump",
       "price": 1.2840875323135982e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T01:50:33+00:00",
+      "side": "sell",
+      "symbol": "MIKITA",
+      "address": "DHUCi9GHRb6KZQDewSVGsnex71eAk3vTk1j64NqJpump",
+      "price": 3.080042049e-06,
+      "proceeds": 11.34,
+      "pnl_usd": -38.66,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5606,6 +5596,10 @@
     {
       "date": "2026-10-09T01:28:16+00:00",
       "equity": 3599774.12
+    },
+    {
+      "date": "2026-10-09T01:50:33+00:00",
+      "equity": 3599737.86
     }
   ]
 }
