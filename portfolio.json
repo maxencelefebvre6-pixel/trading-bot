@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3598896.8501637587,
+  "cash": 3598774.0237707603,
   "positions": {
-    "2YGU7ssfamGMjxBc43veuk4gZ7mdK3qzJppHEzRapump": {
-      "symbol": "Trader",
-      "qty": 535769.5793371167,
-      "entry_price": 9.239046394019627e-05,
-      "last_price": 8.958441225765696e-05,
+    "27WxDJvuFUg1TxGKoDyQ8FGhPWdDrqYrePm78snapump": {
+      "symbol": "CoC",
+      "qty": 2271975.1670963834,
+      "entry_price": 2.1787209964650145e-05,
+      "last_price": 2.1022272411383164e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T15:58:19+00:00",
+      "entry_time": "2026-10-09T16:21:12+00:00",
+      "missing": 0
+    },
+    "qc9zqGcs11Xq1EYs78urA2Bv8PKwq33i9P6We6vpump": {
+      "symbol": "SQUATCH",
+      "qty": 6281839.838536604,
+      "entry_price": 7.879857059764095e-06,
+      "last_price": 7.5914669825762754e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T16:21:12+00:00",
+      "missing": 0
+    },
+    "Cpmogfwarb8PrgDHXJ2MRgKWNGeENfKzgo7eezLPpump": {
+      "symbol": "Pay",
+      "qty": 12453796.457479922,
+      "entry_price": 3.974691586537824e-06,
+      "last_price": 3.822207050672532e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T16:21:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T10:06:03+00:00",
-      "side": "buy",
-      "symbol": "HalloCat",
-      "address": "8sdmTaNSm6atoV5k9roELHagfkGJhezDuqnwcewTpump",
-      "price": 4.996301282470784e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T10:06:03+00:00",
-      "side": "buy",
-      "symbol": "Karikar",
-      "address": "D54fyom2zeT1uXzshmrUGYWAd7Ve5k8zWnVUtzLppump",
-      "price": 7.717790565284554e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T10:31:08+00:00",
-      "side": "sell",
-      "symbol": "LAMB",
-      "address": "5diVoWXf2qgavtuxuCzxZjPyoHJfiUj6XhMHveS2pump",
-      "price": 1.255963468e-05,
-      "proceeds": 45.64,
-      "pnl_usd": -4.36,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T10:31:08+00:00",
-      "side": "sell",
-      "symbol": "TOYOTA",
-      "address": "ERrB1gm4EA1nMgnftHqR7xLUycjQy8pfYLKA15GKpump",
-      "price": 1.859920132e-05,
-      "proceeds": 45.84,
-      "pnl_usd": -4.16,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-07T10:31:08+00:00",
       "side": "sell",
@@ -4514,6 +4496,40 @@
       "address": "2YGU7ssfamGMjxBc43veuk4gZ7mdK3qzJppHEzRapump",
       "price": 9.239046394019627e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T16:21:12+00:00",
+      "side": "sell",
+      "symbol": "Trader",
+      "address": "2YGU7ssfamGMjxBc43veuk4gZ7mdK3qzJppHEzRapump",
+      "price": 0.0001024622858,
+      "proceeds": 27.17,
+      "pnl_usd": -22.83,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T16:21:12+00:00",
+      "side": "buy",
+      "symbol": "CoC",
+      "address": "27WxDJvuFUg1TxGKoDyQ8FGhPWdDrqYrePm78snapump",
+      "price": 2.1787209964650145e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T16:21:12+00:00",
+      "side": "buy",
+      "symbol": "SQUATCH",
+      "address": "qc9zqGcs11Xq1EYs78urA2Bv8PKwq33i9P6We6vpump",
+      "price": 7.879857059764095e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T16:21:12+00:00",
+      "side": "buy",
+      "symbol": "Pay",
+      "address": "Cpmogfwarb8PrgDHXJ2MRgKWNGeENfKzgo7eezLPpump",
+      "price": 3.974691586537824e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5756,6 +5772,10 @@
     {
       "date": "2026-10-09T15:58:19+00:00",
       "equity": 3598944.85
+    },
+    {
+      "date": "2026-10-09T16:21:12+00:00",
+      "equity": 3598917.08
     }
   ]
 }
