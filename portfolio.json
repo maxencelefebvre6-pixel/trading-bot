@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3597726.1263542473,
-  "positions": {
-    "BHvGuFtr6Rc8P9iSwdm7nmYP8AwWcVUWg5eGpAbjpump": {
-      "symbol": "MUSKRATS",
-      "qty": 2521081.918489223,
-      "entry_price": 1.963442744044717e-05,
-      "last_price": 1.8930019480123264e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T21:59:37+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3597729.943480181,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-07T20:28:17+00:00",
-      "side": "sell",
-      "symbol": "REC",
-      "address": "F53GYixZziZBiSNqrPZq67EESWQqA5oU2eBHPEcjpump",
-      "price": 8.023937312e-05,
-      "proceeds": 46.01,
-      "pnl_usd": -3.99,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-07T20:28:17+00:00",
       "side": "sell",
@@ -4516,6 +4496,16 @@
       "address": "BHvGuFtr6Rc8P9iSwdm7nmYP8AwWcVUWg5eGpAbjpump",
       "price": 1.963442744044717e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T22:22:09+00:00",
+      "side": "sell",
+      "symbol": "MUSKRATS",
+      "address": "BHvGuFtr6Rc8P9iSwdm7nmYP8AwWcVUWg5eGpAbjpump",
+      "price": 3.058752461e-06,
+      "proceeds": 3.82,
+      "pnl_usd": -46.18,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5830,6 +5820,10 @@
     {
       "date": "2026-10-09T21:59:37+00:00",
       "equity": 3597773.85
+    },
+    {
+      "date": "2026-10-09T22:22:09+00:00",
+      "equity": 3597729.94
     }
   ]
 }
