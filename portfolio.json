@@ -1,80 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3599156.7467915434,
+  "cash": 3599131.0077205277,
   "positions": {
-    "6SGndU9VEXRf685FUToFeefAF7N3khBt496LbquNpump": {
-      "symbol": "NIDAL",
-      "qty": 557350.5500010253,
-      "entry_price": 8.881304593654557e-05,
-      "last_price": 8.611400031051212e-05,
+    "33nYP6mDtzyBMwZceDN3yheUkuPFhREaYd6TYFKMpump": {
+      "symbol": "Quant",
+      "qty": 559688.8309715805,
+      "entry_price": 8.844200073471447e-05,
+      "last_price": 8.575371599171373e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T10:26:47+00:00",
+      "entry_time": "2026-10-09T10:49:48+00:00",
       "missing": 0
     },
-    "GBGsCqvX5UoyfsyaS5wtoeiLD2WrKKxD94FW5Ysvpump": {
-      "symbol": "REBELS",
-      "qty": 3685374.7334562535,
-      "entry_price": 1.343146995355271e-05,
-      "last_price": 1.2973090977535099e-05,
+    "DznnGwV1hfrx9QeyXP26XvsZPNGw1JJ3aCPcDpvKpump": {
+      "symbol": "Haircut",
+      "qty": 2291750.5389563274,
+      "entry_price": 2.159920949447775e-05,
+      "last_price": 2.0778323128392417e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T10:26:47+00:00",
-      "missing": 0
-    },
-    "DD6VkQNjxC9akNcnDJp5u97iRaVsfKCEMoWviHvepump": {
-      "symbol": "spiderfuc",
-      "qty": 4239533.478927727,
-      "entry_price": 1.1675812974714298e-05,
-      "last_price": 1.1273512545002678e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T10:26:47+00:00",
+      "entry_time": "2026-10-09T10:49:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T06:01:42+00:00",
-      "side": "buy",
-      "symbol": ".memecoin",
-      "address": "AXR4pSk2f1wGQ2AWm6iXTG21SdyszY7xRNsvy3S3pump",
-      "price": 2.4772904603272588e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T06:01:42+00:00",
-      "side": "buy",
-      "symbol": "HURRICANE",
-      "address": "FN1f4U9sBk79npaxYpr9i5KtzPLXU7L7jWieyDjepump",
-      "price": 1.3395056695019201e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T06:01:42+00:00",
-      "side": "buy",
-      "symbol": ".si",
-      "address": "ApLeTEvg3weWruGxyQWai2CLM2jDAkx6YThHjUMfpump",
-      "price": 7.98562708582302e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T06:28:47+00:00",
-      "side": "sell",
-      "symbol": "BITCH",
-      "address": "D46MwcMUYaHoY7ueU9CP75jmhBHESGniZpXRR98Upump",
-      "price": 3.844476894e-05,
-      "proceeds": 46.05,
-      "pnl_usd": -3.95,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T06:28:47+00:00",
-      "side": "sell",
-      "symbol": "duluth",
-      "address": "GCE4zUJ3TVAEVUbRYkXmgWncH9QPk2H3EkAkhfQEpump",
-      "price": 8.509833584e-06,
-      "proceeds": 45.47,
-      "pnl_usd": -4.53,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-07T06:28:47+00:00",
       "side": "sell",
@@ -4532,6 +4479,52 @@
       "address": "DD6VkQNjxC9akNcnDJp5u97iRaVsfKCEMoWviHvepump",
       "price": 1.1675812974714298e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T10:49:48+00:00",
+      "side": "sell",
+      "symbol": "NIDAL",
+      "address": "6SGndU9VEXRf685FUToFeefAF7N3khBt496LbquNpump",
+      "price": 9.764401362e-05,
+      "proceeds": 26.94,
+      "pnl_usd": -23.06,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T10:49:48+00:00",
+      "side": "sell",
+      "symbol": "REBELS",
+      "address": "GBGsCqvX5UoyfsyaS5wtoeiLD2WrKKxD94FW5Ysvpump",
+      "price": 1.297173385e-05,
+      "proceeds": 23.66,
+      "pnl_usd": -26.34,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T10:49:48+00:00",
+      "side": "sell",
+      "symbol": "spiderfuc",
+      "address": "DD6VkQNjxC9akNcnDJp5u97iRaVsfKCEMoWviHvepump",
+      "price": 1.127351255e-05,
+      "proceeds": 23.66,
+      "pnl_usd": -26.34,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T10:49:48+00:00",
+      "side": "buy",
+      "symbol": "Quant",
+      "address": "33nYP6mDtzyBMwZceDN3yheUkuPFhREaYd6TYFKMpump",
+      "price": 8.844200073471447e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T10:49:48+00:00",
+      "side": "buy",
+      "symbol": "Haircut",
+      "address": "DznnGwV1hfrx9QeyXP26XvsZPNGw1JJ3aCPcDpvKpump",
+      "price": 2.159920949447775e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5722,6 +5715,10 @@
     {
       "date": "2026-10-09T10:26:47+00:00",
       "equity": 3599300.35
+    },
+    {
+      "date": "2026-10-09T10:49:48+00:00",
+      "equity": 3599226.62
     }
   ]
 }
