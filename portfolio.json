@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3597729.943480181,
-  "positions": {},
+  "cash": 3597679.943480181,
+  "positions": {
+    "EZThFwJLRtWG9rmpoYJC6YxRjVzmBZw4x64L8e3Epump": {
+      "symbol": "PSX",
+      "qty": 533745.354024139,
+      "entry_price": 9.274085409230809e-05,
+      "last_price": 8.992410749622194e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T22:59:27+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-07T20:28:17+00:00",
-      "side": "sell",
-      "symbol": "Eco",
-      "address": "2PEzsT3fo9ZCcKRzLtB8fzR26Z3UaUwPv9Ucb1Uxpump",
-      "price": 4.3971441762,
-      "proceeds": 2288354.27,
-      "pnl_usd": 2288304.27,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-07T20:28:17+00:00",
       "side": "sell",
@@ -4506,6 +4506,14 @@
       "proceeds": 3.82,
       "pnl_usd": -46.18,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T22:59:27+00:00",
+      "side": "buy",
+      "symbol": "PSX",
+      "address": "EZThFwJLRtWG9rmpoYJC6YxRjVzmBZw4x64L8e3Epump",
+      "price": 9.274085409230809e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5824,6 +5832,10 @@
     {
       "date": "2026-10-09T22:22:09+00:00",
       "equity": 3597729.94
+    },
+    {
+      "date": "2026-10-09T22:59:27+00:00",
+      "equity": 3597727.94
     }
   ]
 }
