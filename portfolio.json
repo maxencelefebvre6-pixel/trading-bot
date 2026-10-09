@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3599240.571273085,
+  "cash": 3599299.4808433866,
   "positions": {
     "EDNtwECaFNmdmPWiQXR5ss2WRipfrV7wZE6nW7yXpump": {
       "symbol": "DERP",
@@ -11,71 +11,17 @@
       "entry_time": "2026-10-09T08:13:08+00:00",
       "missing": 0
     },
-    "CUFv11nXdmSNWperNgPrKuqZzbfLE1X3LoKpK7hdpump": {
-      "symbol": "IPSUM",
-      "qty": 558751.1930080383,
-      "entry_price": 8.859041487413501e-05,
-      "last_price": 8.589798179632566e-05,
+    "Ew9ZcwVETbauc1apvwc1YqDZkKVfVivfLim82vPApump": {
+      "symbol": "foff",
+      "qty": 1273268.3601966829,
+      "entry_price": 3.887632925423019e-05,
+      "last_price": 3.748800006701838e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T08:37:50+00:00",
-      "missing": 0
-    },
-    "56fnokFRPSwtMpN9CVaw81Zkqm9Bsnj4TnrEqp2Bpump": {
-      "symbol": "HASH",
-      "qty": 2621992.7858158895,
-      "entry_price": 1.887877047861404e-05,
-      "last_price": 1.821235334711729e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T08:37:50+00:00",
-      "missing": 0
-    },
-    "A3M5EkTTh4i3HHfCHwxT2271DmiEZxhe78SewndHpump": {
-      "symbol": "UNLUCK",
-      "qty": 5158535.141907082,
-      "entry_price": 9.59574736592763e-06,
-      "last_price": 9.233121188989506e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T08:37:50+00:00",
+      "entry_time": "2026-10-09T08:58:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T04:46:59+00:00",
-      "side": "sell",
-      "symbol": "BRAINROT",
-      "address": "F3aw4R2jxAMXtgc38vd3vKCSD9A8jtqy7BsfguYGpump",
-      "price": 6.847199199e-06,
-      "proceeds": 45.32,
-      "pnl_usd": -4.68,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T04:46:59+00:00",
-      "side": "sell",
-      "symbol": "DOOYET",
-      "address": "2KewQNMYcMuKhmoZWncfFxYvmLfVWXwq5cJ8MW7fpump",
-      "price": 6.38397811e-06,
-      "proceeds": 45.26,
-      "pnl_usd": -4.74,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T04:46:59+00:00",
-      "side": "buy",
-      "symbol": "Unc",
-      "address": "Av9k8JodH82ywWTro2jsARBhDeEW8RfsBSrHemy1pump",
-      "price": 4.249120598475442e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T04:46:59+00:00",
-      "side": "buy",
-      "symbol": "FERSPE",
-      "address": "4KiXzjwB4z9CdDyeh7X2MPTJWA5gnBLbM3oqEeVvpump",
-      "price": 1.1740005931307106e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T05:02:54+00:00",
       "side": "sell",
@@ -4539,6 +4485,44 @@
       "address": "A3M5EkTTh4i3HHfCHwxT2271DmiEZxhe78SewndHpump",
       "price": 9.59574736592763e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T08:58:12+00:00",
+      "side": "sell",
+      "symbol": "IPSUM",
+      "address": "CUFv11nXdmSNWperNgPrKuqZzbfLE1X3LoKpK7hdpump",
+      "price": 5.000609908e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T08:58:12+00:00",
+      "side": "sell",
+      "symbol": "HASH",
+      "address": "56fnokFRPSwtMpN9CVaw81Zkqm9Bsnj4TnrEqp2Bpump",
+      "price": 3.080260411e-06,
+      "proceeds": 7.73,
+      "pnl_usd": -42.27,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-09T08:58:12+00:00",
+      "side": "sell",
+      "symbol": "UNLUCK",
+      "address": "A3M5EkTTh4i3HHfCHwxT2271DmiEZxhe78SewndHpump",
+      "price": 2.056527858e-05,
+      "proceeds": 101.18,
+      "pnl_usd": 51.18,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-09T08:58:12+00:00",
+      "side": "buy",
+      "symbol": "foff",
+      "address": "Ew9ZcwVETbauc1apvwc1YqDZkKVfVivfLim82vPApump",
+      "price": 3.887632925423019e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5713,6 +5697,10 @@
     {
       "date": "2026-10-09T08:37:50+00:00",
       "equity": 3599431.67
+    },
+    {
+      "date": "2026-10-09T08:58:12+00:00",
+      "equity": 3599394.93
     }
   ]
 }
