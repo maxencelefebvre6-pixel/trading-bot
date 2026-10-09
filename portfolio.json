@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3597679.943480181,
+  "cash": 3597554.141604704,
   "positions": {
-    "EZThFwJLRtWG9rmpoYJC6YxRjVzmBZw4x64L8e3Epump": {
-      "symbol": "PSX",
-      "qty": 533745.354024139,
-      "entry_price": 9.274085409230809e-05,
-      "last_price": 8.992410749622194e-05,
+    "GGauatXaF2mxwzqvJpcZ8ep2mCnNyZjUywiWDktZpump": {
+      "symbol": "Ads",
+      "qty": 5460617.897251028,
+      "entry_price": 9.064908208450033e-06,
+      "last_price": 8.722407936203608e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-09T22:59:27+00:00",
+      "entry_time": "2026-10-09T23:20:29+00:00",
+      "missing": 0
+    },
+    "EXtFEsA2vkXpF8qNtLhXuCqoTgACde8vhSvbp2EQpump": {
+      "symbol": "TOWN",
+      "qty": 6228085.263058907,
+      "entry_price": 7.94786807007973e-06,
+      "last_price": 7.647034044838571e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T23:20:29+00:00",
+      "missing": 0
+    },
+    "CgsNJmBkgevB1y8TdrfU2f7JWzQpTfoRKEfLLiVYpump": {
+      "symbol": "Tiptoe",
+      "qty": 6831023.589323444,
+      "entry_price": 7.246351787946697e-06,
+      "last_price": 6.97289872262739e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T23:20:29+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T20:28:17+00:00",
-      "side": "sell",
-      "symbol": "BeeCat",
-      "address": "6H6tvMNu5fzxVTNn4je6W23yH9STBU1medMijrt4pump",
-      "price": 2.274315267e-06,
-      "proceeds": 2.76,
-      "pnl_usd": -47.24,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T20:28:17+00:00",
-      "side": "sell",
-      "symbol": "VRAM",
-      "address": "GJiWxuds6Ms8JQcX4xQLk2HXexCFrf3HNAm3cqjtpump",
-      "price": 3.32101721e-06,
-      "proceeds": 12.14,
-      "pnl_usd": -37.86,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T20:48:58+00:00",
-      "side": "buy",
-      "symbol": "OpenAI",
-      "address": "94gDsjFrMg6Sz87MMHxBBLs1QmQVfPWNtkhCUmpPpump",
-      "price": 0.00038988576696760366,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T20:48:58+00:00",
-      "side": "buy",
-      "symbol": "MILL1",
-      "address": "6hvEBqt9T1utZeF1db4ZWw4joJDRd2FcYjgd3ezGpump",
-      "price": 1.1702370284970822e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T21:03:53+00:00",
       "side": "sell",
@@ -4514,6 +4496,40 @@
       "address": "EZThFwJLRtWG9rmpoYJC6YxRjVzmBZw4x64L8e3Epump",
       "price": 9.274085409230809e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T23:20:28+00:00",
+      "side": "sell",
+      "symbol": "PSX",
+      "address": "EZThFwJLRtWG9rmpoYJC6YxRjVzmBZw4x64L8e3Epump",
+      "price": 9.158880668e-05,
+      "proceeds": 24.2,
+      "pnl_usd": -25.8,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T23:20:29+00:00",
+      "side": "buy",
+      "symbol": "Ads",
+      "address": "GGauatXaF2mxwzqvJpcZ8ep2mCnNyZjUywiWDktZpump",
+      "price": 9.064908208450033e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T23:20:29+00:00",
+      "side": "buy",
+      "symbol": "TOWN",
+      "address": "EXtFEsA2vkXpF8qNtLhXuCqoTgACde8vhSvbp2EQpump",
+      "price": 7.94786807007973e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T23:20:29+00:00",
+      "side": "buy",
+      "symbol": "Tiptoe",
+      "address": "CgsNJmBkgevB1y8TdrfU2f7JWzQpTfoRKEfLLiVYpump",
+      "price": 7.246351787946697e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5836,6 +5852,10 @@
     {
       "date": "2026-10-09T22:59:27+00:00",
       "equity": 3597727.94
+    },
+    {
+      "date": "2026-10-09T23:20:29+00:00",
+      "equity": 3597697.03
     }
   ]
 }
