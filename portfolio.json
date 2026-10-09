@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3599777.2429418913,
+  "cash": 3599754.3755154843,
   "positions": {
-    "iB1K255DfNgHWPvGuxYHSbd48wCh7U6o4o1Wvatpump": {
-      "symbol": "SOPHIA",
-      "qty": 706.8600634613507,
-      "entry_price": 0.07002800491742102,
-      "last_price": 0.06796101414388867,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T00:02:02+00:00",
-      "missing": 0
-    },
     "FXtTpM2nS8JpYVVZ2ssVAeK7knMiPYRWv5wrHcqipump": {
       "symbol": "FLUNDA",
       "qty": 5048587.334643938,
       "entry_price": 9.804722929189674e-06,
-      "last_price": 9.448077912270194e-06,
+      "last_price": 9.448077912e-06,
       "cost": 50.0,
       "entry_time": "2026-10-09T00:02:02+00:00",
+      "missing": 0
+    },
+    "ZZ6zPC18xZyP9JqGEPFWAcvogh9Gbc2rZCGMqhSpump": {
+      "symbol": "HC",
+      "qty": 6274025.901265061,
+      "entry_price": 7.889670967092928e-06,
+      "last_price": 7.597768064223959e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T00:37:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T20:20:31+00:00",
-      "side": "sell",
-      "symbol": "memegram",
-      "address": "23u7b9SFTKzZXydapC8oMyWFfDhQrdGpLdAQYXcMpump",
-      "price": 3.638734756e-06,
-      "proceeds": 10.44,
-      "pnl_usd": -39.56,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T20:20:31+00:00",
-      "side": "sell",
-      "symbol": "slopcat",
-      "address": "6mEULKR637H1yDBbMTQz1sz3n6KgM3H2jm6AjwAKpump",
-      "price": 0.0002603031266,
-      "proceeds": 68.21,
-      "pnl_usd": 18.21,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-06T20:20:32+00:00",
       "side": "buy",
@@ -4521,6 +4501,24 @@
       "address": "FXtTpM2nS8JpYVVZ2ssVAeK7knMiPYRWv5wrHcqipump",
       "price": 9.804722929189674e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T00:37:07+00:00",
+      "side": "sell",
+      "symbol": "SOPHIA",
+      "address": "iB1K255DfNgHWPvGuxYHSbd48wCh7U6o4o1Wvatpump",
+      "price": 0.07754474021,
+      "proceeds": 27.13,
+      "pnl_usd": -22.87,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T00:37:07+00:00",
+      "side": "buy",
+      "symbol": "HC",
+      "address": "ZZ6zPC18xZyP9JqGEPFWAcvogh9Gbc2rZCGMqhSpump",
+      "price": 7.889670967092928e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5603,6 +5601,10 @@
     {
       "date": "2026-10-09T00:02:02+00:00",
       "equity": 3599872.98
+    },
+    {
+      "date": "2026-10-09T00:37:07+00:00",
+      "equity": 3599849.74
     }
   ]
 }
