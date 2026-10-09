@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3598938.8596390155,
-  "positions": {},
+  "cash": 3598888.8596390155,
+  "positions": {
+    "AsbeLEtw6Ecr5tDQw3VF7TBZsDuhTmKi6jDXC6Qtpump": {
+      "symbol": "SLAUCIN",
+      "qty": 7718683.055962931,
+      "entry_price": 6.41301108506582e-06,
+      "last_price": 6.1890990121422964e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T15:14:49+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-07T09:49:23+00:00",
-      "side": "buy",
-      "symbol": "$LA BEAST",
-      "address": "CfjZwEc7hcUNs7YDJkMUnrtEu3kQkqdkMbxkVTmZpump",
-      "price": 8.853450943617435e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T10:06:03+00:00",
       "side": "sell",
@@ -4508,6 +4510,14 @@
       "proceeds": 15.62,
       "pnl_usd": -34.38,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T15:14:49+00:00",
+      "side": "buy",
+      "symbol": "SLAUCIN",
+      "address": "AsbeLEtw6Ecr5tDQw3VF7TBZsDuhTmKi6jDXC6Qtpump",
+      "price": 6.41301108506582e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5738,6 +5748,10 @@
     {
       "date": "2026-10-09T14:54:25+00:00",
       "equity": 3598938.86
+    },
+    {
+      "date": "2026-10-09T15:14:49+00:00",
+      "equity": 3598936.63
     }
   ]
 }
