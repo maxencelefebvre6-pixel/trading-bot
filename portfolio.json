@@ -1,42 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3599687.8577538957,
+  "cash": 3599746.472263079,
   "positions": {
-    "6CGTJdC2LaoYi17MPtSHnx9cX43GZhF1ABFHYhGRpump": {
-      "symbol": "botpfp",
-      "qty": 561499.6640722442,
-      "entry_price": 8.815677580464444e-05,
-      "last_price": 8.547692814779941e-05,
+    "9Jtugb5PFg95tHc45LBGrj3hvfMcfTdSBDqFwTvopump": {
+      "symbol": "HeeHaw",
+      "qty": 563666.1408638845,
+      "entry_price": 8.781794117371579e-05,
+      "last_price": 8.514812421460864e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T02:07:20+00:00",
+      "entry_time": "2026-10-09T02:28:09+00:00",
+      "missing": 0
+    },
+    "7EPcquaYGm2NAkX1Aa5kW5nGJWtQPwPYu7n78KsApump": {
+      "symbol": "PLAY",
+      "qty": 3912259.687921222,
+      "entry_price": 1.265253432762328e-05,
+      "last_price": 1.218451236702105e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T02:28:09+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T21:36:50+00:00",
-      "side": "buy",
-      "symbol": "RARI",
-      "address": "2Tdx84wXLmtAvmnvBPapoSJ36sCmfyoih1utPp15pump",
-      "price": 4.928155730186114e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T21:36:50+00:00",
-      "side": "buy",
-      "symbol": "REDEEM",
-      "address": "kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump",
-      "price": 0.0001249104325861899,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T21:36:50+00:00",
-      "side": "buy",
-      "symbol": "BREAD",
-      "address": "DbemqvuVauWatXRfFcsK3tAeJognPTPtLYoZa5Bqpump",
-      "price": 1.2395791437086242e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T21:53:11+00:00",
       "side": "sell",
@@ -4512,6 +4497,32 @@
       "address": "6CGTJdC2LaoYi17MPtSHnx9cX43GZhF1ABFHYhGRpump",
       "price": 8.815677580464444e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T02:28:09+00:00",
+      "side": "sell",
+      "symbol": "botpfp",
+      "address": "6CGTJdC2LaoYi17MPtSHnx9cX43GZhF1ABFHYhGRpump",
+      "price": 0.0005706741649,
+      "proceeds": 158.61,
+      "pnl_usd": 108.61,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T02:28:09+00:00",
+      "side": "buy",
+      "symbol": "HeeHaw",
+      "address": "9Jtugb5PFg95tHc45LBGrj3hvfMcfTdSBDqFwTvopump",
+      "price": 8.781794117371579e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T02:28:09+00:00",
+      "side": "buy",
+      "symbol": "PLAY",
+      "address": "7EPcquaYGm2NAkX1Aa5kW5nGJWtQPwPYu7n78KsApump",
+      "price": 1.265253432762328e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5614,6 +5625,10 @@
     {
       "date": "2026-10-09T02:07:20+00:00",
       "equity": 3599735.85
+    },
+    {
+      "date": "2026-10-09T02:28:09+00:00",
+      "equity": 3599842.14
     }
   ]
 }
