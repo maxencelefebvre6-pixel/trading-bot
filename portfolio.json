@@ -1,69 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3599911.159466919,
+  "cash": 3599806.6823085207,
   "positions": {
-    "6ETGivpE1NJULgd2htjJPvEoYhTJocSoCd1Q4Kk6pump": {
-      "symbol": "adsadsdsa",
-      "qty": 5661756.648696414,
-      "entry_price": 8.742869584724571e-06,
-      "last_price": 8.407917709e-06,
+    "DUnZetwM5RnSfLmQ4aeS6Cogi8kPQQENu4LQBi1bpump": {
+      "symbol": "Tokenero",
+      "qty": 5128867.928172474,
+      "entry_price": 9.651252614266071e-06,
+      "last_price": 9.294385125578473e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-09T02:48:47+00:00",
+      "entry_time": "2026-10-09T03:50:18+00:00",
       "missing": 0
     },
-    "DbrEnxQ9Xf3yDxbfWgqgtuXKFrxp3ga9Skaktnepump": {
-      "symbol": "GTA 6 Coin",
-      "qty": 132294.51400473466,
-      "entry_price": 0.0003741651751200239,
-      "last_price": 0.0003629225692484778,
+    "FUZtahwrtp3bBk9QnRwAmHinsHuh1Kuw5wWy8fcepump": {
+      "symbol": "dudecat",
+      "qty": 1732200.4836262332,
+      "entry_price": 2.857636888333816e-05,
+      "last_price": 2.7681185816708352e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T03:26:21+00:00",
+      "entry_time": "2026-10-09T03:50:18+00:00",
+      "missing": 0
+    },
+    "64GpSHqDUGYLaxhXX9y7cCjyqY9Yn484wfff6Apepump": {
+      "symbol": "$BWIZ",
+      "qty": 5321125.264648128,
+      "entry_price": 9.30254364219958e-06,
+      "last_price": 8.970110617725915e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T03:50:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-06T23:01:02+00:00",
-      "side": "sell",
-      "symbol": "HUGE",
-      "address": "D2S92xGcusVdDidezHGxcXrUy8uduGJJQC5yBpFkpump",
-      "price": 3.394828184e-06,
-      "proceeds": 6.47,
-      "pnl_usd": -43.53,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-06T23:01:02+00:00",
-      "side": "buy",
-      "symbol": "CONDO",
-      "address": "2L8pKVt4YyXd6TS3BuftVvVJ2GsPQcQzfq9SBvmopump",
-      "price": 4.9760398429230666e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T23:01:02+00:00",
-      "side": "buy",
-      "symbol": "CONDO",
-      "address": "H294esEJrGS9vaqvNW7hTyQ71WLVeU7Af4PhXh29pump",
-      "price": 5.918183968462305e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T23:01:02+00:00",
-      "side": "buy",
-      "symbol": "Buto",
-      "address": "CQriCWn2o495JDpGMsRvsGanisYgkVM3yhXfDVTopump",
-      "price": 2.649266997384879e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-06T23:01:02+00:00",
-      "side": "buy",
-      "symbol": "$CI",
-      "address": "2iYgFcovEFPhR2fRXZWuYdYPmCaYd4EfdPAPoPm4pump",
-      "price": 1.7075753038400582e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-06T23:01:02+00:00",
       "side": "buy",
@@ -4523,6 +4490,50 @@
       "address": "DbrEnxQ9Xf3yDxbfWgqgtuXKFrxp3ga9Skaktnepump",
       "price": 0.0003741651751200239,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T03:50:18+00:00",
+      "side": "sell",
+      "symbol": "adsadsdsa",
+      "address": "6ETGivpE1NJULgd2htjJPvEoYhTJocSoCd1Q4Kk6pump",
+      "price": 8.407917709e-06,
+      "proceeds": 45.27,
+      "pnl_usd": -4.73,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-09T03:50:18+00:00",
+      "side": "sell",
+      "symbol": "GTA 6 Coin",
+      "address": "DbrEnxQ9Xf3yDxbfWgqgtuXKFrxp3ga9Skaktnepump",
+      "price": 1.991648766e-06,
+      "proceeds": 0.25,
+      "pnl_usd": -49.75,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T03:50:18+00:00",
+      "side": "buy",
+      "symbol": "Tokenero",
+      "address": "DUnZetwM5RnSfLmQ4aeS6Cogi8kPQQENu4LQBi1bpump",
+      "price": 9.651252614266071e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T03:50:18+00:00",
+      "side": "buy",
+      "symbol": "dudecat",
+      "address": "FUZtahwrtp3bBk9QnRwAmHinsHuh1Kuw5wWy8fcepump",
+      "price": 2.857636888333816e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T03:50:18+00:00",
+      "side": "buy",
+      "symbol": "$BWIZ",
+      "address": "64GpSHqDUGYLaxhXX9y7cCjyqY9Yn484wfff6Apepump",
+      "price": 9.30254364219958e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5641,6 +5652,10 @@
     {
       "date": "2026-10-09T03:26:21+00:00",
       "equity": 3600006.78
+    },
+    {
+      "date": "2026-10-09T03:50:18+00:00",
+      "equity": 3599950.03
     }
   ]
 }
