@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3597891.5397755555,
+  "cash": 3597853.333147997,
   "positions": {
-    "BHdAydkQQ265dcGKY4kemDP7bwYj9hgCDsa2Dn6xpump": {
-      "symbol": "Miso",
-      "qty": 2895156.1282619573,
-      "entry_price": 1.7097523521025524e-05,
-      "last_price": 1.6490381467266025e-05,
+    "EmZet2sGXeCWgFgxK8kSURL78DChAjERQ7ndeD3zpump": {
+      "symbol": "SIForce",
+      "qty": 1397891.909022926,
+      "entry_price": 3.5410463198544904e-05,
+      "last_price": 3.419269826363505e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T20:22:24+00:00",
-      "missing": 0
-    },
-    "Ct1tfGmYUSeQpGeopvBQFK6sGVqZitigHBYzJcEmpump": {
-      "symbol": "JOE",
-      "qty": 4872269.043315689,
-      "entry_price": 1.0159537488577218e-05,
-      "last_price": 9.784632080612556e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T20:22:24+00:00",
+      "entry_time": "2026-10-09T20:44:17+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T19:32:39+00:00",
-      "side": "buy",
-      "symbol": "MUT8",
-      "address": "9TqucuRbg6ntp45kQuxhG8HLTtdLrxC3fGwSFCCKpump",
-      "price": 1.8539461230999604e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T19:32:39+00:00",
-      "side": "buy",
-      "symbol": "SPAY",
-      "address": "7RdhBHkEh72FGsRAXZB6tvy2wCzga4oY1hYHFDKMpump",
-      "price": 8.133074898034314e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T19:32:39+00:00",
-      "side": "buy",
-      "symbol": "DOGE PAID",
-      "address": "mDZLh1KtRGqPxrG2LMBwftjoQNevvz9i3Dk31pvpump",
-      "price": 3.653393222455813e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T19:50:35+00:00",
       "side": "sell",
@@ -4521,6 +4488,34 @@
       "address": "Ct1tfGmYUSeQpGeopvBQFK6sGVqZitigHBYzJcEmpump",
       "price": 1.0159537488577218e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T20:44:16+00:00",
+      "side": "sell",
+      "symbol": "Miso",
+      "address": "BHdAydkQQ265dcGKY4kemDP7bwYj9hgCDsa2Dn6xpump",
+      "price": 3.054941727e-06,
+      "proceeds": 4.38,
+      "pnl_usd": -45.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T20:44:16+00:00",
+      "side": "sell",
+      "symbol": "JOE",
+      "address": "Ct1tfGmYUSeQpGeopvBQFK6sGVqZitigHBYzJcEmpump",
+      "price": 3.074637594e-06,
+      "proceeds": 7.42,
+      "pnl_usd": -42.58,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T20:44:17+00:00",
+      "side": "buy",
+      "symbol": "SIForce",
+      "address": "EmZet2sGXeCWgFgxK8kSURL78DChAjERQ7ndeD3zpump",
+      "price": 3.5410463198544904e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5815,6 +5810,10 @@
     {
       "date": "2026-10-09T20:22:24+00:00",
       "equity": 3597986.96
+    },
+    {
+      "date": "2026-10-09T20:44:17+00:00",
+      "equity": 3597901.13
     }
   ]
 }
