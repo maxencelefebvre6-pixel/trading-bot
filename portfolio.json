@@ -1,110 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3598118.468234435,
+  "cash": 3598186.664342991,
   "positions": {
-    "CqQsq3aSMYGkG5BZ1E7kYyEWz8Tto3q9ELryvJPQpump": {
-      "symbol": "UBEREATS",
-      "qty": 563437.8360369481,
-      "entry_price": 8.785352497476575e-05,
-      "last_price": 8.518270387516273e-05,
+    "7r8LuNgczABCkHi4JhoNc3LSHYPBUVrf9KZDsSSRpump": {
+      "symbol": "MEGOON",
+      "qty": 4448726.54287237,
+      "entry_price": 1.1126779657721953e-05,
+      "last_price": 1.0715715314548816e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T18:25:29+00:00",
-      "missing": 0
-    },
-    "swuRJ5KRYV1GKZmUuWQCweYUwocdu5QBfhEHhJPpump": {
-      "symbol": "Haaland",
-      "qty": 199443.49764719384,
-      "entry_price": 0.0002481905932454272,
-      "last_price": 0.00024067541822182816,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T18:25:29+00:00",
-      "missing": 0
-    },
-    "EK6Y9m4pqSSNbfTgJJzCvJmMufhwVTqZj62Hhr9Jpump": {
-      "symbol": "Retail",
-      "qty": 4869810.67771357,
-      "entry_price": 1.0164666200789719e-05,
-      "last_price": 9.792338541621722e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T18:25:29+00:00",
-      "missing": 0
-    },
-    "FTapJ2c4MWtuNx1MAE7fcV3vqV3j7X6StpkbuMpGpump": {
-      "symbol": "receipts",
-      "qty": 3521533.9399567526,
-      "entry_price": 1.4056374535639972e-05,
-      "last_price": 1.3546625494378994e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T18:25:29+00:00",
-      "missing": 0
-    },
-    "615fy6ndCHst5qWd3KMC5Q7NkeZTszjUtzfyb3Hjpump": {
-      "symbol": "DERP",
-      "qty": 1361480.1744883934,
-      "entry_price": 3.6357488656491625e-05,
-      "last_price": 3.521067686622161e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T18:25:29+00:00",
+      "entry_time": "2026-10-09T18:50:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T14:30:56+00:00",
-      "side": "sell",
-      "symbol": "GTA 6 Coin",
-      "address": "5n31ghJxTkGYP5XXi1tbDTFkwvQVnrcmdcYgZo8pump",
-      "price": 2.057912168e-06,
-      "proceeds": 0.27,
-      "pnl_usd": -49.73,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T14:30:56+00:00",
-      "side": "sell",
-      "symbol": "LATCH",
-      "address": "6De5mAy5hHHoZpCx9uAg8zNrFSwz86LG7Px1jpDVpump",
-      "price": 3.281084845e-06,
-      "proceeds": 6.6,
-      "pnl_usd": -43.4,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T14:30:56+00:00",
-      "side": "sell",
-      "symbol": "POISE",
-      "address": "A5WkRhrZGLd4PozdGMdd2o9RF8qBXR6MMwzoDTrapump",
-      "price": 2.210334554e-06,
-      "proceeds": 1.76,
-      "pnl_usd": -48.24,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T15:17:54+00:00",
-      "side": "buy",
-      "symbol": "ALBUS",
-      "address": "FMiyLAyBkuNaV69RBi4hrQ5Wxd3g6k1eyoiMPqaCpump",
-      "price": 1.5529862674737228e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T15:45:12+00:00",
-      "side": "sell",
-      "symbol": "ALBUS",
-      "address": "FMiyLAyBkuNaV69RBi4hrQ5Wxd3g6k1eyoiMPqaCpump",
-      "price": 3.25915568e-06,
-      "proceeds": 9.93,
-      "pnl_usd": -40.07,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T15:45:12+00:00",
-      "side": "buy",
-      "symbol": "WUMPUS",
-      "address": "2WZnseF9pVjbEgbyuiPA9uukpDGymsMF2JcfLQGypump",
-      "price": 4.080191078694346e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T15:45:12+00:00",
       "side": "buy",
@@ -4546,6 +4454,64 @@
       "address": "615fy6ndCHst5qWd3KMC5Q7NkeZTszjUtzfyb3Hjpump",
       "price": 3.6357488656491625e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T18:50:33+00:00",
+      "side": "sell",
+      "symbol": "UBEREATS",
+      "address": "CqQsq3aSMYGkG5BZ1E7kYyEWz8Tto3q9ELryvJPQpump",
+      "price": 8.948265446e-05,
+      "proceeds": 24.96,
+      "pnl_usd": -25.04,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T18:50:33+00:00",
+      "side": "sell",
+      "symbol": "Haaland",
+      "address": "swuRJ5KRYV1GKZmUuWQCweYUwocdu5QBfhEHhJPpump",
+      "price": 1.958517422e-06,
+      "proceeds": 0.19,
+      "pnl_usd": -49.81,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T18:50:33+00:00",
+      "side": "sell",
+      "symbol": "Retail",
+      "address": "EK6Y9m4pqSSNbfTgJJzCvJmMufhwVTqZj62Hhr9Jpump",
+      "price": 3.163436523e-06,
+      "proceeds": 7.63,
+      "pnl_usd": -42.37,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T18:50:33+00:00",
+      "side": "sell",
+      "symbol": "receipts",
+      "address": "FTapJ2c4MWtuNx1MAE7fcV3vqV3j7X6StpkbuMpGpump",
+      "price": 3.08355149e-06,
+      "proceeds": 5.38,
+      "pnl_usd": -44.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T18:50:33+00:00",
+      "side": "sell",
+      "symbol": "DERP",
+      "address": "615fy6ndCHst5qWd3KMC5Q7NkeZTszjUtzfyb3Hjpump",
+      "price": 0.0001187731745,
+      "proceeds": 80.05,
+      "pnl_usd": 30.05,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T18:50:34+00:00",
+      "side": "buy",
+      "symbol": "MEGOON",
+      "address": "7r8LuNgczABCkHi4JhoNc3LSHYPBUVrf9KZDsSSRpump",
+      "price": 1.1126779657721953e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5816,6 +5782,10 @@
     {
       "date": "2026-10-09T18:25:29+00:00",
       "equity": 3598357.79
+    },
+    {
+      "date": "2026-10-09T18:50:34+00:00",
+      "equity": 3598234.34
     }
   ]
 }
