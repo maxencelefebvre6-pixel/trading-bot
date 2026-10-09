@@ -1,89 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 3598344.788447456,
+  "cash": 3598118.468234435,
   "positions": {
-    "H9ydupnBFcTjwi3AWu9n7aHomWSeyQ1GuPuFGnaGpump": {
-      "symbol": "Riot Games",
-      "qty": 122210.37642681776,
-      "entry_price": 0.00040503925646315046,
-      "last_price": 0.0003928792818717172,
+    "CqQsq3aSMYGkG5BZ1E7kYyEWz8Tto3q9ELryvJPQpump": {
+      "symbol": "UBEREATS",
+      "qty": 563437.8360369481,
+      "entry_price": 8.785352497476575e-05,
+      "last_price": 8.518270387516273e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T17:59:54+00:00",
+      "entry_time": "2026-10-09T18:25:29+00:00",
       "missing": 0
     },
-    "HATurRNi4JZaW8BQx3J9p1NeSHr4jHybsqDDYA1Apump": {
-      "symbol": "MATTRESS",
-      "qty": 7134659.127772746,
-      "entry_price": 6.937962853377777e-06,
-      "last_price": 6.671765863802386e-06,
+    "swuRJ5KRYV1GKZmUuWQCweYUwocdu5QBfhEHhJPpump": {
+      "symbol": "Haaland",
+      "qty": 199443.49764719384,
+      "entry_price": 0.0002481905932454272,
+      "last_price": 0.00024067541822182816,
       "cost": 50.0,
-      "entry_time": "2026-10-09T17:59:54+00:00",
+      "entry_time": "2026-10-09T18:25:29+00:00",
+      "missing": 0
+    },
+    "EK6Y9m4pqSSNbfTgJJzCvJmMufhwVTqZj62Hhr9Jpump": {
+      "symbol": "Retail",
+      "qty": 4869810.67771357,
+      "entry_price": 1.0164666200789719e-05,
+      "last_price": 9.792338541621722e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T18:25:29+00:00",
+      "missing": 0
+    },
+    "FTapJ2c4MWtuNx1MAE7fcV3vqV3j7X6StpkbuMpGpump": {
+      "symbol": "receipts",
+      "qty": 3521533.9399567526,
+      "entry_price": 1.4056374535639972e-05,
+      "last_price": 1.3546625494378994e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T18:25:29+00:00",
+      "missing": 0
+    },
+    "615fy6ndCHst5qWd3KMC5Q7NkeZTszjUtzfyb3Hjpump": {
+      "symbol": "DERP",
+      "qty": 1361480.1744883934,
+      "entry_price": 3.6357488656491625e-05,
+      "last_price": 3.521067686622161e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T18:25:29+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T14:06:57+00:00",
-      "side": "sell",
-      "symbol": "MAYHEM",
-      "address": "FPtQhVFh5jVbFtV1d3CoGmQmHQhJ2NfiAknWZihKpump",
-      "price": 5.925352652e-07,
-      "proceeds": 1.43,
-      "pnl_usd": -48.57,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T14:06:57+00:00",
-      "side": "buy",
-      "symbol": "FIAT",
-      "address": "AgtW86VbGTM3oTozZ6HdLHjKULM2vjBNq8fVmoNXpump",
-      "price": 4.7247217281589656e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T14:06:57+00:00",
-      "side": "buy",
-      "symbol": "GTA 6 Coin",
-      "address": "5n31ghJxTkGYP5XXi1tbDTFkwvQVnrcmdcYgZo8pump",
-      "price": 0.00036577264506658174,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T14:06:57+00:00",
-      "side": "buy",
-      "symbol": "LATCH",
-      "address": "6De5mAy5hHHoZpCx9uAg8zNrFSwz86LG7Px1jpDVpump",
-      "price": 2.3561260231932293e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T14:06:57+00:00",
-      "side": "buy",
-      "symbol": "POISE",
-      "address": "A5WkRhrZGLd4PozdGMdd2o9RF8qBXR6MMwzoDTrapump",
-      "price": 5.9447534107671544e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T14:30:56+00:00",
-      "side": "sell",
-      "symbol": "APPLE",
-      "address": "6WSbPt5D69UJiRPtmdNamawFG8EU7t9dR7q1ry2Npump",
-      "price": 9.7668903e-06,
-      "proceeds": 45.57,
-      "pnl_usd": -4.43,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-07T14:30:56+00:00",
-      "side": "sell",
-      "symbol": "FIAT",
-      "address": "AgtW86VbGTM3oTozZ6HdLHjKULM2vjBNq8fVmoNXpump",
-      "price": 0.8451489908,
-      "proceeds": 438295.93,
-      "pnl_usd": 438245.93,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-07T14:30:56+00:00",
       "side": "sell",
@@ -4521,6 +4486,66 @@
       "address": "HATurRNi4JZaW8BQx3J9p1NeSHr4jHybsqDDYA1Apump",
       "price": 6.937962853377777e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T18:25:29+00:00",
+      "side": "sell",
+      "symbol": "Riot Games",
+      "address": "H9ydupnBFcTjwi3AWu9n7aHomWSeyQ1GuPuFGnaGpump",
+      "price": 1.940737608e-06,
+      "proceeds": 0.12,
+      "pnl_usd": -49.88,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T18:25:29+00:00",
+      "side": "sell",
+      "symbol": "MATTRESS",
+      "address": "HATurRNi4JZaW8BQx3J9p1NeSHr4jHybsqDDYA1Apump",
+      "price": 6.671765864e-06,
+      "proceeds": 23.56,
+      "pnl_usd": -26.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T18:25:29+00:00",
+      "side": "buy",
+      "symbol": "UBEREATS",
+      "address": "CqQsq3aSMYGkG5BZ1E7kYyEWz8Tto3q9ELryvJPQpump",
+      "price": 8.785352497476575e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T18:25:29+00:00",
+      "side": "buy",
+      "symbol": "Haaland",
+      "address": "swuRJ5KRYV1GKZmUuWQCweYUwocdu5QBfhEHhJPpump",
+      "price": 0.0002481905932454272,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T18:25:29+00:00",
+      "side": "buy",
+      "symbol": "Retail",
+      "address": "EK6Y9m4pqSSNbfTgJJzCvJmMufhwVTqZj62Hhr9Jpump",
+      "price": 1.0164666200789719e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T18:25:29+00:00",
+      "side": "buy",
+      "symbol": "receipts",
+      "address": "FTapJ2c4MWtuNx1MAE7fcV3vqV3j7X6StpkbuMpGpump",
+      "price": 1.4056374535639972e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T18:25:29+00:00",
+      "side": "buy",
+      "symbol": "DERP",
+      "address": "615fy6ndCHst5qWd3KMC5Q7NkeZTszjUtzfyb3Hjpump",
+      "price": 3.6357488656491625e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5787,6 +5812,10 @@
     {
       "date": "2026-10-09T17:59:54+00:00",
       "equity": 3598440.4
+    },
+    {
+      "date": "2026-10-09T18:25:29+00:00",
+      "equity": 3598357.79
     }
   ]
 }
