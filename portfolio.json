@@ -1,75 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3599131.0077205277,
+  "cash": 3599004.489979781,
   "positions": {
-    "33nYP6mDtzyBMwZceDN3yheUkuPFhREaYd6TYFKMpump": {
-      "symbol": "Quant",
-      "qty": 559688.8309715805,
-      "entry_price": 8.844200073471447e-05,
-      "last_price": 8.575371599171373e-05,
+    "BR4owTXJnmKVM7X8BQP7KYAeyeLPDNanfieFsPy4pump": {
+      "symbol": ";)",
+      "qty": 1105882.3641275177,
+      "entry_price": 4.4760637845104674e-05,
+      "last_price": 4.3344550875515326e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T10:49:48+00:00",
+      "entry_time": "2026-10-09T11:05:43+00:00",
       "missing": 0
     },
-    "DznnGwV1hfrx9QeyXP26XvsZPNGw1JJ3aCPcDpvKpump": {
-      "symbol": "Haircut",
-      "qty": 2291750.5389563274,
-      "entry_price": 2.159920949447775e-05,
-      "last_price": 2.0778323128392417e-05,
+    "W5dgZGAYdbAKVNdPnvR6iAUZEoaEPAiH7JLCgYxpump": {
+      "symbol": "OpenAI",
+      "qty": 132225.5889287334,
+      "entry_price": 0.000374360215757325,
+      "last_price": 0.00036310998264765825,
       "cost": 50.0,
-      "entry_time": "2026-10-09T10:49:48+00:00",
+      "entry_time": "2026-10-09T11:05:43+00:00",
+      "missing": 0
+    },
+    "4HJGNbMjA5Lc9vS21kkuN9wwqutnF6cNjENH3szjpump": {
+      "symbol": "Buckytb",
+      "qty": 659380.8836728835,
+      "entry_price": 7.507042018609197e-05,
+      "last_price": 7.285563490598757e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-09T11:05:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T06:28:47+00:00",
-      "side": "sell",
-      "symbol": "RJEAN",
-      "address": "B3TwEvsWvoGPJMCtjVttuXjGs17ubTt2TsdPYkq8pump",
-      "price": 2.64841122e-06,
-      "proceeds": 10.97,
-      "pnl_usd": -39.03,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T06:28:47+00:00",
-      "side": "sell",
-      "symbol": ".memecoin",
-      "address": "AXR4pSk2f1wGQ2AWm6iXTG21SdyszY7xRNsvy3S3pump",
-      "price": 3.354283047e-06,
-      "proceeds": 6.42,
-      "pnl_usd": -43.58,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T06:28:47+00:00",
-      "side": "sell",
-      "symbol": "HURRICANE",
-      "address": "FN1f4U9sBk79npaxYpr9i5KtzPLXU7L7jWieyDjepump",
-      "price": 2.110962669e-05,
-      "proceeds": 74.52,
-      "pnl_usd": 24.52,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-07T06:28:47+00:00",
-      "side": "sell",
-      "symbol": ".si",
-      "address": "ApLeTEvg3weWruGxyQWai2CLM2jDAkx6YThHjUMfpump",
-      "price": 6.644529594e-06,
-      "proceeds": 39.05,
-      "pnl_usd": -10.95,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T06:28:47+00:00",
-      "side": "buy",
-      "symbol": "BUBBLE",
-      "address": "DD4mhXwBSvSTd2sicvfVwGMGgASrSitxHzw8hrErpump",
-      "price": 4.89759125513489e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T06:28:47+00:00",
       "side": "buy",
@@ -4525,6 +4486,50 @@
       "address": "DznnGwV1hfrx9QeyXP26XvsZPNGw1JJ3aCPcDpvKpump",
       "price": 2.159920949447775e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T11:05:43+00:00",
+      "side": "sell",
+      "symbol": "Quant",
+      "address": "33nYP6mDtzyBMwZceDN3yheUkuPFhREaYd6TYFKMpump",
+      "price": 4.985248944e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T11:05:43+00:00",
+      "side": "sell",
+      "symbol": "Haircut",
+      "address": "DznnGwV1hfrx9QeyXP26XvsZPNGw1JJ3aCPcDpvKpump",
+      "price": 2.069985541e-05,
+      "proceeds": 23.48,
+      "pnl_usd": -26.52,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T11:05:43+00:00",
+      "side": "buy",
+      "symbol": ";)",
+      "address": "BR4owTXJnmKVM7X8BQP7KYAeyeLPDNanfieFsPy4pump",
+      "price": 4.4760637845104674e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T11:05:43+00:00",
+      "side": "buy",
+      "symbol": "OpenAI",
+      "address": "W5dgZGAYdbAKVNdPnvR6iAUZEoaEPAiH7JLCgYxpump",
+      "price": 0.000374360215757325,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T11:05:43+00:00",
+      "side": "buy",
+      "symbol": "Buckytb",
+      "address": "4HJGNbMjA5Lc9vS21kkuN9wwqutnF6cNjENH3szjpump",
+      "price": 7.507042018609197e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5719,6 +5724,10 @@
     {
       "date": "2026-10-09T10:49:48+00:00",
       "equity": 3599226.62
+    },
+    {
+      "date": "2026-10-09T11:05:43+00:00",
+      "equity": 3599148.48
     }
   ]
 }
