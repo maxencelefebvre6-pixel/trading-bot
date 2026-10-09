@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3597707.6453590626,
+  "cash": 3597726.1263542473,
   "positions": {
-    "BRftaPAaqh2P5Dst8XUx36NfVhBB1AMfFD8JtQUpump": {
-      "symbol": "Mr Beast",
-      "qty": 205204.54376109494,
-      "entry_price": 0.0002412227287599895,
-      "last_price": 0.00023391318372180826,
+    "BHvGuFtr6Rc8P9iSwdm7nmYP8AwWcVUWg5eGpAbjpump": {
+      "symbol": "MUSKRATS",
+      "qty": 2521081.918489223,
+      "entry_price": 1.963442744044717e-05,
+      "last_price": 1.8930019480123264e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-09T21:43:25+00:00",
-      "missing": 0
-    },
-    "AbNraVnNpTj75oaVvKY5soa97JLARGF2KCxF7cwPpump": {
-      "symbol": "QRAWL",
-      "qty": 5742938.832207949,
-      "entry_price": 8.619280380001726e-06,
-      "last_price": 8.290804877556885e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T21:43:25+00:00",
+      "entry_time": "2026-10-09T21:59:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T20:05:59+00:00",
-      "side": "buy",
-      "symbol": "BeeCat",
-      "address": "6H6tvMNu5fzxVTNn4je6W23yH9STBU1medMijrt4pump",
-      "price": 3.899774478549705e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T20:05:59+00:00",
-      "side": "buy",
-      "symbol": "VRAM",
-      "address": "GJiWxuds6Ms8JQcX4xQLk2HXexCFrf3HNAm3cqjtpump",
-      "price": 1.2935100506037648e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T20:05:59+00:00",
-      "side": "buy",
-      "symbol": "Ahh",
-      "address": "26eYh6qat3hEXXmXcBUeeej6iPwz21Y4oFsCN287pump",
-      "price": 9.894280098426355e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T20:28:17+00:00",
       "side": "sell",
@@ -4521,6 +4488,34 @@
       "address": "AbNraVnNpTj75oaVvKY5soa97JLARGF2KCxF7cwPpump",
       "price": 8.619280380001726e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T21:59:37+00:00",
+      "side": "sell",
+      "symbol": "Mr Beast",
+      "address": "BRftaPAaqh2P5Dst8XUx36NfVhBB1AMfFD8JtQUpump",
+      "price": 0.0005037245738,
+      "proceeds": 51.17,
+      "pnl_usd": 1.17,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T21:59:37+00:00",
+      "side": "sell",
+      "symbol": "QRAWL",
+      "address": "AbNraVnNpTj75oaVvKY5soa97JLARGF2KCxF7cwPpump",
+      "price": 6.090761976e-06,
+      "proceeds": 17.31,
+      "pnl_usd": -32.69,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T21:59:37+00:00",
+      "side": "buy",
+      "symbol": "MUSKRATS",
+      "address": "BHvGuFtr6Rc8P9iSwdm7nmYP8AwWcVUWg5eGpAbjpump",
+      "price": 1.963442744044717e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5831,6 +5826,10 @@
     {
       "date": "2026-10-09T21:43:25+00:00",
       "equity": 3597803.26
+    },
+    {
+      "date": "2026-10-09T21:59:37+00:00",
+      "equity": 3597773.85
     }
   ]
 }
