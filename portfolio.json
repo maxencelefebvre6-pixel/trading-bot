@@ -1,80 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3597705.4425391536,
+  "cash": 3597707.6453590626,
   "positions": {
-    "FP3teuUvGShWqeCpTRGK64dM4dSq8Vc7RbdEouVUpump": {
-      "symbol": "tidecoin",
-      "qty": 2588541.746081925,
-      "entry_price": 1.9122735831834396e-05,
-      "last_price": 1.8489584574515353e-05,
+    "BRftaPAaqh2P5Dst8XUx36NfVhBB1AMfFD8JtQUpump": {
+      "symbol": "Mr Beast",
+      "qty": 205204.54376109494,
+      "entry_price": 0.0002412227287599895,
+      "last_price": 0.00023391318372180826,
       "cost": 50.0,
-      "entry_time": "2026-10-09T21:22:50+00:00",
+      "entry_time": "2026-10-09T21:43:25+00:00",
       "missing": 0
     },
-    "7mS3UP5vh4GD5jA3XjCZyT2KVwBhLNanjRn17Wfpump": {
-      "symbol": "Q/ACC",
-      "qty": 821602.6246492857,
-      "entry_price": 6.024810354169678e-05,
-      "last_price": 5.83267219068347e-05,
+    "AbNraVnNpTj75oaVvKY5soa97JLARGF2KCxF7cwPpump": {
+      "symbol": "QRAWL",
+      "qty": 5742938.832207949,
+      "entry_price": 8.619280380001726e-06,
+      "last_price": 8.290804877556885e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-09T21:22:50+00:00",
-      "missing": 0
-    },
-    "Qv2EfS4yLxYWsQiudkVgkUacpCPkiWxYYjujbgSpump": {
-      "symbol": "QNTINU",
-      "qty": 3958617.4273518603,
-      "entry_price": 1.2504365705557282e-05,
-      "last_price": 1.2077987551267343e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-09T21:22:50+00:00",
+      "entry_time": "2026-10-09T21:43:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T19:50:35+00:00",
-      "side": "buy",
-      "symbol": "SENTS",
-      "address": "HjSEj5pYU5ayfSsZW1JeygVk516AHPWUTmVQpD3Xpump",
-      "price": 4.757563378253475e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T19:50:35+00:00",
-      "side": "buy",
-      "symbol": "ODD",
-      "address": "sww1MrV1qJ1XcyNqyus4LUsjXvmAXehEfc8DGc5pump",
-      "price": 8.018256323842606e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T20:05:59+00:00",
-      "side": "sell",
-      "symbol": "SENTS",
-      "address": "HjSEj5pYU5ayfSsZW1JeygVk516AHPWUTmVQpD3Xpump",
-      "price": 6.112748179e-05,
-      "proceeds": 31.48,
-      "pnl_usd": -18.52,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T20:05:59+00:00",
-      "side": "sell",
-      "symbol": "ODD",
-      "address": "sww1MrV1qJ1XcyNqyus4LUsjXvmAXehEfc8DGc5pump",
-      "price": 3.24711805e-06,
-      "proceeds": 19.1,
-      "pnl_usd": -30.9,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T20:05:59+00:00",
-      "side": "buy",
-      "symbol": "Eco",
-      "address": "2PEzsT3fo9ZCcKRzLtB8fzR26Z3UaUwPv9Ucb1Uxpump",
-      "price": 4.7082318799341195e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T20:05:59+00:00",
       "side": "buy",
@@ -4528,6 +4475,52 @@
       "address": "Qv2EfS4yLxYWsQiudkVgkUacpCPkiWxYYjujbgSpump",
       "price": 1.2504365705557282e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T21:43:24+00:00",
+      "side": "sell",
+      "symbol": "tidecoin",
+      "address": "FP3teuUvGShWqeCpTRGK64dM4dSq8Vc7RbdEouVUpump",
+      "price": 1.901467819e-05,
+      "proceeds": 24.36,
+      "pnl_usd": -25.64,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T21:43:24+00:00",
+      "side": "sell",
+      "symbol": "Q/ACC",
+      "address": "7mS3UP5vh4GD5jA3XjCZyT2KVwBhLNanjRn17Wfpump",
+      "price": 0.0001332005518,
+      "proceeds": 54.17,
+      "pnl_usd": 4.17,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T21:43:24+00:00",
+      "side": "sell",
+      "symbol": "QNTINU",
+      "address": "Qv2EfS4yLxYWsQiudkVgkUacpCPkiWxYYjujbgSpump",
+      "price": 1.207798755e-05,
+      "proceeds": 23.67,
+      "pnl_usd": -26.33,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-09T21:43:25+00:00",
+      "side": "buy",
+      "symbol": "Mr Beast",
+      "address": "BRftaPAaqh2P5Dst8XUx36NfVhBB1AMfFD8JtQUpump",
+      "price": 0.0002412227287599895,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-09T21:43:25+00:00",
+      "side": "buy",
+      "symbol": "QRAWL",
+      "address": "AbNraVnNpTj75oaVvKY5soa97JLARGF2KCxF7cwPpump",
+      "price": 8.619280380001726e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5834,6 +5827,10 @@
     {
       "date": "2026-10-09T21:22:50+00:00",
       "equity": 3597849.04
+    },
+    {
+      "date": "2026-10-09T21:43:25+00:00",
+      "equity": 3597803.26
     }
   ]
 }
