@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5168978.036109762,
+  "cash": 5169000.341007222,
   "positions": {
-    "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump": {
-      "symbol": "STUTUTU",
-      "qty": 5782765.62167291,
-      "entry_price": 8.559918080456463e-06,
-      "last_price": 8.248928073e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T22:20:46+00:00",
-      "missing": 0
-    },
     "H7C8BVjPUqjxgDqiZHd7oGQ7ND2X48ykZa6qmU93pump": {
       "symbol": "$MFRG",
       "qty": 3166988.076688553,
@@ -20,54 +11,26 @@
       "entry_time": "2026-10-10T22:56:03+00:00",
       "missing": 0
     },
-    "GRqo1UTUYAu9BvRGgXZEe7sHMnKQKTNHgExNiFqGpump": {
-      "symbol": "MONY",
-      "qty": 8548609.540623562,
-      "entry_price": 5.790415361091496e-06,
-      "last_price": 5.572873861290004e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T23:15:05+00:00",
-      "missing": 0
-    },
     "BXUgw1sqDG1717Ki6o7Gh733mQWmmQdZiMh1GvDMpump": {
       "symbol": "Fox",
       "qty": 5310073.329002143,
       "entry_price": 9.321905166477604e-06,
-      "last_price": 8.98525414409507e-06,
+      "last_price": 8.985254144e-06,
       "cost": 50.0,
       "entry_time": "2026-10-10T23:15:05+00:00",
+      "missing": 0
+    },
+    "9dj3YfNG8dQzPDATu7Ysp9CsDkCw974Mbc1EAkhepump": {
+      "symbol": "$BOX",
+      "qty": 4169272.48521495,
+      "entry_price": 1.187257493376521e-05,
+      "last_price": 1.1465237021514997e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T23:33:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T02:48:47+00:00",
-      "side": "buy",
-      "symbol": "adsadsdsa",
-      "address": "6ETGivpE1NJULgd2htjJPvEoYhTJocSoCd1Q4Kk6pump",
-      "price": 8.742869584724571e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T03:03:30+00:00",
-      "side": "sell",
-      "symbol": "HeeHaw",
-      "address": "A1p962d6byVYoWZwXD3m3TqKzvEbzkwySBXSnphfpump",
-      "price": 9.111373489e-05,
-      "proceeds": 25.15,
-      "pnl_usd": -24.85,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T03:03:30+00:00",
-      "side": "sell",
-      "symbol": "TikTok",
-      "address": "s2vPe7krwXtrtZTiDBx246mrtEwiByUWhbGSX3upump",
-      "price": 2.016711177e-06,
-      "proceeds": 0.26,
-      "pnl_usd": -49.74,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-09T03:03:30+00:00",
       "side": "sell",
@@ -4539,6 +4502,34 @@
       "address": "BXUgw1sqDG1717Ki6o7Gh733mQWmmQdZiMh1GvDMpump",
       "price": 9.321905166477604e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T23:33:38+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump",
+      "price": 8.248928073e-06,
+      "proceeds": 45.46,
+      "pnl_usd": -4.54,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T23:33:38+00:00",
+      "side": "sell",
+      "symbol": "MONY",
+      "address": "GRqo1UTUYAu9BvRGgXZEe7sHMnKQKTNHgExNiFqGpump",
+      "price": 3.307742276e-06,
+      "proceeds": 26.85,
+      "pnl_usd": -23.15,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T23:33:38+00:00",
+      "side": "buy",
+      "symbol": "$BOX",
+      "address": "9dj3YfNG8dQzPDATu7Ysp9CsDkCw974Mbc1EAkhepump",
+      "price": 1.187257493376521e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6153,6 +6144,10 @@
     {
       "date": "2026-10-10T23:15:05+00:00",
       "equity": 5169168.8
+    },
+    {
+      "date": "2026-10-10T23:33:38+00:00",
+      "equity": 5169143.56
     }
   ]
 }
