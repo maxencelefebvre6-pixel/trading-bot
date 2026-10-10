@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3598306.4881346608,
+  "cash": 3598311.278685979,
   "positions": {
     "8PVXxt6kCJ3V3KhHVe78QcvUszha3odd1441BP7bpump": {
       "symbol": "MEGANFOX",
@@ -10,28 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-10T09:57:39+00:00",
       "missing": 0
-    },
-    "4DyGgxi2FNF6LTjMYZKp7DJPiJJdzhJ6U3SFN5rXpump": {
-      "symbol": "ABC",
-      "qty": 1429229.1610235702,
-      "entry_price": 3.463405404109556e-05,
-      "last_price": 3.3443580068957635e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T10:37:23+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T09:09:49+00:00",
-      "side": "sell",
-      "symbol": "OTTER",
-      "address": "2bfztxJtnQwYwYwFgZionFbDfidSM8nNaiAkxUMTpump",
-      "price": 1.236104504e-05,
-      "proceeds": 56.79,
-      "pnl_usd": 6.79,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-08T09:09:49+00:00",
       "side": "sell",
@@ -4521,6 +4502,16 @@
       "address": "4DyGgxi2FNF6LTjMYZKp7DJPiJJdzhJ6U3SFN5rXpump",
       "price": 3.463405404109556e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T10:54:12+00:00",
+      "side": "sell",
+      "symbol": "ABC",
+      "address": "4DyGgxi2FNF6LTjMYZKp7DJPiJJdzhJ6U3SFN5rXpump",
+      "price": 3.497447739e-06,
+      "proceeds": 4.79,
+      "pnl_usd": -45.21,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5979,6 +5970,10 @@
     {
       "date": "2026-10-10T10:37:23+00:00",
       "equity": 3598401.93
+    },
+    {
+      "date": "2026-10-10T10:54:12+00:00",
+      "equity": 3598358.92
     }
   ]
 }
