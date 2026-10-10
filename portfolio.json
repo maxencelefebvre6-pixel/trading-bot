@@ -1,56 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 4488452.877592145,
+  "cash": 4488486.370291132,
   "positions": {
-    "Eagn78wH733VYFgiSEGm3xCNTo1ju17VyXj1LMn2pump": {
-      "symbol": "Goose",
-      "qty": 455877.31828128244,
-      "entry_price": 0.00010858184431421489,
-      "last_price": 0.00010519417633382398,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T16:53:49+00:00",
-      "missing": 0
-    },
-    "6MyEVKPcWbe3r3K7Cgv6KwG5o69QgspLpJC9KGTgpump": {
-      "symbol": "DEX",
-      "qty": 5156904.2191503225,
-      "entry_price": 9.598782117414597e-06,
-      "last_price": 9.240982008957139e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T16:53:49+00:00",
-      "missing": 0
-    },
     "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump": {
       "symbol": "SOOTS",
       "qty": 3480021.9513796004,
       "entry_price": 1.4224048207620213e-05,
-      "last_price": 1.3756481169377293e-05,
+      "last_price": 1.375648117e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T16:53:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T15:40:33+00:00",
-      "side": "sell",
-      "symbol": "EPS",
-      "address": "6WSiuXb3djhMuFd6edCd7uyfPz1UcVHywwpBmLp3pump",
-      "price": 3.048208311e-06,
-      "proceeds": 12.62,
-      "pnl_usd": -37.38,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T16:01:10+00:00",
-      "side": "sell",
-      "symbol": "ATFS",
-      "address": "4tSrhyh2WSTht6DrtiuWGD5BYDkyNMHFT5c7vxCdpump",
-      "price": 0.01457735509,
-      "proceeds": 46.68,
-      "pnl_usd": -3.32,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T16:27:44+00:00",
       "side": "sell",
@@ -4530,6 +4492,26 @@
       "address": "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump",
       "price": 1.4224048207620213e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T17:11:00+00:00",
+      "side": "sell",
+      "symbol": "Goose",
+      "address": "Eagn78wH733VYFgiSEGm3xCNTo1ju17VyXj1LMn2pump",
+      "price": 4.191873157e-05,
+      "proceeds": 18.32,
+      "pnl_usd": -31.68,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T17:11:00+00:00",
+      "side": "sell",
+      "symbol": "DEX",
+      "address": "6MyEVKPcWbe3r3K7Cgv6KwG5o69QgspLpJC9KGTgpump",
+      "price": 3.085568137e-06,
+      "proceeds": 15.18,
+      "pnl_usd": -34.82,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6060,6 +6042,10 @@
     {
       "date": "2026-10-10T16:53:49+00:00",
       "equity": 4488596.36
+    },
+    {
+      "date": "2026-10-10T17:11:00+00:00",
+      "equity": 4488534.24
     }
   ]
 }
