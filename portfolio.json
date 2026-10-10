@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5169346.755552886,
+  "cash": 5169196.812209966,
   "positions": {
-    "6kaWS7CHggnt1XHwivv36aEsdUpyVhBn4hb872pcpump": {
-      "symbol": "sponge",
-      "qty": 6756738.223042168,
-      "entry_price": 7.326020095198097e-06,
-      "last_price": 7.050475762567463e-06,
+    "65bvXVS7DLf3E3YpxRYrhMMbx8N7TWUnLRNT6Zk7pump": {
+      "symbol": "Fomo",
+      "qty": 118086.68477321159,
+      "entry_price": 0.00041918358615169847,
+      "last_price": 0.000406607337819685,
       "cost": 50.0,
-      "entry_time": "2026-10-10T20:52:20+00:00",
+      "entry_time": "2026-10-10T21:08:06+00:00",
+      "missing": 0
+    },
+    "AApfmJC2xnajViqiPpT5cGVvNweK4ihihAq6YY5ppump": {
+      "symbol": "COIN",
+      "qty": 561454.2729621046,
+      "entry_price": 8.816390289248187e-05,
+      "last_price": 8.548426652768225e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T21:08:06+00:00",
+      "missing": 0
+    },
+    "Fh5TKE1hcgQcK4VWZdtpyhnJCdwsRsW2QpqgHscYpump": {
+      "symbol": "Kinesins",
+      "qty": 7806044.745931666,
+      "entry_price": 6.341239592022359e-06,
+      "last_price": 6.098209028413476e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T21:08:06+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T23:08:59+00:00",
-      "side": "sell",
-      "symbol": "TikTok",
-      "address": "HirKBDK791M4XS1k9YVGRy2ukMnfATXikLhMqYpgpump",
-      "price": 3.717821235e-07,
-      "proceeds": 0.1,
-      "pnl_usd": -49.9,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T23:29:33+00:00",
-      "side": "buy",
-      "symbol": "SI",
-      "address": "5fNjBcG2jPQxc6ZVqDMQW6yDFF43MMHj5kNR5oYPpump",
-      "price": 7.924848864321515e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T23:48:08+00:00",
-      "side": "sell",
-      "symbol": "SI",
-      "address": "5fNjBcG2jPQxc6ZVqDMQW6yDFF43MMHj5kNR5oYPpump",
-      "price": 2.466580284e-06,
-      "proceeds": 1.48,
-      "pnl_usd": -48.52,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T23:48:08+00:00",
-      "side": "buy",
-      "symbol": "COIN",
-      "address": "954G9QMy1F1NNVU6z6F8phVjuVZ84e66Pm9b5Dz9pump",
-      "price": 8.81015723378357e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T00:02:02+00:00",
       "side": "sell",
@@ -4512,6 +4494,40 @@
       "address": "6kaWS7CHggnt1XHwivv36aEsdUpyVhBn4hb872pcpump",
       "price": 7.326020095198097e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T21:08:06+00:00",
+      "side": "sell",
+      "symbol": "sponge",
+      "address": "6kaWS7CHggnt1XHwivv36aEsdUpyVhBn4hb872pcpump",
+      "price": 8.814079823e-09,
+      "proceeds": 0.06,
+      "pnl_usd": -49.94,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T21:08:06+00:00",
+      "side": "buy",
+      "symbol": "Fomo",
+      "address": "65bvXVS7DLf3E3YpxRYrhMMbx8N7TWUnLRNT6Zk7pump",
+      "price": 0.00041918358615169847,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T21:08:06+00:00",
+      "side": "buy",
+      "symbol": "COIN",
+      "address": "AApfmJC2xnajViqiPpT5cGVvNweK4ihihAq6YY5ppump",
+      "price": 8.816390289248187e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T21:08:06+00:00",
+      "side": "buy",
+      "symbol": "Kinesins",
+      "address": "Fh5TKE1hcgQcK4VWZdtpyhnJCdwsRsW2QpqgHscYpump",
+      "price": 6.341239592022359e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6094,6 +6110,10 @@
     {
       "date": "2026-10-10T20:52:20+00:00",
       "equity": 5169394.39
+    },
+    {
+      "date": "2026-10-10T21:08:06+00:00",
+      "equity": 5169340.43
     }
   ]
 }
