@@ -1,47 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 3597647.2245402467,
-  "positions": {
-    "27SfA8mh9poJpd2wps3ep4djhFyRr9rdrSL5Y75Epump": {
-      "symbol": "$AURA",
-      "qty": 4631300.250550837,
-      "entry_price": 1.0688143139523846e-05,
-      "last_price": 1.032457515896765e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T04:18:55+00:00",
-      "missing": 0
-    },
-    "9w1LraxMJyU6wDhU2X754hZ9mQk7WmxdfY2wH7Gqpump": {
-      "symbol": "🎃",
-      "qty": 5358068.812442806,
-      "entry_price": 9.23840318829955e-06,
-      "last_price": 8.915133341183623e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T04:18:55+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 3597647.565952166,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-08T00:39:40+00:00",
-      "side": "sell",
-      "symbol": "cowe",
-      "address": "FpXVkwLNk4k6YgNDhJuPHfe8rEinSLrYksx5GZcppump",
-      "price": 3.313726934e-06,
-      "proceeds": 17.6,
-      "pnl_usd": -32.4,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T01:03:38+00:00",
-      "side": "sell",
-      "symbol": "FERSPE",
-      "address": "4aM8NFTCkCL9QySb5VssKN1B7xwbvcW8kqZcBMKUpump",
-      "price": 9.017733053e-06,
-      "proceeds": 45.57,
-      "pnl_usd": -4.43,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T01:03:38+00:00",
       "side": "sell",
@@ -4523,6 +4484,26 @@
       "address": "9w1LraxMJyU6wDhU2X754hZ9mQk7WmxdfY2wH7Gqpump",
       "price": 9.23840318829955e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T04:41:34+00:00",
+      "side": "sell",
+      "symbol": "$AURA",
+      "address": "27SfA8mh9poJpd2wps3ep4djhFyRr9rdrSL5Y75Epump",
+      "price": 5.219220594e-09,
+      "proceeds": 0.02,
+      "pnl_usd": -49.98,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T04:41:34+00:00",
+      "side": "sell",
+      "symbol": "🎃",
+      "address": "9w1LraxMJyU6wDhU2X754hZ9mQk7WmxdfY2wH7Gqpump",
+      "price": 6.226384144e-08,
+      "proceeds": 0.32,
+      "pnl_usd": -49.68,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5905,6 +5886,10 @@
     {
       "date": "2026-10-10T04:18:55+00:00",
       "equity": 3597742.81
+    },
+    {
+      "date": "2026-10-10T04:41:35+00:00",
+      "equity": 3597647.57
     }
   ]
 }
