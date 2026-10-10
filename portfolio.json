@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3598256.625215916,
+  "cash": 3598156.625215916,
   "positions": {
     "65BaMYPoYphbYRQFK9NgJwPx1vTaZ6SMPH3DXAFqpump": {
       "symbol": "STUTUTU",
       "qty": 4591988.236638701,
       "entry_price": 1.0779644339035506e-05,
-      "last_price": 1.0418412067287816e-05,
+      "last_price": 1.037089905e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T11:31:17+00:00",
+      "missing": 0
+    },
+    "EVtG1uUaVJSAg22VwxEMCLVcMc8CoBnVx4nBWStpump": {
+      "symbol": "FOMO",
+      "qty": 230235.4246668745,
+      "entry_price": 0.00021499732316007016,
+      "last_price": 0.0002084700007480231,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T11:49:37+00:00",
+      "missing": 0
+    },
+    "6T5ZaozTWxUis29u43PMYnZo74fTtm9QuGxpphVUpump": {
+      "symbol": "Grail",
+      "qty": 4031596.8285417086,
+      "entry_price": 1.2278013428715024e-05,
+      "last_price": 1.1829615009100367e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T11:49:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T09:33:48+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "38bGyrSpxjdeGBPwvmjvVbYPtAmSfGhh4ULGV3UJpump",
-      "price": 1.5950980614359474e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T09:33:48+00:00",
-      "side": "buy",
-      "symbol": "cap",
-      "address": "33vFVwqvaksdHxcRb2MJ1AACYTkrcm9AghXKdh64pump",
-      "price": 2.7754124514812673e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T09:55:21+00:00",
       "side": "sell",
@@ -4512,6 +4514,22 @@
       "address": "65BaMYPoYphbYRQFK9NgJwPx1vTaZ6SMPH3DXAFqpump",
       "price": 1.0779644339035506e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T11:49:37+00:00",
+      "side": "buy",
+      "symbol": "FOMO",
+      "address": "EVtG1uUaVJSAg22VwxEMCLVcMc8CoBnVx4nBWStpump",
+      "price": 0.00021499732316007016,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T11:49:37+00:00",
+      "side": "buy",
+      "symbol": "Grail",
+      "address": "6T5ZaozTWxUis29u43PMYnZo74fTtm9QuGxpphVUpump",
+      "price": 1.2278013428715024e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5982,6 +6000,10 @@
     {
       "date": "2026-10-10T11:31:17+00:00",
       "equity": 3598304.47
+    },
+    {
+      "date": "2026-10-10T11:49:37+00:00",
+      "equity": 3598299.94
     }
   ]
 }
