@@ -1,57 +1,21 @@
 {
   "mode": "pumpfun",
-  "cash": 3884060.141161233,
+  "cash": 3884146.4781360044,
   "positions": {
-    "J2Kr4gfi4JQH7FPZLmKxFo4xqb6UnV5XcUEEEJqhpump": {
-      "symbol": "FUN",
-      "qty": 1401805.0615190177,
-      "entry_price": 3.531161454529279e-05,
-      "last_price": 3.422892522e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:05:34+00:00",
-      "missing": 0
-    },
-    "8Py1ZQcHUWvj7i48W1WBBiTgqbEZ4P4oj3Ettu1qpump": {
-      "symbol": "BRAINROT",
-      "qty": 12883631.483172046,
-      "entry_price": 3.842084435949167e-06,
-      "last_price": 3.685592763e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:05:34+00:00",
-      "missing": 0
-    },
-    "HpZ9W4jUSg6UJApWVNgqN7Q1pKNZQWNrqceSr8DSpump": {
-      "symbol": "BRAINROT",
-      "qty": 5254009.686365331,
-      "entry_price": 9.421375854798545e-06,
-      "last_price": 9.084281571e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:05:34+00:00",
-      "missing": 0
-    },
     "XJ5V7PNjzSFRAHwx72nm7eQ6VFnx7oZJDspK4n6pump": {
       "symbol": "SARP",
       "qty": 817.8959885982443,
       "entry_price": 0.06052114289597612,
-      "last_price": 0.06117084616,
+      "last_price": 0.06220290929,
       "cost": 50.0,
       "entry_time": "2026-10-10T14:25:11+00:00",
-      "missing": 0
-    },
-    "J6vUmbTFJ15gZjg1Hk1GYGCW9Dgx9kfcX8mSm8Fqpump": {
-      "symbol": "Felix",
-      "qty": 554004.4042659635,
-      "entry_price": 8.934947018261665e-05,
-      "last_price": 8.66345277335369e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:59:12+00:00",
       "missing": 0
     },
     "BR5BPTC3NUcD63hubUatkVDQPcvFREWNQVFQMycSpump": {
       "symbol": "angel",
       "qty": 4389474.350960966,
       "entry_price": 1.1276976704320691e-05,
-      "last_price": 1.0885430463841753e-05,
+      "last_price": 1.088543046e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T14:59:12+00:00",
       "missing": 0
@@ -60,7 +24,7 @@
       "symbol": "MCH",
       "qty": 3587316.139734775,
       "entry_price": 1.3798616590189829e-05,
-      "last_price": 1.332066671273772e-05,
+      "last_price": 1.332066671e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T14:59:12+00:00",
       "missing": 0
@@ -69,59 +33,22 @@
       "symbol": "STUTUTU",
       "qty": 2937648.4420176484,
       "entry_price": 1.685021233037749e-05,
-      "last_price": 1.6293005088855665e-05,
+      "last_price": 1.629300509e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T14:59:12+00:00",
+      "missing": 0
+    },
+    "8qreXe4qU1xdtZTYFH5s7haDrm9XicT7pm8jAd45pump": {
+      "symbol": "STUTUTU",
+      "qty": 5125529.557437119,
+      "entry_price": 9.657538688500144e-06,
+      "last_price": 9.313611500592521e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T15:19:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T13:25:44+00:00",
-      "side": "sell",
-      "symbol": "BUGATTI",
-      "address": "5YHpcghEmBJ5KXK2ikM4447yyWNBrYKY31DCsANfpump",
-      "price": 2.021214834e-06,
-      "proceeds": 0.49,
-      "pnl_usd": -49.51,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T13:25:45+00:00",
-      "side": "buy",
-      "symbol": "STONKS",
-      "address": "AvcXontTzcT6eYLnx83rHMSJRhQ7H4HXpYvcgCGYpump",
-      "price": 1.4637731367059175e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T13:25:45+00:00",
-      "side": "buy",
-      "symbol": "Auruphil",
-      "address": "AMKXdN3j6ATk1WJa9v9hjW2AGi8Qf1EszonwKJaqpump",
-      "price": 3.500375841506855e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T13:49:11+00:00",
-      "side": "sell",
-      "symbol": "SARP",
-      "address": "2bCwqeEgkeXmtH3FhLMaxi9H58hLtVP7rzoJUJdWpump",
-      "price": 1.957038349e-06,
-      "proceeds": 0.01,
-      "pnl_usd": -49.99,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T13:49:11+00:00",
-      "side": "sell",
-      "symbol": "STONKS",
-      "address": "AvcXontTzcT6eYLnx83rHMSJRhQ7H4HXpYvcgCGYpump",
-      "price": 2.07163043e-06,
-      "proceeds": 6.56,
-      "pnl_usd": -43.44,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-08T13:49:11+00:00",
       "side": "sell",
@@ -4569,6 +4496,54 @@
       "address": "FcMCUWxkWAp4pfVxAD5yyZz3ZxtpcoockdG4pQc3pump",
       "price": 1.685021233037749e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T15:19:44+00:00",
+      "side": "sell",
+      "symbol": "FUN",
+      "address": "J2Kr4gfi4JQH7FPZLmKxFo4xqb6UnV5XcUEEEJqhpump",
+      "price": 3.422892522e-05,
+      "proceeds": 45.99,
+      "pnl_usd": -4.01,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T15:19:44+00:00",
+      "side": "sell",
+      "symbol": "BRAINROT",
+      "address": "8Py1ZQcHUWvj7i48W1WBBiTgqbEZ4P4oj3Ettu1qpump",
+      "price": 3.685592763e-06,
+      "proceeds": 44.83,
+      "pnl_usd": -5.17,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T15:19:44+00:00",
+      "side": "sell",
+      "symbol": "BRAINROT",
+      "address": "HpZ9W4jUSg6UJApWVNgqN7Q1pKNZQWNrqceSr8DSpump",
+      "price": 9.084281571e-06,
+      "proceeds": 45.51,
+      "pnl_usd": -4.49,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T15:19:44+00:00",
+      "side": "sell",
+      "symbol": "Felix",
+      "address": "J6vUmbTFJ15gZjg1Hk1GYGCW9Dgx9kfcX8mSm8Fqpump",
+      "price": 5.02345612e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T15:19:44+00:00",
+      "side": "buy",
+      "symbol": "STUTUTU",
+      "address": "8qreXe4qU1xdtZTYFH5s7haDrm9XicT7pm8jAd45pump",
+      "price": 9.657538688500144e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6075,6 +6050,10 @@
     {
       "date": "2026-10-10T14:59:12+00:00",
       "equity": 3884444.79
+    },
+    {
+      "date": "2026-10-10T15:19:44+00:00",
+      "equity": 3884388.52
     }
   ]
 }
