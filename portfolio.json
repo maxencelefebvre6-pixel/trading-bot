@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3597410.885784681,
+  "cash": 3597263.0208799792,
   "positions": {
     "DV3JyDvhBe8ZiD9Kvx4SxX1tF9XTt1PAA2gZYhRnpump": {
       "symbol": "Fox",
@@ -29,78 +29,44 @@
       "entry_time": "2026-10-10T09:20:43+00:00",
       "missing": 0
     },
-    "eC5CQqWmcx76ZhkULbw7fVQLNxnNY7UAB7B3Gd3pump": {
-      "symbol": "AI",
-      "qty": 245875.875958118,
-      "entry_price": 0.0002013210926330639,
-      "last_price": 0.0001952008495200384,
+    "8ZjzMTSAxawcNgQFzLzKFXTcV2qXWVTeDLCNhH17pump": {
+      "symbol": "modder",
+      "qty": 3305942.8755630595,
+      "entry_price": 1.4973035488875255e-05,
+      "last_price": 1.4434083977850116e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T09:41:07+00:00",
+      "entry_time": "2026-10-10T09:57:39+00:00",
       "missing": 0
     },
-    "UhjmSL1eDvnHUPbL2ru5JMXjxvBUkjWnSMvNdx3pump": {
-      "symbol": "CANVAS",
-      "qty": 5639248.289740431,
-      "entry_price": 8.777765662500814e-06,
-      "last_price": 8.4439995963561e-06,
+    "BtMDkydRma3b8LRK5vetBwfBwmknvq6JJFH7uaS6pump": {
+      "symbol": "Poolympics",
+      "qty": 5301994.609872499,
+      "entry_price": 9.336109076351997e-06,
+      "last_price": 8.988986791935106e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-10T09:41:07+00:00",
+      "entry_time": "2026-10-10T09:57:39+00:00",
+      "missing": 0
+    },
+    "8PVXxt6kCJ3V3KhHVe78QcvUszha3odd1441BP7bpump": {
+      "symbol": "MEGANFOX",
+      "qty": 6700618.684043154,
+      "entry_price": 7.3873775443869455e-06,
+      "last_price": 7.1100982572471225e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T09:57:39+00:00",
+      "missing": 0
+    },
+    "6Jy4euX2WpGDFQ7fYAxTJ4bBPNrKHRoBf7588g3Cpump": {
+      "symbol": "MEGANFOX",
+      "qty": 4639654.667066158,
+      "entry_price": 1.0668897483118256e-05,
+      "last_price": 1.0295869140556945e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T09:57:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T07:23:38+00:00",
-      "side": "buy",
-      "symbol": "MESSI",
-      "address": "8NihwynnzabWaZfGrzixzv1y3fBFMKnA2mBTCRgapump",
-      "price": 2.3648953327419717e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T07:45:55+00:00",
-      "side": "sell",
-      "symbol": "MESSI",
-      "address": "8NihwynnzabWaZfGrzixzv1y3fBFMKnA2mBTCRgapump",
-      "price": 1.775790795e-06,
-      "proceeds": 34.73,
-      "pnl_usd": -15.27,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T07:45:55+00:00",
-      "side": "buy",
-      "symbol": "Penguin",
-      "address": "6Aug5n6KjCfu8JmMk1xxCxoqtyprD3uNcmHF4Phdpump",
-      "price": 4.680661931803593e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T07:45:55+00:00",
-      "side": "buy",
-      "symbol": "polaris",
-      "address": "7mf513hDoMbKL3wC2KYsr3eAhFCoPpgBbUrVj1A9pump",
-      "price": 7.2559268881618066e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T07:45:55+00:00",
-      "side": "buy",
-      "symbol": "Wam",
-      "address": "CzdB7ZWrLANFDo7eHpjhh32KTo44mZtLZLht67Mppump",
-      "price": 1.3481360493755393e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T08:02:25+00:00",
-      "side": "sell",
-      "symbol": "$TRUMPALG",
-      "address": "B53Z1z5o4erVEMcmPT8MFn9aKb8UNpTu64b9SVCTpump",
-      "price": 7.473972212e-06,
-      "proceeds": 45.24,
-      "pnl_usd": -4.76,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T08:02:25+00:00",
       "side": "sell",
@@ -4544,6 +4510,58 @@
       "address": "UhjmSL1eDvnHUPbL2ru5JMXjxvBUkjWnSMvNdx3pump",
       "price": 8.777765662500814e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T09:57:38+00:00",
+      "side": "sell",
+      "symbol": "AI",
+      "address": "eC5CQqWmcx76ZhkULbw7fVQLNxnNY7UAB7B3Gd3pump",
+      "price": 1.953324951e-06,
+      "proceeds": 0.46,
+      "pnl_usd": -49.54,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T09:57:38+00:00",
+      "side": "sell",
+      "symbol": "CANVAS",
+      "address": "UhjmSL1eDvnHUPbL2ru5JMXjxvBUkjWnSMvNdx3pump",
+      "price": 9.715551791e-06,
+      "proceeds": 51.68,
+      "pnl_usd": 1.68,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-10T09:57:39+00:00",
+      "side": "buy",
+      "symbol": "modder",
+      "address": "8ZjzMTSAxawcNgQFzLzKFXTcV2qXWVTeDLCNhH17pump",
+      "price": 1.4973035488875255e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T09:57:39+00:00",
+      "side": "buy",
+      "symbol": "Poolympics",
+      "address": "BtMDkydRma3b8LRK5vetBwfBwmknvq6JJFH7uaS6pump",
+      "price": 9.336109076351997e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T09:57:39+00:00",
+      "side": "buy",
+      "symbol": "MEGANFOX",
+      "address": "8PVXxt6kCJ3V3KhHVe78QcvUszha3odd1441BP7bpump",
+      "price": 7.3873775443869455e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T09:57:39+00:00",
+      "side": "buy",
+      "symbol": "MEGANFOX",
+      "address": "6Jy4euX2WpGDFQ7fYAxTJ4bBPNrKHRoBf7588g3Cpump",
+      "price": 1.0668897483118256e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5990,6 +6008,10 @@
     {
       "date": "2026-10-10T09:41:07+00:00",
       "equity": 3597650.12
+    },
+    {
+      "date": "2026-10-10T09:57:39+00:00",
+      "equity": 3597597.43
     }
   ]
 }
