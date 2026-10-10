@@ -1,73 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 4488555.6337464815,
+  "cash": 4488452.877592145,
   "positions": {
-    "DAvKqNifHbzyio7G1uR1TiZWgCGdGM3P2h1vnqpEpump": {
-      "symbol": "CLAUDMINI",
-      "qty": 3448632.9761666735,
-      "entry_price": 1.4353513505812875e-05,
-      "last_price": 1.387365147360262e-05,
+    "Eagn78wH733VYFgiSEGm3xCNTo1ju17VyXj1LMn2pump": {
+      "symbol": "Goose",
+      "qty": 455877.31828128244,
+      "entry_price": 0.00010858184431421489,
+      "last_price": 0.00010519417633382398,
       "cost": 50.0,
-      "entry_time": "2026-10-10T16:35:06+00:00",
+      "entry_time": "2026-10-10T16:53:49+00:00",
       "missing": 0
     },
-    "4b8BxbQUR6PZ36LqaQxeagotjoH72K5pczi6FZMwpump": {
-      "symbol": "$LA BEAST",
-      "qty": 7208712.442564712,
-      "entry_price": 6.86669088195574e-06,
-      "last_price": 6.6027020596618955e-06,
+    "6MyEVKPcWbe3r3K7Cgv6KwG5o69QgspLpJC9KGTgpump": {
+      "symbol": "DEX",
+      "qty": 5156904.2191503225,
+      "entry_price": 9.598782117414597e-06,
+      "last_price": 9.240982008957139e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-10T16:35:06+00:00",
+      "entry_time": "2026-10-10T16:53:49+00:00",
+      "missing": 0
+    },
+    "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump": {
+      "symbol": "SOOTS",
+      "qty": 3480021.9513796004,
+      "entry_price": 1.4224048207620213e-05,
+      "last_price": 1.3756481169377293e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T16:53:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T15:16:22+00:00",
-      "side": "sell",
-      "symbol": "Mario64",
-      "address": "CkF7KjVzms35XtvgFnXc1i9NJN7oCh7uxEzK57U7pump",
-      "price": 5.099725849e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T15:16:22+00:00",
-      "side": "sell",
-      "symbol": "Money",
-      "address": "9MUMoUc7xdFNxiobW8zwjH6Fs7DyoUFmR2PSPKWCpump",
-      "price": 6.18693497e-06,
-      "proceeds": 4.09,
-      "pnl_usd": -45.91,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T15:16:22+00:00",
-      "side": "sell",
-      "symbol": "FPC",
-      "address": "DfpXv19zrHBZapwNHnxw24yEXKuZvhCjw5BkKCFrpump",
-      "price": 3.547484909e-06,
-      "proceeds": 12.69,
-      "pnl_usd": -37.31,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T15:16:22+00:00",
-      "side": "buy",
-      "symbol": "Mario64",
-      "address": "FrGioZqyeWMb58crwk5yp65MDJb2iskAussHDi6upump",
-      "price": 8.904920317515085e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T15:16:22+00:00",
-      "side": "buy",
-      "symbol": "EPS",
-      "address": "6WSiuXb3djhMuFd6edCd7uyfPz1UcVHywwpBmLp3pump",
-      "price": 1.1415870287997993e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T15:40:33+00:00",
       "side": "sell",
@@ -4523,6 +4486,50 @@
       "address": "4b8BxbQUR6PZ36LqaQxeagotjoH72K5pczi6FZMwpump",
       "price": 6.86669088195574e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T16:53:49+00:00",
+      "side": "sell",
+      "symbol": "CLAUDMINI",
+      "address": "DAvKqNifHbzyio7G1uR1TiZWgCGdGM3P2h1vnqpEpump",
+      "price": 1.387365147e-05,
+      "proceeds": 23.68,
+      "pnl_usd": -26.32,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T16:53:49+00:00",
+      "side": "sell",
+      "symbol": "$LA BEAST",
+      "address": "4b8BxbQUR6PZ36LqaQxeagotjoH72K5pczi6FZMwpump",
+      "price": 6.60270206e-06,
+      "proceeds": 23.56,
+      "pnl_usd": -26.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T16:53:49+00:00",
+      "side": "buy",
+      "symbol": "Goose",
+      "address": "Eagn78wH733VYFgiSEGm3xCNTo1ju17VyXj1LMn2pump",
+      "price": 0.00010858184431421489,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T16:53:49+00:00",
+      "side": "buy",
+      "symbol": "DEX",
+      "address": "6MyEVKPcWbe3r3K7Cgv6KwG5o69QgspLpJC9KGTgpump",
+      "price": 9.598782117414597e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T16:53:49+00:00",
+      "side": "buy",
+      "symbol": "SOOTS",
+      "address": "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump",
+      "price": 1.4224048207620213e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6049,6 +6056,10 @@
     {
       "date": "2026-10-10T16:35:06+00:00",
       "equity": 4488651.08
+    },
+    {
+      "date": "2026-10-10T16:53:49+00:00",
+      "equity": 4488596.36
     }
   ]
 }
