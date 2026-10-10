@@ -1,38 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3597549.861496095,
+  "cash": 3597449.861496095,
   "positions": {
     "3Dzmud3hmnZTytZRGDWg3QnoAsdA5DkkAsWtNA62pump": {
       "symbol": "STUTUTU",
       "qty": 7212139.987679484,
       "entry_price": 6.863427510359057e-06,
-      "last_price": 6.600757988760237e-06,
+      "last_price": 6.600757989e-06,
       "cost": 50.0,
       "entry_time": "2026-10-09T23:55:15+00:00",
+      "missing": 0
+    },
+    "9vNSNsRh1uet4h3e8VdBgHGMRHUB2VAxV7BAdMWQpump": {
+      "symbol": "eˣ",
+      "qty": 4492516.806996104,
+      "entry_price": 1.101832271899677e-05,
+      "last_price": 1.0614649827382675e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T00:24:49+00:00",
+      "missing": 0
+    },
+    "5UZU1BYhE2mNz9N7DytDt3tiDpbsM1Nz4aGGLeqDpump": {
+      "symbol": "$CCOW",
+      "qty": 1218135.0722992967,
+      "entry_price": 4.0635887698862524e-05,
+      "last_price": 3.940718696974292e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T00:24:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T21:47:28+00:00",
-      "side": "sell",
-      "symbol": "AnyPS5",
-      "address": "CiFJAFSfWqp7qNnrBH5fierZPiRcgxUwydnmw4Cqpump",
-      "price": 5.270683176e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T21:47:28+00:00",
-      "side": "sell",
-      "symbol": "マロン",
-      "address": "Dgs15mPcUsmSRScbh8QYND5Wj3SiUnuw2qRSSc41pump",
-      "price": 3.236654922e-06,
-      "proceeds": 6.75,
-      "pnl_usd": -43.25,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-07T21:47:28+00:00",
       "side": "sell",
@@ -4514,6 +4512,22 @@
       "address": "3Dzmud3hmnZTytZRGDWg3QnoAsdA5DkkAsWtNA62pump",
       "price": 6.863427510359057e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T00:24:49+00:00",
+      "side": "buy",
+      "symbol": "eˣ",
+      "address": "9vNSNsRh1uet4h3e8VdBgHGMRHUB2VAxV7BAdMWQpump",
+      "price": 1.101832271899677e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T00:24:49+00:00",
+      "side": "buy",
+      "symbol": "$CCOW",
+      "address": "5UZU1BYhE2mNz9N7DytDt3tiDpbsM1Nz4aGGLeqDpump",
+      "price": 4.0635887698862524e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5848,6 +5862,10 @@
     {
       "date": "2026-10-09T23:55:15+00:00",
       "equity": 3597597.47
+    },
+    {
+      "date": "2026-10-10T00:24:49+00:00",
+      "equity": 3597593.16
     }
   ]
 }
