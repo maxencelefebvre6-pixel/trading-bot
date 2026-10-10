@@ -1,28 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3597597.565952166,
+  "cash": 3597547.565952166,
   "positions": {
     "4p4vRhCR9Tm5ety3n5pqZHmHRfsa3BkUd1xK3pJ7pump": {
       "symbol": "STUTUTU",
       "qty": 5334450.746376196,
       "entry_price": 9.279305846740902e-06,
-      "last_price": 8.952848699556928e-06,
+      "last_price": 8.9528487e-06,
       "cost": 50.0,
       "entry_time": "2026-10-10T04:59:22+00:00",
+      "missing": 0
+    },
+    "7EU61BoBgv7FcWrdraRSa5Ty6W6NHSXE6Yw88s2mpump": {
+      "symbol": "PERSUASION",
+      "qty": 561464.4200870261,
+      "entry_price": 8.816230954105263e-05,
+      "last_price": 8.548249572076898e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T05:20:45+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T01:03:38+00:00",
-      "side": "sell",
-      "symbol": "DOOBIE",
-      "address": "DxWRozbdUhXfHe2aGiBQnJ66PPF6kZynuG4RaY6cpump",
-      "price": 7.491931973e-06,
-      "proceeds": 45.4,
-      "pnl_usd": -4.6,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T01:03:38+00:00",
       "side": "buy",
@@ -4512,6 +4511,14 @@
       "address": "4p4vRhCR9Tm5ety3n5pqZHmHRfsa3BkUd1xK3pJ7pump",
       "price": 9.279305846740902e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T05:20:45+00:00",
+      "side": "buy",
+      "symbol": "PERSUASION",
+      "address": "7EU61BoBgv7FcWrdraRSa5Ty6W6NHSXE6Yw88s2mpump",
+      "price": 8.816230954105263e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5902,6 +5909,10 @@
     {
       "date": "2026-10-10T04:59:22+00:00",
       "equity": 3597645.32
+    },
+    {
+      "date": "2026-10-10T05:20:45+00:00",
+      "equity": 3597643.32
     }
   ]
 }
