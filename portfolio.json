@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3597632.230770981,
+  "cash": 3597701.837986803,
   "positions": {
-    "44NgEzHbHWxCyQMUH9HZBfy9RPAnxbbwmMbGeyzkpump": {
-      "symbol": "$SLJK",
-      "qty": 1155541.412634585,
-      "entry_price": 4.283706274718629e-05,
-      "last_price": 4.155868268e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T02:55:56+00:00",
-      "missing": 0
-    },
     "26kkzB9Gu9zYzypE8vuZUZ11vmjpvNiZs7j4B1jxpump": {
       "symbol": "e",
       "qty": 5951956.599018817,
@@ -19,36 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-10T03:16:54+00:00",
       "missing": 0
-    },
-    "6pByVvXYtn2HLagSiXNehMtHAhGb3Y2HHCKmiVGEpump": {
-      "symbol": "save",
-      "qty": 6636467.330525965,
-      "entry_price": 7.458787564931317e-06,
-      "last_price": 7.174006682490194e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T03:38:27+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T00:07:58+00:00",
-      "side": "buy",
-      "symbol": "cowe",
-      "address": "FpXVkwLNk4k6YgNDhJuPHfe8rEinSLrYksx5GZcppump",
-      "price": 8.883165363745639e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T00:39:40+00:00",
-      "side": "sell",
-      "symbol": "SARP",
-      "address": "jygX63bt7e5HKXbNYgszgQGHqwTMRPVd8QMhka8pump",
-      "price": 0.008233774178,
-      "proceeds": 49.51,
-      "pnl_usd": -0.49,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T00:39:40+00:00",
       "side": "sell",
@@ -4534,6 +4498,26 @@
       "address": "6pByVvXYtn2HLagSiXNehMtHAhGb3Y2HHCKmiVGEpump",
       "price": 7.458787564931317e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T03:56:47+00:00",
+      "side": "sell",
+      "symbol": "$SLJK",
+      "address": "44NgEzHbHWxCyQMUH9HZBfy9RPAnxbbwmMbGeyzkpump",
+      "price": 4.155868268e-05,
+      "proceeds": 46.04,
+      "pnl_usd": -3.96,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T03:56:47+00:00",
+      "side": "sell",
+      "symbol": "save",
+      "address": "6pByVvXYtn2HLagSiXNehMtHAhGb3Y2HHCKmiVGEpump",
+      "price": 7.174006682e-06,
+      "proceeds": 23.57,
+      "pnl_usd": -26.43,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -5908,6 +5892,10 @@
     {
       "date": "2026-10-10T03:38:27+00:00",
       "equity": 3597775.52
+    },
+    {
+      "date": "2026-10-10T03:56:47+00:00",
+      "equity": 3597749.5
     }
   ]
 }
