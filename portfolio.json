@@ -1,64 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 4488350.850793907,
+  "cash": 4488426.921480034,
   "positions": {
-    "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump": {
-      "symbol": "SOOTS",
-      "qty": 3480021.9513796004,
-      "entry_price": 1.4224048207620213e-05,
-      "last_price": 1.375648117e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T16:53:49+00:00",
-      "missing": 0
-    },
     "HTP6eHwPq5JexYPPHJ28JkH3vXkMUXKbZH3fXaeWpump": {
       "symbol": "cateoween",
       "qty": 1053660.9013474039,
       "entry_price": 4.6979061229946215e-05,
-      "last_price": 4.805421265e-05,
+      "last_price": 4.503262257e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T17:29:32+00:00",
       "missing": 0
     },
-    "5NB7harxbhVD5n48TZkdKtf4fidMHeeEVrjVLjN3pump": {
-      "symbol": "PEPEBRUH",
-      "qty": 585739.3336961153,
-      "entry_price": 8.450858112540699e-05,
-      "last_price": 8.187413901931755e-05,
+    "HbnuMuwVghC7XYF9hP1CBNNCs15DLu8o3hbYR5QKpump": {
+      "symbol": "DOGE PAID",
+      "qty": 6572135.030616712,
+      "entry_price": 7.531798992169376e-06,
+      "last_price": 7.276519069383445e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-10T17:47:07+00:00",
+      "entry_time": "2026-10-10T17:59:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T17:10:21+00:00",
-      "side": "buy",
-      "symbol": "song",
-      "address": "95ZfUfm5P22kUDxLnJDy2ad6oAyttgiutFjy72KUpump",
-      "price": 7.210584237914445e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T17:32:53+00:00",
-      "side": "sell",
-      "symbol": "fun",
-      "address": "Bw8H9ZNSwj71JzYBMDWVQfHRMt93R7GxSLK3Gsvxpump",
-      "price": 2.080418756e-05,
-      "proceeds": 45.84,
-      "pnl_usd": -4.16,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-08T18:13:33+00:00",
-      "side": "sell",
-      "symbol": "song",
-      "address": "95ZfUfm5P22kUDxLnJDy2ad6oAyttgiutFjy72KUpump",
-      "price": 6.939093522e-06,
-      "proceeds": 45.34,
-      "pnl_usd": -4.66,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T18:13:33+00:00",
       "side": "buy",
@@ -4528,6 +4491,34 @@
       "address": "5NB7harxbhVD5n48TZkdKtf4fidMHeeEVrjVLjN3pump",
       "price": 8.450858112540699e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T17:59:48+00:00",
+      "side": "sell",
+      "symbol": "SOOTS",
+      "address": "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump",
+      "price": 1.375648117e-05,
+      "proceeds": 45.76,
+      "pnl_usd": -4.24,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T17:59:48+00:00",
+      "side": "sell",
+      "symbol": "PEPEBRUH",
+      "address": "5NB7harxbhVD5n48TZkdKtf4fidMHeeEVrjVLjN3pump",
+      "price": 0.0001434705735,
+      "proceeds": 80.31,
+      "pnl_usd": 30.31,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-10T17:59:48+00:00",
+      "side": "buy",
+      "symbol": "DOGE PAID",
+      "address": "HbnuMuwVghC7XYF9hP1CBNNCs15DLu8o3hbYR5QKpump",
+      "price": 7.531798992169376e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6070,6 +6061,10 @@
     {
       "date": "2026-10-10T17:47:07+00:00",
       "equity": 4488497.31
+    },
+    {
+      "date": "2026-10-10T17:59:48+00:00",
+      "equity": 4488522.19
     }
   ]
 }
