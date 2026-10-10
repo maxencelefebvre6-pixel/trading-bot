@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 4488486.370291132,
+  "cash": 4488386.370291132,
   "positions": {
     "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump": {
       "symbol": "SOOTS",
@@ -10,27 +10,27 @@
       "cost": 50.0,
       "entry_time": "2026-10-10T16:53:49+00:00",
       "missing": 0
+    },
+    "HTP6eHwPq5JexYPPHJ28JkH3vXkMUXKbZH3fXaeWpump": {
+      "symbol": "cateoween",
+      "qty": 1053660.9013474039,
+      "entry_price": 4.6979061229946215e-05,
+      "last_price": 4.547766334951594e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T17:29:32+00:00",
+      "missing": 0
+    },
+    "3h27PDdy7VAVqiRQo8UEsMBE4Yyv7r2hyzrhZDoFpump": {
+      "symbol": "altAI",
+      "qty": 4465555.0903869355,
+      "entry_price": 1.1084848131547938e-05,
+      "last_price": 1.0676621470505382e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T17:29:32+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T16:27:44+00:00",
-      "side": "sell",
-      "symbol": "Mario64",
-      "address": "FrGioZqyeWMb58crwk5yp65MDJb2iskAussHDi6upump",
-      "price": 9.613442134e-05,
-      "proceeds": 51.17,
-      "pnl_usd": 1.17,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-08T16:27:44+00:00",
-      "side": "buy",
-      "symbol": "fun",
-      "address": "Bw8H9ZNSwj71JzYBMDWVQfHRMt93R7GxSLK3Gsvxpump",
-      "price": 2.1499435515124827e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T16:27:44+00:00",
       "side": "buy",
@@ -4512,6 +4512,22 @@
       "proceeds": 15.18,
       "pnl_usd": -34.82,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T17:29:32+00:00",
+      "side": "buy",
+      "symbol": "cateoween",
+      "address": "HTP6eHwPq5JexYPPHJ28JkH3vXkMUXKbZH3fXaeWpump",
+      "price": 4.6979061229946215e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T17:29:32+00:00",
+      "side": "buy",
+      "symbol": "altAI",
+      "address": "3h27PDdy7VAVqiRQo8UEsMBE4Yyv7r2hyzrhZDoFpump",
+      "price": 1.1084848131547938e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6046,6 +6062,10 @@
     {
       "date": "2026-10-10T17:11:00+00:00",
       "equity": 4488534.24
+    },
+    {
+      "date": "2026-10-10T17:29:32+00:00",
+      "equity": 4488529.84
     }
   ]
 }
