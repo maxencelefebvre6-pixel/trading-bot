@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 3598190.343395874,
+  "cash": 3884465.636003513,
   "positions": {
-    "DNx7niykPaJjxaF2WQABj57RFdStdtMA6pJu5eaupump": {
-      "symbol": "Horacio",
-      "qty": 553770.4304103843,
-      "entry_price": 8.938722127744685e-05,
-      "last_price": 8.667039489120284e-05,
+    "4EzM6cdSXvcVpyvFaNu6PNj2U9s88Y6NjjvyGnCEpump": {
+      "symbol": "patryczek",
+      "qty": 558132.0870450367,
+      "entry_price": 8.86886834657219e-05,
+      "last_price": 8.59932170957331e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T13:33:02+00:00",
+      "entry_time": "2026-10-10T13:50:51+00:00",
+      "missing": 0
+    },
+    "o9TBiVNfq3SZuFdEnS8LTBDigj5CyVhCxcEDesupump": {
+      "symbol": "Unitree",
+      "qty": 137464.323237745,
+      "entry_price": 0.0003600934324929501,
+      "last_price": 0.00034926323979000783,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T13:50:51+00:00",
+      "missing": 0
+    },
+    "3U55FRs2ZuCP6JotQzn7d2W76Z4jGRVsNDzvbNtqpump": {
+      "symbol": "sol",
+      "qty": 33875188.24331674,
+      "entry_price": 1.4612464924018803e-06,
+      "last_price": 1.4066915699724127e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T13:50:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T11:22:40+00:00",
-      "side": "sell",
-      "symbol": "401si(k)",
-      "address": "734cagXxECkwQhZaJFZTHw7iFdvv5rvF3spiiUDmpump",
-      "price": 3.42427145e-06,
-      "proceeds": 17.52,
-      "pnl_usd": -32.48,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T11:22:40+00:00",
-      "side": "buy",
-      "symbol": "mimo",
-      "address": "8gj52AG7G6tkFrGuHeB6rfNJMBqVizsYeTzJEwuEpump",
-      "price": 1.2960165439578388e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T11:43:32+00:00",
-      "side": "sell",
-      "symbol": "mimo",
-      "address": "8gj52AG7G6tkFrGuHeB6rfNJMBqVizsYeTzJEwuEpump",
-      "price": 3.285456996e-06,
-      "proceeds": 11.99,
-      "pnl_usd": -38.01,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T12:01:00+00:00",
-      "side": "buy",
-      "symbol": "LUDOR",
-      "address": "9AALmABCJjvKmaKBbSZZLYLeBsshphC69eM3DVJCpump",
-      "price": 2.182999200869409e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T12:01:00+00:00",
       "side": "buy",
@@ -4512,6 +4494,40 @@
       "address": "DNx7niykPaJjxaF2WQABj57RFdStdtMA6pJu5eaupump",
       "price": 8.938722127744685e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T13:50:51+00:00",
+      "side": "sell",
+      "symbol": "Horacio",
+      "address": "DNx7niykPaJjxaF2WQABj57RFdStdtMA6pJu5eaupump",
+      "price": 1.0449040306,
+      "proceeds": 286425.29,
+      "pnl_usd": 286375.29,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T13:50:51+00:00",
+      "side": "buy",
+      "symbol": "patryczek",
+      "address": "4EzM6cdSXvcVpyvFaNu6PNj2U9s88Y6NjjvyGnCEpump",
+      "price": 8.86886834657219e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T13:50:51+00:00",
+      "side": "buy",
+      "symbol": "Unitree",
+      "address": "o9TBiVNfq3SZuFdEnS8LTBDigj5CyVhCxcEDesupump",
+      "price": 0.0003600934324929501,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T13:50:51+00:00",
+      "side": "buy",
+      "symbol": "sol",
+      "address": "3U55FRs2ZuCP6JotQzn7d2W76Z4jGRVsNDzvbNtqpump",
+      "price": 1.4612464924018803e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6002,6 +6018,10 @@
     {
       "date": "2026-10-10T13:33:02+00:00",
       "equity": 3598238.34
+    },
+    {
+      "date": "2026-10-10T13:50:51+00:00",
+      "equity": 3884609.29
     }
   ]
 }
