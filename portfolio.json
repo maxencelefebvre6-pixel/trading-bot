@@ -1,36 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5169258.998227655,
+  "cash": 5169236.554331919,
   "positions": {
-    "cYbuxo7eXP4zMSXh3WH4QhfiKUS1dk7vyonFYNypump": {
-      "symbol": "PREMARKET",
-      "qty": 559095.4499966919,
-      "entry_price": 8.853586628239039e-05,
-      "last_price": 8.584489586102496e-05,
+    "2PRw3BouMZuVdFUWwzhnGATXfPuVkUpwLmYusHMxpump": {
+      "symbol": "LATCH",
+      "qty": 2186359.611916163,
+      "entry_price": 2.2640374314551736e-05,
+      "last_price": 2.184280671606354e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T21:27:53+00:00",
+      "entry_time": "2026-10-10T21:47:06+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T00:37:07+00:00",
-      "side": "buy",
-      "symbol": "HC",
-      "address": "ZZ6zPC18xZyP9JqGEPFWAcvogh9Gbc2rZCGMqhSpump",
-      "price": 7.889670967092928e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T01:04:57+00:00",
-      "side": "sell",
-      "symbol": "FLUNDA",
-      "address": "FXtTpM2nS8JpYVVZ2ssVAeK7knMiPYRWv5wrHcqipump",
-      "price": 9.448077912e-06,
-      "proceeds": 45.41,
-      "pnl_usd": -4.59,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-09T01:04:57+00:00",
       "side": "sell",
@@ -4512,6 +4494,24 @@
       "address": "cYbuxo7eXP4zMSXh3WH4QhfiKUS1dk7vyonFYNypump",
       "price": 8.853586628239039e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T21:47:06+00:00",
+      "side": "sell",
+      "symbol": "PREMARKET",
+      "address": "cYbuxo7eXP4zMSXh3WH4QhfiKUS1dk7vyonFYNypump",
+      "price": 9.956957708e-05,
+      "proceeds": 27.56,
+      "pnl_usd": -22.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T21:47:06+00:00",
+      "side": "buy",
+      "symbol": "LATCH",
+      "address": "2PRw3BouMZuVdFUWwzhnGATXfPuVkUpwLmYusHMxpump",
+      "price": 2.2640374314551736e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6102,6 +6102,10 @@
     {
       "date": "2026-10-10T21:27:53+00:00",
       "equity": 5169306.99
+    },
+    {
+      "date": "2026-10-10T21:47:06+00:00",
+      "equity": 5169284.31
     }
   ]
 }
