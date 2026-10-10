@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5169350.697617195,
+  "cash": 5169346.755552886,
   "positions": {
-    "rG5yfU78qNWttcuof74cjgkLUWxLH9PKx5iHK9bpump": {
-      "symbol": "Muse AI",
-      "qty": 124840.95844351003,
-      "entry_price": 0.0003965044855242643,
-      "last_price": 0.0003846014576864603,
+    "6kaWS7CHggnt1XHwivv36aEsdUpyVhBn4hb872pcpump": {
+      "symbol": "sponge",
+      "qty": 6756738.223042168,
+      "entry_price": 7.326020095198097e-06,
+      "last_price": 7.050475762567463e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-10T20:34:22+00:00",
-      "missing": 0
-    },
-    "Dwbwu5y15SYdC8pJ6yBRn6KBGGg8znhH9Qt73QiRpump": {
-      "symbol": "DECAHEDRON",
-      "qty": 3684295.98757449,
-      "entry_price": 1.3435402629686033e-05,
-      "last_price": 1.2949175372957924e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T20:34:22+00:00",
-      "missing": 0
-    },
-    "7ZyAbhHpa2Gimuq2wSss5dKr6R1mgh6S9LKazSXapump": {
-      "symbol": "DOOROC",
-      "qty": 6981320.756562769,
-      "entry_price": 7.0903489076143184e-06,
-      "last_price": 6.830355282518076e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T20:34:22+00:00",
+      "entry_time": "2026-10-10T20:52:20+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T22:52:04+00:00",
-      "side": "sell",
-      "symbol": "ChatGPT",
-      "address": "Eq2dcoUkLKzPNh1QFHv4v8xE5fHHTrGR3dTUCC7Qpump",
-      "price": 0.000634107411,
-      "proceeds": 71.12,
-      "pnl_usd": 21.12,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-08T22:52:04+00:00",
-      "side": "buy",
-      "symbol": "SI",
-      "address": "Dgte5CKAzyPYiLbzw5ng4D7takwNp3qhxE7WHNkrpump",
-      "price": 8.880611530270453e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T22:52:04+00:00",
-      "side": "buy",
-      "symbol": "TikTok",
-      "address": "HirKBDK791M4XS1k9YVGRy2ukMnfATXikLhMqYpgpump",
-      "price": 8.827871612734763e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T23:08:59+00:00",
-      "side": "sell",
-      "symbol": "SI",
-      "address": "Dgte5CKAzyPYiLbzw5ng4D7takwNp3qhxE7WHNkrpump",
-      "price": 0.0001063484521,
-      "proceeds": 29.34,
-      "pnl_usd": -20.66,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-08T23:08:59+00:00",
       "side": "sell",
@@ -4528,6 +4474,44 @@
       "address": "7ZyAbhHpa2Gimuq2wSss5dKr6R1mgh6S9LKazSXapump",
       "price": 7.0903489076143184e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T20:52:20+00:00",
+      "side": "sell",
+      "symbol": "Muse AI",
+      "address": "rG5yfU78qNWttcuof74cjgkLUWxLH9PKx5iHK9bpump",
+      "price": 1.9734621e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T20:52:20+00:00",
+      "side": "sell",
+      "symbol": "DECAHEDRON",
+      "address": "Dwbwu5y15SYdC8pJ6yBRn6KBGGg8znhH9Qt73QiRpump",
+      "price": 3.089806429e-06,
+      "proceeds": 10.88,
+      "pnl_usd": -39.12,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T20:52:20+00:00",
+      "side": "sell",
+      "symbol": "DOOROC",
+      "address": "7ZyAbhHpa2Gimuq2wSss5dKr6R1mgh6S9LKazSXapump",
+      "price": 5.260120431e-06,
+      "proceeds": 34.94,
+      "pnl_usd": -15.06,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T20:52:20+00:00",
+      "side": "buy",
+      "symbol": "sponge",
+      "address": "6kaWS7CHggnt1XHwivv36aEsdUpyVhBn4hb872pcpump",
+      "price": 7.326020095198097e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6106,6 +6090,10 @@
     {
       "date": "2026-10-10T20:34:22+00:00",
       "equity": 5169494.11
+    },
+    {
+      "date": "2026-10-10T20:52:20+00:00",
+      "equity": 5169394.39
     }
   ]
 }
