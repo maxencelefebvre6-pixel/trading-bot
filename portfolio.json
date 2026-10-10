@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 4910945.191940853,
+  "cash": 5169423.835470381,
   "positions": {
     "ACgnKHrCngL32KJcyVa6U6TDgT4jjcZxr3SdiMa8pump": {
       "symbol": "IS",
@@ -20,37 +20,17 @@
       "entry_time": "2026-10-10T19:22:34+00:00",
       "missing": 0
     },
-    "J3FoEMy5jiNrfbtMW1DytH55nABAGxCZtCdfxNnjpump": {
-      "symbol": "ARENA",
-      "qty": 495910.9789398665,
-      "entry_price": 9.981630192140252e-05,
-      "last_price": 9.679031308262357e-05,
+    "GFy3xw8PytUbFeQYDzMGKjGZgbXHoUhh1m7q5vk8pump": {
+      "symbol": "EVOLVE",
+      "qty": 3717296.677510718,
+      "entry_price": 1.331612843803137e-05,
+      "last_price": 1.2828141817239003e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T19:40:21+00:00",
+      "entry_time": "2026-10-10T19:55:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T21:52:03+00:00",
-      "side": "sell",
-      "symbol": "GROK",
-      "address": "6HZVPYRjmXTJES5KASWCiBJnwA75SGZVDFLa1QXYpump",
-      "price": 2.142537587e-06,
-      "proceeds": 2.76,
-      "pnl_usd": -47.24,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T21:52:03+00:00",
-      "side": "sell",
-      "symbol": "Dip Slayer",
-      "address": "eseTwB8GNAmfbMdvzLZc5B5WAeDmA44Ecnm3HPFpump",
-      "price": 1.976270004e-06,
-      "proceeds": 0.42,
-      "pnl_usd": -49.58,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-08T21:52:03+00:00",
       "side": "sell",
@@ -4530,6 +4510,24 @@
       "address": "J3FoEMy5jiNrfbtMW1DytH55nABAGxCZtCdfxNnjpump",
       "price": 9.981630192140252e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T19:55:04+00:00",
+      "side": "sell",
+      "symbol": "ARENA",
+      "address": "J3FoEMy5jiNrfbtMW1DytH55nABAGxCZtCdfxNnjpump",
+      "price": 1.0531730696,
+      "proceeds": 258528.64,
+      "pnl_usd": 258478.64,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T19:55:04+00:00",
+      "side": "buy",
+      "symbol": "EVOLVE",
+      "address": "GFy3xw8PytUbFeQYDzMGKjGZgbXHoUhh1m7q5vk8pump",
+      "price": 1.331612843803137e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6096,6 +6094,10 @@
     {
       "date": "2026-10-10T19:40:21+00:00",
       "equity": 4911088.68
+    },
+    {
+      "date": "2026-10-10T19:55:04+00:00",
+      "equity": 5169567.01
     }
   ]
 }
