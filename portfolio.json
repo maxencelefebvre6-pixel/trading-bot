@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 4488386.370291132,
+  "cash": 4488350.850793907,
   "positions": {
     "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump": {
       "symbol": "SOOTS",
@@ -15,40 +15,22 @@
       "symbol": "cateoween",
       "qty": 1053660.9013474039,
       "entry_price": 4.6979061229946215e-05,
-      "last_price": 4.547766334951594e-05,
+      "last_price": 4.805421265e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T17:29:32+00:00",
       "missing": 0
     },
-    "3h27PDdy7VAVqiRQo8UEsMBE4Yyv7r2hyzrhZDoFpump": {
-      "symbol": "altAI",
-      "qty": 4465555.0903869355,
-      "entry_price": 1.1084848131547938e-05,
-      "last_price": 1.0676621470505382e-05,
+    "5NB7harxbhVD5n48TZkdKtf4fidMHeeEVrjVLjN3pump": {
+      "symbol": "PEPEBRUH",
+      "qty": 585739.3336961153,
+      "entry_price": 8.450858112540699e-05,
+      "last_price": 8.187413901931755e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T17:29:32+00:00",
+      "entry_time": "2026-10-10T17:47:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T16:27:44+00:00",
-      "side": "buy",
-      "symbol": "$BWIZ",
-      "address": "P9kUGHZ83yGzsRqkjpsn15WmDeaCHSqJoz1hpDQpump",
-      "price": 1.775563688403556e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T16:52:06+00:00",
-      "side": "sell",
-      "symbol": "$BWIZ",
-      "address": "P9kUGHZ83yGzsRqkjpsn15WmDeaCHSqJoz1hpDQpump",
-      "price": 0.0001096622148,
-      "proceeds": 292.33,
-      "pnl_usd": 242.33,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-08T17:10:21+00:00",
       "side": "buy",
@@ -4528,6 +4510,24 @@
       "address": "3h27PDdy7VAVqiRQo8UEsMBE4Yyv7r2hyzrhZDoFpump",
       "price": 1.1084848131547938e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T17:47:07+00:00",
+      "side": "sell",
+      "symbol": "altAI",
+      "address": "3h27PDdy7VAVqiRQo8UEsMBE4Yyv7r2hyzrhZDoFpump",
+      "price": 3.397856607e-06,
+      "proceeds": 14.48,
+      "pnl_usd": -35.52,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T17:47:07+00:00",
+      "side": "buy",
+      "symbol": "PEPEBRUH",
+      "address": "5NB7harxbhVD5n48TZkdKtf4fidMHeeEVrjVLjN3pump",
+      "price": 8.450858112540699e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6066,6 +6066,10 @@
     {
       "date": "2026-10-10T17:29:32+00:00",
       "equity": 4488529.84
+    },
+    {
+      "date": "2026-10-10T17:47:07+00:00",
+      "equity": 4488497.31
     }
   ]
 }
