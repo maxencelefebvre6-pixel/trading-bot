@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3597554.3125383607,
+  "cash": 3597612.5117418775,
   "positions": {
     "C2q3UmF6TUaux49ShTxhru57bvfpKMocwXpNFbX8pump": {
       "symbol": "gay",
@@ -20,66 +20,26 @@
       "entry_time": "2026-10-10T07:47:02+00:00",
       "missing": 0
     },
-    "CSbEmKU8s9DT6uJSwHtQMSiZhVd9QWbg3E1bNkiXpump": {
-      "symbol": "Musk",
-      "qty": 560083.2883992022,
-      "entry_price": 8.837971249147256e-05,
-      "last_price": 8.569337202351892e-05,
+    "7YcQZ6RuG91pDJHYLtBW4pU4xYoJc4kRcPFdvyyEpump": {
+      "symbol": "WOJODRAK",
+      "qty": 951896.5809723452,
+      "entry_price": 5.200144741505074e-05,
+      "last_price": 5.0348762948956365e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T08:01:03+00:00",
+      "entry_time": "2026-10-10T08:22:59+00:00",
       "missing": 0
     },
-    "8my1AqUj5CdBU4jWYEHk3q7CWEFfU5porWJ9tbKKpump": {
-      "symbol": "Ram",
-      "qty": 1468281.0694054654,
-      "entry_price": 3.371289123821741e-05,
-      "last_price": 3.244593006123527e-05,
+    "61sMDjuH3Nw7J1xdkRPkyqjN7ptegSH6ms8HY2eMpump": {
+      "symbol": "Polariton",
+      "qty": 5211110.831394604,
+      "entry_price": 9.498934411792724e-06,
+      "last_price": 9.136844637857757e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-10T08:01:03+00:00",
+      "entry_time": "2026-10-10T08:22:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T05:02:44+00:00",
-      "side": "sell",
-      "symbol": "Apple",
-      "address": "rvajbC8iZBBCdfCadVV22THcYsa2LYvgfA6UKjapump",
-      "price": 7.733424431e-05,
-      "proceeds": 9.63,
-      "pnl_usd": -40.37,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T05:02:44+00:00",
-      "side": "sell",
-      "symbol": "cap",
-      "address": "EmzUeS9gisTVNQL9iuijiPcdqSBMSevuPmsVMv5kpump",
-      "price": 1.359283103e-07,
-      "proceeds": 2.32,
-      "pnl_usd": -47.68,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T05:25:24+00:00",
-      "side": "sell",
-      "symbol": "ANY",
-      "address": "BNMrHLqHkyJr6L41ppvNHEeCDcfX8yRjLweSezfHpump",
-      "price": 8.69464361e-06,
-      "proceeds": 45.46,
-      "pnl_usd": -4.54,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-08T05:25:24+00:00",
-      "side": "sell",
-      "symbol": "ZKDARK",
-      "address": "6jejnGRDbteTPr2McCqXU1XDNZ4ukCxUu9u2Myiwpump",
-      "price": 1.180556065e-05,
-      "proceeds": 45.66,
-      "pnl_usd": -4.34,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T05:25:24+00:00",
       "side": "buy",
@@ -4539,6 +4499,42 @@
       "address": "8my1AqUj5CdBU4jWYEHk3q7CWEFfU5porWJ9tbKKpump",
       "price": 3.371289123821741e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T08:22:59+00:00",
+      "side": "sell",
+      "symbol": "Musk",
+      "address": "CSbEmKU8s9DT6uJSwHtQMSiZhVd9QWbg3E1bNkiXpump",
+      "price": 0.0005694813822,
+      "proceeds": 157.88,
+      "pnl_usd": 107.88,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T08:22:59+00:00",
+      "side": "sell",
+      "symbol": "Ram",
+      "address": "8my1AqUj5CdBU4jWYEHk3q7CWEFfU5porWJ9tbKKpump",
+      "price": 2.23924236e-07,
+      "proceeds": 0.32,
+      "pnl_usd": -49.68,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T08:22:59+00:00",
+      "side": "buy",
+      "symbol": "WOJODRAK",
+      "address": "7YcQZ6RuG91pDJHYLtBW4pU4xYoJc4kRcPFdvyyEpump",
+      "price": 5.200144741505074e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T08:22:59+00:00",
+      "side": "buy",
+      "symbol": "Polariton",
+      "address": "61sMDjuH3Nw7J1xdkRPkyqjN7ptegSH6ms8HY2eMpump",
+      "price": 9.498934411792724e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5965,6 +5961,10 @@
     {
       "date": "2026-10-10T08:01:03+00:00",
       "equity": 3597747.16
+    },
+    {
+      "date": "2026-10-10T08:22:59+00:00",
+      "equity": 3597805.27
     }
   ]
 }
