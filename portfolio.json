@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3597701.837986803,
+  "cash": 3597647.2245402467,
   "positions": {
-    "26kkzB9Gu9zYzypE8vuZUZ11vmjpvNiZs7j4B1jxpump": {
-      "symbol": "e",
-      "qty": 5951956.599018817,
-      "entry_price": 8.316592901258739e-06,
-      "last_price": 8.007253557e-06,
+    "27SfA8mh9poJpd2wps3ep4djhFyRr9rdrSL5Y75Epump": {
+      "symbol": "$AURA",
+      "qty": 4631300.250550837,
+      "entry_price": 1.0688143139523846e-05,
+      "last_price": 1.032457515896765e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T03:16:54+00:00",
+      "entry_time": "2026-10-10T04:18:55+00:00",
+      "missing": 0
+    },
+    "9w1LraxMJyU6wDhU2X754hZ9mQk7WmxdfY2wH7Gqpump": {
+      "symbol": "🎃",
+      "qty": 5358068.812442806,
+      "entry_price": 9.23840318829955e-06,
+      "last_price": 8.915133341183623e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T04:18:55+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T00:39:40+00:00",
-      "side": "sell",
-      "symbol": "JEAN",
-      "address": "Ah58vWotFZHLRfvacN5ZqhD2kMW11SDKxEy1k88Lpump",
-      "price": 1.332769606e-05,
-      "proceeds": 45.72,
-      "pnl_usd": -4.28,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-08T00:39:40+00:00",
-      "side": "sell",
-      "symbol": "SharkTank",
-      "address": "HaQdrXRUoxxk1qLFZJNrSyzWNjn16o1r1np5h6jipump",
-      "price": 0.0001865379091,
-      "proceeds": 553.26,
-      "pnl_usd": 503.26,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-08T00:39:40+00:00",
-      "side": "sell",
-      "symbol": "Muse AI",
-      "address": "FDL77KaQu8jNVax5JsCsLE6ecbPeWzWxzSc4YGLpump",
-      "price": 2.086385346e-06,
-      "proceeds": 0.26,
-      "pnl_usd": -49.74,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-08T00:39:40+00:00",
       "side": "sell",
@@ -4518,6 +4497,32 @@
       "proceeds": 23.57,
       "pnl_usd": -26.43,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T04:18:55+00:00",
+      "side": "sell",
+      "symbol": "e",
+      "address": "26kkzB9Gu9zYzypE8vuZUZ11vmjpvNiZs7j4B1jxpump",
+      "price": 8.007253557e-06,
+      "proceeds": 45.39,
+      "pnl_usd": -4.61,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T04:18:55+00:00",
+      "side": "buy",
+      "symbol": "$AURA",
+      "address": "27SfA8mh9poJpd2wps3ep4djhFyRr9rdrSL5Y75Epump",
+      "price": 1.0688143139523846e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T04:18:55+00:00",
+      "side": "buy",
+      "symbol": "🎃",
+      "address": "9w1LraxMJyU6wDhU2X754hZ9mQk7WmxdfY2wH7Gqpump",
+      "price": 9.23840318829955e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5896,6 +5901,10 @@
     {
       "date": "2026-10-10T03:56:47+00:00",
       "equity": 3597749.5
+    },
+    {
+      "date": "2026-10-10T04:18:55+00:00",
+      "equity": 3597742.81
     }
   ]
 }
