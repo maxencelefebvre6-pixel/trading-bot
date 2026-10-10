@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5169143.043407128,
+  "cash": 5169198.60094453,
   "positions": {
-    "BWnMW2yBd1VApVBp3D2acV18LqUdoD4szTVUREzSpump": {
-      "symbol": "ZZZ",
-      "qty": 557300.0221572875,
-      "entry_price": 8.882109820916095e-05,
-      "last_price": 8.612176391548736e-05,
+    "6pRLnfDeDmwrxbftYDA4gE7LK2Hw3EPb3HfPZdkapump": {
+      "symbol": "CWIF",
+      "qty": 7210535.8756419625,
+      "entry_price": 6.864954401962941e-06,
+      "last_price": 6.601554795095808e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-10T22:00:10+00:00",
+      "entry_time": "2026-10-10T22:20:46+00:00",
       "missing": 0
     },
-    "Yd1q8LFVdbQmJKoRP3vF21ez869j7VERGxWR24apump": {
-      "symbol": "Numan",
-      "qty": 772514.3763941368,
-      "entry_price": 6.407647742563836e-05,
-      "last_price": 6.205733623351108e-05,
+    "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump": {
+      "symbol": "STUTUTU",
+      "qty": 5782765.62167291,
+      "entry_price": 8.559918080456463e-06,
+      "last_price": 8.248928072721316e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-10T22:00:10+00:00",
+      "entry_time": "2026-10-10T22:20:46+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T01:28:16+00:00",
-      "side": "buy",
-      "symbol": "MIKITA",
-      "address": "DHUCi9GHRb6KZQDewSVGsnex71eAk3vTk1j64NqJpump",
-      "price": 1.2840875323135982e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T01:50:33+00:00",
-      "side": "sell",
-      "symbol": "MIKITA",
-      "address": "DHUCi9GHRb6KZQDewSVGsnex71eAk3vTk1j64NqJpump",
-      "price": 3.080042049e-06,
-      "proceeds": 11.34,
-      "pnl_usd": -38.66,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-09T02:07:20+00:00",
-      "side": "buy",
-      "symbol": "botpfp",
-      "address": "6CGTJdC2LaoYi17MPtSHnx9cX43GZhF1ABFHYhGRpump",
-      "price": 8.815677580464444e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T02:28:09+00:00",
-      "side": "sell",
-      "symbol": "botpfp",
-      "address": "6CGTJdC2LaoYi17MPtSHnx9cX43GZhF1ABFHYhGRpump",
-      "price": 0.0005706741649,
-      "proceeds": 158.61,
-      "pnl_usd": 108.61,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-09T02:28:09+00:00",
       "side": "buy",
@@ -4519,6 +4483,42 @@
       "address": "Yd1q8LFVdbQmJKoRP3vF21ez869j7VERGxWR24apump",
       "price": 6.407647742563836e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T22:20:46+00:00",
+      "side": "sell",
+      "symbol": "ZZZ",
+      "address": "BWnMW2yBd1VApVBp3D2acV18LqUdoD4szTVUREzSpump",
+      "price": 0.0004534421053,
+      "proceeds": 125.09,
+      "pnl_usd": 75.09,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T22:20:46+00:00",
+      "side": "sell",
+      "symbol": "Numan",
+      "address": "Yd1q8LFVdbQmJKoRP3vF21ez869j7VERGxWR24apump",
+      "price": 4.524763357e-05,
+      "proceeds": 30.47,
+      "pnl_usd": -19.53,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T22:20:46+00:00",
+      "side": "buy",
+      "symbol": "CWIF",
+      "address": "6pRLnfDeDmwrxbftYDA4gE7LK2Hw3EPb3HfPZdkapump",
+      "price": 6.864954401962941e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T22:20:46+00:00",
+      "side": "buy",
+      "symbol": "STUTUTU",
+      "address": "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump",
+      "price": 8.559918080456463e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6117,6 +6117,10 @@
     {
       "date": "2026-10-10T22:00:10+00:00",
       "equity": 5169238.98
+    },
+    {
+      "date": "2026-10-10T22:20:46+00:00",
+      "equity": 5169293.9
     }
   ]
 }
