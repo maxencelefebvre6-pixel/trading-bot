@@ -1,39 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 3884253.167074416,
+  "cash": 3884260.141161233,
   "positions": {
-    "6XakUE7Erhsdq6Um2Xr4v4nus7DXQE9e143NKrEgpump": {
-      "symbol": "GTA7",
-      "qty": 106327.04325865378,
-      "entry_price": 0.0004655447803583241,
-      "last_price": 0.0004515988380891587,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:05:34+00:00",
-      "missing": 0
-    },
-    "9gdyt6JXZ1f5U74tYDXiEFQfvgnPv8wkJALAeYbpump": {
-      "symbol": "MALLY",
-      "qty": 4833475.072638766,
-      "entry_price": 1.0241078986878108e-05,
-      "last_price": 9.859519000853792e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:05:34+00:00",
-      "missing": 0
-    },
-    "8JoYNjf4ZknGqVBwqo6QQ6MyMi7emVt4XkpP8PBdpump": {
-      "symbol": "Octopus🐙",
-      "qty": 1125683.4068150234,
-      "entry_price": 4.3973287427282855e-05,
-      "last_price": 4.256632684475986e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:05:34+00:00",
-      "missing": 0
-    },
     "J2Kr4gfi4JQH7FPZLmKxFo4xqb6UnV5XcUEEEJqhpump": {
       "symbol": "FUN",
       "qty": 1401805.0615190177,
       "entry_price": 3.531161454529279e-05,
-      "last_price": 3.422111105484621e-05,
+      "last_price": 3.422982349e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T14:05:34+00:00",
       "missing": 0
@@ -42,7 +15,7 @@
       "symbol": "BRAINROT",
       "qty": 12883631.483172046,
       "entry_price": 3.842084435949167e-06,
-      "last_price": 3.702667052881307e-06,
+      "last_price": 3.685592763e-06,
       "cost": 50.0,
       "entry_time": "2026-10-10T14:05:34+00:00",
       "missing": 0
@@ -51,49 +24,22 @@
       "symbol": "BRAINROT",
       "qty": 5254009.686365331,
       "entry_price": 9.421375854798545e-06,
-      "last_price": 9.084281570547402e-06,
+      "last_price": 9.084281571e-06,
       "cost": 50.0,
       "entry_time": "2026-10-10T14:05:34+00:00",
+      "missing": 0
+    },
+    "XJ5V7PNjzSFRAHwx72nm7eQ6VFnx7oZJDspK4n6pump": {
+      "symbol": "SARP",
+      "qty": 817.8959885982443,
+      "entry_price": 0.06052114289597612,
+      "last_price": 0.058754150265821876,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T14:25:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T12:58:54+00:00",
-      "side": "sell",
-      "symbol": "HYNIX",
-      "address": "D8TjijNmFz43yzVhHb2PdjhTHa785ayQupBiZRoHpump",
-      "price": 4.19495219e-06,
-      "proceeds": 15.42,
-      "pnl_usd": -34.58,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T12:58:54+00:00",
-      "side": "sell",
-      "symbol": "Starcan",
-      "address": "ErApNSfkagyfFdTtC5aG3RoqNHkPVE6x7ECfuRuMpump",
-      "price": 0.01058364258,
-      "proceeds": 3.96,
-      "pnl_usd": -46.04,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T12:58:55+00:00",
-      "side": "buy",
-      "symbol": "Vent",
-      "address": "G5bppJFiStdJkXmYWpPH48uaATn2S4gDTuXSGf6Gpump",
-      "price": 9.028348235232139e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T12:58:55+00:00",
-      "side": "buy",
-      "symbol": "SARP",
-      "address": "2bCwqeEgkeXmtH3FhLMaxi9H58hLtVP7rzoJUJdWpump",
-      "price": 0.006267481643540307,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T12:58:55+00:00",
       "side": "buy",
@@ -4553,6 +4499,44 @@
       "address": "HpZ9W4jUSg6UJApWVNgqN7Q1pKNZQWNrqceSr8DSpump",
       "price": 9.421375854798545e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T14:25:11+00:00",
+      "side": "sell",
+      "symbol": "GTA7",
+      "address": "6XakUE7Erhsdq6Um2Xr4v4nus7DXQE9e143NKrEgpump",
+      "price": 1.973022247e-06,
+      "proceeds": 0.2,
+      "pnl_usd": -49.8,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T14:25:11+00:00",
+      "side": "sell",
+      "symbol": "MALLY",
+      "address": "9gdyt6JXZ1f5U74tYDXiEFQfvgnPv8wkJALAeYbpump",
+      "price": 3.125088817e-06,
+      "proceeds": 14.41,
+      "pnl_usd": -35.59,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T14:25:11+00:00",
+      "side": "sell",
+      "symbol": "Octopus🐙",
+      "address": "8JoYNjf4ZknGqVBwqo6QQ6MyMi7emVt4XkpP8PBdpump",
+      "price": 3.937745379e-05,
+      "proceeds": 42.36,
+      "pnl_usd": -7.64,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T14:25:11+00:00",
+      "side": "buy",
+      "symbol": "SARP",
+      "address": "XJ5V7PNjzSFRAHwx72nm7eQ6VFnx7oZJDspK4n6pump",
+      "price": 0.06052114289597612,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6051,6 +6035,10 @@
     {
       "date": "2026-10-10T14:05:34+00:00",
       "equity": 3884540.16
+    },
+    {
+      "date": "2026-10-10T14:25:11+00:00",
+      "equity": 3884451.39
     }
   ]
 }
