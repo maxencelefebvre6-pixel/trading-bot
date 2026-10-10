@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3884146.4781360044,
+  "cash": 3884146.055284701,
   "positions": {
-    "XJ5V7PNjzSFRAHwx72nm7eQ6VFnx7oZJDspK4n6pump": {
-      "symbol": "SARP",
-      "qty": 817.8959885982443,
-      "entry_price": 0.06052114289597612,
-      "last_price": 0.06220290929,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:25:11+00:00",
-      "missing": 0
-    },
     "BR5BPTC3NUcD63hubUatkVDQPcvFREWNQVFQMycSpump": {
       "symbol": "angel",
       "qty": 4389474.350960966,
@@ -42,31 +33,22 @@
       "symbol": "STUTUTU",
       "qty": 5125529.557437119,
       "entry_price": 9.657538688500144e-06,
-      "last_price": 9.313611500592521e-06,
+      "last_price": 9.294067719e-06,
       "cost": 50.0,
       "entry_time": "2026-10-10T15:19:44+00:00",
+      "missing": 0
+    },
+    "HvghoXFyd24CuucNSAEb62dRQA2Dnsy3yT9ozoNTpump": {
+      "symbol": "Tschuna",
+      "qty": 560565.8069433337,
+      "entry_price": 8.830363783676845e-05,
+      "last_price": 8.561990401050264e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T15:39:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T13:49:11+00:00",
-      "side": "sell",
-      "symbol": "Auruphil",
-      "address": "AMKXdN3j6ATk1WJa9v9hjW2AGi8Qf1EszonwKJaqpump",
-      "price": 3.158619314e-06,
-      "proceeds": 4.28,
-      "pnl_usd": -45.72,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T13:49:12+00:00",
-      "side": "buy",
-      "symbol": "FLIP",
-      "address": "DEqh8K3jPjxeUtMBGsJgJ4XbDntNZ7kcbRAeigBZpump",
-      "price": 8.989808392209734e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T14:06:26+00:00",
       "side": "sell",
@@ -4544,6 +4526,24 @@
       "address": "8qreXe4qU1xdtZTYFH5s7haDrm9XicT7pm8jAd45pump",
       "price": 9.657538688500144e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T15:39:04+00:00",
+      "side": "sell",
+      "symbol": "SARP",
+      "address": "XJ5V7PNjzSFRAHwx72nm7eQ6VFnx7oZJDspK4n6pump",
+      "price": 0.06313098206,
+      "proceeds": 49.58,
+      "pnl_usd": -0.42,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T15:39:04+00:00",
+      "side": "buy",
+      "symbol": "Tschuna",
+      "address": "HvghoXFyd24CuucNSAEb62dRQA2Dnsy3yT9ozoNTpump",
+      "price": 8.830363783676845e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6054,6 +6054,10 @@
     {
       "date": "2026-10-10T15:19:44+00:00",
       "equity": 3884388.52
+    },
+    {
+      "date": "2026-10-10T15:39:04+00:00",
+      "equity": 3884385.12
     }
   ]
 }
