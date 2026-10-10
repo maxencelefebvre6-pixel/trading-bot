@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3597463.0235557794,
+  "cash": 3597363.023558423,
   "positions": {
     "511a7wVhBNj3zVZ4W8CbR9NhWBwgA4F8jyvGbvKcpump": {
       "symbol": "HUMP",
@@ -11,52 +11,35 @@
       "entry_time": "2026-10-10T01:37:33+00:00",
       "missing": 0
     },
-    "8KEJkRSHTyibZkjX5QQVqwiAgEuxtLcm8crxaPE1pump": {
-      "symbol": "SIB",
-      "qty": 564308.6656995876,
-      "entry_price": 8.771795120075572e-05,
-      "last_price": 8.505164760583068e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T01:55:54+00:00",
-      "missing": 0
-    },
     "4qwA4cYPdnD9mBk4qHs6ifKwufBXjqhVoA5fCZVFpump": {
       "symbol": "angel",
       "qty": 7187212.062653973,
       "entry_price": 6.887232430111638e-06,
-      "last_price": 6.6231599645380095e-06,
+      "last_price": 6.623159965e-06,
       "cost": 50.0,
       "entry_time": "2026-10-10T01:55:54+00:00",
+      "missing": 0
+    },
+    "6uSNoC4NYkLXg8w6G9Ude9cD2fWMe4n1tdG7Kpn7pump": {
+      "symbol": "Mousie",
+      "qty": 2139205.5530403685,
+      "entry_price": 2.3139431332181987e-05,
+      "last_price": 2.23335757990422e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T02:16:48+00:00",
+      "missing": 0
+    },
+    "Ds53FfrArMnoudWrnLtxAn2YLJZBnmtaaB5ZyAZCpump": {
+      "symbol": "Neepo",
+      "qty": 2848742.4444726883,
+      "entry_price": 1.7376088209042224e-05,
+      "last_price": 1.6807707902693665e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T02:16:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T22:41:16+00:00",
-      "side": "sell",
-      "symbol": "Dungeons",
-      "address": "A83GpAwi2XPLvmtbzGDJNvjbbSMdLBpj6VXcdSQEpump",
-      "price": 9.912152685e-07,
-      "proceeds": 3.84,
-      "pnl_usd": -46.16,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-07T22:41:16+00:00",
-      "side": "buy",
-      "symbol": "GOAT",
-      "address": "3NBD8kWNTbnX3RguKZ9bCkDrWbChciZjuZSLaoSmpump",
-      "price": 6.978370628742586e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-07T23:16:18+00:00",
-      "side": "buy",
-      "symbol": "SARP",
-      "address": "jygX63bt7e5HKXbNYgszgQGHqwTMRPVd8QMhka8pump",
-      "price": 0.00790168150229771,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T23:16:18+00:00",
       "side": "buy",
@@ -4530,6 +4513,32 @@
       "address": "4qwA4cYPdnD9mBk4qHs6ifKwufBXjqhVoA5fCZVFpump",
       "price": 6.887232430111638e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T02:16:48+00:00",
+      "side": "sell",
+      "symbol": "SIB",
+      "address": "8KEJkRSHTyibZkjX5QQVqwiAgEuxtLcm8crxaPE1pump",
+      "price": 4.987947396e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T02:16:48+00:00",
+      "side": "buy",
+      "symbol": "Mousie",
+      "address": "6uSNoC4NYkLXg8w6G9Ude9cD2fWMe4n1tdG7Kpn7pump",
+      "price": 2.3139431332181987e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T02:16:48+00:00",
+      "side": "buy",
+      "symbol": "Neepo",
+      "address": "Ds53FfrArMnoudWrnLtxAn2YLJZBnmtaaB5ZyAZCpump",
+      "price": 1.7376088209042224e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5884,6 +5893,10 @@
     {
       "date": "2026-10-10T01:55:54+00:00",
       "equity": 3597606.46
+    },
+    {
+      "date": "2026-10-10T02:16:48+00:00",
+      "equity": 3597554.12
     }
   ]
 }
