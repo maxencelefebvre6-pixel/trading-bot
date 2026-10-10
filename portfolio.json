@@ -1,92 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 3597956.302929044,
+  "cash": 3598194.644276919,
   "positions": {
-    "65BaMYPoYphbYRQFK9NgJwPx1vTaZ6SMPH3DXAFqpump": {
-      "symbol": "STUTUTU",
-      "qty": 4591988.236638701,
-      "entry_price": 1.0779644339035506e-05,
-      "last_price": 1.035957464e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T11:31:17+00:00",
-      "missing": 0
-    },
-    "hzbka6yN8QprUNEMe4zHcVPkKemJyStDFWa9Gzbpump": {
-      "symbol": "Grok AI",
-      "qty": 103050.35359546592,
-      "entry_price": 0.0004803476967611098,
-      "last_price": 0.00046596786752139074,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T12:28:48+00:00",
-      "missing": 0
-    },
-    "A3bgS385BE23cy98nbKsbuKZeSHd2J8NxLd6P6ZXpump": {
-      "symbol": "Nike",
-      "qty": 111573.91273191186,
-      "entry_price": 0.00044365209382714636,
-      "last_price": 0.00043035067712857833,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T12:28:48+00:00",
-      "missing": 0
-    },
-    "7SuHznck28nX6AgxQTZfW5bMstPDwHrcssahWYYWpump": {
-      "symbol": "SANDBOX",
-      "qty": 1043655.6929465677,
-      "entry_price": 4.742943514277775e-05,
-      "last_price": 4.592098255027651e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T12:28:48+00:00",
-      "missing": 0
-    },
     "AckxLXFN6ihcz9LR3XnVk6X5TypmZJyEnzSAVgimpump": {
       "symbol": "G CANDLE",
       "qty": 3782145.9751917166,
       "entry_price": 1.3087807907120996e-05,
-      "last_price": 1.264495508801482e-05,
+      "last_price": 1.264495509e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T12:28:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T10:58:42+00:00",
-      "side": "sell",
-      "symbol": "Xployer",
-      "address": "3rdmvzNh4awyPgTE6VUqMvNs9W1csbCUfEwTEd1spump",
-      "price": 2.68591089e-06,
-      "proceeds": 3.2,
-      "pnl_usd": -46.8,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T10:58:42+00:00",
-      "side": "sell",
-      "symbol": "PUMP",
-      "address": "Ed7UHxWmq3uVSJvo7TjUjCui5dPhG5eYA3vPHbbcpump",
-      "price": 5.274516135e-06,
-      "proceeds": 23.61,
-      "pnl_usd": -26.39,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T10:58:42+00:00",
-      "side": "buy",
-      "symbol": "401si(k)",
-      "address": "734cagXxECkwQhZaJFZTHw7iFdvv5rvF3spiiUDmpump",
-      "price": 9.22273026849083e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T11:22:40+00:00",
-      "side": "sell",
-      "symbol": "wind",
-      "address": "73mnfusfaKebhrKWqJJQASE3KNC1AfMicFGkutvLpump",
-      "price": 1.063989484e-05,
-      "proceeds": 45.61,
-      "pnl_usd": -4.39,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T11:22:40+00:00",
       "side": "sell",
@@ -4548,6 +4474,46 @@
       "address": "AckxLXFN6ihcz9LR3XnVk6X5TypmZJyEnzSAVgimpump",
       "price": 1.3087807907120996e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T12:53:32+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "65BaMYPoYphbYRQFK9NgJwPx1vTaZ6SMPH3DXAFqpump",
+      "price": 1.035957464e-05,
+      "proceeds": 45.4,
+      "pnl_usd": -4.6,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T12:53:32+00:00",
+      "side": "sell",
+      "symbol": "Grok AI",
+      "address": "hzbka6yN8QprUNEMe4zHcVPkKemJyStDFWa9Gzbpump",
+      "price": 0.0008800912549,
+      "proceeds": 86.89,
+      "pnl_usd": 36.89,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-10T12:53:32+00:00",
+      "side": "sell",
+      "symbol": "Nike",
+      "address": "A3bgS385BE23cy98nbKsbuKZeSHd2J8NxLd6P6ZXpump",
+      "price": 0.0007136709138,
+      "proceeds": 76.29,
+      "pnl_usd": 26.29,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-10T12:53:32+00:00",
+      "side": "sell",
+      "symbol": "SANDBOX",
+      "address": "7SuHznck28nX6AgxQTZfW5bMstPDwHrcssahWYYWpump",
+      "price": 2.982789317e-05,
+      "proceeds": 29.76,
+      "pnl_usd": -20.24,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6030,6 +5996,10 @@
     {
       "date": "2026-10-10T12:28:48+00:00",
       "equity": 3598195.66
+    },
+    {
+      "date": "2026-10-10T12:53:32+00:00",
+      "equity": 3598242.47
     }
   ]
 }
