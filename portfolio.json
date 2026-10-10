@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5169198.60094453,
+  "cash": 5169170.562598486,
   "positions": {
-    "6pRLnfDeDmwrxbftYDA4gE7LK2Hw3EPb3HfPZdkapump": {
-      "symbol": "CWIF",
-      "qty": 7210535.8756419625,
-      "entry_price": 6.864954401962941e-06,
-      "last_price": 6.601554795095808e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T22:20:46+00:00",
-      "missing": 0
-    },
     "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump": {
       "symbol": "STUTUTU",
       "qty": 5782765.62167291,
       "entry_price": 8.559918080456463e-06,
-      "last_price": 8.248928072721316e-06,
+      "last_price": 8.248928073e-06,
       "cost": 50.0,
       "entry_time": "2026-10-10T22:20:46+00:00",
+      "missing": 0
+    },
+    "kLcm4N2Cvcu7spqW3a9pNpVpd9scDdcAQsALF2Kpump": {
+      "symbol": "Instinct",
+      "qty": 137692.95245934703,
+      "entry_price": 0.0003594955233065727,
+      "last_price": 0.00034868644548442004,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T22:39:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T02:28:09+00:00",
-      "side": "buy",
-      "symbol": "HeeHaw",
-      "address": "9Jtugb5PFg95tHc45LBGrj3hvfMcfTdSBDqFwTvopump",
-      "price": 8.781794117371579e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T02:28:09+00:00",
-      "side": "buy",
-      "symbol": "PLAY",
-      "address": "7EPcquaYGm2NAkX1Aa5kW5nGJWtQPwPYu7n78KsApump",
-      "price": 1.265253432762328e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T02:48:47+00:00",
       "side": "sell",
@@ -4519,6 +4503,24 @@
       "address": "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump",
       "price": 8.559918080456463e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T22:39:37+00:00",
+      "side": "sell",
+      "symbol": "CWIF",
+      "address": "6pRLnfDeDmwrxbftYDA4gE7LK2Hw3EPb3HfPZdkapump",
+      "price": 3.202611171e-06,
+      "proceeds": 21.96,
+      "pnl_usd": -28.04,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T22:39:37+00:00",
+      "side": "buy",
+      "symbol": "Instinct",
+      "address": "kLcm4N2Cvcu7spqW3a9pNpVpd9scDdcAQsALF2Kpump",
+      "price": 0.0003594955233065727,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6121,6 +6123,10 @@
     {
       "date": "2026-10-10T22:20:46+00:00",
       "equity": 5169293.9
+    },
+    {
+      "date": "2026-10-10T22:39:37+00:00",
+      "equity": 5169266.28
     }
   ]
 }
