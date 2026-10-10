@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 3597601.6551262056,
+  "cash": 3597654.3125383607,
   "positions": {
-    "9JxpThXvtCvnqH75h6GyptDAmNtubPJ86F4PzTY7pump": {
-      "symbol": "Musk",
-      "qty": 553002.6091429578,
-      "entry_price": 8.951133173985379e-05,
-      "last_price": 8.679127108619232e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T07:27:43+00:00",
-      "missing": 0
-    },
     "C2q3UmF6TUaux49ShTxhru57bvfpKMocwXpNFbX8pump": {
       "symbol": "gay",
       "qty": 931206.1663921088,
       "entry_price": 5.3156864490904505e-05,
-      "last_price": 5.154368597221354e-05,
+      "last_price": 5.154368597e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T07:27:43+00:00",
+      "missing": 0
+    },
+    "x5oeXUVjJEchGEtPmkzS5sdFgW4teqz1UejNTbDpump": {
+      "symbol": "TM",
+      "qty": 563080.6680066435,
+      "entry_price": 8.790925139595802e-05,
+      "last_price": 8.52368469970564e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T07:47:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T04:47:47+00:00",
-      "side": "sell",
-      "symbol": "sam",
-      "address": "5bYFaFGtmMCgUPb8rLpvFYbipJbGrfqW7NtdxDUYpump",
-      "price": 6.363374513e-05,
-      "proceeds": 62.99,
-      "pnl_usd": 12.99,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-08T04:47:47+00:00",
-      "side": "sell",
-      "symbol": "butter",
-      "address": "9z4ASAsmVhVaGKpDGBrnrHJVB8g8GUy29hdKhNgMpump",
-      "price": 2.291582392e-06,
-      "proceeds": 3.66,
-      "pnl_usd": -46.34,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-08T04:47:47+00:00",
       "side": "buy",
@@ -4523,6 +4503,24 @@
       "address": "C2q3UmF6TUaux49ShTxhru57bvfpKMocwXpNFbX8pump",
       "price": 5.3156864490904505e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T07:47:02+00:00",
+      "side": "sell",
+      "symbol": "Musk",
+      "address": "9JxpThXvtCvnqH75h6GyptDAmNtubPJ86F4PzTY7pump",
+      "price": 0.0003750230252,
+      "proceeds": 102.66,
+      "pnl_usd": 52.66,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T07:47:02+00:00",
+      "side": "buy",
+      "symbol": "TM",
+      "address": "x5oeXUVjJEchGEtPmkzS5sdFgW4teqz1UejNTbDpump",
+      "price": 8.790925139595802e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5941,6 +5939,10 @@
     {
       "date": "2026-10-10T07:27:43+00:00",
       "equity": 3597697.65
+    },
+    {
+      "date": "2026-10-10T07:47:02+00:00",
+      "equity": 3597750.31
     }
   ]
 }
