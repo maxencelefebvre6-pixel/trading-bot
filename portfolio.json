@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5169170.562598486,
+  "cash": 5169070.821477617,
   "positions": {
     "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump": {
       "symbol": "STUTUTU",
@@ -11,45 +11,26 @@
       "entry_time": "2026-10-10T22:20:46+00:00",
       "missing": 0
     },
-    "kLcm4N2Cvcu7spqW3a9pNpVpd9scDdcAQsALF2Kpump": {
-      "symbol": "Instinct",
-      "qty": 137692.95245934703,
-      "entry_price": 0.0003594955233065727,
-      "last_price": 0.00034868644548442004,
+    "AoBK3ScJzB55SZp1uELPKqVYAmaVLJJ5peTELbQdpump": {
+      "symbol": "pumpfounde",
+      "qty": 1088684.462141262,
+      "entry_price": 4.546771973087749e-05,
+      "last_price": 4.401796218888113e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T22:39:37+00:00",
+      "entry_time": "2026-10-10T22:56:03+00:00",
+      "missing": 0
+    },
+    "H7C8BVjPUqjxgDqiZHd7oGQ7ND2X48ykZa6qmU93pump": {
+      "symbol": "$MFRG",
+      "qty": 3166988.076688553,
+      "entry_price": 1.5629992535923244e-05,
+      "last_price": 1.5060327919741941e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T22:56:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T02:48:47+00:00",
-      "side": "sell",
-      "symbol": "HeeHaw",
-      "address": "9Jtugb5PFg95tHc45LBGrj3hvfMcfTdSBDqFwTvopump",
-      "price": 9.934500593e-05,
-      "proceeds": 53.62,
-      "pnl_usd": 3.62,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-09T02:48:47+00:00",
-      "side": "sell",
-      "symbol": "PLAY",
-      "address": "7EPcquaYGm2NAkX1Aa5kW5nGJWtQPwPYu7n78KsApump",
-      "price": 1.669131787e-05,
-      "proceeds": 61.28,
-      "pnl_usd": 11.28,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-09T02:48:47+00:00",
-      "side": "buy",
-      "symbol": "HeeHaw",
-      "address": "A1p962d6byVYoWZwXD3m3TqKzvEbzkwySBXSnphfpump",
-      "price": 8.877294433991843e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T02:48:47+00:00",
       "side": "buy",
@@ -4521,6 +4502,32 @@
       "address": "kLcm4N2Cvcu7spqW3a9pNpVpd9scDdcAQsALF2Kpump",
       "price": 0.0003594955233065727,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T22:56:03+00:00",
+      "side": "sell",
+      "symbol": "Instinct",
+      "address": "kLcm4N2Cvcu7spqW3a9pNpVpd9scDdcAQsALF2Kpump",
+      "price": 1.960938699e-06,
+      "proceeds": 0.26,
+      "pnl_usd": -49.74,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T22:56:03+00:00",
+      "side": "buy",
+      "symbol": "pumpfounde",
+      "address": "AoBK3ScJzB55SZp1uELPKqVYAmaVLJJ5peTELbQdpump",
+      "price": 4.546771973087749e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T22:56:03+00:00",
+      "side": "buy",
+      "symbol": "$MFRG",
+      "address": "H7C8BVjPUqjxgDqiZHd7oGQ7ND2X48ykZa6qmU93pump",
+      "price": 1.5629992535923244e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6127,6 +6134,10 @@
     {
       "date": "2026-10-10T22:39:37+00:00",
       "equity": 5169266.28
+    },
+    {
+      "date": "2026-10-10T22:56:03+00:00",
+      "equity": 5169214.14
     }
   ]
 }
