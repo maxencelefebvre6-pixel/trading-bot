@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5169070.821477617,
+  "cash": 5168978.036109762,
   "positions": {
     "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump": {
       "symbol": "STUTUTU",
@@ -11,50 +11,35 @@
       "entry_time": "2026-10-10T22:20:46+00:00",
       "missing": 0
     },
-    "AoBK3ScJzB55SZp1uELPKqVYAmaVLJJ5peTELbQdpump": {
-      "symbol": "pumpfounde",
-      "qty": 1088684.462141262,
-      "entry_price": 4.546771973087749e-05,
-      "last_price": 4.401796218888113e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T22:56:03+00:00",
-      "missing": 0
-    },
     "H7C8BVjPUqjxgDqiZHd7oGQ7ND2X48ykZa6qmU93pump": {
       "symbol": "$MFRG",
       "qty": 3166988.076688553,
       "entry_price": 1.5629992535923244e-05,
-      "last_price": 1.5060327919741941e-05,
+      "last_price": 1.506466743e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T22:56:03+00:00",
+      "missing": 0
+    },
+    "GRqo1UTUYAu9BvRGgXZEe7sHMnKQKTNHgExNiFqGpump": {
+      "symbol": "MONY",
+      "qty": 8548609.540623562,
+      "entry_price": 5.790415361091496e-06,
+      "last_price": 5.572873861290004e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T23:15:05+00:00",
+      "missing": 0
+    },
+    "BXUgw1sqDG1717Ki6o7Gh733mQWmmQdZiMh1GvDMpump": {
+      "symbol": "Fox",
+      "qty": 5310073.329002143,
+      "entry_price": 9.321905166477604e-06,
+      "last_price": 8.98525414409507e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T23:15:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T02:48:47+00:00",
-      "side": "buy",
-      "symbol": "TikTok",
-      "address": "s2vPe7krwXtrtZTiDBx246mrtEwiByUWhbGSX3upump",
-      "price": 0.0003717456228771655,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T02:48:47+00:00",
-      "side": "buy",
-      "symbol": "Mitosis",
-      "address": "CUDmt9sNUjnsfqpUWDQ2fnRi17NxoKXJTLvkmY1gpump",
-      "price": 1.3528317425800109e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T02:48:47+00:00",
-      "side": "buy",
-      "symbol": "BUNKER",
-      "address": "BjDqeXf3K6qLidvdhZeJUj3QQ93bndcYT1bs58SUpump",
-      "price": 1.0603552107099562e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T02:48:47+00:00",
       "side": "buy",
@@ -4528,6 +4513,32 @@
       "address": "H7C8BVjPUqjxgDqiZHd7oGQ7ND2X48ykZa6qmU93pump",
       "price": 1.5629992535923244e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T23:15:05+00:00",
+      "side": "sell",
+      "symbol": "pumpfounde",
+      "address": "AoBK3ScJzB55SZp1uELPKqVYAmaVLJJ5peTELbQdpump",
+      "price": 6.914037958e-06,
+      "proceeds": 7.21,
+      "pnl_usd": -42.79,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T23:15:05+00:00",
+      "side": "buy",
+      "symbol": "MONY",
+      "address": "GRqo1UTUYAu9BvRGgXZEe7sHMnKQKTNHgExNiFqGpump",
+      "price": 5.790415361091496e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T23:15:05+00:00",
+      "side": "buy",
+      "symbol": "Fox",
+      "address": "BXUgw1sqDG1717Ki6o7Gh733mQWmmQdZiMh1GvDMpump",
+      "price": 9.321905166477604e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6138,6 +6149,10 @@
     {
       "date": "2026-10-10T22:56:03+00:00",
       "equity": 5169214.14
+    },
+    {
+      "date": "2026-10-10T23:15:05+00:00",
+      "equity": 5169168.8
     }
   ]
 }
