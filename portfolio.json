@@ -1,34 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 4488436.343864194,
+  "cash": 4488610.20011744,
   "positions": {
-    "BR5BPTC3NUcD63hubUatkVDQPcvFREWNQVFQMycSpump": {
-      "symbol": "angel",
-      "qty": 4389474.350960966,
-      "entry_price": 1.1276976704320691e-05,
-      "last_price": 1.088543046e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:59:12+00:00",
-      "missing": 0
-    },
-    "3yJnddacxe7o1SN2kAwMn5KGZ5xnfALCYUiWGWrQpump": {
-      "symbol": "MCH",
-      "qty": 3587316.139734775,
-      "entry_price": 1.3798616590189829e-05,
-      "last_price": 1.332066671e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:59:12+00:00",
-      "missing": 0
-    },
-    "FcMCUWxkWAp4pfVxAD5yyZz3ZxtpcoockdG4pQc3pump": {
-      "symbol": "STUTUTU",
-      "qty": 2937648.4420176484,
-      "entry_price": 1.685021233037749e-05,
-      "last_price": 1.629300509e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T14:59:12+00:00",
-      "missing": 0
-    },
     "8qreXe4qU1xdtZTYFH5s7haDrm9XicT7pm8jAd45pump": {
       "symbol": "STUTUTU",
       "qty": 5125529.557437119,
@@ -37,107 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-10T15:19:44+00:00",
       "missing": 0
-    },
-    "DvMJy1mKQ82iH4fh4smVpJktumLXDkYeUSz3QFUvpump": {
-      "symbol": "resolve",
-      "qty": 2569948.098995398,
-      "entry_price": 1.9261089365715102e-05,
-      "last_price": 1.857937956490289e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T15:55:26+00:00",
-      "missing": 0
-    },
-    "3LVo2XxnDhx3Tkh7kXaxw1UrkEsCpiTcW1VGr8etpump": {
-      "symbol": "ai;dr",
-      "qty": 5842407.831669371,
-      "entry_price": 8.472534171900868e-06,
-      "last_price": 8.14917256173406e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T15:55:26+00:00",
-      "missing": 0
-    },
-    "AGjysbz2zbLzb2N5Dd4YqMqrVYFgSNeLK5QYL2ZYpump": {
-      "symbol": "PAIRD",
-      "qty": 3571502.5309355604,
-      "entry_price": 1.3859712983888997e-05,
-      "last_price": 1.3357380289221027e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T15:55:26+00:00",
-      "missing": 0
-    },
-    "6kUjG4Abc5s4Gd3oxGQWKbyK9pCdKsTjgqq55yA3pump": {
-      "symbol": "SIBINU",
-      "qty": 13105126.91784678,
-      "entry_price": 3.7771477003088062e-06,
-      "last_price": 3.634004009186805e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T15:55:26+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T14:32:41+00:00",
-      "side": "buy",
-      "symbol": "OMARCHY",
-      "address": "CePnUsbGH7XyiXMK9ZLBDH5x1h4X2etzHTMeXPR5pump",
-      "price": 9.225878626260857e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T14:32:41+00:00",
-      "side": "buy",
-      "symbol": "ROBINDOGE",
-      "address": "GZaZyR9A2GoVoze9zvSQXGHqJUYAGur4zi7mkccbpump",
-      "price": 9.980714952550282e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T14:32:41+00:00",
-      "side": "buy",
-      "symbol": "401sik",
-      "address": "44DG3NP9ywuPHJfScrLG4r44w7frsRzqhXMS5Prnpump",
-      "price": 1.0631148023305837e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T14:54:50+00:00",
-      "side": "sell",
-      "symbol": "OMARCHY",
-      "address": "CePnUsbGH7XyiXMK9ZLBDH5x1h4X2etzHTMeXPR5pump",
-      "price": 0.0008206323674,
-      "proceeds": 217.95,
-      "pnl_usd": 167.95,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T14:54:50+00:00",
-      "side": "sell",
-      "symbol": "ROBINDOGE",
-      "address": "GZaZyR9A2GoVoze9zvSQXGHqJUYAGur4zi7mkccbpump",
-      "price": 3.54559607e-06,
-      "proceeds": 16.77,
-      "pnl_usd": -33.23,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T14:54:50+00:00",
-      "side": "sell",
-      "symbol": "401sik",
-      "address": "44DG3NP9ywuPHJfScrLG4r44w7frsRzqhXMS5Prnpump",
-      "price": 1.025820683e-05,
-      "proceeds": 23.64,
-      "pnl_usd": -26.36,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T14:54:50+00:00",
-      "side": "buy",
-      "symbol": "Mario64",
-      "address": "CkF7KjVzms35XtvgFnXc1i9NJN7oCh7uxEzK57U7pump",
-      "price": 5.8376657788405096e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T14:54:50+00:00",
       "side": "buy",
@@ -4567,6 +4442,76 @@
       "address": "6kUjG4Abc5s4Gd3oxGQWKbyK9pCdKsTjgqq55yA3pump",
       "price": 3.7771477003088062e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T16:14:29+00:00",
+      "side": "sell",
+      "symbol": "angel",
+      "address": "BR5BPTC3NUcD63hubUatkVDQPcvFREWNQVFQMycSpump",
+      "price": 1.088543046e-05,
+      "proceeds": 45.61,
+      "pnl_usd": -4.39,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T16:14:29+00:00",
+      "side": "sell",
+      "symbol": "MCH",
+      "address": "3yJnddacxe7o1SN2kAwMn5KGZ5xnfALCYUiWGWrQpump",
+      "price": 1.332066671e-05,
+      "proceeds": 45.62,
+      "pnl_usd": -4.38,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T16:14:29+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "FcMCUWxkWAp4pfVxAD5yyZz3ZxtpcoockdG4pQc3pump",
+      "price": 1.629300509e-05,
+      "proceeds": 45.77,
+      "pnl_usd": -4.23,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T16:14:29+00:00",
+      "side": "sell",
+      "symbol": "resolve",
+      "address": "DvMJy1mKQ82iH4fh4smVpJktumLXDkYeUSz3QFUvpump",
+      "price": 3.157709192e-06,
+      "proceeds": 7.77,
+      "pnl_usd": -42.23,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T16:14:29+00:00",
+      "side": "sell",
+      "symbol": "ai;dr",
+      "address": "3LVo2XxnDhx3Tkh7kXaxw1UrkEsCpiTcW1VGr8etpump",
+      "price": 3.161502956e-06,
+      "proceeds": 17.6,
+      "pnl_usd": -32.4,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T16:14:29+00:00",
+      "side": "sell",
+      "symbol": "PAIRD",
+      "address": "AGjysbz2zbLzb2N5Dd4YqMqrVYFgSNeLK5QYL2ZYpump",
+      "price": 3.206220905e-06,
+      "proceeds": 10.94,
+      "pnl_usd": -39.06,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T16:14:29+00:00",
+      "side": "sell",
+      "symbol": "SIBINU",
+      "address": "6kUjG4Abc5s4Gd3oxGQWKbyK9pCdKsTjgqq55yA3pump",
+      "price": 4.325747958e-08,
+      "proceeds": 0.54,
+      "pnl_usd": -49.46,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -6085,6 +6030,10 @@
     {
       "date": "2026-10-10T15:55:26+00:00",
       "equity": 4488818.1
+    },
+    {
+      "date": "2026-10-10T16:14:30+00:00",
+      "equity": 4488657.84
     }
   ]
 }
