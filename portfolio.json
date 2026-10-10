@@ -1,42 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 4488610.20011744,
+  "cash": 4488555.6337464815,
   "positions": {
-    "8qreXe4qU1xdtZTYFH5s7haDrm9XicT7pm8jAd45pump": {
-      "symbol": "STUTUTU",
-      "qty": 5125529.557437119,
-      "entry_price": 9.657538688500144e-06,
-      "last_price": 9.294067719e-06,
+    "DAvKqNifHbzyio7G1uR1TiZWgCGdGM3P2h1vnqpEpump": {
+      "symbol": "CLAUDMINI",
+      "qty": 3448632.9761666735,
+      "entry_price": 1.4353513505812875e-05,
+      "last_price": 1.387365147360262e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T15:19:44+00:00",
+      "entry_time": "2026-10-10T16:35:06+00:00",
+      "missing": 0
+    },
+    "4b8BxbQUR6PZ36LqaQxeagotjoH72K5pczi6FZMwpump": {
+      "symbol": "$LA BEAST",
+      "qty": 7208712.442564712,
+      "entry_price": 6.86669088195574e-06,
+      "last_price": 6.6027020596618955e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T16:35:06+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T14:54:50+00:00",
-      "side": "buy",
-      "symbol": "Money",
-      "address": "9MUMoUc7xdFNxiobW8zwjH6Fs7DyoUFmR2PSPKWCpump",
-      "price": 7.179469012162227e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T14:54:50+00:00",
-      "side": "buy",
-      "symbol": "FPC",
-      "address": "DfpXv19zrHBZapwNHnxw24yEXKuZvhCjw5BkKCFrpump",
-      "price": 1.3216833664603325e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T14:54:50+00:00",
-      "side": "buy",
-      "symbol": "ATFS",
-      "address": "4tSrhyh2WSTht6DrtiuWGD5BYDkyNMHFT5c7vxCdpump",
-      "price": 0.014839979124384197,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T15:16:22+00:00",
       "side": "sell",
@@ -4512,6 +4497,32 @@
       "proceeds": 0.54,
       "pnl_usd": -49.46,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T16:35:06+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "8qreXe4qU1xdtZTYFH5s7haDrm9XicT7pm8jAd45pump",
+      "price": 9.294067719e-06,
+      "proceeds": 45.43,
+      "pnl_usd": -4.57,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T16:35:06+00:00",
+      "side": "buy",
+      "symbol": "CLAUDMINI",
+      "address": "DAvKqNifHbzyio7G1uR1TiZWgCGdGM3P2h1vnqpEpump",
+      "price": 1.4353513505812875e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T16:35:06+00:00",
+      "side": "buy",
+      "symbol": "$LA BEAST",
+      "address": "4b8BxbQUR6PZ36LqaQxeagotjoH72K5pczi6FZMwpump",
+      "price": 6.86669088195574e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6034,6 +6045,10 @@
     {
       "date": "2026-10-10T16:14:30+00:00",
       "equity": 4488657.84
+    },
+    {
+      "date": "2026-10-10T16:35:06+00:00",
+      "equity": 4488651.08
     }
   ]
 }
