@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 4488388.84941988,
+  "cash": 4488288.84941988,
   "positions": {
     "4pgKWvZXuddykbUXbtc6GhLs1UghQm4Tz8bvBjmvpump": {
       "symbol": "STUTUTU",
@@ -10,27 +10,27 @@
       "cost": 50.0,
       "entry_time": "2026-10-10T18:23:27+00:00",
       "missing": 0
+    },
+    "96wio7NGRsYBzYXagp4ULJRVfJ8ipLEurhGJs1ckpump": {
+      "symbol": "BASIN",
+      "qty": 14287219.877412377,
+      "entry_price": 3.464634857216544e-06,
+      "last_price": 3.339912874862302e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T19:02:47+00:00",
+      "missing": 0
+    },
+    "BuRbEZVvKZXs86QZtAreqnbVYCn2D2ZhQnWPLeZCpump": {
+      "symbol": "STUTUTU",
+      "qty": 6186508.32479606,
+      "entry_price": 8.001282371446866e-06,
+      "last_price": 7.706284627808172e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T19:02:47+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T20:03:22+00:00",
-      "side": "sell",
-      "symbol": "Pumpfolio",
-      "address": "DPkQdwhs9ojo1zjwJcujZB7mwpQxFoQKx1UG7o7cpump",
-      "price": 0.0005585560899,
-      "proceeds": 156.74,
-      "pnl_usd": 106.74,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-08T20:03:22+00:00",
-      "side": "buy",
-      "symbol": "pruple",
-      "address": "GFcbjmAdCVT5PFpTmXAqgMKMtn6qZjTM4egWVA5epump",
-      "price": 8.124657217255004e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T20:28:03+00:00",
       "side": "sell",
@@ -4514,6 +4514,22 @@
       "proceeds": 9.33,
       "pnl_usd": -40.67,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T19:02:47+00:00",
+      "side": "buy",
+      "symbol": "BASIN",
+      "address": "96wio7NGRsYBzYXagp4ULJRVfJ8ipLEurhGJs1ckpump",
+      "price": 3.464634857216544e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T19:02:47+00:00",
+      "side": "buy",
+      "symbol": "STUTUTU",
+      "address": "BuRbEZVvKZXs86QZtAreqnbVYCn2D2ZhQnWPLeZCpump",
+      "price": 8.001282371446866e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6068,6 +6084,10 @@
     {
       "date": "2026-10-10T18:46:38+00:00",
       "equity": 4488436.49
+    },
+    {
+      "date": "2026-10-10T19:02:47+00:00",
+      "equity": 4488431.88
     }
   ]
 }
