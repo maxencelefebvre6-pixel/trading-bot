@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 3597612.5117418775,
+  "cash": 3597676.4865898336,
   "positions": {
-    "C2q3UmF6TUaux49ShTxhru57bvfpKMocwXpNFbX8pump": {
-      "symbol": "gay",
-      "qty": 931206.1663921088,
-      "entry_price": 5.3156864490904505e-05,
-      "last_price": 5.154368597e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T07:27:43+00:00",
-      "missing": 0
-    },
     "x5oeXUVjJEchGEtPmkzS5sdFgW4teqz1UejNTbDpump": {
       "symbol": "TM",
       "qty": 563080.6680066435,
@@ -19,51 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-10T07:47:02+00:00",
       "missing": 0
-    },
-    "7YcQZ6RuG91pDJHYLtBW4pU4xYoJc4kRcPFdvyyEpump": {
-      "symbol": "WOJODRAK",
-      "qty": 951896.5809723452,
-      "entry_price": 5.200144741505074e-05,
-      "last_price": 5.0348762948956365e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T08:22:59+00:00",
-      "missing": 0
-    },
-    "61sMDjuH3Nw7J1xdkRPkyqjN7ptegSH6ms8HY2eMpump": {
-      "symbol": "Polariton",
-      "qty": 5211110.831394604,
-      "entry_price": 9.498934411792724e-06,
-      "last_price": 9.136844637857757e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T08:22:59+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T05:25:24+00:00",
-      "side": "buy",
-      "symbol": "KUMO",
-      "address": "JwYvxY8dsiTENeC8r9us7oWArnPDBZLfZZKrBCnpump",
-      "price": 5.133116225709429e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T05:25:24+00:00",
-      "side": "buy",
-      "symbol": "DEDSEC",
-      "address": "6gVbgwEoZPbdjGwtUMygWR8SZD2Jwz67kbZU4DJqpump",
-      "price": 7.710122409605356e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T05:25:24+00:00",
-      "side": "buy",
-      "symbol": "$NINJACAT",
-      "address": "C3PnWanGLGr7HLY8Zr25qRUvg8moeBk2ZnZBWLrwpump",
-      "price": 4.798033642630939e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T05:25:24+00:00",
       "side": "buy",
@@ -4535,6 +4484,36 @@
       "address": "61sMDjuH3Nw7J1xdkRPkyqjN7ptegSH6ms8HY2eMpump",
       "price": 9.498934411792724e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T08:43:31+00:00",
+      "side": "sell",
+      "symbol": "gay",
+      "address": "C2q3UmF6TUaux49ShTxhru57bvfpKMocwXpNFbX8pump",
+      "price": 5.154368597e-05,
+      "proceeds": 46.03,
+      "pnl_usd": -3.97,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T08:43:31+00:00",
+      "side": "sell",
+      "symbol": "WOJODRAK",
+      "address": "7YcQZ6RuG91pDJHYLtBW4pU4xYoJc4kRcPFdvyyEpump",
+      "price": 2.352407394e-06,
+      "proceeds": 2.14,
+      "pnl_usd": -47.86,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T08:43:31+00:00",
+      "side": "sell",
+      "symbol": "Polariton",
+      "address": "61sMDjuH3Nw7J1xdkRPkyqjN7ptegSH6ms8HY2eMpump",
+      "price": 3.178819011e-06,
+      "proceeds": 15.8,
+      "pnl_usd": -34.2,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -5965,6 +5944,10 @@
     {
       "date": "2026-10-10T08:22:59+00:00",
       "equity": 3597805.27
+    },
+    {
+      "date": "2026-10-10T08:43:31+00:00",
+      "equity": 3597725.7
     }
   ]
 }
