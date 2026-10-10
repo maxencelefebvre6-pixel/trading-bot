@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3597654.3125383607,
+  "cash": 3597554.3125383607,
   "positions": {
     "C2q3UmF6TUaux49ShTxhru57bvfpKMocwXpNFbX8pump": {
       "symbol": "gay",
@@ -15,29 +15,31 @@
       "symbol": "TM",
       "qty": 563080.6680066435,
       "entry_price": 8.790925139595802e-05,
-      "last_price": 8.52368469970564e-05,
+      "last_price": 8.740847687e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T07:47:02+00:00",
+      "missing": 0
+    },
+    "CSbEmKU8s9DT6uJSwHtQMSiZhVd9QWbg3E1bNkiXpump": {
+      "symbol": "Musk",
+      "qty": 560083.2883992022,
+      "entry_price": 8.837971249147256e-05,
+      "last_price": 8.569337202351892e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T08:01:03+00:00",
+      "missing": 0
+    },
+    "8my1AqUj5CdBU4jWYEHk3q7CWEFfU5porWJ9tbKKpump": {
+      "symbol": "Ram",
+      "qty": 1468281.0694054654,
+      "entry_price": 3.371289123821741e-05,
+      "last_price": 3.244593006123527e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T08:01:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T04:47:47+00:00",
-      "side": "buy",
-      "symbol": "Apple",
-      "address": "rvajbC8iZBBCdfCadVV22THcYsa2LYvgfA6UKjapump",
-      "price": 0.0003816959533192877,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T04:47:47+00:00",
-      "side": "buy",
-      "symbol": "cap",
-      "address": "EmzUeS9gisTVNQL9iuijiPcdqSBMSevuPmsVMv5kpump",
-      "price": 2.7124484560391025e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T05:02:44+00:00",
       "side": "sell",
@@ -4521,6 +4523,22 @@
       "address": "x5oeXUVjJEchGEtPmkzS5sdFgW4teqz1UejNTbDpump",
       "price": 8.790925139595802e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T08:01:03+00:00",
+      "side": "buy",
+      "symbol": "Musk",
+      "address": "CSbEmKU8s9DT6uJSwHtQMSiZhVd9QWbg3E1bNkiXpump",
+      "price": 8.837971249147256e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T08:01:03+00:00",
+      "side": "buy",
+      "symbol": "Ram",
+      "address": "8my1AqUj5CdBU4jWYEHk3q7CWEFfU5porWJ9tbKKpump",
+      "price": 3.371289123821741e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -5943,6 +5961,10 @@
     {
       "date": "2026-10-10T07:47:02+00:00",
       "equity": 3597750.31
+    },
+    {
+      "date": "2026-10-10T08:01:03+00:00",
+      "equity": 3597747.16
     }
   ]
 }
