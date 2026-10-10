@@ -1,75 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 4487980.406760113,
+  "cash": 4910945.191940853,
   "positions": {
-    "4pgKWvZXuddykbUXbtc6GhLs1UghQm4Tz8bvBjmvpump": {
-      "symbol": "STUTUTU",
-      "qty": 6748388.240394473,
-      "entry_price": 7.335084799019582e-06,
-      "last_price": 7.058809459e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T18:23:27+00:00",
-      "missing": 0
-    },
-    "BuRbEZVvKZXs86QZtAreqnbVYCn2D2ZhQnWPLeZCpump": {
-      "symbol": "STUTUTU",
-      "qty": 6186508.32479606,
-      "entry_price": 8.001282371446866e-06,
-      "last_price": 7.739005733e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T19:02:47+00:00",
-      "missing": 0
-    },
-    "13wy4sJAHia6acM1TFXSHh9TybrbxXzWBGFGH2Xwpump": {
-      "symbol": "Altai",
-      "qty": 559970.9161139453,
-      "entry_price": 8.839744810947918e-05,
-      "last_price": 8.571091350042213e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T19:22:34+00:00",
-      "missing": 0
-    },
-    "8koQ8XoPNHvt7Y76Zagyo7TVd26dcxfTC6fi8bzKpump": {
-      "symbol": "WHISPR",
-      "qty": 3717664.8221178944,
-      "entry_price": 1.3314809798211082e-05,
-      "last_price": 1.2829708315582579e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T19:22:34+00:00",
-      "missing": 0
-    },
-    "FSiuJYja3jK7ogUKFd1rKazD2JEVVR8CpFHukSDQpump": {
-      "symbol": "SAFEGUARD",
-      "qty": 3317295.1924123685,
-      "entry_price": 1.49217953570189e-05,
-      "last_price": 1.4386816166301241e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T19:22:34+00:00",
-      "missing": 0
-    },
-    "65b3FPmsTtcURCEx3ViQhKGnWxbiLY72fKUx2uyapump": {
-      "symbol": "$MFRG",
-      "qty": 8669061.781905992,
-      "entry_price": 5.7099604600022655e-06,
-      "last_price": 5.499245772293008e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T19:22:34+00:00",
-      "missing": 0
-    },
-    "36kzamCrceiaYL3YyaEZ9Vpo8NJzpHtX5hU4t2Gopump": {
-      "symbol": "si",
-      "qty": 2002101.7371880591,
-      "entry_price": 2.4724018305644387e-05,
-      "last_price": 2.3968011706402593e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T19:22:34+00:00",
-      "missing": 0
-    },
     "ACgnKHrCngL32KJcyVa6U6TDgT4jjcZxr3SdiMa8pump": {
       "symbol": "IS",
       "qty": 3831547.0875435877,
       "entry_price": 1.2919063466797833e-05,
-      "last_price": 1.2481123124261362e-05,
+      "last_price": 1.248112312e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T19:22:34+00:00",
       "missing": 0
@@ -78,85 +15,22 @@
       "symbol": "Mayhem",
       "qty": 6023462.016036107,
       "entry_price": 8.217865385092066e-06,
-      "last_price": 7.915200805645122e-06,
+      "last_price": 7.914256928e-06,
       "cost": 50.0,
       "entry_time": "2026-10-10T19:22:34+00:00",
+      "missing": 0
+    },
+    "J3FoEMy5jiNrfbtMW1DytH55nABAGxCZtCdfxNnjpump": {
+      "symbol": "ARENA",
+      "qty": 495910.9789398665,
+      "entry_price": 9.981630192140252e-05,
+      "last_price": 9.679031308262357e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T19:40:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T21:08:49+00:00",
-      "side": "sell",
-      "symbol": "pruple",
-      "address": "GFcbjmAdCVT5PFpTmXAqgMKMtn6qZjTM4egWVA5epump",
-      "price": 7.826561758e-06,
-      "proceeds": 45.43,
-      "pnl_usd": -4.57,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-08T21:08:49+00:00",
-      "side": "sell",
-      "symbol": "TASTE",
-      "address": "J83XpUexmei2RPXUyrUNa2euGfauEZjdPkp6NpmDpump",
-      "price": 3.342305641e-06,
-      "proceeds": 14.68,
-      "pnl_usd": -35.32,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T21:08:49+00:00",
-      "side": "buy",
-      "symbol": "LOOP",
-      "address": "24iB17xZWuF3cnrncdb6nY2gEmfvspvdxEvQDKmYpump",
-      "price": 7.407862505695082e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T21:31:05+00:00",
-      "side": "sell",
-      "symbol": "LOOP",
-      "address": "24iB17xZWuF3cnrncdb6nY2gEmfvspvdxEvQDKmYpump",
-      "price": 3.079640884e-06,
-      "proceeds": 19.59,
-      "pnl_usd": -30.41,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-08T21:31:05+00:00",
-      "side": "buy",
-      "symbol": "GROK",
-      "address": "6HZVPYRjmXTJES5KASWCiBJnwA75SGZVDFLa1QXYpump",
-      "price": 3.6641825187176135e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T21:31:05+00:00",
-      "side": "buy",
-      "symbol": "Dip Slayer",
-      "address": "eseTwB8GNAmfbMdvzLZc5B5WAeDmA44Ecnm3HPFpump",
-      "price": 0.00022343392024477222,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T21:31:05+00:00",
-      "side": "buy",
-      "symbol": "PVE",
-      "address": "6X2pmNXuzM7DCk1raQh7rChkon5jFmGb6usRECKcpump",
-      "price": 5.5725675391261173e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T21:52:03+00:00",
-      "side": "sell",
-      "symbol": "WOSE",
-      "address": "HptU2ZoqyZ7ezCnMMwNENeVURASjHzkF9hJqa93Kpump",
-      "price": 0.001124087278,
-      "proceeds": 49.2,
-      "pnl_usd": -0.8,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-08T21:52:03+00:00",
       "side": "sell",
@@ -4578,6 +4452,84 @@
       "address": "CxAFX95z6wsHfnKLrj2vbSD6wPTwxTq1XmrMBY1Kpump",
       "price": 8.217865385092066e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "4pgKWvZXuddykbUXbtc6GhLs1UghQm4Tz8bvBjmvpump",
+      "price": 7.058809459e-06,
+      "proceeds": 45.33,
+      "pnl_usd": -4.67,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "BuRbEZVvKZXs86QZtAreqnbVYCn2D2ZhQnWPLeZCpump",
+      "price": 7.104719496e-06,
+      "proceeds": 41.86,
+      "pnl_usd": -8.14,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "side": "sell",
+      "symbol": "Altai",
+      "address": "13wy4sJAHia6acM1TFXSHh9TybrbxXzWBGFGH2Xwpump",
+      "price": 1.5255793712,
+      "proceeds": 422868.64,
+      "pnl_usd": 422818.64,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "side": "sell",
+      "symbol": "WHISPR",
+      "address": "8koQ8XoPNHvt7Y76Zagyo7TVd26dcxfTC6fi8bzKpump",
+      "price": 3.235892777e-06,
+      "proceeds": 11.5,
+      "pnl_usd": -38.5,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "side": "sell",
+      "symbol": "SAFEGUARD",
+      "address": "FSiuJYja3jK7ogUKFd1rKazD2JEVVR8CpFHukSDQpump",
+      "price": 3.17380651e-06,
+      "proceeds": 10.07,
+      "pnl_usd": -39.93,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "side": "sell",
+      "symbol": "$MFRG",
+      "address": "65b3FPmsTtcURCEx3ViQhKGnWxbiLY72fKUx2uyapump",
+      "price": 1.490743142e-06,
+      "proceeds": 12.26,
+      "pnl_usd": -37.74,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "side": "sell",
+      "symbol": "si",
+      "address": "36kzamCrceiaYL3YyaEZ9Vpo8NJzpHtX5hU4t2Gopump",
+      "price": 1.310584426e-05,
+      "proceeds": 25.13,
+      "pnl_usd": -24.87,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "side": "buy",
+      "symbol": "ARENA",
+      "address": "J3FoEMy5jiNrfbtMW1DytH55nABAGxCZtCdfxNnjpump",
+      "price": 9.981630192140252e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6140,6 +6092,10 @@
     {
       "date": "2026-10-10T19:22:34+00:00",
       "equity": 4488410.5
+    },
+    {
+      "date": "2026-10-10T19:40:21+00:00",
+      "equity": 4911088.68
     }
   ]
 }
