@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3598156.625215916,
+  "cash": 3598104.629269364,
   "positions": {
     "65BaMYPoYphbYRQFK9NgJwPx1vTaZ6SMPH3DXAFqpump": {
       "symbol": "STUTUTU",
@@ -11,68 +11,35 @@
       "entry_time": "2026-10-10T11:31:17+00:00",
       "missing": 0
     },
-    "EVtG1uUaVJSAg22VwxEMCLVcMc8CoBnVx4nBWStpump": {
-      "symbol": "FOMO",
-      "qty": 230235.4246668745,
-      "entry_price": 0.00021499732316007016,
-      "last_price": 0.0002084700007480231,
+    "Atsw5hbH1XVRdvHcNviUn1arapuN7x37BqgYX2Qjpump": {
+      "symbol": "MOBILE",
+      "qty": 1408689.6228490144,
+      "entry_price": 3.513903928665874e-05,
+      "last_price": 3.4017977807233704e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T11:49:37+00:00",
+      "entry_time": "2026-10-10T12:04:01+00:00",
       "missing": 0
     },
-    "6T5ZaozTWxUis29u43PMYnZo74fTtm9QuGxpphVUpump": {
-      "symbol": "Grail",
-      "qty": 4031596.8285417086,
-      "entry_price": 1.2278013428715024e-05,
-      "last_price": 1.1829615009100367e-05,
+    "24ttZAbRBARanbtGSmfMaEPNgS6kXrixGhE9p9wWpump": {
+      "symbol": "NFTPAD",
+      "qty": 4129415.4107833668,
+      "entry_price": 1.1987168903069903e-05,
+      "last_price": 1.154854828663972e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-10T11:49:37+00:00",
+      "entry_time": "2026-10-10T12:04:01+00:00",
+      "missing": 0
+    },
+    "26mhg5EPWdTMnbJJ8cv9jY7X53JgfjJq5Gu9Y7P9pump": {
+      "symbol": "ちんこ花",
+      "qty": 5308047.1574162785,
+      "entry_price": 9.325463495711368e-06,
+      "last_price": 8.973099529166684e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-10T12:04:01+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-08T09:55:21+00:00",
-      "side": "sell",
-      "symbol": "LEGO",
-      "address": "vZiMwNxyHz4gtqaPYcDymFtjQ68C5tBMYnzKkixpump",
-      "price": 0.0006879279014,
-      "proceeds": 84.24,
-      "pnl_usd": 34.24,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-08T09:55:22+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "3JLgcgtNV88y9oomnUkuVaf824oj3n4aUuqo13K8pump",
-      "price": 2.3450855705134755e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T10:18:27+00:00",
-      "side": "buy",
-      "symbol": "Xployer",
-      "address": "FNdgrPYe9U7f6uhNPNWP6Z1fB25V9ZwFdMA5WTixpump",
-      "price": 4.728049778834869e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T10:18:27+00:00",
-      "side": "buy",
-      "symbol": "Xployer",
-      "address": "3rdmvzNh4awyPgTE6VUqMvNs9W1csbCUfEwTEd1spump",
-      "price": 3.9764534295366726e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-08T10:18:27+00:00",
-      "side": "buy",
-      "symbol": "wind",
-      "address": "73mnfusfaKebhrKWqJJQASE3KNC1AfMicFGkutvLpump",
-      "price": 1.1022612460639508e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-08T10:18:27+00:00",
       "side": "buy",
@@ -4530,6 +4497,50 @@
       "address": "6T5ZaozTWxUis29u43PMYnZo74fTtm9QuGxpphVUpump",
       "price": 1.2278013428715024e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T12:04:01+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "EVtG1uUaVJSAg22VwxEMCLVcMc8CoBnVx4nBWStpump",
+      "price": 0.0003781795576,
+      "proceeds": 83.3,
+      "pnl_usd": 33.3,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-10T12:04:01+00:00",
+      "side": "sell",
+      "symbol": "Grail",
+      "address": "6T5ZaozTWxUis29u43PMYnZo74fTtm9QuGxpphVUpump",
+      "price": 3.820215007e-06,
+      "proceeds": 14.7,
+      "pnl_usd": -35.3,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T12:04:01+00:00",
+      "side": "buy",
+      "symbol": "MOBILE",
+      "address": "Atsw5hbH1XVRdvHcNviUn1arapuN7x37BqgYX2Qjpump",
+      "price": 3.513903928665874e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T12:04:01+00:00",
+      "side": "buy",
+      "symbol": "NFTPAD",
+      "address": "24ttZAbRBARanbtGSmfMaEPNgS6kXrixGhE9p9wWpump",
+      "price": 1.1987168903069903e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T12:04:01+00:00",
+      "side": "buy",
+      "symbol": "ちんこ花",
+      "address": "26mhg5EPWdTMnbJJ8cv9jY7X53JgfjJq5Gu9Y7P9pump",
+      "price": 9.325463495711368e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6004,6 +6015,10 @@
     {
       "date": "2026-10-10T11:49:37+00:00",
       "equity": 3598299.94
+    },
+    {
+      "date": "2026-10-10T12:04:01+00:00",
+      "equity": 3598295.49
     }
   ]
 }
