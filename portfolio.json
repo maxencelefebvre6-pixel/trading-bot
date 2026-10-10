@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 3597449.861496095,
+  "cash": 3597547.3715317002,
   "positions": {
     "3Dzmud3hmnZTytZRGDWg3QnoAsdA5DkkAsWtNA62pump": {
       "symbol": "STUTUTU",
@@ -10,45 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-09T23:55:15+00:00",
       "missing": 0
-    },
-    "9vNSNsRh1uet4h3e8VdBgHGMRHUB2VAxV7BAdMWQpump": {
-      "symbol": "eˣ",
-      "qty": 4492516.806996104,
-      "entry_price": 1.101832271899677e-05,
-      "last_price": 1.0614649827382675e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T00:24:49+00:00",
-      "missing": 0
-    },
-    "5UZU1BYhE2mNz9N7DytDt3tiDpbsM1Nz4aGGLeqDpump": {
-      "symbol": "$CCOW",
-      "qty": 1218135.0722992967,
-      "entry_price": 4.0635887698862524e-05,
-      "last_price": 3.940718696974292e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T00:24:49+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-07T21:47:28+00:00",
-      "side": "sell",
-      "symbol": "jamesup",
-      "address": "J2GWP2j2q7M77UizFBcnfnf6BhmLJGU9Gp4GcFwapump",
-      "price": 3.505065734e-07,
-      "proceeds": 1.27,
-      "pnl_usd": -48.73,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-07T21:47:28+00:00",
-      "side": "buy",
-      "symbol": "EIN",
-      "address": "9GyfbqYXjb5T2MsJiYqPChvnizSmhboAYBm8Sqn3pump",
-      "price": 1.1190030358262253e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-07T22:01:26+00:00",
       "side": "sell",
@@ -4528,6 +4492,26 @@
       "address": "5UZU1BYhE2mNz9N7DytDt3tiDpbsM1Nz4aGGLeqDpump",
       "price": 4.0635887698862524e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-10T00:54:42+00:00",
+      "side": "sell",
+      "symbol": "eˣ",
+      "address": "9vNSNsRh1uet4h3e8VdBgHGMRHUB2VAxV7BAdMWQpump",
+      "price": 3.620953629e-06,
+      "proceeds": 15.53,
+      "pnl_usd": -34.47,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-10T00:54:42+00:00",
+      "side": "sell",
+      "symbol": "$CCOW",
+      "address": "5UZU1BYhE2mNz9N7DytDt3tiDpbsM1Nz4aGGLeqDpump",
+      "price": 7.019919563e-05,
+      "proceeds": 81.98,
+      "pnl_usd": 31.98,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
@@ -5866,6 +5850,10 @@
     {
       "date": "2026-10-10T00:24:49+00:00",
       "equity": 3597593.16
+    },
+    {
+      "date": "2026-10-10T00:54:43+00:00",
+      "equity": 3597594.98
     }
   ]
 }
