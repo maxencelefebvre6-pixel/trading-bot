@@ -1,43 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5166592.453697613,
-  "positions": {
-    "BXu2YKdureJEdumKNdrchsyQbMN4yY1sPsjGHxBYpump": {
-      "symbol": "PUMPATAR",
-      "qty": 557315.5752620996,
-      "entry_price": 8.881861946298678e-05,
-      "last_price": 8.611987918836157e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T23:44:45+00:00",
-      "missing": 0
-    },
-    "osm6AzqDUH1hwxprivmCCgoH383pxH2dFWBUviLpump": {
-      "symbol": "CRYPTO",
-      "qty": 1224607.9200640232,
-      "entry_price": 4.0421100655148555e-05,
-      "last_price": 3.912644949079807e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T23:44:45+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5166623.813522576,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-10T09:57:39+00:00",
-      "side": "buy",
-      "symbol": "Poolympics",
-      "address": "BtMDkydRma3b8LRK5vetBwfBwmknvq6JJFH7uaS6pump",
-      "price": 9.336109076351997e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T09:57:39+00:00",
-      "side": "buy",
-      "symbol": "MEGANFOX",
-      "address": "8PVXxt6kCJ3V3KhHVe78QcvUszha3odd1441BP7bpump",
-      "price": 7.3873775443869455e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T09:57:39+00:00",
       "side": "buy",
@@ -4523,6 +4488,26 @@
       "address": "osm6AzqDUH1hwxprivmCCgoH383pxH2dFWBUviLpump",
       "price": 4.0421100655148555e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T23:59:34+00:00",
+      "side": "sell",
+      "symbol": "PUMPATAR",
+      "address": "BXu2YKdureJEdumKNdrchsyQbMN4yY1sPsjGHxBYpump",
+      "price": 9.816845043e-05,
+      "proceeds": 27.08,
+      "pnl_usd": -22.92,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T23:59:34+00:00",
+      "side": "sell",
+      "symbol": "CRYPTO",
+      "address": "osm6AzqDUH1hwxprivmCCgoH383pxH2dFWBUviLpump",
+      "price": 3.643964292e-06,
+      "proceeds": 4.28,
+      "pnl_usd": -45.72,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6433,6 +6418,10 @@
     {
       "date": "2026-10-11T23:44:45+00:00",
       "equity": 5166688.36
+    },
+    {
+      "date": "2026-10-11T23:59:34+00:00",
+      "equity": 5166623.81
     }
   ]
 }
