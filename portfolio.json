@@ -1,34 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5167624.835058295,
+  "cash": 5167620.675418917,
   "positions": {
-    "7TpCd3VcYz22Te6kTCUsuaqMbSsazWLzzN5hy5ZDpump": {
-      "symbol": "STUTUTU",
-      "qty": 2703461.654682513,
-      "entry_price": 1.8309858367794436e-05,
-      "last_price": 1.772066365e-05,
+    "GTU39Bcfnhd4hu56PZue8BXDQRCN56P3k5ptkzAEpump": {
+      "symbol": "pumployed",
+      "qty": 3263957.23924202,
+      "entry_price": 1.5165639857308684e-05,
+      "last_price": 1.4622904105897729e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T15:45:28+00:00",
+      "entry_time": "2026-10-11T16:59:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T02:37:36+00:00",
-      "side": "buy",
-      "symbol": "$CCOW",
-      "address": "Af2ucfv4QdvPd6aVUTKkuGP4dZPPLjrc59EwmuxUpump",
-      "price": 6.609065809766181e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T02:37:36+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "DyGE3L3QPZRscohsb5kDmdLh91kdKN1PHa8K6TjMpump",
-      "price": 1.160884564890761e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T02:37:36+00:00",
       "side": "buy",
@@ -4512,6 +4496,24 @@
       "proceeds": 16.9,
       "pnl_usd": -33.1,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T16:59:38+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "7TpCd3VcYz22Te6kTCUsuaqMbSsazWLzzN5hy5ZDpump",
+      "price": 1.772066365e-05,
+      "proceeds": 45.84,
+      "pnl_usd": -4.16,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T16:59:39+00:00",
+      "side": "buy",
+      "symbol": "pumployed",
+      "address": "GTU39Bcfnhd4hu56PZue8BXDQRCN56P3k5ptkzAEpump",
+      "price": 1.5165639857308684e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6334,6 +6336,10 @@
     {
       "date": "2026-10-11T16:43:10+00:00",
       "equity": 5167672.74
+    },
+    {
+      "date": "2026-10-11T16:59:39+00:00",
+      "equity": 5167668.4
     }
   ]
 }
