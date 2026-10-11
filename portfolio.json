@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5168614.945226445,
+  "cash": 5168515.114476491,
   "positions": {
     "72rLR8oFyNj4m7TwRojpfDpvWKryZBWUo7oD7fDLpump": {
       "symbol": "incoginu",
@@ -20,52 +20,35 @@
       "entry_time": "2026-10-11T06:53:49+00:00",
       "missing": 0
     },
-    "jKZHsBTG9JkTji2vBcmM31MjdvKAChsHfR6m9UDpump": {
-      "symbol": "STARBUCKS",
-      "qty": 91247.02712390624,
-      "entry_price": 0.0005424834272439684,
-      "last_price": 0.0005262701536546878,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T07:13:33+00:00",
-      "missing": 0
-    },
     "F25iD1mVtB2Q9YQJ5es7UgTS19Uza3Je3i4HX767pump": {
       "symbol": "INUX",
       "qty": 6450626.612328278,
       "entry_price": 7.673673113461075e-06,
-      "last_price": 7.387459144979639e-06,
+      "last_price": 7.387459145e-06,
       "cost": 50.0,
       "entry_time": "2026-10-11T07:13:33+00:00",
+      "missing": 0
+    },
+    "2TioXzxyqbRbGi6GEjo391AY4wHeXnCB568T4UL1pump": {
+      "symbol": "TAG",
+      "qty": 958765.3103423715,
+      "entry_price": 5.162890174063947e-05,
+      "last_price": 4.9987003976365414e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T07:35:22+00:00",
+      "missing": 0
+    },
+    "5MpmuKNXF6jsUXFfK9pVQ2movwYqVK1Rt2Vj6ndwpump": {
+      "symbol": "kittylick",
+      "qty": 7099832.354316264,
+      "entry_price": 6.971995609150831e-06,
+      "last_price": 6.7074206334091365e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T07:35:22+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T12:30:02+00:00",
-      "side": "buy",
-      "symbol": "UBC",
-      "address": "FkyhBkvLCJpce3MteLJ2W4sBg4DbQvoXxkw2Tjy1pump",
-      "price": 2.428856610230151e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T12:56:32+00:00",
-      "side": "sell",
-      "symbol": "UBC",
-      "address": "FkyhBkvLCJpce3MteLJ2W4sBg4DbQvoXxkw2Tjy1pump",
-      "price": 2.2636814e-06,
-      "proceeds": 22.84,
-      "pnl_usd": -27.16,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T12:56:32+00:00",
-      "side": "buy",
-      "symbol": "Yana",
-      "address": "9qc8HMPBf29u13ZYmdwv53vNA99f9hMYeQjc4JVkpump",
-      "price": 4.515741184431955e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T12:56:32+00:00",
       "side": "buy",
@@ -4535,6 +4518,32 @@
       "address": "F25iD1mVtB2Q9YQJ5es7UgTS19Uza3Je3i4HX767pump",
       "price": 7.673673113461075e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T07:35:22+00:00",
+      "side": "sell",
+      "symbol": "STARBUCKS",
+      "address": "jKZHsBTG9JkTji2vBcmM31MjdvKAChsHfR6m9UDpump",
+      "price": 1.934953137e-06,
+      "proceeds": 0.17,
+      "pnl_usd": -49.83,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T07:35:22+00:00",
+      "side": "buy",
+      "symbol": "TAG",
+      "address": "2TioXzxyqbRbGi6GEjo391AY4wHeXnCB568T4UL1pump",
+      "price": 5.162890174063947e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T07:35:22+00:00",
+      "side": "buy",
+      "symbol": "kittylick",
+      "address": "5MpmuKNXF6jsUXFfK9pVQ2movwYqVK1Rt2Vj6ndwpump",
+      "price": 6.971995609150831e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6241,6 +6250,10 @@
     {
       "date": "2026-10-11T07:13:33+00:00",
       "equity": 5168805.93
+    },
+    {
+      "date": "2026-10-11T07:35:22+00:00",
+      "equity": 5168753.63
     }
   ]
 }
