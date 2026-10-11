@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5167561.747185657,
+  "cash": 5167624.835058295,
   "positions": {
-    "26o7pQcgWyK4nSRraTR8L1skj2DpRH6aKhJARY24pump": {
-      "symbol": "Ledgercat",
-      "qty": 3529614.3324280847,
-      "entry_price": 1.4024195092710899e-05,
-      "last_price": 1.355591699e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T15:25:13+00:00",
-      "missing": 0
-    },
     "7TpCd3VcYz22Te6kTCUsuaqMbSsazWLzzN5hy5ZDpump": {
       "symbol": "STUTUTU",
       "qty": 2703461.654682513,
@@ -19,57 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-11T15:45:28+00:00",
       "missing": 0
-    },
-    "H2vyQnRAZJqiJ2ps5XRNbe17GgFCHhk74WX6YgoJpump": {
-      "symbol": "CarNet",
-      "qty": 7214990.464703403,
-      "entry_price": 6.860715927783955e-06,
-      "last_price": 6.61264763294714e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T16:22:04+00:00",
-      "missing": 0
-    },
-    "3M3gbjF6994S7tSgFqTBU7vihV8dd92AmDeoWaVfpump": {
-      "symbol": "FARM",
-      "qty": 5680901.892322545,
-      "entry_price": 8.71340518428892e-06,
-      "last_price": 8.382531974841006e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T16:22:04+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T02:37:36+00:00",
-      "side": "sell",
-      "symbol": "HUMP",
-      "address": "511a7wVhBNj3zVZ4W8CbR9NhWBwgA4F8jyvGbvKcpump",
-      "price": 1.392104926e-05,
-      "proceeds": 45.72,
-      "pnl_usd": -4.28,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T02:37:36+00:00",
-      "side": "sell",
-      "symbol": "Mousie",
-      "address": "6uSNoC4NYkLXg8w6G9Ude9cD2fWMe4n1tdG7Kpn7pump",
-      "price": 3.166216125e-06,
-      "proceeds": 6.49,
-      "pnl_usd": -43.51,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T02:37:36+00:00",
-      "side": "sell",
-      "symbol": "Neepo",
-      "address": "Ds53FfrArMnoudWrnLtxAn2YLJZBnmtaaB5ZyAZCpump",
-      "price": 8.286062106e-07,
-      "proceeds": 2.26,
-      "pnl_usd": -47.74,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-10T02:37:36+00:00",
       "side": "buy",
@@ -4539,6 +4482,36 @@
       "address": "3M3gbjF6994S7tSgFqTBU7vihV8dd92AmDeoWaVfpump",
       "price": 8.71340518428892e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T16:43:09+00:00",
+      "side": "sell",
+      "symbol": "Ledgercat",
+      "address": "26o7pQcgWyK4nSRraTR8L1skj2DpRH6aKhJARY24pump",
+      "price": 1.355591699e-05,
+      "proceeds": 45.74,
+      "pnl_usd": -4.26,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T16:43:09+00:00",
+      "side": "sell",
+      "symbol": "CarNet",
+      "address": "H2vyQnRAZJqiJ2ps5XRNbe17GgFCHhk74WX6YgoJpump",
+      "price": 6.59644416e-08,
+      "proceeds": 0.45,
+      "pnl_usd": -49.55,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T16:43:09+00:00",
+      "side": "sell",
+      "symbol": "FARM",
+      "address": "3M3gbjF6994S7tSgFqTBU7vihV8dd92AmDeoWaVfpump",
+      "price": 3.120714558e-06,
+      "proceeds": 16.9,
+      "pnl_usd": -33.1,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6357,6 +6330,10 @@
     {
       "date": "2026-10-11T16:22:04+00:00",
       "equity": 5167752.83
+    },
+    {
+      "date": "2026-10-11T16:43:10+00:00",
+      "equity": 5167672.74
     }
   ]
 }
