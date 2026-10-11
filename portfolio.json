@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5168017.478466615,
+  "cash": 5168051.604175853,
   "positions": {
     "GMfxtGZrYb33FG9dYY2ms6gDsjoVLR4JethL4Dc1pump": {
       "symbol": "E-CNY",
@@ -11,61 +11,26 @@
       "entry_time": "2026-10-11T13:14:00+00:00",
       "missing": 0
     },
-    "8eMV3Uoi2ZGZhrVsGmtibGjfeG2wEY3pT2CAnG4Xpump": {
-      "symbol": "TXT",
-      "qty": 5783030.753519058,
-      "entry_price": 8.559525637984638e-06,
-      "last_price": 8.516270788e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T13:35:16+00:00",
-      "missing": 0
-    },
-    "BTbvKEsY7RU7Ce3dEsvqoBFmbDdYu27ZzbK9sFgtpump": {
-      "symbol": "MONKE",
-      "qty": 6742239.235742256,
-      "entry_price": 7.3417744860770314e-06,
-      "last_price": 7.070579690403626e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T13:53:16+00:00",
-      "missing": 0
-    },
     "35Wn9AAtyRW4uCtt4oWBEJR9Zv46FpzZcMJqVGGvpump": {
       "symbol": "Kronos",
       "qty": 6020916.119186897,
       "entry_price": 8.221340244594672e-06,
-      "last_price": 7.910747158544675e-06,
+      "last_price": 7.910747159e-06,
       "cost": 50.0,
       "entry_time": "2026-10-11T13:53:16+00:00",
+      "missing": 0
+    },
+    "DZL8XbkUZmqAkwQV1XPDzKvZdKrY62TjqXaodTWcpump": {
+      "symbol": "STUTUTU",
+      "qty": 658320.4653458735,
+      "entry_price": 7.51913431310286e-05,
+      "last_price": 7.293835945969317e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T14:10:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T21:43:25+00:00",
-      "side": "buy",
-      "symbol": "Mr Beast",
-      "address": "BRftaPAaqh2P5Dst8XUx36NfVhBB1AMfFD8JtQUpump",
-      "price": 0.0002412227287599895,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T21:43:25+00:00",
-      "side": "buy",
-      "symbol": "QRAWL",
-      "address": "AbNraVnNpTj75oaVvKY5soa97JLARGF2KCxF7cwPpump",
-      "price": 8.619280380001726e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T21:59:37+00:00",
-      "side": "sell",
-      "symbol": "Mr Beast",
-      "address": "BRftaPAaqh2P5Dst8XUx36NfVhBB1AMfFD8JtQUpump",
-      "price": 0.0005037245738,
-      "proceeds": 51.17,
-      "pnl_usd": 1.17,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-09T21:59:37+00:00",
       "side": "sell",
@@ -4535,6 +4500,34 @@
       "address": "35Wn9AAtyRW4uCtt4oWBEJR9Zv46FpzZcMJqVGGvpump",
       "price": 8.221340244594672e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T14:10:36+00:00",
+      "side": "sell",
+      "symbol": "TXT",
+      "address": "8eMV3Uoi2ZGZhrVsGmtibGjfeG2wEY3pT2CAnG4Xpump",
+      "price": 3.244077704e-06,
+      "proceeds": 17.88,
+      "pnl_usd": -32.12,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T14:10:36+00:00",
+      "side": "sell",
+      "symbol": "MONKE",
+      "address": "BTbvKEsY7RU7Ce3dEsvqoBFmbDdYu27ZzbK9sFgtpump",
+      "price": 1.048260049e-05,
+      "proceeds": 66.25,
+      "pnl_usd": 16.25,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-11T14:10:36+00:00",
+      "side": "buy",
+      "symbol": "STUTUTU",
+      "address": "DZL8XbkUZmqAkwQV1XPDzKvZdKrY62TjqXaodTWcpump",
+      "price": 7.51913431310286e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6321,6 +6314,10 @@
     {
       "date": "2026-10-11T13:53:16+00:00",
       "equity": 5168209.69
+    },
+    {
+      "date": "2026-10-11T14:10:36+00:00",
+      "equity": 5168194.91
     }
   ]
 }
