@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5167431.01616849,
+  "cash": 5167374.302214847,
   "positions": {
     "DGd3fcFP5B5xVfBnprVMLPKx2PbBwDYnYmzkhNZVpump": {
       "symbol": "PimpPing",
@@ -11,60 +11,26 @@
       "entry_time": "2026-10-11T17:20:29+00:00",
       "missing": 0
     },
-    "6pyN7yhbfBEYgf1ExPKEZWv6dfEiwsYEDxkYKwQCpump": {
-      "symbol": "DOPE",
-      "qty": 1044172.068258738,
-      "entry_price": 4.7405979823369756e-05,
-      "last_price": 4.591109948286664e-05,
+    "G92qJWi5E6YxLLWxnmNnPbaChwpNuW9yk6Cg7RWqpump": {
+      "symbol": "FIM",
+      "qty": 3410999.6654018443,
+      "entry_price": 1.4511874774449293e-05,
+      "last_price": 1.3985969482095012e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T17:39:42+00:00",
+      "entry_time": "2026-10-11T17:55:40+00:00",
       "missing": 0
     },
-    "2kjBDDrexG7tsQPUy6aHDrf26Ya3fWiwN7wtv1TJpump": {
-      "symbol": "EXA",
-      "qty": 3692053.8386465395,
-      "entry_price": 1.3407171770319059e-05,
-      "last_price": 1.2899017078813308e-05,
+    "CwPapFxVsYxH8yo6FmmksahU6xqffZJHdc2TnDQbpump": {
+      "symbol": "RICH",
+      "qty": 4433473.33775743,
+      "entry_price": 1.116506094182094e-05,
+      "last_price": 1.0778292487712604e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T17:39:42+00:00",
+      "entry_time": "2026-10-11T17:55:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T02:55:56+00:00",
-      "side": "buy",
-      "symbol": "$SLJK",
-      "address": "44NgEzHbHWxCyQMUH9HZBfy9RPAnxbbwmMbGeyzkpump",
-      "price": 4.283706274718629e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T03:16:54+00:00",
-      "side": "sell",
-      "symbol": "10/10",
-      "address": "2D5oVyV1gjuTxQL1eVA6eXRfx7Tm9L5AFG4Q6Munpump",
-      "price": 3.089788098e-06,
-      "proceeds": 4.79,
-      "pnl_usd": -45.21,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T03:16:54+00:00",
-      "side": "buy",
-      "symbol": "DiscDog",
-      "address": "PS88MitFtGtaaj2RbeCvUSgcwvV2KDkB5P39w6ppump",
-      "price": 9.390019025230937e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T03:16:54+00:00",
-      "side": "buy",
-      "symbol": "e",
-      "address": "26kkzB9Gu9zYzypE8vuZUZ11vmjpvNiZs7j4B1jxpump",
-      "price": 8.316592901258739e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T03:38:27+00:00",
       "side": "sell",
@@ -4528,6 +4494,42 @@
       "address": "2kjBDDrexG7tsQPUy6aHDrf26Ya3fWiwN7wtv1TJpump",
       "price": 1.3407171770319059e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T17:55:40+00:00",
+      "side": "sell",
+      "symbol": "DOPE",
+      "address": "6pyN7yhbfBEYgf1ExPKEZWv6dfEiwsYEDxkYKwQCpump",
+      "price": 6.230295417e-05,
+      "proceeds": 32.2,
+      "pnl_usd": -17.8,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T17:55:40+00:00",
+      "side": "sell",
+      "symbol": "EXA",
+      "address": "2kjBDDrexG7tsQPUy6aHDrf26Ya3fWiwN7wtv1TJpump",
+      "price": 3.141259078e-06,
+      "proceeds": 11.08,
+      "pnl_usd": -38.92,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T17:55:40+00:00",
+      "side": "buy",
+      "symbol": "FIM",
+      "address": "G92qJWi5E6YxLLWxnmNnPbaChwpNuW9yk6Cg7RWqpump",
+      "price": 1.4511874774449293e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T17:55:40+00:00",
+      "side": "buy",
+      "symbol": "RICH",
+      "address": "CwPapFxVsYxH8yo6FmmksahU6xqffZJHdc2TnDQbpump",
+      "price": 1.116506094182094e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6362,6 +6364,10 @@
     {
       "date": "2026-10-11T17:39:42+00:00",
       "equity": 5167574.25
+    },
+    {
+      "date": "2026-10-11T17:55:40+00:00",
+      "equity": 5167517.46
     }
   ]
 }
