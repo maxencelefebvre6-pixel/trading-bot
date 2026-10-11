@@ -1,91 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5168489.846471446,
+  "cash": 5168936.129223114,
   "positions": {
-    "DetiwvoMvsZGFb99m3wvfggzZt9tb4ToPmEPhLyipump": {
-      "symbol": "ALOIS",
-      "qty": 549730.23059308,
-      "entry_price": 9.004416574761879e-05,
-      "last_price": 8.730819412114278e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T05:01:35+00:00",
-      "missing": 0
-    },
-    "2amevb4KVr4tfSssfYQHkSX4eKd8PF2mSRiPXubjpump": {
-      "symbol": "可乐",
-      "qty": 892355.1452661821,
-      "entry_price": 5.547118797105671e-05,
-      "last_price": 5.3716058694074305e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T05:01:35+00:00",
-      "missing": 0
-    },
-    "9iryaLJ91zjNXNrhuVhPTV39r8XG3FhSGyWPUmFipump": {
-      "symbol": "Memeology",
-      "qty": 5559339.892614605,
-      "entry_price": 8.90393481171372e-06,
-      "last_price": 8.565927126853292e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T05:01:35+00:00",
-      "missing": 0
-    },
     "6eBBmyxQzc7v9fvHwN1y3UdRY8T4EFq2bvo52FENpump": {
       "symbol": "ACINU",
       "qty": 495410.6976094315,
       "entry_price": 9.991709956781044e-05,
-      "last_price": 9.694457434056774e-05,
+      "last_price": 9.276210133e-05,
       "cost": 50.0,
       "entry_time": "2026-10-11T05:01:35+00:00",
+      "missing": 0
+    },
+    "6V95pHND2LuimYnNaBY1VppxC51w1qv2Xrk96goGpump": {
+      "symbol": "Dog Think",
+      "qty": 2435762.2913287254,
+      "entry_price": 2.0322180114299004e-05,
+      "last_price": 1.9661689374182102e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T05:23:00+00:00",
+      "missing": 0
+    },
+    "EYCPFiugG9kmEc4g7T6tzZmHsN5kbTidWMhtx5Awpump": {
+      "symbol": "TBU",
+      "qty": 3093507.0359785343,
+      "entry_price": 1.6001256639890662e-05,
+      "last_price": 1.5462983119089472e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T05:23:00+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T10:02:08+00:00",
-      "side": "buy",
-      "symbol": "Hood",
-      "address": "D1VfjkKNJExiuQWvWG35awiyyH1r5KAqUAvVNPUwpump",
-      "price": 7.682463581144867e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T10:26:47+00:00",
-      "side": "sell",
-      "symbol": "stack",
-      "address": "8YjQDkfirECX3NbQQtK2V1wqURA46ucqdB4JWt6Mpump",
-      "price": 8.821357123e-05,
-      "proceeds": 24.52,
-      "pnl_usd": -25.48,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T10:26:47+00:00",
-      "side": "sell",
-      "symbol": "GROKIPEDIA",
-      "address": "2mU1NrQzQL8HE3EgxydD8CWWp34h15TVUECuqyRRpump",
-      "price": 1.754148171e-05,
-      "proceeds": 17.91,
-      "pnl_usd": -32.09,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-09T10:26:47+00:00",
-      "side": "sell",
-      "symbol": "Hood",
-      "address": "D1VfjkKNJExiuQWvWG35awiyyH1r5KAqUAvVNPUwpump",
-      "price": 7.396709627e-06,
-      "proceeds": 23.59,
-      "pnl_usd": -26.41,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T10:26:47+00:00",
-      "side": "buy",
-      "symbol": "NIDAL",
-      "address": "6SGndU9VEXRf685FUToFeefAF7N3khBt496LbquNpump",
-      "price": 8.881304593654557e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T10:26:47+00:00",
       "side": "buy",
@@ -4537,6 +4482,52 @@
       "address": "6eBBmyxQzc7v9fvHwN1y3UdRY8T4EFq2bvo52FENpump",
       "price": 9.991709956781044e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T05:23:00+00:00",
+      "side": "sell",
+      "symbol": "ALOIS",
+      "address": "DetiwvoMvsZGFb99m3wvfggzZt9tb4ToPmEPhLyipump",
+      "price": 0.0003752902767,
+      "proceeds": 102.12,
+      "pnl_usd": 52.12,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T05:23:00+00:00",
+      "side": "sell",
+      "symbol": "可乐",
+      "address": "2amevb4KVr4tfSssfYQHkSX4eKd8PF2mSRiPXubjpump",
+      "price": 2.165109902e-06,
+      "proceeds": 1.85,
+      "pnl_usd": -48.15,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T05:23:00+00:00",
+      "side": "sell",
+      "symbol": "Memeology",
+      "address": "9iryaLJ91zjNXNrhuVhPTV39r8XG3FhSGyWPUmFipump",
+      "price": 8.629825539e-05,
+      "proceeds": 442.31,
+      "pnl_usd": 392.31,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-11T05:23:00+00:00",
+      "side": "buy",
+      "symbol": "Dog Think",
+      "address": "6V95pHND2LuimYnNaBY1VppxC51w1qv2Xrk96goGpump",
+      "price": 2.0322180114299004e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T05:23:00+00:00",
+      "side": "buy",
+      "symbol": "TBU",
+      "address": "EYCPFiugG9kmEc4g7T6tzZmHsN5kbTidWMhtx5Awpump",
+      "price": 1.6001256639890662e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6219,6 +6210,10 @@
     {
       "date": "2026-10-11T05:01:35+00:00",
       "equity": 5168681.42
+    },
+    {
+      "date": "2026-10-11T05:23:00+00:00",
+      "equity": 5169077.81
     }
   ]
 }
