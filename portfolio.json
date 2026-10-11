@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5168121.79895245,
+  "cash": 5167985.186919986,
   "positions": {
     "5Ksv1QrxpwgKTVU3Rh8fkSKmCRV3JAuSmfzRWSAvpump": {
       "symbol": "GETPAID",
@@ -20,74 +20,44 @@
       "entry_time": "2026-10-11T09:53:45+00:00",
       "missing": 0
     },
-    "EWNnrPdvwV3RYuxKgpyPx45T5VMjhaQANX1upzPcpump": {
-      "symbol": "Animates",
-      "qty": 565049.111436648,
-      "entry_price": 8.760300476209107e-05,
-      "last_price": 8.493959995535068e-05,
+    "ADLEWrvkPK7nWpoboCJ7UGdk3N3pCYMvAHCuFak4pump": {
+      "symbol": "egge",
+      "qty": 563037.6554774357,
+      "entry_price": 8.79159671088531e-05,
+      "last_price": 8.524330632171441e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T10:11:51+00:00",
+      "entry_time": "2026-10-11T10:32:50+00:00",
       "missing": 0
     },
-    "D6ZkQQsJZ9xYsQaiyC6ZX36XTTgtC45PUDnpYNrxpump": {
-      "symbol": "Animates",
-      "qty": 2863286.913568294,
-      "entry_price": 1.7287823922022526e-05,
-      "last_price": 1.66738166321926e-05,
+    "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump": {
+      "symbol": "Kairo",
+      "qty": 1824305.8546467063,
+      "entry_price": 2.7133608037225827e-05,
+      "last_price": 2.621593983198617e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T10:11:51+00:00",
+      "entry_time": "2026-10-11T10:32:50+00:00",
+      "missing": 0
+    },
+    "3AjQX39BtbApaQFNbuT8er8fReLVJjc3tYkfXrTwpump": {
+      "symbol": "Urara",
+      "qty": 4681906.769993677,
+      "entry_price": 1.0572615481633534e-05,
+      "last_price": 1.0176396963753073e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T10:32:50+00:00",
+      "missing": 0
+    },
+    "Ao43Xz5mdX9AJYywvfVTCzpFX9CAt1FxeXBA3oqupump": {
+      "symbol": "$AURA",
+      "qty": 1454465.8418758123,
+      "entry_price": 3.403311275853702e-05,
+      "last_price": 3.297841989010743e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T10:32:50+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T17:22:44+00:00",
-      "side": "buy",
-      "symbol": "SIQ",
-      "address": "Gn8yPYNHZF1wrtvdFXgr2cE8Y8eGbLH4MHyzxvvBpump",
-      "price": 8.792940030925154e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T17:22:44+00:00",
-      "side": "buy",
-      "symbol": "0",
-      "address": "w4N21SZS6eFrLsTpXJbpEZyXsgiR18BP1uXfVCQpump",
-      "price": 8.789718496464103e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T17:22:44+00:00",
-      "side": "buy",
-      "symbol": "1",
-      "address": "D4B4CjVjpMTu2tnkrUe2SNyDWA3NsBCoGLH5yHqpump",
-      "price": 2.0357554968553902e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T17:22:44+00:00",
-      "side": "buy",
-      "symbol": "McDonald's",
-      "address": "F5oi7A9r5TDBbW24N3WF2NpvcUBgrVJ8U83wtCHpump",
-      "price": 0.0003515612024774083,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T17:22:44+00:00",
-      "side": "buy",
-      "symbol": "SNAPCAT",
-      "address": "9jCXtiWjhNJnDkC5vdzNcRxymE9jsuSioreE9KYopump",
-      "price": 4.0628323894757435e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T17:22:44+00:00",
-      "side": "buy",
-      "symbol": "CLOLAL",
-      "address": "8rmgfnxbbF9J6t8ocjQAyNVTQrKNRZ4wki7mn7zmpump",
-      "price": 7.994493802856707e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T17:42:54+00:00",
       "side": "sell",
@@ -4535,6 +4505,58 @@
       "address": "D6ZkQQsJZ9xYsQaiyC6ZX36XTTgtC45PUDnpYNrxpump",
       "price": 1.7287823922022526e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T10:32:50+00:00",
+      "side": "sell",
+      "symbol": "Animates",
+      "address": "EWNnrPdvwV3RYuxKgpyPx45T5VMjhaQANX1upzPcpump",
+      "price": 4.974405926e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T10:32:50+00:00",
+      "side": "sell",
+      "symbol": "Animates",
+      "address": "D6ZkQQsJZ9xYsQaiyC6ZX36XTTgtC45PUDnpYNrxpump",
+      "price": 2.32608784e-05,
+      "proceeds": 63.39,
+      "pnl_usd": 13.39,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-11T10:32:50+00:00",
+      "side": "buy",
+      "symbol": "egge",
+      "address": "ADLEWrvkPK7nWpoboCJ7UGdk3N3pCYMvAHCuFak4pump",
+      "price": 8.79159671088531e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T10:32:50+00:00",
+      "side": "buy",
+      "symbol": "Kairo",
+      "address": "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump",
+      "price": 2.7133608037225827e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T10:32:50+00:00",
+      "side": "buy",
+      "symbol": "Urara",
+      "address": "3AjQX39BtbApaQFNbuT8er8fReLVJjc3tYkfXrTwpump",
+      "price": 1.0572615481633534e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T10:32:50+00:00",
+      "side": "buy",
+      "symbol": "$AURA",
+      "address": "Ao43Xz5mdX9AJYywvfVTCzpFX9CAt1FxeXBA3oqupump",
+      "price": 3.403311275853702e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6277,6 +6299,10 @@
     {
       "date": "2026-10-11T10:11:51+00:00",
       "equity": 5168313.36
+    },
+    {
+      "date": "2026-10-11T10:32:50+00:00",
+      "equity": 5168272.44
     }
   ]
 }
