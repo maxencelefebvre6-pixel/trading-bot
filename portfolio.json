@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5168392.331064884,
+  "cash": 5168452.691769297,
   "positions": {
-    "84tYWopFkZ2dyFboC2JFCM2nthtnpWiPRWGnwcx6pump": {
-      "symbol": "PLIQ",
-      "qty": 1176064.3614084783,
-      "entry_price": 4.2089533212891344e-05,
-      "last_price": 4.064898501252355e-05,
+    "9742VvYzXcYmEwqnGQNQyVqnrSyhXXkXJVokBNFgpump": {
+      "symbol": "GLORP",
+      "qty": 1101996.1336218563,
+      "entry_price": 4.491848790549899e-05,
+      "last_price": 4.349750138191087e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T08:35:03+00:00",
+      "entry_time": "2026-10-11T08:54:00+00:00",
       "missing": 0
     },
-    "47P7eSi3jvVYKvnEWu1iYkvJmRDJyN7y8xWDdTBdpump": {
-      "symbol": "GPT-RED",
-      "qty": 4275298.534948456,
-      "entry_price": 1.1578138835302828e-05,
-      "last_price": 1.119471337972474e-05,
+    "DPqa2iYa4sAJUqzixTvbBh9e6gkagForGtGxAaWpump": {
+      "symbol": "Mr Beast",
+      "qty": 125004.00216269074,
+      "entry_price": 0.00039598732155452535,
+      "last_price": 0.0003840989644517023,
       "cost": 50.0,
-      "entry_time": "2026-10-11T08:35:03+00:00",
+      "entry_time": "2026-10-11T08:54:00+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T15:37:22+00:00",
-      "side": "buy",
-      "symbol": "BUILTBY",
-      "address": "AsENfDBu7bZnoSzRHaEgWiUhzauzttvKysmEko1Kpump",
-      "price": 9.1023068813196e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T15:58:19+00:00",
-      "side": "sell",
-      "symbol": "BUILTBY",
-      "address": "AsENfDBu7bZnoSzRHaEgWiUhzauzttvKysmEko1Kpump",
-      "price": 0.000374670641,
-      "proceeds": 100.86,
-      "pnl_usd": 50.86,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T15:58:19+00:00",
-      "side": "buy",
-      "symbol": "Trader",
-      "address": "2YGU7ssfamGMjxBc43veuk4gZ7mdK3qzJppHEzRapump",
-      "price": 9.239046394019627e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T16:21:12+00:00",
-      "side": "sell",
-      "symbol": "Trader",
-      "address": "2YGU7ssfamGMjxBc43veuk4gZ7mdK3qzJppHEzRapump",
-      "price": 0.0001024622858,
-      "proceeds": 27.17,
-      "pnl_usd": -22.83,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-09T16:21:12+00:00",
       "side": "buy",
@@ -4519,6 +4483,42 @@
       "address": "47P7eSi3jvVYKvnEWu1iYkvJmRDJyN7y8xWDdTBdpump",
       "price": 1.1578138835302828e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T08:53:59+00:00",
+      "side": "sell",
+      "symbol": "PLIQ",
+      "address": "84tYWopFkZ2dyFboC2JFCM2nthtnpWiPRWGnwcx6pump",
+      "price": 2.975000711e-06,
+      "proceeds": 3.35,
+      "pnl_usd": -46.65,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T08:53:59+00:00",
+      "side": "sell",
+      "symbol": "GPT-RED",
+      "address": "47P7eSi3jvVYKvnEWu1iYkvJmRDJyN7y8xWDdTBdpump",
+      "price": 4.12840741e-05,
+      "proceeds": 157.01,
+      "pnl_usd": 107.01,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-11T08:54:00+00:00",
+      "side": "buy",
+      "symbol": "GLORP",
+      "address": "9742VvYzXcYmEwqnGQNQyVqnrSyhXXkXJVokBNFgpump",
+      "price": 4.491848790549899e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T08:54:00+00:00",
+      "side": "buy",
+      "symbol": "Mr Beast",
+      "address": "DPqa2iYa4sAJUqzixTvbBh9e6gkagForGtGxAaWpump",
+      "price": 0.00039598732155452535,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6241,6 +6241,10 @@
     {
       "date": "2026-10-11T08:35:03+00:00",
       "equity": 5168488.0
+    },
+    {
+      "date": "2026-10-11T08:54:00+00:00",
+      "equity": 5168548.64
     }
   ]
 }
