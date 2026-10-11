@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5167813.735331648,
+  "cash": 5168127.839037674,
   "positions": {
-    "3gk4v36Cobpg1QPhWhxRC7udYgeAbeuRCwbqoraCpump": {
-      "symbol": "vrl",
-      "qty": 2932037.4373708847,
-      "entry_price": 1.6882458378289307e-05,
-      "last_price": 1.63390621e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T11:26:59+00:00",
-      "missing": 0
-    },
     "2pzq3QV8Dq8ouYbRKiy526sZ9szaBExKXnDYra66pump": {
       "symbol": "STUTUTU",
       "qty": 7677832.892543803,
@@ -29,77 +20,35 @@
       "entry_time": "2026-10-11T11:46:52+00:00",
       "missing": 0
     },
-    "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump": {
-      "symbol": "NOKI",
-      "qty": 5950757.521640902,
-      "entry_price": 8.318268694361207e-06,
-      "last_price": 8.001500642254575e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T12:01:22+00:00",
-      "missing": 0
-    },
-    "KG7c2H5PGjg5FiVBGakGXH9FgsA7AHFR6R3njckpump": {
-      "symbol": "Van Cleef",
-      "qty": 126833.76435801154,
-      "entry_price": 0.00039027462640213987,
-      "last_price": 0.0003785515039650051,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T12:01:22+00:00",
-      "missing": 0
-    },
     "3xdUK5Wv5pwhTeoAnZS4ErZHC5xUEcpknAJeLZpNpump": {
       "symbol": "Dog Think",
       "qty": 4374305.620474834,
       "entry_price": 1.1316081749822213e-05,
-      "last_price": 1.0924941974268863e-05,
+      "last_price": 1.092494197e-05,
       "cost": 50.0,
       "entry_time": "2026-10-11T12:01:22+00:00",
+      "missing": 0
+    },
+    "9wa1uxX54Z9pwNj44zZnMxT8yiMzD8cfJKfdzEvpump": {
+      "symbol": "plug",
+      "qty": 672757.019301566,
+      "entry_price": 7.357782762547652e-05,
+      "last_price": 7.127398673610505e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T12:28:08+00:00",
+      "missing": 0
+    },
+    "bWMXLtMVMZj4Q1z3TzN6YiYbQ35A91PCQZSNCiEpump": {
+      "symbol": "plug",
+      "qty": 5297506.8351808125,
+      "entry_price": 9.34401814666285e-06,
+      "last_price": 9.009914018874957e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T12:28:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T19:47:14+00:00",
-      "side": "buy",
-      "symbol": "ドージ",
-      "address": "GcjJjYR1HZCyk4R445vUBqX49bZJjpyDN3SYR54Qpump",
-      "price": 8.847592250242211e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T19:47:14+00:00",
-      "side": "buy",
-      "symbol": "AGNV",
-      "address": "8poPLskP8Dxiw3G9A9i672yvGy24Siog5XHJbAPjpump",
-      "price": 2.0064999433852324e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T19:47:14+00:00",
-      "side": "buy",
-      "symbol": "Burn",
-      "address": "Fw8XwEX9ZjYsmXv22rkuzxVSE4R7EFmLVY36EpHcpump",
-      "price": 1.147569076282901e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T19:47:14+00:00",
-      "side": "buy",
-      "symbol": "Fi",
-      "address": "26jfqVB7BHkBtqyUKon4M3V39QYunVQP5zZuh1jfpump",
-      "price": 2.801512275870656e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T20:00:45+00:00",
-      "side": "sell",
-      "symbol": "ドージ",
-      "address": "GcjJjYR1HZCyk4R445vUBqX49bZJjpyDN3SYR54Qpump",
-      "price": 4.297959003e-05,
-      "proceeds": 119.03,
-      "pnl_usd": 69.03,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-09T20:00:45+00:00",
       "side": "sell",
@@ -4551,6 +4500,52 @@
       "address": "3xdUK5Wv5pwhTeoAnZS4ErZHC5xUEcpknAJeLZpNpump",
       "price": 1.1316081749822213e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T12:28:08+00:00",
+      "side": "sell",
+      "symbol": "vrl",
+      "address": "3gk4v36Cobpg1QPhWhxRC7udYgeAbeuRCwbqoraCpump",
+      "price": 1.63390621e-05,
+      "proceeds": 45.83,
+      "pnl_usd": -4.17,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T12:28:08+00:00",
+      "side": "sell",
+      "symbol": "NOKI",
+      "address": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+      "price": 1.298109919e-05,
+      "proceeds": 72.3,
+      "pnl_usd": 22.3,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-11T12:28:08+00:00",
+      "side": "sell",
+      "symbol": "Van Cleef",
+      "address": "KG7c2H5PGjg5FiVBGakGXH9FgsA7AHFR6R3njckpump",
+      "price": 0.002442464231,
+      "proceeds": 295.97,
+      "pnl_usd": 245.97,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-11T12:28:08+00:00",
+      "side": "buy",
+      "symbol": "plug",
+      "address": "9wa1uxX54Z9pwNj44zZnMxT8yiMzD8cfJKfdzEvpump",
+      "price": 7.357782762547652e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T12:28:08+00:00",
+      "side": "buy",
+      "symbol": "plug",
+      "address": "bWMXLtMVMZj4Q1z3TzN6YiYbQ35A91PCQZSNCiEpump",
+      "price": 9.34401814666285e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6317,6 +6312,10 @@
     {
       "date": "2026-10-11T12:01:22+00:00",
       "equity": 5168100.58
+    },
+    {
+      "date": "2026-10-11T12:28:08+00:00",
+      "equity": 5168366.83
     }
   ]
 }
