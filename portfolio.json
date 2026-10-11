@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5166709.614021487,
+  "cash": 5166629.834567815,
   "positions": {
     "35uaKMPmdgVEc2V2Y2aNUdbxD9nWb4vVzN87WRcspump": {
       "symbol": "STUTUTU",
@@ -11,47 +11,26 @@
       "entry_time": "2026-10-11T22:10:45+00:00",
       "missing": 0
     },
-    "7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump": {
-      "symbol": "Centre",
-      "qty": 5768399.830856963,
-      "entry_price": 8.581235949562497e-06,
-      "last_price": 8.254439006938574e-06,
+    "DyfdiAoHhnJ7d8a5RPA44Z9ebGFB6zTbSURB1bq2pump": {
+      "symbol": "Esquizo",
+      "qty": 4823087.445672413,
+      "entry_price": 1.026313550346565e-05,
+      "last_price": 9.87051223820612e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-11T22:31:40+00:00",
+      "entry_time": "2026-10-11T22:50:29+00:00",
+      "missing": 0
+    },
+    "8FRpSitbaAsxpbTt1Vqffaktd2TcSFe8K9j1545npump": {
+      "symbol": "USACLAUDIA",
+      "qty": 1008254.8467482246,
+      "entry_price": 4.909473052338408e-05,
+      "last_price": 4.754198376509963e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T22:50:29+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T09:41:07+00:00",
-      "side": "sell",
-      "symbol": "VAL",
-      "address": "HL1kSkuQ8k8UTwNfTdkzauikX2HVXiu2Yg2LHqD2pump",
-      "price": 4.998837877e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T09:41:07+00:00",
-      "side": "sell",
-      "symbol": "hotpump",
-      "address": "GeTjwjEU9mTnRrkBHSePuWqbnoLRCND7QM4BSByKpump",
-      "price": 2.294238248e-06,
-      "proceeds": 1.86,
-      "pnl_usd": -48.14,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T09:41:07+00:00",
-      "side": "sell",
-      "symbol": "Jef",
-      "address": "88jUcA4vvbiyXxhhnk6RHyxuGaHhR7NQnfVwd6hBpump",
-      "price": 3.600581179e-05,
-      "proceeds": 129.57,
-      "pnl_usd": 79.57,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-10T09:41:07+00:00",
       "side": "buy",
@@ -4525,6 +4504,32 @@
       "address": "7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump",
       "price": 8.581235949562497e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T22:50:29+00:00",
+      "side": "sell",
+      "symbol": "Centre",
+      "address": "7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump",
+      "price": 3.681307289e-06,
+      "proceeds": 20.22,
+      "pnl_usd": -29.78,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T22:50:29+00:00",
+      "side": "buy",
+      "symbol": "Esquizo",
+      "address": "DyfdiAoHhnJ7d8a5RPA44Z9ebGFB6zTbSURB1bq2pump",
+      "price": 1.026313550346565e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T22:50:29+00:00",
+      "side": "buy",
+      "symbol": "USACLAUDIA",
+      "address": "8FRpSitbaAsxpbTt1Vqffaktd2TcSFe8K9j1545npump",
+      "price": 4.909473052338408e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6419,6 +6424,10 @@
     {
       "date": "2026-10-11T22:31:40+00:00",
       "equity": 5166805.09
+    },
+    {
+      "date": "2026-10-11T22:50:29+00:00",
+      "equity": 5166773.24
     }
   ]
 }
