@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5168051.604175853,
+  "cash": 5168046.984968884,
   "positions": {
-    "GMfxtGZrYb33FG9dYY2ms6gDsjoVLR4JethL4Dc1pump": {
-      "symbol": "E-CNY",
-      "qty": 6383219.631445909,
-      "entry_price": 7.754707319821204e-06,
-      "last_price": 7.466443344e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T13:14:00+00:00",
-      "missing": 0
-    },
     "35Wn9AAtyRW4uCtt4oWBEJR9Zv46FpzZcMJqVGGvpump": {
       "symbol": "Kronos",
       "qty": 6020916.119186897,
@@ -24,31 +15,22 @@
       "symbol": "STUTUTU",
       "qty": 658320.4653458735,
       "entry_price": 7.51913431310286e-05,
-      "last_price": 7.293835945969317e-05,
+      "last_price": 7.293835946e-05,
       "cost": 50.0,
       "entry_time": "2026-10-11T14:10:36+00:00",
+      "missing": 0
+    },
+    "HCL6b32v8byytGvCCcrfJhzcGs2VggYnoux36bMupump": {
+      "symbol": "BNUT",
+      "qty": 6043794.612994287,
+      "entry_price": 8.190218756536488e-06,
+      "last_price": 7.878586055549476e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T14:31:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T21:59:37+00:00",
-      "side": "sell",
-      "symbol": "QRAWL",
-      "address": "AbNraVnNpTj75oaVvKY5soa97JLARGF2KCxF7cwPpump",
-      "price": 6.090761976e-06,
-      "proceeds": 17.31,
-      "pnl_usd": -32.69,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T21:59:37+00:00",
-      "side": "buy",
-      "symbol": "MUSKRATS",
-      "address": "BHvGuFtr6Rc8P9iSwdm7nmYP8AwWcVUWg5eGpAbjpump",
-      "price": 1.963442744044717e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T22:22:09+00:00",
       "side": "sell",
@@ -4528,6 +4510,24 @@
       "address": "DZL8XbkUZmqAkwQV1XPDzKvZdKrY62TjqXaodTWcpump",
       "price": 7.51913431310286e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T14:31:33+00:00",
+      "side": "sell",
+      "symbol": "E-CNY",
+      "address": "GMfxtGZrYb33FG9dYY2ms6gDsjoVLR4JethL4Dc1pump",
+      "price": 7.466443344e-06,
+      "proceeds": 45.38,
+      "pnl_usd": -4.62,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T14:31:34+00:00",
+      "side": "buy",
+      "symbol": "BNUT",
+      "address": "HCL6b32v8byytGvCCcrfJhzcGs2VggYnoux36bMupump",
+      "price": 8.190218756536488e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6318,6 +6318,10 @@
     {
       "date": "2026-10-11T14:10:36+00:00",
       "equity": 5168194.91
+    },
+    {
+      "date": "2026-10-11T14:31:34+00:00",
+      "equity": 5168190.25
     }
   ]
 }
