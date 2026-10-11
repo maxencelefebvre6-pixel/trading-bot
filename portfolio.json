@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5167873.0128284125,
+  "cash": 5167813.735331648,
   "positions": {
-    "26nw1VJwPXEv6cV5Lu82M6gdZpqnYiUc7UoExNcipump": {
-      "symbol": "TOTH",
-      "qty": 4574563.51167165,
-      "entry_price": 1.0820704505184926e-05,
-      "last_price": 1.039740632e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T10:51:34+00:00",
-      "missing": 0
-    },
-    "DDpnpE32cHrQkJw1eeUSE9pC5fpPESBKpmrioFELpump": {
-      "symbol": "PUMP",
-      "qty": 6672134.177379138,
-      "entry_price": 7.418915549963348e-06,
-      "last_price": 7.138485716e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T10:51:34+00:00",
-      "missing": 0
-    },
     "3gk4v36Cobpg1QPhWhxRC7udYgeAbeuRCwbqoraCpump": {
       "symbol": "vrl",
       "qty": 2932037.4373708847,
       "entry_price": 1.6882458378289307e-05,
-      "last_price": 1.634730211e-05,
+      "last_price": 1.63390621e-05,
       "cost": 50.0,
       "entry_time": "2026-10-11T11:26:59+00:00",
       "missing": 0
@@ -33,7 +15,7 @@
       "symbol": "STUTUTU",
       "qty": 7677832.892543803,
       "entry_price": 6.447131722295113e-06,
-      "last_price": 6.224915518839177e-06,
+      "last_price": 6.224915519e-06,
       "cost": 50.0,
       "entry_time": "2026-10-11T11:46:52+00:00",
       "missing": 0
@@ -42,59 +24,40 @@
       "symbol": "STUTUTU",
       "qty": 5269621.743982158,
       "entry_price": 9.39346359281449e-06,
-      "last_price": 9.057603284187012e-06,
+      "last_price": 9.057603284e-06,
       "cost": 50.0,
       "entry_time": "2026-10-11T11:46:52+00:00",
+      "missing": 0
+    },
+    "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump": {
+      "symbol": "NOKI",
+      "qty": 5950757.521640902,
+      "entry_price": 8.318268694361207e-06,
+      "last_price": 8.001500642254575e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T12:01:22+00:00",
+      "missing": 0
+    },
+    "KG7c2H5PGjg5FiVBGakGXH9FgsA7AHFR6R3njckpump": {
+      "symbol": "Van Cleef",
+      "qty": 126833.76435801154,
+      "entry_price": 0.00039027462640213987,
+      "last_price": 0.0003785515039650051,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T12:01:22+00:00",
+      "missing": 0
+    },
+    "3xdUK5Wv5pwhTeoAnZS4ErZHC5xUEcpknAJeLZpNpump": {
+      "symbol": "Dog Think",
+      "qty": 4374305.620474834,
+      "entry_price": 1.1316081749822213e-05,
+      "last_price": 1.0924941974268863e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T12:01:22+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T19:06:17+00:00",
-      "side": "sell",
-      "symbol": "MEGOON",
-      "address": "7r8LuNgczABCkHi4JhoNc3LSHYPBUVrf9KZDsSSRpump",
-      "price": 3.771564841e-06,
-      "proceeds": 8.31,
-      "pnl_usd": -41.69,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T19:27:48+00:00",
-      "side": "buy",
-      "symbol": "LEAN",
-      "address": "Fb2ibZNgQFVAJT339Km9jhM9yoGyv67nCWRYLXoipump",
-      "price": 1.0108201453557068e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T19:27:48+00:00",
-      "side": "buy",
-      "symbol": "QUANTS",
-      "address": "GgxfBjGEsMAJpMCn51B38WKwujLaVjoLL7DruZMrpump",
-      "price": 2.3208270827381282e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T19:47:14+00:00",
-      "side": "sell",
-      "symbol": "LEAN",
-      "address": "Fb2ibZNgQFVAJT339Km9jhM9yoGyv67nCWRYLXoipump",
-      "price": 3.061683683e-06,
-      "proceeds": 7.42,
-      "pnl_usd": -42.58,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T19:47:14+00:00",
-      "side": "sell",
-      "symbol": "QUANTS",
-      "address": "GgxfBjGEsMAJpMCn51B38WKwujLaVjoLL7DruZMrpump",
-      "price": 1.189312336e-05,
-      "proceeds": 12.56,
-      "pnl_usd": -37.44,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-09T19:47:14+00:00",
       "side": "buy",
@@ -4544,6 +4507,50 @@
       "address": "4fpoLPVifdgFskKZv9iGsmHbJgaKvSLDqCimMnKEpump",
       "price": 9.39346359281449e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T12:01:22+00:00",
+      "side": "sell",
+      "symbol": "TOTH",
+      "address": "26nw1VJwPXEv6cV5Lu82M6gdZpqnYiUc7UoExNcipump",
+      "price": 1.039740632e-05,
+      "proceeds": 45.4,
+      "pnl_usd": -4.6,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T12:01:22+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "DDpnpE32cHrQkJw1eeUSE9pC5fpPESBKpmrioFELpump",
+      "price": 7.138485716e-06,
+      "proceeds": 45.32,
+      "pnl_usd": -4.68,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T12:01:22+00:00",
+      "side": "buy",
+      "symbol": "NOKI",
+      "address": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+      "price": 8.318268694361207e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T12:01:22+00:00",
+      "side": "buy",
+      "symbol": "Van Cleef",
+      "address": "KG7c2H5PGjg5FiVBGakGXH9FgsA7AHFR6R3njckpump",
+      "price": 0.00039027462640213987,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T12:01:22+00:00",
+      "side": "buy",
+      "symbol": "Dog Think",
+      "address": "3xdUK5Wv5pwhTeoAnZS4ErZHC5xUEcpknAJeLZpNpump",
+      "price": 1.1316081749822213e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6306,6 +6313,10 @@
     {
       "date": "2026-10-11T11:46:52+00:00",
       "equity": 5168111.66
+    },
+    {
+      "date": "2026-10-11T12:01:22+00:00",
+      "equity": 5168100.58
     }
   ]
 }
