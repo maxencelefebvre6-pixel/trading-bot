@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5168936.129223114,
+  "cash": 5168886.298146678,
   "positions": {
     "6eBBmyxQzc7v9fvHwN1y3UdRY8T4EFq2bvo52FENpump": {
       "symbol": "ACINU",
@@ -15,38 +15,22 @@
       "symbol": "Dog Think",
       "qty": 2435762.2913287254,
       "entry_price": 2.0322180114299004e-05,
-      "last_price": 1.9661689374182102e-05,
+      "last_price": 1.966168937e-05,
       "cost": 50.0,
       "entry_time": "2026-10-11T05:23:00+00:00",
       "missing": 0
     },
-    "EYCPFiugG9kmEc4g7T6tzZmHsN5kbTidWMhtx5Awpump": {
-      "symbol": "TBU",
-      "qty": 3093507.0359785343,
-      "entry_price": 1.6001256639890662e-05,
-      "last_price": 1.5462983119089472e-05,
+    "C4VqUvR3PwSeLwze2WrcN5ZryC739dB5DmnNWC7cpump": {
+      "symbol": "ELONHOUSE",
+      "qty": 563608.1387631781,
+      "entry_price": 8.782697870301576e-05,
+      "last_price": 8.51566050872992e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T05:23:00+00:00",
+      "entry_time": "2026-10-11T05:43:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T10:26:47+00:00",
-      "side": "buy",
-      "symbol": "REBELS",
-      "address": "GBGsCqvX5UoyfsyaS5wtoeiLD2WrKKxD94FW5Ysvpump",
-      "price": 1.343146995355271e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T10:26:47+00:00",
-      "side": "buy",
-      "symbol": "spiderfuc",
-      "address": "DD6VkQNjxC9akNcnDJp5u97iRaVsfKCEMoWviHvepump",
-      "price": 1.1675812974714298e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T10:49:48+00:00",
       "side": "sell",
@@ -4528,6 +4512,24 @@
       "address": "EYCPFiugG9kmEc4g7T6tzZmHsN5kbTidWMhtx5Awpump",
       "price": 1.6001256639890662e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T05:43:04+00:00",
+      "side": "sell",
+      "symbol": "TBU",
+      "address": "EYCPFiugG9kmEc4g7T6tzZmHsN5kbTidWMhtx5Awpump",
+      "price": 5.708054329e-08,
+      "proceeds": 0.17,
+      "pnl_usd": -49.83,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T05:43:05+00:00",
+      "side": "buy",
+      "symbol": "ELONHOUSE",
+      "address": "C4VqUvR3PwSeLwze2WrcN5ZryC739dB5DmnNWC7cpump",
+      "price": 8.782697870301576e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6214,6 +6216,10 @@
     {
       "date": "2026-10-11T05:23:00+00:00",
       "equity": 5169077.81
+    },
+    {
+      "date": "2026-10-11T05:43:05+00:00",
+      "equity": 5169028.14
     }
   ]
 }
