@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5168118.828797681,
+  "cash": 5168139.551720778,
   "positions": {
-    "3xdUK5Wv5pwhTeoAnZS4ErZHC5xUEcpknAJeLZpNpump": {
-      "symbol": "Dog Think",
-      "qty": 4374305.620474834,
-      "entry_price": 1.1316081749822213e-05,
-      "last_price": 1.092494197e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T12:01:22+00:00",
-      "missing": 0
-    },
     "9wa1uxX54Z9pwNj44zZnMxT8yiMzD8cfJKfdzEvpump": {
       "symbol": "plug",
       "qty": 672757.019301566,
@@ -29,62 +20,17 @@
       "entry_time": "2026-10-11T12:28:08+00:00",
       "missing": 0
     },
-    "6DBGSU8tgAqP8ZjZVvP8EBGExqPGMy5ANWEj8ocCpump": {
-      "symbol": "Yilong",
-      "qty": 558798.4673918285,
-      "entry_price": 8.858292011973376e-05,
-      "last_price": 8.589030618586806e-05,
+    "GMfxtGZrYb33FG9dYY2ms6gDsjoVLR4JethL4Dc1pump": {
+      "symbol": "E-CNY",
+      "qty": 6383219.631445909,
+      "entry_price": 7.754707319821204e-06,
+      "last_price": 7.466443344482906e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-11T12:54:18+00:00",
-      "missing": 0
-    },
-    "995mdsqfkGmWXGeyRt54x2NEVsxHqNQfmj5FDNp7pump": {
-      "symbol": "trenchcat",
-      "qty": 559965.2948184613,
-      "entry_price": 8.839833550050226e-05,
-      "last_price": 8.571127234015815e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T12:54:18+00:00",
+      "entry_time": "2026-10-11T13:14:00+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T20:00:45+00:00",
-      "side": "buy",
-      "symbol": "Burn",
-      "address": "GnVsszJn1E4FW9Tijj3jKE17RmgxcvEs5YAKnjmnpump",
-      "price": 9.24731085783694e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T20:22:24+00:00",
-      "side": "sell",
-      "symbol": "Burn",
-      "address": "H3wG9u63Tga6gcVnhFdMijivUW8c5FTt5P9xxVXZpump",
-      "price": 8.691476444e-06,
-      "proceeds": 23.62,
-      "pnl_usd": -26.38,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T20:22:24+00:00",
-      "side": "sell",
-      "symbol": "Burn",
-      "address": "GnVsszJn1E4FW9Tijj3jKE17RmgxcvEs5YAKnjmnpump",
-      "price": 8.916357098e-06,
-      "proceeds": 23.63,
-      "pnl_usd": -26.37,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T20:22:24+00:00",
-      "side": "buy",
-      "symbol": "Miso",
-      "address": "BHdAydkQQ265dcGKY4kemDP7bwYj9hgCDsa2Dn6xpump",
-      "price": 1.7097523521025524e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T20:22:24+00:00",
       "side": "buy",
@@ -4544,6 +4490,44 @@
       "address": "995mdsqfkGmWXGeyRt54x2NEVsxHqNQfmj5FDNp7pump",
       "price": 8.839833550050226e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T13:14:00+00:00",
+      "side": "sell",
+      "symbol": "Dog Think",
+      "address": "3xdUK5Wv5pwhTeoAnZS4ErZHC5xUEcpknAJeLZpNpump",
+      "price": 1.092494197e-05,
+      "proceeds": 45.63,
+      "pnl_usd": -4.37,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T13:14:00+00:00",
+      "side": "sell",
+      "symbol": "Yilong",
+      "address": "6DBGSU8tgAqP8ZjZVvP8EBGExqPGMy5ANWEj8ocCpump",
+      "price": 4.971643317e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T13:14:00+00:00",
+      "side": "sell",
+      "symbol": "trenchcat",
+      "address": "995mdsqfkGmWXGeyRt54x2NEVsxHqNQfmj5FDNp7pump",
+      "price": 9.053047037e-05,
+      "proceeds": 25.09,
+      "pnl_usd": -24.91,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T13:14:00+00:00",
+      "side": "buy",
+      "symbol": "E-CNY",
+      "address": "GMfxtGZrYb33FG9dYY2ms6gDsjoVLR4JethL4Dc1pump",
+      "price": 7.754707319821204e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6318,6 +6302,10 @@
     {
       "date": "2026-10-11T12:54:18+00:00",
       "equity": 5168358.22
+    },
+    {
+      "date": "2026-10-11T13:14:00+00:00",
+      "equity": 5168282.83
     }
   ]
 }
