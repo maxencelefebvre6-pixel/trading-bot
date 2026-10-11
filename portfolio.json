@@ -1,55 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5167530.819294995,
+  "cash": 5167431.01616849,
   "positions": {
-    "2ZzWtkisNP7QY9xTYCqm1x53ajcu64fSkbzFCiGbpump": {
-      "symbol": "PRIMAINU",
-      "qty": 4442759.0225284435,
-      "entry_price": 1.1141725164249125e-05,
-      "last_price": 1.0738300536885146e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T17:20:29+00:00",
-      "missing": 0
-    },
     "DGd3fcFP5B5xVfBnprVMLPKx2PbBwDYnYmzkhNZVpump": {
       "symbol": "PimpPing",
       "qty": 3101095.19776571,
       "entry_price": 1.5962102690579758e-05,
-      "last_price": 1.537226399187514e-05,
+      "last_price": 1.537226399e-05,
       "cost": 50.0,
       "entry_time": "2026-10-11T17:20:29+00:00",
+      "missing": 0
+    },
+    "6pyN7yhbfBEYgf1ExPKEZWv6dfEiwsYEDxkYKwQCpump": {
+      "symbol": "DOPE",
+      "qty": 1044172.068258738,
+      "entry_price": 4.7405979823369756e-05,
+      "last_price": 4.591109948286664e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T17:39:42+00:00",
+      "missing": 0
+    },
+    "2kjBDDrexG7tsQPUy6aHDrf26Ya3fWiwN7wtv1TJpump": {
+      "symbol": "EXA",
+      "qty": 3692053.8386465395,
+      "entry_price": 1.3407171770319059e-05,
+      "last_price": 1.2899017078813308e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T17:39:42+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T02:55:56+00:00",
-      "side": "sell",
-      "symbol": "PUMP",
-      "address": "DyGE3L3QPZRscohsb5kDmdLh91kdKN1PHa8K6TjMpump",
-      "price": 1.872033154e-09,
-      "proceeds": 0.01,
-      "pnl_usd": -49.99,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T02:55:56+00:00",
-      "side": "sell",
-      "symbol": "SI",
-      "address": "4LBZTDYe2EiajgZccppgzZt5ppskEi3nFhAzAYSupump",
-      "price": 3.086495592e-06,
-      "proceeds": 5.87,
-      "pnl_usd": -44.13,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T02:55:56+00:00",
-      "side": "buy",
-      "symbol": "10/10",
-      "address": "2D5oVyV1gjuTxQL1eVA6eXRfx7Tm9L5AFG4Q6Munpump",
-      "price": 3.061880949480454e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T02:55:56+00:00",
       "side": "buy",
@@ -4521,6 +4502,32 @@
       "address": "DGd3fcFP5B5xVfBnprVMLPKx2PbBwDYnYmzkhNZVpump",
       "price": 1.5962102690579758e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T17:39:42+00:00",
+      "side": "sell",
+      "symbol": "PRIMAINU",
+      "address": "2ZzWtkisNP7QY9xTYCqm1x53ajcu64fSkbzFCiGbpump",
+      "price": 4.61464976e-08,
+      "proceeds": 0.2,
+      "pnl_usd": -49.8,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T17:39:42+00:00",
+      "side": "buy",
+      "symbol": "DOPE",
+      "address": "6pyN7yhbfBEYgf1ExPKEZWv6dfEiwsYEDxkYKwQCpump",
+      "price": 4.7405979823369756e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T17:39:42+00:00",
+      "side": "buy",
+      "symbol": "EXA",
+      "address": "2kjBDDrexG7tsQPUy6aHDrf26Ya3fWiwN7wtv1TJpump",
+      "price": 1.3407171770319059e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6351,6 +6358,10 @@
     {
       "date": "2026-10-11T17:20:29+00:00",
       "equity": 5167626.2
+    },
+    {
+      "date": "2026-10-11T17:39:42+00:00",
+      "equity": 5167574.25
     }
   ]
 }
