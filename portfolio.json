@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5166646.76727844,
-  "positions": {
-    "35uaKMPmdgVEc2V2Y2aNUdbxD9nWb4vVzN87WRcspump": {
-      "symbol": "STUTUTU",
-      "qty": 4205491.049116164,
-      "entry_price": 1.177032584825095e-05,
-      "last_price": 1.138055276e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T22:10:45+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5166692.453697613,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-10T09:57:38+00:00",
-      "side": "sell",
-      "symbol": "AI",
-      "address": "eC5CQqWmcx76ZhkULbw7fVQLNxnNY7UAB7B3Gd3pump",
-      "price": 1.953324951e-06,
-      "proceeds": 0.46,
-      "pnl_usd": -49.54,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-10T09:57:38+00:00",
       "side": "sell",
@@ -4516,6 +4496,16 @@
       "proceeds": 2.28,
       "pnl_usd": -47.72,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T23:25:23+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "35uaKMPmdgVEc2V2Y2aNUdbxD9nWb4vVzN87WRcspump",
+      "price": 1.138055276e-05,
+      "proceeds": 45.69,
+      "pnl_usd": -4.31,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -6418,6 +6408,10 @@
     {
       "date": "2026-10-11T23:05:27+00:00",
       "equity": 5166694.63
+    },
+    {
+      "date": "2026-10-11T23:25:23+00:00",
+      "equity": 5166692.45
     }
   ]
 }
