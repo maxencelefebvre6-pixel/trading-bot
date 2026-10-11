@@ -1,80 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5168601.675925375,
+  "cash": 5168747.24678302,
   "positions": {
-    "FNHmks5q4NTEx6fyJF4ayaDcvyhEjaAeCdVZK1QEpump": {
-      "symbol": "DIHVAL",
-      "qty": 5735848.975478244,
-      "entry_price": 8.629934332584617e-06,
-      "last_price": 8.309571546e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T02:00:08+00:00",
-      "missing": 0
-    },
-    "9yJkMGWvD8ssikSbq7vvL5xfa9k47KdKGR41xfripump": {
+    "HTBY51PFWmKALxoB5suzyYe7epuVi8Rii8p5i4wVpump": {
       "symbol": "STRKT",
-      "qty": 561130.2490578381,
-      "entry_price": 8.82148130191032e-05,
-      "last_price": 8.553338740821064e-05,
+      "qty": 1097518.7074228078,
+      "entry_price": 4.510173691365666e-05,
+      "last_price": 4.367494224919704e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T02:59:58+00:00",
+      "entry_time": "2026-10-11T03:23:04+00:00",
       "missing": 0
     },
-    "5i57XV1VF6LEuvKXLxhxtKRz4DTyL15mV2rEoD49pump": {
-      "symbol": "グラタン",
-      "qty": 4765686.19862517,
-      "entry_price": 1.0386751862571233e-05,
-      "last_price": 1.0003781979697166e-05,
+    "9pNXpiG9cXu3Pg2wQpiPSQ1CXswXfpp8hJqebBVcpump": {
+      "symbol": "INU",
+      "qty": 5860409.5156956855,
+      "entry_price": 8.446508706844847e-06,
+      "last_price": 8.129593621451358e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-11T02:59:58+00:00",
+      "entry_time": "2026-10-11T03:23:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T06:45:23+00:00",
-      "side": "sell",
-      "symbol": "VYVGOB",
-      "address": "ECSHeriA2UaVayHPtKZdrdZy5W76D8HACtvuEwMEpump",
-      "price": 0.4906465361,
-      "proceeds": 207.39,
-      "pnl_usd": 157.39,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T06:45:24+00:00",
-      "side": "buy",
-      "symbol": "open/acc",
-      "address": "9vB7MF9KgP5gNaQF8mFCG79C2QRMy2fY4WamnPHvpump",
-      "price": 4.5456419365036905e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T06:45:24+00:00",
-      "side": "buy",
-      "symbol": "open/acc",
-      "address": "5b57W6Ygf1yLdC42PgzVmKqgZDcXqQUaPwv24u33pump",
-      "price": 8.873706872568449e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T06:45:24+00:00",
-      "side": "buy",
-      "symbol": "Oscar",
-      "address": "JKvJDmC5WtoVivhCS45vzb8pqwMmmTrR7zaag39pump",
-      "price": 1.1182265408202657e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T07:06:37+00:00",
-      "side": "sell",
-      "symbol": "open/acc",
-      "address": "9vB7MF9KgP5gNaQF8mFCG79C2QRMy2fY4WamnPHvpump",
-      "price": 6.188413124e-05,
-      "proceeds": 33.36,
-      "pnl_usd": -16.64,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-09T07:06:37+00:00",
       "side": "sell",
@@ -4528,6 +4475,52 @@
       "address": "5i57XV1VF6LEuvKXLxhxtKRz4DTyL15mV2rEoD49pump",
       "price": 1.0386751862571233e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T03:23:04+00:00",
+      "side": "sell",
+      "symbol": "DIHVAL",
+      "address": "FNHmks5q4NTEx6fyJF4ayaDcvyhEjaAeCdVZK1QEpump",
+      "price": 8.309571546e-06,
+      "proceeds": 45.39,
+      "pnl_usd": -4.61,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T03:23:04+00:00",
+      "side": "sell",
+      "symbol": "STRKT",
+      "address": "9yJkMGWvD8ssikSbq7vvL5xfa9k47KdKGR41xfripump",
+      "price": 0.0006662751094,
+      "proceeds": 185.06,
+      "pnl_usd": 135.06,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T03:23:04+00:00",
+      "side": "sell",
+      "symbol": "グラタン",
+      "address": "5i57XV1VF6LEuvKXLxhxtKRz4DTyL15mV2rEoD49pump",
+      "price": 3.323729207e-06,
+      "proceeds": 15.11,
+      "pnl_usd": -34.89,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T03:23:04+00:00",
+      "side": "buy",
+      "symbol": "STRKT",
+      "address": "HTBY51PFWmKALxoB5suzyYe7epuVi8Rii8p5i4wVpump",
+      "price": 4.510173691365666e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T03:23:04+00:00",
+      "side": "buy",
+      "symbol": "INU",
+      "address": "9pNXpiG9cXu3Pg2wQpiPSQ1CXswXfpp8hJqebBVcpump",
+      "price": 8.446508706844847e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6186,6 +6179,10 @@
     {
       "date": "2026-10-11T02:59:58+00:00",
       "equity": 5168745.01
+    },
+    {
+      "date": "2026-10-11T03:23:04+00:00",
+      "equity": 5168842.82
     }
   ]
 }
