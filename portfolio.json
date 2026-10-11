@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5168750.341007222,
+  "cash": 5168823.543116283,
   "positions": {
-    "H7C8BVjPUqjxgDqiZHd7oGQ7ND2X48ykZa6qmU93pump": {
-      "symbol": "$MFRG",
-      "qty": 3166988.076688553,
-      "entry_price": 1.5629992535923244e-05,
-      "last_price": 1.506466743e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T22:56:03+00:00",
-      "missing": 0
-    },
     "BXUgw1sqDG1717Ki6o7Gh733mQWmmQdZiMh1GvDMpump": {
       "symbol": "Fox",
       "qty": 5310073.329002143,
@@ -29,38 +20,11 @@
       "entry_time": "2026-10-10T23:33:38+00:00",
       "missing": 0
     },
-    "6Su3JytuXe1n95JM8TBMgQrwyXUT3kdmzKrgF99Dpump": {
-      "symbol": "Ollie",
-      "qty": 1106519.6239957185,
-      "entry_price": 4.473485957822609e-05,
-      "last_price": 4.3319940776368744e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T23:50:18+00:00",
-      "missing": 0
-    },
-    "3XfG8pjHiiw2Hi3eqzfvx9aifHNxwCsA4j4WMn7wpump": {
-      "symbol": "CallCat",
-      "qty": 562025.3913500365,
-      "entry_price": 8.807431258772217e-05,
-      "last_price": 8.539717614110711e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T23:50:18+00:00",
-      "missing": 0
-    },
-    "DRLCLMDW8yLZMfhKvwrQpSPshATVfugVVKh1z17ipump": {
-      "symbol": "TOASTER",
-      "qty": 5871378.520541403,
-      "entry_price": 8.430728801902483e-06,
-      "last_price": 8.106684081928423e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-10T23:50:18+00:00",
-      "missing": 0
-    },
     "9qMX7FPdVEPuAxCdGA1DN5VT5pc2eEX7QybTxp1mpump": {
       "symbol": "MCH",
       "qty": 3719855.2499129293,
       "entry_price": 1.3306969404564504e-05,
-      "last_price": 1.2847175209674994e-05,
+      "last_price": 1.284717521e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T23:50:18+00:00",
       "missing": 0
@@ -69,57 +33,22 @@
       "symbol": "4GLORY",
       "qty": 3030812.2594492096,
       "entry_price": 1.6332255436038012e-05,
-      "last_price": 1.5734023130633848e-05,
+      "last_price": 1.513909212e-05,
       "cost": 50.0,
       "entry_time": "2026-10-10T23:50:18+00:00",
+      "missing": 0
+    },
+    "pf4rNVH7KFpZC32nCSQ8NE23zsiJ9f8aXoBRV2Zpump": {
+      "symbol": "DeepSeek",
+      "qty": 368089.7178077942,
+      "entry_price": 0.00013447808402474167,
+      "last_price": 0.0001303479570393073,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T00:06:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T03:50:18+00:00",
-      "side": "sell",
-      "symbol": "adsadsdsa",
-      "address": "6ETGivpE1NJULgd2htjJPvEoYhTJocSoCd1Q4Kk6pump",
-      "price": 8.407917709e-06,
-      "proceeds": 45.27,
-      "pnl_usd": -4.73,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-09T03:50:18+00:00",
-      "side": "sell",
-      "symbol": "GTA 6 Coin",
-      "address": "DbrEnxQ9Xf3yDxbfWgqgtuXKFrxp3ga9Skaktnepump",
-      "price": 1.991648766e-06,
-      "proceeds": 0.25,
-      "pnl_usd": -49.75,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T03:50:18+00:00",
-      "side": "buy",
-      "symbol": "Tokenero",
-      "address": "DUnZetwM5RnSfLmQ4aeS6Cogi8kPQQENu4LQBi1bpump",
-      "price": 9.651252614266071e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T03:50:18+00:00",
-      "side": "buy",
-      "symbol": "dudecat",
-      "address": "FUZtahwrtp3bBk9QnRwAmHinsHuh1Kuw5wWy8fcepump",
-      "price": 2.857636888333816e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T03:50:18+00:00",
-      "side": "buy",
-      "symbol": "$BWIZ",
-      "address": "64GpSHqDUGYLaxhXX9y7cCjyqY9Yn484wfff6Apepump",
-      "price": 9.30254364219958e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T04:06:31+00:00",
       "side": "sell",
@@ -4569,6 +4498,54 @@
       "address": "BV5deuUHhbJj3YoNtSgXd9mENekMUtXnSGM9e95opump",
       "price": 1.6332255436038012e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T00:06:59+00:00",
+      "side": "sell",
+      "symbol": "$MFRG",
+      "address": "H7C8BVjPUqjxgDqiZHd7oGQ7ND2X48ykZa6qmU93pump",
+      "price": 1.506466743e-05,
+      "proceeds": 45.62,
+      "pnl_usd": -4.38,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T00:06:59+00:00",
+      "side": "sell",
+      "symbol": "Ollie",
+      "address": "6Su3JytuXe1n95JM8TBMgQrwyXUT3kdmzKrgF99Dpump",
+      "price": 5.802445685e-05,
+      "proceeds": 31.78,
+      "pnl_usd": -18.22,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T00:06:59+00:00",
+      "side": "sell",
+      "symbol": "CallCat",
+      "address": "3XfG8pjHiiw2Hi3eqzfvx9aifHNxwCsA4j4WMn7wpump",
+      "price": 0.0001021485423,
+      "proceeds": 28.42,
+      "pnl_usd": -21.58,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T00:06:59+00:00",
+      "side": "sell",
+      "symbol": "TOASTER",
+      "address": "DRLCLMDW8yLZMfhKvwrQpSPshATVfugVVKh1z17ipump",
+      "price": 3.106219328e-06,
+      "proceeds": 17.38,
+      "pnl_usd": -32.62,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T00:06:59+00:00",
+      "side": "buy",
+      "symbol": "DeepSeek",
+      "address": "pf4rNVH7KFpZC32nCSQ8NE23zsiJ9f8aXoBRV2Zpump",
+      "price": 0.00013447808402474167,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6191,6 +6168,10 @@
     {
       "date": "2026-10-10T23:50:18+00:00",
       "equity": 5169132.57
+    },
+    {
+      "date": "2026-10-11T00:06:59+00:00",
+      "equity": 5169060.71
     }
   ]
 }
