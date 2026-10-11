@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5168651.595102739,
+  "cash": 5168577.209442709,
   "positions": {
     "JE6ernFesVj2xtbDUELx1UdA7K3fDz5aXjSfrtu6pump": {
       "symbol": "ULTRA",
@@ -20,50 +20,35 @@
       "entry_time": "2026-10-11T01:23:46+00:00",
       "missing": 0
     },
-    "rCb4eqck97AvydfDQzpnxBoDAMh9RMr5fkMrLsepump": {
-      "symbol": "RAlL",
-      "qty": 2468980.187673505,
-      "entry_price": 2.0048763553118402e-05,
-      "last_price": 1.934207971410401e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T01:44:11+00:00",
-      "missing": 0
-    },
     "2FytuG5EWvTSoLPDxxMqhaF8R4vn7SE6EfyT2rk5pump": {
       "symbol": "GCK",
       "qty": 6671630.690136317,
       "entry_price": 7.4194754324731065e-06,
-      "last_price": 7.141643531134514e-06,
+      "last_price": 7.141643531e-06,
       "cost": 50.0,
       "entry_time": "2026-10-11T01:44:11+00:00",
+      "missing": 0
+    },
+    "5DaRegSRG9SA3vnyiNwZCFHgTc4xiuG9rZTojH3fpump": {
+      "symbol": "fork",
+      "qty": 538778.1489393504,
+      "entry_price": 9.18745500303728e-05,
+      "last_price": 8.908410073807782e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T02:00:08+00:00",
+      "missing": 0
+    },
+    "FNHmks5q4NTEx6fyJF4ayaDcvyhEjaAeCdVZK1QEpump": {
+      "symbol": "DIHVAL",
+      "qty": 5735848.975478244,
+      "entry_price": 8.629934332584617e-06,
+      "last_price": 8.30957154568982e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T02:00:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T05:52:50+00:00",
-      "side": "buy",
-      "symbol": "QUANTUM",
-      "address": "84JxdHhyhWikJ5goXvuXt42hMHViuj7nuL7BNXnnpump",
-      "price": 8.91410212853597e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T05:52:50+00:00",
-      "side": "buy",
-      "symbol": "hooksea",
-      "address": "8h9XBz3X15CTFxAKVHwNDtuPvEK4sYg4eeHimRTKpump",
-      "price": 4.2115069419202224e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T05:52:50+00:00",
-      "side": "buy",
-      "symbol": "Draco",
-      "address": "4Rt2EiVMV75HXt1nP8A1u2dvZkmbP5wr8XjA158Cpump",
-      "price": 0.06607207896140946,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T05:52:50+00:00",
       "side": "buy",
@@ -4535,6 +4520,32 @@
       "address": "2FytuG5EWvTSoLPDxxMqhaF8R4vn7SE6EfyT2rk5pump",
       "price": 7.4194754324731065e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T02:00:07+00:00",
+      "side": "sell",
+      "symbol": "RAlL",
+      "address": "rCb4eqck97AvydfDQzpnxBoDAMh9RMr5fkMrLsepump",
+      "price": 1.089943873e-05,
+      "proceeds": 25.61,
+      "pnl_usd": -24.39,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T02:00:08+00:00",
+      "side": "buy",
+      "symbol": "fork",
+      "address": "5DaRegSRG9SA3vnyiNwZCFHgTc4xiuG9rZTojH3fpump",
+      "price": 9.18745500303728e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T02:00:08+00:00",
+      "side": "buy",
+      "symbol": "DIHVAL",
+      "address": "FNHmks5q4NTEx6fyJF4ayaDcvyhEjaAeCdVZK1QEpump",
+      "price": 8.629934332584617e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6177,6 +6188,10 @@
     {
       "date": "2026-10-11T01:44:11+00:00",
       "equity": 5168847.27
+    },
+    {
+      "date": "2026-10-11T02:00:08+00:00",
+      "equity": 5168820.79
     }
   ]
 }
