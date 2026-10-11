@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5168747.24678302,
+  "cash": 5168849.474028459,
   "positions": {
-    "HTBY51PFWmKALxoB5suzyYe7epuVi8Rii8p5i4wVpump": {
-      "symbol": "STRKT",
-      "qty": 1097518.7074228078,
-      "entry_price": 4.510173691365666e-05,
-      "last_price": 4.367494224919704e-05,
+    "2Q1L3ntD5FMSqMJ3gzSTKFapp3pA1P7NPZkQBJRppump": {
+      "symbol": "RUNNER",
+      "qty": 516813.2270734612,
+      "entry_price": 9.57792823537079e-05,
+      "last_price": 9.287209261822872e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T03:23:04+00:00",
-      "missing": 0
-    },
-    "9pNXpiG9cXu3Pg2wQpiPSQ1CXswXfpp8hJqebBVcpump": {
-      "symbol": "INU",
-      "qty": 5860409.5156956855,
-      "entry_price": 8.446508706844847e-06,
-      "last_price": 8.129593621451358e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T03:23:04+00:00",
+      "entry_time": "2026-10-11T03:45:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T07:06:37+00:00",
-      "side": "sell",
-      "symbol": "open/acc",
-      "address": "5b57W6Ygf1yLdC42PgzVmKqgZDcXqQUaPwv24u33pump",
-      "price": 0.0001045691744,
-      "proceeds": 55.85,
-      "pnl_usd": 5.85,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-09T07:06:37+00:00",
-      "side": "sell",
-      "symbol": "Oscar",
-      "address": "JKvJDmC5WtoVivhCS45vzb8pqwMmmTrR7zaag39pump",
-      "price": 3.117654368e-06,
-      "proceeds": 13.18,
-      "pnl_usd": -36.82,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-09T07:06:37+00:00",
-      "side": "buy",
-      "symbol": "FLAXNJA",
-      "address": "4qdaJkw1dPDLA1NF4cZHwEaEC96hds7zLWp8nm4vpump",
-      "price": 0.10045280994573025,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T07:31:24+00:00",
       "side": "sell",
@@ -4521,6 +4484,34 @@
       "address": "9pNXpiG9cXu3Pg2wQpiPSQ1CXswXfpp8hJqebBVcpump",
       "price": 8.446508706844847e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T03:45:19+00:00",
+      "side": "sell",
+      "symbol": "STRKT",
+      "address": "HTBY51PFWmKALxoB5suzyYe7epuVi8Rii8p5i4wVpump",
+      "price": 0.0002474430039,
+      "proceeds": 134.43,
+      "pnl_usd": 84.43,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T03:45:19+00:00",
+      "side": "sell",
+      "symbol": "INU",
+      "address": "9pNXpiG9cXu3Pg2wQpiPSQ1CXswXfpp8hJqebBVcpump",
+      "price": 3.187368238e-06,
+      "proceeds": 17.8,
+      "pnl_usd": -32.2,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T03:45:19+00:00",
+      "side": "buy",
+      "symbol": "RUNNER",
+      "address": "2Q1L3ntD5FMSqMJ3gzSTKFapp3pA1P7NPZkQBJRppump",
+      "price": 9.57792823537079e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6183,6 +6174,10 @@
     {
       "date": "2026-10-11T03:23:04+00:00",
       "equity": 5168842.82
+    },
+    {
+      "date": "2026-10-11T03:45:19+00:00",
+      "equity": 5168897.47
     }
   ]
 }
