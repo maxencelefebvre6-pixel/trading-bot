@@ -1,59 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5168749.474030876,
+  "cash": 5168747.221684125,
   "positions": {
-    "HTDkUKT8jZ95PXRApgBPr43nHNhJUCZpjUJqiEx4pump": {
-      "symbol": "SpaceX",
-      "qty": 123377.19165724351,
-      "entry_price": 0.0004012086783229503,
-      "last_price": 0.0003891620037605478,
+    "E5enTV81XjBrfD6WsH7bw9JxLsJxjWrfo2U2sfbFpump": {
+      "symbol": "Veria",
+      "qty": 1098730.5065933794,
+      "entry_price": 4.505199382647074e-05,
+      "last_price": 4.3626945838752675e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T04:01:27+00:00",
+      "entry_time": "2026-10-11T04:24:05+00:00",
       "missing": 0
     },
-    "7JfCmCeALa4S3FqtFwqSdYfQUtkGLSwsCxkePX3gpump": {
-      "symbol": "NVIDIA",
-      "qty": 121745.70911920464,
-      "entry_price": 0.0004065851713224091,
-      "last_price": 0.0003943838372816433,
+    "FcE6JFhRE34Gh3mnfYHRXw8tnzRyM675kfvjT6RRpump": {
+      "symbol": "DIS",
+      "qty": 11258362.852808945,
+      "entry_price": 4.396731624940462e-06,
+      "last_price": 4.2414092156006165e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-11T04:01:27+00:00",
+      "entry_time": "2026-10-11T04:24:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T08:13:08+00:00",
-      "side": "buy",
-      "symbol": "open/acc",
-      "address": "3URjYJimkS9PvqvcFddEaJnHNn1TzLgLQAwfgpgMpump",
-      "price": 4.495844088785701e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T08:13:08+00:00",
-      "side": "buy",
-      "symbol": "Ponzi",
-      "address": "5QjDQEtu7X5GE4b8zUtpSSgg6zMVp4FwM7wK1a7apump",
-      "price": 1.103772701773308e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T08:13:08+00:00",
-      "side": "buy",
-      "symbol": "BORN",
-      "address": "C4sepX6ik8SoTcrKKxTG2kBqQMU58VsquFjgweUxpump",
-      "price": 7.709548043649387e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T08:13:08+00:00",
-      "side": "buy",
-      "symbol": "DERP",
-      "address": "EDNtwECaFNmdmPWiQXR5ss2WRipfrV7wZE6nW7yXpump",
-      "price": 1.1065467370595225e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T08:37:50+00:00",
       "side": "sell",
@@ -4519,6 +4487,42 @@
       "address": "7JfCmCeALa4S3FqtFwqSdYfQUtkGLSwsCxkePX3gpump",
       "price": 0.0004065851713224091,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T04:24:05+00:00",
+      "side": "sell",
+      "symbol": "SpaceX",
+      "address": "HTDkUKT8jZ95PXRApgBPr43nHNhJUCZpjUJqiEx4pump",
+      "price": 0.0008252634188,
+      "proceeds": 97.51,
+      "pnl_usd": 47.51,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-11T04:24:05+00:00",
+      "side": "sell",
+      "symbol": "NVIDIA",
+      "address": "7JfCmCeALa4S3FqtFwqSdYfQUtkGLSwsCxkePX3gpump",
+      "price": 2.073068456e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T04:24:05+00:00",
+      "side": "buy",
+      "symbol": "Veria",
+      "address": "E5enTV81XjBrfD6WsH7bw9JxLsJxjWrfo2U2sfbFpump",
+      "price": 4.505199382647074e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T04:24:05+00:00",
+      "side": "buy",
+      "symbol": "DIS",
+      "address": "FcE6JFhRE34Gh3mnfYHRXw8tnzRyM675kfvjT6RRpump",
+      "price": 4.396731624940462e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6189,6 +6193,10 @@
     {
       "date": "2026-10-11T04:01:27+00:00",
       "equity": 5168845.5
+    },
+    {
+      "date": "2026-10-11T04:24:05+00:00",
+      "equity": 5168842.91
     }
   ]
 }
