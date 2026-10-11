@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5166629.834567815,
+  "cash": 5166646.76727844,
   "positions": {
     "35uaKMPmdgVEc2V2Y2aNUdbxD9nWb4vVzN87WRcspump": {
       "symbol": "STUTUTU",
@@ -10,43 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-11T22:10:45+00:00",
       "missing": 0
-    },
-    "DyfdiAoHhnJ7d8a5RPA44Z9ebGFB6zTbSURB1bq2pump": {
-      "symbol": "Esquizo",
-      "qty": 4823087.445672413,
-      "entry_price": 1.026313550346565e-05,
-      "last_price": 9.87051223820612e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T22:50:29+00:00",
-      "missing": 0
-    },
-    "8FRpSitbaAsxpbTt1Vqffaktd2TcSFe8K9j1545npump": {
-      "symbol": "USACLAUDIA",
-      "qty": 1008254.8467482246,
-      "entry_price": 4.909473052338408e-05,
-      "last_price": 4.754198376509963e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T22:50:29+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T09:41:07+00:00",
-      "side": "buy",
-      "symbol": "AI",
-      "address": "eC5CQqWmcx76ZhkULbw7fVQLNxnNY7UAB7B3Gd3pump",
-      "price": 0.0002013210926330639,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T09:41:07+00:00",
-      "side": "buy",
-      "symbol": "CANVAS",
-      "address": "UhjmSL1eDvnHUPbL2ru5JMXjxvBUkjWnSMvNdx3pump",
-      "price": 8.777765662500814e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T09:57:38+00:00",
       "side": "sell",
@@ -4530,6 +4496,26 @@
       "address": "8FRpSitbaAsxpbTt1Vqffaktd2TcSFe8K9j1545npump",
       "price": 4.909473052338408e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T23:05:27+00:00",
+      "side": "sell",
+      "symbol": "Esquizo",
+      "address": "DyfdiAoHhnJ7d8a5RPA44Z9ebGFB6zTbSURB1bq2pump",
+      "price": 3.184471819e-06,
+      "proceeds": 14.66,
+      "pnl_usd": -35.34,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T23:05:27+00:00",
+      "side": "sell",
+      "symbol": "USACLAUDIA",
+      "address": "8FRpSitbaAsxpbTt1Vqffaktd2TcSFe8K9j1545npump",
+      "price": 2.358645262e-06,
+      "proceeds": 2.28,
+      "pnl_usd": -47.72,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -6428,6 +6414,10 @@
     {
       "date": "2026-10-11T22:50:29+00:00",
       "equity": 5166773.24
+    },
+    {
+      "date": "2026-10-11T23:05:27+00:00",
+      "equity": 5166694.63
     }
   ]
 }
