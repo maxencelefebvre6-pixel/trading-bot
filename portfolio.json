@@ -1,121 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5166810.219723939,
+  "cash": 5166748.583529283,
   "positions": {
-    "4axWaz9E2EvL9VTYE97ExdttQb8LnPo4se9sziubpump": {
-      "symbol": "hgh coin",
-      "qty": 496196.9298942597,
-      "entry_price": 9.975877926239592e-05,
-      "last_price": 9.679106742e-05,
+    "3tyFRC8sMC65aYwsu2MjTr7MWQGh4NTZJJqiDidJpump": {
+      "symbol": "trenchcat",
+      "qty": 557360.7202730654,
+      "entry_price": 8.881142534721263e-05,
+      "last_price": 8.611224229535086e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T20:36:20+00:00",
+      "entry_time": "2026-10-11T21:53:08+00:00",
       "missing": 0
     },
-    "FG1GQtohMPD92x5upr2sXrRx3ACDBpcwDV2cavuZpump": {
-      "symbol": "asads",
-      "qty": 5677790.9120397,
-      "entry_price": 8.718179441063201e-06,
-      "last_price": 8.320678091e-06,
+    "2EQF8QpuvHyFJdt6z4X8oY2kdSF3KVieA4TMvtSJpump": {
+      "symbol": "drool",
+      "qty": 4939351.477707963,
+      "entry_price": 1.0021558543343381e-05,
+      "last_price": 9.639814537590113e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-11T20:36:20+00:00",
+      "entry_time": "2026-10-11T21:53:08+00:00",
       "missing": 0
     },
-    "iF2HjyPWj2pixyqv9GvUoitTGx8wYmNdWbmd63Dpump": {
-      "symbol": "Playground",
-      "qty": 505381.6179868758,
-      "entry_price": 9.794578638846627e-05,
-      "last_price": 9.497381849547745e-05,
+    "3oWMKX9zHEzfd7ppKTk7yENPucWSKMPRJChKrnmHpump": {
+      "symbol": "Attention",
+      "qty": 3458711.990335408,
+      "entry_price": 1.4311686008640385e-05,
+      "last_price": 1.3793649982392644e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T21:34:21+00:00",
+      "entry_time": "2026-10-11T21:53:08+00:00",
       "missing": 0
     },
-    "J72U2KcAAyQgJR4tJeP8X5Gwm6W9VacSzVyNUGS7pump": {
-      "symbol": "JUMPER",
-      "qty": 5450003.633675678,
-      "entry_price": 9.08256275172709e-06,
-      "last_price": 8.739707745559789e-06,
+    "ASzPX1f5NqEErTzThLChtRHXbasj7v7mtNFJ3Qrjpump": {
+      "symbol": "GEM",
+      "qty": 4192795.1741774403,
+      "entry_price": 1.1805966650806192e-05,
+      "last_price": 1.1410588154786451e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T21:34:21+00:00",
+      "entry_time": "2026-10-11T21:53:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T08:22:59+00:00",
-      "side": "sell",
-      "symbol": "Musk",
-      "address": "CSbEmKU8s9DT6uJSwHtQMSiZhVd9QWbg3E1bNkiXpump",
-      "price": 0.0005694813822,
-      "proceeds": 157.88,
-      "pnl_usd": 107.88,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T08:22:59+00:00",
-      "side": "sell",
-      "symbol": "Ram",
-      "address": "8my1AqUj5CdBU4jWYEHk3q7CWEFfU5porWJ9tbKKpump",
-      "price": 2.23924236e-07,
-      "proceeds": 0.32,
-      "pnl_usd": -49.68,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T08:22:59+00:00",
-      "side": "buy",
-      "symbol": "WOJODRAK",
-      "address": "7YcQZ6RuG91pDJHYLtBW4pU4xYoJc4kRcPFdvyyEpump",
-      "price": 5.200144741505074e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T08:22:59+00:00",
-      "side": "buy",
-      "symbol": "Polariton",
-      "address": "61sMDjuH3Nw7J1xdkRPkyqjN7ptegSH6ms8HY2eMpump",
-      "price": 9.498934411792724e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T08:43:31+00:00",
-      "side": "sell",
-      "symbol": "gay",
-      "address": "C2q3UmF6TUaux49ShTxhru57bvfpKMocwXpNFbX8pump",
-      "price": 5.154368597e-05,
-      "proceeds": 46.03,
-      "pnl_usd": -3.97,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T08:43:31+00:00",
-      "side": "sell",
-      "symbol": "WOJODRAK",
-      "address": "7YcQZ6RuG91pDJHYLtBW4pU4xYoJc4kRcPFdvyyEpump",
-      "price": 2.352407394e-06,
-      "proceeds": 2.14,
-      "pnl_usd": -47.86,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T08:43:31+00:00",
-      "side": "sell",
-      "symbol": "Polariton",
-      "address": "61sMDjuH3Nw7J1xdkRPkyqjN7ptegSH6ms8HY2eMpump",
-      "price": 3.178819011e-06,
-      "proceeds": 15.8,
-      "pnl_usd": -34.2,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T08:59:22+00:00",
-      "side": "sell",
-      "symbol": "TM",
-      "address": "x5oeXUVjJEchGEtPmkzS5sdFgW4teqz1UejNTbDpump",
-      "price": 8.740847687e-05,
-      "proceeds": 47.14,
-      "pnl_usd": -2.86,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-10T08:59:22+00:00",
       "side": "buy",
@@ -4539,6 +4463,78 @@
       "address": "J72U2KcAAyQgJR4tJeP8X5Gwm6W9VacSzVyNUGS7pump",
       "price": 9.08256275172709e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "side": "sell",
+      "symbol": "hgh coin",
+      "address": "4axWaz9E2EvL9VTYE97ExdttQb8LnPo4se9sziubpump",
+      "price": 9.679106742e-05,
+      "proceeds": 46.09,
+      "pnl_usd": -3.91,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "side": "sell",
+      "symbol": "asads",
+      "address": "FG1GQtohMPD92x5upr2sXrRx3ACDBpcwDV2cavuZpump",
+      "price": 8.320678091e-06,
+      "proceeds": 45.03,
+      "pnl_usd": -4.97,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "side": "sell",
+      "symbol": "Playground",
+      "address": "iF2HjyPWj2pixyqv9GvUoitTGx8wYmNdWbmd63Dpump",
+      "price": 0.0001069734355,
+      "proceeds": 26.76,
+      "pnl_usd": -23.24,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "side": "sell",
+      "symbol": "JUMPER",
+      "address": "J72U2KcAAyQgJR4tJeP8X5Gwm6W9VacSzVyNUGS7pump",
+      "price": 3.941049727e-06,
+      "proceeds": 20.48,
+      "pnl_usd": -29.52,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "side": "buy",
+      "symbol": "trenchcat",
+      "address": "3tyFRC8sMC65aYwsu2MjTr7MWQGh4NTZJJqiDidJpump",
+      "price": 8.881142534721263e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "side": "buy",
+      "symbol": "drool",
+      "address": "2EQF8QpuvHyFJdt6z4X8oY2kdSF3KVieA4TMvtSJpump",
+      "price": 1.0021558543343381e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "side": "buy",
+      "symbol": "Attention",
+      "address": "3oWMKX9zHEzfd7ppKTk7yENPucWSKMPRJChKrnmHpump",
+      "price": 1.4311686008640385e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "side": "buy",
+      "symbol": "GEM",
+      "address": "ASzPX1f5NqEErTzThLChtRHXbasj7v7mtNFJ3Qrjpump",
+      "price": 1.1805966650806192e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6421,6 +6417,10 @@
     {
       "date": "2026-10-11T21:34:21+00:00",
       "equity": 5167001.12
+    },
+    {
+      "date": "2026-10-11T21:53:08+00:00",
+      "equity": 5166939.74
     }
   ]
 }
