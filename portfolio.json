@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5168553.784832811,
+  "cash": 5168579.370242125,
   "positions": {
-    "JE6ernFesVj2xtbDUELx1UdA7K3fDz5aXjSfrtu6pump": {
-      "symbol": "ULTRA",
-      "qty": 4997677.276246433,
-      "entry_price": 9.904601130463067e-06,
-      "last_price": 9.573912347e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T01:23:46+00:00",
-      "missing": 0
-    },
-    "6GmeGCc6rmFENRNQjXdeP2K3CE6rT7ksqDStrbAapump": {
-      "symbol": "STUTUTU",
-      "qty": 1641211.863156204,
-      "entry_price": 3.0160639897402924e-05,
-      "last_price": 3.194252992e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T01:23:46+00:00",
-      "missing": 0
-    },
     "2FytuG5EWvTSoLPDxxMqhaF8R4vn7SE6EfyT2rk5pump": {
       "symbol": "GCK",
       "qty": 6671630.690136317,
@@ -38,67 +20,26 @@
       "entry_time": "2026-10-11T02:00:08+00:00",
       "missing": 0
     },
-    "BMVk311QUi8bRkyiUJH8jvofyNk5Qa9ydSzEpij6pump": {
-      "symbol": "$BWIZ",
-      "qty": 11957847.95359854,
-      "entry_price": 4.139540843141737e-06,
-      "last_price": 3.992668259753494e-06,
+    "LyYYNy8WuH5Dc7jL5v8hvPWpysRZG9hQDT6Kohrpump": {
+      "symbol": "ARENA",
+      "qty": 558950.805805306,
+      "entry_price": 8.855877741992534e-05,
+      "last_price": 8.586729167724026e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T02:21:28+00:00",
+      "entry_time": "2026-10-11T02:42:48+00:00",
+      "missing": 0
+    },
+    "DCRAVSHVSVHqabZx6R8PtyijocYBkvqfjFPdaTsTpump": {
+      "symbol": "STUTUTU",
+      "qty": 5545557.682019817,
+      "entry_price": 8.926063497724e-06,
+      "last_price": 8.600080441931584e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T02:42:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T06:14:58+00:00",
-      "side": "sell",
-      "symbol": "QUANTUM",
-      "address": "84JxdHhyhWikJ5goXvuXt42hMHViuj7nuL7BNXnnpump",
-      "price": 5.009150053e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T06:14:58+00:00",
-      "side": "sell",
-      "symbol": "hooksea",
-      "address": "8h9XBz3X15CTFxAKVHwNDtuPvEK4sYg4eeHimRTKpump",
-      "price": 2.056023202e-06,
-      "proceeds": 2.31,
-      "pnl_usd": -47.69,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T06:14:58+00:00",
-      "side": "sell",
-      "symbol": "Draco",
-      "address": "4Rt2EiVMV75HXt1nP8A1u2dvZkmbP5wr8XjA158Cpump",
-      "price": 0.07456252569,
-      "proceeds": 27.65,
-      "pnl_usd": -22.35,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T06:14:58+00:00",
-      "side": "sell",
-      "symbol": "Felipe",
-      "address": "AHqaLA2fUChB25o1V7R7mVpGuvCACdZUHLtNsfQhpump",
-      "price": 1.385563465e-05,
-      "proceeds": 8.85,
-      "pnl_usd": -41.15,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-09T06:14:58+00:00",
-      "side": "sell",
-      "symbol": "Rune",
-      "address": "CgwweYm2DJ18mSPYW6owXrK27CEhvNonp3mCqz8Upump",
-      "price": 1.425056652e-05,
-      "proceeds": 27.18,
-      "pnl_usd": -22.82,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-09T06:14:58+00:00",
       "side": "buy",
@@ -4548,6 +4489,52 @@
       "address": "BMVk311QUi8bRkyiUJH8jvofyNk5Qa9ydSzEpij6pump",
       "price": 4.139540843141737e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T02:42:47+00:00",
+      "side": "sell",
+      "symbol": "ULTRA",
+      "address": "JE6ernFesVj2xtbDUELx1UdA7K3fDz5aXjSfrtu6pump",
+      "price": 9.573912347e-06,
+      "proceeds": 45.64,
+      "pnl_usd": -4.36,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T02:42:47+00:00",
+      "side": "sell",
+      "symbol": "STUTUTU",
+      "address": "6GmeGCc6rmFENRNQjXdeP2K3CE6rT7ksqDStrbAapump",
+      "price": 3.194252992e-05,
+      "proceeds": 50.23,
+      "pnl_usd": 0.23,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-11T02:42:47+00:00",
+      "side": "sell",
+      "symbol": "$BWIZ",
+      "address": "BMVk311QUi8bRkyiUJH8jvofyNk5Qa9ydSzEpij6pump",
+      "price": 2.630430526e-06,
+      "proceeds": 29.71,
+      "pnl_usd": -20.29,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T02:42:48+00:00",
+      "side": "buy",
+      "symbol": "ARENA",
+      "address": "LyYYNy8WuH5Dc7jL5v8hvPWpysRZG9hQDT6Kohrpump",
+      "price": 8.855877741992534e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T02:42:48+00:00",
+      "side": "buy",
+      "symbol": "STUTUTU",
+      "address": "DCRAVSHVSVHqabZx6R8PtyijocYBkvqfjFPdaTsTpump",
+      "price": 8.926063497724e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6198,6 +6185,10 @@
     {
       "date": "2026-10-11T02:21:28+00:00",
       "equity": 5168797.11
+    },
+    {
+      "date": "2026-10-11T02:42:48+00:00",
+      "equity": 5168770.37
     }
   ]
 }
