@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5168046.984968884,
+  "cash": 5167915.576571237,
   "positions": {
     "35Wn9AAtyRW4uCtt4oWBEJR9Zv46FpzZcMJqVGGvpump": {
       "symbol": "Kronos",
@@ -20,53 +20,35 @@
       "entry_time": "2026-10-11T14:10:36+00:00",
       "missing": 0
     },
-    "HCL6b32v8byytGvCCcrfJhzcGs2VggYnoux36bMupump": {
-      "symbol": "BNUT",
-      "qty": 6043794.612994287,
-      "entry_price": 8.190218756536488e-06,
-      "last_price": 7.878586055549476e-06,
+    "Hs72V5fCV7uWHnnQ486g9N8eyMKYEPhdnw6UnSSZpump": {
+      "symbol": "Dacity",
+      "qty": 565284.0994771306,
+      "entry_price": 8.756658827974445e-05,
+      "last_price": 8.490441051696832e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T14:31:34+00:00",
+      "entry_time": "2026-10-11T14:50:31+00:00",
+      "missing": 0
+    },
+    "HuoTzoa3G26tw9hUAsATrEML2yuqwopQ53ps1H4opump": {
+      "symbol": "10m",
+      "qty": 4507565.323711953,
+      "entry_price": 1.0981538024442215e-05,
+      "last_price": 1.0576507239597249e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T14:50:31+00:00",
+      "missing": 0
+    },
+    "GgEKCLbsCNqBNL3Po4MPe7tBWR3PoRY8DUv4DFXJpump": {
+      "symbol": "sol",
+      "qty": 7140238.193820392,
+      "entry_price": 6.932541836327028e-06,
+      "last_price": 6.669018989355877e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T14:50:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T22:22:09+00:00",
-      "side": "sell",
-      "symbol": "MUSKRATS",
-      "address": "BHvGuFtr6Rc8P9iSwdm7nmYP8AwWcVUWg5eGpAbjpump",
-      "price": 3.058752461e-06,
-      "proceeds": 3.82,
-      "pnl_usd": -46.18,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T22:59:27+00:00",
-      "side": "buy",
-      "symbol": "PSX",
-      "address": "EZThFwJLRtWG9rmpoYJC6YxRjVzmBZw4x64L8e3Epump",
-      "price": 9.274085409230809e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T23:20:28+00:00",
-      "side": "sell",
-      "symbol": "PSX",
-      "address": "EZThFwJLRtWG9rmpoYJC6YxRjVzmBZw4x64L8e3Epump",
-      "price": 9.158880668e-05,
-      "proceeds": 24.2,
-      "pnl_usd": -25.8,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T23:20:29+00:00",
-      "side": "buy",
-      "symbol": "Ads",
-      "address": "GGauatXaF2mxwzqvJpcZ8ep2mCnNyZjUywiWDktZpump",
-      "price": 9.064908208450033e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T23:20:29+00:00",
       "side": "buy",
@@ -4528,6 +4510,40 @@
       "address": "HCL6b32v8byytGvCCcrfJhzcGs2VggYnoux36bMupump",
       "price": 8.190218756536488e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T14:50:31+00:00",
+      "side": "sell",
+      "symbol": "BNUT",
+      "address": "HCL6b32v8byytGvCCcrfJhzcGs2VggYnoux36bMupump",
+      "price": 3.228771609e-06,
+      "proceeds": 18.59,
+      "pnl_usd": -31.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T14:50:31+00:00",
+      "side": "buy",
+      "symbol": "Dacity",
+      "address": "Hs72V5fCV7uWHnnQ486g9N8eyMKYEPhdnw6UnSSZpump",
+      "price": 8.756658827974445e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T14:50:31+00:00",
+      "side": "buy",
+      "symbol": "10m",
+      "address": "HuoTzoa3G26tw9hUAsATrEML2yuqwopQ53ps1H4opump",
+      "price": 1.0981538024442215e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T14:50:31+00:00",
+      "side": "buy",
+      "symbol": "sol",
+      "address": "GgEKCLbsCNqBNL3Po4MPe7tBWR3PoRY8DUv4DFXJpump",
+      "price": 6.932541836327028e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6322,6 +6338,10 @@
     {
       "date": "2026-10-11T14:31:34+00:00",
       "equity": 5168190.25
+    },
+    {
+      "date": "2026-10-11T14:50:31+00:00",
+      "equity": 5168154.51
     }
   ]
 }
