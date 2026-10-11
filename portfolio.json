@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5167931.212937723,
+  "cash": 5167927.1091532335,
   "positions": {
     "Ao43Xz5mdX9AJYywvfVTCzpFX9CAt1FxeXBA3oqupump": {
       "symbol": "$AURA",
@@ -9,15 +9,6 @@
       "last_price": 3.292977994e-05,
       "cost": 50.0,
       "entry_time": "2026-10-11T10:32:50+00:00",
-      "missing": 0
-    },
-    "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump": {
-      "symbol": "Kairo",
-      "qty": 888638.668884599,
-      "entry_price": 5.5703180306267094e-05,
-      "last_price": 5.757163354e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T10:51:34+00:00",
       "missing": 0
     },
     "26nw1VJwPXEv6cV5Lu82M6gdZpqnYiUc7UoExNcipump": {
@@ -38,64 +29,17 @@
       "entry_time": "2026-10-11T10:51:34+00:00",
       "missing": 0
     },
-    "GjUbXGEj12J1PWv3rjnKwDUzXmzqndywtLA1tVdKpump": {
-      "symbol": "Elya",
-      "qty": 534559.5303150145,
-      "entry_price": 9.259960246304051e-05,
-      "last_price": 8.978747845530436e-05,
+    "3gk4v36Cobpg1QPhWhxRC7udYgeAbeuRCwbqoraCpump": {
+      "symbol": "vrl",
+      "qty": 2932037.4373708847,
+      "entry_price": 1.6882458378289307e-05,
+      "last_price": 1.6328968485522655e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T11:06:56+00:00",
-      "missing": 0
-    },
-    "X5NKoSWirb8BeMzLzZTR2z4kkgmjqgAzgWKHs6Qpump": {
-      "symbol": "NICKIMINAJ",
-      "qty": 56749.40568560987,
-      "entry_price": 0.0008722558307346622,
-      "last_price": 0.000846329535413919,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T11:06:56+00:00",
+      "entry_time": "2026-10-11T11:26:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T18:25:29+00:00",
-      "side": "buy",
-      "symbol": "DERP",
-      "address": "615fy6ndCHst5qWd3KMC5Q7NkeZTszjUtzfyb3Hjpump",
-      "price": 3.6357488656491625e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T18:50:33+00:00",
-      "side": "sell",
-      "symbol": "UBEREATS",
-      "address": "CqQsq3aSMYGkG5BZ1E7kYyEWz8Tto3q9ELryvJPQpump",
-      "price": 8.948265446e-05,
-      "proceeds": 24.96,
-      "pnl_usd": -25.04,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T18:50:33+00:00",
-      "side": "sell",
-      "symbol": "Haaland",
-      "address": "swuRJ5KRYV1GKZmUuWQCweYUwocdu5QBfhEHhJPpump",
-      "price": 1.958517422e-06,
-      "proceeds": 0.19,
-      "pnl_usd": -49.81,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T18:50:33+00:00",
-      "side": "sell",
-      "symbol": "Retail",
-      "address": "EK6Y9m4pqSSNbfTgJJzCvJmMufhwVTqZj62Hhr9Jpump",
-      "price": 3.163436523e-06,
-      "proceeds": 7.63,
-      "pnl_usd": -42.37,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-09T18:50:33+00:00",
       "side": "sell",
@@ -4555,6 +4499,44 @@
       "address": "X5NKoSWirb8BeMzLzZTR2z4kkgmjqgAzgWKHs6Qpump",
       "price": 0.0008722558307346622,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T11:26:59+00:00",
+      "side": "sell",
+      "symbol": "Kairo",
+      "address": "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump",
+      "price": 2.155469894e-05,
+      "proceeds": 18.34,
+      "pnl_usd": -31.66,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T11:26:59+00:00",
+      "side": "sell",
+      "symbol": "Elya",
+      "address": "GjUbXGEj12J1PWv3rjnKwDUzXmzqndywtLA1tVdKpump",
+      "price": 0.0001037191329,
+      "proceeds": 27.44,
+      "pnl_usd": -22.56,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T11:26:59+00:00",
+      "side": "sell",
+      "symbol": "NICKIMINAJ",
+      "address": "X5NKoSWirb8BeMzLzZTR2z4kkgmjqgAzgWKHs6Qpump",
+      "price": 1.954630607e-06,
+      "proceeds": 0.11,
+      "pnl_usd": -49.89,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T11:26:59+00:00",
+      "side": "buy",
+      "symbol": "vrl",
+      "address": "3gk4v36Cobpg1QPhWhxRC7udYgeAbeuRCwbqoraCpump",
+      "price": 1.6882458378289307e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6309,6 +6291,10 @@
     {
       "date": "2026-10-11T11:06:56+00:00",
       "equity": 5168221.49
+    },
+    {
+      "date": "2026-10-11T11:26:59+00:00",
+      "equity": 5168118.07
     }
   ]
 }
