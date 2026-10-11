@@ -1,60 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5166743.939137544,
+  "cash": 5166709.614021487,
   "positions": {
-    "373b6Nk7cdzPPtrskSrhZAxEeAHUcwBiD8rqrWAHpump": {
-      "symbol": "AGENT47",
-      "qty": 807246.5027000166,
-      "entry_price": 6.131955955762728e-05,
-      "last_price": 5.9375449406418004e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T22:10:45+00:00",
-      "missing": 0
-    },
-    "9nkjGKF8V6dRUei1F4TCCfBRZMrArTi3wCaNdzRhpump": {
-      "symbol": "bazucat",
-      "qty": 4406976.670256905,
-      "entry_price": 1.1232190162040135e-05,
-      "last_price": 1.0815738212420774e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T22:10:45+00:00",
-      "missing": 0
-    },
     "35uaKMPmdgVEc2V2Y2aNUdbxD9nWb4vVzN87WRcspump": {
       "symbol": "STUTUTU",
       "qty": 4205491.049116164,
       "entry_price": 1.177032584825095e-05,
-      "last_price": 1.1380552760886264e-05,
+      "last_price": 1.138055276e-05,
       "cost": 50.0,
       "entry_time": "2026-10-11T22:10:45+00:00",
+      "missing": 0
+    },
+    "7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump": {
+      "symbol": "Centre",
+      "qty": 5768399.830856963,
+      "entry_price": 8.581235949562497e-06,
+      "last_price": 8.254439006938574e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T22:31:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T09:20:43+00:00",
-      "side": "buy",
-      "symbol": "Jef",
-      "address": "88jUcA4vvbiyXxhhnk6RHyxuGaHhR7NQnfVwd6hBpump",
-      "price": 1.1958885242936799e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T09:20:43+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "5z1Sb14bCC3G6n4SfdXvNaRb3A5nV26Na3nAALAapump",
-      "price": 1.776547975044747e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T09:20:43+00:00",
-      "side": "buy",
-      "symbol": "EMOTD",
-      "address": "H3ivribhXG6uMijqgiQgLVcXn3fcYnFrqCp1PMJNpump",
-      "price": 9.209152200400925e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T09:41:07+00:00",
       "side": "sell",
@@ -4530,6 +4497,34 @@
       "address": "35uaKMPmdgVEc2V2Y2aNUdbxD9nWb4vVzN87WRcspump",
       "price": 1.177032584825095e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T22:31:40+00:00",
+      "side": "sell",
+      "symbol": "AGENT47",
+      "address": "373b6Nk7cdzPPtrskSrhZAxEeAHUcwBiD8rqrWAHpump",
+      "price": 2.571815044e-06,
+      "proceeds": 1.99,
+      "pnl_usd": -48.01,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T22:31:40+00:00",
+      "side": "sell",
+      "symbol": "bazucat",
+      "address": "9nkjGKF8V6dRUei1F4TCCfBRZMrArTi3wCaNdzRhpump",
+      "price": 3.253202383e-06,
+      "proceeds": 13.68,
+      "pnl_usd": -36.32,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T22:31:40+00:00",
+      "side": "buy",
+      "symbol": "Centre",
+      "address": "7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump",
+      "price": 8.581235949562497e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6420,6 +6415,10 @@
     {
       "date": "2026-10-11T22:10:45+00:00",
       "equity": 5166887.4
+    },
+    {
+      "date": "2026-10-11T22:31:40+00:00",
+      "equity": 5166805.09
     }
   ]
 }
