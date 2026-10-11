@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5168515.114476491,
+  "cash": 5168394.23250472,
   "positions": {
     "72rLR8oFyNj4m7TwRojpfDpvWKryZBWUo7oD7fDLpump": {
       "symbol": "incoginu",
@@ -29,66 +29,35 @@
       "entry_time": "2026-10-11T07:13:33+00:00",
       "missing": 0
     },
-    "2TioXzxyqbRbGi6GEjo391AY4wHeXnCB568T4UL1pump": {
-      "symbol": "TAG",
-      "qty": 958765.3103423715,
-      "entry_price": 5.162890174063947e-05,
-      "last_price": 4.9987003976365414e-05,
+    "7JYoS6ic3MQg9F3gHhsFVvL33N2BBHW1nn5UWCqFpump": {
+      "symbol": "INTENTS",
+      "qty": 562766.8642637345,
+      "entry_price": 8.795827036611445e-05,
+      "last_price": 8.528424952281721e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T07:35:22+00:00",
+      "entry_time": "2026-10-11T07:53:26+00:00",
       "missing": 0
     },
-    "5MpmuKNXF6jsUXFfK9pVQ2movwYqVK1Rt2Vj6ndwpump": {
-      "symbol": "kittylick",
-      "qty": 7099832.354316264,
-      "entry_price": 6.971995609150831e-06,
-      "last_price": 6.7074206334091365e-06,
+    "DnzxtM3RvBfPrKMyeFzrj9SNQhcAPMQZUQH17Arcpump": {
+      "symbol": "Incognito",
+      "qty": 1116954.4968981557,
+      "entry_price": 4.4316935145938564e-05,
+      "last_price": 4.291419908039828e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-11T07:35:22+00:00",
+      "entry_time": "2026-10-11T07:53:26+00:00",
+      "missing": 0
+    },
+    "9QJ3gaMubEV7QjKLkkNWsTpgFrN9nSRRCxmGHYYVpump": {
+      "symbol": "SOULJA",
+      "qty": 3197799.775398654,
+      "entry_price": 1.5479393169270292e-05,
+      "last_price": 1.492585633712691e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T07:53:26+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T12:56:32+00:00",
-      "side": "buy",
-      "symbol": "QUANT",
-      "address": "J1L17ha8CdZWdMAAPkbdEniEQQ1zJGgxZ5CZqtE9pump",
-      "price": 8.878204333556387e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T12:56:32+00:00",
-      "side": "buy",
-      "symbol": "RAFFIE",
-      "address": "9K4VfM9re47WU72xiZgDHywETYTF3R3Nc6YRew1gpump",
-      "price": 3.2472150867181974e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T12:56:32+00:00",
-      "side": "buy",
-      "symbol": "MRWICK",
-      "address": "29V1RuZUbqt7NKjwtFTnoLeAqsg9WihSF9udMBB7pump",
-      "price": 3.2026967332908073e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T12:56:32+00:00",
-      "side": "buy",
-      "symbol": "SCRVAN",
-      "address": "9TZ3AwrT9jWgWz7itjJom7bTD5qkL8RJNbLHPUiVpump",
-      "price": 7.555365326591558e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T12:56:32+00:00",
-      "side": "buy",
-      "symbol": "$CAT",
-      "address": "5KUKe5Df1sH8ogggsDF9curXQHTDonh16sx9DsqZpump",
-      "price": 8.052313131784467e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T12:56:32+00:00",
       "side": "buy",
@@ -4544,6 +4513,50 @@
       "address": "5MpmuKNXF6jsUXFfK9pVQ2movwYqVK1Rt2Vj6ndwpump",
       "price": 6.971995609150831e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T07:53:26+00:00",
+      "side": "sell",
+      "symbol": "TAG",
+      "address": "2TioXzxyqbRbGi6GEjo391AY4wHeXnCB568T4UL1pump",
+      "price": 6.032705681e-06,
+      "proceeds": 5.55,
+      "pnl_usd": -44.45,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T07:53:26+00:00",
+      "side": "sell",
+      "symbol": "kittylick",
+      "address": "5MpmuKNXF6jsUXFfK9pVQ2movwYqVK1Rt2Vj6ndwpump",
+      "price": 6.707420633e-06,
+      "proceeds": 23.57,
+      "pnl_usd": -26.43,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T07:53:26+00:00",
+      "side": "buy",
+      "symbol": "INTENTS",
+      "address": "7JYoS6ic3MQg9F3gHhsFVvL33N2BBHW1nn5UWCqFpump",
+      "price": 8.795827036611445e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T07:53:26+00:00",
+      "side": "buy",
+      "symbol": "Incognito",
+      "address": "DnzxtM3RvBfPrKMyeFzrj9SNQhcAPMQZUQH17Arcpump",
+      "price": 4.4316935145938564e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T07:53:26+00:00",
+      "side": "buy",
+      "symbol": "SOULJA",
+      "address": "9QJ3gaMubEV7QjKLkkNWsTpgFrN9nSRRCxmGHYYVpump",
+      "price": 1.5479393169270292e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6254,6 +6267,10 @@
     {
       "date": "2026-10-11T07:35:22+00:00",
       "equity": 5168753.63
+    },
+    {
+      "date": "2026-10-11T07:53:26+00:00",
+      "equity": 5168680.86
     }
   ]
 }
