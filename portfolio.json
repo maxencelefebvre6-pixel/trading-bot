@@ -1,54 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5168889.792263023,
-  "positions": {},
+  "cash": 5168639.792263023,
+  "positions": {
+    "A1Vj4x2jnPWkrqWCqTmbgmhjyucqWQUpoLFeWcUcpump": {
+      "symbol": "Gayle",
+      "qty": 552903.7982898697,
+      "entry_price": 8.952732853907569e-05,
+      "last_price": 8.680702197612322e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T06:53:49+00:00",
+      "missing": 0
+    },
+    "F5ZreQu2b4Fhyt1MxbiDJ7hpKGTTvY1QKzL6hWyvpump": {
+      "symbol": "INCOCKNITO",
+      "qty": 4265374.109474839,
+      "entry_price": 1.1605078178264308e-05,
+      "last_price": 1.1175907320842342e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T06:53:49+00:00",
+      "missing": 0
+    },
+    "72rLR8oFyNj4m7TwRojpfDpvWKryZBWUo7oD7fDLpump": {
+      "symbol": "incoginu",
+      "qty": 8135944.978146132,
+      "entry_price": 6.08411194187785e-06,
+      "last_price": 5.85524419865405e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T06:53:49+00:00",
+      "missing": 0
+    },
+    "Ew9tTeuNLTNTd1eXXsZS9Z3vhBEZR8V3bDM85H6zpump": {
+      "symbol": "incoginu",
+      "qty": 5415520.087190801,
+      "entry_price": 9.140396342925799e-06,
+      "last_price": 8.803136749956269e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T06:53:49+00:00",
+      "missing": 0
+    },
+    "7dxGGfAMLJJqejqQ6EphVtkSGJHH9YHF4LK3pTLMpump": {
+      "symbol": "incoginu",
+      "qty": 4268775.629929113,
+      "entry_price": 1.1595830816908499e-05,
+      "last_price": 1.1177798556984581e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T06:53:49+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-09T11:05:43+00:00",
-      "side": "buy",
-      "symbol": "Buckytb",
-      "address": "4HJGNbMjA5Lc9vS21kkuN9wwqutnF6cNjENH3szjpump",
-      "price": 7.507042018609197e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T11:26:59+00:00",
-      "side": "sell",
-      "symbol": ";)",
-      "address": "BR4owTXJnmKVM7X8BQP7KYAeyeLPDNanfieFsPy4pump",
-      "price": 6.112435041e-05,
-      "proceeds": 33.46,
-      "pnl_usd": -16.54,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T11:26:59+00:00",
-      "side": "sell",
-      "symbol": "OpenAI",
-      "address": "W5dgZGAYdbAKVNdPnvR6iAUZEoaEPAiH7JLCgYxpump",
-      "price": 2.008678569e-06,
-      "proceeds": 0.13,
-      "pnl_usd": -49.87,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T11:26:59+00:00",
-      "side": "sell",
-      "symbol": "Buckytb",
-      "address": "4HJGNbMjA5Lc9vS21kkuN9wwqutnF6cNjENH3szjpump",
-      "price": 9.608103408e-07,
-      "proceeds": 0.31,
-      "pnl_usd": -49.69,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-09T11:26:59+00:00",
-      "side": "buy",
-      "symbol": "UDR",
-      "address": "wjEYRUp7SowPSp3eEGozus9kmCBbzTMVpzd5NdQpump",
-      "price": 0.41399867386123945,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T11:26:59+00:00",
       "side": "buy",
@@ -4504,6 +4504,46 @@
       "proceeds": 35.82,
       "pnl_usd": -14.18,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T06:53:49+00:00",
+      "side": "buy",
+      "symbol": "Gayle",
+      "address": "A1Vj4x2jnPWkrqWCqTmbgmhjyucqWQUpoLFeWcUcpump",
+      "price": 8.952732853907569e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T06:53:49+00:00",
+      "side": "buy",
+      "symbol": "INCOCKNITO",
+      "address": "F5ZreQu2b4Fhyt1MxbiDJ7hpKGTTvY1QKzL6hWyvpump",
+      "price": 1.1605078178264308e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T06:53:49+00:00",
+      "side": "buy",
+      "symbol": "incoginu",
+      "address": "72rLR8oFyNj4m7TwRojpfDpvWKryZBWUo7oD7fDLpump",
+      "price": 6.08411194187785e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T06:53:49+00:00",
+      "side": "buy",
+      "symbol": "incoginu",
+      "address": "Ew9tTeuNLTNTd1eXXsZS9Z3vhBEZR8V3bDM85H6zpump",
+      "price": 9.140396342925799e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T06:53:49+00:00",
+      "side": "buy",
+      "symbol": "incoginu",
+      "address": "7dxGGfAMLJJqejqQ6EphVtkSGJHH9YHF4LK3pTLMpump",
+      "price": 1.1595830816908499e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6202,6 +6242,10 @@
     {
       "date": "2026-10-11T06:26:43+00:00",
       "equity": 5168889.79
+    },
+    {
+      "date": "2026-10-11T06:53:49+00:00",
+      "equity": 5168878.48
     }
   ]
 }
