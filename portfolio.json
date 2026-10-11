@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5167311.767164421,
+  "cash": 5167261.767164421,
   "positions": {
     "8vmrGdKrfuYm3aCq1DXWhvoAwj5XUVDm3Pf4RAdvpump": {
       "symbol": "Agent",
@@ -10,17 +10,18 @@
       "cost": 50.0,
       "entry_time": "2026-10-11T19:00:23+00:00",
       "missing": 0
+    },
+    "6UStsEAjK1bDWgFtfjv8UZ4dt6NV9vw9sdeHsdfKpump": {
+      "symbol": "plug",
+      "qty": 2759811.0129286633,
+      "entry_price": 1.7936010751501227e-05,
+      "last_price": 1.736227539848295e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T19:55:50+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T05:57:20+00:00",
-      "side": "buy",
-      "symbol": "BENNY",
-      "address": "DYVYLMYq3CcZk6GYiv1u5FiB6jA95yjD9c7Yifs5pump",
-      "price": 8.886499545275909e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T05:57:20+00:00",
       "side": "buy",
@@ -4514,6 +4515,14 @@
       "proceeds": 10.11,
       "pnl_usd": -39.89,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-11T19:55:50+00:00",
+      "side": "buy",
+      "symbol": "plug",
+      "address": "6UStsEAjK1bDWgFtfjv8UZ4dt6NV9vw9sdeHsdfKpump",
+      "price": 1.7936010751501227e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6372,6 +6381,10 @@
     {
       "date": "2026-10-11T19:39:56+00:00",
       "equity": 5167359.09
+    },
+    {
+      "date": "2026-10-11T19:55:50+00:00",
+      "equity": 5167357.01
     }
   ]
 }
