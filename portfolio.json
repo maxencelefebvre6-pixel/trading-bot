@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5168577.209442709,
+  "cash": 5168553.784832811,
   "positions": {
     "JE6ernFesVj2xtbDUELx1UdA7K3fDz5aXjSfrtu6pump": {
       "symbol": "ULTRA",
@@ -29,42 +29,26 @@
       "entry_time": "2026-10-11T01:44:11+00:00",
       "missing": 0
     },
-    "5DaRegSRG9SA3vnyiNwZCFHgTc4xiuG9rZTojH3fpump": {
-      "symbol": "fork",
-      "qty": 538778.1489393504,
-      "entry_price": 9.18745500303728e-05,
-      "last_price": 8.908410073807782e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-11T02:00:08+00:00",
-      "missing": 0
-    },
     "FNHmks5q4NTEx6fyJF4ayaDcvyhEjaAeCdVZK1QEpump": {
       "symbol": "DIHVAL",
       "qty": 5735848.975478244,
       "entry_price": 8.629934332584617e-06,
-      "last_price": 8.30957154568982e-06,
+      "last_price": 8.309571546e-06,
       "cost": 50.0,
       "entry_time": "2026-10-11T02:00:08+00:00",
+      "missing": 0
+    },
+    "BMVk311QUi8bRkyiUJH8jvofyNk5Qa9ydSzEpij6pump": {
+      "symbol": "$BWIZ",
+      "qty": 11957847.95359854,
+      "entry_price": 4.139540843141737e-06,
+      "last_price": 3.992668259753494e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-11T02:21:28+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-09T05:52:50+00:00",
-      "side": "buy",
-      "symbol": "Felipe",
-      "address": "AHqaLA2fUChB25o1V7R7mVpGuvCACdZUHLtNsfQhpump",
-      "price": 7.426163077077696e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-09T05:52:50+00:00",
-      "side": "buy",
-      "symbol": "Rune",
-      "address": "CgwweYm2DJ18mSPYW6owXrK27CEhvNonp3mCqz8Upump",
-      "price": 2.4689181883188913e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-09T06:14:58+00:00",
       "side": "sell",
@@ -4546,6 +4530,24 @@
       "address": "FNHmks5q4NTEx6fyJF4ayaDcvyhEjaAeCdVZK1QEpump",
       "price": 8.629934332584617e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-11T02:21:28+00:00",
+      "side": "sell",
+      "symbol": "fork",
+      "address": "5DaRegSRG9SA3vnyiNwZCFHgTc4xiuG9rZTojH3fpump",
+      "price": 9.964705673e-05,
+      "proceeds": 26.58,
+      "pnl_usd": -23.42,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-11T02:21:28+00:00",
+      "side": "buy",
+      "symbol": "$BWIZ",
+      "address": "BMVk311QUi8bRkyiUJH8jvofyNk5Qa9ydSzEpij6pump",
+      "price": 4.139540843141737e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6192,6 +6194,10 @@
     {
       "date": "2026-10-11T02:00:08+00:00",
       "equity": 5168820.79
+    },
+    {
+      "date": "2026-10-11T02:21:28+00:00",
+      "equity": 5168797.11
     }
   ]
 }
