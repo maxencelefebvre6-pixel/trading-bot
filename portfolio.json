@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5838145.205186229,
+  "cash": 5838053.572360986,
   "positions": {
-    "HbfBYCjegU2fzKBuiZpRcU9ZhTqDsLJaggy7L56Rpump": {
-      "symbol": "CYBER",
-      "qty": 2788516.430844159,
-      "entry_price": 1.7751374692461475e-05,
-      "last_price": 1.7130915871480663e-05,
+    "24VLtR1DCD8aszmepmtLZmHziSiWn6EnoaRmJBzipump": {
+      "symbol": "WJ",
+      "qty": 4120635.5077646095,
+      "entry_price": 1.2012710152772794e-05,
+      "last_price": 1.157346122538994e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T20:03:04+00:00",
+      "entry_time": "2026-10-12T20:27:25+00:00",
+      "missing": 0
+    },
+    "BmQYk8oLRD2ttSTCqxpZUoX9D5o9oh2VXixikeewpump": {
+      "symbol": "Walter",
+      "qty": 5606605.544779043,
+      "entry_price": 8.828871516758506e-06,
+      "last_price": 8.493733212341061e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T20:27:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T02:42:47+00:00",
-      "side": "sell",
-      "symbol": "$BWIZ",
-      "address": "BMVk311QUi8bRkyiUJH8jvofyNk5Qa9ydSzEpij6pump",
-      "price": 2.630430526e-06,
-      "proceeds": 29.71,
-      "pnl_usd": -20.29,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T02:42:48+00:00",
-      "side": "buy",
-      "symbol": "ARENA",
-      "address": "LyYYNy8WuH5Dc7jL5v8hvPWpysRZG9hQDT6Kohrpump",
-      "price": 8.855877741992534e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T02:42:48+00:00",
-      "side": "buy",
-      "symbol": "STUTUTU",
-      "address": "DCRAVSHVSVHqabZx6R8PtyijocYBkvqfjFPdaTsTpump",
-      "price": 8.926063497724e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T02:59:58+00:00",
       "side": "sell",
@@ -4514,6 +4497,32 @@
       "address": "HbfBYCjegU2fzKBuiZpRcU9ZhTqDsLJaggy7L56Rpump",
       "price": 1.7751374692461475e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T20:27:25+00:00",
+      "side": "sell",
+      "symbol": "CYBER",
+      "address": "HbfBYCjegU2fzKBuiZpRcU9ZhTqDsLJaggy7L56Rpump",
+      "price": 3.136251811e-06,
+      "proceeds": 8.37,
+      "pnl_usd": -41.63,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T20:27:25+00:00",
+      "side": "buy",
+      "symbol": "WJ",
+      "address": "24VLtR1DCD8aszmepmtLZmHziSiWn6EnoaRmJBzipump",
+      "price": 1.2012710152772794e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T20:27:25+00:00",
+      "side": "buy",
+      "symbol": "Walter",
+      "address": "BmQYk8oLRD2ttSTCqxpZUoX9D5o9oh2VXixikeewpump",
+      "price": 8.828871516758506e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6620,6 +6629,10 @@
     {
       "date": "2026-10-12T20:03:04+00:00",
       "equity": 5838192.98
+    },
+    {
+      "date": "2026-10-12T20:27:25+00:00",
+      "equity": 5838148.88
     }
   ]
 }
