@@ -1,71 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5534267.603301566,
+  "cash": 5534213.329681027,
   "positions": {
-    "8YszuxNXg82kicUakd24y2KrQHyosKDabqHopHtpump": {
-      "symbol": "Ahmed",
-      "qty": 2871666.2091219514,
-      "entry_price": 1.7237379415045336e-05,
-      "last_price": 1.663139056570804e-05,
+    "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump": {
+      "symbol": "TRILLIONS",
+      "qty": 1874032.7001674606,
+      "entry_price": 2.6413626611518975e-05,
+      "last_price": 2.5497685617990766e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T15:19:39+00:00",
+      "entry_time": "2026-10-12T15:44:05+00:00",
       "missing": 0
     },
-    "K8orhJJDDgie5rDuxKWLcadW6bJtPfXzWXBrXEwpump": {
-      "symbol": "DOT",
-      "qty": 502623.6528325505,
-      "entry_price": 9.848322839771125e-05,
-      "last_price": 9.542387039265338e-05,
+    "iZvWBda4jkBGiYPHQBGhEGFcXssFBbX7w4A2iBbpump": {
+      "symbol": "GOLDFISH",
+      "qty": 4395129.688718359,
+      "entry_price": 1.1262466299244615e-05,
+      "last_price": 1.085111919906538e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T15:19:39+00:00",
+      "entry_time": "2026-10-12T15:44:05+00:00",
+      "missing": 0
+    },
+    "FVwZpkW1WvyJhvfTcYoDceJ4jHcn24BvkfgACGP2pump": {
+      "symbol": "Chair",
+      "qty": 10079306.790085813,
+      "entry_price": 4.911052022812629e-06,
+      "last_price": 4.723423675391137e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T15:44:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T23:33:38+00:00",
-      "side": "sell",
-      "symbol": "STUTUTU",
-      "address": "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump",
-      "price": 8.248928073e-06,
-      "proceeds": 45.46,
-      "pnl_usd": -4.54,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T23:33:38+00:00",
-      "side": "sell",
-      "symbol": "MONY",
-      "address": "GRqo1UTUYAu9BvRGgXZEe7sHMnKQKTNHgExNiFqGpump",
-      "price": 3.307742276e-06,
-      "proceeds": 26.85,
-      "pnl_usd": -23.15,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T23:33:38+00:00",
-      "side": "buy",
-      "symbol": "$BOX",
-      "address": "9dj3YfNG8dQzPDATu7Ysp9CsDkCw974Mbc1EAkhepump",
-      "price": 1.187257493376521e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T23:50:18+00:00",
-      "side": "buy",
-      "symbol": "Ollie",
-      "address": "6Su3JytuXe1n95JM8TBMgQrwyXUT3kdmzKrgF99Dpump",
-      "price": 4.473485957822609e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T23:50:18+00:00",
-      "side": "buy",
-      "symbol": "CallCat",
-      "address": "3XfG8pjHiiw2Hi3eqzfvx9aifHNxwCsA4j4WMn7wpump",
-      "price": 8.807431258772217e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T23:50:18+00:00",
       "side": "buy",
@@ -4523,6 +4488,50 @@
       "address": "K8orhJJDDgie5rDuxKWLcadW6bJtPfXzWXBrXEwpump",
       "price": 9.848322839771125e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T15:44:05+00:00",
+      "side": "sell",
+      "symbol": "Ahmed",
+      "address": "8YszuxNXg82kicUakd24y2KrQHyosKDabqHopHtpump",
+      "price": 3.473338705e-05,
+      "proceeds": 94.75,
+      "pnl_usd": 44.75,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-12T15:44:05+00:00",
+      "side": "sell",
+      "symbol": "DOT",
+      "address": "K8orhJJDDgie5rDuxKWLcadW6bJtPfXzWXBrXEwpump",
+      "price": 2.022249916e-06,
+      "proceeds": 0.97,
+      "pnl_usd": -49.03,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T15:44:05+00:00",
+      "side": "buy",
+      "symbol": "TRILLIONS",
+      "address": "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump",
+      "price": 2.6413626611518975e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T15:44:05+00:00",
+      "side": "buy",
+      "symbol": "GOLDFISH",
+      "address": "iZvWBda4jkBGiYPHQBGhEGFcXssFBbX7w4A2iBbpump",
+      "price": 1.1262466299244615e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T15:44:05+00:00",
+      "side": "buy",
+      "symbol": "Chair",
+      "address": "FVwZpkW1WvyJhvfTcYoDceJ4jHcn24BvkfgACGP2pump",
+      "price": 4.911052022812629e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6577,6 +6586,10 @@
     {
       "date": "2026-10-12T15:19:39+00:00",
       "equity": 5534363.33
+    },
+    {
+      "date": "2026-10-12T15:44:05+00:00",
+      "equity": 5534356.41
     }
   ]
 }
