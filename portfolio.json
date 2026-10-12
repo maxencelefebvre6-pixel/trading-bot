@@ -1,66 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5166348.596425028,
+  "cash": 5166358.883298847,
   "positions": {
-    "ESVSm79ChcXxPJTQhVqycaJHdKsHJyzNqV6d9BZLpump": {
-      "symbol": "apelink",
-      "qty": 1074420.3209081774,
-      "entry_price": 4.607135497787219e-05,
-      "last_price": 4.4616388821812876e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T01:27:47+00:00",
-      "missing": 0
-    },
-    "ECH5gSTXFrBH6xcwRZQzeDs6Q3UdyNNTMLru1Eh3pump": {
-      "symbol": "WORLD",
-      "qty": 550497.9595528836,
-      "entry_price": 8.99185894171235e-05,
-      "last_price": 8.71873468841137e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T01:27:47+00:00",
-      "missing": 0
-    },
     "3qH3C2B5yRZtrn5oFFMhgs146X46J2aaKBFA3k4kpump": {
       "symbol": "CRMB",
       "qty": 5872692.600005951,
       "entry_price": 8.428842333744804e-06,
-      "last_price": 8.11215105014259e-06,
+      "last_price": 8.11215105e-06,
       "cost": 50.0,
       "entry_time": "2026-10-12T01:27:47+00:00",
+      "missing": 0
+    },
+    "9C4dq2W5YKxLaqiWpcXj73YWvjDA8dv9qbX9c5gHpump": {
+      "symbol": "SLOP",
+      "qty": 1094796.8863739767,
+      "entry_price": 4.521386625782845e-05,
+      "last_price": 4.378457074504368e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T01:52:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T10:37:23+00:00",
-      "side": "sell",
-      "symbol": "EMOTD",
-      "address": "H3ivribhXG6uMijqgiQgLVcXn3fcYnFrqCp1PMJNpump",
-      "price": 8.875382641e-06,
-      "proceeds": 45.47,
-      "pnl_usd": -4.53,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T10:37:23+00:00",
-      "side": "sell",
-      "symbol": "Jef",
-      "address": "7Zb1uebJQ6u2w8Uj5cwGv2NYUbo6PG3EcbJUsoLdpump",
-      "price": 0.0003380138085,
-      "proceeds": 94.07,
-      "pnl_usd": 44.07,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T10:37:23+00:00",
-      "side": "sell",
-      "symbol": "ALTERNET",
-      "address": "B1dkAA6ZhAmDDiwbBy5PW6tHBYnKGNs8rp1pA7Ftpump",
-      "price": 9.74691943e-05,
-      "proceeds": 27.22,
-      "pnl_usd": -22.78,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-10T10:37:23+00:00",
       "side": "sell",
@@ -4532,6 +4493,34 @@
       "address": "3qH3C2B5yRZtrn5oFFMhgs146X46J2aaKBFA3k4kpump",
       "price": 8.428842333744804e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T01:52:01+00:00",
+      "side": "sell",
+      "symbol": "apelink",
+      "address": "ESVSm79ChcXxPJTQhVqycaJHdKsHJyzNqV6d9BZLpump",
+      "price": 6.246303754e-05,
+      "proceeds": 33.22,
+      "pnl_usd": -16.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T01:52:01+00:00",
+      "side": "sell",
+      "symbol": "WORLD",
+      "address": "ECH5gSTXFrBH6xcwRZQzeDs6Q3UdyNNTMLru1Eh3pump",
+      "price": 9.932844708e-05,
+      "proceeds": 27.07,
+      "pnl_usd": -22.93,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T01:52:02+00:00",
+      "side": "buy",
+      "symbol": "SLOP",
+      "address": "9C4dq2W5YKxLaqiWpcXj73YWvjDA8dv9qbX9c5gHpump",
+      "price": 4.521386625782845e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6458,6 +6447,10 @@
     {
       "date": "2026-10-12T01:27:47+00:00",
       "equity": 5166492.17
+    },
+    {
+      "date": "2026-10-12T01:52:02+00:00",
+      "equity": 5166454.46
     }
   ]
 }
