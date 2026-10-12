@@ -1,89 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5471626.641632745,
+  "cash": 5474192.335776617,
   "positions": {
-    "8H3wifc88mYz6bxrWUhLR7ACYWnCY4mkU1txKRQpump": {
-      "symbol": "WOJDOG",
-      "qty": 15070446.372782392,
-      "entry_price": 3.2845742438922214e-06,
-      "last_price": 3.102077257e-06,
+    "HPBXqC7xDRi9STUMi6NpwtPgV7V5rhds9VMyLUydpump": {
+      "symbol": "COWE",
+      "qty": 560168.2719943044,
+      "entry_price": 8.836630433168e-05,
+      "last_price": 8.568054533870451e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T11:14:46+00:00",
+      "entry_time": "2026-10-12T12:45:39+00:00",
       "missing": 0
     },
-    "EbwxmEiXbSuZfPZTBZwFZLUaVy3DybSw1KbjtUXzpump": {
-      "symbol": "SPRITE",
-      "qty": 550199.5955314726,
-      "entry_price": 8.996735076147197e-05,
-      "last_price": 8.723407283092145e-05,
+    "AvyRjQtiLPHQRgKYKfKVtufreQ9LWzXriPVrTAXrpump": {
+      "symbol": "EXPMNT",
+      "qty": 5821773.327108701,
+      "entry_price": 8.502563947226619e-06,
+      "last_price": 8.179730034974776e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T12:03:31+00:00",
+      "entry_time": "2026-10-12T12:45:39+00:00",
+      "missing": 0
+    },
+    "2Uonc76ndC5kXMCE7inP3FLqE4S866L9bNMSQzzbpump": {
+      "symbol": "Snarket",
+      "qty": 5643373.282729403,
+      "entry_price": 8.771349602459657e-06,
+      "last_price": 8.434430636411397e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T12:45:39+00:00",
+      "missing": 0
+    },
+    "EuesDXRX4bkav2emZgBvmMxfxa1SXy6XQSLfcqobpump": {
+      "symbol": "PF",
+      "qty": 3061872.965601764,
+      "entry_price": 1.6166575346561295e-05,
+      "last_price": 1.5598248868154233e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T12:45:39+00:00",
+      "missing": 0
+    },
+    "FDvtqyQvcbWwg8AFAzqcipyoJMY7QtWfrkKVv9Vjpump": {
+      "symbol": "FOMOCAT",
+      "qty": 4169948.1408983553,
+      "entry_price": 1.1870651223335343e-05,
+      "last_price": 1.1478569926584814e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T12:45:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T20:13:45+00:00",
-      "side": "buy",
-      "symbol": "FACTORY",
-      "address": "2bZLrMxJ1Qp7eFy42gmpJV7kTygXYcob9c1DZYQWpump",
-      "price": 6.851935336547679e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T20:34:22+00:00",
-      "side": "sell",
-      "symbol": "IS",
-      "address": "ACgnKHrCngL32KJcyVa6U6TDgT4jjcZxr3SdiMa8pump",
-      "price": 1.248112312e-05,
-      "proceeds": 45.69,
-      "pnl_usd": -4.31,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T20:34:22+00:00",
-      "side": "sell",
-      "symbol": "Mayhem",
-      "address": "CxAFX95z6wsHfnKLrj2vbSD6wPTwxTq1XmrMBY1Kpump",
-      "price": 7.914256928e-06,
-      "proceeds": 45.41,
-      "pnl_usd": -4.59,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T20:34:22+00:00",
-      "side": "sell",
-      "symbol": "FACTORY",
-      "address": "2bZLrMxJ1Qp7eFy42gmpJV7kTygXYcob9c1DZYQWpump",
-      "price": 3.19627375e-06,
-      "proceeds": 21.96,
-      "pnl_usd": -28.04,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T20:34:22+00:00",
-      "side": "buy",
-      "symbol": "Muse AI",
-      "address": "rG5yfU78qNWttcuof74cjgkLUWxLH9PKx5iHK9bpump",
-      "price": 0.0003965044855242643,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T20:34:22+00:00",
-      "side": "buy",
-      "symbol": "DECAHEDRON",
-      "address": "Dwbwu5y15SYdC8pJ6yBRn6KBGGg8znhH9Qt73QiRpump",
-      "price": 1.3435402629686033e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T20:34:22+00:00",
-      "side": "buy",
-      "symbol": "DOOROC",
-      "address": "7ZyAbhHpa2Gimuq2wSss5dKr6R1mgh6S9LKazSXapump",
-      "price": 7.0903489076143184e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T20:52:20+00:00",
       "side": "sell",
@@ -4521,6 +4486,66 @@
       "address": "EbwxmEiXbSuZfPZTBZwFZLUaVy3DybSw1KbjtUXzpump",
       "price": 8.996735076147197e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T12:45:39+00:00",
+      "side": "sell",
+      "symbol": "WOJDOG",
+      "address": "8H3wifc88mYz6bxrWUhLR7ACYWnCY4mkU1txKRQpump",
+      "price": 3.102077257e-06,
+      "proceeds": 44.01,
+      "pnl_usd": -5.99,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T12:45:39+00:00",
+      "side": "sell",
+      "symbol": "SPRITE",
+      "address": "EbwxmEiXbSuZfPZTBZwFZLUaVy3DybSw1KbjtUXzpump",
+      "price": 0.01017694932,
+      "proceeds": 2771.68,
+      "pnl_usd": 2721.68,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T12:45:39+00:00",
+      "side": "buy",
+      "symbol": "COWE",
+      "address": "HPBXqC7xDRi9STUMi6NpwtPgV7V5rhds9VMyLUydpump",
+      "price": 8.836630433168e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T12:45:39+00:00",
+      "side": "buy",
+      "symbol": "EXPMNT",
+      "address": "AvyRjQtiLPHQRgKYKfKVtufreQ9LWzXriPVrTAXrpump",
+      "price": 8.502563947226619e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T12:45:39+00:00",
+      "side": "buy",
+      "symbol": "Snarket",
+      "address": "2Uonc76ndC5kXMCE7inP3FLqE4S866L9bNMSQzzbpump",
+      "price": 8.771349602459657e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T12:45:39+00:00",
+      "side": "buy",
+      "symbol": "PF",
+      "address": "EuesDXRX4bkav2emZgBvmMxfxa1SXy6XQSLfcqobpump",
+      "price": 1.6166575346561295e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T12:45:39+00:00",
+      "side": "buy",
+      "symbol": "FOMOCAT",
+      "address": "FDvtqyQvcbWwg8AFAzqcipyoJMY7QtWfrkKVv9Vjpump",
+      "price": 1.1870651223335343e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6551,6 +6576,10 @@
     {
       "date": "2026-10-12T12:03:31+00:00",
       "equity": 5471721.39
+    },
+    {
+      "date": "2026-10-12T12:45:39+00:00",
+      "equity": 5474431.18
     }
   ]
 }
