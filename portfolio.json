@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5838185.551894708,
-  "positions": {
-    "8sH2DFJipvwUZrQiqaDgbFvyRyzyUUFi1AWkoSZNpump": {
-      "symbol": "mcap",
-      "qty": 3067282.7978743976,
-      "entry_price": 1.6138062011857238e-05,
-      "last_price": 1.5563332021647057e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T19:24:47+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5838195.205186229,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-11T02:42:47+00:00",
-      "side": "sell",
-      "symbol": "ULTRA",
-      "address": "JE6ernFesVj2xtbDUELx1UdA7K3fDz5aXjSfrtu6pump",
-      "price": 9.573912347e-06,
-      "proceeds": 45.64,
-      "pnl_usd": -4.36,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T02:42:47+00:00",
       "side": "sell",
@@ -4516,6 +4496,16 @@
       "address": "8sH2DFJipvwUZrQiqaDgbFvyRyzyUUFi1AWkoSZNpump",
       "price": 1.6138062011857238e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T19:46:38+00:00",
+      "side": "sell",
+      "symbol": "mcap",
+      "address": "8sH2DFJipvwUZrQiqaDgbFvyRyzyUUFi1AWkoSZNpump",
+      "price": 3.290993407e-06,
+      "proceeds": 9.65,
+      "pnl_usd": -40.35,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6614,6 +6604,10 @@
     {
       "date": "2026-10-12T19:24:47+00:00",
       "equity": 5838233.29
+    },
+    {
+      "date": "2026-10-12T19:46:38+00:00",
+      "equity": 5838195.21
     }
   ]
 }
