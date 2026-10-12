@@ -1,71 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5166476.388504494,
+  "cash": 5166348.596425028,
   "positions": {
-    "DwsRdjrkr5jni2K2yXKoXVyBVCCjuUVwSPPnvKb8pump": {
-      "symbol": "Meerkat",
-      "qty": 3794777.5182297016,
-      "entry_price": 1.3044242979254343e-05,
-      "last_price": 1.254467588949906e-05,
+    "ESVSm79ChcXxPJTQhVqycaJHdKsHJyzNqV6d9BZLpump": {
+      "symbol": "apelink",
+      "qty": 1074420.3209081774,
+      "entry_price": 4.607135497787219e-05,
+      "last_price": 4.4616388821812876e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T01:03:24+00:00",
+      "entry_time": "2026-10-12T01:27:47+00:00",
       "missing": 0
     },
-    "EKANHgtCSyQNEJmXtAx1A72QmgUaDFXNMGYw5jwKpump": {
-      "symbol": "Seymour",
-      "qty": 3602896.5732470197,
-      "entry_price": 1.3738945593819634e-05,
-      "last_price": 1.3237082066465084e-05,
+    "ECH5gSTXFrBH6xcwRZQzeDs6Q3UdyNNTMLru1Eh3pump": {
+      "symbol": "WORLD",
+      "qty": 550497.9595528836,
+      "entry_price": 8.99185894171235e-05,
+      "last_price": 8.71873468841137e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T01:03:24+00:00",
+      "entry_time": "2026-10-12T01:27:47+00:00",
+      "missing": 0
+    },
+    "3qH3C2B5yRZtrn5oFFMhgs146X46J2aaKBFA3k4kpump": {
+      "symbol": "CRMB",
+      "qty": 5872692.600005951,
+      "entry_price": 8.428842333744804e-06,
+      "last_price": 8.11215105014259e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T01:27:47+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T10:18:34+00:00",
-      "side": "sell",
-      "symbol": "MEGANFOX",
-      "address": "6Jy4euX2WpGDFQ7fYAxTJ4bBPNrKHRoBf7588g3Cpump",
-      "price": 0.0002100015299,
-      "proceeds": 929.78,
-      "pnl_usd": 879.78,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-10T10:18:34+00:00",
-      "side": "buy",
-      "symbol": "Jef",
-      "address": "7Zb1uebJQ6u2w8Uj5cwGv2NYUbo6PG3EcbJUsoLdpump",
-      "price": 8.804598142161588e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T10:18:34+00:00",
-      "side": "buy",
-      "symbol": "ALTERNET",
-      "address": "B1dkAA6ZhAmDDiwbBy5PW6tHBYnKGNs8rp1pA7Ftpump",
-      "price": 8.77316531398106e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T10:18:34+00:00",
-      "side": "buy",
-      "symbol": "UP",
-      "address": "GYoUNE2kz7SMkjQhCFNy4VzNvu9P4VfyMU2ccayzpump",
-      "price": 4.51893246666883e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T10:37:23+00:00",
-      "side": "sell",
-      "symbol": "PUMP",
-      "address": "5z1Sb14bCC3G6n4SfdXvNaRb3A5nV26Na3nAALAapump",
-      "price": 1.718567863e-05,
-      "proceeds": 45.79,
-      "pnl_usd": -4.21,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-10T10:37:23+00:00",
       "side": "sell",
@@ -4523,6 +4488,50 @@
       "address": "EKANHgtCSyQNEJmXtAx1A72QmgUaDFXNMGYw5jwKpump",
       "price": 1.3738945593819634e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T01:27:47+00:00",
+      "side": "sell",
+      "symbol": "Meerkat",
+      "address": "DwsRdjrkr5jni2K2yXKoXVyBVCCjuUVwSPPnvKb8pump",
+      "price": 3.177987995e-06,
+      "proceeds": 11.52,
+      "pnl_usd": -38.48,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T01:27:47+00:00",
+      "side": "sell",
+      "symbol": "Seymour",
+      "address": "EKANHgtCSyQNEJmXtAx1A72QmgUaDFXNMGYw5jwKpump",
+      "price": 3.10287136e-06,
+      "proceeds": 10.68,
+      "pnl_usd": -39.32,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T01:27:47+00:00",
+      "side": "buy",
+      "symbol": "apelink",
+      "address": "ESVSm79ChcXxPJTQhVqycaJHdKsHJyzNqV6d9BZLpump",
+      "price": 4.607135497787219e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T01:27:47+00:00",
+      "side": "buy",
+      "symbol": "WORLD",
+      "address": "ECH5gSTXFrBH6xcwRZQzeDs6Q3UdyNNTMLru1Eh3pump",
+      "price": 8.99185894171235e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T01:27:47+00:00",
+      "side": "buy",
+      "symbol": "CRMB",
+      "address": "3qH3C2B5yRZtrn5oFFMhgs146X46J2aaKBFA3k4kpump",
+      "price": 8.428842333744804e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6445,6 +6454,10 @@
     {
       "date": "2026-10-12T01:03:24+00:00",
       "equity": 5166571.68
+    },
+    {
+      "date": "2026-10-12T01:27:47+00:00",
+      "equity": 5166492.17
     }
   ]
 }
