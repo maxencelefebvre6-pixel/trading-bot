@@ -1,65 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5166004.660040572,
+  "cash": 5165969.2016206365,
   "positions": {
-    "5bGVsnEd7BsomcZTp3ZGBKNv3w6CMRkJcFyWxNgwpump": {
-      "symbol": "Sirius",
-      "qty": 4657113.079970185,
-      "entry_price": 1.0628902315663099e-05,
-      "last_price": 1.0237709818417496e-05,
+    "HUQGcUPvyWcxC9eczfE5hXxU4h86JtGrBUipnCdupump": {
+      "symbol": "Meowsterious",
+      "qty": 4542787.490822492,
+      "entry_price": 1.0896393480875285e-05,
+      "last_price": 1.049037891913029e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T05:18:33+00:00",
+      "entry_time": "2026-10-12T05:41:25+00:00",
       "missing": 0
     },
-    "73T3gNkXG54v9hfetw1HiE8gpCU7EXB19fYjPv5pump": {
-      "symbol": "Crypto",
-      "qty": 3681221.430982526,
-      "entry_price": 1.3446623879614963e-05,
-      "last_price": 1.2963739377533673e-05,
+    "8fycqa7PjbxHfYdWSTxvYGtqMwTbFkUwn11mM4TEpump": {
+      "symbol": "DB",
+      "qty": 6362812.254448358,
+      "entry_price": 7.779578906385875e-06,
+      "last_price": 7.488051015248496e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T05:18:33+00:00",
+      "entry_time": "2026-10-12T05:41:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T14:25:11+00:00",
-      "side": "sell",
-      "symbol": "GTA7",
-      "address": "6XakUE7Erhsdq6Um2Xr4v4nus7DXQE9e143NKrEgpump",
-      "price": 1.973022247e-06,
-      "proceeds": 0.2,
-      "pnl_usd": -49.8,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T14:25:11+00:00",
-      "side": "sell",
-      "symbol": "MALLY",
-      "address": "9gdyt6JXZ1f5U74tYDXiEFQfvgnPv8wkJALAeYbpump",
-      "price": 3.125088817e-06,
-      "proceeds": 14.41,
-      "pnl_usd": -35.59,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T14:25:11+00:00",
-      "side": "sell",
-      "symbol": "Octopus🐙",
-      "address": "8JoYNjf4ZknGqVBwqo6QQ6MyMi7emVt4XkpP8PBdpump",
-      "price": 3.937745379e-05,
-      "proceeds": 42.36,
-      "pnl_usd": -7.64,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T14:25:11+00:00",
-      "side": "buy",
-      "symbol": "SARP",
-      "address": "XJ5V7PNjzSFRAHwx72nm7eQ6VFnx7oZJDspK4n6pump",
-      "price": 0.06052114289597612,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T14:59:12+00:00",
       "side": "buy",
@@ -4525,6 +4487,42 @@
       "address": "73T3gNkXG54v9hfetw1HiE8gpCU7EXB19fYjPv5pump",
       "price": 1.3446623879614963e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T05:41:25+00:00",
+      "side": "sell",
+      "symbol": "Sirius",
+      "address": "5bGVsnEd7BsomcZTp3ZGBKNv3w6CMRkJcFyWxNgwpump",
+      "price": 5.549643312e-06,
+      "proceeds": 24.59,
+      "pnl_usd": -25.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T05:41:25+00:00",
+      "side": "sell",
+      "symbol": "Crypto",
+      "address": "73T3gNkXG54v9hfetw1HiE8gpCU7EXB19fYjPv5pump",
+      "price": 1.146060022e-05,
+      "proceeds": 39.95,
+      "pnl_usd": -10.05,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T05:41:25+00:00",
+      "side": "buy",
+      "symbol": "Meowsterious",
+      "address": "HUQGcUPvyWcxC9eczfE5hXxU4h86JtGrBUipnCdupump",
+      "price": 1.0896393480875285e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T05:41:25+00:00",
+      "side": "buy",
+      "symbol": "DB",
+      "address": "8fycqa7PjbxHfYdWSTxvYGtqMwTbFkUwn11mM4TEpump",
+      "price": 7.779578906385875e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6491,6 +6489,10 @@
     {
       "date": "2026-10-12T05:18:33+00:00",
       "equity": 5166100.06
+    },
+    {
+      "date": "2026-10-12T05:41:25+00:00",
+      "equity": 5166064.5
     }
   ]
 }
