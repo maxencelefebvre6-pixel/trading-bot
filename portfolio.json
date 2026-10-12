@@ -1,42 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5166051.783405921,
+  "cash": 5166004.660040572,
   "positions": {
-    "BYWXrSHHqW6EmbCtFwkwMW14Ham4dSFHy2789hNjpump": {
-      "symbol": "SLUDGE",
-      "qty": 547988.8830850866,
-      "entry_price": 9.033029962455298e-05,
-      "last_price": 8.75877255544892e-05,
+    "5bGVsnEd7BsomcZTp3ZGBKNv3w6CMRkJcFyWxNgwpump": {
+      "symbol": "Sirius",
+      "qty": 4657113.079970185,
+      "entry_price": 1.0628902315663099e-05,
+      "last_price": 1.0237709818417496e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T04:55:39+00:00",
+      "entry_time": "2026-10-12T05:18:33+00:00",
+      "missing": 0
+    },
+    "73T3gNkXG54v9hfetw1HiE8gpCU7EXB19fYjPv5pump": {
+      "symbol": "Crypto",
+      "qty": 3681221.430982526,
+      "entry_price": 1.3446623879614963e-05,
+      "last_price": 1.2963739377533673e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T05:18:33+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T14:05:34+00:00",
-      "side": "buy",
-      "symbol": "FUN",
-      "address": "J2Kr4gfi4JQH7FPZLmKxFo4xqb6UnV5XcUEEEJqhpump",
-      "price": 3.531161454529279e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T14:05:34+00:00",
-      "side": "buy",
-      "symbol": "BRAINROT",
-      "address": "8Py1ZQcHUWvj7i48W1WBBiTgqbEZ4P4oj3Ettu1qpump",
-      "price": 3.842084435949167e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T14:05:34+00:00",
-      "side": "buy",
-      "symbol": "BRAINROT",
-      "address": "HpZ9W4jUSg6UJApWVNgqN7Q1pKNZQWNrqceSr8DSpump",
-      "price": 9.421375854798545e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T14:25:11+00:00",
       "side": "sell",
@@ -4514,6 +4499,32 @@
       "address": "BYWXrSHHqW6EmbCtFwkwMW14Ham4dSFHy2789hNjpump",
       "price": 9.033029962455298e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T05:18:33+00:00",
+      "side": "sell",
+      "symbol": "SLUDGE",
+      "address": "BYWXrSHHqW6EmbCtFwkwMW14Ham4dSFHy2789hNjpump",
+      "price": 0.000100762559,
+      "proceeds": 52.88,
+      "pnl_usd": 2.88,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-12T05:18:33+00:00",
+      "side": "buy",
+      "symbol": "Sirius",
+      "address": "5bGVsnEd7BsomcZTp3ZGBKNv3w6CMRkJcFyWxNgwpump",
+      "price": 1.0628902315663099e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T05:18:33+00:00",
+      "side": "buy",
+      "symbol": "Crypto",
+      "address": "73T3gNkXG54v9hfetw1HiE8gpCU7EXB19fYjPv5pump",
+      "price": 1.3446623879614963e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6476,6 +6487,10 @@
     {
       "date": "2026-10-12T04:55:39+00:00",
       "equity": 5166099.78
+    },
+    {
+      "date": "2026-10-12T05:18:33+00:00",
+      "equity": 5166100.06
     }
   ]
 }
