@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5838179.602519971,
+  "cash": 5838185.551894708,
   "positions": {
-    "ABFbigWTYeogXFyFqYWsLoKn87dMqUu9M6KtN7uBpump": {
-      "symbol": "MarsX",
-      "qty": 572829.5676052247,
-      "entry_price": 8.641313716912353e-05,
-      "last_price": 9.014286525e-05,
+    "8sH2DFJipvwUZrQiqaDgbFvyRyzyUUFi1AWkoSZNpump": {
+      "symbol": "mcap",
+      "qty": 3067282.7978743976,
+      "entry_price": 1.6138062011857238e-05,
+      "last_price": 1.5563332021647057e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T18:11:48+00:00",
-      "missing": 0
-    },
-    "BxmjAzhoyUgkHKRk4yxSuqcutMgpqR9y2ujPs969pump": {
-      "symbol": "💸",
-      "qty": 30868931.568022456,
-      "entry_price": 1.6035540423847297e-06,
-      "last_price": 1.5437389827366306e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T19:02:36+00:00",
+      "entry_time": "2026-10-12T19:24:47+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T02:00:08+00:00",
-      "side": "buy",
-      "symbol": "DIHVAL",
-      "address": "FNHmks5q4NTEx6fyJF4ayaDcvyhEjaAeCdVZK1QEpump",
-      "price": 8.629934332584617e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T02:21:28+00:00",
-      "side": "sell",
-      "symbol": "fork",
-      "address": "5DaRegSRG9SA3vnyiNwZCFHgTc4xiuG9rZTojH3fpump",
-      "price": 9.964705673e-05,
-      "proceeds": 26.58,
-      "pnl_usd": -23.42,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T02:21:28+00:00",
-      "side": "buy",
-      "symbol": "$BWIZ",
-      "address": "BMVk311QUi8bRkyiUJH8jvofyNk5Qa9ydSzEpij6pump",
-      "price": 4.139540843141737e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T02:42:47+00:00",
       "side": "sell",
@@ -4523,6 +4488,34 @@
       "address": "BxmjAzhoyUgkHKRk4yxSuqcutMgpqR9y2ujPs969pump",
       "price": 1.6035540423847297e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T19:24:47+00:00",
+      "side": "sell",
+      "symbol": "MarsX",
+      "address": "ABFbigWTYeogXFyFqYWsLoKn87dMqUu9M6KtN7uBpump",
+      "price": 9.014286525e-05,
+      "proceeds": 49.45,
+      "pnl_usd": -0.55,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T19:24:47+00:00",
+      "side": "sell",
+      "symbol": "💸",
+      "address": "BxmjAzhoyUgkHKRk4yxSuqcutMgpqR9y2ujPs969pump",
+      "price": 2.267158069e-07,
+      "proceeds": 6.5,
+      "pnl_usd": -43.5,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T19:24:47+00:00",
+      "side": "buy",
+      "symbol": "mcap",
+      "address": "8sH2DFJipvwUZrQiqaDgbFvyRyzyUUFi1AWkoSZNpump",
+      "price": 1.6138062011857238e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6617,6 +6610,10 @@
     {
       "date": "2026-10-12T19:02:36+00:00",
       "equity": 5838278.89
+    },
+    {
+      "date": "2026-10-12T19:24:47+00:00",
+      "equity": 5838233.29
     }
   ]
 }
