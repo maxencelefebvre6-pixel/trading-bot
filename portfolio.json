@@ -1,117 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5166162.634327062,
+  "cash": 5166060.724602506,
   "positions": {
-    "8fycqa7PjbxHfYdWSTxvYGtqMwTbFkUwn11mM4TEpump": {
-      "symbol": "DB",
-      "qty": 6362812.254448358,
-      "entry_price": 7.779578906385875e-06,
-      "last_price": 7.516120641e-06,
+    "DpfZMb7HDiadhKg1f7wp6aGCtVx7hUUaf9LydHnVpump": {
+      "symbol": "UNTAXD",
+      "qty": 544428.3544562291,
+      "entry_price": 9.092105434045627e-05,
+      "last_price": 8.816052722309817e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T05:41:25+00:00",
+      "entry_time": "2026-10-12T07:06:42+00:00",
       "missing": 0
     },
-    "BAsYLUMUetzDYuN2SvxiNd3E6yp6UyEKTyJrix88pump": {
-      "symbol": "DOGCOIN",
-      "qty": 544634.1883458806,
-      "entry_price": 9.0886692497835e-05,
-      "last_price": 8.812695691815751e-05,
+    "YT6QrPxqhM1YcvY4s3zHGgKojX7xLLCBBvg2s3Zpump": {
+      "symbol": "Robinhood",
+      "qty": 205332.82230301594,
+      "entry_price": 0.00024107202854763927,
+      "last_price": 0.0002337639561139612,
       "cost": 50.0,
-      "entry_time": "2026-10-12T06:34:25+00:00",
+      "entry_time": "2026-10-12T07:06:42+00:00",
       "missing": 0
     },
-    "Gi67XiF32Uu5ahe8v55Gpg6yYFV5d2Rbpi91NJ7Zpump": {
-      "symbol": "CYBERLEEK",
-      "qty": 541536.9394135075,
-      "entry_price": 9.140650692011745e-05,
-      "last_price": 8.863122205468466e-05,
+    "FUPMSH9ALDBBjTxoa9rG565DQtWHzNsvGkRBSq5dpump": {
+      "symbol": "$GOAT",
+      "qty": 7359284.597454662,
+      "entry_price": 6.72619727427316e-06,
+      "last_price": 6.46781043927687e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T06:34:25+00:00",
+      "entry_time": "2026-10-12T07:06:42+00:00",
       "missing": 0
     },
-    "4bhjh3ZBVzvC7fhU1buA1Au5u8dbLBAStLPywHSjpump": {
-      "symbol": "SI",
-      "qty": 5385300.184138439,
-      "entry_price": 9.191688171031677e-06,
-      "last_price": 8.84904422634179e-06,
+    "4RvtNWmETb3ksffkRn3dpPFtaFRVBNQDvGs69hmppump": {
+      "symbol": "trench",
+      "qty": 6524469.442754256,
+      "entry_price": 7.586823792235273e-06,
+      "last_price": 7.304317284469302e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T06:34:25+00:00",
+      "entry_time": "2026-10-12T07:06:42+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T15:19:44+00:00",
-      "side": "sell",
-      "symbol": "BRAINROT",
-      "address": "HpZ9W4jUSg6UJApWVNgqN7Q1pKNZQWNrqceSr8DSpump",
-      "price": 9.084281571e-06,
-      "proceeds": 45.51,
-      "pnl_usd": -4.49,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T15:19:44+00:00",
-      "side": "sell",
-      "symbol": "Felix",
-      "address": "J6vUmbTFJ15gZjg1Hk1GYGCW9Dgx9kfcX8mSm8Fqpump",
-      "price": 5.02345612e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T15:19:44+00:00",
-      "side": "buy",
-      "symbol": "STUTUTU",
-      "address": "8qreXe4qU1xdtZTYFH5s7haDrm9XicT7pm8jAd45pump",
-      "price": 9.657538688500144e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T15:39:04+00:00",
-      "side": "sell",
-      "symbol": "SARP",
-      "address": "XJ5V7PNjzSFRAHwx72nm7eQ6VFnx7oZJDspK4n6pump",
-      "price": 0.06313098206,
-      "proceeds": 49.58,
-      "pnl_usd": -0.42,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T15:39:04+00:00",
-      "side": "buy",
-      "symbol": "Tschuna",
-      "address": "HvghoXFyd24CuucNSAEb62dRQA2Dnsy3yT9ozoNTpump",
-      "price": 8.830363783676845e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T15:55:26+00:00",
-      "side": "sell",
-      "symbol": "Tschuna",
-      "address": "HvghoXFyd24CuucNSAEb62dRQA2Dnsy3yT9ozoNTpump",
-      "price": 2.1784998069,
-      "proceeds": 604490.29,
-      "pnl_usd": 604440.29,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T15:55:26+00:00",
-      "side": "buy",
-      "symbol": "resolve",
-      "address": "DvMJy1mKQ82iH4fh4smVpJktumLXDkYeUSz3QFUvpump",
-      "price": 1.9261089365715102e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T15:55:26+00:00",
-      "side": "buy",
-      "symbol": "ai;dr",
-      "address": "3LVo2XxnDhx3Tkh7kXaxw1UrkEsCpiTcW1VGr8etpump",
-      "price": 8.472534171900868e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T15:55:26+00:00",
       "side": "buy",
@@ -4541,6 +4469,78 @@
       "address": "4bhjh3ZBVzvC7fhU1buA1Au5u8dbLBAStLPywHSjpump",
       "price": 9.191688171031677e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "side": "sell",
+      "symbol": "DB",
+      "address": "8fycqa7PjbxHfYdWSTxvYGtqMwTbFkUwn11mM4TEpump",
+      "price": 7.516120641e-06,
+      "proceeds": 45.52,
+      "pnl_usd": -4.48,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "side": "sell",
+      "symbol": "DOGCOIN",
+      "address": "BAsYLUMUetzDYuN2SvxiNd3E6yp6UyEKTyJrix88pump",
+      "price": 5.09317221e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "side": "sell",
+      "symbol": "CYBERLEEK",
+      "address": "Gi67XiF32Uu5ahe8v55Gpg6yYFV5d2Rbpi91NJ7Zpump",
+      "price": 0.0001027054956,
+      "proceeds": 27.53,
+      "pnl_usd": -22.47,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "side": "sell",
+      "symbol": "SI",
+      "address": "4bhjh3ZBVzvC7fhU1buA1Au5u8dbLBAStLPywHSjpump",
+      "price": 4.887786071e-06,
+      "proceeds": 25.04,
+      "pnl_usd": -24.96,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "side": "buy",
+      "symbol": "UNTAXD",
+      "address": "DpfZMb7HDiadhKg1f7wp6aGCtVx7hUUaf9LydHnVpump",
+      "price": 9.092105434045627e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "side": "buy",
+      "symbol": "Robinhood",
+      "address": "YT6QrPxqhM1YcvY4s3zHGgKojX7xLLCBBvg2s3Zpump",
+      "price": 0.00024107202854763927,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "side": "buy",
+      "symbol": "$GOAT",
+      "address": "FUPMSH9ALDBBjTxoa9rG565DQtWHzNsvGkRBSq5dpump",
+      "price": 6.72619727427316e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "side": "buy",
+      "symbol": "trench",
+      "address": "4RvtNWmETb3ksffkRn3dpPFtaFRVBNQDvGs69hmppump",
+      "price": 7.586823792235273e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6519,6 +6519,10 @@
     {
       "date": "2026-10-12T06:34:25+00:00",
       "equity": 5166354.11
+    },
+    {
+      "date": "2026-10-12T07:06:42+00:00",
+      "equity": 5166251.98
     }
   ]
 }
