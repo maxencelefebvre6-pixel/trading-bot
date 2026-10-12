@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5414740.269093895,
+  "cash": 5414845.900459201,
   "positions": {
-    "CNJtNzHhmLpt1kTjWUCnE58TPXVQPbf4stYGjVdkpump": {
-      "symbol": "Solamians",
-      "qty": 2978.881355693988,
-      "entry_price": 0.016616976001875044,
-      "last_price": 0.01607379924,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T07:34:52+00:00",
-      "missing": 0
-    },
-    "7chmdwnxmS6hs6xh8LBxaR9FKFLXquTEftJU9JDXpump": {
-      "symbol": "LMAO",
-      "qty": 2779490.7688226565,
-      "entry_price": 1.780901759244458e-05,
-      "last_price": 1.67103472e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T07:34:52+00:00",
-      "missing": 0
-    },
     "5hdHC2svpp76P3rwFNUkgk1Ch4f3dy8REZrSZAEtpump": {
       "symbol": "DOPEBAT",
       "qty": 543814.3118478421,
@@ -29,99 +11,44 @@
       "entry_time": "2026-10-12T07:59:33+00:00",
       "missing": 0
     },
-    "Cx1r6yQQh2sTHTeopQQmu1sBMFA8WMBmamtnEja5pump": {
-      "symbol": "Gem",
-      "qty": 547918.6983383807,
-      "entry_price": 9.034187033608052e-05,
-      "last_price": 8.759798533236859e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T08:27:10+00:00",
-      "missing": 0
-    },
-    "39fzweMMY4DRAgBQN61jbMGRoa2RBFTjAY3Vg95Epump": {
-      "symbol": "Ploy",
-      "qty": 1714719.6167804317,
-      "entry_price": 2.886769330425082e-05,
-      "last_price": 2.7877404371187828e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T08:27:10+00:00",
-      "missing": 0
-    },
     "6cWpWhr2sD3RhMKgB2Perw15J2WTL7UkkU48UkeKpump": {
       "symbol": "SXSN",
       "qty": 7392354.1304056905,
       "entry_price": 6.6961077793067594e-06,
-      "last_price": 6.439371567626138e-06,
+      "last_price": 6.714969346e-06,
       "cost": 50.0,
       "entry_time": "2026-10-12T08:27:10+00:00",
+      "missing": 0
+    },
+    "3MJjuxQUZ7KH8Ju4GtkDReCdU4gquqEkQxb6vXqqpump": {
+      "symbol": "CYBERALON",
+      "qty": 714474.5517493454,
+      "entry_price": 6.928168383156882e-05,
+      "last_price": 6.713155907659325e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T08:53:45+00:00",
+      "missing": 0
+    },
+    "EovafKh6c41Znh3CBESatFWQk9cwmZu2kASifX3Dpump": {
+      "symbol": "34%",
+      "qty": 5080585.176885619,
+      "entry_price": 9.74297217281245e-06,
+      "last_price": 9.39757526863219e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T08:53:45+00:00",
+      "missing": 0
+    },
+    "Cj1dwCKPyfBnKmUsb3FyGgJvKDvKCVu1piSEeAJLpump": {
+      "symbol": "34%",
+      "qty": 3304677.267183741,
+      "entry_price": 1.4978769785342486e-05,
+      "last_price": 1.4480111436278427e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T08:53:45+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T17:29:32+00:00",
-      "side": "buy",
-      "symbol": "altAI",
-      "address": "3h27PDdy7VAVqiRQo8UEsMBE4Yyv7r2hyzrhZDoFpump",
-      "price": 1.1084848131547938e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T17:47:07+00:00",
-      "side": "sell",
-      "symbol": "altAI",
-      "address": "3h27PDdy7VAVqiRQo8UEsMBE4Yyv7r2hyzrhZDoFpump",
-      "price": 3.397856607e-06,
-      "proceeds": 14.48,
-      "pnl_usd": -35.52,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T17:47:07+00:00",
-      "side": "buy",
-      "symbol": "PEPEBRUH",
-      "address": "5NB7harxbhVD5n48TZkdKtf4fidMHeeEVrjVLjN3pump",
-      "price": 8.450858112540699e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T17:59:48+00:00",
-      "side": "sell",
-      "symbol": "SOOTS",
-      "address": "ANV36v1XcpmcBWPyJwK9pStz9owouPdvm6AmxMjepump",
-      "price": 1.375648117e-05,
-      "proceeds": 45.76,
-      "pnl_usd": -4.24,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T17:59:48+00:00",
-      "side": "sell",
-      "symbol": "PEPEBRUH",
-      "address": "5NB7harxbhVD5n48TZkdKtf4fidMHeeEVrjVLjN3pump",
-      "price": 0.0001434705735,
-      "proceeds": 80.31,
-      "pnl_usd": 30.31,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-10T17:59:48+00:00",
-      "side": "buy",
-      "symbol": "DOGE PAID",
-      "address": "HbnuMuwVghC7XYF9hP1CBNNCs15DLu8o3hbYR5QKpump",
-      "price": 7.531798992169376e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T18:23:27+00:00",
-      "side": "sell",
-      "symbol": "DOGE PAID",
-      "address": "HbnuMuwVghC7XYF9hP1CBNNCs15DLu8o3hbYR5QKpump",
-      "price": 1.948670054e-07,
-      "proceeds": 1.22,
-      "pnl_usd": -48.78,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-10T18:23:27+00:00",
       "side": "buy",
@@ -4553,6 +4480,70 @@
       "address": "6cWpWhr2sD3RhMKgB2Perw15J2WTL7UkkU48UkeKpump",
       "price": 6.6961077793067594e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T08:53:45+00:00",
+      "side": "sell",
+      "symbol": "Solamians",
+      "address": "CNJtNzHhmLpt1kTjWUCnE58TPXVQPbf4stYGjVdkpump",
+      "price": 0.01623138326,
+      "proceeds": 46.42,
+      "pnl_usd": -3.58,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T08:53:45+00:00",
+      "side": "sell",
+      "symbol": "LMAO",
+      "address": "7chmdwnxmS6hs6xh8LBxaR9FKFLXquTEftJU9JDXpump",
+      "price": 1.67103472e-05,
+      "proceeds": 44.43,
+      "pnl_usd": -5.57,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T08:53:45+00:00",
+      "side": "sell",
+      "symbol": "Gem",
+      "address": "Cx1r6yQQh2sTHTeopQQmu1sBMFA8WMBmamtnEja5pump",
+      "price": 5.077129861e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T08:53:45+00:00",
+      "side": "sell",
+      "symbol": "Ploy",
+      "address": "39fzweMMY4DRAgBQN61jbMGRoa2RBFTjAY3Vg95Epump",
+      "price": 0.0001011783009,
+      "proceeds": 164.78,
+      "pnl_usd": 114.78,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-12T08:53:45+00:00",
+      "side": "buy",
+      "symbol": "CYBERALON",
+      "address": "3MJjuxQUZ7KH8Ju4GtkDReCdU4gquqEkQxb6vXqqpump",
+      "price": 6.928168383156882e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T08:53:45+00:00",
+      "side": "buy",
+      "symbol": "34%",
+      "address": "EovafKh6c41Znh3CBESatFWQk9cwmZu2kASifX3Dpump",
+      "price": 9.74297217281245e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T08:53:45+00:00",
+      "side": "buy",
+      "symbol": "34%",
+      "address": "Cj1dwCKPyfBnKmUsb3FyGgJvKDvKCVu1piSEeAJLpump",
+      "price": 1.4978769785342486e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6547,6 +6538,10 @@
     {
       "date": "2026-10-12T08:27:10+00:00",
       "equity": 5415029.99
+    },
+    {
+      "date": "2026-10-12T08:53:45+00:00",
+      "equity": 5415091.1
     }
   ]
 }
