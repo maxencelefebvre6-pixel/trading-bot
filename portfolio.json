@@ -1,65 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5165890.75753447,
+  "cash": 5166028.839198611,
   "positions": {
-    "CLRRv56HZtxa2Z5jaDYpxmHJTeQmNs7SBhospGiZpump": {
-      "symbol": "calling",
-      "qty": 510981.0705743546,
-      "entry_price": 9.68724730729474e-05,
-      "last_price": 9.393430114055932e-05,
+    "QihfA2XW9UP33VFwS1jDtABaehAyHxjNkQmcAvtpump": {
+      "symbol": "GI",
+      "qty": 547637.948882632,
+      "entry_price": 9.038818456791912e-05,
+      "last_price": 8.764304736556431e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T04:05:25+00:00",
+      "entry_time": "2026-10-12T04:30:38+00:00",
       "missing": 0
     },
-    "HyAFqotQ89hQymtX3T1SYUp2C9yo7Vbf6WUfvbpBpump": {
-      "symbol": "GI",
-      "qty": 2554078.3908613333,
-      "entry_price": 1.9380767707488686e-05,
-      "last_price": 1.870396334461084e-05,
+    "4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump": {
+      "symbol": "GOD",
+      "qty": 5118090.8885452505,
+      "entry_price": 9.671575022394673e-06,
+      "last_price": 9.299733912470962e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T04:05:25+00:00",
+      "entry_time": "2026-10-12T04:30:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T13:50:51+00:00",
-      "side": "buy",
-      "symbol": "sol",
-      "address": "3U55FRs2ZuCP6JotQzn7d2W76Z4jGRVsNDzvbNtqpump",
-      "price": 1.4612464924018803e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T14:05:33+00:00",
-      "side": "sell",
-      "symbol": "patryczek",
-      "address": "4EzM6cdSXvcVpyvFaNu6PNj2U9s88Y6NjjvyGnCEpump",
-      "price": 0.0001036091312,
-      "proceeds": 28.62,
-      "pnl_usd": -21.38,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T14:05:33+00:00",
-      "side": "sell",
-      "symbol": "Unitree",
-      "address": "o9TBiVNfq3SZuFdEnS8LTBDigj5CyVhCxcEDesupump",
-      "price": 2.043475825e-06,
-      "proceeds": 0.27,
-      "pnl_usd": -49.73,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T14:05:33+00:00",
-      "side": "sell",
-      "symbol": "sol",
-      "address": "3U55FRs2ZuCP6JotQzn7d2W76Z4jGRVsNDzvbNtqpump",
-      "price": 1.890359659e-06,
-      "proceeds": 58.64,
-      "pnl_usd": 8.64,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-10T14:05:34+00:00",
       "side": "buy",
@@ -4521,6 +4483,42 @@
       "address": "HyAFqotQ89hQymtX3T1SYUp2C9yo7Vbf6WUfvbpBpump",
       "price": 1.9380767707488686e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T04:30:38+00:00",
+      "side": "sell",
+      "symbol": "calling",
+      "address": "CLRRv56HZtxa2Z5jaDYpxmHJTeQmNs7SBhospGiZpump",
+      "price": 0.0006757331027,
+      "proceeds": 170.92,
+      "pnl_usd": 120.92,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T04:30:38+00:00",
+      "side": "sell",
+      "symbol": "GI",
+      "address": "HyAFqotQ89hQymtX3T1SYUp2C9yo7Vbf6WUfvbpBpump",
+      "price": 2.766156216e-05,
+      "proceeds": 67.16,
+      "pnl_usd": 17.16,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-12T04:30:38+00:00",
+      "side": "buy",
+      "symbol": "GI",
+      "address": "QihfA2XW9UP33VFwS1jDtABaehAyHxjNkQmcAvtpump",
+      "price": 9.038818456791912e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T04:30:38+00:00",
+      "side": "buy",
+      "symbol": "GOD",
+      "address": "4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump",
+      "price": 9.671575022394673e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6475,6 +6473,10 @@
     {
       "date": "2026-10-12T04:05:25+00:00",
       "equity": 5165986.53
+    },
+    {
+      "date": "2026-10-12T04:30:38+00:00",
+      "equity": 5166124.43
     }
   ]
 }
