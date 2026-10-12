@@ -1,70 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5534213.329681027,
+  "cash": 5534209.286518184,
   "positions": {
-    "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump": {
-      "symbol": "TRILLIONS",
-      "qty": 1874032.7001674606,
-      "entry_price": 2.6413626611518975e-05,
-      "last_price": 2.5497685617990766e-05,
+    "EeJRGhYCeheEVeKU6XXJ466Qbv1GDwdwiHEwh1dJpump": {
+      "symbol": "PNL",
+      "qty": 2772733.668697894,
+      "entry_price": 1.7852417835444593e-05,
+      "last_price": 1.7207182960035122e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T15:44:05+00:00",
-      "missing": 0
-    },
-    "iZvWBda4jkBGiYPHQBGhEGFcXssFBbX7w4A2iBbpump": {
-      "symbol": "GOLDFISH",
-      "qty": 4395129.688718359,
-      "entry_price": 1.1262466299244615e-05,
-      "last_price": 1.085111919906538e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T15:44:05+00:00",
-      "missing": 0
-    },
-    "FVwZpkW1WvyJhvfTcYoDceJ4jHcn24BvkfgACGP2pump": {
-      "symbol": "Chair",
-      "qty": 10079306.790085813,
-      "entry_price": 4.911052022812629e-06,
-      "last_price": 4.723423675391137e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T15:44:05+00:00",
+      "entry_time": "2026-10-12T16:03:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T23:50:18+00:00",
-      "side": "buy",
-      "symbol": "TOASTER",
-      "address": "DRLCLMDW8yLZMfhKvwrQpSPshATVfugVVKh1z17ipump",
-      "price": 8.430728801902483e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T23:50:18+00:00",
-      "side": "buy",
-      "symbol": "MCH",
-      "address": "9qMX7FPdVEPuAxCdGA1DN5VT5pc2eEX7QybTxp1mpump",
-      "price": 1.3306969404564504e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T23:50:18+00:00",
-      "side": "buy",
-      "symbol": "4GLORY",
-      "address": "BV5deuUHhbJj3YoNtSgXd9mENekMUtXnSGM9e95opump",
-      "price": 1.6332255436038012e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T00:06:59+00:00",
-      "side": "sell",
-      "symbol": "$MFRG",
-      "address": "H7C8BVjPUqjxgDqiZHd7oGQ7ND2X48ykZa6qmU93pump",
-      "price": 1.506466743e-05,
-      "proceeds": 45.62,
-      "pnl_usd": -4.38,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T00:06:59+00:00",
       "side": "sell",
@@ -4532,6 +4480,44 @@
       "address": "FVwZpkW1WvyJhvfTcYoDceJ4jHcn24BvkfgACGP2pump",
       "price": 4.911052022812629e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T16:03:38+00:00",
+      "side": "sell",
+      "symbol": "TRILLIONS",
+      "address": "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump",
+      "price": 2.047046445e-06,
+      "proceeds": 3.68,
+      "pnl_usd": -46.32,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T16:03:38+00:00",
+      "side": "sell",
+      "symbol": "GOLDFISH",
+      "address": "iZvWBda4jkBGiYPHQBGhEGFcXssFBbX7w4A2iBbpump",
+      "price": 3.144281902e-06,
+      "proceeds": 13.19,
+      "pnl_usd": -36.81,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T16:03:38+00:00",
+      "side": "sell",
+      "symbol": "Chair",
+      "address": "FVwZpkW1WvyJhvfTcYoDceJ4jHcn24BvkfgACGP2pump",
+      "price": 3.044219971e-06,
+      "proceeds": 29.08,
+      "pnl_usd": -20.92,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T16:03:38+00:00",
+      "side": "buy",
+      "symbol": "PNL",
+      "address": "EeJRGhYCeheEVeKU6XXJ466Qbv1GDwdwiHEwh1dJpump",
+      "price": 1.7852417835444593e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6590,6 +6576,10 @@
     {
       "date": "2026-10-12T15:44:05+00:00",
       "equity": 5534356.41
+    },
+    {
+      "date": "2026-10-12T16:03:38+00:00",
+      "equity": 5534257.0
     }
   ]
 }
