@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5166623.813522576,
-  "positions": {},
+  "cash": 5166573.813522576,
+  "positions": {
+    "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump": {
+      "symbol": "BATONSEM",
+      "qty": 919876.6959156576,
+      "entry_price": 5.3811559983837875e-05,
+      "last_price": 5.210340025296445e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T00:33:56+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-10T09:57:39+00:00",
-      "side": "buy",
-      "symbol": "MEGANFOX",
-      "address": "6Jy4euX2WpGDFQ7fYAxTJ4bBPNrKHRoBf7588g3Cpump",
-      "price": 1.0668897483118256e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T10:18:34+00:00",
       "side": "sell",
@@ -4508,6 +4510,14 @@
       "proceeds": 4.28,
       "pnl_usd": -45.72,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T00:33:56+00:00",
+      "side": "buy",
+      "symbol": "BATONSEM",
+      "address": "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump",
+      "price": 5.3811559983837875e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6422,6 +6432,10 @@
     {
       "date": "2026-10-11T23:59:34+00:00",
       "equity": 5166623.81
+    },
+    {
+      "date": "2026-10-12T00:33:56+00:00",
+      "equity": 5166621.74
     }
   ]
 }
