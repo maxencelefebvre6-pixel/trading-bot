@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5415408.248178376,
+  "cash": 5471123.591801591,
   "positions": {
-    "D1RvqVRszipvJv8uxB2YYXrqe7MXYRRtfAUftNStpump": {
-      "symbol": "ライ",
-      "qty": 5688645.157748657,
-      "entry_price": 8.701544678450318e-06,
-      "last_price": 8.366686796e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T09:15:46+00:00",
-      "missing": 0
-    },
     "2q5Tf6g6NbxrqTMge2iFsZ5cVRR88nes1XZfmVkjpump": {
       "symbol": "BEwb",
       "qty": 7457861.585423473,
@@ -20,76 +11,35 @@
       "entry_time": "2026-10-12T09:43:06+00:00",
       "missing": 0
     },
-    "4SH7VsaDXVTpZcoPZUhCzHECTz82SApRnjc2Fx8Qpump": {
-      "symbol": "Marmalade",
-      "qty": 524438.8785568095,
-      "entry_price": 9.438659493784641e-05,
-      "last_price": 9.152233246558732e-05,
+    "uv4GRWUTjunyToMKPBueeRYTRbVJt78wYLeaZDxpump": {
+      "symbol": "ConConAI",
+      "qty": 98224.79978106798,
+      "entry_price": 0.0005039460514078922,
+      "last_price": 0.0004888707555694199,
       "cost": 50.0,
-      "entry_time": "2026-10-12T10:04:16+00:00",
+      "entry_time": "2026-10-12T10:29:44+00:00",
       "missing": 0
     },
-    "3zFuJ8EuGhFmkL8VNqH8fijA6D73sJrSUMYNFtkNpump": {
-      "symbol": "Marmalade",
-      "qty": 1294484.8432154115,
-      "entry_price": 3.823914992858889e-05,
-      "last_price": 3.701571125689489e-05,
+    "7JNfrz15NQNcfDsyr2WJgnL43sAvHLyydgr3efKdpump": {
+      "symbol": "Dawgs",
+      "qty": 4790425.317934438,
+      "entry_price": 1.0333111720723722e-05,
+      "last_price": 9.949166998384707e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T10:04:16+00:00",
+      "entry_time": "2026-10-12T10:29:44+00:00",
+      "missing": 0
+    },
+    "FQfwuQE3THa66Ljebix6NSi9sPhrh77AJqP6Vrfppump": {
+      "symbol": "T",
+      "qty": 4757038.842447706,
+      "entry_price": 1.0405632924058713e-05,
+      "last_price": 1.0038239671914459e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T10:29:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T19:22:34+00:00",
-      "side": "buy",
-      "symbol": "SAFEGUARD",
-      "address": "FSiuJYja3jK7ogUKFd1rKazD2JEVVR8CpFHukSDQpump",
-      "price": 1.49217953570189e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T19:22:34+00:00",
-      "side": "buy",
-      "symbol": "$MFRG",
-      "address": "65b3FPmsTtcURCEx3ViQhKGnWxbiLY72fKUx2uyapump",
-      "price": 5.7099604600022655e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T19:22:34+00:00",
-      "side": "buy",
-      "symbol": "si",
-      "address": "36kzamCrceiaYL3YyaEZ9Vpo8NJzpHtX5hU4t2Gopump",
-      "price": 2.4724018305644387e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T19:22:34+00:00",
-      "side": "buy",
-      "symbol": "IS",
-      "address": "ACgnKHrCngL32KJcyVa6U6TDgT4jjcZxr3SdiMa8pump",
-      "price": 1.2919063466797833e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T19:22:34+00:00",
-      "side": "buy",
-      "symbol": "Mayhem",
-      "address": "CxAFX95z6wsHfnKLrj2vbSD6wPTwxTq1XmrMBY1Kpump",
-      "price": 8.217865385092066e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T19:40:21+00:00",
-      "side": "sell",
-      "symbol": "STUTUTU",
-      "address": "4pgKWvZXuddykbUXbtc6GhLs1UghQm4Tz8bvBjmvpump",
-      "price": 7.058809459e-06,
-      "proceeds": 45.33,
-      "pnl_usd": -4.67,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-10T19:40:21+00:00",
       "side": "sell",
@@ -4539,6 +4489,60 @@
       "address": "3zFuJ8EuGhFmkL8VNqH8fijA6D73sJrSUMYNFtkNpump",
       "price": 3.823914992858889e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T10:29:44+00:00",
+      "side": "sell",
+      "symbol": "ライ",
+      "address": "D1RvqVRszipvJv8uxB2YYXrqe7MXYRRtfAUftNStpump",
+      "price": 8.366686796e-06,
+      "proceeds": 45.36,
+      "pnl_usd": -4.64,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T10:29:44+00:00",
+      "side": "sell",
+      "symbol": "Marmalade",
+      "address": "4SH7VsaDXVTpZcoPZUhCzHECTz82SApRnjc2Fx8Qpump",
+      "price": 0.2149703792,
+      "proceeds": 55805.72,
+      "pnl_usd": 55755.72,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T10:29:44+00:00",
+      "side": "sell",
+      "symbol": "Marmalade",
+      "address": "3zFuJ8EuGhFmkL8VNqH8fijA6D73sJrSUMYNFtkNpump",
+      "price": 1.150554862e-05,
+      "proceeds": 14.26,
+      "pnl_usd": -35.74,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T10:29:44+00:00",
+      "side": "buy",
+      "symbol": "ConConAI",
+      "address": "uv4GRWUTjunyToMKPBueeRYTRbVJt78wYLeaZDxpump",
+      "price": 0.0005039460514078922,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T10:29:44+00:00",
+      "side": "buy",
+      "symbol": "Dawgs",
+      "address": "7JNfrz15NQNcfDsyr2WJgnL43sAvHLyydgr3efKdpump",
+      "price": 1.0333111720723722e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T10:29:44+00:00",
+      "side": "buy",
+      "symbol": "T",
+      "address": "FQfwuQE3THa66Ljebix6NSi9sPhrh77AJqP6Vrfppump",
+      "price": 1.0405632924058713e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6549,6 +6553,10 @@
     {
       "date": "2026-10-12T10:04:16+00:00",
       "equity": 5415599.36
+    },
+    {
+      "date": "2026-10-12T10:29:44+00:00",
+      "equity": 5471314.62
     }
   ]
 }
