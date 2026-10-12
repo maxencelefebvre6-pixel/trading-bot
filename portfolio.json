@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5531851.816772192,
+  "cash": 5531731.218879538,
   "positions": {
     "2jBJ4QQNyqFSsHr7vpUWYsAovqg68NDDYXNzRxqEpump": {
       "symbol": "MINU",
@@ -11,80 +11,44 @@
       "entry_time": "2026-10-12T13:58:15+00:00",
       "missing": 0
     },
-    "B3bFtLk8GXtGKF1SnNoGfuzibfp1cohqkXW89YBepump": {
-      "symbol": "Giggle",
-      "qty": 564994.4253578498,
-      "entry_price": 8.76114838985327e-05,
-      "last_price": 8.49480400725345e-05,
+    "EuGLZAaVjbK72wXn4ZrwmHtVNQjkGR9kJfiL9b14pump": {
+      "symbol": "CHAT",
+      "qty": 567487.447072751,
+      "entry_price": 8.722659902934237e-05,
+      "last_price": 8.457388819108369e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T14:26:37+00:00",
+      "entry_time": "2026-10-12T14:55:25+00:00",
       "missing": 0
     },
-    "Ktik2gETjeg4UUgVTqxi6ZyGusTxxrKrtvHkbihpump": {
-      "symbol": "FOMO",
-      "qty": 125126.21099392809,
-      "entry_price": 0.0003956005668740505,
-      "last_price": 0.00038370256158371435,
+    "6or4Yiswoo3HvaugF4HAj6cn8miaV1u1U2nMHhpZpump": {
+      "symbol": "LIQUID",
+      "qty": 569380.0893963833,
+      "entry_price": 8.693665430499409e-05,
+      "last_price": 8.429265714898884e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T14:26:37+00:00",
+      "entry_time": "2026-10-12T14:55:25+00:00",
+      "missing": 0
+    },
+    "7d9fx53hSnhVAgMQNAtayjQusZcpEvYeeZdA5oxgpump": {
+      "symbol": "HLM",
+      "qty": 879752.8940482995,
+      "entry_price": 5.626579956130544e-05,
+      "last_price": 5.44891018408075e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T14:55:25+00:00",
+      "missing": 0
+    },
+    "8FL815qZ5fuDmTTtTZp4tu8NzmKpY6z1GJvzqCqpump": {
+      "symbol": "SOLympic",
+      "qty": 116707.42978603241,
+      "entry_price": 0.0004241375214136039,
+      "last_price": 0.0004114109345981835,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T14:55:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T22:00:10+00:00",
-      "side": "buy",
-      "symbol": "Numan",
-      "address": "Yd1q8LFVdbQmJKoRP3vF21ez869j7VERGxWR24apump",
-      "price": 6.407647742563836e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T22:20:46+00:00",
-      "side": "sell",
-      "symbol": "ZZZ",
-      "address": "BWnMW2yBd1VApVBp3D2acV18LqUdoD4szTVUREzSpump",
-      "price": 0.0004534421053,
-      "proceeds": 125.09,
-      "pnl_usd": 75.09,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T22:20:46+00:00",
-      "side": "sell",
-      "symbol": "Numan",
-      "address": "Yd1q8LFVdbQmJKoRP3vF21ez869j7VERGxWR24apump",
-      "price": 4.524763357e-05,
-      "proceeds": 30.47,
-      "pnl_usd": -19.53,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T22:20:46+00:00",
-      "side": "buy",
-      "symbol": "CWIF",
-      "address": "6pRLnfDeDmwrxbftYDA4gE7LK2Hw3EPb3HfPZdkapump",
-      "price": 6.864954401962941e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T22:20:46+00:00",
-      "side": "buy",
-      "symbol": "STUTUTU",
-      "address": "6rEEzrCUsxCJimdoeST4QPe4arHHe3SpWUfReMmMpump",
-      "price": 8.559918080456463e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T22:39:37+00:00",
-      "side": "sell",
-      "symbol": "CWIF",
-      "address": "6pRLnfDeDmwrxbftYDA4gE7LK2Hw3EPb3HfPZdkapump",
-      "price": 3.202611171e-06,
-      "proceeds": 21.96,
-      "pnl_usd": -28.04,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-10T22:39:37+00:00",
       "side": "buy",
@@ -4528,6 +4492,58 @@
       "address": "Ktik2gETjeg4UUgVTqxi6ZyGusTxxrKrtvHkbihpump",
       "price": 0.0003956005668740505,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T14:55:25+00:00",
+      "side": "sell",
+      "symbol": "Giggle",
+      "address": "B3bFtLk8GXtGKF1SnNoGfuzibfp1cohqkXW89YBepump",
+      "price": 4.972893523e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T14:55:25+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "Ktik2gETjeg4UUgVTqxi6ZyGusTxxrKrtvHkbihpump",
+      "price": 0.0006624243273,
+      "proceeds": 79.4,
+      "pnl_usd": 29.4,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-12T14:55:25+00:00",
+      "side": "buy",
+      "symbol": "CHAT",
+      "address": "EuGLZAaVjbK72wXn4ZrwmHtVNQjkGR9kJfiL9b14pump",
+      "price": 8.722659902934237e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T14:55:25+00:00",
+      "side": "buy",
+      "symbol": "LIQUID",
+      "address": "6or4Yiswoo3HvaugF4HAj6cn8miaV1u1U2nMHhpZpump",
+      "price": 8.693665430499409e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T14:55:25+00:00",
+      "side": "buy",
+      "symbol": "HLM",
+      "address": "7d9fx53hSnhVAgMQNAtayjQusZcpEvYeeZdA5oxgpump",
+      "price": 5.626579956130544e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T14:55:25+00:00",
+      "side": "buy",
+      "symbol": "SOLympic",
+      "address": "8FL815qZ5fuDmTTtTZp4tu8NzmKpY6z1GJvzqCqpump",
+      "price": 0.0004241375214136039,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6574,6 +6590,10 @@
     {
       "date": "2026-10-12T14:26:37+00:00",
       "equity": 5531996.21
+    },
+    {
+      "date": "2026-10-12T14:55:25+00:00",
+      "equity": 5531971.55
     }
   ]
 }
