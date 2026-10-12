@@ -1,89 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5531886.487132186,
+  "cash": 5531851.816772192,
   "positions": {
-    "J3PBAx9MC27qrXgtCT19eL5bBuk9p1gGg23hPjgWpump": {
-      "symbol": "FastSwap",
-      "qty": 15288243.515353177,
-      "entry_price": 3.2377820218712344e-06,
-      "last_price": 3.079746499e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T13:22:57+00:00",
-      "missing": 0
-    },
     "2jBJ4QQNyqFSsHr7vpUWYsAovqg68NDDYXNzRxqEpump": {
       "symbol": "MINU",
       "qty": 560285.7030115157,
       "entry_price": 8.834778352176267e-05,
-      "last_price": 8.566282997594615e-05,
+      "last_price": 8.636502605e-05,
       "cost": 50.0,
       "entry_time": "2026-10-12T13:58:15+00:00",
       "missing": 0
     },
-    "69yVZVUpU6c2Nk9Va15vRuz9YZ4YGtPnuj3NZVbWpump": {
-      "symbol": "SINU",
-      "qty": 863263.3557169548,
-      "entry_price": 5.734055508343617e-05,
-      "last_price": 5.55268973870077e-05,
+    "B3bFtLk8GXtGKF1SnNoGfuzibfp1cohqkXW89YBepump": {
+      "symbol": "Giggle",
+      "qty": 564994.4253578498,
+      "entry_price": 8.76114838985327e-05,
+      "last_price": 8.49480400725345e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T13:58:15+00:00",
+      "entry_time": "2026-10-12T14:26:37+00:00",
       "missing": 0
     },
-    "DX7bDufovo6NYiB6SoRSvijWco4a97Mq2CcwFycwpump": {
-      "symbol": "ABU",
-      "qty": 17712311.301842917,
-      "entry_price": 2.7946663287726693e-06,
-      "last_price": 2.6951756890796557e-06,
+    "Ktik2gETjeg4UUgVTqxi6ZyGusTxxrKrtvHkbihpump": {
+      "symbol": "FOMO",
+      "qty": 125126.21099392809,
+      "entry_price": 0.0003956005668740505,
+      "last_price": 0.00038370256158371435,
       "cost": 50.0,
-      "entry_time": "2026-10-12T13:58:15+00:00",
+      "entry_time": "2026-10-12T14:26:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T21:27:53+00:00",
-      "side": "buy",
-      "symbol": "PREMARKET",
-      "address": "cYbuxo7eXP4zMSXh3WH4QhfiKUS1dk7vyonFYNypump",
-      "price": 8.853586628239039e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T21:47:06+00:00",
-      "side": "sell",
-      "symbol": "PREMARKET",
-      "address": "cYbuxo7eXP4zMSXh3WH4QhfiKUS1dk7vyonFYNypump",
-      "price": 9.956957708e-05,
-      "proceeds": 27.56,
-      "pnl_usd": -22.44,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T21:47:06+00:00",
-      "side": "buy",
-      "symbol": "LATCH",
-      "address": "2PRw3BouMZuVdFUWwzhnGATXfPuVkUpwLmYusHMxpump",
-      "price": 2.2640374314551736e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T22:00:10+00:00",
-      "side": "sell",
-      "symbol": "LATCH",
-      "address": "2PRw3BouMZuVdFUWwzhnGATXfPuVkUpwLmYusHMxpump",
-      "price": 3.099361863e-06,
-      "proceeds": 6.49,
-      "pnl_usd": -43.51,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T22:00:10+00:00",
-      "side": "buy",
-      "symbol": "ZZZ",
-      "address": "BWnMW2yBd1VApVBp3D2acV18LqUdoD4szTVUREzSpump",
-      "price": 8.882109820916095e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T22:00:10+00:00",
       "side": "buy",
@@ -4535,6 +4482,52 @@
       "address": "DX7bDufovo6NYiB6SoRSvijWco4a97Mq2CcwFycwpump",
       "price": 2.7946663287726693e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T14:26:37+00:00",
+      "side": "sell",
+      "symbol": "FastSwap",
+      "address": "J3PBAx9MC27qrXgtCT19eL5bBuk9p1gGg23hPjgWpump",
+      "price": 3.079746499e-06,
+      "proceeds": 44.32,
+      "pnl_usd": -5.68,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T14:26:37+00:00",
+      "side": "sell",
+      "symbol": "SINU",
+      "address": "69yVZVUpU6c2Nk9Va15vRuz9YZ4YGtPnuj3NZVbWpump",
+      "price": 2.072783383e-06,
+      "proceeds": 1.71,
+      "pnl_usd": -48.29,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T14:26:37+00:00",
+      "side": "sell",
+      "symbol": "ABU",
+      "address": "DX7bDufovo6NYiB6SoRSvijWco4a97Mq2CcwFycwpump",
+      "price": 1.162353879e-06,
+      "proceeds": 19.3,
+      "pnl_usd": -30.7,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T14:26:37+00:00",
+      "side": "buy",
+      "symbol": "Giggle",
+      "address": "B3bFtLk8GXtGKF1SnNoGfuzibfp1cohqkXW89YBepump",
+      "price": 8.76114838985327e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T14:26:37+00:00",
+      "side": "buy",
+      "symbol": "FOMO",
+      "address": "Ktik2gETjeg4UUgVTqxi6ZyGusTxxrKrtvHkbihpump",
+      "price": 0.0003956005668740505,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6577,6 +6570,10 @@
     {
       "date": "2026-10-12T13:58:15+00:00",
       "equity": 5532077.24
+    },
+    {
+      "date": "2026-10-12T14:26:37+00:00",
+      "equity": 5531996.21
     }
   ]
 }
