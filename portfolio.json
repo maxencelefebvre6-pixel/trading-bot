@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5838195.205186229,
-  "positions": {},
+  "cash": 5838145.205186229,
+  "positions": {
+    "HbfBYCjegU2fzKBuiZpRcU9ZhTqDsLJaggy7L56Rpump": {
+      "symbol": "CYBER",
+      "qty": 2788516.430844159,
+      "entry_price": 1.7751374692461475e-05,
+      "last_price": 1.7130915871480663e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T20:03:04+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-11T02:42:47+00:00",
-      "side": "sell",
-      "symbol": "STUTUTU",
-      "address": "6GmeGCc6rmFENRNQjXdeP2K3CE6rT7ksqDStrbAapump",
-      "price": 3.194252992e-05,
-      "proceeds": 50.23,
-      "pnl_usd": 0.23,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T02:42:47+00:00",
       "side": "sell",
@@ -4506,6 +4506,14 @@
       "proceeds": 9.65,
       "pnl_usd": -40.35,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T20:03:04+00:00",
+      "side": "buy",
+      "symbol": "CYBER",
+      "address": "HbfBYCjegU2fzKBuiZpRcU9ZhTqDsLJaggy7L56Rpump",
+      "price": 1.7751374692461475e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6608,6 +6616,10 @@
     {
       "date": "2026-10-12T19:46:38+00:00",
       "equity": 5838195.21
+    },
+    {
+      "date": "2026-10-12T20:03:04+00:00",
+      "equity": 5838192.98
     }
   ]
 }
