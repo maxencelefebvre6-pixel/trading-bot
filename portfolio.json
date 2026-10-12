@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5895779.5217411,
+  "cash": 5895649.550723699,
   "positions": {
     "Bb6dErRy6zuX4S2xToJdY7amnko9gG82x4YsKWSvpump": {
       "symbol": "BOK",
@@ -38,60 +38,44 @@
       "entry_time": "2026-10-12T22:30:48+00:00",
       "missing": 0
     },
-    "81CK9FqiiLtAGgY7WMP9ag6dU3zqvFRXLbdUBujepump": {
-      "symbol": "[ss]",
-      "qty": 529036.7348519404,
-      "entry_price": 9.35662813922617e-05,
-      "last_price": 9.072258683654007e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T23:08:36+00:00",
-      "missing": 0
-    },
     "FFvqEfVKXEGmcvwiLeoTgq51JNnqjemYK9SYHij1pump": {
       "symbol": "REC",
       "qty": 4179606.4551171362,
       "entry_price": 1.1843220296350301e-05,
-      "last_price": 1.1433904503873298e-05,
+      "last_price": 1.14339045e-05,
       "cost": 50.0,
       "entry_time": "2026-10-12T23:08:36+00:00",
+      "missing": 0
+    },
+    "gkAkoGkLrBHidwP9rLCQ33UVmymg1x4i7SjKH3Vpump": {
+      "symbol": "CNN",
+      "qty": 181149.5285059512,
+      "entry_price": 0.00027325492044200274,
+      "last_price": 0.00026499496103028677,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T23:30:40+00:00",
+      "missing": 0
+    },
+    "3sVTSbwX5qdTV3teaKqurdRWZB1j59sE6uLoeNN5pump": {
+      "symbol": "PENISGUY",
+      "qty": 4870944.282525903,
+      "entry_price": 1.0162300598998233e-05,
+      "last_price": 9.78332946707598e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T23:30:40+00:00",
+      "missing": 0
+    },
+    "BtdRbikmGxQvJZQScGBdjxCgfVK3RyCxb3mtrqcEpump": {
+      "symbol": "att",
+      "qty": 3149585.8915838795,
+      "entry_price": 1.5716351832877685e-05,
+      "last_price": 1.5195981258495376e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T23:30:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T05:43:05+00:00",
-      "side": "buy",
-      "symbol": "ELONHOUSE",
-      "address": "C4VqUvR3PwSeLwze2WrcN5ZryC739dB5DmnNWC7cpump",
-      "price": 8.782697870301576e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T05:59:13+00:00",
-      "side": "sell",
-      "symbol": "ELONHOUSE",
-      "address": "C4VqUvR3PwSeLwze2WrcN5ZryC739dB5DmnNWC7cpump",
-      "price": 9.861156004e-05,
-      "proceeds": 27.51,
-      "pnl_usd": -22.49,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T05:59:13+00:00",
-      "side": "buy",
-      "symbol": "Incognito",
-      "address": "A9LfFkymW2rhWPhbvYgZk3t79ic17j2N22wNEswpump",
-      "price": 8.73818920745616e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T05:59:13+00:00",
-      "side": "buy",
-      "symbol": "SpaceX",
-      "address": "8AqfCSK131kSZaUYZgBArHPh7ixVQeQEzeJRcpoQpump",
-      "price": 0.0003891458427467595,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T05:59:13+00:00",
       "side": "buy",
@@ -4553,6 +4537,40 @@
       "address": "FFvqEfVKXEGmcvwiLeoTgq51JNnqjemYK9SYHij1pump",
       "price": 1.1843220296350301e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T23:30:39+00:00",
+      "side": "sell",
+      "symbol": "[ss]",
+      "address": "81CK9FqiiLtAGgY7WMP9ag6dU3zqvFRXLbdUBujepump",
+      "price": 7.64835189e-05,
+      "proceeds": 20.03,
+      "pnl_usd": -29.97,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T23:30:40+00:00",
+      "side": "buy",
+      "symbol": "CNN",
+      "address": "gkAkoGkLrBHidwP9rLCQ33UVmymg1x4i7SjKH3Vpump",
+      "price": 0.00027325492044200274,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T23:30:40+00:00",
+      "side": "buy",
+      "symbol": "PENISGUY",
+      "address": "3sVTSbwX5qdTV3teaKqurdRWZB1j59sE6uLoeNN5pump",
+      "price": 1.0162300598998233e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T23:30:40+00:00",
+      "side": "buy",
+      "symbol": "att",
+      "address": "BtdRbikmGxQvJZQScGBdjxCgfVK3RyCxb3mtrqcEpump",
+      "price": 1.5716351832877685e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6691,6 +6709,10 @@
     {
       "date": "2026-10-12T23:08:36+00:00",
       "equity": 5896066.39
+    },
+    {
+      "date": "2026-10-12T23:30:40+00:00",
+      "equity": 5896031.94
     }
   ]
 }
