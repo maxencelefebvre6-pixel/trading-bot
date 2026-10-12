@@ -1,72 +1,72 @@
 {
   "mode": "pumpfun",
-  "cash": 5896115.709788296,
-  "positions": {},
+  "cash": 5895765.709788296,
+  "positions": {
+    "CVxmNU5pseYjegY1D8GBk6J1y3cRj7JrCZDyd2z1pump": {
+      "symbol": "OnlyDoge",
+      "qty": 492753.5143008791,
+      "entry_price": 0.00010045590455144865,
+      "last_price": 9.734010049290591e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T22:30:48+00:00",
+      "missing": 0
+    },
+    "3ULqjPHngfKA1PnpcwCN4HTrYe5HCv4M3CxdfEkspump": {
+      "symbol": "GROVER",
+      "qty": 1200804.1038536145,
+      "entry_price": 4.12223774395381e-05,
+      "last_price": 3.980847910862031e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T22:30:48+00:00",
+      "missing": 0
+    },
+    "433zwms1C5xLyJ8ZKeT49RH7HVxarn9XvT15apCwpump": {
+      "symbol": "LIMIT",
+      "qty": 1586044.416524949,
+      "entry_price": 3.120971864612428e-05,
+      "last_price": 3.0135476115491117e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T22:30:48+00:00",
+      "missing": 0
+    },
+    "Bb6dErRy6zuX4S2xToJdY7amnko9gG82x4YsKWSvpump": {
+      "symbol": "BOK",
+      "qty": 4230744.045983714,
+      "entry_price": 1.1700069647794181e-05,
+      "last_price": 1.1295735915860722e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T22:30:48+00:00",
+      "missing": 0
+    },
+    "ALDgN4vqrmxaQztkAqomGedQmjwPde4g5jW8P6fepump": {
+      "symbol": "MAYEM ASS",
+      "qty": 6639313.567674078,
+      "entry_price": 7.455590023795355e-06,
+      "last_price": 7.176998341047359e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T22:30:48+00:00",
+      "missing": 0
+    },
+    "BKX4uUJoAz2EZG9eCpb1q7RiRxyiGpd9jNLTCRjdpump": {
+      "symbol": "lptp",
+      "qty": 2896510.1968607027,
+      "entry_price": 1.708953072343716e-05,
+      "last_price": 1.652851449049301e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T22:30:48+00:00",
+      "missing": 0
+    },
+    "7NNJCxisKbWMcF2mS2fDpQ68KMDc4YeGnQnUMzqdpump": {
+      "symbol": "MAYEM ASS",
+      "qty": 4479070.994411845,
+      "entry_price": 1.1051398841803788e-05,
+      "last_price": 1.0667059746948814e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T22:30:48+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-11T04:24:05+00:00",
-      "side": "sell",
-      "symbol": "SpaceX",
-      "address": "HTDkUKT8jZ95PXRApgBPr43nHNhJUCZpjUJqiEx4pump",
-      "price": 0.0008252634188,
-      "proceeds": 97.51,
-      "pnl_usd": 47.51,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-11T04:24:05+00:00",
-      "side": "sell",
-      "symbol": "NVIDIA",
-      "address": "7JfCmCeALa4S3FqtFwqSdYfQUtkGLSwsCxkePX3gpump",
-      "price": 2.073068456e-06,
-      "proceeds": 0.24,
-      "pnl_usd": -49.76,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T04:24:05+00:00",
-      "side": "buy",
-      "symbol": "Veria",
-      "address": "E5enTV81XjBrfD6WsH7bw9JxLsJxjWrfo2U2sfbFpump",
-      "price": 4.505199382647074e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T04:24:05+00:00",
-      "side": "buy",
-      "symbol": "DIS",
-      "address": "FcE6JFhRE34Gh3mnfYHRXw8tnzRyM675kfvjT6RRpump",
-      "price": 4.396731624940462e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T04:46:00+00:00",
-      "side": "sell",
-      "symbol": "Veria",
-      "address": "E5enTV81XjBrfD6WsH7bw9JxLsJxjWrfo2U2sfbFpump",
-      "price": 4.968767e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T04:46:00+00:00",
-      "side": "sell",
-      "symbol": "DIS",
-      "address": "FcE6JFhRE34Gh3mnfYHRXw8tnzRyM675kfvjT6RRpump",
-      "price": 3.068491383e-06,
-      "proceeds": 17.1,
-      "pnl_usd": -32.9,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T04:46:00+00:00",
-      "side": "buy",
-      "symbol": "QUBE",
-      "address": "DoNtZm82iXGY8ZofWgkdLvGSxyUPatEWt2Tx1KfLpump",
-      "price": 4.5555996318052474e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T04:46:00+00:00",
       "side": "buy",
@@ -4504,6 +4504,62 @@
       "proceeds": 14.72,
       "pnl_usd": -35.28,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T22:30:48+00:00",
+      "side": "buy",
+      "symbol": "OnlyDoge",
+      "address": "CVxmNU5pseYjegY1D8GBk6J1y3cRj7JrCZDyd2z1pump",
+      "price": 0.00010045590455144865,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T22:30:48+00:00",
+      "side": "buy",
+      "symbol": "GROVER",
+      "address": "3ULqjPHngfKA1PnpcwCN4HTrYe5HCv4M3CxdfEkspump",
+      "price": 4.12223774395381e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T22:30:48+00:00",
+      "side": "buy",
+      "symbol": "LIMIT",
+      "address": "433zwms1C5xLyJ8ZKeT49RH7HVxarn9XvT15apCwpump",
+      "price": 3.120971864612428e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T22:30:48+00:00",
+      "side": "buy",
+      "symbol": "BOK",
+      "address": "Bb6dErRy6zuX4S2xToJdY7amnko9gG82x4YsKWSvpump",
+      "price": 1.1700069647794181e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T22:30:48+00:00",
+      "side": "buy",
+      "symbol": "MAYEM ASS",
+      "address": "ALDgN4vqrmxaQztkAqomGedQmjwPde4g5jW8P6fepump",
+      "price": 7.455590023795355e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T22:30:48+00:00",
+      "side": "buy",
+      "symbol": "lptp",
+      "address": "BKX4uUJoAz2EZG9eCpb1q7RiRxyiGpd9jNLTCRjdpump",
+      "price": 1.708953072343716e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T22:30:48+00:00",
+      "side": "buy",
+      "symbol": "MAYEM ASS",
+      "address": "7NNJCxisKbWMcF2mS2fDpQ68KMDc4YeGnQnUMzqdpump",
+      "price": 1.1051398841803788e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6630,6 +6686,10 @@
     {
       "date": "2026-10-12T21:51:53+00:00",
       "equity": 5896115.71
+    },
+    {
+      "date": "2026-10-12T22:30:48+00:00",
+      "equity": 5896100.37
     }
   ]
 }
