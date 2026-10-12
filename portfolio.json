@@ -1,43 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5896088.630281971,
-  "positions": {
-    "75MR1djJZHW2srkqM152TCs654t1CPQ9PvEPNLp3pump": {
-      "symbol": "NTRUMP",
-      "qty": 4286660.124159257,
-      "entry_price": 1.1547451527827494e-05,
-      "last_price": 1.1111054126937728e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T21:31:30+00:00",
-      "missing": 0
-    },
-    "GyokBbRq97ATFJDSzGEuRk3GWCFf164DGaDrVJsjpump": {
-      "symbol": "GrowBot",
-      "qty": 5135376.225415116,
-      "entry_price": 9.639021140266833e-06,
-      "last_price": 9.283673375076496e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T21:31:30+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5896115.709788296,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-11T04:01:27+00:00",
-      "side": "buy",
-      "symbol": "SpaceX",
-      "address": "HTDkUKT8jZ95PXRApgBPr43nHNhJUCZpjUJqiEx4pump",
-      "price": 0.0004012086783229503,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T04:01:27+00:00",
-      "side": "buy",
-      "symbol": "NVIDIA",
-      "address": "7JfCmCeALa4S3FqtFwqSdYfQUtkGLSwsCxkePX3gpump",
-      "price": 0.0004065851713224091,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T04:24:05+00:00",
       "side": "sell",
@@ -4519,6 +4484,26 @@
       "address": "GyokBbRq97ATFJDSzGEuRk3GWCFf164DGaDrVJsjpump",
       "price": 9.639021140266833e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T21:51:52+00:00",
+      "side": "sell",
+      "symbol": "NTRUMP",
+      "address": "75MR1djJZHW2srkqM152TCs654t1CPQ9PvEPNLp3pump",
+      "price": 3.01889155e-06,
+      "proceeds": 12.36,
+      "pnl_usd": -37.64,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T21:51:52+00:00",
+      "side": "sell",
+      "symbol": "GrowBot",
+      "address": "GyokBbRq97ATFJDSzGEuRk3GWCFf164DGaDrVJsjpump",
+      "price": 3.005304685e-06,
+      "proceeds": 14.72,
+      "pnl_usd": -35.28,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6641,6 +6626,10 @@
     {
       "date": "2026-10-12T21:31:30+00:00",
       "equity": 5896183.93
+    },
+    {
+      "date": "2026-10-12T21:51:53+00:00",
+      "equity": 5896115.71
     }
   ]
 }
