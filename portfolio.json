@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5166028.839198611,
+  "cash": 5166051.783405921,
   "positions": {
-    "QihfA2XW9UP33VFwS1jDtABaehAyHxjNkQmcAvtpump": {
-      "symbol": "GI",
-      "qty": 547637.948882632,
-      "entry_price": 9.038818456791912e-05,
-      "last_price": 8.764304736556431e-05,
+    "BYWXrSHHqW6EmbCtFwkwMW14Ham4dSFHy2789hNjpump": {
+      "symbol": "SLUDGE",
+      "qty": 547988.8830850866,
+      "entry_price": 9.033029962455298e-05,
+      "last_price": 8.75877255544892e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T04:30:38+00:00",
-      "missing": 0
-    },
-    "4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump": {
-      "symbol": "GOD",
-      "qty": 5118090.8885452505,
-      "entry_price": 9.671575022394673e-06,
-      "last_price": 9.299733912470962e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T04:30:38+00:00",
+      "entry_time": "2026-10-12T04:55:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T14:05:34+00:00",
-      "side": "buy",
-      "symbol": "GTA7",
-      "address": "6XakUE7Erhsdq6Um2Xr4v4nus7DXQE9e143NKrEgpump",
-      "price": 0.0004655447803583241,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T14:05:34+00:00",
-      "side": "buy",
-      "symbol": "MALLY",
-      "address": "9gdyt6JXZ1f5U74tYDXiEFQfvgnPv8wkJALAeYbpump",
-      "price": 1.0241078986878108e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T14:05:34+00:00",
-      "side": "buy",
-      "symbol": "Octopus🐙",
-      "address": "8JoYNjf4ZknGqVBwqo6QQ6MyMi7emVt4XkpP8PBdpump",
-      "price": 4.3973287427282855e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T14:05:34+00:00",
       "side": "buy",
@@ -4519,6 +4486,34 @@
       "address": "4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump",
       "price": 9.671575022394673e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T04:55:38+00:00",
+      "side": "sell",
+      "symbol": "GI",
+      "address": "QihfA2XW9UP33VFwS1jDtABaehAyHxjNkQmcAvtpump",
+      "price": 0.0001098245847,
+      "proceeds": 57.59,
+      "pnl_usd": 7.59,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-12T04:55:38+00:00",
+      "side": "sell",
+      "symbol": "GOD",
+      "address": "4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump",
+      "price": 3.145322466e-06,
+      "proceeds": 15.36,
+      "pnl_usd": -34.64,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T04:55:39+00:00",
+      "side": "buy",
+      "symbol": "SLUDGE",
+      "address": "BYWXrSHHqW6EmbCtFwkwMW14Ham4dSFHy2789hNjpump",
+      "price": 9.033029962455298e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6477,6 +6472,10 @@
     {
       "date": "2026-10-12T04:30:38+00:00",
       "equity": 5166124.43
+    },
+    {
+      "date": "2026-10-12T04:55:39+00:00",
+      "equity": 5166099.78
     }
   ]
 }
