@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5534209.286518184,
+  "cash": 5534135.214186051,
   "positions": {
-    "EeJRGhYCeheEVeKU6XXJ466Qbv1GDwdwiHEwh1dJpump": {
-      "symbol": "PNL",
-      "qty": 2772733.668697894,
-      "entry_price": 1.7852417835444593e-05,
-      "last_price": 1.7207182960035122e-05,
+    "39VJr8ZkzRg4kYBZDZAk4mpAtBXJtqewfabWAgHMpump": {
+      "symbol": "HIRE",
+      "qty": 514189.3803563433,
+      "entry_price": 9.626803254025887e-05,
+      "last_price": 9.334663557894802e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T16:03:38+00:00",
+      "entry_time": "2026-10-12T16:27:50+00:00",
+      "missing": 0
+    },
+    "AQhRcrwq3t9PeF436JDDjQDh7nrmwS1bY4Xaf9ZSpump": {
+      "symbol": "DeepSeek",
+      "qty": 84932.34162553007,
+      "entry_price": 0.0005828168522451363,
+      "last_price": 0.0005654122118535893,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T16:27:50+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T00:06:59+00:00",
-      "side": "sell",
-      "symbol": "Ollie",
-      "address": "6Su3JytuXe1n95JM8TBMgQrwyXUT3kdmzKrgF99Dpump",
-      "price": 5.802445685e-05,
-      "proceeds": 31.78,
-      "pnl_usd": -18.22,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T00:06:59+00:00",
-      "side": "sell",
-      "symbol": "CallCat",
-      "address": "3XfG8pjHiiw2Hi3eqzfvx9aifHNxwCsA4j4WMn7wpump",
-      "price": 0.0001021485423,
-      "proceeds": 28.42,
-      "pnl_usd": -21.58,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T00:06:59+00:00",
-      "side": "sell",
-      "symbol": "TOASTER",
-      "address": "DRLCLMDW8yLZMfhKvwrQpSPshATVfugVVKh1z17ipump",
-      "price": 3.106219328e-06,
-      "proceeds": 17.38,
-      "pnl_usd": -32.62,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-11T00:06:59+00:00",
       "side": "buy",
@@ -4518,6 +4497,32 @@
       "address": "EeJRGhYCeheEVeKU6XXJ466Qbv1GDwdwiHEwh1dJpump",
       "price": 1.7852417835444593e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T16:27:49+00:00",
+      "side": "sell",
+      "symbol": "PNL",
+      "address": "EeJRGhYCeheEVeKU6XXJ466Qbv1GDwdwiHEwh1dJpump",
+      "price": 9.82578157e-06,
+      "proceeds": 25.93,
+      "pnl_usd": -24.07,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T16:27:50+00:00",
+      "side": "buy",
+      "symbol": "HIRE",
+      "address": "39VJr8ZkzRg4kYBZDZAk4mpAtBXJtqewfabWAgHMpump",
+      "price": 9.626803254025887e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T16:27:50+00:00",
+      "side": "buy",
+      "symbol": "DeepSeek",
+      "address": "AQhRcrwq3t9PeF436JDDjQDh7nrmwS1bY4Xaf9ZSpump",
+      "price": 0.0005828168522451363,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6580,6 +6585,10 @@
     {
       "date": "2026-10-12T16:03:38+00:00",
       "equity": 5534257.0
+    },
+    {
+      "date": "2026-10-12T16:27:50+00:00",
+      "equity": 5534231.23
     }
   ]
 }
