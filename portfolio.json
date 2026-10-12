@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5166192.953944769,
+  "cash": 5166043.644752232,
   "positions": {
     "3EEdgrseY6WRSftUfPKdDUmqLGGGN4QLsMHh6MkPpump": {
       "symbol": "Blackpill",
@@ -11,89 +11,35 @@
       "entry_time": "2026-10-12T02:10:43+00:00",
       "missing": 0
     },
-    "4T13F2CZ82axaH5Tq2Rxj25HAzwqYsxtbMEnAdAypump": {
-      "symbol": "TOPCAT",
-      "qty": 551014.2502572173,
-      "entry_price": 8.983433727329747e-05,
-      "last_price": 8.710582893626375e-05,
+    "mCTd2hNhPyvkQGDFb4onNrfBmQTdQcBkzoSLiTNpump": {
+      "symbol": "DOLLY",
+      "qty": 839963.1874368192,
+      "entry_price": 5.8931154055752376e-05,
+      "last_price": 5.7078100535345346e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T02:35:17+00:00",
+      "entry_time": "2026-10-12T02:56:16+00:00",
       "missing": 0
     },
-    "HTNYSEyWZRkYKPMc585NipbCEMb3Crgx63eTVKgTpump": {
-      "symbol": "HERD",
-      "qty": 551545.540759743,
-      "entry_price": 8.974780202522304e-05,
-      "last_price": 8.702193734186563e-05,
+    "2EiRexXq2roFQGcL9uRTgmysbWu2gF22vKEFSsvmpump": {
+      "symbol": "KOJI",
+      "qty": 4911544.746229288,
+      "entry_price": 1.0078295639676774e-05,
+      "last_price": 9.709618426470447e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T02:35:17+00:00",
+      "entry_time": "2026-10-12T02:56:16+00:00",
       "missing": 0
     },
-    "5hrKETjqUSZwJeK4ru4caxYbwc3oLz6P2K5FzpNDpump": {
+    "9Tm525ni2UNK3yCShRAYXHW18Wb9TdvvrEQ5wtJVpump": {
       "symbol": "HALH",
-      "qty": 2542102.477752885,
-      "entry_price": 1.9472071025144505e-05,
-      "last_price": 1.8769575457672287e-05,
+      "qty": 3249538.2213130104,
+      "entry_price": 1.5232933613564022e-05,
+      "last_price": 1.4731263254920703e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T02:35:17+00:00",
+      "entry_time": "2026-10-12T02:56:16+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T12:04:01+00:00",
-      "side": "sell",
-      "symbol": "Grail",
-      "address": "6T5ZaozTWxUis29u43PMYnZo74fTtm9QuGxpphVUpump",
-      "price": 3.820215007e-06,
-      "proceeds": 14.7,
-      "pnl_usd": -35.3,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T12:04:01+00:00",
-      "side": "buy",
-      "symbol": "MOBILE",
-      "address": "Atsw5hbH1XVRdvHcNviUn1arapuN7x37BqgYX2Qjpump",
-      "price": 3.513903928665874e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T12:04:01+00:00",
-      "side": "buy",
-      "symbol": "NFTPAD",
-      "address": "24ttZAbRBARanbtGSmfMaEPNgS6kXrixGhE9p9wWpump",
-      "price": 1.1987168903069903e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T12:04:01+00:00",
-      "side": "buy",
-      "symbol": "ちんこ花",
-      "address": "26mhg5EPWdTMnbJJ8cv9jY7X53JgfjJq5Gu9Y7P9pump",
-      "price": 9.325463495711368e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T12:28:48+00:00",
-      "side": "sell",
-      "symbol": "MOBILE",
-      "address": "Atsw5hbH1XVRdvHcNviUn1arapuN7x37BqgYX2Qjpump",
-      "price": 1.523975267e-05,
-      "proceeds": 20.53,
-      "pnl_usd": -29.47,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T12:28:48+00:00",
-      "side": "sell",
-      "symbol": "NFTPAD",
-      "address": "24ttZAbRBARanbtGSmfMaEPNgS6kXrixGhE9p9wWpump",
-      "price": 3.07422007e-06,
-      "proceeds": 12.13,
-      "pnl_usd": -37.87,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-10T12:28:48+00:00",
       "side": "sell",
@@ -4537,6 +4483,60 @@
       "address": "5hrKETjqUSZwJeK4ru4caxYbwc3oLz6P2K5FzpNDpump",
       "price": 1.9472071025144505e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T02:56:16+00:00",
+      "side": "sell",
+      "symbol": "TOPCAT",
+      "address": "4T13F2CZ82axaH5Tq2Rxj25HAzwqYsxtbMEnAdAypump",
+      "price": 5.091342257e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T02:56:16+00:00",
+      "side": "sell",
+      "symbol": "HERD",
+      "address": "HTNYSEyWZRkYKPMc585NipbCEMb3Crgx63eTVKgTpump",
+      "price": 5.092206955e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T02:56:16+00:00",
+      "side": "sell",
+      "symbol": "HALH",
+      "address": "5hrKETjqUSZwJeK4ru4caxYbwc3oLz6P2K5FzpNDpump",
+      "price": 2.839195077e-07,
+      "proceeds": 0.69,
+      "pnl_usd": -49.31,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T02:56:16+00:00",
+      "side": "buy",
+      "symbol": "DOLLY",
+      "address": "mCTd2hNhPyvkQGDFb4onNrfBmQTdQcBkzoSLiTNpump",
+      "price": 5.8931154055752376e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T02:56:16+00:00",
+      "side": "buy",
+      "symbol": "KOJI",
+      "address": "2EiRexXq2roFQGcL9uRTgmysbWu2gF22vKEFSsvmpump",
+      "price": 1.0078295639676774e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T02:56:16+00:00",
+      "side": "buy",
+      "symbol": "HALH",
+      "address": "9Tm525ni2UNK3yCShRAYXHW18Wb9TdvvrEQ5wtJVpump",
+      "price": 1.5232933613564022e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6475,6 +6475,10 @@
     {
       "date": "2026-10-12T02:35:17+00:00",
       "equity": 5166384.32
+    },
+    {
+      "date": "2026-10-12T02:56:16+00:00",
+      "equity": 5166234.81
     }
   ]
 }
