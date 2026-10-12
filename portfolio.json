@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5165974.218131356,
+  "cash": 5165890.75753447,
   "positions": {
-    "8bZtDz3YZUYbHYvk1EREvr99ZuRjGHegFHNDafQNpump": {
-      "symbol": "PADDER",
-      "qty": 5406374.789445564,
-      "entry_price": 9.155858024611042e-06,
-      "last_price": 8.810470722868033e-06,
+    "CLRRv56HZtxa2Z5jaDYpxmHJTeQmNs7SBhospGiZpump": {
+      "symbol": "calling",
+      "qty": 510981.0705743546,
+      "entry_price": 9.68724730729474e-05,
+      "last_price": 9.393430114055932e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T03:47:01+00:00",
+      "entry_time": "2026-10-12T04:05:25+00:00",
+      "missing": 0
+    },
+    "HyAFqotQ89hQymtX3T1SYUp2C9yo7Vbf6WUfvbpBpump": {
+      "symbol": "GI",
+      "qty": 2554078.3908613333,
+      "entry_price": 1.9380767707488686e-05,
+      "last_price": 1.870396334461084e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T04:05:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T13:50:51+00:00",
-      "side": "sell",
-      "symbol": "Horacio",
-      "address": "DNx7niykPaJjxaF2WQABj57RFdStdtMA6pJu5eaupump",
-      "price": 1.0449040306,
-      "proceeds": 286425.29,
-      "pnl_usd": 286375.29,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-10T13:50:51+00:00",
-      "side": "buy",
-      "symbol": "patryczek",
-      "address": "4EzM6cdSXvcVpyvFaNu6PNj2U9s88Y6NjjvyGnCEpump",
-      "price": 8.86886834657219e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T13:50:51+00:00",
-      "side": "buy",
-      "symbol": "Unitree",
-      "address": "o9TBiVNfq3SZuFdEnS8LTBDigj5CyVhCxcEDesupump",
-      "price": 0.0003600934324929501,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T13:50:51+00:00",
       "side": "buy",
@@ -4512,6 +4495,32 @@
       "address": "8bZtDz3YZUYbHYvk1EREvr99ZuRjGHegFHNDafQNpump",
       "price": 9.155858024611042e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T04:05:25+00:00",
+      "side": "sell",
+      "symbol": "PADDER",
+      "address": "8bZtDz3YZUYbHYvk1EREvr99ZuRjGHegFHNDafQNpump",
+      "price": 3.208397435e-06,
+      "proceeds": 16.54,
+      "pnl_usd": -33.46,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T04:05:25+00:00",
+      "side": "buy",
+      "symbol": "calling",
+      "address": "CLRRv56HZtxa2Z5jaDYpxmHJTeQmNs7SBhospGiZpump",
+      "price": 9.68724730729474e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T04:05:25+00:00",
+      "side": "buy",
+      "symbol": "GI",
+      "address": "HyAFqotQ89hQymtX3T1SYUp2C9yo7Vbf6WUfvbpBpump",
+      "price": 1.9380767707488686e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6462,6 +6471,10 @@
     {
       "date": "2026-10-12T03:47:01+00:00",
       "equity": 5166021.85
+    },
+    {
+      "date": "2026-10-12T04:05:25+00:00",
+      "equity": 5165986.53
     }
   ]
 }
