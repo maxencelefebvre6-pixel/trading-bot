@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5166358.883298847,
+  "cash": 5166242.497868875,
   "positions": {
     "3qH3C2B5yRZtrn5oFFMhgs146X46J2aaKBFA3k4kpump": {
       "symbol": "CRMB",
@@ -11,55 +11,35 @@
       "entry_time": "2026-10-12T01:27:47+00:00",
       "missing": 0
     },
-    "9C4dq2W5YKxLaqiWpcXj73YWvjDA8dv9qbX9c5gHpump": {
-      "symbol": "SLOP",
-      "qty": 1094796.8863739767,
-      "entry_price": 4.521386625782845e-05,
-      "last_price": 4.378457074504368e-05,
+    "6baLXx5Pq9PRdXAY81utM8HNg35Y9TzE48htesNnpump": {
+      "symbol": "mexicans",
+      "qty": 520585.3069712256,
+      "entry_price": 9.508528061998496e-05,
+      "last_price": 9.22000978024563e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T01:52:02+00:00",
+      "entry_time": "2026-10-12T02:10:43+00:00",
+      "missing": 0
+    },
+    "2sWjHmJsjsw52AGBj7MUQV6BQhgsBkD3Cgn96W3ipump": {
+      "symbol": "HERD",
+      "qty": 1265102.8519037154,
+      "entry_price": 3.9127253507896885e-05,
+      "last_price": 3.7787954005703675e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T02:10:43+00:00",
+      "missing": 0
+    },
+    "3EEdgrseY6WRSftUfPKdDUmqLGGGN4QLsMHh6MkPpump": {
+      "symbol": "Blackpill",
+      "qty": 6455494.46389469,
+      "entry_price": 7.667886678061831e-06,
+      "last_price": 7.382776079822271e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T02:10:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T10:37:23+00:00",
-      "side": "sell",
-      "symbol": "UP",
-      "address": "GYoUNE2kz7SMkjQhCFNy4VzNvu9P4VfyMU2ccayzpump",
-      "price": 2.526499685e-06,
-      "proceeds": 2.65,
-      "pnl_usd": -47.35,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T10:37:23+00:00",
-      "side": "buy",
-      "symbol": "ABC",
-      "address": "4DyGgxi2FNF6LTjMYZKp7DJPiJJdzhJ6U3SFN5rXpump",
-      "price": 3.463405404109556e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T10:54:12+00:00",
-      "side": "sell",
-      "symbol": "ABC",
-      "address": "4DyGgxi2FNF6LTjMYZKp7DJPiJJdzhJ6U3SFN5rXpump",
-      "price": 3.497447739e-06,
-      "proceeds": 4.79,
-      "pnl_usd": -45.21,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T11:11:47+00:00",
-      "side": "sell",
-      "symbol": "MEGANFOX",
-      "address": "8PVXxt6kCJ3V3KhHVe78QcvUszha3odd1441BP7bpump",
-      "price": 7.110098257e-06,
-      "proceeds": 45.35,
-      "pnl_usd": -4.65,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-10T11:11:47+00:00",
       "side": "buy",
@@ -4521,6 +4501,40 @@
       "address": "9C4dq2W5YKxLaqiWpcXj73YWvjDA8dv9qbX9c5gHpump",
       "price": 4.521386625782845e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T02:10:43+00:00",
+      "side": "sell",
+      "symbol": "SLOP",
+      "address": "9C4dq2W5YKxLaqiWpcXj73YWvjDA8dv9qbX9c5gHpump",
+      "price": 6.202814707e-05,
+      "proceeds": 33.61,
+      "pnl_usd": -16.39,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T02:10:43+00:00",
+      "side": "buy",
+      "symbol": "mexicans",
+      "address": "6baLXx5Pq9PRdXAY81utM8HNg35Y9TzE48htesNnpump",
+      "price": 9.508528061998496e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T02:10:43+00:00",
+      "side": "buy",
+      "symbol": "HERD",
+      "address": "2sWjHmJsjsw52AGBj7MUQV6BQhgsBkD3Cgn96W3ipump",
+      "price": 3.9127253507896885e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T02:10:43+00:00",
+      "side": "buy",
+      "symbol": "Blackpill",
+      "address": "3EEdgrseY6WRSftUfPKdDUmqLGGGN4QLsMHh6MkPpump",
+      "price": 7.667886678061831e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6451,6 +6465,10 @@
     {
       "date": "2026-10-12T01:52:02+00:00",
       "equity": 5166454.46
+    },
+    {
+      "date": "2026-10-12T02:10:43+00:00",
+      "equity": 5166433.6
     }
   ]
 }
