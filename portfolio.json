@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5414845.900459201,
+  "cash": 5414747.387244992,
   "positions": {
-    "5hdHC2svpp76P3rwFNUkgk1Ch4f3dy8REZrSZAEtpump": {
-      "symbol": "DOPEBAT",
-      "qty": 543814.3118478421,
-      "entry_price": 9.102371695919983e-05,
-      "last_price": 9.561020149e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T07:59:33+00:00",
-      "missing": 0
-    },
     "6cWpWhr2sD3RhMKgB2Perw15J2WTL7UkkU48UkeKpump": {
       "symbol": "SXSN",
       "qty": 7392354.1304056905,
@@ -20,20 +11,11 @@
       "entry_time": "2026-10-12T08:27:10+00:00",
       "missing": 0
     },
-    "3MJjuxQUZ7KH8Ju4GtkDReCdU4gquqEkQxb6vXqqpump": {
-      "symbol": "CYBERALON",
-      "qty": 714474.5517493454,
-      "entry_price": 6.928168383156882e-05,
-      "last_price": 6.713155907659325e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T08:53:45+00:00",
-      "missing": 0
-    },
     "EovafKh6c41Znh3CBESatFWQk9cwmZu2kASifX3Dpump": {
       "symbol": "34%",
       "qty": 5080585.176885619,
       "entry_price": 9.74297217281245e-06,
-      "last_price": 9.39757526863219e-06,
+      "last_price": 9.397575269e-06,
       "cost": 50.0,
       "entry_time": "2026-10-12T08:53:45+00:00",
       "missing": 0
@@ -42,53 +24,40 @@
       "symbol": "34%",
       "qty": 3304677.267183741,
       "entry_price": 1.4978769785342486e-05,
-      "last_price": 1.4480111436278427e-05,
+      "last_price": 1.448011144e-05,
       "cost": 50.0,
       "entry_time": "2026-10-12T08:53:45+00:00",
+      "missing": 0
+    },
+    "4MFCdTKyo92i76CtbnHEriYnzdpxkGaETwFzE6XCpump": {
+      "symbol": "NOLA",
+      "qty": 547682.1227517722,
+      "entry_price": 9.038089421522903e-05,
+      "last_price": 8.76360268934562e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T09:15:46+00:00",
+      "missing": 0
+    },
+    "DKatqeV4EYRdvE24rGg738i3r6o9yfYfchAhKQovpump": {
+      "symbol": "NOLA",
+      "qty": 1382787.9236249004,
+      "entry_price": 3.579724638485311e-05,
+      "last_price": 3.4639168009734216e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T09:15:46+00:00",
+      "missing": 0
+    },
+    "D1RvqVRszipvJv8uxB2YYXrqe7MXYRRtfAUftNStpump": {
+      "symbol": "ライ",
+      "qty": 5688645.157748657,
+      "entry_price": 8.701544678450318e-06,
+      "last_price": 8.386061108344646e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T09:15:46+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T18:23:27+00:00",
-      "side": "buy",
-      "symbol": "COLD2034",
-      "address": "66hAThK7cFyEqkaoPevmmFKQqrLJSzq6HRHgBbQLpump",
-      "price": 0.07873814681532076,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T18:23:27+00:00",
-      "side": "buy",
-      "symbol": "permanent",
-      "address": "5g6bbYKn1BZKPGB4ZZ5AhYAKRKGo9gRoF7B4efpdpump",
-      "price": 7.79171699127884e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T18:23:27+00:00",
-      "side": "buy",
-      "symbol": "permanent",
-      "address": "HCzWnPSxDWSNwjYyi8CWGnWj5pZ6GTy43qESkjPEpump",
-      "price": 1.827241940917761e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T18:23:27+00:00",
-      "side": "buy",
-      "symbol": "STUTUTU",
-      "address": "4pgKWvZXuddykbUXbtc6GhLs1UghQm4Tz8bvBjmvpump",
-      "price": 7.335084799019582e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T18:23:27+00:00",
-      "side": "buy",
-      "symbol": "MCSOL",
-      "address": "D43JTnBSCPyJ8reUdWGPeWyKxqjtXow9n2twxgoZpump",
-      "price": 1.4920792226610012e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T18:46:38+00:00",
       "side": "sell",
@@ -4544,6 +4513,50 @@
       "address": "Cj1dwCKPyfBnKmUsb3FyGgJvKDvKCVu1piSEeAJLpump",
       "price": 1.4978769785342486e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T09:15:46+00:00",
+      "side": "sell",
+      "symbol": "DOPEBAT",
+      "address": "5hdHC2svpp76P3rwFNUkgk1Ch4f3dy8REZrSZAEtpump",
+      "price": 9.561020149e-05,
+      "proceeds": 49.8,
+      "pnl_usd": -0.2,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T09:15:46+00:00",
+      "side": "sell",
+      "symbol": "CYBERALON",
+      "address": "3MJjuxQUZ7KH8Ju4GtkDReCdU4gquqEkQxb6vXqqpump",
+      "price": 2.46832402e-06,
+      "proceeds": 1.69,
+      "pnl_usd": -48.31,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T09:15:46+00:00",
+      "side": "buy",
+      "symbol": "NOLA",
+      "address": "4MFCdTKyo92i76CtbnHEriYnzdpxkGaETwFzE6XCpump",
+      "price": 9.038089421522903e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T09:15:46+00:00",
+      "side": "buy",
+      "symbol": "NOLA",
+      "address": "DKatqeV4EYRdvE24rGg738i3r6o9yfYfchAhKQovpump",
+      "price": 3.579724638485311e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T09:15:46+00:00",
+      "side": "buy",
+      "symbol": "ライ",
+      "address": "D1RvqVRszipvJv8uxB2YYXrqe7MXYRRtfAUftNStpump",
+      "price": 8.701544678450318e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6542,6 +6555,10 @@
     {
       "date": "2026-10-12T08:53:45+00:00",
       "equity": 5415091.1
+    },
+    {
+      "date": "2026-10-12T09:15:46+00:00",
+      "equity": 5415036.22
     }
   ]
 }
