@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5471264.477835922,
+  "cash": 5471214.477835922,
   "positions": {
     "FQfwuQE3THa66Ljebix6NSi9sPhrh77AJqP6Vrfppump": {
       "symbol": "T",
@@ -10,19 +10,18 @@
       "cost": 50.0,
       "entry_time": "2026-10-12T10:29:44+00:00",
       "missing": 0
+    },
+    "8H3wifc88mYz6bxrWUhLR7ACYWnCY4mkU1txKRQpump": {
+      "symbol": "WOJDOG",
+      "qty": 15070446.372782392,
+      "entry_price": 3.2845742438922214e-06,
+      "last_price": 3.16195340553741e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T11:14:46+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T19:40:21+00:00",
-      "side": "sell",
-      "symbol": "SAFEGUARD",
-      "address": "FSiuJYja3jK7ogUKFd1rKazD2JEVVR8CpFHukSDQpump",
-      "price": 3.17380651e-06,
-      "proceeds": 10.07,
-      "pnl_usd": -39.93,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-10T19:40:21+00:00",
       "side": "sell",
@@ -4516,6 +4515,14 @@
       "proceeds": 15.86,
       "pnl_usd": -34.14,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T11:14:46+00:00",
+      "side": "buy",
+      "symbol": "WOJDOG",
+      "address": "8H3wifc88mYz6bxrWUhLR7ACYWnCY4mkU1txKRQpump",
+      "price": 3.2845742438922214e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6534,6 +6541,10 @@
     {
       "date": "2026-10-12T10:53:40+00:00",
       "equity": 5471312.23
+    },
+    {
+      "date": "2026-10-12T11:14:46+00:00",
+      "equity": 5471309.88
     }
   ]
 }
