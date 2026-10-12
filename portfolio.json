@@ -1,62 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5534011.71834476,
+  "cash": 5533987.90956902,
   "positions": {
-    "Dvs1b7bnmNLjqCMF2UauzeFtbDWmpdaqirrmydTqpump": {
-      "symbol": "Anyware",
-      "qty": 2621407.116949796,
-      "entry_price": 1.8882988330937686e-05,
-      "last_price": 1.821719021721077e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T16:50:51+00:00",
-      "missing": 0
-    },
-    "GN7cWyFmRKumV4EQnMTTTeUqcXa44nn5s4yjKXMZpump": {
-      "symbol": "CLASH",
-      "qty": 6354494.405205403,
-      "entry_price": 7.789762149991216e-06,
-      "last_price": 7.491998702553645e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T16:50:51+00:00",
-      "missing": 0
-    },
     "2GhBiy6craxqp7fA1JTU5641itRGsJWZ7ma6eViGpump": {
       "symbol": "NOTHING",
       "qty": 2995765.4822421484,
       "entry_price": 1.652332276789312e-05,
-      "last_price": 1.5979796426428107e-05,
+      "last_price": 1.593067408e-05,
       "cost": 50.0,
       "entry_time": "2026-10-12T16:50:51+00:00",
+      "missing": 0
+    },
+    "CiJm2kFMBSDN2t8HZU5yZCqav1Eq6HHgc8E5KZspump": {
+      "symbol": "Casino",
+      "qty": 1102606.3145330686,
+      "entry_price": 4.4893630072273115e-05,
+      "last_price": 4.346038645266566e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T17:07:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T00:38:21+00:00",
-      "side": "buy",
-      "symbol": "LEVAI",
-      "address": "Bt723pbsrwUb5gQ17PvuwRacYejR5LFNEU7gbJSqpump",
-      "price": 0.07007451379750933,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T00:38:21+00:00",
-      "side": "buy",
-      "symbol": "$MFRG",
-      "address": "44jmYHm31Ycqi7AQApo2PqybEMU4GBVqoPRphtAdpump",
-      "price": 2.4587841800099222e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T01:02:42+00:00",
-      "side": "sell",
-      "symbol": "MCH",
-      "address": "9qMX7FPdVEPuAxCdGA1DN5VT5pc2eEX7QybTxp1mpump",
-      "price": 1.284717521e-05,
-      "proceeds": 45.63,
-      "pnl_usd": -4.37,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T01:02:42+00:00",
       "side": "sell",
@@ -4530,6 +4495,34 @@
       "address": "2GhBiy6craxqp7fA1JTU5641itRGsJWZ7ma6eViGpump",
       "price": 1.652332276789312e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T17:07:58+00:00",
+      "side": "sell",
+      "symbol": "Anyware",
+      "address": "Dvs1b7bnmNLjqCMF2UauzeFtbDWmpdaqirrmydTqpump",
+      "price": 3.144403055e-06,
+      "proceeds": 7.89,
+      "pnl_usd": -42.11,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T17:07:58+00:00",
+      "side": "sell",
+      "symbol": "CLASH",
+      "address": "GN7cWyFmRKumV4EQnMTTTeUqcXa44nn5s4yjKXMZpump",
+      "price": 3.024441292e-06,
+      "proceeds": 18.3,
+      "pnl_usd": -31.7,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T17:07:59+00:00",
+      "side": "buy",
+      "symbol": "Casino",
+      "address": "CiJm2kFMBSDN2t8HZU5yZCqav1Eq6HHgc8E5KZspump",
+      "price": 4.4893630072273115e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6600,6 +6593,10 @@
     {
       "date": "2026-10-12T16:50:51+00:00",
       "equity": 5534154.95
+    },
+    {
+      "date": "2026-10-12T17:07:59+00:00",
+      "equity": 5534083.55
     }
   ]
 }
