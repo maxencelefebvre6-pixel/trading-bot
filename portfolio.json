@@ -1,55 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5471214.477835922,
+  "cash": 5471160.03599641,
   "positions": {
-    "FQfwuQE3THa66Ljebix6NSi9sPhrh77AJqP6Vrfppump": {
-      "symbol": "T",
-      "qty": 4757038.842447706,
-      "entry_price": 1.0405632924058713e-05,
-      "last_price": 1.003823967e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T10:29:44+00:00",
-      "missing": 0
-    },
     "8H3wifc88mYz6bxrWUhLR7ACYWnCY4mkU1txKRQpump": {
       "symbol": "WOJDOG",
       "qty": 15070446.372782392,
       "entry_price": 3.2845742438922214e-06,
-      "last_price": 3.16195340553741e-06,
+      "last_price": 3.105351109e-06,
       "cost": 50.0,
       "entry_time": "2026-10-12T11:14:46+00:00",
+      "missing": 0
+    },
+    "8Jn7Hdd2WE9zVBmMGgej2v4zyFni8htaDHsXyCXcpump": {
+      "symbol": "Multipad",
+      "qty": 555779.0228207047,
+      "entry_price": 8.906417473041041e-05,
+      "last_price": 8.63579829638346e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T11:40:54+00:00",
+      "missing": 0
+    },
+    "CvacX56eJpywmGKLxGiFY7mG3q9wcjym2DHSJ5JLpump": {
+      "symbol": "SCRVAN",
+      "qty": 6109976.547541633,
+      "entry_price": 8.101504091683701e-06,
+      "last_price": 7.803181536564936e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T11:40:54+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T19:40:21+00:00",
-      "side": "sell",
-      "symbol": "$MFRG",
-      "address": "65b3FPmsTtcURCEx3ViQhKGnWxbiLY72fKUx2uyapump",
-      "price": 1.490743142e-06,
-      "proceeds": 12.26,
-      "pnl_usd": -37.74,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T19:40:21+00:00",
-      "side": "sell",
-      "symbol": "si",
-      "address": "36kzamCrceiaYL3YyaEZ9Vpo8NJzpHtX5hU4t2Gopump",
-      "price": 1.310584426e-05,
-      "proceeds": 25.13,
-      "pnl_usd": -24.87,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T19:40:21+00:00",
-      "side": "buy",
-      "symbol": "ARENA",
-      "address": "J3FoEMy5jiNrfbtMW1DytH55nABAGxCZtCdfxNnjpump",
-      "price": 9.981630192140252e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T19:55:04+00:00",
       "side": "sell",
@@ -4523,6 +4504,32 @@
       "address": "8H3wifc88mYz6bxrWUhLR7ACYWnCY4mkU1txKRQpump",
       "price": 3.2845742438922214e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T11:40:54+00:00",
+      "side": "sell",
+      "symbol": "T",
+      "address": "FQfwuQE3THa66Ljebix6NSi9sPhrh77AJqP6Vrfppump",
+      "price": 1.003823967e-05,
+      "proceeds": 45.56,
+      "pnl_usd": -4.44,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T11:40:54+00:00",
+      "side": "buy",
+      "symbol": "Multipad",
+      "address": "8Jn7Hdd2WE9zVBmMGgej2v4zyFni8htaDHsXyCXcpump",
+      "price": 8.906417473041041e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T11:40:54+00:00",
+      "side": "buy",
+      "symbol": "SCRVAN",
+      "address": "CvacX56eJpywmGKLxGiFY7mG3q9wcjym2DHSJ5JLpump",
+      "price": 8.101504091683701e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6545,6 +6552,10 @@
     {
       "date": "2026-10-12T11:14:46+00:00",
       "equity": 5471309.88
+    },
+    {
+      "date": "2026-10-12T11:40:54+00:00",
+      "equity": 5471302.51
     }
   ]
 }
