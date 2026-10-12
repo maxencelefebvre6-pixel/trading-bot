@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5166573.813522576,
+  "cash": 5166476.388504494,
   "positions": {
-    "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump": {
-      "symbol": "BATONSEM",
-      "qty": 919876.6959156576,
-      "entry_price": 5.3811559983837875e-05,
-      "last_price": 5.210340025296445e-05,
+    "DwsRdjrkr5jni2K2yXKoXVyBVCCjuUVwSPPnvKb8pump": {
+      "symbol": "Meerkat",
+      "qty": 3794777.5182297016,
+      "entry_price": 1.3044242979254343e-05,
+      "last_price": 1.254467588949906e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T00:33:56+00:00",
+      "entry_time": "2026-10-12T01:03:24+00:00",
+      "missing": 0
+    },
+    "EKANHgtCSyQNEJmXtAx1A72QmgUaDFXNMGYw5jwKpump": {
+      "symbol": "Seymour",
+      "qty": 3602896.5732470197,
+      "entry_price": 1.3738945593819634e-05,
+      "last_price": 1.3237082066465084e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T01:03:24+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T10:18:34+00:00",
-      "side": "sell",
-      "symbol": "Fox",
-      "address": "DV3JyDvhBe8ZiD9Kvx4SxX1tF9XTt1PAA2gZYhRnpump",
-      "price": 0.0001063048479,
-      "proceeds": 46.09,
-      "pnl_usd": -3.91,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T10:18:34+00:00",
-      "side": "sell",
-      "symbol": "modder",
-      "address": "8ZjzMTSAxawcNgQFzLzKFXTcV2qXWVTeDLCNhH17pump",
-      "price": 5.541691191e-06,
-      "proceeds": 17.48,
-      "pnl_usd": -32.52,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T10:18:34+00:00",
-      "side": "sell",
-      "symbol": "Poolympics",
-      "address": "BtMDkydRma3b8LRK5vetBwfBwmknvq6JJFH7uaS6pump",
-      "price": 6.946055119e-06,
-      "proceeds": 34.92,
-      "pnl_usd": -15.08,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-10T10:18:34+00:00",
       "side": "sell",
@@ -4518,6 +4497,32 @@
       "address": "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump",
       "price": 5.3811559983837875e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T01:03:23+00:00",
+      "side": "sell",
+      "symbol": "BATONSEM",
+      "address": "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump",
+      "price": 2.919576758e-06,
+      "proceeds": 2.57,
+      "pnl_usd": -47.43,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T01:03:24+00:00",
+      "side": "buy",
+      "symbol": "Meerkat",
+      "address": "DwsRdjrkr5jni2K2yXKoXVyBVCCjuUVwSPPnvKb8pump",
+      "price": 1.3044242979254343e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T01:03:24+00:00",
+      "side": "buy",
+      "symbol": "Seymour",
+      "address": "EKANHgtCSyQNEJmXtAx1A72QmgUaDFXNMGYw5jwKpump",
+      "price": 1.3738945593819634e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6436,6 +6441,10 @@
     {
       "date": "2026-10-12T00:33:56+00:00",
       "equity": 5166621.74
+    },
+    {
+      "date": "2026-10-12T01:03:24+00:00",
+      "equity": 5166571.68
     }
   ]
 }
