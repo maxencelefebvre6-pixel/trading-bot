@@ -1,74 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5165957.511839803,
+  "cash": 5165974.218131356,
   "positions": {
-    "HbssPeprvoGGcGeowk5k94AYK4yBxvAeecD7Ac22pump": {
-      "symbol": "Garage",
-      "qty": 5602226.377871568,
-      "entry_price": 8.835772898346592e-06,
-      "last_price": 8.508908070815845e-06,
+    "8bZtDz3YZUYbHYvk1EREvr99ZuRjGHegFHNDafQNpump": {
+      "symbol": "PADDER",
+      "qty": 5406374.789445564,
+      "entry_price": 9.155858024611042e-06,
+      "last_price": 8.810470722868033e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T03:20:55+00:00",
-      "missing": 0
-    },
-    "BgCgrVfEFZ1TmRQn5G3BVkwPheadwK3kk2xrCHK1pump": {
-      "symbol": "plot",
-      "qty": 2672728.065565469,
-      "entry_price": 1.8520402669370438e-05,
-      "last_price": 1.7865654482819102e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T03:20:55+00:00",
-      "missing": 0
-    },
-    "FGTRyYTZ3v87gHhDzZvxMMPZVCntyvYvz78Kj7vspump": {
-      "symbol": "Pope",
-      "qty": 2288399.6822927985,
-      "entry_price": 2.1630836773410512e-05,
-      "last_price": 2.093903324928103e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T03:20:55+00:00",
+      "entry_time": "2026-10-12T03:47:01+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T12:53:32+00:00",
-      "side": "sell",
-      "symbol": "Nike",
-      "address": "A3bgS385BE23cy98nbKsbuKZeSHd2J8NxLd6P6ZXpump",
-      "price": 0.0007136709138,
-      "proceeds": 76.29,
-      "pnl_usd": 26.29,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-10T12:53:32+00:00",
-      "side": "sell",
-      "symbol": "SANDBOX",
-      "address": "7SuHznck28nX6AgxQTZfW5bMstPDwHrcssahWYYWpump",
-      "price": 2.982789317e-05,
-      "proceeds": 29.76,
-      "pnl_usd": -20.24,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-10T13:33:02+00:00",
-      "side": "sell",
-      "symbol": "G CANDLE",
-      "address": "AckxLXFN6ihcz9LR3XnVk6X5TypmZJyEnzSAVgimpump",
-      "price": 1.264495509e-05,
-      "proceeds": 45.7,
-      "pnl_usd": -4.3,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-10T13:33:02+00:00",
-      "side": "buy",
-      "symbol": "Horacio",
-      "address": "DNx7niykPaJjxaF2WQABj57RFdStdtMA6pJu5eaupump",
-      "price": 8.938722127744685e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T13:50:51+00:00",
       "side": "sell",
@@ -4530,6 +4474,44 @@
       "address": "FGTRyYTZ3v87gHhDzZvxMMPZVCntyvYvz78Kj7vspump",
       "price": 2.1630836773410512e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T03:47:01+00:00",
+      "side": "sell",
+      "symbol": "Garage",
+      "address": "HbssPeprvoGGcGeowk5k94AYK4yBxvAeecD7Ac22pump",
+      "price": 3.873662225e-06,
+      "proceeds": 20.66,
+      "pnl_usd": -29.34,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T03:47:01+00:00",
+      "side": "sell",
+      "symbol": "plot",
+      "address": "BgCgrVfEFZ1TmRQn5G3BVkwPheadwK3kk2xrCHK1pump",
+      "price": 3.48011345e-06,
+      "proceeds": 8.9,
+      "pnl_usd": -41.1,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T03:47:01+00:00",
+      "side": "sell",
+      "symbol": "Pope",
+      "address": "FGTRyYTZ3v87gHhDzZvxMMPZVCntyvYvz78Kj7vspump",
+      "price": 1.695341156e-05,
+      "proceeds": 37.14,
+      "pnl_usd": -12.86,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T03:47:01+00:00",
+      "side": "buy",
+      "symbol": "PADDER",
+      "address": "8bZtDz3YZUYbHYvk1EREvr99ZuRjGHegFHNDafQNpump",
+      "price": 9.155858024611042e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6476,6 +6458,10 @@
     {
       "date": "2026-10-12T03:20:55+00:00",
       "equity": 5166100.85
+    },
+    {
+      "date": "2026-10-12T03:47:01+00:00",
+      "equity": 5166021.85
     }
   ]
 }
