@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5165969.2016206365,
+  "cash": 5165932.973394164,
   "positions": {
-    "HUQGcUPvyWcxC9eczfE5hXxU4h86JtGrBUipnCdupump": {
-      "symbol": "Meowsterious",
-      "qty": 4542787.490822492,
-      "entry_price": 1.0896393480875285e-05,
-      "last_price": 1.049037891913029e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T05:41:25+00:00",
-      "missing": 0
-    },
     "8fycqa7PjbxHfYdWSTxvYGtqMwTbFkUwn11mM4TEpump": {
       "symbol": "DB",
       "qty": 6362812.254448358,
       "entry_price": 7.779578906385875e-06,
-      "last_price": 7.488051015248496e-06,
+      "last_price": 7.516120641e-06,
       "cost": 50.0,
       "entry_time": "2026-10-12T05:41:25+00:00",
+      "missing": 0
+    },
+    "CLHEgajQ239vmauAkUgH9T1247rsdXceLSx8t6rjpump": {
+      "symbol": "Solamians",
+      "qty": 546823.6478716198,
+      "entry_price": 9.052278589755016e-05,
+      "last_price": 8.777404471850658e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-12T06:01:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-10T14:59:12+00:00",
-      "side": "buy",
-      "symbol": "Felix",
-      "address": "J6vUmbTFJ15gZjg1Hk1GYGCW9Dgx9kfcX8mSm8Fqpump",
-      "price": 8.934947018261665e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-10T14:59:12+00:00",
-      "side": "buy",
-      "symbol": "angel",
-      "address": "BR5BPTC3NUcD63hubUatkVDQPcvFREWNQVFQMycSpump",
-      "price": 1.1276976704320691e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-10T14:59:12+00:00",
       "side": "buy",
@@ -4523,6 +4507,24 @@
       "address": "8fycqa7PjbxHfYdWSTxvYGtqMwTbFkUwn11mM4TEpump",
       "price": 7.779578906385875e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T06:01:36+00:00",
+      "side": "sell",
+      "symbol": "Meowsterious",
+      "address": "HUQGcUPvyWcxC9eczfE5hXxU4h86JtGrBUipnCdupump",
+      "price": 3.17571476e-06,
+      "proceeds": 13.77,
+      "pnl_usd": -36.23,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T06:01:36+00:00",
+      "side": "buy",
+      "symbol": "Solamians",
+      "address": "CLHEgajQ239vmauAkUgH9T1247rsdXceLSx8t6rjpump",
+      "price": 9.052278589755016e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6493,6 +6495,10 @@
     {
       "date": "2026-10-12T05:41:25+00:00",
       "equity": 5166064.5
+    },
+    {
+      "date": "2026-10-12T06:01:36+00:00",
+      "equity": 5166028.79
     }
   ]
 }
