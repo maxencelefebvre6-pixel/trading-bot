@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5533897.787830198,
+  "cash": 5533903.012730002,
   "positions": {
     "En2qzKRsnMD8mTAAMKrFaXJNKzt13ySBoUFYzZmupump": {
       "symbol": "MarsX",
@@ -24,61 +24,22 @@
       "symbol": "MarsX",
       "qty": 572829.5676052247,
       "entry_price": 8.641313716912353e-05,
-      "last_price": 8.378421297035166e-05,
+      "last_price": 9.014286525e-05,
       "cost": 50.0,
       "entry_time": "2026-10-12T18:11:48+00:00",
       "missing": 0
     },
-    "6w7WHH8jrtPMob67bvNCYTjTmBzpb8SBiWpx8pNdpump": {
-      "symbol": "casino",
-      "qty": 573002.2063244543,
-      "entry_price": 8.63871019232539e-05,
-      "last_price": 8.375893523437571e-05,
+    "5sAXAfSRTrgNPBtyqRC1Y747UEcTc9v6BySrqo7Bpump": {
+      "symbol": "MarsX",
+      "qty": 573798.0454654815,
+      "entry_price": 8.62672858354618e-05,
+      "last_price": 8.364234736082944e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-12T18:11:48+00:00",
-      "missing": 0
-    },
-    "5xKTZR6eGn14sffQS9UZZKifZ6vDmrziS39qYL5gpump": {
-      "symbol": "UNICORN",
-      "qty": 3223849.0690590213,
-      "entry_price": 1.5354316824282374e-05,
-      "last_price": 1.4802157254907707e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T18:11:48+00:00",
+      "entry_time": "2026-10-12T18:40:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T01:44:11+00:00",
-      "side": "sell",
-      "symbol": "$MFRG",
-      "address": "44jmYHm31Ycqi7AQApo2PqybEMU4GBVqoPRphtAdpump",
-      "price": 2.38090718e-05,
-      "proceeds": 45.91,
-      "pnl_usd": -4.09,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-11T01:44:11+00:00",
-      "side": "sell",
-      "symbol": "Ollie",
-      "address": "BUeRur6d7oZjaz23CzsLdQco4UBsy9QwCJCyuMz5pump",
-      "price": 0.0002357264825,
-      "proceeds": 129.43,
-      "pnl_usd": 79.43,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T01:44:11+00:00",
-      "side": "sell",
-      "symbol": "BEEF",
-      "address": "CwaU8mtbBgragFdQtdgJaVSm6ckxYWs5m95v5r5Zpump",
-      "price": 3.106330225e-06,
-      "proceeds": 16.82,
-      "pnl_usd": -33.18,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-11T01:44:11+00:00",
       "side": "buy",
@@ -4548,6 +4509,34 @@
       "address": "5xKTZR6eGn14sffQS9UZZKifZ6vDmrziS39qYL5gpump",
       "price": 1.5354316824282374e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T18:40:27+00:00",
+      "side": "sell",
+      "symbol": "casino",
+      "address": "6w7WHH8jrtPMob67bvNCYTjTmBzpb8SBiWpx8pNdpump",
+      "price": 0.0001619315848,
+      "proceeds": 45.93,
+      "pnl_usd": -4.07,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T18:40:27+00:00",
+      "side": "sell",
+      "symbol": "UNICORN",
+      "address": "5xKTZR6eGn14sffQS9UZZKifZ6vDmrziS39qYL5gpump",
+      "price": 3.015136291e-06,
+      "proceeds": 9.3,
+      "pnl_usd": -40.7,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-12T18:40:27+00:00",
+      "side": "buy",
+      "symbol": "MarsX",
+      "address": "5sAXAfSRTrgNPBtyqRC1Y747UEcTc9v6BySrqo7Bpump",
+      "price": 8.62672858354618e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6634,6 +6623,10 @@
     {
       "date": "2026-10-12T18:11:48+00:00",
       "equity": 5534136.64
+    },
+    {
+      "date": "2026-10-12T18:40:27+00:00",
+      "equity": 5534097.79
     }
   ]
 }
