@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5533903.012730002,
+  "cash": 5838179.602519971,
   "positions": {
-    "En2qzKRsnMD8mTAAMKrFaXJNKzt13ySBoUFYzZmupump": {
-      "symbol": "MarsX",
-      "qty": 15278689.282425757,
-      "entry_price": 3.2398067062556962e-06,
-      "last_price": 3.108957299e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T17:52:46+00:00",
-      "missing": 0
-    },
-    "8nZpzhZaj8sySdUQK2wKXEtB7RidwWf7bLCnzQy9pump": {
-      "symbol": "DEEP",
-      "qty": 5349139.1088157585,
-      "entry_price": 9.253825520899336e-06,
-      "last_price": 8.906409213e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-12T17:52:46+00:00",
-      "missing": 0
-    },
     "ABFbigWTYeogXFyFqYWsLoKn87dMqUu9M6KtN7uBpump": {
       "symbol": "MarsX",
       "qty": 572829.5676052247,
@@ -29,51 +11,17 @@
       "entry_time": "2026-10-12T18:11:48+00:00",
       "missing": 0
     },
-    "5sAXAfSRTrgNPBtyqRC1Y747UEcTc9v6BySrqo7Bpump": {
-      "symbol": "MarsX",
-      "qty": 573798.0454654815,
-      "entry_price": 8.62672858354618e-05,
-      "last_price": 8.364234736082944e-05,
+    "BxmjAzhoyUgkHKRk4yxSuqcutMgpqR9y2ujPs969pump": {
+      "symbol": "💸",
+      "qty": 30868931.568022456,
+      "entry_price": 1.6035540423847297e-06,
+      "last_price": 1.5437389827366306e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-12T18:40:27+00:00",
+      "entry_time": "2026-10-12T19:02:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T01:44:11+00:00",
-      "side": "buy",
-      "symbol": "RAlL",
-      "address": "rCb4eqck97AvydfDQzpnxBoDAMh9RMr5fkMrLsepump",
-      "price": 2.0048763553118402e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T01:44:11+00:00",
-      "side": "buy",
-      "symbol": "GCK",
-      "address": "2FytuG5EWvTSoLPDxxMqhaF8R4vn7SE6EfyT2rk5pump",
-      "price": 7.4194754324731065e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T02:00:07+00:00",
-      "side": "sell",
-      "symbol": "RAlL",
-      "address": "rCb4eqck97AvydfDQzpnxBoDAMh9RMr5fkMrLsepump",
-      "price": 1.089943873e-05,
-      "proceeds": 25.61,
-      "pnl_usd": -24.39,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T02:00:08+00:00",
-      "side": "buy",
-      "symbol": "fork",
-      "address": "5DaRegSRG9SA3vnyiNwZCFHgTc4xiuG9rZTojH3fpump",
-      "price": 9.18745500303728e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T02:00:08+00:00",
       "side": "buy",
@@ -4537,6 +4485,44 @@
       "address": "5sAXAfSRTrgNPBtyqRC1Y747UEcTc9v6BySrqo7Bpump",
       "price": 8.62672858354618e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-12T19:02:36+00:00",
+      "side": "sell",
+      "symbol": "MarsX",
+      "address": "En2qzKRsnMD8mTAAMKrFaXJNKzt13ySBoUFYzZmupump",
+      "price": 3.108957299e-06,
+      "proceeds": 44.71,
+      "pnl_usd": -5.29,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T19:02:36+00:00",
+      "side": "sell",
+      "symbol": "DEEP",
+      "address": "8nZpzhZaj8sySdUQK2wKXEtB7RidwWf7bLCnzQy9pump",
+      "price": 8.906409213e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-12T19:02:36+00:00",
+      "side": "sell",
+      "symbol": "MarsX",
+      "address": "5sAXAfSRTrgNPBtyqRC1Y747UEcTc9v6BySrqo7Bpump",
+      "price": 1.0711421355,
+      "proceeds": 304236.54,
+      "pnl_usd": 304186.54,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-12T19:02:36+00:00",
+      "side": "buy",
+      "symbol": "💸",
+      "address": "BxmjAzhoyUgkHKRk4yxSuqcutMgpqR9y2ujPs969pump",
+      "price": 1.6035540423847297e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6627,6 +6613,10 @@
     {
       "date": "2026-10-12T18:40:27+00:00",
       "equity": 5534097.79
+    },
+    {
+      "date": "2026-10-12T19:02:36+00:00",
+      "equity": 5838278.89
     }
   ]
 }
