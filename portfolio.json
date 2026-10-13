@@ -1,70 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5894726.036788181,
+  "cash": 5894862.778505952,
   "positions": {
-    "NmaXyyJ3gv7jVtv4kd6z6q8A23TbtrVioVEQKKCpump": {
-      "symbol": "Mr Beast",
-      "qty": 131044.26529059767,
-      "entry_price": 0.0003777349576513791,
-      "last_price": 0.00036637814972044735,
+    "9y32uxQSC2cShXPHZrULHe7sc3kPYDwAm6rwSiR2pump": {
+      "symbol": "AERIA",
+      "qty": 4641614.545769404,
+      "entry_price": 1.0664392640081831e-05,
+      "last_price": 1.0261460341450513e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T12:01:21+00:00",
-      "missing": 0
-    },
-    "9cHteTeeomxooTBLB1QS965bif7HbRcpuBspCJyhpump": {
-      "symbol": "Lion",
-      "qty": 4250342.440057483,
-      "entry_price": 1.1646120447492825e-05,
-      "last_price": 1.1219528633922598e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T12:01:21+00:00",
-      "missing": 0
-    },
-    "H1PPPriagS2c1ARYuLekZm98v3GccPaXGcfRupgZpump": {
-      "symbol": "Grimpoteuthis",
-      "qty": 4735637.653749699,
-      "entry_price": 1.0452657829681221e-05,
-      "last_price": 1.0069458005480155e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T12:01:21+00:00",
+      "entry_time": "2026-10-13T12:32:58+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T14:50:31+00:00",
-      "side": "sell",
-      "symbol": "BNUT",
-      "address": "HCL6b32v8byytGvCCcrfJhzcGs2VggYnoux36bMupump",
-      "price": 3.228771609e-06,
-      "proceeds": 18.59,
-      "pnl_usd": -31.41,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T14:50:31+00:00",
-      "side": "buy",
-      "symbol": "Dacity",
-      "address": "Hs72V5fCV7uWHnnQ486g9N8eyMKYEPhdnw6UnSSZpump",
-      "price": 8.756658827974445e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T14:50:31+00:00",
-      "side": "buy",
-      "symbol": "10m",
-      "address": "HuoTzoa3G26tw9hUAsATrEML2yuqwopQ53ps1H4opump",
-      "price": 1.0981538024442215e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T14:50:31+00:00",
-      "side": "buy",
-      "symbol": "sol",
-      "address": "GgEKCLbsCNqBNL3Po4MPe7tBWR3PoRY8DUv4DFXJpump",
-      "price": 6.932541836327028e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T15:05:13+00:00",
       "side": "sell",
@@ -4530,6 +4478,44 @@
       "address": "H1PPPriagS2c1ARYuLekZm98v3GccPaXGcfRupgZpump",
       "price": 1.0452657829681221e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T12:32:58+00:00",
+      "side": "sell",
+      "symbol": "Mr Beast",
+      "address": "NmaXyyJ3gv7jVtv4kd6z6q8A23TbtrVioVEQKKCpump",
+      "price": 1.925733514e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T12:32:58+00:00",
+      "side": "sell",
+      "symbol": "Lion",
+      "address": "9cHteTeeomxooTBLB1QS965bif7HbRcpuBspCJyhpump",
+      "price": 4.268439618e-05,
+      "proceeds": 170.91,
+      "pnl_usd": 120.91,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-13T12:32:58+00:00",
+      "side": "sell",
+      "symbol": "Grimpoteuthis",
+      "address": "H1PPPriagS2c1ARYuLekZm98v3GccPaXGcfRupgZpump",
+      "price": 3.450391568e-06,
+      "proceeds": 15.59,
+      "pnl_usd": -34.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T12:32:58+00:00",
+      "side": "buy",
+      "symbol": "AERIA",
+      "address": "9y32uxQSC2cShXPHZrULHe7sc3kPYDwAm6rwSiR2pump",
+      "price": 1.0664392640081831e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6792,6 +6778,10 @@
     {
       "date": "2026-10-13T12:01:21+00:00",
       "equity": 5894869.42
+    },
+    {
+      "date": "2026-10-13T12:32:58+00:00",
+      "equity": 5894910.41
     }
   ]
 }
