@@ -1,38 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5894826.406403936,
+  "cash": 5894807.467915533,
   "positions": {
-    "35nsz5zx1dG57ZNeQ46AJuj9XWL1s2Jr1F9EWfRTpump": {
-      "symbol": "Aivault",
-      "qty": 819.2522515522585,
-      "entry_price": 0.060420950819739666,
-      "last_price": 0.05863536218875088,
+    "JCC1QDsMNqKdvhJtkWGnfozERXR8FURQEHxMDXDupump": {
+      "symbol": "MOON",
+      "qty": 556985.1061541181,
+      "entry_price": 8.887131711974956e-05,
+      "last_price": 8.616845837983705e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T13:04:49+00:00",
+      "entry_time": "2026-10-13T13:35:09+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T15:05:13+00:00",
-      "side": "sell",
-      "symbol": "10m",
-      "address": "HuoTzoa3G26tw9hUAsATrEML2yuqwopQ53ps1H4opump",
-      "price": 3.102278695e-06,
-      "proceeds": 13.35,
-      "pnl_usd": -36.65,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T15:05:13+00:00",
-      "side": "sell",
-      "symbol": "sol",
-      "address": "GgEKCLbsCNqBNL3Po4MPe7tBWR3PoRY8DUv4DFXJpump",
-      "price": 9.804956092e-08,
-      "proceeds": 0.67,
-      "pnl_usd": -49.33,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-11T15:05:13+00:00",
       "side": "buy",
@@ -4514,6 +4494,24 @@
       "address": "35nsz5zx1dG57ZNeQ46AJuj9XWL1s2Jr1F9EWfRTpump",
       "price": 0.060420950819739666,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T13:35:09+00:00",
+      "side": "sell",
+      "symbol": "Aivault",
+      "address": "35nsz5zx1dG57ZNeQ46AJuj9XWL1s2Jr1F9EWfRTpump",
+      "price": 0.07659488071,
+      "proceeds": 31.06,
+      "pnl_usd": -18.94,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T13:35:09+00:00",
+      "side": "buy",
+      "symbol": "MOON",
+      "address": "JCC1QDsMNqKdvhJtkWGnfozERXR8FURQEHxMDXDupump",
+      "price": 8.887131711974956e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6784,6 +6782,10 @@
     {
       "date": "2026-10-13T13:04:49+00:00",
       "equity": 5894874.44
+    },
+    {
+      "date": "2026-10-13T13:35:09+00:00",
+      "equity": 5894855.46
     }
   ]
 }
