@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5895689.47998184,
-  "positions": {},
+  "cash": 5895639.47998184,
+  "positions": {
+    "Hj7v1xprrcMbj3vraDHCjyCHqFwKfLo6QMkEVswKpump": {
+      "symbol": "Bull",
+      "qty": 1279953.508419572,
+      "entry_price": 3.86732796733534e-05,
+      "last_price": 3.734528304406316e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T03:02:56+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-11T08:12:14+00:00",
-      "side": "buy",
-      "symbol": "SATINU",
-      "address": "A1h2SEMoSWnngHev9jBrnFG5N4p25yzwHsSrEEEGpump",
-      "price": 8.517028908514071e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T08:35:03+00:00",
       "side": "sell",
@@ -4506,6 +4508,14 @@
       "proceeds": 24.51,
       "pnl_usd": -25.49,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T03:02:56+00:00",
+      "side": "buy",
+      "symbol": "Bull",
+      "address": "Hj7v1xprrcMbj3vraDHCjyCHqFwKfLo6QMkEVswKpump",
+      "price": 3.86732796733534e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6676,6 +6686,10 @@
     {
       "date": "2026-10-13T02:44:35+00:00",
       "equity": 5895689.48
+    },
+    {
+      "date": "2026-10-13T03:02:56+00:00",
+      "equity": 5895687.28
     }
   ]
 }
