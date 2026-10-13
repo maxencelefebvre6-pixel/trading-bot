@@ -1,44 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5895376.72214686,
-  "positions": {},
+  "cash": 5895176.72214686,
+  "positions": {
+    "3msLQYFFnkNWamSBEB4wxS7xbFkEmNAnjMKi6sBbpump": {
+      "symbol": "PLAYSET",
+      "qty": 565923.5666658704,
+      "entry_price": 8.746764212635367e-05,
+      "last_price": 8.480781423273507e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T06:48:00+00:00",
+      "missing": 0
+    },
+    "ZSQhojF6qe6jhJggETrimLCgVePzLCoAwkPJaTHpump": {
+      "symbol": "Raccoon",
+      "qty": 754225.6926304529,
+      "entry_price": 6.56302224700975e-05,
+      "last_price": 6.356830547656331e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T06:48:00+00:00",
+      "missing": 0
+    },
+    "92kqVMvPELzwZVM8ex3G5UKWiCBLN81er1fgp4yipump": {
+      "symbol": "ZebraCat",
+      "qty": 3052303.6285409415,
+      "entry_price": 1.6217259494482838e-05,
+      "last_price": 1.5682877396091812e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T06:48:00+00:00",
+      "missing": 0
+    },
+    "HQ2cky3ugfWuomda4Yaa5mBCQBRmwdVR6GGtvkhPpump": {
+      "symbol": "FHC",
+      "qty": 7228417.7150228545,
+      "entry_price": 6.847971707158528e-06,
+      "last_price": 6.5849206326710955e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T06:48:00+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-11T10:11:51+00:00",
-      "side": "buy",
-      "symbol": "Animates",
-      "address": "EWNnrPdvwV3RYuxKgpyPx45T5VMjhaQANX1upzPcpump",
-      "price": 8.760300476209107e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:11:51+00:00",
-      "side": "buy",
-      "symbol": "Animates",
-      "address": "D6ZkQQsJZ9xYsQaiyC6ZX36XTTgtC45PUDnpYNrxpump",
-      "price": 1.7287823922022526e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:32:50+00:00",
-      "side": "sell",
-      "symbol": "Animates",
-      "address": "EWNnrPdvwV3RYuxKgpyPx45T5VMjhaQANX1upzPcpump",
-      "price": 4.974405926e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T10:32:50+00:00",
-      "side": "sell",
-      "symbol": "Animates",
-      "address": "D6ZkQQsJZ9xYsQaiyC6ZX36XTTgtC45PUDnpYNrxpump",
-      "price": 2.32608784e-05,
-      "proceeds": 63.39,
-      "pnl_usd": 13.39,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-11T10:32:50+00:00",
       "side": "buy",
@@ -4504,6 +4505,38 @@
       "proceeds": 0.0,
       "pnl_usd": -50.0,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T06:48:00+00:00",
+      "side": "buy",
+      "symbol": "PLAYSET",
+      "address": "3msLQYFFnkNWamSBEB4wxS7xbFkEmNAnjMKi6sBbpump",
+      "price": 8.746764212635367e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T06:48:00+00:00",
+      "side": "buy",
+      "symbol": "Raccoon",
+      "address": "ZSQhojF6qe6jhJggETrimLCgVePzLCoAwkPJaTHpump",
+      "price": 6.56302224700975e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T06:48:00+00:00",
+      "side": "buy",
+      "symbol": "ZebraCat",
+      "address": "92kqVMvPELzwZVM8ex3G5UKWiCBLN81er1fgp4yipump",
+      "price": 1.6217259494482838e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T06:48:00+00:00",
+      "side": "buy",
+      "symbol": "FHC",
+      "address": "HQ2cky3ugfWuomda4Yaa5mBCQBRmwdVR6GGtvkhPpump",
+      "price": 6.847971707158528e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6710,6 +6743,10 @@
     {
       "date": "2026-10-13T06:12:22+00:00",
       "equity": 5895376.72
+    },
+    {
+      "date": "2026-10-13T06:48:00+00:00",
+      "equity": 5895368.13
     }
   ]
 }
