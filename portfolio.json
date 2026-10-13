@@ -1,74 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5894398.797157953,
+  "cash": 5894326.650779985,
   "positions": {
-    "CtYmtLmF2ivs9NFdQysPord37J2f3ME7jTZcDMFspump": {
-      "symbol": "Jenny",
-      "qty": 3402402.1508087832,
-      "entry_price": 1.4548544765125246e-05,
-      "last_price": 1.402085797076642e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T18:01:19+00:00",
-      "missing": 0
-    },
-    "BpgYewqBhepGT1sV4Za7tjgWVj3MsMyb6EYtr5Aepump": {
-      "symbol": "Jenny",
-      "qty": 6121071.455751187,
-      "entry_price": 8.086819498486852e-06,
-      "last_price": 7.778558327956384e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T18:01:19+00:00",
-      "missing": 0
-    },
     "6XbXaLCbSfu6B9FUjhMdLGbU9Xvwoo5oSxwXvjJQpump": {
       "symbol": "Harvest",
       "qty": 3163094.274679545,
       "entry_price": 1.5649233219586816e-05,
-      "last_price": 1.5131991974775611e-05,
+      "last_price": 1.513199197e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T18:01:19+00:00",
+      "missing": 0
+    },
+    "goWDpMh3nqdeuiEe5QjMwA6nBcdSanEBnggAnFZpump": {
+      "symbol": "TACTICS",
+      "qty": 102181.79060071189,
+      "entry_price": 0.000484430735740651,
+      "last_price": 0.00046992464792058723,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T18:31:10+00:00",
+      "missing": 0
+    },
+    "H5pjcUzozJfKHjk9zntNsE7ExtvfpQZaXEahJGEWpump": {
+      "symbol": "$FROINK",
+      "qty": 946308.8757954711,
+      "entry_price": 5.230850229359848e-05,
+      "last_price": 5.0708204906684126e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T18:31:10+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T19:39:56+00:00",
-      "side": "sell",
-      "symbol": "[bracat]",
-      "address": "Cgcg7ERFvCu7AtVUqqkpw4y6btiHURv2ZRXrdhPNpump",
-      "price": 0.0001181777094,
-      "proceeds": 62.73,
-      "pnl_usd": 12.73,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-11T19:39:56+00:00",
-      "side": "sell",
-      "symbol": "pump",
-      "address": "9NenKVnNocG6iPSmsbN3fGsFN75S1Dmfwf8KxSyqpump",
-      "price": 3.940557563e-06,
-      "proceeds": 10.11,
-      "pnl_usd": -39.89,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T19:55:50+00:00",
-      "side": "buy",
-      "symbol": "plug",
-      "address": "6UStsEAjK1bDWgFtfjv8UZ4dt6NV9vw9sdeHsdfKpump",
-      "price": 1.7936010751501227e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T20:15:37+00:00",
-      "side": "sell",
-      "symbol": "Agent",
-      "address": "8vmrGdKrfuYm3aCq1DXWhvoAwj5XUVDm3Pf4RAdvpump",
-      "price": 7.369401294e-06,
-      "proceeds": 45.06,
-      "pnl_usd": -4.94,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T20:15:37+00:00",
       "side": "buy",
@@ -4530,6 +4492,42 @@
       "address": "6XbXaLCbSfu6B9FUjhMdLGbU9Xvwoo5oSxwXvjJQpump",
       "price": 1.5649233219586816e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T18:31:10+00:00",
+      "side": "sell",
+      "symbol": "Jenny",
+      "address": "CtYmtLmF2ivs9NFdQysPord37J2f3ME7jTZcDMFspump",
+      "price": 3.115259698e-06,
+      "proceeds": 10.13,
+      "pnl_usd": -39.87,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T18:31:10+00:00",
+      "side": "sell",
+      "symbol": "Jenny",
+      "address": "BpgYewqBhepGT1sV4Za7tjgWVj3MsMyb6EYtr5Aepump",
+      "price": 3.037650222e-06,
+      "proceeds": 17.72,
+      "pnl_usd": -32.28,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T18:31:10+00:00",
+      "side": "buy",
+      "symbol": "TACTICS",
+      "address": "goWDpMh3nqdeuiEe5QjMwA6nBcdSanEBnggAnFZpump",
+      "price": 0.000484430735740651,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T18:31:10+00:00",
+      "side": "buy",
+      "symbol": "$FROINK",
+      "address": "H5pjcUzozJfKHjk9zntNsE7ExtvfpQZaXEahJGEWpump",
+      "price": 5.230850229359848e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6848,6 +6846,10 @@
     {
       "date": "2026-10-13T18:01:19+00:00",
       "equity": 5894541.98
+    },
+    {
+      "date": "2026-10-13T18:31:10+00:00",
+      "equity": 5894470.52
     }
   ]
 }
