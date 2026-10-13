@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5894732.004036503,
+  "cash": 5894690.909273223,
   "positions": {
     "yHJ92b8m3b1mh4oqKorX2JgUNMbW1vTEXzSngFApump": {
       "symbol": "song",
@@ -11,20 +11,11 @@
       "entry_time": "2026-10-13T14:02:52+00:00",
       "missing": 0
     },
-    "22KAAJ1MgtGBvL9LbHxcNykpmuXCVt6Scwp8gtv2pump": {
-      "symbol": "paper",
-      "qty": 3063592.977254222,
-      "entry_price": 1.615749884776303e-05,
-      "last_price": 1.55806262719602e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T14:29:43+00:00",
-      "missing": 0
-    },
     "AvkPCyXYS84rqDz3KBPgcF9jgxAZ5rhUanpnDvdGpump": {
       "symbol": "EVIL",
       "qty": 4797731.740910708,
       "entry_price": 1.0317375516832019e-05,
-      "last_price": 9.93215029064634e-06,
+      "last_price": 9.932150291e-06,
       "cost": 50.0,
       "entry_time": "2026-10-13T14:29:43+00:00",
       "missing": 0
@@ -33,29 +24,22 @@
       "symbol": "ADOBE",
       "qty": 3507681.416451187,
       "entry_price": 1.4111885922091649e-05,
-      "last_price": 1.3620823660335535e-05,
+      "last_price": 1.362082366e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T14:29:43+00:00",
+      "missing": 0
+    },
+    "CCVTL4FEVJY1Vd4nxDeA4X7f4StLr8NLYc1ZQ4Cspump": {
+      "symbol": "Mesk",
+      "qty": 5517790.054827167,
+      "entry_price": 8.970982858743523e-06,
+      "last_price": 8.636723116674085e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T14:56:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T15:25:13+00:00",
-      "side": "buy",
-      "symbol": "Aggie",
-      "address": "ACRMYfyDSZwRmpUeqfvbx2RUJ1pTqiEYn4mc82o1pump",
-      "price": 8.83110753991436e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T15:25:13+00:00",
-      "side": "buy",
-      "symbol": "Fluffy",
-      "address": "5ATM3SgHpRd3ucsZ8pawK5g1WRanrNqHfj1yU16Kpump",
-      "price": 1.719639730138697e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T15:25:13+00:00",
       "side": "buy",
@@ -4537,6 +4521,24 @@
       "address": "Hifyjwnx3jZ5fGwJguGTqgzQHoBoutfQAsbRZfHgpump",
       "price": 1.4111885922091649e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T14:56:35+00:00",
+      "side": "sell",
+      "symbol": "paper",
+      "address": "22KAAJ1MgtGBvL9LbHxcNykpmuXCVt6Scwp8gtv2pump",
+      "price": 3.039071072e-06,
+      "proceeds": 8.91,
+      "pnl_usd": -41.09,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T14:56:36+00:00",
+      "side": "buy",
+      "symbol": "Mesk",
+      "address": "CCVTL4FEVJY1Vd4nxDeA4X7f4StLr8NLYc1ZQ4Cspump",
+      "price": 8.970982858743523e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6819,6 +6821,10 @@
     {
       "date": "2026-10-13T14:29:43+00:00",
       "equity": 5894922.86
+    },
+    {
+      "date": "2026-10-13T14:56:36+00:00",
+      "equity": 5894881.69
     }
   ]
 }
