@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5895176.72214686,
+  "cash": 5895028.219452768,
   "positions": {
-    "3msLQYFFnkNWamSBEB4wxS7xbFkEmNAnjMKi6sBbpump": {
-      "symbol": "PLAYSET",
-      "qty": 565923.5666658704,
-      "entry_price": 8.746764212635367e-05,
-      "last_price": 8.480781423273507e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T06:48:00+00:00",
-      "missing": 0
-    },
-    "ZSQhojF6qe6jhJggETrimLCgVePzLCoAwkPJaTHpump": {
-      "symbol": "Raccoon",
-      "qty": 754225.6926304529,
-      "entry_price": 6.56302224700975e-05,
-      "last_price": 6.356830547656331e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T06:48:00+00:00",
-      "missing": 0
-    },
     "92kqVMvPELzwZVM8ex3G5UKWiCBLN81er1fgp4yipump": {
       "symbol": "ZebraCat",
       "qty": 3052303.6285409415,
       "entry_price": 1.6217259494482838e-05,
-      "last_price": 1.5682877396091812e-05,
+      "last_price": 1.56828774e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T06:48:00+00:00",
       "missing": 0
@@ -33,55 +15,40 @@
       "symbol": "FHC",
       "qty": 7228417.7150228545,
       "entry_price": 6.847971707158528e-06,
-      "last_price": 6.5849206326710955e-06,
+      "last_price": 6.584920633e-06,
       "cost": 50.0,
       "entry_time": "2026-10-13T06:48:00+00:00",
+      "missing": 0
+    },
+    "88jm4YqwjQjb29Sjjah3QmuU5d5uU1i8edDnDMLNpump": {
+      "symbol": "VS",
+      "qty": 1035318.148382934,
+      "entry_price": 4.781139022561729e-05,
+      "last_price": 4.628626768739639e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T07:11:57+00:00",
+      "missing": 0
+    },
+    "EMifbuJUVMMrehHw97eNuhACY424w6KJPt5A4R9ppump": {
+      "symbol": "Barnacles",
+      "qty": 5183276.04238513,
+      "entry_price": 9.549944783033808e-06,
+      "last_price": 9.191410713574843e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T07:11:57+00:00",
+      "missing": 0
+    },
+    "JBRrQWkY2MezM4ahoBs9d7zDLBpUkxpgfLTVuf7fpump": {
+      "symbol": "IDK",
+      "qty": 1619315.0423328795,
+      "entry_price": 3.056848031788022e-05,
+      "last_price": 2.9616559335158057e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T07:11:57+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T10:32:50+00:00",
-      "side": "buy",
-      "symbol": "egge",
-      "address": "ADLEWrvkPK7nWpoboCJ7UGdk3N3pCYMvAHCuFak4pump",
-      "price": 8.79159671088531e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:32:50+00:00",
-      "side": "buy",
-      "symbol": "Kairo",
-      "address": "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump",
-      "price": 2.7133608037225827e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:32:50+00:00",
-      "side": "buy",
-      "symbol": "Urara",
-      "address": "3AjQX39BtbApaQFNbuT8er8fReLVJjc3tYkfXrTwpump",
-      "price": 1.0572615481633534e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:32:50+00:00",
-      "side": "buy",
-      "symbol": "$AURA",
-      "address": "Ao43Xz5mdX9AJYywvfVTCzpFX9CAt1FxeXBA3oqupump",
-      "price": 3.403311275853702e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:51:34+00:00",
-      "side": "sell",
-      "symbol": "egge",
-      "address": "ADLEWrvkPK7nWpoboCJ7UGdk3N3pCYMvAHCuFak4pump",
-      "price": 0.0001810355751,
-      "proceeds": 50.46,
-      "pnl_usd": 0.46,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-11T10:51:34+00:00",
       "side": "sell",
@@ -4537,6 +4504,50 @@
       "address": "HQ2cky3ugfWuomda4Yaa5mBCQBRmwdVR6GGtvkhPpump",
       "price": 6.847971707158528e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T07:11:57+00:00",
+      "side": "sell",
+      "symbol": "PLAYSET",
+      "address": "3msLQYFFnkNWamSBEB4wxS7xbFkEmNAnjMKi6sBbpump",
+      "price": 4.933003384e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T07:11:57+00:00",
+      "side": "sell",
+      "symbol": "Raccoon",
+      "address": "ZSQhojF6qe6jhJggETrimLCgVePzLCoAwkPJaTHpump",
+      "price": 2.07503262e-06,
+      "proceeds": 1.5,
+      "pnl_usd": -48.5,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T07:11:57+00:00",
+      "side": "buy",
+      "symbol": "VS",
+      "address": "88jm4YqwjQjb29Sjjah3QmuU5d5uU1i8edDnDMLNpump",
+      "price": 4.781139022561729e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T07:11:57+00:00",
+      "side": "buy",
+      "symbol": "Barnacles",
+      "address": "EMifbuJUVMMrehHw97eNuhACY424w6KJPt5A4R9ppump",
+      "price": 9.549944783033808e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T07:11:57+00:00",
+      "side": "buy",
+      "symbol": "IDK",
+      "address": "JBRrQWkY2MezM4ahoBs9d7zDLBpUkxpgfLTVuf7fpump",
+      "price": 3.056848031788022e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6747,6 +6758,10 @@
     {
       "date": "2026-10-13T06:48:00+00:00",
       "equity": 5895368.13
+    },
+    {
+      "date": "2026-10-13T07:11:57+00:00",
+      "equity": 5895267.21
     }
   ]
 }
