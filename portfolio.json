@@ -1,43 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5895752.645173927,
-  "positions": {
-    "W5ZW7sZyU8pCWKw5ejF8v9PkSEaZubE6hy5LoAbpump": {
-      "symbol": "Topless",
-      "qty": 9161520.975209886,
-      "entry_price": 5.403032982617385e-06,
-      "last_price": 5.198877978242022e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T00:48:16+00:00",
-      "missing": 0
-    },
-    "EAdkGRfTxtvCNWguJxJ8T2V8qoHPst2oBJiddi6wpump": {
-      "symbol": "bye",
-      "qty": 5409949.984254027,
-      "entry_price": 9.14980732614398e-06,
-      "last_price": 8.810507684273895e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T00:48:16+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5895795.48869876,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-11T07:53:26+00:00",
-      "side": "buy",
-      "symbol": "Incognito",
-      "address": "DnzxtM3RvBfPrKMyeFzrj9SNQhcAPMQZUQH17Arcpump",
-      "price": 4.4316935145938564e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T07:53:26+00:00",
-      "side": "buy",
-      "symbol": "SOULJA",
-      "address": "9QJ3gaMubEV7QjKLkkNWsTpgFrN9nSRRCxmGHYYVpump",
-      "price": 1.5479393169270292e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T08:12:14+00:00",
       "side": "sell",
@@ -4523,6 +4488,26 @@
       "address": "EAdkGRfTxtvCNWguJxJ8T2V8qoHPst2oBJiddi6wpump",
       "price": 9.14980732614398e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T01:11:15+00:00",
+      "side": "sell",
+      "symbol": "Topless",
+      "address": "W5ZW7sZyU8pCWKw5ejF8v9PkSEaZubE6hy5LoAbpump",
+      "price": 2.90264902e-06,
+      "proceeds": 25.23,
+      "pnl_usd": -24.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T01:11:15+00:00",
+      "side": "sell",
+      "symbol": "bye",
+      "address": "EAdkGRfTxtvCNWguJxJ8T2V8qoHPst2oBJiddi6wpump",
+      "price": 3.416835065e-06,
+      "proceeds": 17.61,
+      "pnl_usd": -32.39,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6677,6 +6662,10 @@
     {
       "date": "2026-10-13T00:48:16+00:00",
       "equity": 5895847.94
+    },
+    {
+      "date": "2026-10-13T01:11:15+00:00",
+      "equity": 5895795.49
     }
   ]
 }
