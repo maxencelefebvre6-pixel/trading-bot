@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5894690.909273223,
+  "cash": 5894704.22229681,
   "positions": {
-    "yHJ92b8m3b1mh4oqKorX2JgUNMbW1vTEXzSngFApump": {
-      "symbol": "song",
-      "qty": 3004484.060975939,
-      "entry_price": 1.6475374472088575e-05,
-      "last_price": 1.587555429e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T14:02:52+00:00",
-      "missing": 0
-    },
     "AvkPCyXYS84rqDz3KBPgcF9jgxAZ5rhUanpnDvdGpump": {
       "symbol": "EVIL",
       "qty": 4797731.740910708,
@@ -29,45 +20,17 @@
       "entry_time": "2026-10-13T14:29:43+00:00",
       "missing": 0
     },
-    "CCVTL4FEVJY1Vd4nxDeA4X7f4StLr8NLYc1ZQ4Cspump": {
-      "symbol": "Mesk",
-      "qty": 5517790.054827167,
-      "entry_price": 8.970982858743523e-06,
-      "last_price": 8.636723116674085e-06,
+    "7psNUxv4RgYrDG8ydRdPPzN5c76LX2gVwanjesrVpump": {
+      "symbol": "FUCK",
+      "qty": 5687989.428873584,
+      "entry_price": 8.70254781922172e-06,
+      "last_price": 8.373584182963792e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-13T14:56:36+00:00",
+      "entry_time": "2026-10-13T15:22:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T15:25:13+00:00",
-      "side": "buy",
-      "symbol": "Ledgercat",
-      "address": "26o7pQcgWyK4nSRraTR8L1skj2DpRH6aKhJARY24pump",
-      "price": 1.4024195092710899e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T15:45:27+00:00",
-      "side": "sell",
-      "symbol": "KRAW",
-      "address": "Hu3MeELH7W93m1Xu5PrVrJAwDw7SWstiC9v9wja8pump",
-      "price": 4.985895032e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T15:45:27+00:00",
-      "side": "sell",
-      "symbol": "ai",
-      "address": "35oS3Kndtqqk9CLqPSPi4ftsAHKJv3uwvkwMYJs7pump",
-      "price": 4.983636021e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-11T15:45:27+00:00",
       "side": "sell",
@@ -4539,6 +4502,34 @@
       "address": "CCVTL4FEVJY1Vd4nxDeA4X7f4StLr8NLYc1ZQ4Cspump",
       "price": 8.970982858743523e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T15:22:04+00:00",
+      "side": "sell",
+      "symbol": "song",
+      "address": "yHJ92b8m3b1mh4oqKorX2JgUNMbW1vTEXzSngFApump",
+      "price": 1.587555429e-05,
+      "proceeds": 45.62,
+      "pnl_usd": -4.38,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T15:22:04+00:00",
+      "side": "sell",
+      "symbol": "Mesk",
+      "address": "CCVTL4FEVJY1Vd4nxDeA4X7f4StLr8NLYc1ZQ4Cspump",
+      "price": 3.36500043e-06,
+      "proceeds": 17.69,
+      "pnl_usd": -32.31,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T15:22:05+00:00",
+      "side": "buy",
+      "symbol": "FUCK",
+      "address": "7psNUxv4RgYrDG8ydRdPPzN5c76LX2gVwanjesrVpump",
+      "price": 8.70254781922172e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6825,6 +6816,10 @@
     {
       "date": "2026-10-13T14:56:36+00:00",
       "equity": 5894881.69
+    },
+    {
+      "date": "2026-10-13T15:22:05+00:00",
+      "equity": 5894847.28
     }
   ]
 }
