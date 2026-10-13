@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5895287.149854745,
+  "cash": 5895267.9557950795,
   "positions": {
     "6fbqQNxmfUgXnRcerQpE9hwCmY4t9BSibk7NtqSJpump": {
       "symbol": "BTC",
@@ -20,61 +20,26 @@
       "entry_time": "2026-10-13T04:41:38+00:00",
       "missing": 0
     },
-    "Fd9RJH2mkKxoSG8WHH97s4fePcDRdN82qGXGJZpgpump": {
-      "symbol": "BOUNCE",
-      "qty": 1147933.7488208618,
-      "entry_price": 4.31209554130154e-05,
-      "last_price": 4.173594398935479e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T05:02:47+00:00",
-      "missing": 0
-    },
-    "FnMvzNxbEw1AYsoKiUbF9d3q1o637Prvo3i93LNBpump": {
-      "symbol": "MemoryBot",
-      "qty": 5580605.472262034,
-      "entry_price": 8.870005279182681e-06,
-      "last_price": 8.537439574723634e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T05:02:47+00:00",
-      "missing": 0
-    },
     "PLMpytuAw4LWrJsLhnahHjSnwR5N6QaQamrWhd1pump": {
       "symbol": "$CAT",
       "qty": 4724446.311029548,
       "entry_price": 1.0477418249930962e-05,
-      "last_price": 1.0110106622452657e-05,
+      "last_price": 1.011010662e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T05:02:47+00:00",
+      "missing": 0
+    },
+    "FL4B8VKuZhiGXfawvrMP4HT9o1X8M4DbtDc1Bcz9pump": {
+      "symbol": "Topless",
+      "qty": 4957709.542112025,
+      "entry_price": 9.984449387269385e-06,
+      "last_price": 9.610892226317859e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T05:27:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T09:53:45+00:00",
-      "side": "sell",
-      "symbol": "PLIQ",
-      "address": "6PPAyjs3dkz2Wq6EV6LQX98UabbmYj1mCvz1uGM7pump",
-      "price": 5.594973752e-06,
-      "proceeds": 10.31,
-      "pnl_usd": -39.69,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T09:53:45+00:00",
-      "side": "buy",
-      "symbol": "Normie",
-      "address": "7xnYDEh4jz8dctx5VMD67fr1S9hf9dBH9c6eBYQipump",
-      "price": 4.63642191109676e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T09:53:45+00:00",
-      "side": "buy",
-      "symbol": "Markodex",
-      "address": "ALnXy6HmLAX9cFqPwt3rxRuCx3fiUdYvcPRKr5Lipump",
-      "price": 8.74176297736717e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T09:53:45+00:00",
       "side": "buy",
@@ -4544,6 +4509,34 @@
       "address": "PLMpytuAw4LWrJsLhnahHjSnwR5N6QaQamrWhd1pump",
       "price": 1.0477418249930962e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T05:27:27+00:00",
+      "side": "sell",
+      "symbol": "BOUNCE",
+      "address": "Fd9RJH2mkKxoSG8WHH97s4fePcDRdN82qGXGJZpgpump",
+      "price": 1.176926082e-05,
+      "proceeds": 12.94,
+      "pnl_usd": -37.06,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T05:27:27+00:00",
+      "side": "sell",
+      "symbol": "MemoryBot",
+      "address": "FnMvzNxbEw1AYsoKiUbF9d3q1o637Prvo3i93LNBpump",
+      "price": 3.360187451e-06,
+      "proceeds": 17.87,
+      "pnl_usd": -32.13,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T05:27:27+00:00",
+      "side": "buy",
+      "symbol": "Topless",
+      "address": "FL4B8VKuZhiGXfawvrMP4HT9o1X8M4DbtDc1Bcz9pump",
+      "price": 9.984449387269385e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6738,6 +6731,10 @@
     {
       "date": "2026-10-13T05:02:47+00:00",
       "equity": 5895525.92
+    },
+    {
+      "date": "2026-10-13T05:27:27+00:00",
+      "equity": 5895458.82
     }
   ]
 }
