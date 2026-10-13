@@ -1,64 +1,63 @@
 {
   "mode": "pumpfun",
-  "cash": 5894762.089938836,
+  "cash": 5894512.089938836,
   "positions": {
     "Cqi7GPRxrhWKdEYxCLCyt2SMoVp75pRbMJ56bUd2pump": {
       "symbol": "cogat",
       "qty": 3015269.8278615368,
       "entry_price": 1.641644125597408e-05,
-      "last_price": 1.58690679956783e-05,
+      "last_price": 1.5869068e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T15:47:27+00:00",
+      "missing": 0
+    },
+    "Dj2AwiqQwJp2ojzGpnNkN35jDyH7jG8YEGZBcrBgpump": {
+      "symbol": "PVE",
+      "qty": 2930269.600899007,
+      "entry_price": 1.6892643593208417e-05,
+      "last_price": 1.6291035773480905e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T16:06:51+00:00",
+      "missing": 0
+    },
+    "HkfLXZbbuu5Bm2udRXWUR4zY9uU1tRLmX6QiBywjpump": {
+      "symbol": "FLYWHEEL",
+      "qty": 3777890.5164672607,
+      "entry_price": 1.3102550162382125e-05,
+      "last_price": 1.2625962277735044e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T16:06:51+00:00",
+      "missing": 0
+    },
+    "GsdRLdnQ3j1aoM8xqwq3fUgj3HDAYgHTMzF17s3Spump": {
+      "symbol": "MOMBOSS",
+      "qty": 4478169.121181525,
+      "entry_price": 1.1053624519419639e-05,
+      "last_price": 1.0645020523818832e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T16:06:51+00:00",
+      "missing": 0
+    },
+    "34DuzUy1riJzt25xCBcDBgVRfQDZVQhwLGNFfdqvpump": {
+      "symbol": "KOL",
+      "qty": 5105652.920847365,
+      "entry_price": 9.695136110385013e-06,
+      "last_price": 9.324332080317284e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T16:06:51+00:00",
+      "missing": 0
+    },
+    "J4zLDTKN9ReS11V621avqEqgWLn5PmeJTGYbpgP9pump": {
+      "symbol": "$NAPCAT",
+      "qty": 4179768.380441305,
+      "entry_price": 1.1842761486887397e-05,
+      "last_price": 1.1456541274286717e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T16:06:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T16:00:06+00:00",
-      "side": "sell",
-      "symbol": "Moin",
-      "address": "9UGMJBqezFmnJ7jQibBqBpGcZqiyEqsCoomPHTDdpump",
-      "price": 0.0001007946839,
-      "proceeds": 27.73,
-      "pnl_usd": -22.27,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T16:00:06+00:00",
-      "side": "buy",
-      "symbol": "dog",
-      "address": "57T63AXmnyfmKTMDDgzutdmv7chrn64LGbGWWjbPpump",
-      "price": 1.1818909590804079e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T16:00:06+00:00",
-      "side": "buy",
-      "symbol": "not shit",
-      "address": "D4tsF92Fs9PophrezVU7QHZAL1j5w6wAdhYLho3Fpump",
-      "price": 2.5722623046605745e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T16:22:04+00:00",
-      "side": "sell",
-      "symbol": "dog",
-      "address": "57T63AXmnyfmKTMDDgzutdmv7chrn64LGbGWWjbPpump",
-      "price": 1.650098069e-05,
-      "proceeds": 64.55,
-      "pnl_usd": 14.55,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-11T16:22:04+00:00",
-      "side": "sell",
-      "symbol": "not shit",
-      "address": "D4tsF92Fs9PophrezVU7QHZAL1j5w6wAdhYLho3Fpump",
-      "price": 7.966984757e-09,
-      "proceeds": 0.01,
-      "pnl_usd": -49.99,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-11T16:22:04+00:00",
       "side": "buy",
@@ -4514,6 +4513,46 @@
       "address": "Cqi7GPRxrhWKdEYxCLCyt2SMoVp75pRbMJ56bUd2pump",
       "price": 1.641644125597408e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T16:06:51+00:00",
+      "side": "buy",
+      "symbol": "PVE",
+      "address": "Dj2AwiqQwJp2ojzGpnNkN35jDyH7jG8YEGZBcrBgpump",
+      "price": 1.6892643593208417e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T16:06:51+00:00",
+      "side": "buy",
+      "symbol": "FLYWHEEL",
+      "address": "HkfLXZbbuu5Bm2udRXWUR4zY9uU1tRLmX6QiBywjpump",
+      "price": 1.3102550162382125e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T16:06:51+00:00",
+      "side": "buy",
+      "symbol": "MOMBOSS",
+      "address": "GsdRLdnQ3j1aoM8xqwq3fUgj3HDAYgHTMzF17s3Spump",
+      "price": 1.1053624519419639e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T16:06:51+00:00",
+      "side": "buy",
+      "symbol": "KOL",
+      "address": "34DuzUy1riJzt25xCBcDBgVRfQDZVQhwLGNFfdqvpump",
+      "price": 9.695136110385013e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T16:06:51+00:00",
+      "side": "buy",
+      "symbol": "$NAPCAT",
+      "address": "J4zLDTKN9ReS11V621avqEqgWLn5PmeJTGYbpgP9pump",
+      "price": 1.1842761486887397e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6808,6 +6847,10 @@
     {
       "date": "2026-10-13T15:47:27+00:00",
       "equity": 5894809.94
+    },
+    {
+      "date": "2026-10-13T16:06:51+00:00",
+      "equity": 5894798.54
     }
   ]
 }
