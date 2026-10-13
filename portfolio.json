@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5894704.22229681,
+  "cash": 5894762.089938836,
   "positions": {
-    "AvkPCyXYS84rqDz3KBPgcF9jgxAZ5rhUanpnDvdGpump": {
-      "symbol": "EVIL",
-      "qty": 4797731.740910708,
-      "entry_price": 1.0317375516832019e-05,
-      "last_price": 9.932150291e-06,
+    "Cqi7GPRxrhWKdEYxCLCyt2SMoVp75pRbMJ56bUd2pump": {
+      "symbol": "cogat",
+      "qty": 3015269.8278615368,
+      "entry_price": 1.641644125597408e-05,
+      "last_price": 1.58690679956783e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T14:29:43+00:00",
-      "missing": 0
-    },
-    "Hifyjwnx3jZ5fGwJguGTqgzQHoBoutfQAsbRZfHgpump": {
-      "symbol": "ADOBE",
-      "qty": 3507681.416451187,
-      "entry_price": 1.4111885922091649e-05,
-      "last_price": 1.362082366e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T14:29:43+00:00",
-      "missing": 0
-    },
-    "7psNUxv4RgYrDG8ydRdPPzN5c76LX2gVwanjesrVpump": {
-      "symbol": "FUCK",
-      "qty": 5687989.428873584,
-      "entry_price": 8.70254781922172e-06,
-      "last_price": 8.373584182963792e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T15:22:05+00:00",
+      "entry_time": "2026-10-13T15:47:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T15:45:27+00:00",
-      "side": "sell",
-      "symbol": "Aggie",
-      "address": "ACRMYfyDSZwRmpUeqfvbx2RUJ1pTqiEYn4mc82o1pump",
-      "price": 4.98588058e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T15:45:27+00:00",
-      "side": "sell",
-      "symbol": "Fluffy",
-      "address": "5ATM3SgHpRd3ucsZ8pawK5g1WRanrNqHfj1yU16Kpump",
-      "price": 3.427783131e-06,
-      "proceeds": 9.44,
-      "pnl_usd": -40.56,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T15:45:28+00:00",
-      "side": "buy",
-      "symbol": "Moin",
-      "address": "9UGMJBqezFmnJ7jQibBqBpGcZqiyEqsCoomPHTDdpump",
-      "price": 8.907419982813003e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T15:45:28+00:00",
-      "side": "buy",
-      "symbol": "STUTUTU",
-      "address": "7TpCd3VcYz22Te6kTCUsuaqMbSsazWLzzN5hy5ZDpump",
-      "price": 1.8309858367794436e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T16:00:06+00:00",
       "side": "sell",
@@ -4530,6 +4476,44 @@
       "address": "7psNUxv4RgYrDG8ydRdPPzN5c76LX2gVwanjesrVpump",
       "price": 8.70254781922172e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T15:47:27+00:00",
+      "side": "sell",
+      "symbol": "EVIL",
+      "address": "AvkPCyXYS84rqDz3KBPgcF9jgxAZ5rhUanpnDvdGpump",
+      "price": 9.932150291e-06,
+      "proceeds": 45.36,
+      "pnl_usd": -4.64,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T15:47:27+00:00",
+      "side": "sell",
+      "symbol": "ADOBE",
+      "address": "Hifyjwnx3jZ5fGwJguGTqgzQHoBoutfQAsbRZfHgpump",
+      "price": 1.362082366e-05,
+      "proceeds": 45.67,
+      "pnl_usd": -4.33,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T15:47:27+00:00",
+      "side": "sell",
+      "symbol": "FUCK",
+      "address": "7psNUxv4RgYrDG8ydRdPPzN5c76LX2gVwanjesrVpump",
+      "price": 3.10520512e-06,
+      "proceeds": 16.84,
+      "pnl_usd": -33.16,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T15:47:27+00:00",
+      "side": "buy",
+      "symbol": "cogat",
+      "address": "Cqi7GPRxrhWKdEYxCLCyt2SMoVp75pRbMJ56bUd2pump",
+      "price": 1.641644125597408e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6820,6 +6804,10 @@
     {
       "date": "2026-10-13T15:22:05+00:00",
       "equity": 5894847.28
+    },
+    {
+      "date": "2026-10-13T15:47:27+00:00",
+      "equity": 5894809.94
     }
   ]
 }
