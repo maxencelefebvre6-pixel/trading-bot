@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5894798.324076561,
+  "cash": 5894698.324076561,
   "positions": {
     "BGMcLPCB8z14UyARe2saAjUxVfDBMj2M3gyzxj47pump": {
       "symbol": "RUNNER",
@@ -15,7 +15,7 @@
       "symbol": "SL",
       "qty": 968088.1075179027,
       "entry_price": 5.11317096198133e-05,
-      "last_price": 4.954720440109032e-05,
+      "last_price": 4.95472044e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T09:41:47+00:00",
       "missing": 0
@@ -24,31 +24,31 @@
       "symbol": "cap",
       "qty": 1082891.8715275724,
       "entry_price": 4.5710935044856546e-05,
-      "last_price": 4.431516902434672e-05,
+      "last_price": 4.431516902e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T09:41:47+00:00",
+      "missing": 0
+    },
+    "GK2Mrnp7XNaBG7SkUzdvupdWaQGibexnFBCCm87vpump": {
+      "symbol": "MOTTOTO",
+      "qty": 2637402.483362008,
+      "entry_price": 1.8768466440852164e-05,
+      "last_price": 1.8085686766236555e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T10:02:41+00:00",
+      "missing": 0
+    },
+    "CmVqMJehKu8wAcabmCALuzee5J31W1eXHTCEUo4Fpump": {
+      "symbol": "cap",
+      "qty": 5919043.606200642,
+      "entry_price": 8.362837528033252e-06,
+      "last_price": 8.056072698059138e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T10:02:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T12:01:22+00:00",
-      "side": "buy",
-      "symbol": "Dog Think",
-      "address": "3xdUK5Wv5pwhTeoAnZS4ErZHC5xUEcpknAJeLZpNpump",
-      "price": 1.1316081749822213e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T12:28:08+00:00",
-      "side": "sell",
-      "symbol": "vrl",
-      "address": "3gk4v36Cobpg1QPhWhxRC7udYgeAbeuRCwbqoraCpump",
-      "price": 1.63390621e-05,
-      "proceeds": 45.83,
-      "pnl_usd": -4.17,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T12:28:08+00:00",
       "side": "sell",
@@ -4532,6 +4532,22 @@
       "address": "C5oJTTrYgrBGzkfY8ddcav8QU5CpY4nqzUkxK6g3pump",
       "price": 4.5710935044856546e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T10:02:41+00:00",
+      "side": "buy",
+      "symbol": "MOTTOTO",
+      "address": "GK2Mrnp7XNaBG7SkUzdvupdWaQGibexnFBCCm87vpump",
+      "price": 1.8768466440852164e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T10:02:41+00:00",
+      "side": "buy",
+      "symbol": "cap",
+      "address": "CmVqMJehKu8wAcabmCALuzee5J31W1eXHTCEUo4Fpump",
+      "price": 8.362837528033252e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6770,6 +6786,10 @@
     {
       "date": "2026-10-13T09:41:47+00:00",
       "equity": 5894941.98
+    },
+    {
+      "date": "2026-10-13T10:02:41+00:00",
+      "equity": 5894937.36
     }
   ]
 }
