@@ -1,93 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5893975.845020354,
+  "cash": 5894016.220174614,
   "positions": {
-    "FvFFxJTh4gQ8FZT4NumbTjoqVyBZkXFpykhjRkTdpump": {
-      "symbol": "GTAGOB",
-      "qty": 3075.4775580300106,
-      "entry_price": 0.016095061357465114,
-      "last_price": 0.015619412893384766,
+    "CSNtgZG7dMiTJgNYC7TyPR5W8rJqASFUQamP9ysSpump": {
+      "symbol": "MONY",
+      "qty": 4430958.812462931,
+      "entry_price": 1.117139700345931e-05,
+      "last_price": 1.0783498987298199e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T22:48:31+00:00",
-      "missing": 0
-    },
-    "6M1DnRBzXBWh7XpJcQK4BeDdYhkjTbeR4Nu7GWXpump": {
-      "symbol": "ROLEX",
-      "qty": 121741.12930000953,
-      "entry_price": 0.0004066004667823968,
-      "last_price": 0.00039439099483431177,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T22:48:31+00:00",
-      "missing": 0
-    },
-    "7wnZ7TzY9jUeroG3L5tahah2R1zGsjfwGK9dYQJHpump": {
-      "symbol": "Sibu",
-      "qty": 3447258.8237012345,
-      "entry_price": 1.435923512898666e-05,
-      "last_price": 1.3841854817449384e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T22:48:31+00:00",
-      "missing": 0
-    },
-    "H1nWSYvB7o48g2yaT3ii2qrXgk1oQysmURL4MJQZpump": {
-      "symbol": "JIZZMASS",
-      "qty": 2875884.4081827775,
-      "entry_price": 1.7212096515130178e-05,
-      "last_price": 1.660176608745028e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T22:48:31+00:00",
+      "entry_time": "2026-10-13T23:11:42+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T21:53:08+00:00",
-      "side": "sell",
-      "symbol": "hgh coin",
-      "address": "4axWaz9E2EvL9VTYE97ExdttQb8LnPo4se9sziubpump",
-      "price": 9.679106742e-05,
-      "proceeds": 46.09,
-      "pnl_usd": -3.91,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-11T21:53:08+00:00",
-      "side": "sell",
-      "symbol": "asads",
-      "address": "FG1GQtohMPD92x5upr2sXrRx3ACDBpcwDV2cavuZpump",
-      "price": 8.320678091e-06,
-      "proceeds": 45.03,
-      "pnl_usd": -4.97,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-11T21:53:08+00:00",
-      "side": "sell",
-      "symbol": "Playground",
-      "address": "iF2HjyPWj2pixyqv9GvUoitTGx8wYmNdWbmd63Dpump",
-      "price": 0.0001069734355,
-      "proceeds": 26.76,
-      "pnl_usd": -23.24,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T21:53:08+00:00",
-      "side": "sell",
-      "symbol": "JUMPER",
-      "address": "J72U2KcAAyQgJR4tJeP8X5Gwm6W9VacSzVyNUGS7pump",
-      "price": 3.941049727e-06,
-      "proceeds": 20.48,
-      "pnl_usd": -29.52,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T21:53:08+00:00",
-      "side": "buy",
-      "symbol": "trenchcat",
-      "address": "3tyFRC8sMC65aYwsu2MjTr7MWQGh4NTZJJqiDidJpump",
-      "price": 8.881142534721263e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T21:53:08+00:00",
       "side": "buy",
@@ -4539,6 +4464,54 @@
       "address": "H1nWSYvB7o48g2yaT3ii2qrXgk1oQysmURL4MJQZpump",
       "price": 1.7212096515130178e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T23:11:42+00:00",
+      "side": "sell",
+      "symbol": "GTAGOB",
+      "address": "FvFFxJTh4gQ8FZT4NumbTjoqVyBZkXFpykhjRkTdpump",
+      "price": 0.01997273454,
+      "proceeds": 30.41,
+      "pnl_usd": -19.59,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T23:11:42+00:00",
+      "side": "sell",
+      "symbol": "ROLEX",
+      "address": "6M1DnRBzXBWh7XpJcQK4BeDdYhkjTbeR4Nu7GWXpump",
+      "price": 0.0003482252232,
+      "proceeds": 40.63,
+      "pnl_usd": -9.37,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T23:11:42+00:00",
+      "side": "sell",
+      "symbol": "Sibu",
+      "address": "7wnZ7TzY9jUeroG3L5tahah2R1zGsjfwGK9dYQJHpump",
+      "price": 3.225358277e-06,
+      "proceeds": 10.63,
+      "pnl_usd": -39.37,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T23:11:42+00:00",
+      "side": "sell",
+      "symbol": "JIZZMASS",
+      "address": "H1nWSYvB7o48g2yaT3ii2qrXgk1oQysmURL4MJQZpump",
+      "price": 3.165594131e-06,
+      "proceeds": 8.71,
+      "pnl_usd": -41.29,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T23:11:42+00:00",
+      "side": "buy",
+      "symbol": "MONY",
+      "address": "CSNtgZG7dMiTJgNYC7TyPR5W8rJqASFUQamP9ysSpump",
+      "price": 1.117139700345931e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6893,6 +6866,10 @@
     {
       "date": "2026-10-13T22:48:31+00:00",
       "equity": 5894167.36
+    },
+    {
+      "date": "2026-10-13T23:11:42+00:00",
+      "equity": 5894064.0
     }
   ]
 }
