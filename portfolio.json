@@ -1,73 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5894803.507570542,
+  "cash": 5894726.036788181,
   "positions": {
-    "EAnomc8SipKZaw3uGV29mfyqS7SbnpCTWtpU2uoLpump": {
-      "symbol": "wApe",
-      "qty": 5895917.901840068,
-      "entry_price": 8.39563929215355e-06,
-      "last_price": 8.071618119e-06,
+    "NmaXyyJ3gv7jVtv4kd6z6q8A23TbtrVioVEQKKCpump": {
+      "symbol": "Mr Beast",
+      "qty": 131044.26529059767,
+      "entry_price": 0.0003777349576513791,
+      "last_price": 0.00036637814972044735,
       "cost": 50.0,
-      "entry_time": "2026-10-13T10:53:50+00:00",
+      "entry_time": "2026-10-13T12:01:21+00:00",
       "missing": 0
     },
-    "ynFgbvzFAixxo8eCvpZefjuamVTz6x73F9r8uXppump": {
-      "symbol": "shard",
-      "qty": 578265.8690824503,
-      "entry_price": 8.560076367388405e-05,
-      "last_price": 8.299567830549359e-05,
+    "9cHteTeeomxooTBLB1QS965bif7HbRcpuBspCJyhpump": {
+      "symbol": "Lion",
+      "qty": 4250342.440057483,
+      "entry_price": 1.1646120447492825e-05,
+      "last_price": 1.1219528633922598e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T11:39:40+00:00",
+      "entry_time": "2026-10-13T12:01:21+00:00",
+      "missing": 0
+    },
+    "H1PPPriagS2c1ARYuLekZm98v3GccPaXGcfRupgZpump": {
+      "symbol": "Grimpoteuthis",
+      "qty": 4735637.653749699,
+      "entry_price": 1.0452657829681221e-05,
+      "last_price": 1.0069458005480155e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T12:01:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T14:10:36+00:00",
-      "side": "sell",
-      "symbol": "TXT",
-      "address": "8eMV3Uoi2ZGZhrVsGmtibGjfeG2wEY3pT2CAnG4Xpump",
-      "price": 3.244077704e-06,
-      "proceeds": 17.88,
-      "pnl_usd": -32.12,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T14:10:36+00:00",
-      "side": "sell",
-      "symbol": "MONKE",
-      "address": "BTbvKEsY7RU7Ce3dEsvqoBFmbDdYu27ZzbK9sFgtpump",
-      "price": 1.048260049e-05,
-      "proceeds": 66.25,
-      "pnl_usd": 16.25,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-11T14:10:36+00:00",
-      "side": "buy",
-      "symbol": "STUTUTU",
-      "address": "DZL8XbkUZmqAkwQV1XPDzKvZdKrY62TjqXaodTWcpump",
-      "price": 7.51913431310286e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T14:31:33+00:00",
-      "side": "sell",
-      "symbol": "E-CNY",
-      "address": "GMfxtGZrYb33FG9dYY2ms6gDsjoVLR4JethL4Dc1pump",
-      "price": 7.466443344e-06,
-      "proceeds": 45.38,
-      "pnl_usd": -4.62,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-11T14:31:34+00:00",
-      "side": "buy",
-      "symbol": "BNUT",
-      "address": "HCL6b32v8byytGvCCcrfJhzcGs2VggYnoux36bMupump",
-      "price": 8.190218756536488e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T14:50:31+00:00",
       "side": "sell",
@@ -4523,6 +4486,50 @@
       "address": "ynFgbvzFAixxo8eCvpZefjuamVTz6x73F9r8uXppump",
       "price": 8.560076367388405e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T12:01:21+00:00",
+      "side": "sell",
+      "symbol": "wApe",
+      "address": "EAnomc8SipKZaw3uGV29mfyqS7SbnpCTWtpU2uoLpump",
+      "price": 8.071618119e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T12:01:21+00:00",
+      "side": "sell",
+      "symbol": "shard",
+      "address": "ynFgbvzFAixxo8eCvpZefjuamVTz6x73F9r8uXppump",
+      "price": 9.495955748e-05,
+      "proceeds": 27.18,
+      "pnl_usd": -22.82,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T12:01:21+00:00",
+      "side": "buy",
+      "symbol": "Mr Beast",
+      "address": "NmaXyyJ3gv7jVtv4kd6z6q8A23TbtrVioVEQKKCpump",
+      "price": 0.0003777349576513791,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T12:01:21+00:00",
+      "side": "buy",
+      "symbol": "Lion",
+      "address": "9cHteTeeomxooTBLB1QS965bif7HbRcpuBspCJyhpump",
+      "price": 1.1646120447492825e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T12:01:21+00:00",
+      "side": "buy",
+      "symbol": "Grimpoteuthis",
+      "address": "H1PPPriagS2c1ARYuLekZm98v3GccPaXGcfRupgZpump",
+      "price": 1.0452657829681221e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6781,6 +6788,10 @@
     {
       "date": "2026-10-13T11:39:40+00:00",
       "equity": 5894899.09
+    },
+    {
+      "date": "2026-10-13T12:01:21+00:00",
+      "equity": 5894869.42
     }
   ]
 }
