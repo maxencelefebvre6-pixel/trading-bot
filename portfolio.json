@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5894260.351055368,
+  "cash": 5894169.475499298,
   "positions": {
-    "ZHVbgFko4JhU1d9Z2H3eyeNjGVUYQ8Z99KkqxMrpump": {
-      "symbol": "SIX",
-      "qty": 2239514.217963099,
-      "entry_price": 2.210300769825951e-05,
-      "last_price": 2.1332350292064786e-05,
+    "uDbS2LTc14oStv1SwSoLepJu75vjj7YgAXkyNcRpump": {
+      "symbol": "BORING",
+      "qty": 1132759.5812590057,
+      "entry_price": 4.3698593080963586e-05,
+      "last_price": 4.220167379944431e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T19:40:22+00:00",
+      "entry_time": "2026-10-13T20:10:06+00:00",
       "missing": 0
     },
-    "GYkXuGrMXsA4ReHhrDCVSPELp1XvUdart5eMf1wMpump": {
-      "symbol": "FOMO",
-      "qty": 5954167.849222597,
-      "entry_price": 8.313504297071999e-06,
-      "last_price": 8.022931732714256e-06,
+    "2bYRknj6b1C2PxvmU3BXxkvASUQNhfUWUdN7diTJpump": {
+      "symbol": "$JUICE",
+      "qty": 5366083.071536472,
+      "entry_price": 9.224605608989696e-06,
+      "last_price": 8.893527745699412e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-13T19:40:22+00:00",
+      "entry_time": "2026-10-13T20:10:06+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T20:54:30+00:00",
-      "side": "sell",
-      "symbol": "FOMOLEAGUE",
-      "address": "9f2mAq9fQu5BL4rK4VgHLsjWb32LTzkMDhCR2W6qpump",
-      "price": 3.15052387e-06,
-      "proceeds": 15.63,
-      "pnl_usd": -34.37,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T20:54:30+00:00",
-      "side": "sell",
-      "symbol": "chillcatguy",
-      "address": "DvBjHQA67eTyA89h3FY4HwGzUHv33YpUPsp2djoYpump",
-      "price": 3.122055363e-06,
-      "proceeds": 24.37,
-      "pnl_usd": -25.63,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T20:54:30+00:00",
-      "side": "buy",
-      "symbol": "Samsung",
-      "address": "Aw3sDWUXAeg1pNz65R3L7dAeGL1pwHzNkArWCHYpump",
-      "price": 0.00042759947269350627,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T20:54:30+00:00",
-      "side": "buy",
-      "symbol": "ROSE",
-      "address": "Cu7uWWQCDybCaSLyWUvfqydkKxPMGv9PRyWKCUbEpump",
-      "price": 2.0933568637749e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T20:54:30+00:00",
       "side": "buy",
@@ -4525,6 +4489,42 @@
       "address": "GYkXuGrMXsA4ReHhrDCVSPELp1XvUdart5eMf1wMpump",
       "price": 8.313504297071999e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T20:10:05+00:00",
+      "side": "sell",
+      "symbol": "SIX",
+      "address": "ZHVbgFko4JhU1d9Z2H3eyeNjGVUYQ8Z99KkqxMrpump",
+      "price": 2.997376088e-06,
+      "proceeds": 6.43,
+      "pnl_usd": -43.57,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T20:10:05+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "GYkXuGrMXsA4ReHhrDCVSPELp1XvUdart5eMf1wMpump",
+      "price": 4.754127554e-07,
+      "proceeds": 2.7,
+      "pnl_usd": -47.3,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T20:10:06+00:00",
+      "side": "buy",
+      "symbol": "BORING",
+      "address": "uDbS2LTc14oStv1SwSoLepJu75vjj7YgAXkyNcRpump",
+      "price": 4.3698593080963586e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T20:10:06+00:00",
+      "side": "buy",
+      "symbol": "$JUICE",
+      "address": "2bYRknj6b1C2PxvmU3BXxkvASUQNhfUWUdN7diTJpump",
+      "price": 9.224605608989696e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6855,6 +6855,10 @@
     {
       "date": "2026-10-13T19:40:22+00:00",
       "equity": 5894355.9
+    },
+    {
+      "date": "2026-10-13T20:10:06+00:00",
+      "equity": 5894265.0
     }
   ]
 }
