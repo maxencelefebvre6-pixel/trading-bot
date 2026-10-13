@@ -1,35 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5894169.475499298,
+  "cash": 5894252.483989344,
   "positions": {
-    "uDbS2LTc14oStv1SwSoLepJu75vjj7YgAXkyNcRpump": {
-      "symbol": "BORING",
-      "qty": 1132759.5812590057,
-      "entry_price": 4.3698593080963586e-05,
-      "last_price": 4.220167379944431e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T20:10:06+00:00",
-      "missing": 0
-    },
     "2bYRknj6b1C2PxvmU3BXxkvASUQNhfUWUdN7diTJpump": {
       "symbol": "$JUICE",
       "qty": 5366083.071536472,
       "entry_price": 9.224605608989696e-06,
-      "last_price": 8.893527745699412e-06,
+      "last_price": 8.893527746e-06,
       "cost": 50.0,
       "entry_time": "2026-10-13T20:10:06+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T20:54:30+00:00",
-      "side": "buy",
-      "symbol": "kippah",
-      "address": "BM7cGNUUx7DH5L8ZRMKk1emXK9eHptLEEKR8n6DApump",
-      "price": 7.886481497937001e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T20:54:30+00:00",
       "side": "buy",
@@ -4525,6 +4508,16 @@
       "address": "2bYRknj6b1C2PxvmU3BXxkvASUQNhfUWUdN7diTJpump",
       "price": 9.224605608989696e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T20:48:17+00:00",
+      "side": "sell",
+      "symbol": "BORING",
+      "address": "uDbS2LTc14oStv1SwSoLepJu75vjj7YgAXkyNcRpump",
+      "price": 7.686558537e-05,
+      "proceeds": 83.01,
+      "pnl_usd": 33.01,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
@@ -6859,6 +6852,10 @@
     {
       "date": "2026-10-13T20:10:06+00:00",
       "equity": 5894265.0
+    },
+    {
+      "date": "2026-10-13T20:48:17+00:00",
+      "equity": 5894300.21
     }
   ]
 }
