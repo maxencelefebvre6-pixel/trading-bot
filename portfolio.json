@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5895007.378898639,
+  "cash": 5894948.425141296,
   "positions": {
-    "92kqVMvPELzwZVM8ex3G5UKWiCBLN81er1fgp4yipump": {
-      "symbol": "ZebraCat",
-      "qty": 3052303.6285409415,
-      "entry_price": 1.6217259494482838e-05,
-      "last_price": 1.56828774e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T06:48:00+00:00",
-      "missing": 0
-    },
-    "HQ2cky3ugfWuomda4Yaa5mBCQBRmwdVR6GGtvkhPpump": {
-      "symbol": "FHC",
-      "qty": 7228417.7150228545,
-      "entry_price": 6.847971707158528e-06,
-      "last_price": 6.584920633e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T06:48:00+00:00",
-      "missing": 0
-    },
     "JBRrQWkY2MezM4ahoBs9d7zDLBpUkxpgfLTVuf7fpump": {
       "symbol": "IDK",
       "qty": 1619315.0423328795,
@@ -33,55 +15,40 @@
       "symbol": "IDK",
       "qty": 2131210.716161876,
       "entry_price": 2.3226234564522636e-05,
-      "last_price": 2.248780994316321e-05,
+      "last_price": 2.248780994e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T07:41:10+00:00",
+      "missing": 0
+    },
+    "CpAVRzomDddXqfvws2g7vgTN2PHPQo33NJbR9kpXpump": {
+      "symbol": "ERDOS",
+      "qty": 523414.9629069257,
+      "entry_price": 9.457123603247496e-05,
+      "last_price": 9.169930381091149e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T08:02:44+00:00",
+      "missing": 0
+    },
+    "f8q4i5kBoLScPDGEwR7pmfxsKE2TayVky58gDbjpump": {
+      "symbol": "nonce",
+      "qty": 563983.8145912469,
+      "entry_price": 8.776847618557217e-05,
+      "last_price": 8.509983519423097e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T08:02:44+00:00",
+      "missing": 0
+    },
+    "EvNHSkvaNRjPjpSmF5rRQe144E6aRtyFgt2r989zpump": {
+      "symbol": "MoonLoot",
+      "qty": 2208932.2666713228,
+      "entry_price": 2.2409016676003553e-05,
+      "last_price": 2.1614023395329433e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T08:02:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T10:51:34+00:00",
-      "side": "buy",
-      "symbol": "Blockchan",
-      "address": "BHDHo2tJqtCBx83kVc6vJkPSj6QEWJHYjw6ypEukpump",
-      "price": 3.4595242295662846e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:51:34+00:00",
-      "side": "buy",
-      "symbol": "Kairo",
-      "address": "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump",
-      "price": 5.5703180306267094e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:51:34+00:00",
-      "side": "buy",
-      "symbol": "TOTH",
-      "address": "26nw1VJwPXEv6cV5Lu82M6gdZpqnYiUc7UoExNcipump",
-      "price": 1.0820704505184926e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T10:51:34+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "DDpnpE32cHrQkJw1eeUSE9pC5fpPESBKpmrioFELpump",
-      "price": 7.418915549963348e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T11:06:56+00:00",
-      "side": "sell",
-      "symbol": "GETPAID",
-      "address": "5Ksv1QrxpwgKTVU3Rh8fkSKmCRV3JAuSmfzRWSAvpump",
-      "price": 4.721813861e-05,
-      "proceeds": 46.03,
-      "pnl_usd": -3.97,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T11:06:56+00:00",
       "side": "sell",
@@ -4539,6 +4506,50 @@
       "address": "6RdH8AKvBh8neWktzErBTWAs973ZT3AKD6xPhdmupump",
       "price": 2.3226234564522636e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T08:02:44+00:00",
+      "side": "sell",
+      "symbol": "ZebraCat",
+      "address": "92kqVMvPELzwZVM8ex3G5UKWiCBLN81er1fgp4yipump",
+      "price": 1.56828774e-05,
+      "proceeds": 45.78,
+      "pnl_usd": -4.22,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T08:02:44+00:00",
+      "side": "sell",
+      "symbol": "FHC",
+      "address": "HQ2cky3ugfWuomda4Yaa5mBCQBRmwdVR6GGtvkhPpump",
+      "price": 6.584920633e-06,
+      "proceeds": 45.26,
+      "pnl_usd": -4.74,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T08:02:44+00:00",
+      "side": "buy",
+      "symbol": "ERDOS",
+      "address": "CpAVRzomDddXqfvws2g7vgTN2PHPQo33NJbR9kpXpump",
+      "price": 9.457123603247496e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T08:02:44+00:00",
+      "side": "buy",
+      "symbol": "nonce",
+      "address": "f8q4i5kBoLScPDGEwR7pmfxsKE2TayVky58gDbjpump",
+      "price": 8.776847618557217e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T08:02:44+00:00",
+      "side": "buy",
+      "symbol": "MoonLoot",
+      "address": "EvNHSkvaNRjPjpSmF5rRQe144E6aRtyFgt2r989zpump",
+      "price": 2.2409016676003553e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6757,6 +6768,10 @@
     {
       "date": "2026-10-13T07:41:10+00:00",
       "equity": 5895198.74
+    },
+    {
+      "date": "2026-10-13T08:02:44+00:00",
+      "equity": 5895188.05
     }
   ]
 }
