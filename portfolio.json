@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5894149.350565478,
+  "cash": 5894100.771805139,
   "positions": {
     "8428Yg7kRgHYcR2tPkhqJVMjyUTwnDmVzD86wbHspump": {
       "symbol": "uinhim",
@@ -11,37 +11,17 @@
       "entry_time": "2026-10-13T21:14:19+00:00",
       "missing": 0
     },
-    "5FRMM2drTQanv5jehtPbyV9PTLBJXVCTUdFTzkPRpump": {
-      "symbol": "TIB",
-      "qty": 633759.335195475,
-      "entry_price": 7.810535837666573e-05,
-      "last_price": 7.565654165677771e-05,
+    "BZqtPggXEwoY231VAQHfWNTHEoxo6F2Nk18dPDn4pump": {
+      "symbol": "Jpmghost",
+      "qty": 563.8294112527012,
+      "entry_price": 0.08779251137329323,
+      "last_price": 0.08520012352271897,
       "cost": 50.0,
-      "entry_time": "2026-10-13T21:49:23+00:00",
+      "entry_time": "2026-10-13T22:13:57+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T21:13:14+00:00",
-      "side": "sell",
-      "symbol": "kippah",
-      "address": "BM7cGNUUx7DH5L8ZRMKk1emXK9eHptLEEKR8n6DApump",
-      "price": 4.690352166e-06,
-      "proceeds": 27.96,
-      "pnl_usd": -22.04,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T21:13:14+00:00",
-      "side": "sell",
-      "symbol": "STUTUTU",
-      "address": "6YMq5VRbeoyDxsvjLqwZkBrKsXZA1CVni9EKDnFrpump",
-      "price": 1.204827403e-05,
-      "proceeds": 29.1,
-      "pnl_usd": -20.9,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-11T21:13:14+00:00",
       "side": "sell",
@@ -4525,6 +4505,24 @@
       "address": "5FRMM2drTQanv5jehtPbyV9PTLBJXVCTUdFTzkPRpump",
       "price": 7.810535837666573e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T22:13:57+00:00",
+      "side": "sell",
+      "symbol": "TIB",
+      "address": "5FRMM2drTQanv5jehtPbyV9PTLBJXVCTUdFTzkPRpump",
+      "price": 2.337910175e-06,
+      "proceeds": 1.42,
+      "pnl_usd": -48.58,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T22:13:57+00:00",
+      "side": "buy",
+      "symbol": "Jpmghost",
+      "address": "BZqtPggXEwoY231VAQHfWNTHEoxo6F2Nk18dPDn4pump",
+      "price": 0.08779251137329323,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6871,6 +6869,10 @@
     {
       "date": "2026-10-13T21:49:23+00:00",
       "equity": 5894245.22
+    },
+    {
+      "date": "2026-10-13T22:13:57+00:00",
+      "equity": 5894196.73
     }
   ]
 }
