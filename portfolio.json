@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5895494.817843049,
+  "cash": 5895344.829622958,
   "positions": {
-    "Ch548i66vD2NhZqJvckcezZuDL3p933CXX8Av5y7pump": {
-      "symbol": "FIRE",
-      "qty": 5212345.903741844,
-      "entry_price": 9.496683626553812e-06,
-      "last_price": 9.152734618860106e-06,
+    "HXPihvatBaUTBTEz9bUa9s6Khe8FNRVdEKoJJ55Bpump": {
+      "symbol": "REA",
+      "qty": 570807.4041516563,
+      "entry_price": 8.671926754973991e-05,
+      "last_price": 8.408117114390877e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T04:15:01+00:00",
+      "entry_time": "2026-10-13T04:41:38+00:00",
+      "missing": 0
+    },
+    "6fbqQNxmfUgXnRcerQpE9hwCmY4t9BSibk7NtqSJpump": {
+      "symbol": "BTC",
+      "qty": 2582530.8180172835,
+      "entry_price": 1.9167244648024456e-05,
+      "last_price": 1.854718146662047e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T04:41:38+00:00",
+      "missing": 0
+    },
+    "C4k79SiNHvBcFdmPYMY8o9APCA3otyVC35SRJBPPpump": {
+      "symbol": "PUMP",
+      "qty": 7002830.702759676,
+      "entry_price": 7.068570139856878e-06,
+      "last_price": 6.798725580363728e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T04:41:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T08:53:59+00:00",
-      "side": "sell",
-      "symbol": "GPT-RED",
-      "address": "47P7eSi3jvVYKvnEWu1iYkvJmRDJyN7y8xWDdTBdpump",
-      "price": 4.12840741e-05,
-      "proceeds": 157.01,
-      "pnl_usd": 107.01,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-11T08:54:00+00:00",
-      "side": "buy",
-      "symbol": "GLORP",
-      "address": "9742VvYzXcYmEwqnGQNQyVqnrSyhXXkXJVokBNFgpump",
-      "price": 4.491848790549899e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T08:54:00+00:00",
-      "side": "buy",
-      "symbol": "Mr Beast",
-      "address": "DPqa2iYa4sAJUqzixTvbBh9e6gkagForGtGxAaWpump",
-      "price": 0.00039598732155452535,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T09:12:57+00:00",
-      "side": "sell",
-      "symbol": "GLORP",
-      "address": "9742VvYzXcYmEwqnGQNQyVqnrSyhXXkXJVokBNFgpump",
-      "price": 4.974240146e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-11T09:12:57+00:00",
       "side": "sell",
@@ -4512,6 +4494,40 @@
       "address": "Ch548i66vD2NhZqJvckcezZuDL3p933CXX8Av5y7pump",
       "price": 9.496683626553812e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T04:41:37+00:00",
+      "side": "sell",
+      "symbol": "FIRE",
+      "address": "Ch548i66vD2NhZqJvckcezZuDL3p933CXX8Av5y7pump",
+      "price": 2.362837474e-09,
+      "proceeds": 0.01,
+      "pnl_usd": -49.99,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T04:41:38+00:00",
+      "side": "buy",
+      "symbol": "REA",
+      "address": "HXPihvatBaUTBTEz9bUa9s6Khe8FNRVdEKoJJ55Bpump",
+      "price": 8.671926754973991e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T04:41:38+00:00",
+      "side": "buy",
+      "symbol": "BTC",
+      "address": "6fbqQNxmfUgXnRcerQpE9hwCmY4t9BSibk7NtqSJpump",
+      "price": 1.9167244648024456e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T04:41:38+00:00",
+      "side": "buy",
+      "symbol": "PUMP",
+      "address": "C4k79SiNHvBcFdmPYMY8o9APCA3otyVC35SRJBPPpump",
+      "price": 7.068570139856878e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6698,6 +6714,10 @@
     {
       "date": "2026-10-13T04:15:01+00:00",
       "equity": 5895542.53
+    },
+    {
+      "date": "2026-10-13T04:41:38+00:00",
+      "equity": 5895488.33
     }
   ]
 }
