@@ -1,25 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5895267.9557950795,
+  "cash": 5895309.02491825,
   "positions": {
-    "6fbqQNxmfUgXnRcerQpE9hwCmY4t9BSibk7NtqSJpump": {
-      "symbol": "BTC",
-      "qty": 2582530.8180172835,
-      "entry_price": 1.9167244648024456e-05,
-      "last_price": 1.854718147e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T04:41:38+00:00",
-      "missing": 0
-    },
-    "C4k79SiNHvBcFdmPYMY8o9APCA3otyVC35SRJBPPpump": {
-      "symbol": "PUMP",
-      "qty": 7002830.702759676,
-      "entry_price": 7.068570139856878e-06,
-      "last_price": 6.790083317e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T04:41:38+00:00",
-      "missing": 0
-    },
     "PLMpytuAw4LWrJsLhnahHjSnwR5N6QaQamrWhd1pump": {
       "symbol": "$CAT",
       "qty": 4724446.311029548,
@@ -33,37 +15,22 @@
       "symbol": "Topless",
       "qty": 4957709.542112025,
       "entry_price": 9.984449387269385e-06,
-      "last_price": 9.610892226317859e-06,
+      "last_price": 1.070943246e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T05:27:27+00:00",
+      "missing": 0
+    },
+    "8zdEJyFyqRAq7kZJY4MdcZCRVfBGS6MQ31qd4YTPpump": {
+      "symbol": "Nietzsche",
+      "qty": 535588.0347496243,
+      "entry_price": 9.242178089945598e-05,
+      "last_price": 8.961437594809018e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T05:51:22+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T09:53:45+00:00",
-      "side": "buy",
-      "symbol": "normie",
-      "address": "4sdvzkNkWwHvGTPXo58KJgdDojfo4dRMt5xLyaGppump",
-      "price": 5.5431340178366225e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T09:53:45+00:00",
-      "side": "buy",
-      "symbol": "GETPAID",
-      "address": "5Ksv1QrxpwgKTVU3Rh8fkSKmCRV3JAuSmfzRWSAvpump",
-      "price": 4.869912978420587e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T09:53:45+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "8pcmDbPozuLJNaifw12RD34MG6yio1qRqk4gmwUJpump",
-      "price": 1.4554393932227912e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T10:11:51+00:00",
       "side": "sell",
@@ -4537,6 +4504,34 @@
       "address": "FL4B8VKuZhiGXfawvrMP4HT9o1X8M4DbtDc1Bcz9pump",
       "price": 9.984449387269385e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T05:51:22+00:00",
+      "side": "sell",
+      "symbol": "BTC",
+      "address": "6fbqQNxmfUgXnRcerQpE9hwCmY4t9BSibk7NtqSJpump",
+      "price": 1.854718147e-05,
+      "proceeds": 45.84,
+      "pnl_usd": -4.16,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T05:51:22+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "C4k79SiNHvBcFdmPYMY8o9APCA3otyVC35SRJBPPpump",
+      "price": 6.790083317e-06,
+      "proceeds": 45.23,
+      "pnl_usd": -4.77,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T05:51:22+00:00",
+      "side": "buy",
+      "symbol": "Nietzsche",
+      "address": "8zdEJyFyqRAq7kZJY4MdcZCRVfBGS6MQ31qd4YTPpump",
+      "price": 9.242178089945598e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6735,6 +6730,10 @@
     {
       "date": "2026-10-13T05:27:27+00:00",
       "equity": 5895458.82
+    },
+    {
+      "date": "2026-10-13T05:51:22+00:00",
+      "equity": 5895457.88
     }
   ]
 }
