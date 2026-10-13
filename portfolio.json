@@ -1,38 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5894862.778505952,
+  "cash": 5894826.406403936,
   "positions": {
-    "9y32uxQSC2cShXPHZrULHe7sc3kPYDwAm6rwSiR2pump": {
-      "symbol": "AERIA",
-      "qty": 4641614.545769404,
-      "entry_price": 1.0664392640081831e-05,
-      "last_price": 1.0261460341450513e-05,
+    "35nsz5zx1dG57ZNeQ46AJuj9XWL1s2Jr1F9EWfRTpump": {
+      "symbol": "Aivault",
+      "qty": 819.2522515522585,
+      "entry_price": 0.060420950819739666,
+      "last_price": 0.05863536218875088,
       "cost": 50.0,
-      "entry_time": "2026-10-13T12:32:58+00:00",
+      "entry_time": "2026-10-13T13:04:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T15:05:13+00:00",
-      "side": "sell",
-      "symbol": "Kronos",
-      "address": "35Wn9AAtyRW4uCtt4oWBEJR9Zv46FpzZcMJqVGGvpump",
-      "price": 7.910747159e-06,
-      "proceeds": 45.35,
-      "pnl_usd": -4.65,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-11T15:05:13+00:00",
-      "side": "sell",
-      "symbol": "Dacity",
-      "address": "Hs72V5fCV7uWHnnQ486g9N8eyMKYEPhdnw6UnSSZpump",
-      "price": 0.000105711372,
-      "proceeds": 57.21,
-      "pnl_usd": 7.21,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-11T15:05:13+00:00",
       "side": "sell",
@@ -4516,6 +4496,24 @@
       "address": "9y32uxQSC2cShXPHZrULHe7sc3kPYDwAm6rwSiR2pump",
       "price": 1.0664392640081831e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T13:04:49+00:00",
+      "side": "sell",
+      "symbol": "AERIA",
+      "address": "9y32uxQSC2cShXPHZrULHe7sc3kPYDwAm6rwSiR2pump",
+      "price": 3.075534134e-06,
+      "proceeds": 13.63,
+      "pnl_usd": -36.37,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T13:04:49+00:00",
+      "side": "buy",
+      "symbol": "Aivault",
+      "address": "35nsz5zx1dG57ZNeQ46AJuj9XWL1s2Jr1F9EWfRTpump",
+      "price": 0.060420950819739666,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6782,6 +6780,10 @@
     {
       "date": "2026-10-13T12:32:58+00:00",
       "equity": 5894910.41
+    },
+    {
+      "date": "2026-10-13T13:04:49+00:00",
+      "equity": 5894874.44
     }
   ]
 }
