@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5895028.219452768,
+  "cash": 5895007.378898639,
   "positions": {
     "92kqVMvPELzwZVM8ex3G5UKWiCBLN81er1fgp4yipump": {
       "symbol": "ZebraCat",
@@ -20,63 +20,26 @@
       "entry_time": "2026-10-13T06:48:00+00:00",
       "missing": 0
     },
-    "88jm4YqwjQjb29Sjjah3QmuU5d5uU1i8edDnDMLNpump": {
-      "symbol": "VS",
-      "qty": 1035318.148382934,
-      "entry_price": 4.781139022561729e-05,
-      "last_price": 4.628626768739639e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T07:11:57+00:00",
-      "missing": 0
-    },
-    "EMifbuJUVMMrehHw97eNuhACY424w6KJPt5A4R9ppump": {
-      "symbol": "Barnacles",
-      "qty": 5183276.04238513,
-      "entry_price": 9.549944783033808e-06,
-      "last_price": 9.191410713574843e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T07:11:57+00:00",
-      "missing": 0
-    },
     "JBRrQWkY2MezM4ahoBs9d7zDLBpUkxpgfLTVuf7fpump": {
       "symbol": "IDK",
       "qty": 1619315.0423328795,
       "entry_price": 3.056848031788022e-05,
-      "last_price": 2.9616559335158057e-05,
+      "last_price": 2.962146068e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T07:11:57+00:00",
+      "missing": 0
+    },
+    "6RdH8AKvBh8neWktzErBTWAs973ZT3AKD6xPhdmupump": {
+      "symbol": "IDK",
+      "qty": 2131210.716161876,
+      "entry_price": 2.3226234564522636e-05,
+      "last_price": 2.248780994316321e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T07:41:10+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T10:51:34+00:00",
-      "side": "sell",
-      "symbol": "Kairo",
-      "address": "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump",
-      "price": 5.740844552e-05,
-      "proceeds": 99.64,
-      "pnl_usd": 49.64,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-11T10:51:34+00:00",
-      "side": "sell",
-      "symbol": "Urara",
-      "address": "3AjQX39BtbApaQFNbuT8er8fReLVJjc3tYkfXrTwpump",
-      "price": 3.316214763e-06,
-      "proceeds": 14.82,
-      "pnl_usd": -35.18,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T10:51:34+00:00",
-      "side": "buy",
-      "symbol": "Normie",
-      "address": "9o9AcmY8SPM5CNZCUpyWLzH7W1hnPPUHjDrdwwLkpump",
-      "price": 8.739201995701649e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T10:51:34+00:00",
       "side": "buy",
@@ -4548,6 +4511,34 @@
       "address": "JBRrQWkY2MezM4ahoBs9d7zDLBpUkxpgfLTVuf7fpump",
       "price": 3.056848031788022e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T07:41:10+00:00",
+      "side": "sell",
+      "symbol": "VS",
+      "address": "88jm4YqwjQjb29Sjjah3QmuU5d5uU1i8edDnDMLNpump",
+      "price": 1.219129803e-05,
+      "proceeds": 12.08,
+      "pnl_usd": -37.92,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T07:41:10+00:00",
+      "side": "sell",
+      "symbol": "Barnacles",
+      "address": "EMifbuJUVMMrehHw97eNuhACY424w6KJPt5A4R9ppump",
+      "price": 3.455554302e-06,
+      "proceeds": 17.08,
+      "pnl_usd": -32.92,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T07:41:10+00:00",
+      "side": "buy",
+      "symbol": "IDK",
+      "address": "6RdH8AKvBh8neWktzErBTWAs973ZT3AKD6xPhdmupump",
+      "price": 2.3226234564522636e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6762,6 +6753,10 @@
     {
       "date": "2026-10-13T07:11:57+00:00",
       "equity": 5895267.21
+    },
+    {
+      "date": "2026-10-13T07:41:10+00:00",
+      "equity": 5895198.74
     }
   ]
 }
