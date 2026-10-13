@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5894807.467915533,
+  "cash": 5894707.467918073,
   "positions": {
-    "JCC1QDsMNqKdvhJtkWGnfozERXR8FURQEHxMDXDupump": {
-      "symbol": "MOON",
-      "qty": 556985.1061541181,
-      "entry_price": 8.887131711974956e-05,
-      "last_price": 8.616845837983705e-05,
+    "2dqSzwWea6JsvaB6C67y1UkME81dtpRg2KR2UyUHpump": {
+      "symbol": "SEALS",
+      "qty": 576928.6532158384,
+      "entry_price": 8.579917070175617e-05,
+      "last_price": 8.318795175426354e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T13:35:09+00:00",
+      "entry_time": "2026-10-13T14:02:52+00:00",
+      "missing": 0
+    },
+    "yHJ92b8m3b1mh4oqKorX2JgUNMbW1vTEXzSngFApump": {
+      "symbol": "song",
+      "qty": 3004484.060975939,
+      "entry_price": 1.6475374472088575e-05,
+      "last_price": 1.5875554286034703e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T14:02:52+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T15:05:13+00:00",
-      "side": "buy",
-      "symbol": "MAYFLY",
-      "address": "9eqfv8nYN8wjyDUmKDUo6j94rmQDzA9kyNbaoTtrpump",
-      "price": 1.06697724727209e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T15:05:13+00:00",
-      "side": "buy",
-      "symbol": "HERAV",
-      "address": "5iiXyY92hoxGosV1NB2Q1JZv9N3iZRi4pnY4kLumpump",
-      "price": 9.396845912576622e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T15:25:13+00:00",
-      "side": "sell",
-      "symbol": "STUTUTU",
-      "address": "DZL8XbkUZmqAkwQV1XPDzKvZdKrY62TjqXaodTWcpump",
-      "price": 7.293835946e-05,
-      "proceeds": 46.07,
-      "pnl_usd": -3.93,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T15:25:13+00:00",
       "side": "sell",
@@ -4512,6 +4495,32 @@
       "address": "JCC1QDsMNqKdvhJtkWGnfozERXR8FURQEHxMDXDupump",
       "price": 8.887131711974956e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T14:02:51+00:00",
+      "side": "sell",
+      "symbol": "MOON",
+      "address": "JCC1QDsMNqKdvhJtkWGnfozERXR8FURQEHxMDXDupump",
+      "price": 4.855358071e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T14:02:52+00:00",
+      "side": "buy",
+      "symbol": "SEALS",
+      "address": "2dqSzwWea6JsvaB6C67y1UkME81dtpRg2KR2UyUHpump",
+      "price": 8.579917070175617e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T14:02:52+00:00",
+      "side": "buy",
+      "symbol": "song",
+      "address": "yHJ92b8m3b1mh4oqKorX2JgUNMbW1vTEXzSngFApump",
+      "price": 1.6475374472088575e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6786,6 +6795,10 @@
     {
       "date": "2026-10-13T13:35:09+00:00",
       "equity": 5894855.46
+    },
+    {
+      "date": "2026-10-13T14:02:52+00:00",
+      "equity": 5894803.16
     }
   ]
 }
