@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5894197.987088606,
+  "cash": 5894149.350565478,
   "positions": {
-    "3RkKnNi3D3eR4xixK5Mz8zUCgeFG9aNgouPZFVFVpump": {
-      "symbol": "Pulsar",
-      "qty": 694336.7112065688,
-      "entry_price": 7.129105980005355e-05,
-      "last_price": 6.904697515840879e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T21:14:19+00:00",
-      "missing": 0
-    },
     "8428Yg7kRgHYcR2tPkhqJVMjyUTwnDmVzD86wbHspump": {
       "symbol": "uinhim",
       "qty": 2251215.426707277,
       "entry_price": 2.1988122243991903e-05,
-      "last_price": 2.1285942769265745e-05,
+      "last_price": 2.128594277e-05,
       "cost": 50.0,
       "entry_time": "2026-10-13T21:14:19+00:00",
+      "missing": 0
+    },
+    "5FRMM2drTQanv5jehtPbyV9PTLBJXVCTUdFTzkPRpump": {
+      "symbol": "TIB",
+      "qty": 633759.335195475,
+      "entry_price": 7.810535837666573e-05,
+      "last_price": 7.565654165677771e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T21:49:23+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T21:13:14+00:00",
-      "side": "sell",
-      "symbol": "Samsung",
-      "address": "Aw3sDWUXAeg1pNz65R3L7dAeGL1pwHzNkArWCHYpump",
-      "price": 2.034360626e-06,
-      "proceeds": 0.23,
-      "pnl_usd": -49.77,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T21:13:14+00:00",
-      "side": "sell",
-      "symbol": "ROSE",
-      "address": "Cu7uWWQCDybCaSLyWUvfqydkKxPMGv9PRyWKCUbEpump",
-      "price": 4.323891102e-06,
-      "proceeds": 9.78,
-      "pnl_usd": -40.22,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-11T21:13:14+00:00",
       "side": "sell",
@@ -4527,6 +4507,24 @@
       "address": "8428Yg7kRgHYcR2tPkhqJVMjyUTwnDmVzD86wbHspump",
       "price": 2.1988122243991903e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T21:49:23+00:00",
+      "side": "sell",
+      "symbol": "Pulsar",
+      "address": "3RkKnNi3D3eR4xixK5Mz8zUCgeFG9aNgouPZFVFVpump",
+      "price": 2.051816387e-06,
+      "proceeds": 1.36,
+      "pnl_usd": -48.64,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-13T21:49:23+00:00",
+      "side": "buy",
+      "symbol": "TIB",
+      "address": "5FRMM2drTQanv5jehtPbyV9PTLBJXVCTUdFTzkPRpump",
+      "price": 7.810535837666573e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6869,6 +6867,10 @@
     {
       "date": "2026-10-13T21:14:19+00:00",
       "equity": 5894293.85
+    },
+    {
+      "date": "2026-10-13T21:49:23+00:00",
+      "equity": 5894245.22
     }
   ]
 }
