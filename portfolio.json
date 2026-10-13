@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5894252.483989344,
+  "cash": 5894197.987088606,
   "positions": {
-    "2bYRknj6b1C2PxvmU3BXxkvASUQNhfUWUdN7diTJpump": {
-      "symbol": "$JUICE",
-      "qty": 5366083.071536472,
-      "entry_price": 9.224605608989696e-06,
-      "last_price": 8.893527746e-06,
+    "3RkKnNi3D3eR4xixK5Mz8zUCgeFG9aNgouPZFVFVpump": {
+      "symbol": "Pulsar",
+      "qty": 694336.7112065688,
+      "entry_price": 7.129105980005355e-05,
+      "last_price": 6.904697515840879e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T20:10:06+00:00",
+      "entry_time": "2026-10-13T21:14:19+00:00",
+      "missing": 0
+    },
+    "8428Yg7kRgHYcR2tPkhqJVMjyUTwnDmVzD86wbHspump": {
+      "symbol": "uinhim",
+      "qty": 2251215.426707277,
+      "entry_price": 2.1988122243991903e-05,
+      "last_price": 2.1285942769265745e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-13T21:14:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T20:54:30+00:00",
-      "side": "buy",
-      "symbol": "STUTUTU",
-      "address": "6YMq5VRbeoyDxsvjLqwZkBrKsXZA1CVni9EKDnFrpump",
-      "price": 1.96098056603674e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T20:54:30+00:00",
-      "side": "buy",
-      "symbol": "$AURA",
-      "address": "FNNbZYaFXs7Qg6aK2A2eFhALYJ3h4QYSX6D48EbXpump",
-      "price": 1.1386555330038603e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T21:13:14+00:00",
-      "side": "sell",
-      "symbol": "plug",
-      "address": "6UStsEAjK1bDWgFtfjv8UZ4dt6NV9vw9sdeHsdfKpump",
-      "price": 1.734994762e-05,
-      "proceeds": 45.81,
-      "pnl_usd": -4.19,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-11T21:13:14+00:00",
       "side": "sell",
@@ -4518,6 +4501,32 @@
       "proceeds": 83.01,
       "pnl_usd": 33.01,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-13T21:14:18+00:00",
+      "side": "sell",
+      "symbol": "$JUICE",
+      "address": "2bYRknj6b1C2PxvmU3BXxkvASUQNhfUWUdN7diTJpump",
+      "price": 8.893527746e-06,
+      "proceeds": 45.5,
+      "pnl_usd": -4.5,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T21:14:19+00:00",
+      "side": "buy",
+      "symbol": "Pulsar",
+      "address": "3RkKnNi3D3eR4xixK5Mz8zUCgeFG9aNgouPZFVFVpump",
+      "price": 7.129105980005355e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T21:14:19+00:00",
+      "side": "buy",
+      "symbol": "uinhim",
+      "address": "8428Yg7kRgHYcR2tPkhqJVMjyUTwnDmVzD86wbHspump",
+      "price": 2.1988122243991903e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6856,6 +6865,10 @@
     {
       "date": "2026-10-13T20:48:17+00:00",
       "equity": 5894300.21
+    },
+    {
+      "date": "2026-10-13T21:14:19+00:00",
+      "equity": 5894293.85
     }
   ]
 }
