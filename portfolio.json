@@ -1,66 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5895309.02491825,
-  "positions": {
-    "PLMpytuAw4LWrJsLhnahHjSnwR5N6QaQamrWhd1pump": {
-      "symbol": "$CAT",
-      "qty": 4724446.311029548,
-      "entry_price": 1.0477418249930962e-05,
-      "last_price": 1.011010662e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T05:02:47+00:00",
-      "missing": 0
-    },
-    "FL4B8VKuZhiGXfawvrMP4HT9o1X8M4DbtDc1Bcz9pump": {
-      "symbol": "Topless",
-      "qty": 4957709.542112025,
-      "entry_price": 9.984449387269385e-06,
-      "last_price": 1.070943246e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T05:27:27+00:00",
-      "missing": 0
-    },
-    "8zdEJyFyqRAq7kZJY4MdcZCRVfBGS6MQ31qd4YTPpump": {
-      "symbol": "Nietzsche",
-      "qty": 535588.0347496243,
-      "entry_price": 9.242178089945598e-05,
-      "last_price": 8.961437594809018e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T05:51:22+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5895376.72214686,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-11T10:11:51+00:00",
-      "side": "sell",
-      "symbol": "Normie",
-      "address": "7xnYDEh4jz8dctx5VMD67fr1S9hf9dBH9c6eBYQipump",
-      "price": 4.968223677e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T10:11:51+00:00",
-      "side": "sell",
-      "symbol": "Markodex",
-      "address": "ALnXy6HmLAX9cFqPwt3rxRuCx3fiUdYvcPRKr5Lipump",
-      "price": 9.854325368e-05,
-      "proceeds": 27.62,
-      "pnl_usd": -22.38,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-11T10:11:51+00:00",
-      "side": "sell",
-      "symbol": "normie",
-      "address": "4sdvzkNkWwHvGTPXo58KJgdDojfo4dRMt5xLyaGppump",
-      "price": 3.116059436e-06,
-      "proceeds": 26.41,
-      "pnl_usd": -23.59,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-11T10:11:51+00:00",
       "side": "buy",
@@ -4532,6 +4474,36 @@
       "address": "8zdEJyFyqRAq7kZJY4MdcZCRVfBGS6MQ31qd4YTPpump",
       "price": 9.242178089945598e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-13T06:12:22+00:00",
+      "side": "sell",
+      "symbol": "$CAT",
+      "address": "PLMpytuAw4LWrJsLhnahHjSnwR5N6QaQamrWhd1pump",
+      "price": 1.011010662e-05,
+      "proceeds": 45.58,
+      "pnl_usd": -4.42,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-13T06:12:22+00:00",
+      "side": "sell",
+      "symbol": "Topless",
+      "address": "FL4B8VKuZhiGXfawvrMP4HT9o1X8M4DbtDc1Bcz9pump",
+      "price": 4.681593007e-06,
+      "proceeds": 22.11,
+      "pnl_usd": -27.89,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-13T06:12:22+00:00",
+      "side": "sell",
+      "symbol": "Nietzsche",
+      "address": "8zdEJyFyqRAq7kZJY4MdcZCRVfBGS6MQ31qd4YTPpump",
+      "price": 4.912477573e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -6734,6 +6706,10 @@
     {
       "date": "2026-10-13T05:51:22+00:00",
       "equity": 5895457.88
+    },
+    {
+      "date": "2026-10-13T06:12:22+00:00",
+      "equity": 5895376.72
     }
   ]
 }
