@@ -1,82 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5893503.385088106,
+  "cash": 5893402.182593781,
   "positions": {
-    "PDqj58oPBn1R5CEERiW3rKXSeWKHsnXz7KECQnQpump": {
-      "symbol": "USDF",
-      "qty": 20988.545728168556,
-      "entry_price": 0.002358429242363679,
-      "last_price": 0.00232305032,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T08:30:49+00:00",
-      "missing": 0
-    },
     "GDXDqyrDDSQnfJ3WtiVTB7vngJxFc97ezQGKmMB4pump": {
       "symbol": "ARF",
       "qty": 4159.660769584652,
       "entry_price": 0.011900008856958457,
-      "last_price": 0.011551493770211621,
+      "last_price": 0.01111909226,
       "cost": 50.0,
       "entry_time": "2026-10-14T09:08:27+00:00",
       "missing": 0
     },
-    "EcegeUu3LZoqB6LSev1saHTgzY6WVLMEGK32SEsppump": {
-      "symbol": "WHALEVEIL",
-      "qty": 834424.7701704993,
-      "entry_price": 5.932230414239212e-05,
-      "last_price": 5.743961489760582e-05,
+    "C232xtRnY2BazBLgNbkBhfLDmdm9fM2JbGvQ2Q4epump": {
+      "symbol": "Yumi",
+      "qty": 577443.769812844,
+      "entry_price": 8.572263238036753e-05,
+      "last_price": 8.311365858618673e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T09:08:27+00:00",
+      "entry_time": "2026-10-14T09:44:14+00:00",
+      "missing": 0
+    },
+    "GyjGj8JCMPFe9iDXcxbq8FL9ArsZG2KKbZdtTmprpump": {
+      "symbol": "Fluffy",
+      "qty": 4288271.169581953,
+      "entry_price": 1.154311330662085e-05,
+      "last_price": 1.1121054504505483e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T09:44:14+00:00",
+      "missing": 0
+    },
+    "8RwfqVijzKgb9URf1F1qbMZpSAuXx3kFn5VJ4rTbpump": {
+      "symbol": "ponzi",
+      "qty": 3192681.224088737,
+      "entry_price": 1.550420994946917e-05,
+      "last_price": 1.4949591878603341e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T09:44:14+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T04:30:38+00:00",
-      "side": "buy",
-      "symbol": "GOD",
-      "address": "4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump",
-      "price": 9.671575022394673e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T04:55:38+00:00",
-      "side": "sell",
-      "symbol": "GI",
-      "address": "QihfA2XW9UP33VFwS1jDtABaehAyHxjNkQmcAvtpump",
-      "price": 0.0001098245847,
-      "proceeds": 57.59,
-      "pnl_usd": 7.59,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-12T04:55:38+00:00",
-      "side": "sell",
-      "symbol": "GOD",
-      "address": "4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump",
-      "price": 3.145322466e-06,
-      "proceeds": 15.36,
-      "pnl_usd": -34.64,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T04:55:39+00:00",
-      "side": "buy",
-      "symbol": "SLUDGE",
-      "address": "BYWXrSHHqW6EmbCtFwkwMW14Ham4dSFHy2789hNjpump",
-      "price": 9.033029962455298e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T05:18:33+00:00",
-      "side": "sell",
-      "symbol": "SLUDGE",
-      "address": "BYWXrSHHqW6EmbCtFwkwMW14Ham4dSFHy2789hNjpump",
-      "price": 0.000100762559,
-      "proceeds": 52.88,
-      "pnl_usd": 2.88,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-12T05:18:33+00:00",
       "side": "buy",
@@ -4528,6 +4491,50 @@
       "address": "EcegeUu3LZoqB6LSev1saHTgzY6WVLMEGK32SEsppump",
       "price": 5.932230414239212e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T09:44:14+00:00",
+      "side": "sell",
+      "symbol": "USDF",
+      "address": "PDqj58oPBn1R5CEERiW3rKXSeWKHsnXz7KECQnQpump",
+      "price": 0.002333942153,
+      "proceeds": 47.01,
+      "pnl_usd": -2.99,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-14T09:44:14+00:00",
+      "side": "sell",
+      "symbol": "WHALEVEIL",
+      "address": "EcegeUu3LZoqB6LSev1saHTgzY6WVLMEGK32SEsppump",
+      "price": 2.240433027e-06,
+      "proceeds": 1.79,
+      "pnl_usd": -48.21,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T09:44:14+00:00",
+      "side": "buy",
+      "symbol": "Yumi",
+      "address": "C232xtRnY2BazBLgNbkBhfLDmdm9fM2JbGvQ2Q4epump",
+      "price": 8.572263238036753e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T09:44:14+00:00",
+      "side": "buy",
+      "symbol": "Fluffy",
+      "address": "GyjGj8JCMPFe9iDXcxbq8FL9ArsZG2KKbZdtTmprpump",
+      "price": 1.154311330662085e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T09:44:14+00:00",
+      "side": "buy",
+      "symbol": "ponzi",
+      "address": "8RwfqVijzKgb9URf1F1qbMZpSAuXx3kFn5VJ4rTbpump",
+      "price": 1.550420994946917e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6954,6 +6961,10 @@
     {
       "date": "2026-10-14T09:08:27+00:00",
       "equity": 5893648.12
+    },
+    {
+      "date": "2026-10-14T09:44:14+00:00",
+      "equity": 5893591.85
     }
   ]
 }
