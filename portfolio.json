@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5893860.690653661,
+  "cash": 5893901.861365558,
   "positions": {
-    "CSNtgZG7dMiTJgNYC7TyPR5W8rJqASFUQamP9ysSpump": {
-      "symbol": "MONY",
-      "qty": 4430958.812462931,
-      "entry_price": 1.117139700345931e-05,
-      "last_price": 1.078349899e-05,
+    "AtfZPuHiPVT2uTX2puPqu6sk5NKqukHK72YjDL3Kpump": {
+      "symbol": "ARCADES",
+      "qty": 573913.076863194,
+      "entry_price": 8.624999498277596e-05,
+      "last_price": 8.362590567041121e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-13T23:11:42+00:00",
-      "missing": 0
-    },
-    "FGqUFQfHsSQnU5X31tCyYJwYXR3G5qqjCBfuJBPdpump": {
-      "symbol": "$SUS",
-      "qty": 6003772.290450654,
-      "entry_price": 8.244816359663174e-06,
-      "last_price": 7.96421395e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T23:42:42+00:00",
+      "entry_time": "2026-10-14T00:50:10+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T22:10:45+00:00",
-      "side": "buy",
-      "symbol": "AGENT47",
-      "address": "373b6Nk7cdzPPtrskSrhZAxEeAHUcwBiD8rqrWAHpump",
-      "price": 6.131955955762728e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T22:10:45+00:00",
-      "side": "buy",
-      "symbol": "bazucat",
-      "address": "9nkjGKF8V6dRUei1F4TCCfBRZMrArTi3wCaNdzRhpump",
-      "price": 1.1232190162040135e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T22:10:45+00:00",
-      "side": "buy",
-      "symbol": "STUTUTU",
-      "address": "35uaKMPmdgVEc2V2Y2aNUdbxD9nWb4vVzN87WRcspump",
-      "price": 1.177032584825095e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T22:31:40+00:00",
       "side": "sell",
@@ -4519,6 +4486,34 @@
       "proceeds": 11.59,
       "pnl_usd": -38.41,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T00:50:09+00:00",
+      "side": "sell",
+      "symbol": "MONY",
+      "address": "CSNtgZG7dMiTJgNYC7TyPR5W8rJqASFUQamP9ysSpump",
+      "price": 1.078349899e-05,
+      "proceeds": 45.61,
+      "pnl_usd": -4.39,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-14T00:50:09+00:00",
+      "side": "sell",
+      "symbol": "$SUS",
+      "address": "FGqUFQfHsSQnU5X31tCyYJwYXR3G5qqjCBfuJBPdpump",
+      "price": 7.96421395e-06,
+      "proceeds": 45.56,
+      "pnl_usd": -4.44,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-14T00:50:10+00:00",
+      "side": "buy",
+      "symbol": "ARCADES",
+      "address": "AtfZPuHiPVT2uTX2puPqu6sk5NKqukHK72YjDL3Kpump",
+      "price": 8.624999498277596e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6885,6 +6880,10 @@
     {
       "date": "2026-10-14T00:05:48+00:00",
       "equity": 5893956.29
+    },
+    {
+      "date": "2026-10-14T00:50:10+00:00",
+      "equity": 5893949.86
     }
   ]
 }
