@@ -1,57 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5893668.979785538,
+  "cash": 5893602.155158386,
   "positions": {
-    "22UqpxbE7PKPYDLLvCejEMgsu17KWBBpFz9bDbLbpump": {
-      "symbol": "ENTANGLE",
-      "qty": 1384906.4412783368,
-      "entry_price": 3.574248665802223e-05,
-      "last_price": 3.458837030971795e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T04:47:37+00:00",
-      "missing": 0
-    },
     "KpCut2pnF93Wy51MpGDXk3U9qRGgMK9fHL5EVT6pump": {
       "symbol": "lptp",
       "qty": 4667335.744348797,
       "entry_price": 1.06056222888903e-05,
-      "last_price": 1.0226017229028788e-05,
+      "last_price": 1.010464617e-05,
       "cost": 50.0,
       "entry_time": "2026-10-14T04:47:37+00:00",
+      "missing": 0
+    },
+    "78aBaeBixfAoVsAEdzP2zvWGPWpepQFVwN4FpsDFpump": {
+      "symbol": "PETS",
+      "qty": 567295.1120129382,
+      "entry_price": 8.725617223169561e-05,
+      "last_price": 8.4601877064778e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T05:15:59+00:00",
+      "missing": 0
+    },
+    "5fJ5xmREbC8QCkYnPyXiNsp1N242hwovC6jvXfKzpump": {
+      "symbol": "Puffs",
+      "qty": 1700277.4358653072,
+      "entry_price": 2.9112895905019407e-05,
+      "last_price": 2.810613025606641e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T05:15:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T02:35:16+00:00",
-      "side": "sell",
-      "symbol": "CRMB",
-      "address": "3qH3C2B5yRZtrn5oFFMhgs146X46J2aaKBFA3k4kpump",
-      "price": 8.11215105e-06,
-      "proceeds": 45.34,
-      "pnl_usd": -4.66,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T02:35:16+00:00",
-      "side": "sell",
-      "symbol": "mexicans",
-      "address": "6baLXx5Pq9PRdXAY81utM8HNg35Y9TzE48htesNnpump",
-      "price": 9.979699876e-05,
-      "proceeds": 25.72,
-      "pnl_usd": -24.28,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T02:35:16+00:00",
-      "side": "sell",
-      "symbol": "HERD",
-      "address": "2sWjHmJsjsw52AGBj7MUQV6BQhgsBkD3Cgn96W3ipump",
-      "price": 2.428475024e-05,
-      "proceeds": 29.4,
-      "pnl_usd": -20.6,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-12T02:35:17+00:00",
       "side": "buy",
@@ -4523,6 +4502,32 @@
       "address": "KpCut2pnF93Wy51MpGDXk3U9qRGgMK9fHL5EVT6pump",
       "price": 1.06056222888903e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T05:15:58+00:00",
+      "side": "sell",
+      "symbol": "ENTANGLE",
+      "address": "22UqpxbE7PKPYDLLvCejEMgsu17KWBBpFz9bDbLbpump",
+      "price": 2.506780423e-05,
+      "proceeds": 33.18,
+      "pnl_usd": -16.82,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T05:15:59+00:00",
+      "side": "buy",
+      "symbol": "PETS",
+      "address": "78aBaeBixfAoVsAEdzP2zvWGPWpepQFVwN4FpsDFpump",
+      "price": 8.725617223169561e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T05:15:59+00:00",
+      "side": "buy",
+      "symbol": "Puffs",
+      "address": "5fJ5xmREbC8QCkYnPyXiNsp1N242hwovC6jvXfKzpump",
+      "price": 2.9112895905019407e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6921,6 +6926,10 @@
     {
       "date": "2026-10-14T04:47:37+00:00",
       "equity": 5893764.61
+    },
+    {
+      "date": "2026-10-14T05:15:59+00:00",
+      "equity": 5893745.1
     }
   ]
 }
