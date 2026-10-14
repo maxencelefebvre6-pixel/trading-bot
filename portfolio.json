@@ -1,82 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5892705.150672749,
+  "cash": 5892661.119172485,
   "positions": {
-    "GnMhMfupJRrPFn9k695MmMqPpofkzgdxhTcFMYeppump": {
-      "symbol": "NORMAL",
-      "qty": 5908621.530324038,
-      "entry_price": 8.377588536676057e-06,
-      "last_price": 8.075789362691634e-06,
+    "BAZQaTM9ZQhnChE2t4ZjgqAr5HbnSNDev9kVCMzTpump": {
+      "symbol": "WOTF",
+      "qty": 1893.2921168867472,
+      "entry_price": 0.026144935352815916,
+      "last_price": 0.025380571511082785,
       "cost": 50.0,
-      "entry_time": "2026-10-14T16:29:57+00:00",
+      "entry_time": "2026-10-14T17:08:05+00:00",
       "missing": 0
     },
-    "J8ojxCJFPbXr8dwkdXjdfKCVvS6HRx4Bb2mT2DHApump": {
-      "symbol": "ZXC",
-      "qty": 9160521.732690552,
-      "entry_price": 5.4036223530099386e-06,
-      "last_price": 5.200590344984542e-06,
+    "N5CQcosKmdJEVmzcqCXs87qmaB9iEnGq6UjrUX3pump": {
+      "symbol": "BAKI",
+      "qty": 33449604.592987094,
+      "entry_price": 1.479838120728577e-06,
+      "last_price": 1.4250165049457062e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-14T16:29:57+00:00",
-      "missing": 0
-    },
-    "2QKDAyKAgjnPKZEhgQNRhQUkLxHq9kt3ZnoiEzuRpump": {
-      "symbol": "HALO",
-      "qty": 4225507.913892731,
-      "entry_price": 1.171456804926401e-05,
-      "last_price": 1.1267112124231002e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T16:29:57+00:00",
+      "entry_time": "2026-10-14T17:08:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T08:53:45+00:00",
-      "side": "sell",
-      "symbol": "LMAO",
-      "address": "7chmdwnxmS6hs6xh8LBxaR9FKFLXquTEftJU9JDXpump",
-      "price": 1.67103472e-05,
-      "proceeds": 44.43,
-      "pnl_usd": -5.57,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T08:53:45+00:00",
-      "side": "sell",
-      "symbol": "Gem",
-      "address": "Cx1r6yQQh2sTHTeopQQmu1sBMFA8WMBmamtnEja5pump",
-      "price": 5.077129861e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T08:53:45+00:00",
-      "side": "sell",
-      "symbol": "Ploy",
-      "address": "39fzweMMY4DRAgBQN61jbMGRoa2RBFTjAY3Vg95Epump",
-      "price": 0.0001011783009,
-      "proceeds": 164.78,
-      "pnl_usd": 114.78,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-12T08:53:45+00:00",
-      "side": "buy",
-      "symbol": "CYBERALON",
-      "address": "3MJjuxQUZ7KH8Ju4GtkDReCdU4gquqEkQxb6vXqqpump",
-      "price": 6.928168383156882e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T08:53:45+00:00",
-      "side": "buy",
-      "symbol": "34%",
-      "address": "EovafKh6c41Znh3CBESatFWQk9cwmZu2kASifX3Dpump",
-      "price": 9.74297217281245e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T08:53:45+00:00",
       "side": "buy",
@@ -4532,6 +4477,52 @@
       "address": "2QKDAyKAgjnPKZEhgQNRhQUkLxHq9kt3ZnoiEzuRpump",
       "price": 1.171456804926401e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T17:08:05+00:00",
+      "side": "sell",
+      "symbol": "NORMAL",
+      "address": "GnMhMfupJRrPFn9k695MmMqPpofkzgdxhTcFMYeppump",
+      "price": 3.089844197e-06,
+      "proceeds": 17.4,
+      "pnl_usd": -32.6,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T17:08:05+00:00",
+      "side": "sell",
+      "symbol": "ZXC",
+      "address": "J8ojxCJFPbXr8dwkdXjdfKCVvS6HRx4Bb2mT2DHApump",
+      "price": 3.085498673e-06,
+      "proceeds": 26.82,
+      "pnl_usd": -23.18,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T17:08:05+00:00",
+      "side": "sell",
+      "symbol": "HALO",
+      "address": "2QKDAyKAgjnPKZEhgQNRhQUkLxHq9kt3ZnoiEzuRpump",
+      "price": 2.912381219e-06,
+      "proceeds": 11.75,
+      "pnl_usd": -38.25,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T17:08:05+00:00",
+      "side": "buy",
+      "symbol": "WOTF",
+      "address": "BAZQaTM9ZQhnChE2t4ZjgqAr5HbnSNDev9kVCMzTpump",
+      "price": 0.026144935352815916,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T17:08:05+00:00",
+      "side": "buy",
+      "symbol": "BAKI",
+      "address": "N5CQcosKmdJEVmzcqCXs87qmaB9iEnGq6UjrUX3pump",
+      "price": 1.479838120728577e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7002,6 +6993,10 @@
     {
       "date": "2026-10-14T16:29:57+00:00",
       "equity": 5892848.12
+    },
+    {
+      "date": "2026-10-14T17:08:05+00:00",
+      "equity": 5892756.84
     }
   ]
 }
