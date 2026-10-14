@@ -1,53 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5892531.579681018,
+  "cash": 5892476.114760426,
   "positions": {
-    "EzEAvSPzfXNiyjWS7WdWsvF5kRM5uyjeMen6uMeVpump": {
-      "symbol": "FERSPE",
-      "qty": 12822594.861289803,
-      "entry_price": 3.860373078575211e-06,
-      "last_price": 3.680515788e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T18:14:40+00:00",
-      "missing": 0
-    },
     "26tqACPCPTVz1jUdNoXXLkYFZ83ictTf9z3rsakipump": {
       "symbol": "finalprofitgr",
       "qty": 5623021.120504767,
       "entry_price": 8.803096936537292e-06,
-      "last_price": 8.484441462824007e-06,
+      "last_price": 8.482433182e-06,
       "cost": 50.0,
       "entry_time": "2026-10-14T19:01:17+00:00",
+      "missing": 0
+    },
+    "BXs4jPBcDUE3PXW2fryZvbxTLyqpbX1P9DqwtneNpump": {
+      "symbol": "milk",
+      "qty": 3622655.9618031625,
+      "entry_price": 1.3664007988040237e-05,
+      "last_price": 1.3163607526158128e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T19:37:27+00:00",
+      "missing": 0
+    },
+    "B7bkFKjWcBCavJR8qeDayrsBmuxrYogA2cDKD1mPpump": {
+      "symbol": "Neymar",
+      "qty": 7148329.071592671,
+      "entry_price": 6.924695198590128e-06,
+      "last_price": 6.66145877220309e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T19:37:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T10:04:16+00:00",
-      "side": "buy",
-      "symbol": "Marmalade",
-      "address": "4SH7VsaDXVTpZcoPZUhCzHECTz82SApRnjc2Fx8Qpump",
-      "price": 9.438659493784641e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T10:04:16+00:00",
-      "side": "buy",
-      "symbol": "Marmalade",
-      "address": "3zFuJ8EuGhFmkL8VNqH8fijA6D73sJrSUMYNFtkNpump",
-      "price": 3.823914992858889e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T10:29:44+00:00",
-      "side": "sell",
-      "symbol": "ライ",
-      "address": "D1RvqVRszipvJv8uxB2YYXrqe7MXYRRtfAUftNStpump",
-      "price": 8.366686796e-06,
-      "proceeds": 45.36,
-      "pnl_usd": -4.64,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-12T10:29:44+00:00",
       "side": "sell",
@@ -4521,6 +4504,32 @@
       "address": "26tqACPCPTVz1jUdNoXXLkYFZ83ictTf9z3rsakipump",
       "price": 8.803096936537292e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T19:37:27+00:00",
+      "side": "sell",
+      "symbol": "FERSPE",
+      "address": "EzEAvSPzfXNiyjWS7WdWsvF5kRM5uyjeMen6uMeVpump",
+      "price": 3.680515788e-06,
+      "proceeds": 44.54,
+      "pnl_usd": -5.46,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-14T19:37:27+00:00",
+      "side": "buy",
+      "symbol": "milk",
+      "address": "BXs4jPBcDUE3PXW2fryZvbxTLyqpbX1P9DqwtneNpump",
+      "price": 1.3664007988040237e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T19:37:27+00:00",
+      "side": "buy",
+      "symbol": "Neymar",
+      "address": "B7bkFKjWcBCavJR8qeDayrsBmuxrYogA2cDKD1mPpump",
+      "price": 6.924695198590128e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7007,6 +7016,10 @@
     {
       "date": "2026-10-14T19:01:17+00:00",
       "equity": 5892626.48
+    },
+    {
+      "date": "2026-10-14T19:37:27+00:00",
+      "equity": 5892619.12
     }
   ]
 }
