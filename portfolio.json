@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5892855.150672749,
-  "positions": {},
+  "cash": 5892705.150672749,
+  "positions": {
+    "GnMhMfupJRrPFn9k695MmMqPpofkzgdxhTcFMYeppump": {
+      "symbol": "NORMAL",
+      "qty": 5908621.530324038,
+      "entry_price": 8.377588536676057e-06,
+      "last_price": 8.075789362691634e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T16:29:57+00:00",
+      "missing": 0
+    },
+    "J8ojxCJFPbXr8dwkdXjdfKCVvS6HRx4Bb2mT2DHApump": {
+      "symbol": "ZXC",
+      "qty": 9160521.732690552,
+      "entry_price": 5.4036223530099386e-06,
+      "last_price": 5.200590344984542e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T16:29:57+00:00",
+      "missing": 0
+    },
+    "2QKDAyKAgjnPKZEhgQNRhQUkLxHq9kt3ZnoiEzuRpump": {
+      "symbol": "HALO",
+      "qty": 4225507.913892731,
+      "entry_price": 1.171456804926401e-05,
+      "last_price": 1.1267112124231002e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T16:29:57+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-12T08:27:10+00:00",
-      "side": "buy",
-      "symbol": "Ploy",
-      "address": "39fzweMMY4DRAgBQN61jbMGRoa2RBFTjAY3Vg95Epump",
-      "price": 2.886769330425082e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T08:27:10+00:00",
-      "side": "buy",
-      "symbol": "SXSN",
-      "address": "6cWpWhr2sD3RhMKgB2Perw15J2WTL7UkkU48UkeKpump",
-      "price": 6.6961077793067594e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T08:53:45+00:00",
-      "side": "sell",
-      "symbol": "Solamians",
-      "address": "CNJtNzHhmLpt1kTjWUCnE58TPXVQPbf4stYGjVdkpump",
-      "price": 0.01623138326,
-      "proceeds": 46.42,
-      "pnl_usd": -3.58,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-12T08:53:45+00:00",
       "side": "sell",
@@ -4506,6 +4508,30 @@
       "proceeds": 8.33,
       "pnl_usd": -41.67,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T16:29:57+00:00",
+      "side": "buy",
+      "symbol": "NORMAL",
+      "address": "GnMhMfupJRrPFn9k695MmMqPpofkzgdxhTcFMYeppump",
+      "price": 8.377588536676057e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T16:29:57+00:00",
+      "side": "buy",
+      "symbol": "ZXC",
+      "address": "J8ojxCJFPbXr8dwkdXjdfKCVvS6HRx4Bb2mT2DHApump",
+      "price": 5.4036223530099386e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T16:29:57+00:00",
+      "side": "buy",
+      "symbol": "HALO",
+      "address": "2QKDAyKAgjnPKZEhgQNRhQUkLxHq9kt3ZnoiEzuRpump",
+      "price": 1.171456804926401e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6972,6 +6998,10 @@
     {
       "date": "2026-10-14T15:11:39+00:00",
       "equity": 5892855.15
+    },
+    {
+      "date": "2026-10-14T16:29:57+00:00",
+      "equity": 5892848.12
     }
   ]
 }
