@@ -1,42 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5893327.949600142,
+  "cash": 5893273.372826052,
   "positions": {
-    "4zSYAQxHsEZd8sLBt3iBhHVX3WvC8eKuAk3brvT5pump": {
-      "symbol": "Fox",
-      "qty": 6018196.257923859,
-      "entry_price": 8.225055793889376e-06,
-      "last_price": 7.922966981e-06,
+    "Gcbnwm6sp7AmEdUbEkV4QFeXHwKrS5yiNzGCG4S3pump": {
+      "symbol": "PDOG",
+      "qty": 8144539.478026141,
+      "entry_price": 6.077691701728543e-06,
+      "last_price": 5.854465596385669e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-14T10:16:19+00:00",
+      "entry_time": "2026-10-14T11:28:00+00:00",
+      "missing": 0
+    },
+    "ATzdMNuwq3XH5oTRqPNiyizZhstrLCv33DUw8KMVpump": {
+      "symbol": "Kimba",
+      "qty": 578137.7691457972,
+      "entry_price": 8.561973052398325e-05,
+      "last_price": 8.301367614713634e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T11:28:00+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T06:34:25+00:00",
-      "side": "buy",
-      "symbol": "DOGCOIN",
-      "address": "BAsYLUMUetzDYuN2SvxiNd3E6yp6UyEKTyJrix88pump",
-      "price": 9.0886692497835e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T06:34:25+00:00",
-      "side": "buy",
-      "symbol": "CYBERLEEK",
-      "address": "Gi67XiF32Uu5ahe8v55Gpg6yYFV5d2Rbpi91NJ7Zpump",
-      "price": 9.140650692011745e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T06:34:25+00:00",
-      "side": "buy",
-      "symbol": "SI",
-      "address": "4bhjh3ZBVzvC7fhU1buA1Au5u8dbLBAStLPywHSjpump",
-      "price": 9.191688171031677e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T07:06:42+00:00",
       "side": "sell",
@@ -4512,6 +4497,32 @@
       "proceeds": 8.1,
       "pnl_usd": -41.9,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T11:28:00+00:00",
+      "side": "sell",
+      "symbol": "Fox",
+      "address": "4zSYAQxHsEZd8sLBt3iBhHVX3WvC8eKuAk3brvT5pump",
+      "price": 7.922966981e-06,
+      "proceeds": 45.42,
+      "pnl_usd": -4.58,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-14T11:28:00+00:00",
+      "side": "buy",
+      "symbol": "PDOG",
+      "address": "Gcbnwm6sp7AmEdUbEkV4QFeXHwKrS5yiNzGCG4S3pump",
+      "price": 6.077691701728543e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T11:28:00+00:00",
+      "side": "buy",
+      "symbol": "Kimba",
+      "address": "ATzdMNuwq3XH5oTRqPNiyizZhstrLCv33DUw8KMVpump",
+      "price": 8.561973052398325e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6950,6 +6961,10 @@
     {
       "date": "2026-10-14T10:55:08+00:00",
       "equity": 5893375.63
+    },
+    {
+      "date": "2026-10-14T11:28:00+00:00",
+      "equity": 5893369.05
     }
   ]
 }
