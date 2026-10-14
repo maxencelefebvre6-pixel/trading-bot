@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5892927.41952781,
+  "cash": 5892839.650478357,
   "positions": {
-    "CVv3QiezkAfwVgE3dU6DrP3Hs1zrd15d8x1bdYhCpump": {
-      "symbol": "MINDPAD",
-      "qty": 4320415.988009846,
-      "entry_price": 1.1457230076310697e-05,
-      "last_price": 1.1028233208646057e-05,
+    "AJrCVGDKxGJMVFux46qaVdCCUAYdvfmEYH3S6nHapump": {
+      "symbol": "Jamie",
+      "qty": 2491225.681323615,
+      "entry_price": 1.9869737363055812e-05,
+      "last_price": 1.915860543404669e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T14:01:14+00:00",
+      "entry_time": "2026-10-14T14:36:26+00:00",
+      "missing": 0
+    },
+    "AFCZJhvWGkXadacef7RzSiqZgY8u1bRjTh2drw8hpump": {
+      "symbol": "SPRING",
+      "qty": 3005387.860489205,
+      "entry_price": 1.6470419891808104e-05,
+      "last_price": 1.5879096986589416e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T14:36:26+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T08:27:10+00:00",
-      "side": "sell",
-      "symbol": "DOPECRAFT",
-      "address": "4zh2SmTWqDGwvN7iHc9Z3d7eJ4S2ZupoyiqJseoYpump",
-      "price": 2.354595078e-06,
-      "proceeds": 2.44,
-      "pnl_usd": -47.56,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T08:27:10+00:00",
-      "side": "sell",
-      "symbol": "maxpain",
-      "address": "EVD9rS4kGfSnwEzsQWxBnQAgM8ha3iCfbbe6GFNMpump",
-      "price": 5.636910936e-05,
-      "proceeds": 61.89,
-      "pnl_usd": 11.89,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-12T08:27:10+00:00",
-      "side": "sell",
-      "symbol": "DOGE",
-      "address": "Hgf4uzYz7YbRLfRud3CryJ3B6t6c1bfJHWRTKZcCpump",
-      "price": 3.630724025e-06,
-      "proceeds": 10.81,
-      "pnl_usd": -39.19,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-12T08:27:10+00:00",
       "side": "sell",
@@ -4518,6 +4497,32 @@
       "address": "CVv3QiezkAfwVgE3dU6DrP3Hs1zrd15d8x1bdYhCpump",
       "price": 1.1457230076310697e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T14:36:25+00:00",
+      "side": "sell",
+      "symbol": "MINDPAD",
+      "address": "CVv3QiezkAfwVgE3dU6DrP3Hs1zrd15d8x1bdYhCpump",
+      "price": 2.964825359e-06,
+      "proceeds": 12.23,
+      "pnl_usd": -37.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T14:36:26+00:00",
+      "side": "buy",
+      "symbol": "Jamie",
+      "address": "AJrCVGDKxGJMVFux46qaVdCCUAYdvfmEYH3S6nHapump",
+      "price": 1.9869737363055812e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T14:36:26+00:00",
+      "side": "buy",
+      "symbol": "SPRING",
+      "address": "AFCZJhvWGkXadacef7RzSiqZgY8u1bRjTh2drw8hpump",
+      "price": 1.6470419891808104e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6976,6 +6981,10 @@
     {
       "date": "2026-10-14T14:01:14+00:00",
       "equity": 5892975.07
+    },
+    {
+      "date": "2026-10-14T14:36:26+00:00",
+      "equity": 5892935.1
     }
   ]
 }
