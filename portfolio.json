@@ -1,67 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5893273.372826052,
+  "cash": 5893227.574760838,
   "positions": {
-    "Gcbnwm6sp7AmEdUbEkV4QFeXHwKrS5yiNzGCG4S3pump": {
-      "symbol": "PDOG",
-      "qty": 8144539.478026141,
-      "entry_price": 6.077691701728543e-06,
-      "last_price": 5.854465596385669e-06,
+    "7QXUxDpA7YBzF5w8ZmFHsgXDP2R76nNq3oYLoCB7pump": {
+      "symbol": "TESLA SI",
+      "qty": 119370.68447687589,
+      "entry_price": 0.0004146746767594265,
+      "last_price": 0.0004022278884766653,
       "cost": 50.0,
-      "entry_time": "2026-10-14T11:28:00+00:00",
+      "entry_time": "2026-10-14T12:02:31+00:00",
       "missing": 0
     },
-    "ATzdMNuwq3XH5oTRqPNiyizZhstrLCv33DUw8KMVpump": {
-      "symbol": "Kimba",
-      "qty": 578137.7691457972,
-      "entry_price": 8.561973052398325e-05,
-      "last_price": 8.301367614713634e-05,
+    "GFSGuCne5jxbSgB41S9SAhnMpPNNojKpWbEC3Q2Epump": {
+      "symbol": "KELCARDS",
+      "qty": 524.2893797755422,
+      "entry_price": 0.09441350885496068,
+      "last_price": 0.09162844124512741,
       "cost": 50.0,
-      "entry_time": "2026-10-14T11:28:00+00:00",
+      "entry_time": "2026-10-14T12:02:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T07:06:42+00:00",
-      "side": "sell",
-      "symbol": "DB",
-      "address": "8fycqa7PjbxHfYdWSTxvYGtqMwTbFkUwn11mM4TEpump",
-      "price": 7.516120641e-06,
-      "proceeds": 45.52,
-      "pnl_usd": -4.48,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T07:06:42+00:00",
-      "side": "sell",
-      "symbol": "DOGCOIN",
-      "address": "BAsYLUMUetzDYuN2SvxiNd3E6yp6UyEKTyJrix88pump",
-      "price": 5.09317221e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T07:06:42+00:00",
-      "side": "sell",
-      "symbol": "CYBERLEEK",
-      "address": "Gi67XiF32Uu5ahe8v55Gpg6yYFV5d2Rbpi91NJ7Zpump",
-      "price": 0.0001027054956,
-      "proceeds": 27.53,
-      "pnl_usd": -22.47,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T07:06:42+00:00",
-      "side": "sell",
-      "symbol": "SI",
-      "address": "4bhjh3ZBVzvC7fhU1buA1Au5u8dbLBAStLPywHSjpump",
-      "price": 4.887786071e-06,
-      "proceeds": 25.04,
-      "pnl_usd": -24.96,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-12T07:06:42+00:00",
       "side": "buy",
@@ -4523,6 +4483,42 @@
       "address": "ATzdMNuwq3XH5oTRqPNiyizZhstrLCv33DUw8KMVpump",
       "price": 8.561973052398325e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T12:02:31+00:00",
+      "side": "sell",
+      "symbol": "PDOG",
+      "address": "Gcbnwm6sp7AmEdUbEkV4QFeXHwKrS5yiNzGCG4S3pump",
+      "price": 3.431049672e-06,
+      "proceeds": 26.51,
+      "pnl_usd": -23.49,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T12:02:31+00:00",
+      "side": "sell",
+      "symbol": "Kimba",
+      "address": "ATzdMNuwq3XH5oTRqPNiyizZhstrLCv33DUw8KMVpump",
+      "price": 9.675857285e-05,
+      "proceeds": 27.69,
+      "pnl_usd": -22.31,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T12:02:31+00:00",
+      "side": "buy",
+      "symbol": "TESLA SI",
+      "address": "7QXUxDpA7YBzF5w8ZmFHsgXDP2R76nNq3oYLoCB7pump",
+      "price": 0.0004146746767594265,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T12:02:31+00:00",
+      "side": "buy",
+      "symbol": "KELCARDS",
+      "address": "GFSGuCne5jxbSgB41S9SAhnMpPNNojKpWbEC3Q2Epump",
+      "price": 0.09441350885496068,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6965,6 +6961,10 @@
     {
       "date": "2026-10-14T11:28:00+00:00",
       "equity": 5893369.05
+    },
+    {
+      "date": "2026-10-14T12:02:31+00:00",
+      "equity": 5893323.63
     }
   ]
 }
