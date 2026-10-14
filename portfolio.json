@@ -1,70 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5893776.429214372,
+  "cash": 5893764.951157173,
   "positions": {
-    "5hEgxUMhTiZpyNAHTk4ToEfhpoz7NoGceZshNX8ppump": {
-      "symbol": "Space",
-      "qty": 6340585.062179811,
-      "entry_price": 7.806850553154244e-06,
-      "last_price": 7.506954588007447e-06,
+    "x7xx633FN53kxPVskAr1XnJD8oJS9Yky5fZ9Ps4pump": {
+      "symbol": "PUMPE",
+      "qty": 2106293.267106804,
+      "entry_price": 2.350100091617014e-05,
+      "last_price": 2.268173455643492e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T03:02:34+00:00",
-      "missing": 0
-    },
-    "2ScpXoQDqeLv7DX9oDbRYAxPsNMogcLFinDUJGy6pump": {
-      "symbol": "SD",
-      "qty": 3466220.807129184,
-      "entry_price": 1.4280682839994032e-05,
-      "last_price": 1.3752762721791085e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T03:02:34+00:00",
-      "missing": 0
-    },
-    "CcMFoLiYTXV9nfYWFjc9AXKwPcvBds8H6SbX2MzPpump": {
-      "symbol": "Eikon",
-      "qty": 3230535.5287747183,
-      "entry_price": 1.5322536947542696e-05,
-      "last_price": 1.4758785668091077e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T03:02:34+00:00",
+      "entry_time": "2026-10-14T03:35:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T01:27:47+00:00",
-      "side": "sell",
-      "symbol": "Seymour",
-      "address": "EKANHgtCSyQNEJmXtAx1A72QmgUaDFXNMGYw5jwKpump",
-      "price": 3.10287136e-06,
-      "proceeds": 10.68,
-      "pnl_usd": -39.32,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T01:27:47+00:00",
-      "side": "buy",
-      "symbol": "apelink",
-      "address": "ESVSm79ChcXxPJTQhVqycaJHdKsHJyzNqV6d9BZLpump",
-      "price": 4.607135497787219e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T01:27:47+00:00",
-      "side": "buy",
-      "symbol": "WORLD",
-      "address": "ECH5gSTXFrBH6xcwRZQzeDs6Q3UdyNNTMLru1Eh3pump",
-      "price": 8.99185894171235e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T01:27:47+00:00",
-      "side": "buy",
-      "symbol": "CRMB",
-      "address": "3qH3C2B5yRZtrn5oFFMhgs146X46J2aaKBFA3k4kpump",
-      "price": 8.428842333744804e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T01:52:01+00:00",
       "side": "sell",
@@ -4528,6 +4476,44 @@
       "address": "CcMFoLiYTXV9nfYWFjc9AXKwPcvBds8H6SbX2MzPpump",
       "price": 1.5322536947542696e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T03:35:19+00:00",
+      "side": "sell",
+      "symbol": "Space",
+      "address": "5hEgxUMhTiZpyNAHTk4ToEfhpoz7NoGceZshNX8ppump",
+      "price": 3.120072884e-06,
+      "proceeds": 18.84,
+      "pnl_usd": -31.16,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T03:35:19+00:00",
+      "side": "sell",
+      "symbol": "SD",
+      "address": "2ScpXoQDqeLv7DX9oDbRYAxPsNMogcLFinDUJGy6pump",
+      "price": 3.094717164e-06,
+      "proceeds": 10.25,
+      "pnl_usd": -39.75,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T03:35:19+00:00",
+      "side": "sell",
+      "symbol": "Eikon",
+      "address": "CcMFoLiYTXV9nfYWFjc9AXKwPcvBds8H6SbX2MzPpump",
+      "price": 3.05136974e-06,
+      "proceeds": 9.43,
+      "pnl_usd": -40.57,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T03:35:19+00:00",
+      "side": "buy",
+      "symbol": "PUMPE",
+      "address": "x7xx633FN53kxPVskAr1XnJD8oJS9Yky5fZ9Ps4pump",
+      "price": 2.350100091617014e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6914,6 +6900,10 @@
     {
       "date": "2026-10-14T03:02:34+00:00",
       "equity": 5893919.38
+    },
+    {
+      "date": "2026-10-14T03:35:19+00:00",
+      "equity": 5893812.73
     }
   ]
 }
