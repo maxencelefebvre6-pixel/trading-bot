@@ -1,59 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5893227.574760838,
+  "cash": 5893154.16286041,
   "positions": {
-    "7QXUxDpA7YBzF5w8ZmFHsgXDP2R76nNq3oYLoCB7pump": {
-      "symbol": "TESLA SI",
-      "qty": 119370.68447687589,
-      "entry_price": 0.0004146746767594265,
-      "last_price": 0.0004022278884766653,
+    "AVvE5qVGf5zVQavQzJZpQeXsNrdUXCVjSstUL3SYpump": {
+      "symbol": "mogpadfun",
+      "qty": 3565075.447049839,
+      "entry_price": 1.3884699141770505e-05,
+      "last_price": 1.3381121491664576e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T12:02:31+00:00",
+      "entry_time": "2026-10-14T12:44:05+00:00",
       "missing": 0
     },
-    "GFSGuCne5jxbSgB41S9SAhnMpPNNojKpWbEC3Q2Epump": {
-      "symbol": "KELCARDS",
-      "qty": 524.2893797755422,
-      "entry_price": 0.09441350885496068,
-      "last_price": 0.09162844124512741,
+    "EXSsCwkaAYiaKTv9wMhYhmTxAT1mybvaqwL52rCRpump": {
+      "symbol": "萌兰",
+      "qty": 2538922.222393636,
+      "entry_price": 1.9496461751921083e-05,
+      "last_price": 1.879751326799893e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T12:02:31+00:00",
+      "entry_time": "2026-10-14T12:44:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T07:06:42+00:00",
-      "side": "buy",
-      "symbol": "UNTAXD",
-      "address": "DpfZMb7HDiadhKg1f7wp6aGCtVx7hUUaf9LydHnVpump",
-      "price": 9.092105434045627e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:06:42+00:00",
-      "side": "buy",
-      "symbol": "Robinhood",
-      "address": "YT6QrPxqhM1YcvY4s3zHGgKojX7xLLCBBvg2s3Zpump",
-      "price": 0.00024107202854763927,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:06:42+00:00",
-      "side": "buy",
-      "symbol": "$GOAT",
-      "address": "FUPMSH9ALDBBjTxoa9rG565DQtWHzNsvGkRBSq5dpump",
-      "price": 6.72619727427316e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:06:42+00:00",
-      "side": "buy",
-      "symbol": "trench",
-      "address": "4RvtNWmETb3ksffkRn3dpPFtaFRVBNQDvGs69hmppump",
-      "price": 7.586823792235273e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T07:34:52+00:00",
       "side": "sell",
@@ -4519,6 +4487,42 @@
       "address": "GFSGuCne5jxbSgB41S9SAhnMpPNNojKpWbEC3Q2Epump",
       "price": 0.09441350885496068,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T12:44:05+00:00",
+      "side": "sell",
+      "symbol": "TESLA SI",
+      "address": "7QXUxDpA7YBzF5w8ZmFHsgXDP2R76nNq3oYLoCB7pump",
+      "price": 1.905653222e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T12:44:05+00:00",
+      "side": "sell",
+      "symbol": "KELCARDS",
+      "address": "GFSGuCne5jxbSgB41S9SAhnMpPNNojKpWbEC3Q2Epump",
+      "price": 0.1016098636,
+      "proceeds": 26.37,
+      "pnl_usd": -23.63,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T12:44:05+00:00",
+      "side": "buy",
+      "symbol": "mogpadfun",
+      "address": "AVvE5qVGf5zVQavQzJZpQeXsNrdUXCVjSstUL3SYpump",
+      "price": 1.3884699141770505e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T12:44:05+00:00",
+      "side": "buy",
+      "symbol": "萌兰",
+      "address": "EXSsCwkaAYiaKTv9wMhYhmTxAT1mybvaqwL52rCRpump",
+      "price": 1.9496461751921083e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6965,6 +6969,10 @@
     {
       "date": "2026-10-14T12:02:31+00:00",
       "equity": 5893323.63
+    },
+    {
+      "date": "2026-10-14T12:44:05+00:00",
+      "equity": 5893249.59
     }
   ]
 }
