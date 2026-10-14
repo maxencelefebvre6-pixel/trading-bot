@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5893816.220174614,
+  "cash": 5893860.690653661,
   "positions": {
     "CSNtgZG7dMiTJgNYC7TyPR5W8rJqASFUQamP9ysSpump": {
       "symbol": "MONY",
@@ -11,74 +11,17 @@
       "entry_time": "2026-10-13T23:11:42+00:00",
       "missing": 0
     },
-    "GBENmxEDiAZSto5wFiznFhs8YKWN7N7ZFVSQEjbBpump": {
-      "symbol": "WIZARDDOG",
-      "qty": 1365698.6512711293,
-      "entry_price": 3.624518480261197e-05,
-      "last_price": 3.499647005549951e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T23:42:42+00:00",
-      "missing": 0
-    },
-    "CND9fj55LaF3MTEY5cdrREKwtDotwqZmPL7E9wiJpump": {
-      "symbol": "Gatacut",
-      "qty": 3143.925432505687,
-      "entry_price": 0.01574464823122374,
-      "last_price": 0.015279880831997826,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T23:42:42+00:00",
-      "missing": 0
-    },
-    "2nNf2yJXFGihaPCTTSdgnh7atUNMde2pwUvs6faxpump": {
-      "symbol": "CHUD",
-      "qty": 4060699.939108782,
-      "entry_price": 1.219001668241066e-05,
-      "last_price": 1.1721939163569706e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-13T23:42:42+00:00",
-      "missing": 0
-    },
     "FGqUFQfHsSQnU5X31tCyYJwYXR3G5qqjCBfuJBPdpump": {
       "symbol": "$SUS",
       "qty": 6003772.290450654,
       "entry_price": 8.244816359663174e-06,
-      "last_price": 7.964213949727369e-06,
+      "last_price": 7.96421395e-06,
       "cost": 50.0,
       "entry_time": "2026-10-13T23:42:42+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T22:10:45+00:00",
-      "side": "sell",
-      "symbol": "drool",
-      "address": "2EQF8QpuvHyFJdt6z4X8oY2kdSF3KVieA4TMvtSJpump",
-      "price": 4.186684843e-06,
-      "proceeds": 19.7,
-      "pnl_usd": -30.3,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T22:10:45+00:00",
-      "side": "sell",
-      "symbol": "Attention",
-      "address": "3oWMKX9zHEzfd7ppKTk7yENPucWSKMPRJChKrnmHpump",
-      "price": 3.060542517e-05,
-      "proceeds": 97.92,
-      "pnl_usd": 47.92,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-11T22:10:45+00:00",
-      "side": "sell",
-      "symbol": "GEM",
-      "address": "ASzPX1f5NqEErTzThLChtRHXbasj7v7mtNFJ3Qrjpump",
-      "price": 1.278047985e-07,
-      "proceeds": 0.51,
-      "pnl_usd": -49.49,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-11T22:10:45+00:00",
       "side": "buy",
@@ -4546,6 +4489,36 @@
       "address": "FGqUFQfHsSQnU5X31tCyYJwYXR3G5qqjCBfuJBPdpump",
       "price": 8.244816359663174e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T00:05:48+00:00",
+      "side": "sell",
+      "symbol": "WIZARDDOG",
+      "address": "GBENmxEDiAZSto5wFiznFhs8YKWN7N7ZFVSQEjbBpump",
+      "price": 2.540165872e-06,
+      "proceeds": 3.32,
+      "pnl_usd": -46.68,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T00:05:48+00:00",
+      "side": "sell",
+      "symbol": "Gatacut",
+      "address": "CND9fj55LaF3MTEY5cdrREKwtDotwqZmPL7E9wiJpump",
+      "price": 0.01899386127,
+      "proceeds": 29.56,
+      "pnl_usd": -20.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T00:05:48+00:00",
+      "side": "sell",
+      "symbol": "CHUD",
+      "address": "2nNf2yJXFGihaPCTTSdgnh7atUNMde2pwUvs6faxpump",
+      "price": 2.987785367e-06,
+      "proceeds": 11.59,
+      "pnl_usd": -38.41,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6908,6 +6881,10 @@
     {
       "date": "2026-10-13T23:42:42+00:00",
       "equity": 5894055.25
+    },
+    {
+      "date": "2026-10-14T00:05:48+00:00",
+      "equity": 5893956.29
     }
   ]
 }
