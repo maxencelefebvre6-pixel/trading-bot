@@ -1,52 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5892521.596501689,
+  "cash": 5892416.896834272,
   "positions": {
-    "B7bkFKjWcBCavJR8qeDayrsBmuxrYogA2cDKD1mPpump": {
-      "symbol": "Neymar",
-      "qty": 7148329.071592671,
-      "entry_price": 6.924695198590128e-06,
-      "last_price": 6.661458772e-06,
+    "9h1ncZQwPoXogRiFVnrJTDR77ch26Hqym8rHqxnGpump": {
+      "symbol": "CUT",
+      "qty": 593576.8669312047,
+      "entry_price": 8.339273775259344e-05,
+      "last_price": 8.085181560370629e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T19:37:27+00:00",
+      "entry_time": "2026-10-14T20:45:31+00:00",
+      "missing": 0
+    },
+    "AJ7TJ7RL697g1VEgMf2e4ACZxkCUPRygRVx2FEa1pump": {
+      "symbol": "FIX6900",
+      "qty": 8482012.930408861,
+      "entry_price": 5.835878865798184e-06,
+      "last_price": 5.620970373962848e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T20:45:31+00:00",
+      "missing": 0
+    },
+    "68ppcBtzGw1qF4u2MnEFYp2ZHnTRpbBUNToZPfvGpump": {
+      "symbol": "MONY",
+      "qty": 6462128.770937603,
+      "entry_price": 7.660014486653127e-06,
+      "last_price": 7.3964061061103006e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T20:45:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T10:29:44+00:00",
-      "side": "buy",
-      "symbol": "ConConAI",
-      "address": "uv4GRWUTjunyToMKPBueeRYTRbVJt78wYLeaZDxpump",
-      "price": 0.0005039460514078922,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T10:29:44+00:00",
-      "side": "buy",
-      "symbol": "Dawgs",
-      "address": "7JNfrz15NQNcfDsyr2WJgnL43sAvHLyydgr3efKdpump",
-      "price": 1.0333111720723722e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T10:29:44+00:00",
-      "side": "buy",
-      "symbol": "T",
-      "address": "FQfwuQE3THa66Ljebix6NSi9sPhrh77AJqP6Vrfppump",
-      "price": 1.0405632924058713e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T10:53:40+00:00",
-      "side": "sell",
-      "symbol": "BEwb",
-      "address": "2q5Tf6g6NbxrqTMge2iFsZ5cVRR88nes1XZfmVkjpump",
-      "price": 6.382461657e-06,
-      "proceeds": 45.26,
-      "pnl_usd": -4.74,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-12T10:53:40+00:00",
       "side": "sell",
@@ -4512,6 +4496,40 @@
       "proceeds": 0.07,
       "pnl_usd": -49.93,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T20:45:31+00:00",
+      "side": "sell",
+      "symbol": "Neymar",
+      "address": "B7bkFKjWcBCavJR8qeDayrsBmuxrYogA2cDKD1mPpump",
+      "price": 6.661458772e-06,
+      "proceeds": 45.3,
+      "pnl_usd": -4.7,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-14T20:45:31+00:00",
+      "side": "buy",
+      "symbol": "CUT",
+      "address": "9h1ncZQwPoXogRiFVnrJTDR77ch26Hqym8rHqxnGpump",
+      "price": 8.339273775259344e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T20:45:31+00:00",
+      "side": "buy",
+      "symbol": "FIX6900",
+      "address": "AJ7TJ7RL697g1VEgMf2e4ACZxkCUPRygRVx2FEa1pump",
+      "price": 5.835878865798184e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T20:45:31+00:00",
+      "side": "buy",
+      "symbol": "MONY",
+      "address": "68ppcBtzGw1qF4u2MnEFYp2ZHnTRpbBUNToZPfvGpump",
+      "price": 7.660014486653127e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7006,6 +7024,10 @@
     {
       "date": "2026-10-14T20:10:10+00:00",
       "equity": 5892569.21
+    },
+    {
+      "date": "2026-10-14T20:45:31+00:00",
+      "equity": 5892560.36
     }
   ]
 }
