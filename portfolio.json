@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5892416.896834272,
+  "cash": 5892437.869330629,
   "positions": {
-    "9h1ncZQwPoXogRiFVnrJTDR77ch26Hqym8rHqxnGpump": {
-      "symbol": "CUT",
-      "qty": 593576.8669312047,
-      "entry_price": 8.339273775259344e-05,
-      "last_price": 8.085181560370629e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T20:45:31+00:00",
-      "missing": 0
-    },
     "AJ7TJ7RL697g1VEgMf2e4ACZxkCUPRygRVx2FEa1pump": {
       "symbol": "FIX6900",
       "qty": 8482012.930408861,
       "entry_price": 5.835878865798184e-06,
-      "last_price": 5.620970373962848e-06,
+      "last_price": 5.412704332e-06,
       "cost": 50.0,
       "entry_time": "2026-10-14T20:45:31+00:00",
       "missing": 0
@@ -24,51 +15,40 @@
       "symbol": "MONY",
       "qty": 6462128.770937603,
       "entry_price": 7.660014486653127e-06,
-      "last_price": 7.3964061061103006e-06,
+      "last_price": 7.396406106e-06,
       "cost": 50.0,
       "entry_time": "2026-10-14T20:45:31+00:00",
+      "missing": 0
+    },
+    "AwAUntFCX7JEDwhUuD4qWb2hYffWMGJWqq9ZVzVhpump": {
+      "symbol": "BALLS",
+      "qty": 3487663.451525845,
+      "entry_price": 1.4192883197587158e-05,
+      "last_price": 1.3672465698035775e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T21:14:27+00:00",
+      "missing": 0
+    },
+    "14LPir1HgAzBv7Ykz9Fd6eiCPjMqWNYETwm2nEtbpump": {
+      "symbol": "BALLS",
+      "qty": 2918263.2737213033,
+      "entry_price": 1.6962143356201965e-05,
+      "last_price": 1.636404125284925e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T21:14:27+00:00",
+      "missing": 0
+    },
+    "CdDRD54RKywZmixZwA13wtnnNoMr65MSGyFG4LMepump": {
+      "symbol": "DOOROC",
+      "qty": 7013227.243392011,
+      "entry_price": 7.05809155786871e-06,
+      "last_price": 6.7908084848626185e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T21:14:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T10:53:40+00:00",
-      "side": "sell",
-      "symbol": "ConConAI",
-      "address": "uv4GRWUTjunyToMKPBueeRYTRbVJt78wYLeaZDxpump",
-      "price": 0.0008474906231,
-      "proceeds": 79.76,
-      "pnl_usd": 29.76,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-12T10:53:40+00:00",
-      "side": "sell",
-      "symbol": "Dawgs",
-      "address": "7JNfrz15NQNcfDsyr2WJgnL43sAvHLyydgr3efKdpump",
-      "price": 3.470014375e-06,
-      "proceeds": 15.86,
-      "pnl_usd": -34.14,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T11:14:46+00:00",
-      "side": "buy",
-      "symbol": "WOJDOG",
-      "address": "8H3wifc88mYz6bxrWUhLR7ACYWnCY4mkU1txKRQpump",
-      "price": 3.2845742438922214e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T11:40:54+00:00",
-      "side": "sell",
-      "symbol": "T",
-      "address": "FQfwuQE3THa66Ljebix6NSi9sPhrh77AJqP6Vrfppump",
-      "price": 1.003823967e-05,
-      "proceeds": 45.56,
-      "pnl_usd": -4.44,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-12T11:40:54+00:00",
       "side": "buy",
@@ -4530,6 +4510,40 @@
       "address": "68ppcBtzGw1qF4u2MnEFYp2ZHnTRpbBUNToZPfvGpump",
       "price": 7.660014486653127e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T21:14:27+00:00",
+      "side": "sell",
+      "symbol": "CUT",
+      "address": "9h1ncZQwPoXogRiFVnrJTDR77ch26Hqym8rHqxnGpump",
+      "price": 0.0005818942782,
+      "proceeds": 170.97,
+      "pnl_usd": 120.97,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T21:14:27+00:00",
+      "side": "buy",
+      "symbol": "BALLS",
+      "address": "AwAUntFCX7JEDwhUuD4qWb2hYffWMGJWqq9ZVzVhpump",
+      "price": 1.4192883197587158e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T21:14:27+00:00",
+      "side": "buy",
+      "symbol": "BALLS",
+      "address": "14LPir1HgAzBv7Ykz9Fd6eiCPjMqWNYETwm2nEtbpump",
+      "price": 1.6962143356201965e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T21:14:27+00:00",
+      "side": "buy",
+      "symbol": "DOOROC",
+      "address": "CdDRD54RKywZmixZwA13wtnnNoMr65MSGyFG4LMepump",
+      "price": 7.05809155786871e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7028,6 +7042,10 @@
     {
       "date": "2026-10-14T20:45:31+00:00",
       "equity": 5892560.36
+    },
+    {
+      "date": "2026-10-14T21:14:27+00:00",
+      "equity": 5892674.64
     }
   ]
 }
