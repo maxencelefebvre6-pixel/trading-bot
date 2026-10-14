@@ -1,111 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5892830.718331451,
+  "cash": 5892675.619840237,
   "positions": {
-    "Gd75AAGnXc2D7wG28b4Avb5yT2nm8ij8WjNFHsqWpump": {
-      "symbol": "MrBeast",
-      "qty": 126649.66867682099,
-      "entry_price": 0.00039084192258182615,
-      "last_price": 0.00037909453851305637,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T22:18:47+00:00",
-      "missing": 0
-    },
-    "71mYE6f1sno3LE2YrrUXrCmvJTLSL1AGWWujRAy6pump": {
-      "symbol": "RANAGOAT",
-      "qty": 754.3898039629232,
-      "entry_price": 0.06561594515192153,
-      "last_price": 0.06367562564258815,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T22:18:47+00:00",
-      "missing": 0
-    },
-    "Fq7uSznSJysTd3XkS2MWrc31v48ZVE9StYERvdDBpump": {
-      "symbol": "MISANTHROPIC",
-      "qty": 4033397.572977652,
-      "entry_price": 1.2272531805848406e-05,
-      "last_price": 1.1818889354673542e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T22:18:47+00:00",
-      "missing": 0
-    },
     "9y4mS7yz18sKzsznUg2iPi3zdTHdYRrBNw8G4y4Upump": {
       "symbol": "LOSERS",
       "qty": 8380561.046107973,
       "entry_price": 5.906525795547824e-06,
-      "last_price": 5.700511415616228e-06,
+      "last_price": 5.700511416e-06,
       "cost": 50.0,
       "entry_time": "2026-10-14T22:18:47+00:00",
+      "missing": 0
+    },
+    "Dta65Yjziwy2C7f324QUvo4LYjcVp411dubT1pGXpump": {
+      "symbol": "Catto",
+      "qty": 135318.002325993,
+      "entry_price": 0.00036580498639604607,
+      "last_price": 0.00035479901902479475,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T22:50:52+00:00",
+      "missing": 0
+    },
+    "JCswFpda5qDhKynTPpGRnD4FSmyT5VAijE7R57Fgpump": {
+      "symbol": "diamond",
+      "qty": 2048154.8893922693,
+      "entry_price": 2.4168094052050768e-05,
+      "last_price": 2.331370789709251e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T22:50:52+00:00",
+      "missing": 0
+    },
+    "7qmbcuQKu6j89tcGdy8PXs2fyC7exMBYrcg5a6Sipump": {
+      "symbol": "diamond",
+      "qty": 3796095.161697479,
+      "entry_price": 1.3039715257787521e-05,
+      "last_price": 1.25727399004143e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T22:50:52+00:00",
+      "missing": 0
+    },
+    "6wURZo2Vhuc5vVxsufsB68yKnExPdgkoj87bcfkRpump": {
+      "symbol": "DIAMOND",
+      "qty": 4986685.247495052,
+      "entry_price": 9.926433601331705e-06,
+      "last_price": 9.577548754598917e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T22:50:52+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T12:45:39+00:00",
-      "side": "buy",
-      "symbol": "FOMOCAT",
-      "address": "FDvtqyQvcbWwg8AFAzqcipyoJMY7QtWfrkKVv9Vjpump",
-      "price": 1.1870651223335343e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T13:22:57+00:00",
-      "side": "sell",
-      "symbol": "COWE",
-      "address": "HPBXqC7xDRi9STUMi6NpwtPgV7V5rhds9VMyLUydpump",
-      "price": 0.2087235931,
-      "proceeds": 57875.57,
-      "pnl_usd": 57825.57,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T13:22:57+00:00",
-      "side": "sell",
-      "symbol": "EXPMNT",
-      "address": "AvyRjQtiLPHQRgKYKfKVtufreQ9LWzXriPVrTAXrpump",
-      "price": 3.090398854e-06,
-      "proceeds": 17.15,
-      "pnl_usd": -32.85,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T13:22:57+00:00",
-      "side": "sell",
-      "symbol": "Snarket",
-      "address": "2Uonc76ndC5kXMCE7inP3FLqE4S866L9bNMSQzzbpump",
-      "price": 3.09327917e-06,
-      "proceeds": 16.64,
-      "pnl_usd": -33.36,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T13:22:57+00:00",
-      "side": "sell",
-      "symbol": "PF",
-      "address": "EuesDXRX4bkav2emZgBvmMxfxa1SXy6XQSLfcqobpump",
-      "price": 3.487612845e-06,
-      "proceeds": 10.21,
-      "pnl_usd": -39.79,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T13:22:57+00:00",
-      "side": "sell",
-      "symbol": "FOMOCAT",
-      "address": "FDvtqyQvcbWwg8AFAzqcipyoJMY7QtWfrkKVv9Vjpump",
-      "price": 1.492842917e-06,
-      "proceeds": 5.95,
-      "pnl_usd": -44.05,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T13:22:57+00:00",
-      "side": "buy",
-      "symbol": "FastSwap",
-      "address": "J3PBAx9MC27qrXgtCT19eL5bBuk9p1gGg23hPjgWpump",
-      "price": 3.2377820218712344e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T13:22:57+00:00",
       "side": "buy",
@@ -4539,6 +4482,68 @@
       "address": "9y4mS7yz18sKzsznUg2iPi3zdTHdYRrBNw8G4y4Upump",
       "price": 5.906525795547824e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T22:50:52+00:00",
+      "side": "sell",
+      "symbol": "MrBeast",
+      "address": "Gd75AAGnXc2D7wG28b4Avb5yT2nm8ij8WjNFHsqWpump",
+      "price": 1.924338318e-06,
+      "proceeds": 0.23,
+      "pnl_usd": -49.77,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T22:50:52+00:00",
+      "side": "sell",
+      "symbol": "RANAGOAT",
+      "address": "71mYE6f1sno3LE2YrrUXrCmvJTLSL1AGWWujRAy6pump",
+      "price": 0.08687381584,
+      "proceeds": 32.44,
+      "pnl_usd": -17.56,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T22:50:52+00:00",
+      "side": "sell",
+      "symbol": "MISANTHROPIC",
+      "address": "Fq7uSznSJysTd3XkS2MWrc31v48ZVE9StYERvdDBpump",
+      "price": 3.173953797e-06,
+      "proceeds": 12.23,
+      "pnl_usd": -37.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T22:50:52+00:00",
+      "side": "buy",
+      "symbol": "Catto",
+      "address": "Dta65Yjziwy2C7f324QUvo4LYjcVp411dubT1pGXpump",
+      "price": 0.00036580498639604607,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T22:50:52+00:00",
+      "side": "buy",
+      "symbol": "diamond",
+      "address": "JCswFpda5qDhKynTPpGRnD4FSmyT5VAijE7R57Fgpump",
+      "price": 2.4168094052050768e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T22:50:52+00:00",
+      "side": "buy",
+      "symbol": "diamond",
+      "address": "7qmbcuQKu6j89tcGdy8PXs2fyC7exMBYrcg5a6Sipump",
+      "price": 1.3039715257787521e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T22:50:52+00:00",
+      "side": "buy",
+      "symbol": "DIAMOND",
+      "address": "6wURZo2Vhuc5vVxsufsB68yKnExPdgkoj87bcfkRpump",
+      "price": 9.926433601331705e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7049,6 +7054,10 @@
     {
       "date": "2026-10-14T22:18:47+00:00",
       "equity": 5893022.21
+    },
+    {
+      "date": "2026-10-14T22:50:52+00:00",
+      "equity": 5892914.64
     }
   ]
 }
