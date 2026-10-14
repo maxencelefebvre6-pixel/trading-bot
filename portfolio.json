@@ -1,90 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5893602.155158386,
+  "cash": 5893589.811885667,
   "positions": {
-    "KpCut2pnF93Wy51MpGDXk3U9qRGgMK9fHL5EVT6pump": {
-      "symbol": "lptp",
-      "qty": 4667335.744348797,
-      "entry_price": 1.06056222888903e-05,
-      "last_price": 1.010464617e-05,
+    "2dh2j6xQMBwLty9CdftdCrsZewwB3opkhNSedDCcpump": {
+      "symbol": "Pink",
+      "qty": 572127.1684447712,
+      "entry_price": 8.651922637157259e-05,
+      "last_price": 8.388679765240846e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T04:47:37+00:00",
+      "entry_time": "2026-10-14T05:52:08+00:00",
       "missing": 0
     },
-    "78aBaeBixfAoVsAEdzP2zvWGPWpepQFVwN4FpsDFpump": {
-      "symbol": "PETS",
-      "qty": 567295.1120129382,
-      "entry_price": 8.725617223169561e-05,
-      "last_price": 8.4601877064778e-05,
+    "WFEKqepgF5x9stLd3ZNA1QC4wc8b56agKNjP2nrpump": {
+      "symbol": "POPA",
+      "qty": 3103841.218776099,
+      "entry_price": 1.594798074739105e-05,
+      "last_price": 1.5379560280020363e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T05:15:59+00:00",
+      "entry_time": "2026-10-14T05:52:08+00:00",
       "missing": 0
     },
-    "5fJ5xmREbC8QCkYnPyXiNsp1N242hwovC6jvXfKzpump": {
-      "symbol": "Puffs",
-      "qty": 1700277.4358653072,
-      "entry_price": 2.9112895905019407e-05,
-      "last_price": 2.810613025606641e-05,
+    "GtGHxVvigiSpjK7eZkZyQX4WAVg724jN9DSyHY4Xpump": {
+      "symbol": "RobinPump",
+      "qty": 3947047.366929969,
+      "entry_price": 1.2541020007697887e-05,
+      "last_price": 1.2113754424019708e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T05:15:59+00:00",
+      "entry_time": "2026-10-14T05:52:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T02:35:17+00:00",
-      "side": "buy",
-      "symbol": "TOPCAT",
-      "address": "4T13F2CZ82axaH5Tq2Rxj25HAzwqYsxtbMEnAdAypump",
-      "price": 8.983433727329747e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T02:35:17+00:00",
-      "side": "buy",
-      "symbol": "HERD",
-      "address": "HTNYSEyWZRkYKPMc585NipbCEMb3Crgx63eTVKgTpump",
-      "price": 8.974780202522304e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T02:35:17+00:00",
-      "side": "buy",
-      "symbol": "HALH",
-      "address": "5hrKETjqUSZwJeK4ru4caxYbwc3oLz6P2K5FzpNDpump",
-      "price": 1.9472071025144505e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T02:56:16+00:00",
-      "side": "sell",
-      "symbol": "TOPCAT",
-      "address": "4T13F2CZ82axaH5Tq2Rxj25HAzwqYsxtbMEnAdAypump",
-      "price": 5.091342257e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T02:56:16+00:00",
-      "side": "sell",
-      "symbol": "HERD",
-      "address": "HTNYSEyWZRkYKPMc585NipbCEMb3Crgx63eTVKgTpump",
-      "price": 5.092206955e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T02:56:16+00:00",
-      "side": "sell",
-      "symbol": "HALH",
-      "address": "5hrKETjqUSZwJeK4ru4caxYbwc3oLz6P2K5FzpNDpump",
-      "price": 2.839195077e-07,
-      "proceeds": 0.69,
-      "pnl_usd": -49.31,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-12T02:56:16+00:00",
       "side": "buy",
@@ -4528,6 +4474,60 @@
       "address": "5fJ5xmREbC8QCkYnPyXiNsp1N242hwovC6jvXfKzpump",
       "price": 2.9112895905019407e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T05:52:08+00:00",
+      "side": "sell",
+      "symbol": "lptp",
+      "address": "KpCut2pnF93Wy51MpGDXk3U9qRGgMK9fHL5EVT6pump",
+      "price": 1.010464617e-05,
+      "proceeds": 44.97,
+      "pnl_usd": -5.03,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-14T05:52:08+00:00",
+      "side": "sell",
+      "symbol": "PETS",
+      "address": "78aBaeBixfAoVsAEdzP2zvWGPWpepQFVwN4FpsDFpump",
+      "price": 0.0001044378174,
+      "proceeds": 29.33,
+      "pnl_usd": -20.67,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T05:52:08+00:00",
+      "side": "sell",
+      "symbol": "Puffs",
+      "address": "5fJ5xmREbC8QCkYnPyXiNsp1N242hwovC6jvXfKzpump",
+      "price": 3.949891864e-05,
+      "proceeds": 63.36,
+      "pnl_usd": 13.36,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-14T05:52:08+00:00",
+      "side": "buy",
+      "symbol": "Pink",
+      "address": "2dh2j6xQMBwLty9CdftdCrsZewwB3opkhNSedDCcpump",
+      "price": 8.651922637157259e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T05:52:08+00:00",
+      "side": "buy",
+      "symbol": "POPA",
+      "address": "WFEKqepgF5x9stLd3ZNA1QC4wc8b56agKNjP2nrpump",
+      "price": 1.594798074739105e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T05:52:08+00:00",
+      "side": "buy",
+      "symbol": "RobinPump",
+      "address": "GtGHxVvigiSpjK7eZkZyQX4WAVg724jN9DSyHY4Xpump",
+      "price": 1.2541020007697887e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6930,6 +6930,10 @@
     {
       "date": "2026-10-14T05:15:59+00:00",
       "equity": 5893745.1
+    },
+    {
+      "date": "2026-10-14T05:52:08+00:00",
+      "equity": 5893733.36
     }
   ]
 }
