@@ -1,63 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5892661.119172485,
+  "cash": 5892561.636255076,
   "positions": {
     "BAZQaTM9ZQhnChE2t4ZjgqAr5HbnSNDev9kVCMzTpump": {
       "symbol": "WOTF",
       "qty": 1893.2921168867472,
       "entry_price": 0.026144935352815916,
-      "last_price": 0.025380571511082785,
+      "last_price": 0.02570819216,
       "cost": 50.0,
       "entry_time": "2026-10-14T17:08:05+00:00",
       "missing": 0
     },
-    "N5CQcosKmdJEVmzcqCXs87qmaB9iEnGq6UjrUX3pump": {
-      "symbol": "BAKI",
-      "qty": 33449604.592987094,
-      "entry_price": 1.479838120728577e-06,
-      "last_price": 1.4250165049457062e-06,
+    "qyPCYh2RK841EQn4ozfGFwn8kEYfCRUtaStzwr5pump": {
+      "symbol": "PUILD",
+      "qty": 3969207.4887116216,
+      "entry_price": 1.2471003378074189e-05,
+      "last_price": 1.2020209725229459e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T17:08:05+00:00",
+      "entry_time": "2026-10-14T17:42:56+00:00",
+      "missing": 0
+    },
+    "HBMzxEZFoaFEfvhZYSEs3YKgkiDABjnvvmYkgq2opump": {
+      "symbol": "Skullcap",
+      "qty": 4731226.276772351,
+      "entry_price": 1.0462403847183771e-05,
+      "last_price": 1.007248635972822e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T17:42:56+00:00",
+      "missing": 0
+    },
+    "HNSNZvhajpGZp9CFyibKVH9LbWE5Kv9V5AQZSpifpump": {
+      "symbol": "att",
+      "qty": 14148897.153500536,
+      "entry_price": 3.4985058879838808e-06,
+      "last_price": 3.373696942410783e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T17:42:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T08:53:45+00:00",
-      "side": "buy",
-      "symbol": "34%",
-      "address": "Cj1dwCKPyfBnKmUsb3FyGgJvKDvKCVu1piSEeAJLpump",
-      "price": 1.4978769785342486e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T09:15:46+00:00",
-      "side": "sell",
-      "symbol": "DOPEBAT",
-      "address": "5hdHC2svpp76P3rwFNUkgk1Ch4f3dy8REZrSZAEtpump",
-      "price": 9.561020149e-05,
-      "proceeds": 49.8,
-      "pnl_usd": -0.2,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T09:15:46+00:00",
-      "side": "sell",
-      "symbol": "CYBERALON",
-      "address": "3MJjuxQUZ7KH8Ju4GtkDReCdU4gquqEkQxb6vXqqpump",
-      "price": 2.46832402e-06,
-      "proceeds": 1.69,
-      "pnl_usd": -48.31,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T09:15:46+00:00",
-      "side": "buy",
-      "symbol": "NOLA",
-      "address": "4MFCdTKyo92i76CtbnHEriYnzdpxkGaETwFzE6XCpump",
-      "price": 9.038089421522903e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T09:15:46+00:00",
       "side": "buy",
@@ -4523,6 +4505,40 @@
       "address": "N5CQcosKmdJEVmzcqCXs87qmaB9iEnGq6UjrUX3pump",
       "price": 1.479838120728577e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T17:42:56+00:00",
+      "side": "sell",
+      "symbol": "BAKI",
+      "address": "N5CQcosKmdJEVmzcqCXs87qmaB9iEnGq6UjrUX3pump",
+      "price": 1.644798176e-06,
+      "proceeds": 50.52,
+      "pnl_usd": 0.52,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-14T17:42:56+00:00",
+      "side": "buy",
+      "symbol": "PUILD",
+      "address": "qyPCYh2RK841EQn4ozfGFwn8kEYfCRUtaStzwr5pump",
+      "price": 1.2471003378074189e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T17:42:56+00:00",
+      "side": "buy",
+      "symbol": "Skullcap",
+      "address": "HBMzxEZFoaFEfvhZYSEs3YKgkiDABjnvvmYkgq2opump",
+      "price": 1.0462403847183771e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T17:42:56+00:00",
+      "side": "buy",
+      "symbol": "att",
+      "address": "HNSNZvhajpGZp9CFyibKVH9LbWE5Kv9V5AQZSpifpump",
+      "price": 3.4985058879838808e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6997,6 +7013,10 @@
     {
       "date": "2026-10-14T17:08:05+00:00",
       "equity": 5892756.84
+    },
+    {
+      "date": "2026-10-14T17:42:56+00:00",
+      "equity": 5892753.41
     }
   ]
 }
