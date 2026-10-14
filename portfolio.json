@@ -1,54 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5893319.852659179,
+  "cash": 5893327.949600142,
   "positions": {
-    "7Tztq2CMpkPPJdPXxSTP6BVBoVabYefCrZQdHm3kpump": {
-      "symbol": "MONEYMONKE",
-      "qty": 573642.5937910982,
-      "entry_price": 8.62906634475373e-05,
-      "last_price": 8.366488783163304e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T10:16:19+00:00",
-      "missing": 0
-    },
-    "AJyj2kMEjGRNxU1XbPcsDbydmszsy1BJHjj5Hg9mpump": {
-      "symbol": "AC-225",
-      "qty": 2834740.0822081654,
-      "entry_price": 1.746191839974309e-05,
-      "last_price": 1.6841031949468794e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T10:16:19+00:00",
-      "missing": 0
-    },
     "4zSYAQxHsEZd8sLBt3iBhHVX3WvC8eKuAk3brvT5pump": {
       "symbol": "Fox",
       "qty": 6018196.257923859,
       "entry_price": 8.225055793889376e-06,
-      "last_price": 7.922966981474768e-06,
+      "last_price": 7.922966981e-06,
       "cost": 50.0,
       "entry_time": "2026-10-14T10:16:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T06:01:36+00:00",
-      "side": "buy",
-      "symbol": "Solamians",
-      "address": "CLHEgajQ239vmauAkUgH9T1247rsdXceLSx8t6rjpump",
-      "price": 9.052278589755016e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T06:34:24+00:00",
-      "side": "sell",
-      "symbol": "Solamians",
-      "address": "CLHEgajQ239vmauAkUgH9T1247rsdXceLSx8t6rjpump",
-      "price": 0.00140263097,
-      "proceeds": 379.66,
-      "pnl_usd": 329.66,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-12T06:34:25+00:00",
       "side": "buy",
@@ -4528,6 +4492,26 @@
       "address": "4zSYAQxHsEZd8sLBt3iBhHVX3WvC8eKuAk3brvT5pump",
       "price": 8.225055793889376e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T10:55:08+00:00",
+      "side": "sell",
+      "symbol": "MONEYMONKE",
+      "address": "7Tztq2CMpkPPJdPXxSTP6BVBoVabYefCrZQdHm3kpump",
+      "price": 4.834673763e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T10:55:08+00:00",
+      "side": "sell",
+      "symbol": "AC-225",
+      "address": "AJyj2kMEjGRNxU1XbPcsDbydmszsy1BJHjj5Hg9mpump",
+      "price": 2.985414862e-06,
+      "proceeds": 8.1,
+      "pnl_usd": -41.9,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -6962,6 +6946,10 @@
     {
       "date": "2026-10-14T10:16:19+00:00",
       "equity": 5893463.27
+    },
+    {
+      "date": "2026-10-14T10:55:08+00:00",
+      "equity": 5893375.63
     }
   ]
 }
