@@ -1,56 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5892666.036296699,
+  "cash": 5892720.418073325,
   "positions": {
-    "9y4mS7yz18sKzsznUg2iPi3zdTHdYRrBNw8G4y4Upump": {
-      "symbol": "LOSERS",
-      "qty": 8380561.046107973,
-      "entry_price": 5.906525795547824e-06,
-      "last_price": 5.700511416e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T22:18:47+00:00",
-      "missing": 0
-    },
-    "8UnNdoVk4w76CC3KnJMECGXq41iPpe7UM9vJovL2pump": {
-      "symbol": "DOBU",
-      "qty": 3221004.6733486354,
-      "entry_price": 1.5367875871020884e-05,
-      "last_price": 1.48137812173854e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T23:16:31+00:00",
-      "missing": 0
-    },
     "GncJHHWLLMfWNen2mH2uCFB5bfeojQ76EMkPNotTpump": {
       "symbol": "@",
       "qty": 4594560.195232704,
       "entry_price": 1.0773610072920796e-05,
-      "last_price": 1.0379156515693952e-05,
+      "last_price": 1.037915652e-05,
       "cost": 50.0,
       "entry_time": "2026-10-14T23:16:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T14:26:37+00:00",
-      "side": "sell",
-      "symbol": "SINU",
-      "address": "69yVZVUpU6c2Nk9Va15vRuz9YZ4YGtPnuj3NZVbWpump",
-      "price": 2.072783383e-06,
-      "proceeds": 1.71,
-      "pnl_usd": -48.29,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T14:26:37+00:00",
-      "side": "sell",
-      "symbol": "ABU",
-      "address": "DX7bDufovo6NYiB6SoRSvijWco4a97Mq2CcwFycwpump",
-      "price": 1.162353879e-06,
-      "proceeds": 19.3,
-      "pnl_usd": -30.7,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-12T14:26:37+00:00",
       "side": "buy",
@@ -4530,6 +4492,26 @@
       "address": "GncJHHWLLMfWNen2mH2uCFB5bfeojQ76EMkPNotTpump",
       "price": 1.0773610072920796e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T23:44:17+00:00",
+      "side": "sell",
+      "symbol": "LOSERS",
+      "address": "9y4mS7yz18sKzsznUg2iPi3zdTHdYRrBNw8G4y4Upump",
+      "price": 5.700511416e-06,
+      "proceeds": 45.37,
+      "pnl_usd": -4.63,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-14T23:44:17+00:00",
+      "side": "sell",
+      "symbol": "DOBU",
+      "address": "8UnNdoVk4w76CC3KnJMECGXq41iPpe7UM9vJovL2pump",
+      "price": 2.92411283e-06,
+      "proceeds": 9.01,
+      "pnl_usd": -40.99,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -7048,6 +7030,10 @@
     {
       "date": "2026-10-14T23:16:31+00:00",
       "equity": 5892809.21
+    },
+    {
+      "date": "2026-10-14T23:44:18+00:00",
+      "equity": 5892768.11
     }
   ]
 }
