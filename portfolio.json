@@ -1,78 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5893664.951157173,
+  "cash": 5893668.979785538,
   "positions": {
-    "x7xx633FN53kxPVskAr1XnJD8oJS9Yky5fZ9Ps4pump": {
-      "symbol": "PUMPE",
-      "qty": 2106293.267106804,
-      "entry_price": 2.350100091617014e-05,
-      "last_price": 2.394980175e-05,
+    "22UqpxbE7PKPYDLLvCejEMgsu17KWBBpFz9bDbLbpump": {
+      "symbol": "ENTANGLE",
+      "qty": 1384906.4412783368,
+      "entry_price": 3.574248665802223e-05,
+      "last_price": 3.458837030971795e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T03:35:19+00:00",
+      "entry_time": "2026-10-14T04:47:37+00:00",
       "missing": 0
     },
-    "6aZh9MqNgTh5YckbpmSxyjJgGEeNxuwb62T8QPLopump": {
-      "symbol": "RUSO",
-      "qty": 1044464.2452145476,
-      "entry_price": 4.739271854139153e-05,
-      "last_price": 4.5880702926062824e-05,
+    "KpCut2pnF93Wy51MpGDXk3U9qRGgMK9fHL5EVT6pump": {
+      "symbol": "lptp",
+      "qty": 4667335.744348797,
+      "entry_price": 1.06056222888903e-05,
+      "last_price": 1.0226017229028788e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T04:09:55+00:00",
-      "missing": 0
-    },
-    "CNMVS8E419EaRDQkj36weSirhDXjRSVfaZJZCJMppump": {
-      "symbol": "OR",
-      "qty": 6112978.440524656,
-      "entry_price": 8.097525695796758e-06,
-      "last_price": 7.78695931392509e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T04:09:55+00:00",
+      "entry_time": "2026-10-14T04:47:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T01:52:02+00:00",
-      "side": "buy",
-      "symbol": "SLOP",
-      "address": "9C4dq2W5YKxLaqiWpcXj73YWvjDA8dv9qbX9c5gHpump",
-      "price": 4.521386625782845e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T02:10:43+00:00",
-      "side": "sell",
-      "symbol": "SLOP",
-      "address": "9C4dq2W5YKxLaqiWpcXj73YWvjDA8dv9qbX9c5gHpump",
-      "price": 6.202814707e-05,
-      "proceeds": 33.61,
-      "pnl_usd": -16.39,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T02:10:43+00:00",
-      "side": "buy",
-      "symbol": "mexicans",
-      "address": "6baLXx5Pq9PRdXAY81utM8HNg35Y9TzE48htesNnpump",
-      "price": 9.508528061998496e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T02:10:43+00:00",
-      "side": "buy",
-      "symbol": "HERD",
-      "address": "2sWjHmJsjsw52AGBj7MUQV6BQhgsBkD3Cgn96W3ipump",
-      "price": 3.9127253507896885e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T02:10:43+00:00",
-      "side": "buy",
-      "symbol": "Blackpill",
-      "address": "3EEdgrseY6WRSftUfPKdDUmqLGGGN4QLsMHh6MkPpump",
-      "price": 7.667886678061831e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T02:35:16+00:00",
       "side": "sell",
@@ -4528,6 +4477,52 @@
       "address": "CNMVS8E419EaRDQkj36weSirhDXjRSVfaZJZCJMppump",
       "price": 8.097525695796758e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T04:47:37+00:00",
+      "side": "sell",
+      "symbol": "PUMPE",
+      "address": "x7xx633FN53kxPVskAr1XnJD8oJS9Yky5fZ9Ps4pump",
+      "price": 2.653312678e-05,
+      "proceeds": 52.24,
+      "pnl_usd": 2.24,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-14T04:47:37+00:00",
+      "side": "sell",
+      "symbol": "RUSO",
+      "address": "6aZh9MqNgTh5YckbpmSxyjJgGEeNxuwb62T8QPLopump",
+      "price": 1.15017713e-05,
+      "proceeds": 11.51,
+      "pnl_usd": -38.49,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T04:47:37+00:00",
+      "side": "sell",
+      "symbol": "OR",
+      "address": "CNMVS8E419EaRDQkj36weSirhDXjRSVfaZJZCJMppump",
+      "price": 6.965474831e-06,
+      "proceeds": 40.29,
+      "pnl_usd": -9.71,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T04:47:37+00:00",
+      "side": "buy",
+      "symbol": "ENTANGLE",
+      "address": "22UqpxbE7PKPYDLLvCejEMgsu17KWBBpFz9bDbLbpump",
+      "price": 3.574248665802223e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T04:47:37+00:00",
+      "side": "buy",
+      "symbol": "lptp",
+      "address": "KpCut2pnF93Wy51MpGDXk3U9qRGgMK9fHL5EVT6pump",
+      "price": 1.06056222888903e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6922,6 +6917,10 @@
     {
       "date": "2026-10-14T04:09:55+00:00",
       "equity": 5893810.92
+    },
+    {
+      "date": "2026-10-14T04:47:37+00:00",
+      "equity": 5893764.61
     }
   ]
 }
