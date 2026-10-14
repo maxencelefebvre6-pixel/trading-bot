@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5893516.053146414,
+  "cash": 5893558.120003408,
   "positions": {
-    "oQasaLGsMzM5k3nibFAqf5SNRLiMKCYvfZHT6FCpump": {
-      "symbol": "fomoney",
-      "qty": 120677.02927353054,
-      "entry_price": 0.0004101857685591652,
-      "last_price": 0.0003978724018064016,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T07:55:24+00:00",
-      "missing": 0
-    },
     "26soxjxusnB1VAyCF5ZGktpFE2cKwojZULZ4Ky1jpump": {
       "symbol": "VEILSPIGNIGGA",
       "qty": 10862524.589238474,
       "entry_price": 4.556951709829937e-06,
-      "last_price": 4.38202784144243e-06,
+      "last_price": 4.382027841e-06,
       "cost": 50.0,
       "entry_time": "2026-10-14T07:55:24+00:00",
+      "missing": 0
+    },
+    "PDqj58oPBn1R5CEERiW3rKXSeWKHsnXz7KECQnQpump": {
+      "symbol": "USDF",
+      "qty": 20988.545728168556,
+      "entry_price": 0.002358429242363679,
+      "last_price": 0.002288879812749106,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T08:30:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T04:05:25+00:00",
-      "side": "buy",
-      "symbol": "calling",
-      "address": "CLRRv56HZtxa2Z5jaDYpxmHJTeQmNs7SBhospGiZpump",
-      "price": 9.68724730729474e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T04:05:25+00:00",
-      "side": "buy",
-      "symbol": "GI",
-      "address": "HyAFqotQ89hQymtX3T1SYUp2C9yo7Vbf6WUfvbpBpump",
-      "price": 1.9380767707488686e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T04:30:38+00:00",
       "side": "sell",
@@ -4519,6 +4503,24 @@
       "address": "26soxjxusnB1VAyCF5ZGktpFE2cKwojZULZ4Ky1jpump",
       "price": 4.556951709829937e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T08:30:49+00:00",
+      "side": "sell",
+      "symbol": "fomoney",
+      "address": "oQasaLGsMzM5k3nibFAqf5SNRLiMKCYvfZHT6FCpump",
+      "price": 0.000796496161,
+      "proceeds": 92.07,
+      "pnl_usd": 42.07,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-14T08:30:49+00:00",
+      "side": "buy",
+      "symbol": "USDF",
+      "address": "PDqj58oPBn1R5CEERiW3rKXSeWKHsnXz7KECQnQpump",
+      "price": 0.002358429242363679,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6937,6 +6939,10 @@
     {
       "date": "2026-10-14T07:55:24+00:00",
       "equity": 5893611.67
+    },
+    {
+      "date": "2026-10-14T08:30:49+00:00",
+      "equity": 5893653.76
     }
   ]
 }
