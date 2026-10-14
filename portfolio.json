@@ -1,106 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5892919.312424103,
+  "cash": 5892927.41952781,
   "positions": {
-    "E5WFhWdH9HfimKsRnKQSPxZ1QP3MKS4BrZFGFpm7pump": {
-      "symbol": "Musclecat",
-      "qty": 583290.5185057851,
-      "entry_price": 8.486337156106037e-05,
-      "last_price": 8.227866588103895e-05,
+    "CVv3QiezkAfwVgE3dU6DrP3Hs1zrd15d8x1bdYhCpump": {
+      "symbol": "MINDPAD",
+      "qty": 4320415.988009846,
+      "entry_price": 1.1457230076310697e-05,
+      "last_price": 1.1028233208646057e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T13:22:13+00:00",
-      "missing": 0
-    },
-    "GBMY1kzS6KcJu1BQq1BvryfuB4qA4nxfpg429pV6pump": {
-      "symbol": "Jackie",
-      "qty": 2124343.9627383747,
-      "entry_price": 2.3301311307511744e-05,
-      "last_price": 2.249161416853541e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T13:22:13+00:00",
-      "missing": 0
-    },
-    "pn9PfXAmvLpq4ph2mqURwPZd5PBK6tmMKVR4npipump": {
-      "symbol": "Orviapp",
-      "qty": 2472005.266235673,
-      "entry_price": 2.0024229185958714e-05,
-      "last_price": 1.9275304259055143e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T13:22:13+00:00",
-      "missing": 0
-    },
-    "6gvUDGzxvH7ECv2TBNBJga7SpQ4p2c7eEViqxsjepump": {
-      "symbol": "$AURA",
-      "qty": 6986724.540732744,
-      "entry_price": 7.08486497663018e-06,
-      "last_price": 6.8258837762693994e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T13:22:13+00:00",
-      "missing": 0
-    },
-    "VcUuapXnPXNVbyFuW7Egy52LCFqSsvyMMnAbYEspump": {
-      "symbol": "Sevda",
-      "qty": 15992230.133849146,
-      "entry_price": 3.095253106396232e-06,
-      "last_price": 2.9887038579412694e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T13:22:13+00:00",
+      "entry_time": "2026-10-14T14:01:14+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T07:59:33+00:00",
-      "side": "buy",
-      "symbol": "DOPECRAFT",
-      "address": "4zh2SmTWqDGwvN7iHc9Z3d7eJ4S2ZupoyiqJseoYpump",
-      "price": 4.582028807570733e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:59:33+00:00",
-      "side": "buy",
-      "symbol": "maxpain",
-      "address": "EVD9rS4kGfSnwEzsQWxBnQAgM8ha3iCfbbe6GFNMpump",
-      "price": 4.302638718231679e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:59:33+00:00",
-      "side": "buy",
-      "symbol": "DOGE",
-      "address": "Hgf4uzYz7YbRLfRud3CryJ3B6t6c1bfJHWRTKZcCpump",
-      "price": 1.5893800763865862e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:59:33+00:00",
-      "side": "buy",
-      "symbol": "DICE",
-      "address": "CMJKEi7L2dpus7XqMZVLuBkzdEg6A25XgXNqiyK6pump",
-      "price": 1.3875357908878023e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T08:27:10+00:00",
-      "side": "sell",
-      "symbol": "$GOAT",
-      "address": "FUPMSH9ALDBBjTxoa9rG565DQtWHzNsvGkRBSq5dpump",
-      "price": 6.47082505e-06,
-      "proceeds": 45.28,
-      "pnl_usd": -4.72,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T08:27:10+00:00",
-      "side": "sell",
-      "symbol": "trench",
-      "address": "4RvtNWmETb3ksffkRn3dpPFtaFRVBNQDvGs69hmppump",
-      "price": 7.304317284e-06,
-      "proceeds": 45.37,
-      "pnl_usd": -4.63,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-12T08:27:10+00:00",
       "side": "sell",
@@ -4548,6 +4460,64 @@
       "address": "VcUuapXnPXNVbyFuW7Egy52LCFqSsvyMMnAbYEspump",
       "price": 3.095253106396232e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T14:01:14+00:00",
+      "side": "sell",
+      "symbol": "Musclecat",
+      "address": "E5WFhWdH9HfimKsRnKQSPxZ1QP3MKS4BrZFGFpm7pump",
+      "price": 0.0001029168581,
+      "proceeds": 29.72,
+      "pnl_usd": -20.28,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T14:01:14+00:00",
+      "side": "sell",
+      "symbol": "Jackie",
+      "address": "GBMY1kzS6KcJu1BQq1BvryfuB4qA4nxfpg429pV6pump",
+      "price": 2.953380221e-06,
+      "proceeds": 6.01,
+      "pnl_usd": -43.99,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T14:01:14+00:00",
+      "side": "sell",
+      "symbol": "Orviapp",
+      "address": "pn9PfXAmvLpq4ph2mqURwPZd5PBK6tmMKVR4npipump",
+      "price": 2.97665707e-06,
+      "proceeds": 7.04,
+      "pnl_usd": -42.96,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T14:01:14+00:00",
+      "side": "sell",
+      "symbol": "$AURA",
+      "address": "6gvUDGzxvH7ECv2TBNBJga7SpQ4p2c7eEViqxsjepump",
+      "price": 1.70162362e-07,
+      "proceeds": 1.13,
+      "pnl_usd": -48.87,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T14:01:14+00:00",
+      "side": "sell",
+      "symbol": "Sevda",
+      "address": "VcUuapXnPXNVbyFuW7Egy52LCFqSsvyMMnAbYEspump",
+      "price": 9.474318916e-07,
+      "proceeds": 14.21,
+      "pnl_usd": -35.79,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T14:01:14+00:00",
+      "side": "buy",
+      "symbol": "MINDPAD",
+      "address": "CVv3QiezkAfwVgE3dU6DrP3Hs1zrd15d8x1bdYhCpump",
+      "price": 1.1457230076310697e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7002,6 +6972,10 @@
     {
       "date": "2026-10-14T13:22:13+00:00",
       "equity": 5893158.22
+    },
+    {
+      "date": "2026-10-14T14:01:14+00:00",
+      "equity": 5892975.07
     }
   ]
 }
