@@ -1,56 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5893901.861365558,
+  "cash": 5893910.152748926,
   "positions": {
-    "AtfZPuHiPVT2uTX2puPqu6sk5NKqukHK72YjDL3Kpump": {
-      "symbol": "ARCADES",
-      "qty": 573913.076863194,
-      "entry_price": 8.624999498277596e-05,
-      "last_price": 8.362590567041121e-05,
+    "34CZAnUMEnEEeiXfjKZZ6DBL5RX66xE3QvYRYJwcpump": {
+      "symbol": "MIMI",
+      "qty": 15661004.391738294,
+      "entry_price": 3.160716820059952e-06,
+      "last_price": 3.0406274877803838e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-14T00:50:10+00:00",
+      "entry_time": "2026-10-14T01:24:34+00:00",
+      "missing": 0
+    },
+    "ExtEbpHveWyRaQ35hdSSPssR4UohY3ZL2ZgHxT2Gpump": {
+      "symbol": "UNICORN",
+      "qty": 3215976.7420328506,
+      "entry_price": 1.5391902358320713e-05,
+      "last_price": 1.4842172866220148e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T01:24:34+00:00",
+      "missing": 0
+    },
+    "HnpoUC92RMLbsc2m5W7eL8joocFfAt5kv2fnGgoCpump": {
+      "symbol": "FAITH",
+      "qty": 3472876.5212884666,
+      "entry_price": 1.425331413212327e-05,
+      "last_price": 1.3774117954778315e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T01:24:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T22:31:40+00:00",
-      "side": "sell",
-      "symbol": "AGENT47",
-      "address": "373b6Nk7cdzPPtrskSrhZAxEeAHUcwBiD8rqrWAHpump",
-      "price": 2.571815044e-06,
-      "proceeds": 1.99,
-      "pnl_usd": -48.01,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T22:31:40+00:00",
-      "side": "sell",
-      "symbol": "bazucat",
-      "address": "9nkjGKF8V6dRUei1F4TCCfBRZMrArTi3wCaNdzRhpump",
-      "price": 3.253202383e-06,
-      "proceeds": 13.68,
-      "pnl_usd": -36.32,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-11T22:31:40+00:00",
-      "side": "buy",
-      "symbol": "Centre",
-      "address": "7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump",
-      "price": 8.581235949562497e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T22:50:29+00:00",
-      "side": "sell",
-      "symbol": "Centre",
-      "address": "7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump",
-      "price": 3.681307289e-06,
-      "proceeds": 20.22,
-      "pnl_usd": -29.78,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-11T22:50:29+00:00",
       "side": "buy",
@@ -4514,6 +4494,40 @@
       "address": "AtfZPuHiPVT2uTX2puPqu6sk5NKqukHK72YjDL3Kpump",
       "price": 8.624999498277596e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T01:24:33+00:00",
+      "side": "sell",
+      "symbol": "ARCADES",
+      "address": "AtfZPuHiPVT2uTX2puPqu6sk5NKqukHK72YjDL3Kpump",
+      "price": 0.0005571933893,
+      "proceeds": 158.29,
+      "pnl_usd": 108.29,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T01:24:34+00:00",
+      "side": "buy",
+      "symbol": "MIMI",
+      "address": "34CZAnUMEnEEeiXfjKZZ6DBL5RX66xE3QvYRYJwcpump",
+      "price": 3.160716820059952e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T01:24:34+00:00",
+      "side": "buy",
+      "symbol": "UNICORN",
+      "address": "ExtEbpHveWyRaQ35hdSSPssR4UohY3ZL2ZgHxT2Gpump",
+      "price": 1.5391902358320713e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T01:24:34+00:00",
+      "side": "buy",
+      "symbol": "FAITH",
+      "address": "HnpoUC92RMLbsc2m5W7eL8joocFfAt5kv2fnGgoCpump",
+      "price": 1.425331413212327e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6884,6 +6898,10 @@
     {
       "date": "2026-10-14T00:50:10+00:00",
       "equity": 5893949.86
+    },
+    {
+      "date": "2026-10-14T01:24:34+00:00",
+      "equity": 5894053.34
     }
   ]
 }
