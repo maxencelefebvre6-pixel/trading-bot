@@ -1,89 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5893154.16286041,
+  "cash": 5892919.312424103,
   "positions": {
-    "AVvE5qVGf5zVQavQzJZpQeXsNrdUXCVjSstUL3SYpump": {
-      "symbol": "mogpadfun",
-      "qty": 3565075.447049839,
-      "entry_price": 1.3884699141770505e-05,
-      "last_price": 1.3381121491664576e-05,
+    "E5WFhWdH9HfimKsRnKQSPxZ1QP3MKS4BrZFGFpm7pump": {
+      "symbol": "Musclecat",
+      "qty": 583290.5185057851,
+      "entry_price": 8.486337156106037e-05,
+      "last_price": 8.227866588103895e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T12:44:05+00:00",
+      "entry_time": "2026-10-14T13:22:13+00:00",
       "missing": 0
     },
-    "EXSsCwkaAYiaKTv9wMhYhmTxAT1mybvaqwL52rCRpump": {
-      "symbol": "萌兰",
-      "qty": 2538922.222393636,
-      "entry_price": 1.9496461751921083e-05,
-      "last_price": 1.879751326799893e-05,
+    "GBMY1kzS6KcJu1BQq1BvryfuB4qA4nxfpg429pV6pump": {
+      "symbol": "Jackie",
+      "qty": 2124343.9627383747,
+      "entry_price": 2.3301311307511744e-05,
+      "last_price": 2.249161416853541e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-14T12:44:05+00:00",
+      "entry_time": "2026-10-14T13:22:13+00:00",
+      "missing": 0
+    },
+    "pn9PfXAmvLpq4ph2mqURwPZd5PBK6tmMKVR4npipump": {
+      "symbol": "Orviapp",
+      "qty": 2472005.266235673,
+      "entry_price": 2.0024229185958714e-05,
+      "last_price": 1.9275304259055143e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T13:22:13+00:00",
+      "missing": 0
+    },
+    "6gvUDGzxvH7ECv2TBNBJga7SpQ4p2c7eEViqxsjepump": {
+      "symbol": "$AURA",
+      "qty": 6986724.540732744,
+      "entry_price": 7.08486497663018e-06,
+      "last_price": 6.8258837762693994e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T13:22:13+00:00",
+      "missing": 0
+    },
+    "VcUuapXnPXNVbyFuW7Egy52LCFqSsvyMMnAbYEspump": {
+      "symbol": "Sevda",
+      "qty": 15992230.133849146,
+      "entry_price": 3.095253106396232e-06,
+      "last_price": 2.9887038579412694e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T13:22:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T07:34:52+00:00",
-      "side": "sell",
-      "symbol": "UNTAXD",
-      "address": "DpfZMb7HDiadhKg1f7wp6aGCtVx7hUUaf9LydHnVpump",
-      "price": 0.924102428,
-      "proceeds": 249038.24,
-      "pnl_usd": 248988.24,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T07:34:52+00:00",
-      "side": "sell",
-      "symbol": "Robinhood",
-      "address": "YT6QrPxqhM1YcvY4s3zHGgKojX7xLLCBBvg2s3Zpump",
-      "price": 2.008807072e-06,
-      "proceeds": 0.39,
-      "pnl_usd": -49.61,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T07:34:52+00:00",
-      "side": "buy",
-      "symbol": "Solamians",
-      "address": "CNJtNzHhmLpt1kTjWUCnE58TPXVQPbf4stYGjVdkpump",
-      "price": 0.016616976001875044,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:34:52+00:00",
-      "side": "buy",
-      "symbol": "파랭이",
-      "address": "HfjoPdnfbrbfZ2C76f7GBHAnGgi9RjUV12LYnnE9pump",
-      "price": 0.00010398379058519717,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:34:52+00:00",
-      "side": "buy",
-      "symbol": "LMAO",
-      "address": "7chmdwnxmS6hs6xh8LBxaR9FKFLXquTEftJU9JDXpump",
-      "price": 1.780901759244458e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T07:59:33+00:00",
-      "side": "sell",
-      "symbol": "파랭이",
-      "address": "HfjoPdnfbrbfZ2C76f7GBHAnGgi9RjUV12LYnnE9pump",
-      "price": 0.0001064806488,
-      "proceeds": 25.09,
-      "pnl_usd": -24.91,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T07:59:33+00:00",
-      "side": "buy",
-      "symbol": "DOPEBAT",
-      "address": "5hdHC2svpp76P3rwFNUkgk1Ch4f3dy8REZrSZAEtpump",
-      "price": 9.102371695919983e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T07:59:33+00:00",
       "side": "buy",
@@ -4523,6 +4488,66 @@
       "address": "EXSsCwkaAYiaKTv9wMhYhmTxAT1mybvaqwL52rCRpump",
       "price": 1.9496461751921083e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T13:22:13+00:00",
+      "side": "sell",
+      "symbol": "mogpadfun",
+      "address": "AVvE5qVGf5zVQavQzJZpQeXsNrdUXCVjSstUL3SYpump",
+      "price": 2.966830262e-06,
+      "proceeds": 10.11,
+      "pnl_usd": -39.89,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T13:22:13+00:00",
+      "side": "sell",
+      "symbol": "萌兰",
+      "address": "EXSsCwkaAYiaKTv9wMhYhmTxAT1mybvaqwL52rCRpump",
+      "price": 2.086671995e-06,
+      "proceeds": 5.04,
+      "pnl_usd": -44.96,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-14T13:22:13+00:00",
+      "side": "buy",
+      "symbol": "Musclecat",
+      "address": "E5WFhWdH9HfimKsRnKQSPxZ1QP3MKS4BrZFGFpm7pump",
+      "price": 8.486337156106037e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T13:22:13+00:00",
+      "side": "buy",
+      "symbol": "Jackie",
+      "address": "GBMY1kzS6KcJu1BQq1BvryfuB4qA4nxfpg429pV6pump",
+      "price": 2.3301311307511744e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T13:22:13+00:00",
+      "side": "buy",
+      "symbol": "Orviapp",
+      "address": "pn9PfXAmvLpq4ph2mqURwPZd5PBK6tmMKVR4npipump",
+      "price": 2.0024229185958714e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T13:22:13+00:00",
+      "side": "buy",
+      "symbol": "$AURA",
+      "address": "6gvUDGzxvH7ECv2TBNBJga7SpQ4p2c7eEViqxsjepump",
+      "price": 7.08486497663018e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T13:22:13+00:00",
+      "side": "buy",
+      "symbol": "Sevda",
+      "address": "VcUuapXnPXNVbyFuW7Egy52LCFqSsvyMMnAbYEspump",
+      "price": 3.095253106396232e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6973,6 +6998,10 @@
     {
       "date": "2026-10-14T12:44:05+00:00",
       "equity": 5893249.59
+    },
+    {
+      "date": "2026-10-14T13:22:13+00:00",
+      "equity": 5893158.22
     }
   ]
 }
