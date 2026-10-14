@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5893910.152748926,
+  "cash": 5893873.018347407,
   "positions": {
     "34CZAnUMEnEEeiXfjKZZ6DBL5RX66xE3QvYRYJwcpump": {
       "symbol": "MIMI",
       "qty": 15661004.391738294,
       "entry_price": 3.160716820059952e-06,
-      "last_price": 3.0406274877803838e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-14T01:24:34+00:00",
-      "missing": 0
-    },
-    "ExtEbpHveWyRaQ35hdSSPssR4UohY3ZL2ZgHxT2Gpump": {
-      "symbol": "UNICORN",
-      "qty": 3215976.7420328506,
-      "entry_price": 1.5391902358320713e-05,
-      "last_price": 1.4842172866220148e-05,
+      "last_price": 3.017520025e-06,
       "cost": 50.0,
       "entry_time": "2026-10-14T01:24:34+00:00",
       "missing": 0
@@ -24,29 +15,22 @@
       "symbol": "FAITH",
       "qty": 3472876.5212884666,
       "entry_price": 1.425331413212327e-05,
-      "last_price": 1.3774117954778315e-05,
+      "last_price": 1.377411795e-05,
       "cost": 50.0,
       "entry_time": "2026-10-14T01:24:34+00:00",
+      "missing": 0
+    },
+    "4K9ekNm3zUwmLnyzDEDwFSaWDXDn5U2G5q2r8TLHpump": {
+      "symbol": "kittylick",
+      "qty": 5350463.581769802,
+      "entry_price": 9.25153479572449e-06,
+      "last_price": 8.909414787275294e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-14T01:58:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-11T22:50:29+00:00",
-      "side": "buy",
-      "symbol": "Esquizo",
-      "address": "DyfdiAoHhnJ7d8a5RPA44Z9ebGFB6zTbSURB1bq2pump",
-      "price": 1.026313550346565e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-11T22:50:29+00:00",
-      "side": "buy",
-      "symbol": "USACLAUDIA",
-      "address": "8FRpSitbaAsxpbTt1Vqffaktd2TcSFe8K9j1545npump",
-      "price": 4.909473052338408e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-11T23:05:27+00:00",
       "side": "sell",
@@ -4528,6 +4512,24 @@
       "address": "HnpoUC92RMLbsc2m5W7eL8joocFfAt5kv2fnGgoCpump",
       "price": 1.425331413212327e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-14T01:58:26+00:00",
+      "side": "sell",
+      "symbol": "UNICORN",
+      "address": "ExtEbpHveWyRaQ35hdSSPssR4UohY3ZL2ZgHxT2Gpump",
+      "price": 4.187922403e-06,
+      "proceeds": 12.87,
+      "pnl_usd": -37.13,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-14T01:58:27+00:00",
+      "side": "buy",
+      "symbol": "kittylick",
+      "address": "4K9ekNm3zUwmLnyzDEDwFSaWDXDn5U2G5q2r8TLHpump",
+      "price": 9.25153479572449e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -6902,6 +6904,10 @@
     {
       "date": "2026-10-14T01:24:34+00:00",
       "equity": 5894053.34
+    },
+    {
+      "date": "2026-10-14T01:58:27+00:00",
+      "equity": 5894015.78
     }
   ]
 }
