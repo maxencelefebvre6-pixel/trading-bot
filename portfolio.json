@@ -1,102 +1,63 @@
 {
   "mode": "pumpfun",
-  "cash": 5892500.056071617,
+  "cash": 5892324.308897899,
   "positions": {
-    "7SPcsrLwYaRQvTB14SoApr1JPdRM3EERPUEKXyHspump": {
-      "symbol": "Eloncoin",
-      "qty": 7323200.252654598,
-      "entry_price": 6.75933994595555e-06,
-      "last_price": 6.500728729e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T00:48:03+00:00",
-      "missing": 0
-    },
-    "4UK1SRkYnsCLyPZ6CPLYUNM6fJB7pHMqXP3sEN6Npump": {
-      "symbol": "旺柴",
-      "qty": 592341.9516737191,
-      "entry_price": 8.356659503878291e-05,
-      "last_price": 8.102067040296054e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T01:21:52+00:00",
-      "missing": 0
-    },
     "CGw3GX1xaMrSAqk6ZPauUe4ng4vxAbC7ncbrYtTWpump": {
       "symbol": "HC",
       "qty": 2744280.9206549143,
       "entry_price": 1.8037511986268147e-05,
-      "last_price": 1.7449804689543482e-05,
+      "last_price": 1.745288926e-05,
       "cost": 50.0,
       "entry_time": "2026-10-15T01:21:52+00:00",
+      "missing": 0
+    },
+    "E56toxW5PKjcAkGBiKfXjP2L6rCKVtKR4CDo7EDMpump": {
+      "symbol": "Spike",
+      "qty": 591995.5738321526,
+      "entry_price": 8.361549002735389e-05,
+      "last_price": 8.10684237355534e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T01:56:35+00:00",
+      "missing": 0
+    },
+    "Qc1psHQfYkq5zFKo993BDPmzcZevdaKHCSPoZYEpump": {
+      "symbol": "SpaceX",
+      "qty": 122254.43962321627,
+      "entry_price": 0.000404893271381859,
+      "last_price": 0.0003927324943057042,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T01:56:35+00:00",
+      "missing": 0
+    },
+    "4UP1kS13APtxE12oNJPJn4gvuryXhstcAeuWbnoTpump": {
+      "symbol": "ARCADE",
+      "qty": 4705057.120651597,
+      "entry_price": 1.0520594911108073e-05,
+      "last_price": 1.0127380467620003e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T01:56:35+00:00",
+      "missing": 0
+    },
+    "vgg49A2ug5WzcnKjAxLv5mEc6yWFwgp2o5MKSPupump": {
+      "symbol": "EUROMIND",
+      "qty": 617098.1344508813,
+      "entry_price": 8.021414623793521e-05,
+      "last_price": 7.76962767140299e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T01:56:35+00:00",
+      "missing": 0
+    },
+    "6tymb9vUq1vq92BmTWGheK139dp3PcvnrLhVycG5pump": {
+      "symbol": "MONY",
+      "qty": 1927190.8507120612,
+      "entry_price": 2.5685053445386933e-05,
+      "last_price": 2.487514614519874e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T01:56:35+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T15:19:39+00:00",
-      "side": "sell",
-      "symbol": "LIQUID",
-      "address": "6or4Yiswoo3HvaugF4HAj6cn8miaV1u1U2nMHhpZpump",
-      "price": 0.004442313734,
-      "proceeds": 1252.04,
-      "pnl_usd": 1202.04,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T15:19:39+00:00",
-      "side": "sell",
-      "symbol": "HLM",
-      "address": "7d9fx53hSnhVAgMQNAtayjQusZcpEvYeeZdA5oxgpump",
-      "price": 2.190853648e-06,
-      "proceeds": 1.84,
-      "pnl_usd": -48.16,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T15:19:39+00:00",
-      "side": "sell",
-      "symbol": "SOLympic",
-      "address": "8FL815qZ5fuDmTTtTZp4tu8NzmKpY6z1GJvzqCqpump",
-      "price": 0.000793346819,
-      "proceeds": 88.69,
-      "pnl_usd": 38.69,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-12T15:19:39+00:00",
-      "side": "buy",
-      "symbol": "Ahmed",
-      "address": "8YszuxNXg82kicUakd24y2KrQHyosKDabqHopHtpump",
-      "price": 1.7237379415045336e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T15:19:39+00:00",
-      "side": "buy",
-      "symbol": "DOT",
-      "address": "K8orhJJDDgie5rDuxKWLcadW6bJtPfXzWXBrXEwpump",
-      "price": 9.848322839771125e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T15:44:05+00:00",
-      "side": "sell",
-      "symbol": "Ahmed",
-      "address": "8YszuxNXg82kicUakd24y2KrQHyosKDabqHopHtpump",
-      "price": 3.473338705e-05,
-      "proceeds": 94.75,
-      "pnl_usd": 44.75,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-12T15:44:05+00:00",
-      "side": "sell",
-      "symbol": "DOT",
-      "address": "K8orhJJDDgie5rDuxKWLcadW6bJtPfXzWXBrXEwpump",
-      "price": 2.022249916e-06,
-      "proceeds": 0.97,
-      "pnl_usd": -49.03,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-12T15:44:05+00:00",
       "side": "buy",
@@ -4530,6 +4491,66 @@
       "address": "CGw3GX1xaMrSAqk6ZPauUe4ng4vxAbC7ncbrYtTWpump",
       "price": 1.8037511986268147e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T01:56:35+00:00",
+      "side": "sell",
+      "symbol": "Eloncoin",
+      "address": "7SPcsrLwYaRQvTB14SoApr1JPdRM3EERPUEKXyHspump",
+      "price": 6.500728729e-06,
+      "proceeds": 45.28,
+      "pnl_usd": -4.72,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T01:56:35+00:00",
+      "side": "sell",
+      "symbol": "旺柴",
+      "address": "4UK1SRkYnsCLyPZ6CPLYUNM6fJB7pHMqXP3sEN6Npump",
+      "price": 9.882197954e-05,
+      "proceeds": 28.98,
+      "pnl_usd": -21.02,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T01:56:35+00:00",
+      "side": "buy",
+      "symbol": "Spike",
+      "address": "E56toxW5PKjcAkGBiKfXjP2L6rCKVtKR4CDo7EDMpump",
+      "price": 8.361549002735389e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T01:56:35+00:00",
+      "side": "buy",
+      "symbol": "SpaceX",
+      "address": "Qc1psHQfYkq5zFKo993BDPmzcZevdaKHCSPoZYEpump",
+      "price": 0.000404893271381859,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T01:56:35+00:00",
+      "side": "buy",
+      "symbol": "ARCADE",
+      "address": "4UP1kS13APtxE12oNJPJn4gvuryXhstcAeuWbnoTpump",
+      "price": 1.0520594911108073e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T01:56:35+00:00",
+      "side": "buy",
+      "symbol": "EUROMIND",
+      "address": "vgg49A2ug5WzcnKjAxLv5mEc6yWFwgp2o5MKSPupump",
+      "price": 8.021414623793521e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T01:56:35+00:00",
+      "side": "buy",
+      "symbol": "MONY",
+      "address": "6tymb9vUq1vq92BmTWGheK139dp3PcvnrLhVycG5pump",
+      "price": 2.5685053445386933e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7064,6 +7085,10 @@
     {
       "date": "2026-10-15T01:21:52+00:00",
       "equity": 5892643.54
+    },
+    {
+      "date": "2026-10-15T01:56:35+00:00",
+      "equity": 5892611.75
     }
   ]
 }
