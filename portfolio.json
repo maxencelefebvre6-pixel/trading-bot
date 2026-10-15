@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5891902.0825734325,
+  "cash": 5891854.804417561,
   "positions": {
     "GKkRVE2QpGGfEFsLcyEE2Cwb8bv5fe1Drtq5pBFopump": {
       "symbol": "LUNA",
       "qty": 16347634.98204026,
       "entry_price": 3.027960928561311e-06,
-      "last_price": 2.913046725285326e-06,
+      "last_price": 2.874964515e-06,
       "cost": 50.0,
       "entry_time": "2026-10-15T14:12:26+00:00",
       "missing": 0
     },
-    "H78yNNB5Ke1ymMPLPr9Tx5H6MHYdHbkBmEXrFmPFpump": {
-      "symbol": "bonercoin",
-      "qty": 1899415812.7878203,
-      "entry_price": 2.6060644365884057e-08,
-      "last_price": 2.5219065942967988e-08,
+    "4tHVcDXdnLksRrKUUuFG13XsZ2nMxo5NbDFBLiC2pump": {
+      "symbol": "PINCHE",
+      "qty": 3203906.1958739567,
+      "entry_price": 1.544989053167253e-05,
+      "last_price": 1.4887203851766957e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-15T14:12:26+00:00",
+      "entry_time": "2026-10-15T14:51:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T22:30:48+00:00",
-      "side": "buy",
-      "symbol": "LIMIT",
-      "address": "433zwms1C5xLyJ8ZKeT49RH7HVxarn9XvT15apCwpump",
-      "price": 3.120971864612428e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T22:30:48+00:00",
-      "side": "buy",
-      "symbol": "BOK",
-      "address": "Bb6dErRy6zuX4S2xToJdY7amnko9gG82x4YsKWSvpump",
-      "price": 1.1700069647794181e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T22:30:48+00:00",
       "side": "buy",
@@ -4521,6 +4505,24 @@
       "address": "H78yNNB5Ke1ymMPLPr9Tx5H6MHYdHbkBmEXrFmPFpump",
       "price": 2.6060644365884057e-08,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T14:51:37+00:00",
+      "side": "sell",
+      "symbol": "bonercoin",
+      "address": "H78yNNB5Ke1ymMPLPr9Tx5H6MHYdHbkBmEXrFmPFpump",
+      "price": 2.894929572e-09,
+      "proceeds": 2.72,
+      "pnl_usd": -47.28,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T14:51:37+00:00",
+      "side": "buy",
+      "symbol": "PINCHE",
+      "address": "4tHVcDXdnLksRrKUUuFG13XsZ2nMxo5NbDFBLiC2pump",
+      "price": 1.544989053167253e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7131,6 +7133,10 @@
     {
       "date": "2026-10-15T14:12:26+00:00",
       "equity": 5891997.61
+    },
+    {
+      "date": "2026-10-15T14:51:37+00:00",
+      "equity": 5891949.5
     }
   ]
 }
