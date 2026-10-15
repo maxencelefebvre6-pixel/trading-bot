@@ -1,79 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5891921.38217504,
-  "positions": {
-    "EKXSqyyFjMnknWgaDMdferTvmzQs4ZYoDvfK8XTHpump": {
-      "symbol": "1 vs 100",
-      "qty": 740416.0493452612,
-      "entry_price": 6.685430447350798e-05,
-      "last_price": 6.484475344e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T07:56:35+00:00",
-      "missing": 0
-    },
-    "6PFon6cJXKgFecjWtFnneDotSi9j6m9YoMDRxZT2pump": {
-      "symbol": "$DODO",
-      "qty": 5244608.167246096,
-      "entry_price": 9.43826467516487e-06,
-      "last_price": 9.100869046e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T07:56:35+00:00",
-      "missing": 0
-    },
-    "7vqm2FNmuCZ6PueKE2NqpgDjBGB4L7NhrwFUvUWwpump": {
-      "symbol": "$DODO",
-      "qty": 4288402.317948627,
-      "entry_price": 1.1542760293926551e-05,
-      "last_price": 1.114363001e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T07:56:35+00:00",
-      "missing": 0
-    },
-    "y4KL9Pw3YLVPaFyRm2brcvhHhivpbu4haYZW2Fgpump": {
-      "symbol": "WIZCAT",
-      "qty": 1874145.5175025163,
-      "entry_price": 2.6412036598931565e-05,
-      "last_price": 2.548630533544456e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T08:33:20+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5892062.522299874,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-12T20:52:28+00:00",
-      "side": "buy",
-      "symbol": "Sola",
-      "address": "EzRexEGrfycMh3tTybNoLu29y1sBotD91F6NERYCpump",
-      "price": 1.9784418976006177e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T20:52:28+00:00",
-      "side": "buy",
-      "symbol": "Sola",
-      "address": "E3jVxYJgD3tBiN9f8Q9NmafhrArdfuQVwzQnB1NGpump",
-      "price": 7.0975706742761655e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T20:52:28+00:00",
-      "side": "buy",
-      "symbol": "shard",
-      "address": "AZd4pQivJMTFXzY7XQN6WJntrUzatHGvd5Le1f5Gpump",
-      "price": 1.153469744599985e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T21:09:50+00:00",
-      "side": "sell",
-      "symbol": "Sola",
-      "address": "EzRexEGrfycMh3tTybNoLu29y1sBotD91F6NERYCpump",
-      "price": 3.032622711e-06,
-      "proceeds": 7.26,
-      "pnl_usd": -42.74,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-12T21:09:50+00:00",
       "side": "sell",
@@ -4535,6 +4464,46 @@
       "address": "y4KL9Pw3YLVPaFyRm2brcvhHhivpbu4haYZW2Fgpump",
       "price": 2.6412036598931565e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T09:09:27+00:00",
+      "side": "sell",
+      "symbol": "1 vs 100",
+      "address": "EKXSqyyFjMnknWgaDMdferTvmzQs4ZYoDvfK8XTHpump",
+      "price": 6.484475344e-05,
+      "proceeds": 46.06,
+      "pnl_usd": -3.94,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T09:09:27+00:00",
+      "side": "sell",
+      "symbol": "$DODO",
+      "address": "6PFon6cJXKgFecjWtFnneDotSi9j6m9YoMDRxZT2pump",
+      "price": 9.100869046e-06,
+      "proceeds": 45.52,
+      "pnl_usd": -4.48,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T09:09:27+00:00",
+      "side": "sell",
+      "symbol": "$DODO",
+      "address": "7vqm2FNmuCZ6PueKE2NqpgDjBGB4L7NhrwFUvUWwpump",
+      "price": 1.114363001e-05,
+      "proceeds": 45.63,
+      "pnl_usd": -4.37,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T09:09:27+00:00",
+      "side": "sell",
+      "symbol": "WIZCAT",
+      "address": "y4KL9Pw3YLVPaFyRm2brcvhHhivpbu4haYZW2Fgpump",
+      "price": 2.196537269e-06,
+      "proceeds": 3.93,
+      "pnl_usd": -46.07,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -7117,6 +7086,10 @@
     {
       "date": "2026-10-15T08:33:20+00:00",
       "equity": 5892112.68
+    },
+    {
+      "date": "2026-10-15T09:09:28+00:00",
+      "equity": 5892062.52
     }
   ]
 }
