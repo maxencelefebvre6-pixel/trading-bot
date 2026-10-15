@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5892183.193774495,
+  "cash": 5892133.193774495,
   "positions": {
     "BPMcmwU445AoVZmk48aLdCb7zvuLX18TQbfLUrJ7pump": {
       "symbol": "HOOD",
       "qty": 235559.91897823114,
       "entry_price": 0.00021013761685227298,
-      "last_price": 0.00020395012309487205,
+      "last_price": 0.0002032632671,
       "cost": 50.0,
       "entry_time": "2026-10-15T04:10:30+00:00",
       "missing": 0
@@ -15,21 +15,22 @@
       "symbol": "$TBOWS",
       "qty": 3890545.92975928,
       "entry_price": 1.2723150142340748e-05,
-      "last_price": 1.2276382113802909e-05,
+      "last_price": 1.227638211e-05,
       "cost": 50.0,
       "entry_time": "2026-10-15T04:10:30+00:00",
+      "missing": 0
+    },
+    "9WvN5hsyLg5BjxSkCxUNKvLXFJhPx9ozSy2PNxBJpump": {
+      "symbol": "EAGLE",
+      "qty": 2970555.7076132284,
+      "entry_price": 1.666354880103295e-05,
+      "last_price": 1.6077414624124512e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T04:46:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T17:52:46+00:00",
-      "side": "buy",
-      "symbol": "MarsX",
-      "address": "8YYPQg5ayw1MtowL6QMqfR7RW7rn4t9oNnDt5YTdpump",
-      "price": 8.765309713568835e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T17:52:46+00:00",
       "side": "buy",
@@ -4519,6 +4520,14 @@
       "address": "HCRQgGqy9WotKZeSuHjGjeTqTnVDVCjSLnKTwaWpump",
       "price": 1.2723150142340748e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T04:46:56+00:00",
+      "side": "buy",
+      "symbol": "EAGLE",
+      "address": "9WvN5hsyLg5BjxSkCxUNKvLXFJhPx9ozSy2PNxBJpump",
+      "price": 1.666354880103295e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7073,6 +7082,10 @@
     {
       "date": "2026-10-15T04:10:30+00:00",
       "equity": 5892279.0
+    },
+    {
+      "date": "2026-10-15T04:46:56+00:00",
+      "equity": 5892276.6
     }
   ]
 }
