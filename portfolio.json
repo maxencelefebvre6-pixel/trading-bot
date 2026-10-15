@@ -1,24 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5892002.0825734325,
-  "positions": {},
+  "cash": 5891902.0825734325,
+  "positions": {
+    "GKkRVE2QpGGfEFsLcyEE2Cwb8bv5fe1Drtq5pBFopump": {
+      "symbol": "LUNA",
+      "qty": 16347634.98204026,
+      "entry_price": 3.027960928561311e-06,
+      "last_price": 2.913046725285326e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T14:12:26+00:00",
+      "missing": 0
+    },
+    "H78yNNB5Ke1ymMPLPr9Tx5H6MHYdHbkBmEXrFmPFpump": {
+      "symbol": "bonercoin",
+      "qty": 1899415812.7878203,
+      "entry_price": 2.6060644365884057e-08,
+      "last_price": 2.5219065942967988e-08,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T14:12:26+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-12T22:30:48+00:00",
-      "side": "buy",
-      "symbol": "OnlyDoge",
-      "address": "CVxmNU5pseYjegY1D8GBk6J1y3cRj7JrCZDyd2z1pump",
-      "price": 0.00010045590455144865,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T22:30:48+00:00",
-      "side": "buy",
-      "symbol": "GROVER",
-      "address": "3ULqjPHngfKA1PnpcwCN4HTrYe5HCv4M3CxdfEkspump",
-      "price": 4.12223774395381e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T22:30:48+00:00",
       "side": "buy",
@@ -4502,6 +4505,22 @@
       "proceeds": 57.17,
       "pnl_usd": 7.17,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-15T14:12:26+00:00",
+      "side": "buy",
+      "symbol": "LUNA",
+      "address": "GKkRVE2QpGGfEFsLcyEE2Cwb8bv5fe1Drtq5pBFopump",
+      "price": 3.027960928561311e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T14:12:26+00:00",
+      "side": "buy",
+      "symbol": "bonercoin",
+      "address": "H78yNNB5Ke1ymMPLPr9Tx5H6MHYdHbkBmEXrFmPFpump",
+      "price": 2.6060644365884057e-08,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7108,6 +7127,10 @@
     {
       "date": "2026-10-15T12:45:30+00:00",
       "equity": 5892002.08
+    },
+    {
+      "date": "2026-10-15T14:12:26+00:00",
+      "equity": 5891997.61
     }
   ]
 }
