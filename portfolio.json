@@ -1,81 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5891317.98767924,
+  "cash": 5891362.827109581,
   "positions": {
-    "FRTxoebMm2jts18Fq4YTvWd2mXQfkq9c2Gze5ofSpump": {
-      "symbol": "FTR",
-      "qty": 1316361.5881821143,
-      "entry_price": 3.760364966920612e-05,
-      "last_price": 3.639541708e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T19:05:46+00:00",
-      "missing": 0
-    },
-    "FBZmrsC28sA2MWdSqHfDckCEyUZXBtMFvrd5Jz3Gpump": {
-      "symbol": "Competely",
-      "qty": 5777928.609119423,
-      "entry_price": 8.56708404494184e-06,
-      "last_price": 8.244237573e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T19:05:46+00:00",
-      "missing": 0
-    },
-    "Btv9dBEMRmePyRNGmnpMBrMf58v9N2WTuUZpy65Hpump": {
-      "symbol": "FRANKIE",
-      "qty": 1700075.0795926028,
-      "entry_price": 2.9116361150274566e-05,
-      "last_price": 2.815833219794632e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T19:37:32+00:00",
-      "missing": 0
-    },
     "BdCAHyagzkfNjPmkGfPHyx695dUcdW24UXxydxjLpump": {
       "symbol": "Tesla",
       "qty": 616166.6715137693,
       "entry_price": 8.03354064548651e-05,
-      "last_price": 7.780856107332899e-05,
+      "last_price": 7.606473191e-05,
       "cost": 50.0,
       "entry_time": "2026-10-15T19:37:32+00:00",
+      "missing": 0
+    },
+    "WjqsYYz2STfBs6mgNPcD5ifrPXTfTUxkzR2D5mepump": {
+      "symbol": "Snoopy",
+      "qty": 4490885.108417047,
+      "entry_price": 1.1022326068245337e-05,
+      "last_price": 1.0611184078734839e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T20:07:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T00:11:11+00:00",
-      "side": "buy",
-      "symbol": "WARMHOLE",
-      "address": "FC9yDGPi25sqGoTZvhohVSYKirPnva1cv8NmUx2jpump",
-      "price": 2.9819434482697857e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T00:11:11+00:00",
-      "side": "buy",
-      "symbol": "$BOWSKI",
-      "address": "3hN4hsoWQkAiLSUpqGpJQuqk3yinEGiZzfmweZ5apump",
-      "price": 5.821409919075181e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T00:48:16+00:00",
-      "side": "sell",
-      "symbol": "att",
-      "address": "BtdRbikmGxQvJZQScGBdjxCgfVK3RyCxb3mtrqcEpump",
-      "price": 1.519598126e-05,
-      "proceeds": 45.77,
-      "pnl_usd": -4.23,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-13T00:48:16+00:00",
-      "side": "sell",
-      "symbol": "hi",
-      "address": "7vkiQWD5q5bkLezQmb8HTARjSgmfnqKsqEk7NWbHpump",
-      "price": 4.724061719e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-13T00:48:16+00:00",
       "side": "sell",
@@ -4537,6 +4483,44 @@
       "address": "BdCAHyagzkfNjPmkGfPHyx695dUcdW24UXxydxjLpump",
       "price": 8.03354064548651e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T20:07:35+00:00",
+      "side": "sell",
+      "symbol": "FTR",
+      "address": "FRTxoebMm2jts18Fq4YTvWd2mXQfkq9c2Gze5ofSpump",
+      "price": 3.639541708e-05,
+      "proceeds": 45.92,
+      "pnl_usd": -4.08,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T20:07:35+00:00",
+      "side": "sell",
+      "symbol": "Competely",
+      "address": "FBZmrsC28sA2MWdSqHfDckCEyUZXBtMFvrd5Jz3Gpump",
+      "price": 8.244237573e-06,
+      "proceeds": 45.39,
+      "pnl_usd": -4.61,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T20:07:35+00:00",
+      "side": "sell",
+      "symbol": "FRANKIE",
+      "address": "Btv9dBEMRmePyRNGmnpMBrMf58v9N2WTuUZpy65Hpump",
+      "price": 2.171050165e-06,
+      "proceeds": 3.52,
+      "pnl_usd": -46.48,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T20:07:36+00:00",
+      "side": "buy",
+      "symbol": "Snoopy",
+      "address": "WjqsYYz2STfBs6mgNPcD5ifrPXTfTUxkzR2D5mepump",
+      "price": 1.1022326068245337e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7183,6 +7167,10 @@
     {
       "date": "2026-10-15T19:37:32+00:00",
       "equity": 5891509.35
+    },
+    {
+      "date": "2026-10-15T20:07:36+00:00",
+      "equity": 5891457.35
     }
   ]
 }
