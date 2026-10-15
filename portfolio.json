@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5891362.827109581,
+  "cash": 5891332.784144664,
   "positions": {
-    "BdCAHyagzkfNjPmkGfPHyx695dUcdW24UXxydxjLpump": {
-      "symbol": "Tesla",
-      "qty": 616166.6715137693,
-      "entry_price": 8.03354064548651e-05,
-      "last_price": 7.606473191e-05,
+    "6GtaftGG8SiehHUz3qQa5viwxXUyvQzr3rgvtXDWpump": {
+      "symbol": "SHOP",
+      "qty": 916923.6359124922,
+      "entry_price": 5.398486641773525e-05,
+      "last_price": 5.2277463758759864e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-15T19:37:32+00:00",
-      "missing": 0
-    },
-    "WjqsYYz2STfBs6mgNPcD5ifrPXTfTUxkzR2D5mepump": {
-      "symbol": "Snoopy",
-      "qty": 4490885.108417047,
-      "entry_price": 1.1022326068245337e-05,
-      "last_price": 1.0611184078734839e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T20:07:36+00:00",
+      "entry_time": "2026-10-15T20:41:58+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T00:48:16+00:00",
-      "side": "sell",
-      "symbol": "WARMHOLE",
-      "address": "FC9yDGPi25sqGoTZvhohVSYKirPnva1cv8NmUx2jpump",
-      "price": 4.478936781e-05,
-      "proceeds": 36.8,
-      "pnl_usd": -13.2,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T00:48:16+00:00",
-      "side": "sell",
-      "symbol": "$BOWSKI",
-      "address": "3hN4hsoWQkAiLSUpqGpJQuqk3yinEGiZzfmweZ5apump",
-      "price": 2.088266381e-09,
-      "proceeds": 0.02,
-      "pnl_usd": -49.98,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T00:48:16+00:00",
-      "side": "buy",
-      "symbol": "Topless",
-      "address": "W5ZW7sZyU8pCWKw5ejF8v9PkSEaZubE6hy5LoAbpump",
-      "price": 5.403032982617385e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T00:48:16+00:00",
       "side": "buy",
@@ -4521,6 +4484,34 @@
       "address": "WjqsYYz2STfBs6mgNPcD5ifrPXTfTUxkzR2D5mepump",
       "price": 1.1022326068245337e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T20:41:57+00:00",
+      "side": "sell",
+      "symbol": "Tesla",
+      "address": "BdCAHyagzkfNjPmkGfPHyx695dUcdW24UXxydxjLpump",
+      "price": 1.879389772e-05,
+      "proceeds": 11.1,
+      "pnl_usd": -38.9,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T20:41:57+00:00",
+      "side": "sell",
+      "symbol": "Snoopy",
+      "address": "WjqsYYz2STfBs6mgNPcD5ifrPXTfTUxkzR2D5mepump",
+      "price": 2.091047502e-06,
+      "proceeds": 8.86,
+      "pnl_usd": -41.14,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T20:41:58+00:00",
+      "side": "buy",
+      "symbol": "SHOP",
+      "address": "6GtaftGG8SiehHUz3qQa5viwxXUyvQzr3rgvtXDWpump",
+      "price": 5.398486641773525e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7171,6 +7162,10 @@
     {
       "date": "2026-10-15T20:07:36+00:00",
       "equity": 5891457.35
+    },
+    {
+      "date": "2026-10-15T20:41:58+00:00",
+      "equity": 5891380.72
     }
   ]
 }
