@@ -1,38 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5892600.056071617,
+  "cash": 5892500.056071617,
   "positions": {
     "7SPcsrLwYaRQvTB14SoApr1JPdRM3EERPUEKXyHspump": {
       "symbol": "Eloncoin",
       "qty": 7323200.252654598,
       "entry_price": 6.75933994595555e-06,
-      "last_price": 6.5007287287821954e-06,
+      "last_price": 6.500728729e-06,
       "cost": 50.0,
       "entry_time": "2026-10-15T00:48:03+00:00",
+      "missing": 0
+    },
+    "4UK1SRkYnsCLyPZ6CPLYUNM6fJB7pHMqXP3sEN6Npump": {
+      "symbol": "旺柴",
+      "qty": 592341.9516737191,
+      "entry_price": 8.356659503878291e-05,
+      "last_price": 8.102067040296054e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T01:21:52+00:00",
+      "missing": 0
+    },
+    "CGw3GX1xaMrSAqk6ZPauUe4ng4vxAbC7ncbrYtTWpump": {
+      "symbol": "HC",
+      "qty": 2744280.9206549143,
+      "entry_price": 1.8037511986268147e-05,
+      "last_price": 1.7449804689543482e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T01:21:52+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T15:19:39+00:00",
-      "side": "sell",
-      "symbol": "MINU",
-      "address": "2jBJ4QQNyqFSsHr7vpUWYsAovqg68NDDYXNzRxqEpump",
-      "price": 8.636502605e-05,
-      "proceeds": 46.34,
-      "pnl_usd": -3.66,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T15:19:39+00:00",
-      "side": "sell",
-      "symbol": "CHAT",
-      "address": "EuGLZAaVjbK72wXn4ZrwmHtVNQjkGR9kJfiL9b14pump",
-      "price": 0.004440864703,
-      "proceeds": 1247.47,
-      "pnl_usd": 1197.47,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-12T15:19:39+00:00",
       "side": "sell",
@@ -4516,6 +4514,22 @@
       "address": "7SPcsrLwYaRQvTB14SoApr1JPdRM3EERPUEKXyHspump",
       "price": 6.75933994595555e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T01:21:52+00:00",
+      "side": "buy",
+      "symbol": "旺柴",
+      "address": "4UK1SRkYnsCLyPZ6CPLYUNM6fJB7pHMqXP3sEN6Npump",
+      "price": 8.356659503878291e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T01:21:52+00:00",
+      "side": "buy",
+      "symbol": "HC",
+      "address": "CGw3GX1xaMrSAqk6ZPauUe4ng4vxAbC7ncbrYtTWpump",
+      "price": 1.8037511986268147e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7046,6 +7060,10 @@
     {
       "date": "2026-10-15T00:48:03+00:00",
       "equity": 5892647.66
+    },
+    {
+      "date": "2026-10-15T01:21:52+00:00",
+      "equity": 5892643.54
     }
   ]
 }
