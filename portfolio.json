@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5891962.522299874,
+  "cash": 5891877.38379128,
   "positions": {
-    "GkGWDk5y3vE84MVnVC8XnfbfBFc3TFp32vjvB8Pdpump": {
-      "symbol": "APE",
-      "qty": 1661675.9725760887,
-      "entry_price": 2.9789201274458084e-05,
-      "last_price": 2.8754379009092194e-05,
+    "wEFMyjbbZ4CUKwNk4YBqa54PwkTSJAnDDNZdUpUpump": {
+      "symbol": "Anthropic",
+      "qty": 128537.01049396797,
+      "entry_price": 0.0003851030906178027,
+      "last_price": 0.0003735204700071181,
       "cost": 50.0,
-      "entry_time": "2026-10-15T09:46:00+00:00",
+      "entry_time": "2026-10-15T10:15:46+00:00",
       "missing": 0
     },
-    "DRqSqPAXkxtCTbCASRygN7MCYMeKkwAGZvg4LXPGpump": {
-      "symbol": "FOMOHAND",
-      "qty": 4014579.1067198776,
-      "entry_price": 1.233005968599386e-05,
-      "last_price": 1.1876640462667726e-05,
+    "AULMaqgyqQ6NvvxCimZbwPMnEhaG4PSPEJo4M65Jpump": {
+      "symbol": "ALIEN",
+      "qty": 4083054.733437086,
+      "entry_price": 1.2123276133095394e-05,
+      "last_price": 1.1679415528528145e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-15T09:46:00+00:00",
+      "entry_time": "2026-10-15T10:15:46+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T21:09:50+00:00",
-      "side": "buy",
-      "symbol": "VEIL",
-      "address": "G7MijKDdjKNcVV5pXaxEBwvmk8BwpsYxmzw7MiTjpump",
-      "price": 8.69554677627386e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T21:09:50+00:00",
-      "side": "buy",
-      "symbol": "EGOD",
-      "address": "6KaACnGJGCTfJwy98C9tmxPJ33xrn2gkPQbrcpFSpump",
-      "price": 6.731331805359085e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T21:31:30+00:00",
-      "side": "sell",
-      "symbol": "VEIL",
-      "address": "G7MijKDdjKNcVV5pXaxEBwvmk8BwpsYxmzw7MiTjpump",
-      "price": 0.2069498432,
-      "proceeds": 58314.77,
-      "pnl_usd": 58264.77,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-12T21:31:30+00:00",
-      "side": "sell",
-      "symbol": "EGOD",
-      "address": "6KaACnGJGCTfJwy98C9tmxPJ33xrn2gkPQbrcpFSpump",
-      "price": 2.115505849e-06,
-      "proceeds": 1.49,
-      "pnl_usd": -48.51,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-12T21:31:30+00:00",
       "side": "buy",
@@ -4519,6 +4483,42 @@
       "address": "DRqSqPAXkxtCTbCASRygN7MCYMeKkwAGZvg4LXPGpump",
       "price": 1.233005968599386e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T10:15:46+00:00",
+      "side": "sell",
+      "symbol": "APE",
+      "address": "GkGWDk5y3vE84MVnVC8XnfbfBFc3TFp32vjvB8Pdpump",
+      "price": 2.363149705e-06,
+      "proceeds": 3.77,
+      "pnl_usd": -46.23,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T10:15:46+00:00",
+      "side": "sell",
+      "symbol": "FOMOHAND",
+      "address": "DRqSqPAXkxtCTbCASRygN7MCYMeKkwAGZvg4LXPGpump",
+      "price": 2.893190317e-06,
+      "proceeds": 11.1,
+      "pnl_usd": -38.9,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T10:15:46+00:00",
+      "side": "buy",
+      "symbol": "Anthropic",
+      "address": "wEFMyjbbZ4CUKwNk4YBqa54PwkTSJAnDDNZdUpUpump",
+      "price": 0.0003851030906178027,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T10:15:46+00:00",
+      "side": "buy",
+      "symbol": "ALIEN",
+      "address": "AULMaqgyqQ6NvvxCimZbwPMnEhaG4PSPEJo4M65Jpump",
+      "price": 1.2123276133095394e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7109,6 +7109,10 @@
     {
       "date": "2026-10-15T09:46:00+00:00",
       "equity": 5892057.98
+    },
+    {
+      "date": "2026-10-15T10:15:46+00:00",
+      "equity": 5891973.08
     }
   ]
 }
