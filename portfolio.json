@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5891944.910729856,
-  "positions": {
-    "2sxYvLvAozx3fWzns4mJqpbUcWgKUQwUxZ2TdKMKpump": {
-      "symbol": "SHARE",
-      "qty": 4260912.845886925,
-      "entry_price": 1.1617228934354415e-05,
-      "last_price": 1.119372461821531e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T12:02:17+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5892002.0825734325,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-12T21:51:52+00:00",
-      "side": "sell",
-      "symbol": "GrowBot",
-      "address": "GyokBbRq97ATFJDSzGEuRk3GWCFf164DGaDrVJsjpump",
-      "price": 3.005304685e-06,
-      "proceeds": 14.72,
-      "pnl_usd": -35.28,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-12T22:30:48+00:00",
       "side": "buy",
@@ -4512,6 +4492,16 @@
       "address": "2sxYvLvAozx3fWzns4mJqpbUcWgKUQwUxZ2TdKMKpump",
       "price": 1.1617228934354415e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T12:45:30+00:00",
+      "side": "sell",
+      "symbol": "SHARE",
+      "address": "2sxYvLvAozx3fWzns4mJqpbUcWgKUQwUxZ2TdKMKpump",
+      "price": 1.429085923e-05,
+      "proceeds": 57.17,
+      "pnl_usd": 7.17,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
@@ -7114,6 +7104,10 @@
     {
       "date": "2026-10-15T12:02:17+00:00",
       "equity": 5891992.61
+    },
+    {
+      "date": "2026-10-15T12:45:30+00:00",
+      "equity": 5892002.08
     }
   ]
 }
