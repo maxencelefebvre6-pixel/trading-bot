@@ -1,65 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5892245.875746305,
+  "cash": 5892183.193774495,
   "positions": {
-    "4aMD7TAujKhojDpw4Kgs7xbF4AKycfH9Mr8ehqzzpump": {
-      "symbol": "BATFISH",
-      "qty": 3077513.247828373,
-      "entry_price": 1.608441492004278e-05,
-      "last_price": 1.5502604825317998e-05,
+    "BPMcmwU445AoVZmk48aLdCb7zvuLX18TQbfLUrJ7pump": {
+      "symbol": "HOOD",
+      "qty": 235559.91897823114,
+      "entry_price": 0.00021013761685227298,
+      "last_price": 0.00020395012309487205,
       "cost": 50.0,
-      "entry_time": "2026-10-15T03:35:18+00:00",
+      "entry_time": "2026-10-15T04:10:30+00:00",
       "missing": 0
     },
-    "zYVTftiKKakpUjrBb14Dvuwh7H4q3CXBzLjCGWrpump": {
-      "symbol": "Marie",
-      "qty": 1072875.7247630926,
-      "entry_price": 4.613768291842968e-05,
-      "last_price": 4.466020059644294e-05,
+    "HCRQgGqy9WotKZeSuHjGjeTqTnVDVCjSLnKTwaWpump": {
+      "symbol": "$TBOWS",
+      "qty": 3890545.92975928,
+      "entry_price": 1.2723150142340748e-05,
+      "last_price": 1.2276382113802909e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-15T03:35:18+00:00",
+      "entry_time": "2026-10-15T04:10:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T17:07:58+00:00",
-      "side": "sell",
-      "symbol": "CLASH",
-      "address": "GN7cWyFmRKumV4EQnMTTTeUqcXa44nn5s4yjKXMZpump",
-      "price": 3.024441292e-06,
-      "proceeds": 18.3,
-      "pnl_usd": -31.7,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T17:07:59+00:00",
-      "side": "buy",
-      "symbol": "Casino",
-      "address": "CiJm2kFMBSDN2t8HZU5yZCqav1Eq6HHgc8E5KZspump",
-      "price": 4.4893630072273115e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T17:32:11+00:00",
-      "side": "sell",
-      "symbol": "Casino",
-      "address": "CiJm2kFMBSDN2t8HZU5yZCqav1Eq6HHgc8E5KZspump",
-      "price": 1.670587558e-05,
-      "proceeds": 17.63,
-      "pnl_usd": -32.37,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T17:52:46+00:00",
-      "side": "sell",
-      "symbol": "NOTHING",
-      "address": "2GhBiy6craxqp7fA1JTU5641itRGsJWZ7ma6eViGpump",
-      "price": 1.593067408e-05,
-      "proceeds": 45.65,
-      "pnl_usd": -4.35,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-12T17:52:46+00:00",
       "side": "buy",
@@ -4521,6 +4483,42 @@
       "address": "zYVTftiKKakpUjrBb14Dvuwh7H4q3CXBzLjCGWrpump",
       "price": 4.613768291842968e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T04:10:30+00:00",
+      "side": "sell",
+      "symbol": "BATFISH",
+      "address": "4aMD7TAujKhojDpw4Kgs7xbF4AKycfH9Mr8ehqzzpump",
+      "price": 1.199738146e-05,
+      "proceeds": 35.15,
+      "pnl_usd": -14.85,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T04:10:30+00:00",
+      "side": "sell",
+      "symbol": "Marie",
+      "address": "zYVTftiKKakpUjrBb14Dvuwh7H4q3CXBzLjCGWrpump",
+      "price": 2.114333805e-06,
+      "proceeds": 2.17,
+      "pnl_usd": -47.83,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T04:10:30+00:00",
+      "side": "buy",
+      "symbol": "HOOD",
+      "address": "BPMcmwU445AoVZmk48aLdCb7zvuLX18TQbfLUrJ7pump",
+      "price": 0.00021013761685227298,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T04:10:30+00:00",
+      "side": "buy",
+      "symbol": "$TBOWS",
+      "address": "HCRQgGqy9WotKZeSuHjGjeTqTnVDVCjSLnKTwaWpump",
+      "price": 1.2723150142340748e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7071,6 +7069,10 @@
     {
       "date": "2026-10-15T03:35:18+00:00",
       "equity": 5892341.5
+    },
+    {
+      "date": "2026-10-15T04:10:30+00:00",
+      "equity": 5892279.0
     }
   ]
 }
