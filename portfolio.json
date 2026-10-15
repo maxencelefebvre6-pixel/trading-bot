@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5891994.910729856,
-  "positions": {},
+  "cash": 5891944.910729856,
+  "positions": {
+    "2sxYvLvAozx3fWzns4mJqpbUcWgKUQwUxZ2TdKMKpump": {
+      "symbol": "SHARE",
+      "qty": 4260912.845886925,
+      "entry_price": 1.1617228934354415e-05,
+      "last_price": 1.119372461821531e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T12:02:17+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-12T21:51:52+00:00",
-      "side": "sell",
-      "symbol": "NTRUMP",
-      "address": "75MR1djJZHW2srkqM152TCs654t1CPQ9PvEPNLp3pump",
-      "price": 3.01889155e-06,
-      "proceeds": 12.36,
-      "pnl_usd": -37.64,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-12T21:51:52+00:00",
       "side": "sell",
@@ -4504,6 +4504,14 @@
       "proceeds": 17.48,
       "pnl_usd": -32.52,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T12:02:17+00:00",
+      "side": "buy",
+      "symbol": "SHARE",
+      "address": "2sxYvLvAozx3fWzns4mJqpbUcWgKUQwUxZ2TdKMKpump",
+      "price": 1.1617228934354415e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7102,6 +7110,10 @@
     {
       "date": "2026-10-15T10:55:19+00:00",
       "equity": 5891994.91
+    },
+    {
+      "date": "2026-10-15T12:02:17+00:00",
+      "equity": 5891992.61
     }
   ]
 }
