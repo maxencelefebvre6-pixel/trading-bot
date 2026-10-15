@@ -1,57 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5891736.682205686,
+  "cash": 5891637.005633631,
   "positions": {
     "C6TxH6WwSwwtzZ88K8AMvFYjpDWn1k4v2uyDFWX5pump": {
       "symbol": "NGA",
       "qty": 3368548.3206489347,
       "entry_price": 1.4694757292501615e-05,
-      "last_price": 1.4189258052750925e-05,
+      "last_price": 1.419751152e-05,
       "cost": 50.0,
       "entry_time": "2026-10-15T16:03:31+00:00",
       "missing": 0
     },
-    "6MyK1o3DuQ76KR5gcx1r9AzTTHMEDLzChgbt7sj4pump": {
-      "symbol": "LASER",
-      "qty": 1250432.8836774349,
-      "entry_price": 3.9586290992623284e-05,
-      "last_price": 3.820023343986715e-05,
+    "4bWfSS5HpeQKtiXqwU9VenufCkzVLy37wkgtLvExpump": {
+      "symbol": "Wangchai",
+      "qty": 3286217.778966001,
+      "entry_price": 1.506290919513406e-05,
+      "last_price": 1.4516534661192801e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-15T16:03:31+00:00",
+      "entry_time": "2026-10-15T16:39:07+00:00",
+      "missing": 0
+    },
+    "6R7neRFJgFJDqLcEB91Sh3jbvkus1ib1L3qD8TGRpump": {
+      "symbol": "vs",
+      "qty": 4900591.747471081,
+      "entry_price": 1.0100820992800341e-05,
+      "last_price": 9.745208421897992e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T16:39:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T23:08:36+00:00",
-      "side": "sell",
-      "symbol": "CATHOLIC",
-      "address": "4W8djJyhz7BmrHFWsTws5F5GyXn7P9sfzkft4ep4pump",
-      "price": 3.00930947e-06,
-      "proceeds": 11.34,
-      "pnl_usd": -38.66,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T23:08:36+00:00",
-      "side": "sell",
-      "symbol": "SERVER",
-      "address": "RHaYKbMxWSiQVtfZSFvqcAiM5kGgg3wMehhVoVzpump",
-      "price": 3.094475471e-06,
-      "proceeds": 17.12,
-      "pnl_usd": -32.88,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T23:08:36+00:00",
-      "side": "sell",
-      "symbol": "$CAT",
-      "address": "J8z634CQ499ngzHW4CXwMvu379W9ogAyuvN9NBKGpump",
-      "price": 4.290339794e-05,
-      "proceeds": 63.14,
-      "pnl_usd": 13.14,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-12T23:08:36+00:00",
       "side": "sell",
@@ -4527,6 +4506,32 @@
       "address": "6MyK1o3DuQ76KR5gcx1r9AzTTHMEDLzChgbt7sj4pump",
       "price": 3.9586290992623284e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T16:39:07+00:00",
+      "side": "sell",
+      "symbol": "LASER",
+      "address": "6MyK1o3DuQ76KR5gcx1r9AzTTHMEDLzChgbt7sj4pump",
+      "price": 2.697828363e-07,
+      "proceeds": 0.32,
+      "pnl_usd": -49.68,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T16:39:07+00:00",
+      "side": "buy",
+      "symbol": "Wangchai",
+      "address": "4bWfSS5HpeQKtiXqwU9VenufCkzVLy37wkgtLvExpump",
+      "price": 1.506290919513406e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T16:39:07+00:00",
+      "side": "buy",
+      "symbol": "vs",
+      "address": "6R7neRFJgFJDqLcEB91Sh3jbvkus1ib1L3qD8TGRpump",
+      "price": 1.0100820992800341e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7149,6 +7154,10 @@
     {
       "date": "2026-10-15T16:03:31+00:00",
       "equity": 5891832.25
+    },
+    {
+      "date": "2026-10-15T16:39:07+00:00",
+      "equity": 5891780.29
     }
   ]
 }
