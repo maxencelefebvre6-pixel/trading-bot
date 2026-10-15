@@ -1,143 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5892324.308897899,
+  "cash": 5892215.172027591,
   "positions": {
-    "CGw3GX1xaMrSAqk6ZPauUe4ng4vxAbC7ncbrYtTWpump": {
-      "symbol": "HC",
-      "qty": 2744280.9206549143,
-      "entry_price": 1.8037511986268147e-05,
-      "last_price": 1.745288926e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T01:21:52+00:00",
-      "missing": 0
-    },
-    "E56toxW5PKjcAkGBiKfXjP2L6rCKVtKR4CDo7EDMpump": {
-      "symbol": "Spike",
-      "qty": 591995.5738321526,
-      "entry_price": 8.361549002735389e-05,
-      "last_price": 8.10684237355534e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T01:56:35+00:00",
-      "missing": 0
-    },
-    "Qc1psHQfYkq5zFKo993BDPmzcZevdaKHCSPoZYEpump": {
-      "symbol": "SpaceX",
-      "qty": 122254.43962321627,
-      "entry_price": 0.000404893271381859,
-      "last_price": 0.0003927324943057042,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T01:56:35+00:00",
-      "missing": 0
-    },
-    "4UP1kS13APtxE12oNJPJn4gvuryXhstcAeuWbnoTpump": {
-      "symbol": "ARCADE",
-      "qty": 4705057.120651597,
-      "entry_price": 1.0520594911108073e-05,
-      "last_price": 1.0127380467620003e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T01:56:35+00:00",
-      "missing": 0
-    },
-    "vgg49A2ug5WzcnKjAxLv5mEc6yWFwgp2o5MKSPupump": {
-      "symbol": "EUROMIND",
-      "qty": 617098.1344508813,
-      "entry_price": 8.021414623793521e-05,
-      "last_price": 7.76962767140299e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T01:56:35+00:00",
-      "missing": 0
-    },
     "6tymb9vUq1vq92BmTWGheK139dp3PcvnrLhVycG5pump": {
       "symbol": "MONY",
       "qty": 1927190.8507120612,
       "entry_price": 2.5685053445386933e-05,
-      "last_price": 2.487514614519874e-05,
+      "last_price": 2.487514615e-05,
       "cost": 50.0,
       "entry_time": "2026-10-15T01:56:35+00:00",
+      "missing": 0
+    },
+    "8YYqniNaddm8F3Zp5Q1h9mFdQUetpFcy8hk3KqCrpump": {
+      "symbol": "FTR",
+      "qty": 2359438.2416243847,
+      "entry_price": 2.0979570105603236e-05,
+      "last_price": 2.0202234456402844e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T02:29:31+00:00",
+      "missing": 0
+    },
+    "Ac5fmUxZwtjZVhTN1YVCppNzPFEFL9uyNQWpA6Wxpump": {
+      "symbol": "草泥马",
+      "qty": 10503062.998412626,
+      "entry_price": 4.712910891563838e-06,
+      "last_price": 4.535529415668184e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T02:29:31+00:00",
+      "missing": 0
+    },
+    "DuwUWGhpE9cvijLMz7hqdWgAxZLxkQGzQZdRHmSWpump": {
+      "symbol": "IPO",
+      "qty": 4075448.0752325654,
+      "entry_price": 1.2145903735302844e-05,
+      "last_price": 1.172836495319496e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T02:29:31+00:00",
+      "missing": 0
+    },
+    "5vcPXZBzfRpayGmQocqDwdv3P4JZnB5wbvjKNhv9pump": {
+      "symbol": "Sevda",
+      "qty": 18124540.138861533,
+      "entry_price": 2.731103775365043e-06,
+      "last_price": 2.6439669727753397e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T02:29:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T15:44:05+00:00",
-      "side": "buy",
-      "symbol": "TRILLIONS",
-      "address": "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump",
-      "price": 2.6413626611518975e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T15:44:05+00:00",
-      "side": "buy",
-      "symbol": "GOLDFISH",
-      "address": "iZvWBda4jkBGiYPHQBGhEGFcXssFBbX7w4A2iBbpump",
-      "price": 1.1262466299244615e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T15:44:05+00:00",
-      "side": "buy",
-      "symbol": "Chair",
-      "address": "FVwZpkW1WvyJhvfTcYoDceJ4jHcn24BvkfgACGP2pump",
-      "price": 4.911052022812629e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T16:03:38+00:00",
-      "side": "sell",
-      "symbol": "TRILLIONS",
-      "address": "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump",
-      "price": 2.047046445e-06,
-      "proceeds": 3.68,
-      "pnl_usd": -46.32,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T16:03:38+00:00",
-      "side": "sell",
-      "symbol": "GOLDFISH",
-      "address": "iZvWBda4jkBGiYPHQBGhEGFcXssFBbX7w4A2iBbpump",
-      "price": 3.144281902e-06,
-      "proceeds": 13.19,
-      "pnl_usd": -36.81,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T16:03:38+00:00",
-      "side": "sell",
-      "symbol": "Chair",
-      "address": "FVwZpkW1WvyJhvfTcYoDceJ4jHcn24BvkfgACGP2pump",
-      "price": 3.044219971e-06,
-      "proceeds": 29.08,
-      "pnl_usd": -20.92,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T16:03:38+00:00",
-      "side": "buy",
-      "symbol": "PNL",
-      "address": "EeJRGhYCeheEVeKU6XXJ466Qbv1GDwdwiHEwh1dJpump",
-      "price": 1.7852417835444593e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T16:27:49+00:00",
-      "side": "sell",
-      "symbol": "PNL",
-      "address": "EeJRGhYCeheEVeKU6XXJ466Qbv1GDwdwiHEwh1dJpump",
-      "price": 9.82578157e-06,
-      "proceeds": 25.93,
-      "pnl_usd": -24.07,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-12T16:27:50+00:00",
-      "side": "buy",
-      "symbol": "HIRE",
-      "address": "39VJr8ZkzRg4kYBZDZAk4mpAtBXJtqewfabWAgHMpump",
-      "price": 9.626803254025887e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T16:27:50+00:00",
       "side": "buy",
@@ -4551,6 +4462,88 @@
       "address": "6tymb9vUq1vq92BmTWGheK139dp3PcvnrLhVycG5pump",
       "price": 2.5685053445386933e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "sell",
+      "symbol": "HC",
+      "address": "CGw3GX1xaMrSAqk6ZPauUe4ng4vxAbC7ncbrYtTWpump",
+      "price": 1.745288926e-05,
+      "proceeds": 45.83,
+      "pnl_usd": -4.17,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "sell",
+      "symbol": "Spike",
+      "address": "E56toxW5PKjcAkGBiKfXjP2L6rCKVtKR4CDo7EDMpump",
+      "price": 9.333640838e-05,
+      "proceeds": 27.35,
+      "pnl_usd": -22.65,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "sell",
+      "symbol": "SpaceX",
+      "address": "Qc1psHQfYkq5zFKo993BDPmzcZevdaKHCSPoZYEpump",
+      "price": 1.836697336e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "sell",
+      "symbol": "ARCADE",
+      "address": "4UP1kS13APtxE12oNJPJn4gvuryXhstcAeuWbnoTpump",
+      "price": 3.635279363e-06,
+      "proceeds": 16.31,
+      "pnl_usd": -33.69,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "sell",
+      "symbol": "EUROMIND",
+      "address": "vgg49A2ug5WzcnKjAxLv5mEc6yWFwgp2o5MKSPupump",
+      "price": 1.961496605e-06,
+      "proceeds": 1.16,
+      "pnl_usd": -48.84,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "buy",
+      "symbol": "FTR",
+      "address": "8YYqniNaddm8F3Zp5Q1h9mFdQUetpFcy8hk3KqCrpump",
+      "price": 2.0979570105603236e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "buy",
+      "symbol": "草泥马",
+      "address": "Ac5fmUxZwtjZVhTN1YVCppNzPFEFL9uyNQWpA6Wxpump",
+      "price": 4.712910891563838e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "buy",
+      "symbol": "IPO",
+      "address": "DuwUWGhpE9cvijLMz7hqdWgAxZLxkQGzQZdRHmSWpump",
+      "price": 1.2145903735302844e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "side": "buy",
+      "symbol": "Sevda",
+      "address": "5vcPXZBzfRpayGmQocqDwdv3P4JZnB5wbvjKNhv9pump",
+      "price": 2.731103775365043e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7089,6 +7082,10 @@
     {
       "date": "2026-10-15T01:56:35+00:00",
       "equity": 5892611.75
+    },
+    {
+      "date": "2026-10-15T02:29:31+00:00",
+      "equity": 5892454.13
     }
   ]
 }
