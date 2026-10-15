@@ -1,85 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5891539.213695692,
+  "cash": 5891555.881627778,
   "positions": {
-    "TFi5VBJEiUNbWiMzCDATTPJWYfLSn8zSvNKtgCtpump": {
-      "symbol": "HAL9000",
-      "qty": 4890075.329008054,
-      "entry_price": 1.0122543451706094e-05,
-      "last_price": 9.743782095007461e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T17:50:42+00:00",
-      "missing": 0
-    },
-    "Scew3uVEUgVkcqfu3KYRPdyCcjkeLWanJLvoMptpump": {
-      "symbol": "Grok",
-      "qty": 203490.40611689142,
-      "entry_price": 0.00024325471133791737,
-      "last_price": 0.00023588621546343882,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T17:50:42+00:00",
-      "missing": 0
-    },
-    "Bwd4r4dRphpQv4Ys2C15avbGY5L1Pmhnfb9Ne3vapump": {
-      "symbol": "DCITY",
-      "qty": 3190779.2897070264,
-      "entry_price": 1.5513451575820223e-05,
-      "last_price": 1.496391861661464e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T17:50:42+00:00",
-      "missing": 0
-    },
     "3UbYDyR5QG193pDMuG9B53Ky9Sat9af37keP2Xq4pump": {
       "symbol": "BLOCK",
       "qty": 4688354.738446092,
       "entry_price": 1.055807479627838e-05,
-      "last_price": 1.0164815217052742e-05,
+      "last_price": 1.061739547e-05,
       "cost": 50.0,
       "entry_time": "2026-10-15T17:50:42+00:00",
+      "missing": 0
+    },
+    "FNtyvxABxCmbEMzyKYubDLVgKYmyzHs25SXTLDBopump": {
+      "symbol": "SPIDER",
+      "qty": 4938251.938729624,
+      "entry_price": 1.0023789918813655e-05,
+      "last_price": 9.648215335530064e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T18:19:46+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T23:50:49+00:00",
-      "side": "sell",
-      "symbol": "BOK",
-      "address": "Bb6dErRy6zuX4S2xToJdY7amnko9gG82x4YsKWSvpump",
-      "price": 1.129573592e-05,
-      "proceeds": 45.63,
-      "pnl_usd": -4.37,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T23:50:49+00:00",
-      "side": "sell",
-      "symbol": "MAYEM ASS",
-      "address": "ALDgN4vqrmxaQztkAqomGedQmjwPde4g5jW8P6fepump",
-      "price": 7.175417763e-06,
-      "proceeds": 45.35,
-      "pnl_usd": -4.65,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T23:50:49+00:00",
-      "side": "sell",
-      "symbol": "lptp",
-      "address": "BKX4uUJoAz2EZG9eCpb1q7RiRxyiGpd9jNLTCRjdpump",
-      "price": 1.652851449e-05,
-      "proceeds": 45.8,
-      "pnl_usd": -4.2,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-12T23:50:49+00:00",
-      "side": "sell",
-      "symbol": "MAYEM ASS",
-      "address": "7NNJCxisKbWMcF2mS2fDpQ68KMDc4YeGnQnUMzqdpump",
-      "price": 1.066705975e-05,
-      "proceeds": 45.61,
-      "pnl_usd": -4.39,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-12T23:50:49+00:00",
       "side": "sell",
@@ -4543,6 +4485,44 @@
       "address": "3UbYDyR5QG193pDMuG9B53Ky9Sat9af37keP2Xq4pump",
       "price": 1.055807479627838e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T18:19:46+00:00",
+      "side": "sell",
+      "symbol": "HAL9000",
+      "address": "TFi5VBJEiUNbWiMzCDATTPJWYfLSn8zSvNKtgCtpump",
+      "price": 3.048931663e-06,
+      "proceeds": 14.23,
+      "pnl_usd": -35.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T18:19:46+00:00",
+      "side": "sell",
+      "symbol": "Grok",
+      "address": "Scew3uVEUgVkcqfu3KYRPdyCcjkeLWanJLvoMptpump",
+      "price": 1.942697262e-06,
+      "proceeds": 0.38,
+      "pnl_usd": -49.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T18:19:46+00:00",
+      "side": "sell",
+      "symbol": "DCITY",
+      "address": "Bwd4r4dRphpQv4Ys2C15avbGY5L1Pmhnfb9Ne3vapump",
+      "price": 1.734912459e-05,
+      "proceeds": 52.06,
+      "pnl_usd": 2.06,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-15T18:19:46+00:00",
+      "side": "buy",
+      "symbol": "SPIDER",
+      "address": "FNtyvxABxCmbEMzyKYubDLVgKYmyzHs25SXTLDBopump",
+      "price": 1.0023789918813655e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7177,6 +7157,10 @@
     {
       "date": "2026-10-15T17:50:42+00:00",
       "equity": 5891730.26
+    },
+    {
+      "date": "2026-10-15T18:19:46+00:00",
+      "equity": 5891653.31
     }
   ]
 }
