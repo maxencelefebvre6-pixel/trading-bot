@@ -1,87 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5892570.418073325,
+  "cash": 5892600.056071617,
   "positions": {
-    "GncJHHWLLMfWNen2mH2uCFB5bfeojQ76EMkPNotTpump": {
-      "symbol": "@",
-      "qty": 4594560.195232704,
-      "entry_price": 1.0773610072920796e-05,
-      "last_price": 1.037915652e-05,
+    "7SPcsrLwYaRQvTB14SoApr1JPdRM3EERPUEKXyHspump": {
+      "symbol": "Eloncoin",
+      "qty": 7323200.252654598,
+      "entry_price": 6.75933994595555e-06,
+      "last_price": 6.5007287287821954e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-14T23:16:31+00:00",
-      "missing": 0
-    },
-    "7T2AxWrDm3jJieBqs55jvTXk4dLyK5BSyEvowHW3pump": {
-      "symbol": "XOGE",
-      "qty": 2904338.7356989994,
-      "entry_price": 1.7043466518407546e-05,
-      "last_price": 1.6470512154689596e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T00:05:43+00:00",
-      "missing": 0
-    },
-    "7WzmwZz6jRWvmjW1E99BHyptWi7BX5nDm4G6dVN7pump": {
-      "symbol": "FLOAT",
-      "qty": 2198244.882795218,
-      "entry_price": 2.251796439396569e-05,
-      "last_price": 2.170222344318409e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T00:05:43+00:00",
-      "missing": 0
-    },
-    "3S9J2fb8ehmFMbrtspCpjd1f7nrgeou2qZ7FuoRUpump": {
-      "symbol": "COGE",
-      "qty": 7094834.41470812,
-      "entry_price": 6.9769070152479975e-06,
-      "last_price": 6.712659810654892e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T00:05:43+00:00",
+      "entry_time": "2026-10-15T00:48:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T14:55:25+00:00",
-      "side": "sell",
-      "symbol": "FOMO",
-      "address": "Ktik2gETjeg4UUgVTqxi6ZyGusTxxrKrtvHkbihpump",
-      "price": 0.0006624243273,
-      "proceeds": 79.4,
-      "pnl_usd": 29.4,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-12T14:55:25+00:00",
-      "side": "buy",
-      "symbol": "CHAT",
-      "address": "EuGLZAaVjbK72wXn4ZrwmHtVNQjkGR9kJfiL9b14pump",
-      "price": 8.722659902934237e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T14:55:25+00:00",
-      "side": "buy",
-      "symbol": "LIQUID",
-      "address": "6or4Yiswoo3HvaugF4HAj6cn8miaV1u1U2nMHhpZpump",
-      "price": 8.693665430499409e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T14:55:25+00:00",
-      "side": "buy",
-      "symbol": "HLM",
-      "address": "7d9fx53hSnhVAgMQNAtayjQusZcpEvYeeZdA5oxgpump",
-      "price": 5.626579956130544e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T14:55:25+00:00",
-      "side": "buy",
-      "symbol": "SOLympic",
-      "address": "8FL815qZ5fuDmTTtTZp4tu8NzmKpY6z1GJvzqCqpump",
-      "price": 0.0004241375214136039,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-12T15:19:39+00:00",
       "side": "sell",
@@ -4537,6 +4468,54 @@
       "address": "3S9J2fb8ehmFMbrtspCpjd1f7nrgeou2qZ7FuoRUpump",
       "price": 6.9769070152479975e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T00:48:03+00:00",
+      "side": "sell",
+      "symbol": "@",
+      "address": "GncJHHWLLMfWNen2mH2uCFB5bfeojQ76EMkPNotTpump",
+      "price": 1.037915652e-05,
+      "proceeds": 45.43,
+      "pnl_usd": -4.57,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T00:48:03+00:00",
+      "side": "sell",
+      "symbol": "XOGE",
+      "address": "7T2AxWrDm3jJieBqs55jvTXk4dLyK5BSyEvowHW3pump",
+      "price": 3.398794276e-06,
+      "proceeds": 9.44,
+      "pnl_usd": -40.56,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T00:48:03+00:00",
+      "side": "sell",
+      "symbol": "FLOAT",
+      "address": "7WzmwZz6jRWvmjW1E99BHyptWi7BX5nDm4G6dVN7pump",
+      "price": 2.369303765e-06,
+      "proceeds": 4.98,
+      "pnl_usd": -45.02,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T00:48:03+00:00",
+      "side": "sell",
+      "symbol": "COGE",
+      "address": "3S9J2fb8ehmFMbrtspCpjd1f7nrgeou2qZ7FuoRUpump",
+      "price": 2.931171999e-06,
+      "proceeds": 19.79,
+      "pnl_usd": -30.21,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-15T00:48:03+00:00",
+      "side": "buy",
+      "symbol": "Eloncoin",
+      "address": "7SPcsrLwYaRQvTB14SoApr1JPdRM3EERPUEKXyHspump",
+      "price": 6.75933994595555e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7063,6 +7042,10 @@
     {
       "date": "2026-10-15T00:05:43+00:00",
       "equity": 5892761.27
+    },
+    {
+      "date": "2026-10-15T00:48:03+00:00",
+      "equity": 5892647.66
     }
   ]
 }
