@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5892300.226808979,
+  "cash": 5892245.875746305,
   "positions": {
-    "DuwUWGhpE9cvijLMz7hqdWgAxZLxkQGzQZdRHmSWpump": {
-      "symbol": "IPO",
-      "qty": 4075448.0752325654,
-      "entry_price": 1.2145903735302844e-05,
-      "last_price": 1.172836495e-05,
+    "4aMD7TAujKhojDpw4Kgs7xbF4AKycfH9Mr8ehqzzpump": {
+      "symbol": "BATFISH",
+      "qty": 3077513.247828373,
+      "entry_price": 1.608441492004278e-05,
+      "last_price": 1.5502604825317998e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-15T02:29:31+00:00",
+      "entry_time": "2026-10-15T03:35:18+00:00",
+      "missing": 0
+    },
+    "zYVTftiKKakpUjrBb14Dvuwh7H4q3CXBzLjCGWrpump": {
+      "symbol": "Marie",
+      "qty": 1072875.7247630926,
+      "entry_price": 4.613768291842968e-05,
+      "last_price": 4.466020059644294e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-15T03:35:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-12T16:50:51+00:00",
-      "side": "buy",
-      "symbol": "CLASH",
-      "address": "GN7cWyFmRKumV4EQnMTTTeUqcXa44nn5s4yjKXMZpump",
-      "price": 7.789762149991216e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T16:50:51+00:00",
-      "side": "buy",
-      "symbol": "NOTHING",
-      "address": "2GhBiy6craxqp7fA1JTU5641itRGsJWZ7ma6eViGpump",
-      "price": 1.652332276789312e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-12T17:07:58+00:00",
-      "side": "sell",
-      "symbol": "Anyware",
-      "address": "Dvs1b7bnmNLjqCMF2UauzeFtbDWmpdaqirrmydTqpump",
-      "price": 3.144403055e-06,
-      "proceeds": 7.89,
-      "pnl_usd": -42.11,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-12T17:07:58+00:00",
       "side": "sell",
@@ -4512,6 +4495,32 @@
       "proceeds": 0.09,
       "pnl_usd": -49.91,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-15T03:35:18+00:00",
+      "side": "sell",
+      "symbol": "IPO",
+      "address": "DuwUWGhpE9cvijLMz7hqdWgAxZLxkQGzQZdRHmSWpump",
+      "price": 1.172836495e-05,
+      "proceeds": 45.65,
+      "pnl_usd": -4.35,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-15T03:35:18+00:00",
+      "side": "buy",
+      "symbol": "BATFISH",
+      "address": "4aMD7TAujKhojDpw4Kgs7xbF4AKycfH9Mr8ehqzzpump",
+      "price": 1.608441492004278e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-15T03:35:18+00:00",
+      "side": "buy",
+      "symbol": "Marie",
+      "address": "zYVTftiKKakpUjrBb14Dvuwh7H4q3CXBzLjCGWrpump",
+      "price": 4.613768291842968e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7058,6 +7067,10 @@
     {
       "date": "2026-10-15T03:02:45+00:00",
       "equity": 5892348.03
+    },
+    {
+      "date": "2026-10-15T03:35:18+00:00",
+      "equity": 5892341.5
     }
   ]
 }
