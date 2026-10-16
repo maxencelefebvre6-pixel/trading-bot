@@ -1,26 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5890791.33770167,
+  "cash": 5890741.33770167,
   "positions": {
     "AYtRssFASJxzZ2RgAkLP4Wn5LbF5hPMw411rzwkbpump": {
       "symbol": "PTR",
       "qty": 18896282.813924275,
       "entry_price": 2.6195628255269595e-06,
-      "last_price": 2.536860434692238e-06,
+      "last_price": 2.52460392e-06,
       "cost": 50.0,
       "entry_time": "2026-10-16T07:09:24+00:00",
+      "missing": 0
+    },
+    "2qLtXjbwJCYtEtuV89YrcS4ZdS3qC4jxHXaQkc2Kpump": {
+      "symbol": "WeBallin",
+      "qty": 5534431.5737374555,
+      "entry_price": 8.944007951040972e-06,
+      "last_price": 8.621243144198036e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T07:48:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T09:41:47+00:00",
-      "side": "buy",
-      "symbol": "SL",
-      "address": "6HiKnYt5UxhPG9jRCsYVtezNTLNmEnvNs8YHxKf3pump",
-      "price": 5.11317096198133e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T09:41:47+00:00",
       "side": "buy",
@@ -4512,6 +4513,14 @@
       "address": "AYtRssFASJxzZ2RgAkLP4Wn5LbF5hPMw411rzwkbpump",
       "price": 2.6195628255269595e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T07:48:30+00:00",
+      "side": "buy",
+      "symbol": "WeBallin",
+      "address": "2qLtXjbwJCYtEtuV89YrcS4ZdS3qC4jxHXaQkc2Kpump",
+      "price": 8.944007951040972e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7242,6 +7251,10 @@
     {
       "date": "2026-10-16T07:09:24+00:00",
       "equity": 5890839.27
+    },
+    {
+      "date": "2026-10-16T07:48:30+00:00",
+      "equity": 5890836.76
     }
   ]
 }
