@@ -1,45 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5890488.784598023,
-  "positions": {
-    "C4Y1vBHZiZ1EpgzzryjddHLBBFaAzpaJ66LZSCxHpump": {
-      "symbol": "pmupeee",
-      "qty": 6165992.588332172,
-      "entry_price": 8.027904557275696e-06,
-      "last_price": 7.723299421e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T11:14:04+00:00",
-      "missing": 0
-    },
-    "HnWdpQcmBLTYoGXFxz5GPk9HhYzFcHzan94ndErbpump": {
-      "symbol": "oldgame",
-      "qty": 5295526.213336429,
-      "entry_price": 9.34751297714995e-06,
-      "last_price": 8.984553315e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T11:14:04+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5890579.452846122,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-13T12:32:58+00:00",
-      "side": "buy",
-      "symbol": "AERIA",
-      "address": "9y32uxQSC2cShXPHZrULHe7sc3kPYDwAm6rwSiR2pump",
-      "price": 1.0664392640081831e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T13:04:49+00:00",
-      "side": "sell",
-      "symbol": "AERIA",
-      "address": "9y32uxQSC2cShXPHZrULHe7sc3kPYDwAm6rwSiR2pump",
-      "price": 3.075534134e-06,
-      "proceeds": 13.63,
-      "pnl_usd": -36.37,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-13T13:04:49+00:00",
       "side": "buy",
@@ -4519,6 +4482,26 @@
       "proceeds": 9.75,
       "pnl_usd": -40.25,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T12:22:20+00:00",
+      "side": "sell",
+      "symbol": "pmupeee",
+      "address": "C4Y1vBHZiZ1EpgzzryjddHLBBFaAzpaJ66LZSCxHpump",
+      "price": 7.723299421e-06,
+      "proceeds": 45.31,
+      "pnl_usd": -4.69,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-16T12:22:20+00:00",
+      "side": "sell",
+      "symbol": "oldgame",
+      "address": "HnWdpQcmBLTYoGXFxz5GPk9HhYzFcHzan94ndErbpump",
+      "price": 8.984553315e-06,
+      "proceeds": 45.36,
+      "pnl_usd": -4.64,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -7281,6 +7264,10 @@
     {
       "date": "2026-10-16T11:51:34+00:00",
       "equity": 5890583.98
+    },
+    {
+      "date": "2026-10-16T12:22:20+00:00",
+      "equity": 5890579.45
     }
   ]
 }
