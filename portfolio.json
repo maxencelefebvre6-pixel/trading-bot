@@ -1,90 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5891158.921040971,
+  "cash": 5891178.4087279895,
   "positions": {
-    "9f5MXLm38fUnrfre4SAVsiuZh4XJTq5usZATY3KUpump": {
-      "symbol": "1",
-      "qty": 583311.263400849,
-      "entry_price": 8.486035347818034e-05,
-      "last_price": 8.227628959014998e-05,
+    "74uhN5HrtdYesd6YqB28zbrxntooy26zM15G6zRypump": {
+      "symbol": "FTR",
+      "qty": 1668410.4748694436,
+      "entry_price": 2.966895781679474e-05,
+      "last_price": 2.8623848324372385e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-16T00:42:44+00:00",
+      "entry_time": "2026-10-16T01:18:04+00:00",
       "missing": 0
     },
-    "9yDK2JjjwtUoNLXe7oYexU2BXkBmmuJEoF9awFNbpump": {
-      "symbol": "FOMOWEEN",
-      "qty": 123469.9658193116,
-      "entry_price": 0.00040090721392471495,
-      "last_price": 0.00038886646613334126,
+    "HEF3UUp9zSzLYFShS7bWqQ1QMq4d6wGyWecWXWq3pump": {
+      "symbol": "FTR",
+      "qty": 5248363.799057481,
+      "entry_price": 9.43151082798212e-06,
+      "last_price": 9.075254412375478e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-16T00:42:44+00:00",
+      "entry_time": "2026-10-16T01:18:04+00:00",
       "missing": 0
     },
-    "9HmC4jXxkaFchQHQEy873oA3bCcpGziz1hW7aP14pump": {
-      "symbol": "DRAINLOVE",
-      "qty": 853661.4404086777,
-      "entry_price": 5.798551704092739e-05,
-      "last_price": 5.615641040850592e-05,
+    "7Kp8Z4aryqL9Njz4X3KXvjrFP2Cm8n59cHkbxb1epump": {
+      "symbol": "$BYD",
+      "qty": 7416180.064372447,
+      "entry_price": 6.674595218878179e-06,
+      "last_price": 6.418079317816334e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-16T00:42:44+00:00",
+      "entry_time": "2026-10-16T01:18:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T06:12:22+00:00",
-      "side": "sell",
-      "symbol": "$CAT",
-      "address": "PLMpytuAw4LWrJsLhnahHjSnwR5N6QaQamrWhd1pump",
-      "price": 1.011010662e-05,
-      "proceeds": 45.58,
-      "pnl_usd": -4.42,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-13T06:12:22+00:00",
-      "side": "sell",
-      "symbol": "Topless",
-      "address": "FL4B8VKuZhiGXfawvrMP4HT9o1X8M4DbtDc1Bcz9pump",
-      "price": 4.681593007e-06,
-      "proceeds": 22.11,
-      "pnl_usd": -27.89,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-13T06:12:22+00:00",
-      "side": "sell",
-      "symbol": "Nietzsche",
-      "address": "8zdEJyFyqRAq7kZJY4MdcZCRVfBGS6MQ31qd4YTPpump",
-      "price": 4.912477573e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T06:48:00+00:00",
-      "side": "buy",
-      "symbol": "PLAYSET",
-      "address": "3msLQYFFnkNWamSBEB4wxS7xbFkEmNAnjMKi6sBbpump",
-      "price": 8.746764212635367e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T06:48:00+00:00",
-      "side": "buy",
-      "symbol": "Raccoon",
-      "address": "ZSQhojF6qe6jhJggETrimLCgVePzLCoAwkPJaTHpump",
-      "price": 6.56302224700975e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T06:48:00+00:00",
-      "side": "buy",
-      "symbol": "ZebraCat",
-      "address": "92kqVMvPELzwZVM8ex3G5UKWiCBLN81er1fgp4yipump",
-      "price": 1.6217259494482838e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T06:48:00+00:00",
       "side": "buy",
@@ -4530,6 +4476,60 @@
       "address": "9HmC4jXxkaFchQHQEy873oA3bCcpGziz1hW7aP14pump",
       "price": 5.798551704092739e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T01:18:03+00:00",
+      "side": "sell",
+      "symbol": "1",
+      "address": "9f5MXLm38fUnrfre4SAVsiuZh4XJTq5usZATY3KUpump",
+      "price": 4.792730286e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-16T01:18:03+00:00",
+      "side": "sell",
+      "symbol": "FOMOWEEN",
+      "address": "9yDK2JjjwtUoNLXe7oYexU2BXkBmmuJEoF9awFNbpump",
+      "price": 2.114205719e-06,
+      "proceeds": 0.25,
+      "pnl_usd": -49.75,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-16T01:18:03+00:00",
+      "side": "sell",
+      "symbol": "DRAINLOVE",
+      "address": "9HmC4jXxkaFchQHQEy873oA3bCcpGziz1hW7aP14pump",
+      "price": 0.0002074985279,
+      "proceeds": 169.24,
+      "pnl_usd": 119.24,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-16T01:18:04+00:00",
+      "side": "buy",
+      "symbol": "FTR",
+      "address": "74uhN5HrtdYesd6YqB28zbrxntooy26zM15G6zRypump",
+      "price": 2.966895781679474e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T01:18:04+00:00",
+      "side": "buy",
+      "symbol": "FTR",
+      "address": "HEF3UUp9zSzLYFShS7bWqQ1QMq4d6wGyWecWXWq3pump",
+      "price": 9.43151082798212e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T01:18:04+00:00",
+      "side": "buy",
+      "symbol": "$BYD",
+      "address": "7Kp8Z4aryqL9Njz4X3KXvjrFP2Cm8n59cHkbxb1epump",
+      "price": 6.674595218878179e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7216,6 +7216,10 @@
     {
       "date": "2026-10-16T00:42:44+00:00",
       "equity": 5891302.87
+    },
+    {
+      "date": "2026-10-16T01:18:04+00:00",
+      "equity": 5891321.39
     }
   ]
 }
