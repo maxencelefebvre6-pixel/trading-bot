@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5891231.560606893,
+  "cash": 5891176.82083318,
   "positions": {
-    "7Kp8Z4aryqL9Njz4X3KXvjrFP2Cm8n59cHkbxb1epump": {
-      "symbol": "$BYD",
-      "qty": 7416180.064372447,
-      "entry_price": 6.674595218878179e-06,
-      "last_price": 6.418079318e-06,
+    "84AaE16zkQ97UqeRsbZwkkDQJn9L3v4nUqrMMZ3Xpump": {
+      "symbol": "SUPERCYCLE",
+      "qty": 1406872.5041673812,
+      "entry_price": 3.518442492363245e-05,
+      "last_price": 3.405292945587228e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-16T01:18:04+00:00",
+      "entry_time": "2026-10-16T02:21:43+00:00",
+      "missing": 0
+    },
+    "9dnw7GPcvjyMHJYafkxSj1GDcWxN6v9fPSKhD4TSpump": {
+      "symbol": "$CCOW",
+      "qty": 1046166.1098307656,
+      "entry_price": 4.7315621806949406e-05,
+      "last_price": 4.585022278218096e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T02:21:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T07:11:57+00:00",
-      "side": "sell",
-      "symbol": "Raccoon",
-      "address": "ZSQhojF6qe6jhJggETrimLCgVePzLCoAwkPJaTHpump",
-      "price": 2.07503262e-06,
-      "proceeds": 1.5,
-      "pnl_usd": -48.5,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T07:11:57+00:00",
-      "side": "buy",
-      "symbol": "VS",
-      "address": "88jm4YqwjQjb29Sjjah3QmuU5d5uU1i8edDnDMLNpump",
-      "price": 4.781139022561729e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T07:11:57+00:00",
-      "side": "buy",
-      "symbol": "Barnacles",
-      "address": "EMifbuJUVMMrehHw97eNuhACY424w6KJPt5A4R9ppump",
-      "price": 9.549944783033808e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T07:11:57+00:00",
       "side": "buy",
@@ -4514,6 +4497,32 @@
       "proceeds": 14.83,
       "pnl_usd": -35.17,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T02:21:43+00:00",
+      "side": "sell",
+      "symbol": "$BYD",
+      "address": "7Kp8Z4aryqL9Njz4X3KXvjrFP2Cm8n59cHkbxb1epump",
+      "price": 6.418079318e-06,
+      "proceeds": 45.26,
+      "pnl_usd": -4.74,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-16T02:21:43+00:00",
+      "side": "buy",
+      "symbol": "SUPERCYCLE",
+      "address": "84AaE16zkQ97UqeRsbZwkkDQJn9L3v4nUqrMMZ3Xpump",
+      "price": 3.518442492363245e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T02:21:43+00:00",
+      "side": "buy",
+      "symbol": "$CCOW",
+      "address": "9dnw7GPcvjyMHJYafkxSj1GDcWxN6v9fPSKhD4TSpump",
+      "price": 4.7315621806949406e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7208,6 +7217,10 @@
     {
       "date": "2026-10-16T01:51:53+00:00",
       "equity": 5891279.16
+    },
+    {
+      "date": "2026-10-16T02:21:43+00:00",
+      "equity": 5891272.7
     }
   ]
 }
