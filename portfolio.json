@@ -1,99 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5890952.028415855,
+  "cash": 5890946.591761426,
   "positions": {
-    "7Sj1bXb51FRt2H5NZbJ14ZkNMvvcN7aUuvQDzRTwpump": {
-      "symbol": "RL",
-      "qty": 15351607.528951103,
-      "entry_price": 3.2244180231060196e-06,
-      "last_price": 2.95000477e-06,
+    "AP4PMz21bbhtsgzTDP2c6SykyiCsDomdfjdcXLeipump": {
+      "symbol": "QUACK",
+      "qty": 886720.0377796318,
+      "entry_price": 5.5823707473611606e-05,
+      "last_price": 5.4049889695486267e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-16T02:57:56+00:00",
+      "entry_time": "2026-10-16T04:07:13+00:00",
       "missing": 0
     },
-    "rSVfkNQMvmFXKmJTjDZyfZxj7aspe35W2PWfrH7pump": {
-      "symbol": "COIN",
-      "qty": 6466490.954939006,
-      "entry_price": 7.654847172127051e-06,
-      "last_price": 7.369611251e-06,
+    "9BRZfnadiVT47SQeErzZqgH2BTpWNGVMMxvGaeBipump": {
+      "symbol": "CHIMP",
+      "qty": 6140982.79669264,
+      "entry_price": 8.06059903419031e-06,
+      "last_price": 7.787828215789118e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-16T02:57:56+00:00",
-      "missing": 0
-    },
-    "hps4Xy4goXuV9zxdTAuF35tN58Gpks8Ho5zX529pump": {
-      "symbol": "123456",
-      "qty": 2286622.1574590527,
-      "entry_price": 2.164765168505388e-05,
-      "last_price": 2.0884356784528047e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T03:31:00+00:00",
-      "missing": 0
-    },
-    "7uGU4yHFGwAGSq7Rdn1FNAgT6pZNGUr1ZCzNHNqkpump": {
-      "symbol": "LUMINOUS",
-      "qty": 950852.7750193612,
-      "entry_price": 5.20585324042327e-05,
-      "last_price": 5.038931498460564e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T03:31:00+00:00",
+      "entry_time": "2026-10-16T04:07:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T08:02:44+00:00",
-      "side": "buy",
-      "symbol": "MoonLoot",
-      "address": "EvNHSkvaNRjPjpSmF5rRQe144E6aRtyFgt2r989zpump",
-      "price": 2.2409016676003553e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T08:30:34+00:00",
-      "side": "sell",
-      "symbol": "IDK",
-      "address": "JBRrQWkY2MezM4ahoBs9d7zDLBpUkxpgfLTVuf7fpump",
-      "price": 2.962146068e-05,
-      "proceeds": 45.96,
-      "pnl_usd": -4.04,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-13T08:30:34+00:00",
-      "side": "sell",
-      "symbol": "ERDOS",
-      "address": "CpAVRzomDddXqfvws2g7vgTN2PHPQo33NJbR9kpXpump",
-      "price": 4.432073771e-05,
-      "proceeds": 11.48,
-      "pnl_usd": -38.52,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T08:30:34+00:00",
-      "side": "sell",
-      "symbol": "nonce",
-      "address": "f8q4i5kBoLScPDGEwR7pmfxsKE2TayVky58gDbjpump",
-      "price": 4.930801819e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T08:30:34+00:00",
-      "side": "buy",
-      "symbol": "Shakeen",
-      "address": "BUcU4oxf5SGVQ9ti8QPuh1DKGwdWiMqk5Pnd34TBpump",
-      "price": 5.521699268761026e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T08:30:34+00:00",
-      "side": "buy",
-      "symbol": "100001",
-      "address": "H1kdSvRRHGQ8ME2Gwp8nsXs8vh3t4ai2dkUkPFiYpump",
-      "price": 6.796135985688382e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T08:55:05+00:00",
       "side": "sell",
@@ -4539,6 +4467,62 @@
       "address": "7uGU4yHFGwAGSq7Rdn1FNAgT6pZNGUr1ZCzNHNqkpump",
       "price": 5.20585324042327e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T04:07:13+00:00",
+      "side": "sell",
+      "symbol": "RL",
+      "address": "7Sj1bXb51FRt2H5NZbJ14ZkNMvvcN7aUuvQDzRTwpump",
+      "price": 2.95000477e-06,
+      "proceeds": 42.62,
+      "pnl_usd": -7.38,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-16T04:07:13+00:00",
+      "side": "sell",
+      "symbol": "COIN",
+      "address": "rSVfkNQMvmFXKmJTjDZyfZxj7aspe35W2PWfrH7pump",
+      "price": 7.369611251e-06,
+      "proceeds": 45.37,
+      "pnl_usd": -4.63,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-16T04:07:13+00:00",
+      "side": "sell",
+      "symbol": "123456",
+      "address": "hps4Xy4goXuV9zxdTAuF35tN58Gpks8Ho5zX529pump",
+      "price": 2.086724955e-06,
+      "proceeds": 4.54,
+      "pnl_usd": -45.46,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-16T04:07:13+00:00",
+      "side": "sell",
+      "symbol": "LUMINOUS",
+      "address": "7uGU4yHFGwAGSq7Rdn1FNAgT6pZNGUr1ZCzNHNqkpump",
+      "price": 2.226867504e-06,
+      "proceeds": 2.03,
+      "pnl_usd": -47.97,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-16T04:07:13+00:00",
+      "side": "buy",
+      "symbol": "QUACK",
+      "address": "AP4PMz21bbhtsgzTDP2c6SykyiCsDomdfjdcXLeipump",
+      "price": 5.5823707473611606e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T04:07:13+00:00",
+      "side": "buy",
+      "symbol": "CHIMP",
+      "address": "9BRZfnadiVT47SQeErzZqgH2BTpWNGVMMxvGaeBipump",
+      "price": 8.06059903419031e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7245,6 +7229,10 @@
     {
       "date": "2026-10-16T03:31:00+00:00",
       "equity": 5891140.64
+    },
+    {
+      "date": "2026-10-16T04:07:13+00:00",
+      "equity": 5891042.34
     }
   ]
 }
