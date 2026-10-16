@@ -1,34 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5890516.135795458,
+  "cash": 5890467.812100486,
   "positions": {
-    "DVs8tczNxEd8ALzLx4389xeL8sbiu4JgMJAReUUrpump": {
-      "symbol": "SwordCat",
-      "qty": 2517890.7128321975,
-      "entry_price": 1.965931235526936e-05,
-      "last_price": 1.9014150363058076e-05,
+    "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump": {
+      "symbol": "FTC",
+      "qty": 284583.0067618535,
+      "entry_price": 0.00017393870619064367,
+      "last_price": 0.00016862301255905592,
       "cost": 50.0,
-      "entry_time": "2026-10-16T16:50:53+00:00",
+      "entry_time": "2026-10-16T17:18:10+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T14:29:43+00:00",
-      "side": "buy",
-      "symbol": "paper",
-      "address": "22KAAJ1MgtGBvL9LbHxcNykpmuXCVt6Scwp8gtv2pump",
-      "price": 1.615749884776303e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T14:29:43+00:00",
-      "side": "buy",
-      "symbol": "EVIL",
-      "address": "AvkPCyXYS84rqDz3KBPgcF9jgxAZ5rhUanpnDvdGpump",
-      "price": 1.0317375516832019e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T14:29:43+00:00",
       "side": "buy",
@@ -4512,6 +4496,24 @@
       "address": "DVs8tczNxEd8ALzLx4389xeL8sbiu4JgMJAReUUrpump",
       "price": 1.965931235526936e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T17:18:09+00:00",
+      "side": "sell",
+      "symbol": "SwordCat",
+      "address": "DVs8tczNxEd8ALzLx4389xeL8sbiu4JgMJAReUUrpump",
+      "price": 6.959392125e-07,
+      "proceeds": 1.68,
+      "pnl_usd": -48.32,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-16T17:18:10+00:00",
+      "side": "buy",
+      "symbol": "FTC",
+      "address": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
+      "price": 0.00017393870619064367,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7294,6 +7296,10 @@
     {
       "date": "2026-10-16T16:50:53+00:00",
       "equity": 5890564.01
+    },
+    {
+      "date": "2026-10-16T17:18:10+00:00",
+      "equity": 5890515.8
     }
   ]
 }
