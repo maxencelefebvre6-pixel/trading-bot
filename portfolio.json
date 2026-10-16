@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5891035.131608953,
+  "cash": 5890952.028415855,
   "positions": {
-    "FH97vqEMTUULeox7iP3S2sXcCutdHHWGfpi92rxVpump": {
-      "symbol": "ASS",
-      "qty": 4673954.080874512,
-      "entry_price": 1.0590604687913064e-05,
-      "last_price": 1.0189658404476843e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T02:57:56+00:00",
-      "missing": 0
-    },
     "7Sj1bXb51FRt2H5NZbJ14ZkNMvvcN7aUuvQDzRTwpump": {
       "symbol": "RL",
       "qty": 15351607.528951103,
       "entry_price": 3.2244180231060196e-06,
-      "last_price": 3.107221294772079e-06,
+      "last_price": 2.95000477e-06,
       "cost": 50.0,
       "entry_time": "2026-10-16T02:57:56+00:00",
       "missing": 0
@@ -24,39 +15,31 @@
       "symbol": "COIN",
       "qty": 6466490.954939006,
       "entry_price": 7.654847172127051e-06,
-      "last_price": 7.369611251467087e-06,
+      "last_price": 7.369611251e-06,
       "cost": 50.0,
       "entry_time": "2026-10-16T02:57:56+00:00",
+      "missing": 0
+    },
+    "hps4Xy4goXuV9zxdTAuF35tN58Gpks8Ho5zX529pump": {
+      "symbol": "123456",
+      "qty": 2286622.1574590527,
+      "entry_price": 2.164765168505388e-05,
+      "last_price": 2.0884356784528047e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T03:31:00+00:00",
+      "missing": 0
+    },
+    "7uGU4yHFGwAGSq7Rdn1FNAgT6pZNGUr1ZCzNHNqkpump": {
+      "symbol": "LUMINOUS",
+      "qty": 950852.7750193612,
+      "entry_price": 5.20585324042327e-05,
+      "last_price": 5.038931498460564e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T03:31:00+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T08:02:44+00:00",
-      "side": "sell",
-      "symbol": "FHC",
-      "address": "HQ2cky3ugfWuomda4Yaa5mBCQBRmwdVR6GGtvkhPpump",
-      "price": 6.584920633e-06,
-      "proceeds": 45.26,
-      "pnl_usd": -4.74,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-13T08:02:44+00:00",
-      "side": "buy",
-      "symbol": "ERDOS",
-      "address": "CpAVRzomDddXqfvws2g7vgTN2PHPQo33NJbR9kpXpump",
-      "price": 9.457123603247496e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T08:02:44+00:00",
-      "side": "buy",
-      "symbol": "nonce",
-      "address": "f8q4i5kBoLScPDGEwR7pmfxsKE2TayVky58gDbjpump",
-      "price": 8.776847618557217e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T08:02:44+00:00",
       "side": "buy",
@@ -4530,6 +4513,32 @@
       "address": "rSVfkNQMvmFXKmJTjDZyfZxj7aspe35W2PWfrH7pump",
       "price": 7.654847172127051e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T03:31:00+00:00",
+      "side": "sell",
+      "symbol": "ASS",
+      "address": "FH97vqEMTUULeox7iP3S2sXcCutdHHWGfpi92rxVpump",
+      "price": 3.792400184e-06,
+      "proceeds": 16.9,
+      "pnl_usd": -33.1,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T03:31:00+00:00",
+      "side": "buy",
+      "symbol": "123456",
+      "address": "hps4Xy4goXuV9zxdTAuF35tN58Gpks8Ho5zX529pump",
+      "price": 2.164765168505388e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T03:31:00+00:00",
+      "side": "buy",
+      "symbol": "LUMINOUS",
+      "address": "7uGU4yHFGwAGSq7Rdn1FNAgT6pZNGUr1ZCzNHNqkpump",
+      "price": 5.20585324042327e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7232,6 +7241,10 @@
     {
       "date": "2026-10-16T02:57:56+00:00",
       "equity": 5891178.11
+    },
+    {
+      "date": "2026-10-16T03:31:00+00:00",
+      "equity": 5891140.64
     }
   ]
 }
