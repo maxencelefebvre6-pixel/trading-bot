@@ -1,26 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5890542.773060637,
-  "positions": {},
+  "cash": 5890442.773060637,
+  "positions": {
+    "8ZQspAwv9ZAov2VTuXGRAA717ABsLttyoTQVjviwpump": {
+      "symbol": "YASX",
+      "qty": 3273418.575120365,
+      "entry_price": 1.512180580150214e-05,
+      "last_price": 1.4568066626070109e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T21:35:10+00:00",
+      "missing": 0
+    },
+    "CWqVwX5r3iG6GgD8bSGtYbWUjSLHZVA63hbFeD98pump": {
+      "symbol": "Chud",
+      "qty": 2045608.0634506987,
+      "entry_price": 2.4198183847838064e-05,
+      "last_price": 2.3430070207720376e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T21:35:10+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-13T15:22:05+00:00",
-      "side": "buy",
-      "symbol": "FUCK",
-      "address": "7psNUxv4RgYrDG8ydRdPPzN5c76LX2gVwanjesrVpump",
-      "price": 8.70254781922172e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T15:47:27+00:00",
-      "side": "sell",
-      "symbol": "EVIL",
-      "address": "AvkPCyXYS84rqDz3KBPgcF9jgxAZ5rhUanpnDvdGpump",
-      "price": 9.932150291e-06,
-      "proceeds": 45.36,
-      "pnl_usd": -4.64,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-13T15:47:27+00:00",
       "side": "sell",
@@ -4504,6 +4505,22 @@
       "proceeds": 59.27,
       "pnl_usd": 9.27,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-16T21:35:10+00:00",
+      "side": "buy",
+      "symbol": "YASX",
+      "address": "8ZQspAwv9ZAov2VTuXGRAA717ABsLttyoTQVjviwpump",
+      "price": 1.512180580150214e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T21:35:10+00:00",
+      "side": "buy",
+      "symbol": "Chud",
+      "address": "CWqVwX5r3iG6GgD8bSGtYbWUjSLHZVA63hbFeD98pump",
+      "price": 2.4198183847838064e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7310,6 +7327,10 @@
     {
       "date": "2026-10-16T20:31:04+00:00",
       "equity": 5890542.77
+    },
+    {
+      "date": "2026-10-16T21:35:10+00:00",
+      "equity": 5890538.39
     }
   ]
 }
