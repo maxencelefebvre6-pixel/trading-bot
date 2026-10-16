@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5890483.5046004,
-  "positions": {
-    "82xQgv8JVw4fqATDvSVjHjZMiax23mk5HABpC4xapump": {
-      "symbol": "妙脆角猫",
-      "qty": 5680606.208548463,
-      "entry_price": 8.71385872963873e-06,
-      "last_price": 8.382383692710136e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T19:01:07+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5890542.773060637,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-13T15:22:04+00:00",
-      "side": "sell",
-      "symbol": "Mesk",
-      "address": "CCVTL4FEVJY1Vd4nxDeA4X7f4StLr8NLYc1ZQ4Cspump",
-      "price": 3.36500043e-06,
-      "proceeds": 17.69,
-      "pnl_usd": -32.31,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-13T15:22:05+00:00",
       "side": "buy",
@@ -4514,6 +4494,16 @@
       "address": "82xQgv8JVw4fqATDvSVjHjZMiax23mk5HABpC4xapump",
       "price": 8.71385872963873e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T19:32:44+00:00",
+      "side": "sell",
+      "symbol": "妙脆角猫",
+      "address": "82xQgv8JVw4fqATDvSVjHjZMiax23mk5HABpC4xapump",
+      "price": 1.111818727e-05,
+      "proceeds": 59.27,
+      "pnl_usd": 9.27,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
@@ -7312,6 +7302,10 @@
     {
       "date": "2026-10-16T19:01:07+00:00",
       "equity": 5890531.12
+    },
+    {
+      "date": "2026-10-16T19:32:44+00:00",
+      "equity": 5890542.77
     }
   ]
 }
