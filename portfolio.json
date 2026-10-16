@@ -1,54 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5891178.4087279895,
+  "cash": 5891231.560606893,
   "positions": {
-    "74uhN5HrtdYesd6YqB28zbrxntooy26zM15G6zRypump": {
-      "symbol": "FTR",
-      "qty": 1668410.4748694436,
-      "entry_price": 2.966895781679474e-05,
-      "last_price": 2.8623848324372385e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T01:18:04+00:00",
-      "missing": 0
-    },
-    "HEF3UUp9zSzLYFShS7bWqQ1QMq4d6wGyWecWXWq3pump": {
-      "symbol": "FTR",
-      "qty": 5248363.799057481,
-      "entry_price": 9.43151082798212e-06,
-      "last_price": 9.075254412375478e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T01:18:04+00:00",
-      "missing": 0
-    },
     "7Kp8Z4aryqL9Njz4X3KXvjrFP2Cm8n59cHkbxb1epump": {
       "symbol": "$BYD",
       "qty": 7416180.064372447,
       "entry_price": 6.674595218878179e-06,
-      "last_price": 6.418079317816334e-06,
+      "last_price": 6.418079318e-06,
       "cost": 50.0,
       "entry_time": "2026-10-16T01:18:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T06:48:00+00:00",
-      "side": "buy",
-      "symbol": "FHC",
-      "address": "HQ2cky3ugfWuomda4Yaa5mBCQBRmwdVR6GGtvkhPpump",
-      "price": 6.847971707158528e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T07:11:57+00:00",
-      "side": "sell",
-      "symbol": "PLAYSET",
-      "address": "3msLQYFFnkNWamSBEB4wxS7xbFkEmNAnjMKi6sBbpump",
-      "price": 4.933003384e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-13T07:11:57+00:00",
       "side": "sell",
@@ -4530,6 +4494,26 @@
       "address": "7Kp8Z4aryqL9Njz4X3KXvjrFP2Cm8n59cHkbxb1epump",
       "price": 6.674595218878179e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T01:51:53+00:00",
+      "side": "sell",
+      "symbol": "FTR",
+      "address": "74uhN5HrtdYesd6YqB28zbrxntooy26zM15G6zRypump",
+      "price": 2.408891028e-05,
+      "proceeds": 38.32,
+      "pnl_usd": -11.68,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T01:51:53+00:00",
+      "side": "sell",
+      "symbol": "FTR",
+      "address": "HEF3UUp9zSzLYFShS7bWqQ1QMq4d6wGyWecWXWq3pump",
+      "price": 2.962616704e-06,
+      "proceeds": 14.83,
+      "pnl_usd": -35.17,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -7220,6 +7204,10 @@
     {
       "date": "2026-10-16T01:18:04+00:00",
       "equity": 5891321.39
+    },
+    {
+      "date": "2026-10-16T01:51:53+00:00",
+      "equity": 5891279.16
     }
   ]
 }
