@@ -1,54 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5890558.9641587315,
+  "cash": 5890583.381493148,
   "positions": {
-    "GvH94Sbve1yDFsEjZPTtpqM8E7Q8Lzw5jKRSi5WApump": {
-      "symbol": "Cryptoagent",
-      "qty": 4987818.900709185,
-      "entry_price": 9.924177478248444e-06,
-      "last_price": 9.55174177619541e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T10:08:08+00:00",
-      "missing": 0
-    },
-    "k94NMZTLYURKmVBLWW1p6bDMWpNmo5Qow4h2GXZpump": {
-      "symbol": "KARDASHEV",
-      "qty": 3333113.536105767,
-      "entry_price": 1.4850979261220478e-05,
-      "last_price": 1.431305727331725e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T10:08:08+00:00",
-      "missing": 0
-    },
     "DdnhNA2pHCvABPQmWuAN8fsfaNsgEXpsDjoRftAfpump": {
       "symbol": "$DODO",
       "qty": 4146536.388202538,
       "entry_price": 1.193767408886951e-05,
-      "last_price": 1.152853214074255e-05,
+      "last_price": 1.152853214e-05,
       "cost": 50.0,
       "entry_time": "2026-10-16T10:08:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T12:01:21+00:00",
-      "side": "sell",
-      "symbol": "shard",
-      "address": "ynFgbvzFAixxo8eCvpZefjuamVTz6x73F9r8uXppump",
-      "price": 9.495955748e-05,
-      "proceeds": 27.18,
-      "pnl_usd": -22.82,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T12:01:21+00:00",
-      "side": "buy",
-      "symbol": "Mr Beast",
-      "address": "NmaXyyJ3gv7jVtv4kd6z6q8A23TbtrVioVEQKKCpump",
-      "price": 0.0003777349576513791,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T12:01:21+00:00",
       "side": "buy",
@@ -4528,6 +4492,26 @@
       "address": "DdnhNA2pHCvABPQmWuAN8fsfaNsgEXpsDjoRftAfpump",
       "price": 1.193767408886951e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T10:43:41+00:00",
+      "side": "sell",
+      "symbol": "Cryptoagent",
+      "address": "GvH94Sbve1yDFsEjZPTtpqM8E7Q8Lzw5jKRSi5WApump",
+      "price": 3.121039519e-06,
+      "proceeds": 14.85,
+      "pnl_usd": -35.15,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T10:43:41+00:00",
+      "side": "sell",
+      "symbol": "KARDASHEV",
+      "address": "k94NMZTLYURKmVBLWW1p6bDMWpNmo5Qow4h2GXZpump",
+      "price": 3.00257552e-06,
+      "proceeds": 9.57,
+      "pnl_usd": -40.43,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -7278,6 +7262,10 @@
     {
       "date": "2026-10-16T10:08:08+00:00",
       "equity": 5890702.12
+    },
+    {
+      "date": "2026-10-16T10:43:41+00:00",
+      "equity": 5890631.18
     }
   ]
 }
