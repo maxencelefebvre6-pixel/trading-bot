@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5890898.727732978,
+  "cash": 5890807.682852909,
   "positions": {
-    "E6GiNJoBUXhsrUdCsyLeGxSUTT3NFkWk28hCLQx3pump": {
-      "symbol": "SOLY",
-      "qty": 3146963.742922218,
-      "entry_price": 1.5729447189002288e-05,
-      "last_price": 1.5155556027854947e-05,
+    "BN5tQca5hx4hxxi6W4C5bdeETqygW6YsduJcMMAGpump": {
+      "symbol": "Musk",
+      "qty": 8180810.060586154,
+      "entry_price": 6.050745541506109e-06,
+      "last_price": 5.83030147120827e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-16T05:14:05+00:00",
+      "entry_time": "2026-10-16T05:49:59+00:00",
+      "missing": 0
+    },
+    "3Pjwny2sdr4vJxpu3CaYkkRz2PbwHoPgStmSvymwpump": {
+      "symbol": "Musk",
+      "qty": 3567609.9071498374,
+      "entry_price": 1.3874835334658418e-05,
+      "last_price": 1.3360033897687753e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T05:49:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T08:55:05+00:00",
-      "side": "buy",
-      "symbol": "VRAXPHIL",
-      "address": "J461AKxJVhdQUkyoLYcqcfobL6rNY6tNAbD3isVfpump",
-      "price": 6.225943575025715e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T09:18:00+00:00",
-      "side": "sell",
-      "symbol": "MoonLoot",
-      "address": "EvNHSkvaNRjPjpSmF5rRQe144E6aRtyFgt2r989zpump",
-      "price": 2.355162627e-05,
-      "proceeds": 49.54,
-      "pnl_usd": -0.46,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-13T09:18:00+00:00",
-      "side": "sell",
-      "symbol": "VRAXPHIL",
-      "address": "J461AKxJVhdQUkyoLYcqcfobL6rNY6tNAbD3isVfpump",
-      "price": 2.355627776e-06,
-      "proceeds": 1.79,
-      "pnl_usd": -48.21,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-13T09:18:00+00:00",
       "side": "buy",
@@ -4512,6 +4493,32 @@
       "address": "E6GiNJoBUXhsrUdCsyLeGxSUTT3NFkWk28hCLQx3pump",
       "price": 1.5729447189002288e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T05:49:59+00:00",
+      "side": "sell",
+      "symbol": "SOLY",
+      "address": "E6GiNJoBUXhsrUdCsyLeGxSUTT3NFkWk28hCLQx3pump",
+      "price": 2.975477078e-06,
+      "proceeds": 8.96,
+      "pnl_usd": -41.04,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T05:49:59+00:00",
+      "side": "buy",
+      "symbol": "Musk",
+      "address": "BN5tQca5hx4hxxi6W4C5bdeETqygW6YsduJcMMAGpump",
+      "price": 6.050745541506109e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T05:49:59+00:00",
+      "side": "buy",
+      "symbol": "Musk",
+      "address": "3Pjwny2sdr4vJxpu3CaYkkRz2PbwHoPgStmSvymwpump",
+      "price": 1.3874835334658418e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7230,6 +7237,10 @@
     {
       "date": "2026-10-16T05:14:05+00:00",
       "equity": 5890946.42
+    },
+    {
+      "date": "2026-10-16T05:49:59+00:00",
+      "equity": 5890903.04
     }
   ]
 }
