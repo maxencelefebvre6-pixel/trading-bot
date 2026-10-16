@@ -1,71 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5890741.33770167,
+  "cash": 5890585.4484587535,
   "positions": {
-    "AYtRssFASJxzZ2RgAkLP4Wn5LbF5hPMw411rzwkbpump": {
-      "symbol": "PTR",
-      "qty": 18896282.813924275,
-      "entry_price": 2.6195628255269595e-06,
-      "last_price": 2.52460392e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T07:09:24+00:00",
-      "missing": 0
-    },
     "2qLtXjbwJCYtEtuV89YrcS4ZdS3qC4jxHXaQkc2Kpump": {
       "symbol": "WeBallin",
       "qty": 5534431.5737374555,
       "entry_price": 8.944007951040972e-06,
-      "last_price": 8.621243144198036e-06,
+      "last_price": 8.621243144e-06,
       "cost": 50.0,
       "entry_time": "2026-10-16T07:48:30+00:00",
+      "missing": 0
+    },
+    "EEXrAsvqA5YvsaE5V79VFdgN7hAUmP5RicM7X8yLpump": {
+      "symbol": "LOOM",
+      "qty": 568161.1007201297,
+      "entry_price": 8.712317674909461e-05,
+      "last_price": 8.44720391074437e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T08:16:07+00:00",
+      "missing": 0
+    },
+    "5GXCVhvLT8yinEDp9Zc9mtJjAAFDyhaSzsZBLc5pump": {
+      "symbol": "tech/opt",
+      "qty": 1943496.8760235037,
+      "entry_price": 2.546955470351956e-05,
+      "last_price": 2.4591175580771922e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T08:16:07+00:00",
+      "missing": 0
+    },
+    "H7uF3PtRDchL7Gazri9BkD9HgnyoV7iWfkr3fkyqpump": {
+      "symbol": "DANGO",
+      "qty": 3102490.7994512543,
+      "entry_price": 1.5954922415484743e-05,
+      "last_price": 1.5384466612613562e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T08:16:07+00:00",
+      "missing": 0
+    },
+    "7kQUu23Js4LZooVRKG2iw4ZmbHNBJG4jZmFTGeGfpump": {
+      "symbol": "mmrich",
+      "qty": 1518947.3347934827,
+      "entry_price": 3.258835830982255e-05,
+      "last_price": 3.153006158984073e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T08:16:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T09:41:47+00:00",
-      "side": "buy",
-      "symbol": "cap",
-      "address": "C5oJTTrYgrBGzkfY8ddcav8QU5CpY4nqzUkxK6g3pump",
-      "price": 4.5710935044856546e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T10:02:41+00:00",
-      "side": "buy",
-      "symbol": "MOTTOTO",
-      "address": "GK2Mrnp7XNaBG7SkUzdvupdWaQGibexnFBCCm87vpump",
-      "price": 1.8768466440852164e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T10:02:41+00:00",
-      "side": "buy",
-      "symbol": "cap",
-      "address": "CmVqMJehKu8wAcabmCALuzee5J31W1eXHTCEUo4Fpump",
-      "price": 8.362837528033252e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T10:28:26+00:00",
-      "side": "sell",
-      "symbol": "RUNNER",
-      "address": "BGMcLPCB8z14UyARe2saAjUxVfDBMj2M3gyzxj47pump",
-      "price": 8.04289381e-06,
-      "proceeds": 45.43,
-      "pnl_usd": -4.57,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-13T10:28:26+00:00",
-      "side": "sell",
-      "symbol": "MOTTOTO",
-      "address": "GK2Mrnp7XNaBG7SkUzdvupdWaQGibexnFBCCm87vpump",
-      "price": 3.081911455e-06,
-      "proceeds": 7.78,
-      "pnl_usd": -42.22,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-13T10:28:26+00:00",
       "side": "buy",
@@ -4521,6 +4504,48 @@
       "address": "2qLtXjbwJCYtEtuV89YrcS4ZdS3qC4jxHXaQkc2Kpump",
       "price": 8.944007951040972e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T08:16:07+00:00",
+      "side": "sell",
+      "symbol": "PTR",
+      "address": "AYtRssFASJxzZ2RgAkLP4Wn5LbF5hPMw411rzwkbpump",
+      "price": 2.52460392e-06,
+      "proceeds": 44.11,
+      "pnl_usd": -5.89,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-16T08:16:07+00:00",
+      "side": "buy",
+      "symbol": "LOOM",
+      "address": "EEXrAsvqA5YvsaE5V79VFdgN7hAUmP5RicM7X8yLpump",
+      "price": 8.712317674909461e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T08:16:07+00:00",
+      "side": "buy",
+      "symbol": "tech/opt",
+      "address": "5GXCVhvLT8yinEDp9Zc9mtJjAAFDyhaSzsZBLc5pump",
+      "price": 2.546955470351956e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T08:16:07+00:00",
+      "side": "buy",
+      "symbol": "DANGO",
+      "address": "H7uF3PtRDchL7Gazri9BkD9HgnyoV7iWfkr3fkyqpump",
+      "price": 1.5954922415484743e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T08:16:07+00:00",
+      "side": "buy",
+      "symbol": "mmrich",
+      "address": "7kQUu23Js4LZooVRKG2iw4ZmbHNBJG4jZmFTGeGfpump",
+      "price": 3.258835830982255e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7255,6 +7280,10 @@
     {
       "date": "2026-10-16T07:48:30+00:00",
       "equity": 5890836.76
+    },
+    {
+      "date": "2026-10-16T08:16:07+00:00",
+      "equity": 5890824.57
     }
   ]
 }
