@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5890579.452846122,
-  "positions": {},
+  "cash": 5890429.452846122,
+  "positions": {
+    "7hJRspbLMXHguw15ccP2EAhfJRSyURPFSymox5QPpump": {
+      "symbol": "MCHI",
+      "qty": 4376429.279958881,
+      "entry_price": 1.131059062845523e-05,
+      "last_price": 1.0912998727368772e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T14:28:39+00:00",
+      "missing": 0
+    },
+    "EwAdkGDt1SkuRVjUtawy4vJTyRRB9fJdJd6ZYswpump": {
+      "symbol": "💸",
+      "qty": 2767112.7722478234,
+      "entry_price": 1.788868184067157e-05,
+      "last_price": 1.7305687841240384e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T14:28:39+00:00",
+      "missing": 0
+    },
+    "6NBHo3EJEK3Ut8we99oZWV1kwsjLPqQVt8HtcN4cpump": {
+      "symbol": "ELIZABETH",
+      "qty": 7460169.292317282,
+      "entry_price": 6.635238164229954e-06,
+      "last_price": 6.380475042538536e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T14:28:39+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-13T13:04:49+00:00",
-      "side": "buy",
-      "symbol": "Aivault",
-      "address": "35nsz5zx1dG57ZNeQ46AJuj9XWL1s2Jr1F9EWfRTpump",
-      "price": 0.060420950819739666,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T13:35:09+00:00",
-      "side": "sell",
-      "symbol": "Aivault",
-      "address": "35nsz5zx1dG57ZNeQ46AJuj9XWL1s2Jr1F9EWfRTpump",
-      "price": 0.07659488071,
-      "proceeds": 31.06,
-      "pnl_usd": -18.94,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T13:35:09+00:00",
-      "side": "buy",
-      "symbol": "MOON",
-      "address": "JCC1QDsMNqKdvhJtkWGnfozERXR8FURQEHxMDXDupump",
-      "price": 8.887131711974956e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T14:02:51+00:00",
       "side": "sell",
@@ -4502,6 +4504,30 @@
       "proceeds": 45.36,
       "pnl_usd": -4.64,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-16T14:28:39+00:00",
+      "side": "buy",
+      "symbol": "MCHI",
+      "address": "7hJRspbLMXHguw15ccP2EAhfJRSyURPFSymox5QPpump",
+      "price": 1.131059062845523e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T14:28:39+00:00",
+      "side": "buy",
+      "symbol": "💸",
+      "address": "EwAdkGDt1SkuRVjUtawy4vJTyRRB9fJdJd6ZYswpump",
+      "price": 1.788868184067157e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T14:28:39+00:00",
+      "side": "buy",
+      "symbol": "ELIZABETH",
+      "address": "6NBHo3EJEK3Ut8we99oZWV1kwsjLPqQVt8HtcN4cpump",
+      "price": 6.635238164229954e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7272,6 +7298,10 @@
     {
       "date": "2026-10-16T13:54:46+00:00",
       "equity": 5890579.45
+    },
+    {
+      "date": "2026-10-16T14:28:39+00:00",
+      "equity": 5890572.7
     }
   ]
 }
