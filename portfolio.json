@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5890583.381493148,
+  "cash": 5890479.038615355,
   "positions": {
-    "DdnhNA2pHCvABPQmWuAN8fsfaNsgEXpsDjoRftAfpump": {
-      "symbol": "$DODO",
-      "qty": 4146536.388202538,
-      "entry_price": 1.193767408886951e-05,
-      "last_price": 1.152853214e-05,
+    "B29fhkoc1D9xUWBQJ3JKjEyFSUj4k2zAb8TKZfoxpump": {
+      "symbol": "TCAT",
+      "qty": 2915094.4796518395,
+      "entry_price": 1.6980581708594217e-05,
+      "last_price": 1.6376914617670795e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-16T10:08:08+00:00",
+      "entry_time": "2026-10-16T11:14:04+00:00",
+      "missing": 0
+    },
+    "C4Y1vBHZiZ1EpgzzryjddHLBBFaAzpaJ66LZSCxHpump": {
+      "symbol": "pmupeee",
+      "qty": 6165992.588332172,
+      "entry_price": 8.027904557275696e-06,
+      "last_price": 7.723299420704624e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T11:14:04+00:00",
+      "missing": 0
+    },
+    "HnWdpQcmBLTYoGXFxz5GPk9HhYzFcHzan94ndErbpump": {
+      "symbol": "oldgame",
+      "qty": 5295526.213336429,
+      "entry_price": 9.34751297714995e-06,
+      "last_price": 9.01145248372634e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T11:14:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T12:01:21+00:00",
-      "side": "buy",
-      "symbol": "Lion",
-      "address": "9cHteTeeomxooTBLB1QS965bif7HbRcpuBspCJyhpump",
-      "price": 1.1646120447492825e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T12:01:21+00:00",
-      "side": "buy",
-      "symbol": "Grimpoteuthis",
-      "address": "H1PPPriagS2c1ARYuLekZm98v3GccPaXGcfRupgZpump",
-      "price": 1.0452657829681221e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T12:32:58+00:00",
-      "side": "sell",
-      "symbol": "Mr Beast",
-      "address": "NmaXyyJ3gv7jVtv4kd6z6q8A23TbtrVioVEQKKCpump",
-      "price": 1.925733514e-06,
-      "proceeds": 0.24,
-      "pnl_usd": -49.76,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T12:32:58+00:00",
-      "side": "sell",
-      "symbol": "Lion",
-      "address": "9cHteTeeomxooTBLB1QS965bif7HbRcpuBspCJyhpump",
-      "price": 4.268439618e-05,
-      "proceeds": 170.91,
-      "pnl_usd": 120.91,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-13T12:32:58+00:00",
       "side": "sell",
@@ -4512,6 +4494,40 @@
       "proceeds": 9.57,
       "pnl_usd": -40.43,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T11:14:04+00:00",
+      "side": "sell",
+      "symbol": "$DODO",
+      "address": "DdnhNA2pHCvABPQmWuAN8fsfaNsgEXpsDjoRftAfpump",
+      "price": 1.152853214e-05,
+      "proceeds": 45.66,
+      "pnl_usd": -4.34,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-16T11:14:04+00:00",
+      "side": "buy",
+      "symbol": "TCAT",
+      "address": "B29fhkoc1D9xUWBQJ3JKjEyFSUj4k2zAb8TKZfoxpump",
+      "price": 1.6980581708594217e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T11:14:04+00:00",
+      "side": "buy",
+      "symbol": "pmupeee",
+      "address": "C4Y1vBHZiZ1EpgzzryjddHLBBFaAzpaJ66LZSCxHpump",
+      "price": 8.027904557275696e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T11:14:04+00:00",
+      "side": "buy",
+      "symbol": "oldgame",
+      "address": "HnWdpQcmBLTYoGXFxz5GPk9HhYzFcHzan94ndErbpump",
+      "price": 9.34751297714995e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7266,6 +7282,10 @@
     {
       "date": "2026-10-16T10:43:41+00:00",
       "equity": 5890631.18
+    },
+    {
+      "date": "2026-10-16T11:14:04+00:00",
+      "equity": 5890622.12
     }
   ]
 }
