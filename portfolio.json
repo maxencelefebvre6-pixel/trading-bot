@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5890533.5046004,
-  "positions": {},
+  "cash": 5890483.5046004,
+  "positions": {
+    "82xQgv8JVw4fqATDvSVjHjZMiax23mk5HABpC4xapump": {
+      "symbol": "妙脆角猫",
+      "qty": 5680606.208548463,
+      "entry_price": 8.71385872963873e-06,
+      "last_price": 8.382383692710136e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T19:01:07+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-13T15:22:04+00:00",
-      "side": "sell",
-      "symbol": "song",
-      "address": "yHJ92b8m3b1mh4oqKorX2JgUNMbW1vTEXzSngFApump",
-      "price": 1.587555429e-05,
-      "proceeds": 45.62,
-      "pnl_usd": -4.38,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-13T15:22:04+00:00",
       "side": "sell",
@@ -4506,6 +4506,14 @@
       "proceeds": 70.25,
       "pnl_usd": 20.25,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-16T19:01:07+00:00",
+      "side": "buy",
+      "symbol": "妙脆角猫",
+      "address": "82xQgv8JVw4fqATDvSVjHjZMiax23mk5HABpC4xapump",
+      "price": 8.71385872963873e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7300,6 +7308,10 @@
     {
       "date": "2026-10-16T18:20:47+00:00",
       "equity": 5890533.5
+    },
+    {
+      "date": "2026-10-16T19:01:07+00:00",
+      "equity": 5890531.12
     }
   ]
 }
