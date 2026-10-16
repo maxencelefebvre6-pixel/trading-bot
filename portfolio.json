@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5890948.727732978,
-  "positions": {},
+  "cash": 5890898.727732978,
+  "positions": {
+    "E6GiNJoBUXhsrUdCsyLeGxSUTT3NFkWk28hCLQx3pump": {
+      "symbol": "SOLY",
+      "qty": 3146963.742922218,
+      "entry_price": 1.5729447189002288e-05,
+      "last_price": 1.5155556027854947e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T05:14:05+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-13T08:55:05+00:00",
-      "side": "sell",
-      "symbol": "100001",
-      "address": "H1kdSvRRHGQ8ME2Gwp8nsXs8vh3t4ai2dkUkPFiYpump",
-      "price": 6.541715233e-06,
-      "proceeds": 23.59,
-      "pnl_usd": -26.41,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-13T08:55:05+00:00",
       "side": "buy",
@@ -4504,6 +4504,14 @@
       "proceeds": 0.2,
       "pnl_usd": -49.8,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-16T05:14:05+00:00",
+      "side": "buy",
+      "symbol": "SOLY",
+      "address": "E6GiNJoBUXhsrUdCsyLeGxSUTT3NFkWk28hCLQx3pump",
+      "price": 1.5729447189002288e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7218,6 +7226,10 @@
     {
       "date": "2026-10-16T04:42:08+00:00",
       "equity": 5890948.73
+    },
+    {
+      "date": "2026-10-16T05:14:05+00:00",
+      "equity": 5890946.42
     }
   ]
 }
