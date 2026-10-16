@@ -1,78 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5891351.682227334,
+  "cash": 5891214.21122694,
   "positions": {
-    "3LdqkdVaYwKRchXj6fHs5WRe9pjwuNmyBiXSdcYkpump": {
-      "symbol": "SPACEXSI",
-      "qty": 135201.3513851985,
-      "entry_price": 0.0003661206008138994,
-      "last_price": 0.00035510821486319665,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T23:39:59+00:00",
-      "missing": 0
-    },
-    "8Me5qCEcGtHE7fxMMwrJGBxNSpi211Ga3idPLXJmpump": {
-      "symbol": "LQL",
-      "qty": 4354325.027609485,
-      "entry_price": 1.1368007598453298e-05,
-      "last_price": 1.0949286645848911e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-15T23:39:59+00:00",
-      "missing": 0
-    },
     "C5iNxZ25kD2nRLZpYY7mUV7H1PRYzdT3hEcPmvubpump": {
       "symbol": "Collatz",
       "qty": 2695774.3850155547,
       "entry_price": 1.8362070756048964e-05,
-      "last_price": 1.772793235253447e-05,
+      "last_price": 1.772592031e-05,
       "cost": 50.0,
       "entry_time": "2026-10-15T23:39:59+00:00",
+      "missing": 0
+    },
+    "DF4VU2tPw5embmTwaGwe4q5Nq5G13SSJWFXwWkrXpump": {
+      "symbol": "coffeeshop",
+      "qty": 2344138.385303397,
+      "entry_price": 2.1116500762216438e-05,
+      "last_price": 2.0370226554384017e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T00:00:30+00:00",
+      "missing": 0
+    },
+    "2Zp4VTFwxvREeFSFeAoTPVJEpydvAPgAC82Hzo3wpump": {
+      "symbol": "ALCVIE",
+      "qty": 603.1394952063611,
+      "entry_price": 0.08207056641691791,
+      "last_price": 0.07965164456774937,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T00:00:30+00:00",
+      "missing": 0
+    },
+    "8fYuEcTUU8uQW1oBiJno1WJ5YDr7ymGXekCPYu6qpump": {
+      "symbol": "MC",
+      "qty": 4275907.929646844,
+      "entry_price": 1.1576488739805094e-05,
+      "last_price": 1.114414652996588e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T00:00:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T04:41:38+00:00",
-      "side": "buy",
-      "symbol": "BTC",
-      "address": "6fbqQNxmfUgXnRcerQpE9hwCmY4t9BSibk7NtqSJpump",
-      "price": 1.9167244648024456e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T04:41:38+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "C4k79SiNHvBcFdmPYMY8o9APCA3otyVC35SRJBPPpump",
-      "price": 7.068570139856878e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T05:02:47+00:00",
-      "side": "sell",
-      "symbol": "REA",
-      "address": "HXPihvatBaUTBTEz9bUa9s6Khe8FNRVdEKoJJ55Bpump",
-      "price": 0.000326739838,
-      "proceeds": 92.32,
-      "pnl_usd": 42.32,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T05:02:47+00:00",
-      "side": "buy",
-      "symbol": "BOUNCE",
-      "address": "Fd9RJH2mkKxoSG8WHH97s4fePcDRdN82qGXGJZpgpump",
-      "price": 4.31209554130154e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T05:02:47+00:00",
-      "side": "buy",
-      "symbol": "MemoryBot",
-      "address": "FnMvzNxbEw1AYsoKiUbF9d3q1o637Prvo3i93LNBpump",
-      "price": 8.870005279182681e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T05:02:47+00:00",
       "side": "buy",
@@ -4528,6 +4495,50 @@
       "address": "C5iNxZ25kD2nRLZpYY7mUV7H1PRYzdT3hEcPmvubpump",
       "price": 1.8362070756048964e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T00:00:29+00:00",
+      "side": "sell",
+      "symbol": "SPACEXSI",
+      "address": "3LdqkdVaYwKRchXj6fHs5WRe9pjwuNmyBiXSdcYkpump",
+      "price": 1.890610966e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-16T00:00:29+00:00",
+      "side": "sell",
+      "symbol": "LQL",
+      "address": "8Me5qCEcGtHE7fxMMwrJGBxNSpi211Ga3idPLXJmpump",
+      "price": 2.95449417e-06,
+      "proceeds": 12.28,
+      "pnl_usd": -37.72,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T00:00:30+00:00",
+      "side": "buy",
+      "symbol": "coffeeshop",
+      "address": "DF4VU2tPw5embmTwaGwe4q5Nq5G13SSJWFXwWkrXpump",
+      "price": 2.1116500762216438e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T00:00:30+00:00",
+      "side": "buy",
+      "symbol": "ALCVIE",
+      "address": "2Zp4VTFwxvREeFSFeAoTPVJEpydvAPgAC82Hzo3wpump",
+      "price": 0.08207056641691791,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T00:00:30+00:00",
+      "side": "buy",
+      "symbol": "MC",
+      "address": "8fYuEcTUU8uQW1oBiJno1WJ5YDr7ymGXekCPYu6qpump",
+      "price": 1.1576488739805094e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7206,6 +7217,10 @@
     {
       "date": "2026-10-15T23:39:59+00:00",
       "equity": 5891495.16
+    },
+    {
+      "date": "2026-10-16T00:00:30+00:00",
+      "equity": 5891405.44
     }
   ]
 }
