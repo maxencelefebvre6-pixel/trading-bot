@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5890442.773060637,
+  "cash": 5890403.179486684,
   "positions": {
-    "8ZQspAwv9ZAov2VTuXGRAA717ABsLttyoTQVjviwpump": {
-      "symbol": "YASX",
-      "qty": 3273418.575120365,
-      "entry_price": 1.512180580150214e-05,
-      "last_price": 1.4568066626070109e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-16T21:35:10+00:00",
-      "missing": 0
-    },
     "CWqVwX5r3iG6GgD8bSGtYbWUjSLHZVA63hbFeD98pump": {
       "symbol": "Chud",
       "qty": 2045608.0634506987,
       "entry_price": 2.4198183847838064e-05,
-      "last_price": 2.3430070207720376e-05,
+      "last_price": 2.343007021e-05,
       "cost": 50.0,
       "entry_time": "2026-10-16T21:35:10+00:00",
+      "missing": 0
+    },
+    "599h3tRUnep6PeQcEaUadosDyZk3uzs173f6h8NTpump": {
+      "symbol": "PLAY",
+      "qty": 2698150.5328666302,
+      "entry_price": 1.8345900051547193e-05,
+      "last_price": 1.7694020154311946e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T22:06:26+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T15:47:27+00:00",
-      "side": "sell",
-      "symbol": "ADOBE",
-      "address": "Hifyjwnx3jZ5fGwJguGTqgzQHoBoutfQAsbRZfHgpump",
-      "price": 1.362082366e-05,
-      "proceeds": 45.67,
-      "pnl_usd": -4.33,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-13T15:47:27+00:00",
-      "side": "sell",
-      "symbol": "FUCK",
-      "address": "7psNUxv4RgYrDG8ydRdPPzN5c76LX2gVwanjesrVpump",
-      "price": 3.10520512e-06,
-      "proceeds": 16.84,
-      "pnl_usd": -33.16,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-13T15:47:27+00:00",
       "side": "buy",
@@ -4521,6 +4501,24 @@
       "address": "CWqVwX5r3iG6GgD8bSGtYbWUjSLHZVA63hbFeD98pump",
       "price": 2.4198183847838064e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T22:06:26+00:00",
+      "side": "sell",
+      "symbol": "YASX",
+      "address": "8ZQspAwv9ZAov2VTuXGRAA717ABsLttyoTQVjviwpump",
+      "price": 3.325994265e-06,
+      "proceeds": 10.41,
+      "pnl_usd": -39.59,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-16T22:06:26+00:00",
+      "side": "buy",
+      "symbol": "PLAY",
+      "address": "599h3tRUnep6PeQcEaUadosDyZk3uzs173f6h8NTpump",
+      "price": 1.8345900051547193e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7331,6 +7329,10 @@
     {
       "date": "2026-10-16T21:35:10+00:00",
       "equity": 5890538.39
+    },
+    {
+      "date": "2026-10-16T22:06:26+00:00",
+      "equity": 5890498.85
     }
   ]
 }
