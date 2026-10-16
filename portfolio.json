@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5890566.135795458,
-  "positions": {},
+  "cash": 5890516.135795458,
+  "positions": {
+    "DVs8tczNxEd8ALzLx4389xeL8sbiu4JgMJAReUUrpump": {
+      "symbol": "SwordCat",
+      "qty": 2517890.7128321975,
+      "entry_price": 1.965931235526936e-05,
+      "last_price": 1.9014150363058076e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T16:50:53+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-13T14:29:42+00:00",
-      "side": "sell",
-      "symbol": "SEALS",
-      "address": "2dqSzwWea6JsvaB6C67y1UkME81dtpRg2KR2UyUHpump",
-      "price": 0.0006111643391,
-      "proceeds": 174.54,
-      "pnl_usd": 124.54,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-13T14:29:43+00:00",
       "side": "buy",
@@ -4504,6 +4504,14 @@
       "proceeds": 45.26,
       "pnl_usd": -4.74,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-16T16:50:53+00:00",
+      "side": "buy",
+      "symbol": "SwordCat",
+      "address": "DVs8tczNxEd8ALzLx4389xeL8sbiu4JgMJAReUUrpump",
+      "price": 1.965931235526936e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7282,6 +7290,10 @@
     {
       "date": "2026-10-16T15:38:01+00:00",
       "equity": 5890566.14
+    },
+    {
+      "date": "2026-10-16T16:50:53+00:00",
+      "equity": 5890564.01
     }
   ]
 }
