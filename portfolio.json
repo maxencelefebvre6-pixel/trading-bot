@@ -1,26 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5890467.812100486,
+  "cash": 5890417.812100486,
   "positions": {
     "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump": {
       "symbol": "FTC",
       "qty": 284583.0067618535,
       "entry_price": 0.00017393870619064367,
-      "last_price": 0.00016862301255905592,
+      "last_price": 0.0001626959105,
       "cost": 50.0,
       "entry_time": "2026-10-16T17:18:10+00:00",
+      "missing": 0
+    },
+    "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump": {
+      "symbol": "OMNI",
+      "qty": 27762.43044330128,
+      "entry_price": 0.0017829851064766456,
+      "last_price": 0.0017247373696515074,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T17:52:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T14:29:43+00:00",
-      "side": "buy",
-      "symbol": "ADOBE",
-      "address": "Hifyjwnx3jZ5fGwJguGTqgzQHoBoutfQAsbRZfHgpump",
-      "price": 1.4111885922091649e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T14:56:35+00:00",
       "side": "sell",
@@ -4514,6 +4515,14 @@
       "address": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
       "price": 0.00017393870619064367,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T17:52:03+00:00",
+      "side": "buy",
+      "symbol": "OMNI",
+      "address": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
+      "price": 0.0017829851064766456,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7300,6 +7309,10 @@
     {
       "date": "2026-10-16T17:18:10+00:00",
       "equity": 5890515.8
+    },
+    {
+      "date": "2026-10-16T17:52:03+00:00",
+      "equity": 5890512.0
     }
   ]
 }
