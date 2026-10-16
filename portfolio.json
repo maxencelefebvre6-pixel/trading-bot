@@ -1,46 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5890429.486281025,
+  "cash": 5890279.486281025,
   "positions": {
     "J2br6Yop1213NWcxZ4VF8ZpdRcPcWdHmgBZTGtZnpump": {
       "symbol": "$DODO",
       "qty": 6391007.633265143,
       "entry_price": 7.745257530651802e-06,
-      "last_price": 7.45827349337217e-06,
+      "last_price": 7.458273493e-06,
       "cost": 50.0,
       "entry_time": "2026-10-16T23:06:11+00:00",
+      "missing": 0
+    },
+    "38p4gDa5EknmHTAb2FcG3U99YYaEYjZ9DqifNitepump": {
+      "symbol": "HaggleBot",
+      "qty": 4267831.237342659,
+      "entry_price": 1.1598396761072701e-05,
+      "last_price": 1.1156748583934433e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T23:34:03+00:00",
+      "missing": 0
+    },
+    "FDfHJw1Zn2zBb2LfmoTpyCmqEYFT3FcrBorrDdapump": {
+      "symbol": "cap",
+      "qty": 2406889.1894468837,
+      "entry_price": 2.0565965486502254e-05,
+      "last_price": 1.9905201943195103e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T23:34:03+00:00",
+      "missing": 0
+    },
+    "6iakR9EUyXt5GW4YwQBc8X62FvC2EfqTowZFsj6npump": {
+      "symbol": "$CAT",
+      "qty": 6932334.031090157,
+      "entry_price": 7.140452231240189e-06,
+      "last_price": 6.87102677370729e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-16T23:34:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T16:06:51+00:00",
-      "side": "buy",
-      "symbol": "$NAPCAT",
-      "address": "J4zLDTKN9ReS11V621avqEqgWLn5PmeJTGYbpgP9pump",
-      "price": 1.1842761486887397e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T16:32:09+00:00",
-      "side": "sell",
-      "symbol": "PVE",
-      "address": "Dj2AwiqQwJp2ojzGpnNkN35jDyH7jG8YEGZBcrBgpump",
-      "price": 9.583096053e-06,
-      "proceeds": 26.72,
-      "pnl_usd": -23.28,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-13T16:32:09+00:00",
-      "side": "sell",
-      "symbol": "FLYWHEEL",
-      "address": "HkfLXZbbuu5Bm2udRXWUR4zY9uU1tRLmX6QiBywjpump",
-      "price": 4.192402984e-06,
-      "proceeds": 15.13,
-      "pnl_usd": -34.87,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-13T16:32:09+00:00",
       "side": "sell",
@@ -4516,6 +4515,30 @@
       "address": "J2br6Yop1213NWcxZ4VF8ZpdRcPcWdHmgBZTGtZnpump",
       "price": 7.745257530651802e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T23:34:03+00:00",
+      "side": "buy",
+      "symbol": "HaggleBot",
+      "address": "38p4gDa5EknmHTAb2FcG3U99YYaEYjZ9DqifNitepump",
+      "price": 1.1598396761072701e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T23:34:03+00:00",
+      "side": "buy",
+      "symbol": "cap",
+      "address": "FDfHJw1Zn2zBb2LfmoTpyCmqEYFT3FcrBorrDdapump",
+      "price": 2.0565965486502254e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-16T23:34:03+00:00",
+      "side": "buy",
+      "symbol": "$CAT",
+      "address": "6iakR9EUyXt5GW4YwQBc8X62FvC2EfqTowZFsj6npump",
+      "price": 7.140452231240189e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7338,6 +7361,10 @@
     {
       "date": "2026-10-16T23:06:11+00:00",
       "equity": 5890477.15
+    },
+    {
+      "date": "2026-10-16T23:34:03+00:00",
+      "equity": 5890470.31
     }
   ]
 }
