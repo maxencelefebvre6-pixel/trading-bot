@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5889725.2961918,
+  "cash": 5889675.2961918,
   "positions": {
     "BB1n4RhmW8cd1J8VZT5jEac2iJgN4W4zX3uLA8skpump": {
       "symbol": "AIEG",
@@ -10,19 +10,18 @@
       "cost": 50.0,
       "entry_time": "2026-10-17T07:44:41+00:00",
       "missing": 0
+    },
+    "4DMQUyvGFpozVGtAgjDJipmKzkUuEyqgcnNcMZuXpump": {
+      "symbol": "EVIL",
+      "qty": 2996180.760204503,
+      "entry_price": 1.6521032595049906e-05,
+      "last_price": 1.5977677818754923e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T08:41:37+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T22:48:31+00:00",
-      "side": "sell",
-      "symbol": "Jpmghost",
-      "address": "BZqtPggXEwoY231VAQHfWNTHEoxo6F2Nk18dPDn4pump",
-      "price": 0.1045960077,
-      "proceeds": 29.19,
-      "pnl_usd": -20.81,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-13T22:48:31+00:00",
       "side": "buy",
@@ -4512,6 +4511,14 @@
       "proceeds": 6.1,
       "pnl_usd": -43.9,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T08:41:37+00:00",
+      "side": "buy",
+      "symbol": "EVIL",
+      "address": "4DMQUyvGFpozVGtAgjDJipmKzkUuEyqgcnNcMZuXpump",
+      "price": 1.6521032595049906e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7398,6 +7405,10 @@
     {
       "date": "2026-10-17T08:08:14+00:00",
       "equity": 5889772.91
+    },
+    {
+      "date": "2026-10-17T08:41:37+00:00",
+      "equity": 5889770.78
     }
   ]
 }
