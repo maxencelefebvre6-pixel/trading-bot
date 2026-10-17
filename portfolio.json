@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5888808.419568509,
+  "cash": 5888762.174140853,
   "positions": {
     "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump": {
       "symbol": "$DODO",
@@ -11,64 +11,26 @@
       "entry_time": "2026-10-17T23:02:18+00:00",
       "missing": 0
     },
-    "9xh9Ji35euqzbgoXKALWyg3jVppqtk4WnkAK5Lugpump": {
-      "symbol": "COMAN",
-      "qty": 13723701.783685066,
-      "entry_price": 3.606898545321519e-06,
-      "last_price": 3.476343536405167e-06,
+    "C1r4fUMqX4hNsfJT17tMvtrp1Fxnc41jyiSNWq6Spump": {
+      "symbol": "SWDRUM",
+      "qty": 2996572.0602789964,
+      "entry_price": 1.651887523618948e-05,
+      "last_price": 1.6031157214086075e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T23:27:57+00:00",
+      "entry_time": "2026-10-17T23:52:17+00:00",
       "missing": 0
     },
-    "7rKvUuqPqdXqKLUvBrPonws1JsBqxTiA1oRCavWCpump": {
-      "symbol": "Halloween",
-      "qty": 7226434.726375207,
-      "entry_price": 6.849850842675402e-06,
-      "last_price": 6.588508657012821e-06,
+    "3sPNxiMjC2J5hmHVdSNMpqmtkdc6g3mstF9KnUKdpump": {
+      "symbol": "ALT",
+      "qty": 3193236.5657289093,
+      "entry_price": 1.550151358382081e-05,
+      "last_price": 1.494759493235709e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T23:27:57+00:00",
+      "entry_time": "2026-10-17T23:52:17+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T14:01:14+00:00",
-      "side": "sell",
-      "symbol": "Orviapp",
-      "address": "pn9PfXAmvLpq4ph2mqURwPZd5PBK6tmMKVR4npipump",
-      "price": 2.97665707e-06,
-      "proceeds": 7.04,
-      "pnl_usd": -42.96,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-14T14:01:14+00:00",
-      "side": "sell",
-      "symbol": "$AURA",
-      "address": "6gvUDGzxvH7ECv2TBNBJga7SpQ4p2c7eEViqxsjepump",
-      "price": 1.70162362e-07,
-      "proceeds": 1.13,
-      "pnl_usd": -48.87,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-14T14:01:14+00:00",
-      "side": "sell",
-      "symbol": "Sevda",
-      "address": "VcUuapXnPXNVbyFuW7Egy52LCFqSsvyMMnAbYEspump",
-      "price": 9.474318916e-07,
-      "proceeds": 14.21,
-      "pnl_usd": -35.79,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-14T14:01:14+00:00",
-      "side": "buy",
-      "symbol": "MINDPAD",
-      "address": "CVv3QiezkAfwVgE3dU6DrP3Hs1zrd15d8x1bdYhCpump",
-      "price": 1.1457230076310697e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T14:36:25+00:00",
       "side": "sell",
@@ -4530,6 +4492,42 @@
       "address": "7rKvUuqPqdXqKLUvBrPonws1JsBqxTiA1oRCavWCpump",
       "price": 6.849850842675402e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T23:52:16+00:00",
+      "side": "sell",
+      "symbol": "COMAN",
+      "address": "9xh9Ji35euqzbgoXKALWyg3jVppqtk4WnkAK5Lugpump",
+      "price": 2.88532969e-06,
+      "proceeds": 37.35,
+      "pnl_usd": -12.65,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T23:52:16+00:00",
+      "side": "sell",
+      "symbol": "Halloween",
+      "address": "7rKvUuqPqdXqKLUvBrPonws1JsBqxTiA1oRCavWCpump",
+      "price": 2.387023993e-06,
+      "proceeds": 16.41,
+      "pnl_usd": -33.59,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T23:52:17+00:00",
+      "side": "buy",
+      "symbol": "SWDRUM",
+      "address": "C1r4fUMqX4hNsfJT17tMvtrp1Fxnc41jyiSNWq6Spump",
+      "price": 1.651887523618948e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T23:52:17+00:00",
+      "side": "buy",
+      "symbol": "ALT",
+      "address": "3sPNxiMjC2J5hmHVdSNMpqmtkdc6g3mstF9KnUKdpump",
+      "price": 1.550151358382081e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7548,6 +7546,10 @@
     {
       "date": "2026-10-17T23:27:57+00:00",
       "equity": 5888951.64
+    },
+    {
+      "date": "2026-10-17T23:52:17+00:00",
+      "equity": 5888905.84
     }
   ]
 }
