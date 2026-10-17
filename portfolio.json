@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5889059.633000448,
+  "cash": 5889009.633000448,
   "positions": {
     "FMe2wZntEdgzpUcCHtdApt7hksN5K9MjunTZ1b1ypump": {
       "symbol": "MCH",
@@ -10,17 +10,18 @@
       "cost": 50.0,
       "entry_time": "2026-10-17T20:25:53+00:00",
       "missing": 0
+    },
+    "3EDitmdBpRMzLDbeq31AeW1j36dLunijZcDAPo7Jpump": {
+      "symbol": "LMAO",
+      "qty": 6273188.298134273,
+      "entry_price": 7.890724404800975e-06,
+      "last_price": 7.599310797600217e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T21:22:59+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T11:28:00+00:00",
-      "side": "buy",
-      "symbol": "Kimba",
-      "address": "ATzdMNuwq3XH5oTRqPNiyizZhstrLCv33DUw8KMVpump",
-      "price": 8.561973052398325e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T12:02:31+00:00",
       "side": "sell",
@@ -4512,6 +4513,14 @@
       "proceeds": 87.13,
       "pnl_usd": 37.13,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-17T21:22:59+00:00",
+      "side": "buy",
+      "symbol": "LMAO",
+      "address": "3EDitmdBpRMzLDbeq31AeW1j36dLunijZcDAPo7Jpump",
+      "price": 7.890724404800975e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7506,6 +7515,10 @@
     {
       "date": "2026-10-17T20:56:02+00:00",
       "equity": 5889107.34
+    },
+    {
+      "date": "2026-10-17T21:22:59+00:00",
+      "equity": 5889105.01
     }
   ]
 }
