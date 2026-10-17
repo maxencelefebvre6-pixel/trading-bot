@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5889908.381673969,
-  "positions": {},
+  "cash": 5889858.381673969,
+  "positions": {
+    "dKXBHA6tKrZwohZHzyvd1sHZzL5wB2Hj4uGTwLFpump": {
+      "symbol": "visioner",
+      "qty": 2043846.3604923983,
+      "entry_price": 2.4219041585921646e-05,
+      "last_price": 2.345112327210332e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T07:11:19+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-13T20:48:17+00:00",
-      "side": "sell",
-      "symbol": "BORING",
-      "address": "uDbS2LTc14oStv1SwSoLepJu75vjj7YgAXkyNcRpump",
-      "price": 7.686558537e-05,
-      "proceeds": 83.01,
-      "pnl_usd": 33.01,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-13T21:14:18+00:00",
       "side": "sell",
@@ -4504,6 +4504,14 @@
       "proceeds": 2.91,
       "pnl_usd": -47.09,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-17T07:11:19+00:00",
+      "side": "buy",
+      "symbol": "visioner",
+      "address": "dKXBHA6tKrZwohZHzyvd1sHZzL5wB2Hj4uGTwLFpump",
+      "price": 2.4219041585921646e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7378,6 +7386,10 @@
     {
       "date": "2026-10-17T05:55:35+00:00",
       "equity": 5889908.38
+    },
+    {
+      "date": "2026-10-17T07:11:19+00:00",
+      "equity": 5889906.31
     }
   ]
 }
