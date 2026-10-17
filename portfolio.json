@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5889436.823088152,
-  "positions": {},
+  "cash": 5889386.823088152,
+  "positions": {
+    "6wfZjsVxoQ5T3KfY4vC8svfRnT4nbCUE6LnaysB2pump": {
+      "symbol": "att",
+      "qty": 5279619.684766481,
+      "entry_price": 9.3756753242709e-06,
+      "last_price": 9.040029021257279e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T12:31:52+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-14T01:58:27+00:00",
-      "side": "buy",
-      "symbol": "kittylick",
-      "address": "4K9ekNm3zUwmLnyzDEDwFSaWDXDn5U2G5q2r8TLHpump",
-      "price": 9.25153479572449e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T02:29:51+00:00",
       "side": "sell",
@@ -4504,6 +4506,14 @@
       "proceeds": 45.3,
       "pnl_usd": -4.7,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-17T12:31:52+00:00",
+      "side": "buy",
+      "symbol": "att",
+      "address": "6wfZjsVxoQ5T3KfY4vC8svfRnT4nbCUE6LnaysB2pump",
+      "price": 9.3756753242709e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7422,6 +7432,10 @@
     {
       "date": "2026-10-17T11:58:14+00:00",
       "equity": 5889436.82
+    },
+    {
+      "date": "2026-10-17T12:31:52+00:00",
+      "equity": 5889434.55
     }
   ]
 }
