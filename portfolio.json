@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5889009.633000448,
+  "cash": 5889005.103732406,
   "positions": {
-    "FMe2wZntEdgzpUcCHtdApt7hksN5K9MjunTZ1b1ypump": {
-      "symbol": "MCH",
-      "qty": 5717659.815403221,
-      "entry_price": 8.657388092003714e-06,
-      "last_price": 8.343849167e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T20:25:53+00:00",
-      "missing": 0
-    },
     "3EDitmdBpRMzLDbeq31AeW1j36dLunijZcDAPo7Jpump": {
       "symbol": "LMAO",
       "qty": 6273188.298134273,
       "entry_price": 7.890724404800975e-06,
-      "last_price": 7.599310797600217e-06,
+      "last_price": 7.599310798e-06,
       "cost": 50.0,
       "entry_time": "2026-10-17T21:22:59+00:00",
+      "missing": 0
+    },
+    "3ZjRd8BBKMCo1ePn8tykLL5d9mM26x9dqgVrvviXpump": {
+      "symbol": "KEV",
+      "qty": 3284723.2204733943,
+      "entry_price": 1.5069762862049016e-05,
+      "last_price": 1.4518781583134558e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T21:50:52+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T12:02:31+00:00",
-      "side": "sell",
-      "symbol": "PDOG",
-      "address": "Gcbnwm6sp7AmEdUbEkV4QFeXHwKrS5yiNzGCG4S3pump",
-      "price": 3.431049672e-06,
-      "proceeds": 26.51,
-      "pnl_usd": -23.49,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-14T12:02:31+00:00",
-      "side": "sell",
-      "symbol": "Kimba",
-      "address": "ATzdMNuwq3XH5oTRqPNiyizZhstrLCv33DUw8KMVpump",
-      "price": 9.675857285e-05,
-      "proceeds": 27.69,
-      "pnl_usd": -22.31,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-14T12:02:31+00:00",
       "side": "buy",
@@ -4521,6 +4501,24 @@
       "address": "3EDitmdBpRMzLDbeq31AeW1j36dLunijZcDAPo7Jpump",
       "price": 7.890724404800975e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T21:50:51+00:00",
+      "side": "sell",
+      "symbol": "MCH",
+      "address": "FMe2wZntEdgzpUcCHtdApt7hksN5K9MjunTZ1b1ypump",
+      "price": 8.343849167e-06,
+      "proceeds": 45.47,
+      "pnl_usd": -4.53,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-17T21:50:52+00:00",
+      "side": "buy",
+      "symbol": "KEV",
+      "address": "3ZjRd8BBKMCo1ePn8tykLL5d9mM26x9dqgVrvviXpump",
+      "price": 1.5069762862049016e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7519,6 +7517,10 @@
     {
       "date": "2026-10-17T21:22:59+00:00",
       "equity": 5889105.01
+    },
+    {
+      "date": "2026-10-17T21:50:52+00:00",
+      "equity": 5889100.47
     }
   ]
 }
