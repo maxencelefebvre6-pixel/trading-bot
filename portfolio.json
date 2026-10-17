@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5889065.705743274,
+  "cash": 5889019.294166945,
   "positions": {
     "96kBjRkAYe9QemRfq2mAE2QKVwWufJQqvw8KfW5mpump": {
       "symbol": "LION",
@@ -20,35 +20,17 @@
       "entry_time": "2026-10-17T18:08:19+00:00",
       "missing": 0
     },
-    "Z3bNCYdr4oaRHuyVbUFrcNfkiYKRpA7wW96WfZfpump": {
-      "symbol": "bounds",
-      "qty": 1241882.8524997933,
-      "entry_price": 3.985883201492086e-05,
-      "last_price": 3.856285405268426e-05,
+    "HMXnAyeRnh5DE2QVpTwssDz3H8aHqnoLeTBqsLehpump": {
+      "symbol": "gilet",
+      "qty": 4499073.87756366,
+      "entry_price": 1.1002264320852909e-05,
+      "last_price": 1.0595732042778962e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T18:40:59+00:00",
+      "entry_time": "2026-10-17T19:07:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T08:30:49+00:00",
-      "side": "buy",
-      "symbol": "USDF",
-      "address": "PDqj58oPBn1R5CEERiW3rKXSeWKHsnXz7KECQnQpump",
-      "price": 0.002358429242363679,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T09:08:27+00:00",
-      "side": "sell",
-      "symbol": "VEILSPIGNIGGA",
-      "address": "26soxjxusnB1VAyCF5ZGktpFE2cKwojZULZ4Ky1jpump",
-      "price": 4.382027841e-06,
-      "proceeds": 45.27,
-      "pnl_usd": -4.73,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-14T09:08:27+00:00",
       "side": "buy",
@@ -4528,6 +4510,24 @@
       "address": "Z3bNCYdr4oaRHuyVbUFrcNfkiYKRpA7wW96WfZfpump",
       "price": 3.985883201492086e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T19:07:41+00:00",
+      "side": "sell",
+      "symbol": "bounds",
+      "address": "Z3bNCYdr4oaRHuyVbUFrcNfkiYKRpA7wW96WfZfpump",
+      "price": 3.013274917e-06,
+      "proceeds": 3.59,
+      "pnl_usd": -46.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T19:07:41+00:00",
+      "side": "buy",
+      "symbol": "gilet",
+      "address": "HMXnAyeRnh5DE2QVpTwssDz3H8aHqnoLeTBqsLehpump",
+      "price": 1.1002264320852909e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7502,6 +7502,10 @@
     {
       "date": "2026-10-17T18:40:59+00:00",
       "equity": 5889209.05
+    },
+    {
+      "date": "2026-10-17T19:07:41+00:00",
+      "equity": 5889162.42
     }
   ]
 }
