@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5889675.2961918,
+  "cash": 5889670.592099046,
   "positions": {
-    "BB1n4RhmW8cd1J8VZT5jEac2iJgN4W4zX3uLA8skpump": {
-      "symbol": "AIEG",
-      "qty": 6948856.660145969,
-      "entry_price": 7.123474036225147e-06,
-      "last_price": 6.852359884e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T07:44:41+00:00",
-      "missing": 0
-    },
     "4DMQUyvGFpozVGtAgjDJipmKzkUuEyqgcnNcMZuXpump": {
       "symbol": "EVIL",
       "qty": 2996180.760204503,
       "entry_price": 1.6521032595049906e-05,
-      "last_price": 1.5977677818754923e-05,
+      "last_price": 1.597500093e-05,
       "cost": 50.0,
       "entry_time": "2026-10-17T08:41:37+00:00",
+      "missing": 0
+    },
+    "Gjbk3nGfAdk8itfWRAagXbL9hstES6jXEXWPVuW9pump": {
+      "symbol": "1",
+      "qty": 1987400.8274454728,
+      "entry_price": 2.4906903185516613e-05,
+      "last_price": 2.403728902806843e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T09:08:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T22:48:31+00:00",
-      "side": "buy",
-      "symbol": "GTAGOB",
-      "address": "FvFFxJTh4gQ8FZT4NumbTjoqVyBZkXFpykhjRkTdpump",
-      "price": 0.016095061357465114,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T22:48:31+00:00",
-      "side": "buy",
-      "symbol": "ROLEX",
-      "address": "6M1DnRBzXBWh7XpJcQK4BeDdYhkjTbeR4Nu7GWXpump",
-      "price": 0.0004066004667823968,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T22:48:31+00:00",
       "side": "buy",
@@ -4519,6 +4503,24 @@
       "address": "4DMQUyvGFpozVGtAgjDJipmKzkUuEyqgcnNcMZuXpump",
       "price": 1.6521032595049906e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T09:08:08+00:00",
+      "side": "sell",
+      "symbol": "AIEG",
+      "address": "BB1n4RhmW8cd1J8VZT5jEac2iJgN4W4zX3uLA8skpump",
+      "price": 6.852359884e-06,
+      "proceeds": 45.3,
+      "pnl_usd": -4.7,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-17T09:08:08+00:00",
+      "side": "buy",
+      "symbol": "1",
+      "address": "Gjbk3nGfAdk8itfWRAagXbL9hstES6jXEXWPVuW9pump",
+      "price": 2.4906903185516613e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7409,6 +7411,10 @@
     {
       "date": "2026-10-17T08:41:37+00:00",
       "equity": 5889770.78
+    },
+    {
+      "date": "2026-10-17T09:08:08+00:00",
+      "equity": 5889766.23
     }
   ]
 }
