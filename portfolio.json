@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5889317.420018963,
+  "cash": 5889391.519920507,
   "positions": {
-    "4ZZV8uTyjovtzTQckWfcbuorf8pzpMaWVEKoVm7ipump": {
-      "symbol": "$CEOCAT",
-      "qty": 4603045.7790780505,
-      "entry_price": 1.0753749229475273e-05,
-      "last_price": 1.037841347e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T10:06:17+00:00",
-      "missing": 0
-    },
     "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump": {
       "symbol": "unsuitablecat",
       "qty": 6969383.668193207,
@@ -19,34 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-17T10:36:44+00:00",
       "missing": 0
-    },
-    "H2tMQrgQim3KNsztzxsLZjfNCxC8Wfk5993K5ucpump": {
-      "symbol": "Mr.Teddy",
-      "qty": 5839250.843583131,
-      "entry_price": 8.477114843318734e-06,
-      "last_price": 8.152029063651928e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T11:02:51+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T01:24:34+00:00",
-      "side": "buy",
-      "symbol": "UNICORN",
-      "address": "ExtEbpHveWyRaQ35hdSSPssR4UohY3ZL2ZgHxT2Gpump",
-      "price": 1.5391902358320713e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T01:24:34+00:00",
-      "side": "buy",
-      "symbol": "FAITH",
-      "address": "HnpoUC92RMLbsc2m5W7eL8joocFfAt5kv2fnGgoCpump",
-      "price": 1.425331413212327e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T01:58:26+00:00",
       "side": "sell",
@@ -4528,6 +4494,26 @@
       "address": "H2tMQrgQim3KNsztzxsLZjfNCxC8Wfk5993K5ucpump",
       "price": 8.477114843318734e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T11:31:38+00:00",
+      "side": "sell",
+      "symbol": "$CEOCAT",
+      "address": "4ZZV8uTyjovtzTQckWfcbuorf8pzpMaWVEKoVm7ipump",
+      "price": 1.037841347e-05,
+      "proceeds": 45.6,
+      "pnl_usd": -4.4,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-17T11:31:38+00:00",
+      "side": "sell",
+      "symbol": "Mr.Teddy",
+      "address": "H2tMQrgQim3KNsztzxsLZjfNCxC8Wfk5993K5ucpump",
+      "price": 5.142551397e-06,
+      "proceeds": 28.5,
+      "pnl_usd": -21.5,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -7438,6 +7424,10 @@
     {
       "date": "2026-10-17T11:02:51+00:00",
       "equity": 5889460.41
+    },
+    {
+      "date": "2026-10-17T11:31:38+00:00",
+      "equity": 5889439.13
     }
   ]
 }
