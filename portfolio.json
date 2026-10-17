@@ -1,71 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5890129.224084313,
+  "cash": 5890025.090950417,
   "positions": {
-    "kqm38ANmpjqrx82KnaXBXoMzA4RsC8ReLKXbV8Epump": {
-      "symbol": "INUX",
-      "qty": 4101590.6023902344,
-      "entry_price": 1.2068488739747327e-05,
-      "last_price": 1.165476327e-05,
+    "3cvZsvXFPkFvs2kRCUnuhWfTCjtoLc97aTqaxBcZpump": {
+      "symbol": "room/OS",
+      "qty": 1908198.5090569675,
+      "entry_price": 2.5940697346243564e-05,
+      "last_price": 2.50375937512192e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T02:51:52+00:00",
+      "entry_time": "2026-10-17T03:54:58+00:00",
       "missing": 0
     },
-    "E7pTEkDQFeodkFKtRnafQxvrZ8GQwc1Rk6La2ZzCpump": {
-      "symbol": "iPhone Duo",
-      "qty": 118433.84239089163,
-      "entry_price": 0.0004179548598670382,
-      "last_price": 0.0004054048670924334,
+    "6TQS9ZY9pi2dznBVLLd8rrJeYrStdvU2xsYfjd3epump": {
+      "symbol": "HORNY",
+      "qty": 5514249.373019318,
+      "entry_price": 8.976743098017774e-06,
+      "last_price": 8.639916969045538e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-17T03:19:29+00:00",
+      "entry_time": "2026-10-17T03:54:58+00:00",
+      "missing": 0
+    },
+    "AwpejFSdZ3GDcrwsJC2r7QeEd8Y6UD6Gm1vvnvmxpump": {
+      "symbol": "Escocar",
+      "qty": 5948580.904304852,
+      "entry_price": 8.321312393041167e-06,
+      "last_price": 8.014295865299677e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T03:54:58+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T18:01:19+00:00",
-      "side": "buy",
-      "symbol": "Harvest",
-      "address": "6XbXaLCbSfu6B9FUjhMdLGbU9Xvwoo5oSxwXvjJQpump",
-      "price": 1.5649233219586816e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T18:31:10+00:00",
-      "side": "sell",
-      "symbol": "Jenny",
-      "address": "CtYmtLmF2ivs9NFdQysPord37J2f3ME7jTZcDMFspump",
-      "price": 3.115259698e-06,
-      "proceeds": 10.13,
-      "pnl_usd": -39.87,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-13T18:31:10+00:00",
-      "side": "sell",
-      "symbol": "Jenny",
-      "address": "BpgYewqBhepGT1sV4Za7tjgWVj3MsMyb6EYtr5Aepump",
-      "price": 3.037650222e-06,
-      "proceeds": 17.72,
-      "pnl_usd": -32.28,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-13T18:31:10+00:00",
-      "side": "buy",
-      "symbol": "TACTICS",
-      "address": "goWDpMh3nqdeuiEe5QjMwA6nBcdSanEBnggAnFZpump",
-      "price": 0.000484430735740651,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T18:31:10+00:00",
-      "side": "buy",
-      "symbol": "$FROINK",
-      "address": "H5pjcUzozJfKHjk9zntNsE7ExtvfpQZaXEahJGEWpump",
-      "price": 5.230850229359848e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T19:05:37+00:00",
       "side": "sell",
@@ -4521,6 +4486,50 @@
       "address": "E7pTEkDQFeodkFKtRnafQxvrZ8GQwc1Rk6La2ZzCpump",
       "price": 0.0004179548598670382,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T03:54:58+00:00",
+      "side": "sell",
+      "symbol": "INUX",
+      "address": "kqm38ANmpjqrx82KnaXBXoMzA4RsC8ReLKXbV8Epump",
+      "price": 1.165476327e-05,
+      "proceeds": 45.66,
+      "pnl_usd": -4.34,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-17T03:54:58+00:00",
+      "side": "sell",
+      "symbol": "iPhone Duo",
+      "address": "E7pTEkDQFeodkFKtRnafQxvrZ8GQwc1Rk6La2ZzCpump",
+      "price": 1.853938635e-06,
+      "proceeds": 0.21,
+      "pnl_usd": -49.79,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-17T03:54:58+00:00",
+      "side": "buy",
+      "symbol": "room/OS",
+      "address": "3cvZsvXFPkFvs2kRCUnuhWfTCjtoLc97aTqaxBcZpump",
+      "price": 2.5940697346243564e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T03:54:58+00:00",
+      "side": "buy",
+      "symbol": "HORNY",
+      "address": "6TQS9ZY9pi2dznBVLLd8rrJeYrStdvU2xsYfjd3epump",
+      "price": 8.976743098017774e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T03:54:58+00:00",
+      "side": "buy",
+      "symbol": "Escocar",
+      "address": "AwpejFSdZ3GDcrwsJC2r7QeEd8Y6UD6Gm1vvnvmxpump",
+      "price": 8.321312393041167e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7375,6 +7384,10 @@
     {
       "date": "2026-10-17T03:19:29+00:00",
       "equity": 5890225.04
+    },
+    {
+      "date": "2026-10-17T03:54:58+00:00",
+      "equity": 5890168.18
     }
   ]
 }
