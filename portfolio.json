@@ -1,119 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5889916.643444706,
+  "cash": 5890129.224084313,
   "positions": {
-    "qu9cnPFqDzGnT5dRfK5jcbwMJqVWfYjxGimSLTMpump": {
-      "symbol": "UDTF",
-      "qty": 856.619375184134,
-      "entry_price": 0.0577852911502962,
-      "last_price": 0.05737163421,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T02:16:08+00:00",
-      "missing": 0
-    },
-    "CVe1xannL3u1bhwLebGwsxXFT1LyVvn4tBEJA1Ppump": {
-      "symbol": "DOOROC",
-      "qty": 7164337.889957375,
-      "entry_price": 6.909221865343164e-06,
-      "last_price": 6.646620115e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T02:16:08+00:00",
-      "missing": 0
-    },
-    "3kRf4w4dEJiqAVpAuByDRBEvu5JXxKSWDSjqwX3Npump": {
-      "symbol": "si",
-      "qty": 3446595.746431573,
-      "entry_price": 1.436199764688091e-05,
-      "last_price": 1.56773535e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T02:16:08+00:00",
-      "missing": 0
-    },
-    "4yYBkgXSsYCeYzP3JDXpwVMP8ZNAapy8QbaRnekVpump": {
-      "symbol": "100kboob?",
-      "qty": 2340246.430439374,
-      "entry_price": 2.1151618631336416e-05,
-      "last_price": 2.0430945098334505e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T02:51:52+00:00",
-      "missing": 0
-    },
-    "7cF6oqKSxR1gtNm7J642dLUa5BeSZ2Pz6CBzDYKvpump": {
-      "symbol": "HYPECHAN",
-      "qty": 5088712.931569215,
-      "entry_price": 9.727410578205991e-06,
-      "last_price": 9.3711330637716e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T02:51:52+00:00",
-      "missing": 0
-    },
     "kqm38ANmpjqrx82KnaXBXoMzA4RsC8ReLKXbV8Epump": {
       "symbol": "INUX",
       "qty": 4101590.6023902344,
       "entry_price": 1.2068488739747327e-05,
-      "last_price": 1.1654763267493126e-05,
+      "last_price": 1.165476327e-05,
       "cost": 50.0,
       "entry_time": "2026-10-17T02:51:52+00:00",
+      "missing": 0
+    },
+    "E7pTEkDQFeodkFKtRnafQxvrZ8GQwc1Rk6La2ZzCpump": {
+      "symbol": "iPhone Duo",
+      "qty": 118433.84239089163,
+      "entry_price": 0.0004179548598670382,
+      "last_price": 0.0004054048670924334,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T03:19:29+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-13T18:01:19+00:00",
-      "side": "sell",
-      "symbol": "INUX",
-      "address": "4HaYAdojVueSWAr9WLmQteejHkUcDn3ow4vaXR6zpump",
-      "price": 1.21245972e-05,
-      "proceeds": 45.5,
-      "pnl_usd": -4.5,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-13T18:01:19+00:00",
-      "side": "sell",
-      "symbol": "PINCHA",
-      "address": "AJtU5R2ENWuf9tK7DsXAFff3HVAdXZvG149X5eYHpump",
-      "price": 4.872265719e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-13T18:01:19+00:00",
-      "side": "sell",
-      "symbol": "MrBeast",
-      "address": "7XpB6fGcsZcUKmSdJkGpvH45HpsUbB8nSFWNwDRppump",
-      "price": 0.0005524392881,
-      "proceeds": 63.89,
-      "pnl_usd": 13.89,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-13T18:01:19+00:00",
-      "side": "sell",
-      "symbol": "CSV",
-      "address": "GyzMQtg3AZ7jFupff2EPNB8xpm8kT627oxnuyf8Xpump",
-      "price": 3.284723725e-06,
-      "proceeds": 16.81,
-      "pnl_usd": -33.19,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-13T18:01:19+00:00",
-      "side": "buy",
-      "symbol": "Jenny",
-      "address": "CtYmtLmF2ivs9NFdQysPord37J2f3ME7jTZcDMFspump",
-      "price": 1.4548544765125246e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-13T18:01:19+00:00",
-      "side": "buy",
-      "symbol": "Jenny",
-      "address": "BpgYewqBhepGT1sV4Za7tjgWVj3MsMyb6EYtr5Aepump",
-      "price": 8.086819498486852e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-13T18:01:19+00:00",
       "side": "buy",
@@ -4555,6 +4463,64 @@
       "address": "kqm38ANmpjqrx82KnaXBXoMzA4RsC8ReLKXbV8Epump",
       "price": 1.2068488739747327e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T03:19:29+00:00",
+      "side": "sell",
+      "symbol": "UDTF",
+      "address": "qu9cnPFqDzGnT5dRfK5jcbwMJqVWfYjxGimSLTMpump",
+      "price": 0.05798185924,
+      "proceeds": 47.69,
+      "pnl_usd": -2.31,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-17T03:19:29+00:00",
+      "side": "sell",
+      "symbol": "DOOROC",
+      "address": "CVe1xannL3u1bhwLebGwsxXFT1LyVvn4tBEJA1Ppump",
+      "price": 6.646620115e-06,
+      "proceeds": 45.3,
+      "pnl_usd": -4.7,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-17T03:19:29+00:00",
+      "side": "sell",
+      "symbol": "si",
+      "address": "3kRf4w4dEJiqAVpAuByDRBEvu5JXxKSWDSjqwX3Npump",
+      "price": 1.56773535e-05,
+      "proceeds": 51.65,
+      "pnl_usd": 1.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-17T03:19:29+00:00",
+      "side": "sell",
+      "symbol": "100kboob?",
+      "address": "4yYBkgXSsYCeYzP3JDXpwVMP8ZNAapy8QbaRnekVpump",
+      "price": 3.794768834e-05,
+      "proceeds": 85.02,
+      "pnl_usd": 35.02,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-17T03:19:29+00:00",
+      "side": "sell",
+      "symbol": "HYPECHAN",
+      "address": "7cF6oqKSxR1gtNm7J642dLUa5BeSZ2Pz6CBzDYKvpump",
+      "price": 6.824910525e-06,
+      "proceeds": 32.93,
+      "pnl_usd": -17.07,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T03:19:29+00:00",
+      "side": "buy",
+      "symbol": "iPhone Duo",
+      "address": "E7pTEkDQFeodkFKtRnafQxvrZ8GQwc1Rk6La2ZzCpump",
+      "price": 0.0004179548598670382,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7405,6 +7371,10 @@
     {
       "date": "2026-10-17T02:51:52+00:00",
       "equity": 5890210.74
+    },
+    {
+      "date": "2026-10-17T03:19:29+00:00",
+      "equity": 5890225.04
     }
   ]
 }
