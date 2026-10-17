@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5889386.823088152,
-  "positions": {
-    "6wfZjsVxoQ5T3KfY4vC8svfRnT4nbCUE6LnaysB2pump": {
-      "symbol": "att",
-      "qty": 5279619.684766481,
-      "entry_price": 9.3756753242709e-06,
-      "last_price": 9.040029021257279e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T12:31:52+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5889410.448406162,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-14T02:29:51+00:00",
-      "side": "sell",
-      "symbol": "MIMI",
-      "address": "34CZAnUMEnEEeiXfjKZZ6DBL5RX66xE3QvYRYJwcpump",
-      "price": 3.017520025e-06,
-      "proceeds": 44.45,
-      "pnl_usd": -5.55,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-14T02:29:51+00:00",
       "side": "sell",
@@ -4514,6 +4494,16 @@
       "address": "6wfZjsVxoQ5T3KfY4vC8svfRnT4nbCUE6LnaysB2pump",
       "price": 9.3756753242709e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T13:08:55+00:00",
+      "side": "sell",
+      "symbol": "att",
+      "address": "6wfZjsVxoQ5T3KfY4vC8svfRnT4nbCUE6LnaysB2pump",
+      "price": 9.040029021e-06,
+      "proceeds": 23.63,
+      "pnl_usd": -26.37,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -7436,6 +7426,10 @@
     {
       "date": "2026-10-17T12:31:52+00:00",
       "equity": 5889434.55
+    },
+    {
+      "date": "2026-10-17T13:08:55+00:00",
+      "equity": 5889410.45
     }
   ]
 }
