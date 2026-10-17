@@ -1,38 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5888908.419568509,
+  "cash": 5888808.419568509,
   "positions": {
     "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump": {
       "symbol": "$DODO",
       "qty": 3772186.750330282,
       "entry_price": 1.3122361981592222e-05,
-      "last_price": 1.2678561798714403e-05,
+      "last_price": 1.269822243e-05,
       "cost": 50.0,
       "entry_time": "2026-10-17T23:02:18+00:00",
+      "missing": 0
+    },
+    "9xh9Ji35euqzbgoXKALWyg3jVppqtk4WnkAK5Lugpump": {
+      "symbol": "COMAN",
+      "qty": 13723701.783685066,
+      "entry_price": 3.606898545321519e-06,
+      "last_price": 3.476343536405167e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T23:27:57+00:00",
+      "missing": 0
+    },
+    "7rKvUuqPqdXqKLUvBrPonws1JsBqxTiA1oRCavWCpump": {
+      "symbol": "Halloween",
+      "qty": 7226434.726375207,
+      "entry_price": 6.849850842675402e-06,
+      "last_price": 6.588508657012821e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T23:27:57+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T14:01:14+00:00",
-      "side": "sell",
-      "symbol": "Musclecat",
-      "address": "E5WFhWdH9HfimKsRnKQSPxZ1QP3MKS4BrZFGFpm7pump",
-      "price": 0.0001029168581,
-      "proceeds": 29.72,
-      "pnl_usd": -20.28,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-14T14:01:14+00:00",
-      "side": "sell",
-      "symbol": "Jackie",
-      "address": "GBMY1kzS6KcJu1BQq1BvryfuB4qA4nxfpg429pV6pump",
-      "price": 2.953380221e-06,
-      "proceeds": 6.01,
-      "pnl_usd": -43.99,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-14T14:01:14+00:00",
       "side": "sell",
@@ -4516,6 +4514,22 @@
       "address": "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump",
       "price": 1.3122361981592222e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T23:27:57+00:00",
+      "side": "buy",
+      "symbol": "COMAN",
+      "address": "9xh9Ji35euqzbgoXKALWyg3jVppqtk4WnkAK5Lugpump",
+      "price": 3.606898545321519e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T23:27:57+00:00",
+      "side": "buy",
+      "symbol": "Halloween",
+      "address": "7rKvUuqPqdXqKLUvBrPonws1JsBqxTiA1oRCavWCpump",
+      "price": 6.849850842675402e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7530,6 +7544,10 @@
     {
       "date": "2026-10-17T23:02:18+00:00",
       "equity": 5888956.25
+    },
+    {
+      "date": "2026-10-17T23:27:57+00:00",
+      "equity": 5888951.64
     }
   ]
 }
