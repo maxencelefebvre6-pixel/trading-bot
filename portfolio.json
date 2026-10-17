@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5889005.103732406,
+  "cash": 5888984.334545895,
   "positions": {
     "3EDitmdBpRMzLDbeq31AeW1j36dLunijZcDAPo7Jpump": {
       "symbol": "LMAO",
@@ -11,53 +11,35 @@
       "entry_time": "2026-10-17T21:22:59+00:00",
       "missing": 0
     },
-    "3ZjRd8BBKMCo1ePn8tykLL5d9mM26x9dqgVrvviXpump": {
-      "symbol": "KEV",
-      "qty": 3284723.2204733943,
-      "entry_price": 1.5069762862049016e-05,
-      "last_price": 1.4518781583134558e-05,
+    "ALknT1ria1RAnLDCUJh4xEZrLT5ifBntTY1aeZsEpump": {
+      "symbol": "FOMO",
+      "qty": 120990.01801679781,
+      "entry_price": 0.0004091246601279752,
+      "last_price": 0.0003968335169010991,
       "cost": 50.0,
-      "entry_time": "2026-10-17T21:50:52+00:00",
+      "entry_time": "2026-10-17T22:11:30+00:00",
+      "missing": 0
+    },
+    "DT3XpNHrMNXFp21DZj6PrcZG6HFopiLEdWTV3odPpump": {
+      "symbol": ":)",
+      "qty": 5405863.268747515,
+      "entry_price": 9.15672438224074e-06,
+      "last_price": 8.808725593841373e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T22:11:30+00:00",
+      "missing": 0
+    },
+    "EvWyX8d8a7pmTcXSJ3ccd1hcxoqUsdH2jmFhSiZUpump": {
+      "symbol": "Osaka",
+      "qty": 6070203.801842852,
+      "entry_price": 8.15458617468038e-06,
+      "last_price": 7.853986495130397e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T22:11:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T12:02:31+00:00",
-      "side": "buy",
-      "symbol": "TESLA SI",
-      "address": "7QXUxDpA7YBzF5w8ZmFHsgXDP2R76nNq3oYLoCB7pump",
-      "price": 0.0004146746767594265,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T12:02:31+00:00",
-      "side": "buy",
-      "symbol": "KELCARDS",
-      "address": "GFSGuCne5jxbSgB41S9SAhnMpPNNojKpWbEC3Q2Epump",
-      "price": 0.09441350885496068,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T12:44:05+00:00",
-      "side": "sell",
-      "symbol": "TESLA SI",
-      "address": "7QXUxDpA7YBzF5w8ZmFHsgXDP2R76nNq3oYLoCB7pump",
-      "price": 1.905653222e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-14T12:44:05+00:00",
-      "side": "sell",
-      "symbol": "KELCARDS",
-      "address": "GFSGuCne5jxbSgB41S9SAhnMpPNNojKpWbEC3Q2Epump",
-      "price": 0.1016098636,
-      "proceeds": 26.37,
-      "pnl_usd": -23.63,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-14T12:44:05+00:00",
       "side": "buy",
@@ -4519,6 +4501,40 @@
       "address": "3ZjRd8BBKMCo1ePn8tykLL5d9mM26x9dqgVrvviXpump",
       "price": 1.5069762862049016e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T22:11:30+00:00",
+      "side": "sell",
+      "symbol": "KEV",
+      "address": "3ZjRd8BBKMCo1ePn8tykLL5d9mM26x9dqgVrvviXpump",
+      "price": 4.173313658e-05,
+      "proceeds": 129.23,
+      "pnl_usd": 79.23,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-17T22:11:30+00:00",
+      "side": "buy",
+      "symbol": "FOMO",
+      "address": "ALknT1ria1RAnLDCUJh4xEZrLT5ifBntTY1aeZsEpump",
+      "price": 0.0004091246601279752,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T22:11:30+00:00",
+      "side": "buy",
+      "symbol": ":)",
+      "address": "DT3XpNHrMNXFp21DZj6PrcZG6HFopiLEdWTV3odPpump",
+      "price": 9.15672438224074e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T22:11:30+00:00",
+      "side": "buy",
+      "symbol": "Osaka",
+      "address": "EvWyX8d8a7pmTcXSJ3ccd1hcxoqUsdH2jmFhSiZUpump",
+      "price": 8.15458617468038e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7521,6 +7537,10 @@
     {
       "date": "2026-10-17T21:50:52+00:00",
       "equity": 5889100.47
+    },
+    {
+      "date": "2026-10-17T22:11:30+00:00",
+      "equity": 5889175.31
     }
   ]
 }
