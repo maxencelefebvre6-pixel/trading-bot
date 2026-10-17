@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5889391.519920507,
-  "positions": {
-    "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump": {
-      "symbol": "unsuitablecat",
-      "qty": 6969383.668193207,
-      "entry_price": 7.102493183996675e-06,
-      "last_price": 6.831832863e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T10:36:44+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5889436.823088152,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-14T01:58:26+00:00",
-      "side": "sell",
-      "symbol": "UNICORN",
-      "address": "ExtEbpHveWyRaQ35hdSSPssR4UohY3ZL2ZgHxT2Gpump",
-      "price": 4.187922403e-06,
-      "proceeds": 12.87,
-      "pnl_usd": -37.13,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-14T01:58:27+00:00",
       "side": "buy",
@@ -4514,6 +4494,16 @@
       "proceeds": 28.5,
       "pnl_usd": -21.5,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T11:58:14+00:00",
+      "side": "sell",
+      "symbol": "unsuitablecat",
+      "address": "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump",
+      "price": 6.831832863e-06,
+      "proceeds": 45.3,
+      "pnl_usd": -4.7,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -7428,6 +7418,10 @@
     {
       "date": "2026-10-17T11:31:38+00:00",
       "equity": 5889439.13
+    },
+    {
+      "date": "2026-10-17T11:58:14+00:00",
+      "equity": 5889436.82
     }
   ]
 }
