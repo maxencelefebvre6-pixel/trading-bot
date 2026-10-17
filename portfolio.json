@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5889251.605739845,
+  "cash": 5889259.201578035,
   "positions": {
     "2P89rKFnMQsrxTH8hivug9DHamvXSMgvcZ9VDhCUpump": {
       "symbol": "IBM",
@@ -11,55 +11,35 @@
       "entry_time": "2026-10-17T15:57:14+00:00",
       "missing": 0
     },
-    "GGtcwLppsZaVPzgFRAq3uH3uuiWGJyFooMG2FuzQpump": {
-      "symbol": "DOTS",
-      "qty": 597214.071522916,
-      "entry_price": 8.288485211638322e-05,
-      "last_price": 8.035903270359258e-05,
+    "7vGYywpGUMCCu8dGYdc9mKdJq6xDEnLm4ANMS4EKpump": {
+      "symbol": "QUID",
+      "qty": 592572.7218648995,
+      "entry_price": 8.353405105151886e-05,
+      "last_price": 8.098823688782719e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T16:25:57+00:00",
+      "entry_time": "2026-10-17T16:56:07+00:00",
+      "missing": 0
+    },
+    "HsoZa2P4LixZeYgvRTdi7Xp2LhL11mXyPDqEtuQNpump": {
+      "symbol": "OK",
+      "qty": 595323.6635676161,
+      "entry_price": 8.314804706965567e-05,
+      "last_price": 8.061362123553541e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T16:56:07+00:00",
+      "missing": 0
+    },
+    "KMCp1Na2bKEhiJEVpXSBL7oZqJgf2zMBZ2RFRvBpump": {
+      "symbol": "X",
+      "qty": 123060.17514496949,
+      "entry_price": 0.00040224223589546454,
+      "last_price": 0.0003901470841823108,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T16:56:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T05:15:59+00:00",
-      "side": "buy",
-      "symbol": "Puffs",
-      "address": "5fJ5xmREbC8QCkYnPyXiNsp1N242hwovC6jvXfKzpump",
-      "price": 2.9112895905019407e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T05:52:08+00:00",
-      "side": "sell",
-      "symbol": "lptp",
-      "address": "KpCut2pnF93Wy51MpGDXk3U9qRGgMK9fHL5EVT6pump",
-      "price": 1.010464617e-05,
-      "proceeds": 44.97,
-      "pnl_usd": -5.03,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-14T05:52:08+00:00",
-      "side": "sell",
-      "symbol": "PETS",
-      "address": "78aBaeBixfAoVsAEdzP2zvWGPWpepQFVwN4FpsDFpump",
-      "price": 0.0001044378174,
-      "proceeds": 29.33,
-      "pnl_usd": -20.67,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-14T05:52:08+00:00",
-      "side": "sell",
-      "symbol": "Puffs",
-      "address": "5fJ5xmREbC8QCkYnPyXiNsp1N242hwovC6jvXfKzpump",
-      "price": 3.949891864e-05,
-      "proceeds": 63.36,
-      "pnl_usd": 13.36,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-14T05:52:08+00:00",
       "side": "buy",
@@ -4521,6 +4501,40 @@
       "address": "GGtcwLppsZaVPzgFRAq3uH3uuiWGJyFooMG2FuzQpump",
       "price": 8.288485211638322e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T16:56:07+00:00",
+      "side": "sell",
+      "symbol": "DOTS",
+      "address": "GGtcwLppsZaVPzgFRAq3uH3uuiWGJyFooMG2FuzQpump",
+      "price": 0.00053310102,
+      "proceeds": 157.6,
+      "pnl_usd": 107.6,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-17T16:56:07+00:00",
+      "side": "buy",
+      "symbol": "QUID",
+      "address": "7vGYywpGUMCCu8dGYdc9mKdJq6xDEnLm4ANMS4EKpump",
+      "price": 8.353405105151886e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T16:56:07+00:00",
+      "side": "buy",
+      "symbol": "OK",
+      "address": "HsoZa2P4LixZeYgvRTdi7Xp2LhL11mXyPDqEtuQNpump",
+      "price": 8.314804706965567e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T16:56:07+00:00",
+      "side": "buy",
+      "symbol": "X",
+      "address": "KMCp1Na2bKEhiJEVpXSBL7oZqJgf2zMBZ2RFRvBpump",
+      "price": 0.00040224223589546454,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7475,6 +7489,10 @@
     {
       "date": "2026-10-17T16:25:57+00:00",
       "equity": 5889349.71
+    },
+    {
+      "date": "2026-10-17T16:56:07+00:00",
+      "equity": 5889453.31
     }
   ]
 }
