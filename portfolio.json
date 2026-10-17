@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5889339.061620656,
+  "cash": 5889317.420018963,
   "positions": {
-    "DR3DLkViQrnc2DkVJFYxkoo3yv65VZuhR3jc2DNjpump": {
-      "symbol": "AI",
-      "qty": 3596527.4817235437,
-      "entry_price": 1.3763275896415059e-05,
-      "last_price": 1.493082461e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T10:06:17+00:00",
-      "missing": 0
-    },
     "4ZZV8uTyjovtzTQckWfcbuorf8pzpMaWVEKoVm7ipump": {
       "symbol": "$CEOCAT",
       "qty": 4603045.7790780505,
@@ -20,52 +11,26 @@
       "entry_time": "2026-10-17T10:06:17+00:00",
       "missing": 0
     },
-    "5bHFygxBZ775KMtQ2PLCbeo8Z9U8Wc1K7FU7AvWNpump": {
-      "symbol": "TESLA SI",
-      "qty": 120811.15202857566,
-      "entry_price": 0.00040973038638263863,
-      "last_price": 0.00039742760949065744,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T10:36:44+00:00",
-      "missing": 0
-    },
     "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump": {
       "symbol": "unsuitablecat",
       "qty": 6969383.668193207,
       "entry_price": 7.102493183996675e-06,
-      "last_price": 6.831832862904824e-06,
+      "last_price": 6.831832863e-06,
       "cost": 50.0,
       "entry_time": "2026-10-17T10:36:44+00:00",
+      "missing": 0
+    },
+    "H2tMQrgQim3KNsztzxsLZjfNCxC8Wfk5993K5ucpump": {
+      "symbol": "Mr.Teddy",
+      "qty": 5839250.843583131,
+      "entry_price": 8.477114843318734e-06,
+      "last_price": 8.152029063651928e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T11:02:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T00:50:10+00:00",
-      "side": "buy",
-      "symbol": "ARCADES",
-      "address": "AtfZPuHiPVT2uTX2puPqu6sk5NKqukHK72YjDL3Kpump",
-      "price": 8.624999498277596e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T01:24:33+00:00",
-      "side": "sell",
-      "symbol": "ARCADES",
-      "address": "AtfZPuHiPVT2uTX2puPqu6sk5NKqukHK72YjDL3Kpump",
-      "price": 0.0005571933893,
-      "proceeds": 158.29,
-      "pnl_usd": 108.29,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-14T01:24:34+00:00",
-      "side": "buy",
-      "symbol": "MIMI",
-      "address": "34CZAnUMEnEEeiXfjKZZ6DBL5RX66xE3QvYRYJwcpump",
-      "price": 3.160716820059952e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T01:24:34+00:00",
       "side": "buy",
@@ -4535,6 +4500,34 @@
       "address": "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump",
       "price": 7.102493183996675e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T11:02:50+00:00",
+      "side": "sell",
+      "symbol": "AI",
+      "address": "DR3DLkViQrnc2DkVJFYxkoo3yv65VZuhR3jc2DNjpump",
+      "price": 8.230967302e-06,
+      "proceeds": 28.14,
+      "pnl_usd": -21.86,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T11:02:50+00:00",
+      "side": "sell",
+      "symbol": "TESLA SI",
+      "address": "5bHFygxBZ775KMtQ2PLCbeo8Z9U8Wc1K7FU7AvWNpump",
+      "price": 1.863256659e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T11:02:51+00:00",
+      "side": "buy",
+      "symbol": "Mr.Teddy",
+      "address": "H2tMQrgQim3KNsztzxsLZjfNCxC8Wfk5993K5ucpump",
+      "price": 8.477114843318734e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7441,6 +7434,10 @@
     {
       "date": "2026-10-17T10:36:44+00:00",
       "equity": 5889536.16
+    },
+    {
+      "date": "2026-10-17T11:02:51+00:00",
+      "equity": 5889460.41
     }
   ]
 }
