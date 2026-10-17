@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5889438.0642144885,
+  "cash": 5889339.061620656,
   "positions": {
-    "8awaK1eoxDkVB7HkTNEiVdkMucZyWTRwu4TRLPiJpump": {
-      "symbol": "MOGPEPE",
-      "qty": 470961.277543997,
-      "entry_price": 0.00010510418236109811,
-      "last_price": 0.00010186051473915063,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T10:06:17+00:00",
-      "missing": 0
-    },
     "DR3DLkViQrnc2DkVJFYxkoo3yv65VZuhR3jc2DNjpump": {
       "symbol": "AI",
       "qty": 3596527.4817235437,
       "entry_price": 1.3763275896415059e-05,
-      "last_price": 1.3263782148339107e-05,
+      "last_price": 1.493082461e-05,
       "cost": 50.0,
       "entry_time": "2026-10-17T10:06:17+00:00",
       "missing": 0
@@ -24,43 +15,31 @@
       "symbol": "$CEOCAT",
       "qty": 4603045.7790780505,
       "entry_price": 1.0753749229475273e-05,
-      "last_price": 1.0379014345627862e-05,
+      "last_price": 1.037841347e-05,
       "cost": 50.0,
       "entry_time": "2026-10-17T10:06:17+00:00",
+      "missing": 0
+    },
+    "5bHFygxBZ775KMtQ2PLCbeo8Z9U8Wc1K7FU7AvWNpump": {
+      "symbol": "TESLA SI",
+      "qty": 120811.15202857566,
+      "entry_price": 0.00040973038638263863,
+      "last_price": 0.00039742760949065744,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T10:36:44+00:00",
+      "missing": 0
+    },
+    "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump": {
+      "symbol": "unsuitablecat",
+      "qty": 6969383.668193207,
+      "entry_price": 7.102493183996675e-06,
+      "last_price": 6.831832862904824e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T10:36:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T00:05:48+00:00",
-      "side": "sell",
-      "symbol": "CHUD",
-      "address": "2nNf2yJXFGihaPCTTSdgnh7atUNMde2pwUvs6faxpump",
-      "price": 2.987785367e-06,
-      "proceeds": 11.59,
-      "pnl_usd": -38.41,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-14T00:50:09+00:00",
-      "side": "sell",
-      "symbol": "MONY",
-      "address": "CSNtgZG7dMiTJgNYC7TyPR5W8rJqASFUQamP9ysSpump",
-      "price": 1.078349899e-05,
-      "proceeds": 45.61,
-      "pnl_usd": -4.39,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-14T00:50:09+00:00",
-      "side": "sell",
-      "symbol": "$SUS",
-      "address": "FGqUFQfHsSQnU5X31tCyYJwYXR3G5qqjCBfuJBPdpump",
-      "price": 7.96421395e-06,
-      "proceeds": 45.56,
-      "pnl_usd": -4.44,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-14T00:50:10+00:00",
       "side": "buy",
@@ -4530,6 +4509,32 @@
       "address": "4ZZV8uTyjovtzTQckWfcbuorf8pzpMaWVEKoVm7ipump",
       "price": 1.0753749229475273e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T10:36:44+00:00",
+      "side": "sell",
+      "symbol": "MOGPEPE",
+      "address": "8awaK1eoxDkVB7HkTNEiVdkMucZyWTRwu4TRLPiJpump",
+      "price": 2.207519005e-06,
+      "proceeds": 1.0,
+      "pnl_usd": -49.0,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T10:36:44+00:00",
+      "side": "buy",
+      "symbol": "TESLA SI",
+      "address": "5bHFygxBZ775KMtQ2PLCbeo8Z9U8Wc1K7FU7AvWNpump",
+      "price": 0.00040973038638263863,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T10:36:44+00:00",
+      "side": "buy",
+      "symbol": "unsuitablecat",
+      "address": "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump",
+      "price": 7.102493183996675e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7432,6 +7437,10 @@
     {
       "date": "2026-10-17T10:06:17+00:00",
       "equity": 5889581.52
+    },
+    {
+      "date": "2026-10-17T10:36:44+00:00",
+      "equity": 5889536.16
     }
   ]
 }
