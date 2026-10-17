@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5888945.629387395,
+  "cash": 5888908.419568509,
   "positions": {
-    "Abw5GpgLXnMabe2UpZkFNaDeCed3rALQVmQXi9Gupump": {
-      "symbol": "anir",
-      "qty": 3915341.7879063236,
-      "entry_price": 1.2642574437024937e-05,
-      "last_price": 1.2180710966367661e-05,
+    "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump": {
+      "symbol": "$DODO",
+      "qty": 3772186.750330282,
+      "entry_price": 1.3122361981592222e-05,
+      "last_price": 1.2678561798714403e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T22:41:14+00:00",
-      "missing": 0
-    },
-    "83XQi4mAZJvsTivzvczgUK895JRmwhfLj9KfbCcmpump": {
-      "symbol": "MrBeast",
-      "qty": 883615.3709804672,
-      "entry_price": 5.601984938885159e-05,
-      "last_price": 5.433453923724263e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T22:41:14+00:00",
+      "entry_time": "2026-10-17T23:02:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T13:22:13+00:00",
-      "side": "buy",
-      "symbol": "Orviapp",
-      "address": "pn9PfXAmvLpq4ph2mqURwPZd5PBK6tmMKVR4npipump",
-      "price": 2.0024229185958714e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T13:22:13+00:00",
-      "side": "buy",
-      "symbol": "$AURA",
-      "address": "6gvUDGzxvH7ECv2TBNBJga7SpQ4p2c7eEViqxsjepump",
-      "price": 7.08486497663018e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T13:22:13+00:00",
-      "side": "buy",
-      "symbol": "Sevda",
-      "address": "VcUuapXnPXNVbyFuW7Egy52LCFqSsvyMMnAbYEspump",
-      "price": 3.095253106396232e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T14:01:14+00:00",
       "side": "sell",
@@ -4521,6 +4488,34 @@
       "address": "83XQi4mAZJvsTivzvczgUK895JRmwhfLj9KfbCcmpump",
       "price": 5.601984938885159e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T23:02:18+00:00",
+      "side": "sell",
+      "symbol": "anir",
+      "address": "Abw5GpgLXnMabe2UpZkFNaDeCed3rALQVmQXi9Gupump",
+      "price": 2.96659603e-06,
+      "proceeds": 11.12,
+      "pnl_usd": -38.88,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T23:02:18+00:00",
+      "side": "sell",
+      "symbol": "MrBeast",
+      "address": "83XQi4mAZJvsTivzvczgUK895JRmwhfLj9KfbCcmpump",
+      "price": 1.972717006e-06,
+      "proceeds": 1.67,
+      "pnl_usd": -48.33,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T23:02:18+00:00",
+      "side": "buy",
+      "symbol": "$DODO",
+      "address": "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump",
+      "price": 1.3122361981592222e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7531,6 +7526,10 @@
     {
       "date": "2026-10-17T22:41:14+00:00",
       "equity": 5889041.33
+    },
+    {
+      "date": "2026-10-17T23:02:18+00:00",
+      "equity": 5888956.25
     }
   ]
 }
