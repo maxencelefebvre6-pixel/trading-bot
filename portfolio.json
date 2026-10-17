@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5889153.081048275,
+  "cash": 5889054.865693229,
   "positions": {
-    "HuHEQrLTk6rqGofZwWb4xycWWxYJTyCCszTszfMYpump": {
-      "symbol": "TRUUP",
-      "qty": 746726.1176785917,
-      "entry_price": 6.62893647725684e-05,
-      "last_price": 6.418434698058212e-05,
+    "GFu7ov4MoLvxHYd7MZZuZjdDP1tqpjupz4cQyK4ipump": {
+      "symbol": "inu",
+      "qty": 3827177.833083859,
+      "entry_price": 1.2933812370070596e-05,
+      "last_price": 1.2467177190341199e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T19:34:39+00:00",
+      "entry_time": "2026-10-17T19:57:40+00:00",
       "missing": 0
     },
-    "VME9t1UtEUfwndtsRJyeyK5UBqjSuhPEMjN2QkZpump": {
-      "symbol": "TESLA",
-      "qty": 6486479.657884995,
-      "entry_price": 7.631258033751415e-06,
-      "last_price": 7.345299052711277e-06,
+    "D5xrHHWaDG867SGzzYYjGvuQTzraNqXz4YZ31sHipump": {
+      "symbol": "$AURA",
+      "qty": 4722538.988592899,
+      "entry_price": 1.048164983276268e-05,
+      "last_price": 1.011432173134986e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T19:34:39+00:00",
+      "entry_time": "2026-10-17T19:57:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T09:44:14+00:00",
-      "side": "buy",
-      "symbol": "Fluffy",
-      "address": "GyjGj8JCMPFe9iDXcxbq8FL9ArsZG2KKbZdtTmprpump",
-      "price": 1.154311330662085e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T09:44:14+00:00",
-      "side": "buy",
-      "symbol": "ponzi",
-      "address": "8RwfqVijzKgb9URf1F1qbMZpSAuXx3kFn5VJ4rTbpump",
-      "price": 1.550420994946917e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T10:16:19+00:00",
-      "side": "sell",
-      "symbol": "ARF",
-      "address": "GDXDqyrDDSQnfJ3WtiVTB7vngJxFc97ezQGKmMB4pump",
-      "price": 0.01112463408,
-      "proceeds": 44.42,
-      "pnl_usd": -5.58,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-14T10:16:19+00:00",
-      "side": "sell",
-      "symbol": "Yumi",
-      "address": "C232xtRnY2BazBLgNbkBhfLDmdm9fM2JbGvQ2Q4epump",
-      "price": 7.508926208e-08,
-      "proceeds": 0.02,
-      "pnl_usd": -49.98,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-14T10:16:19+00:00",
       "side": "sell",
@@ -4521,6 +4485,42 @@
       "address": "VME9t1UtEUfwndtsRJyeyK5UBqjSuhPEMjN2QkZpump",
       "price": 7.631258033751415e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T19:57:40+00:00",
+      "side": "sell",
+      "symbol": "TRUUP",
+      "address": "HuHEQrLTk6rqGofZwWb4xycWWxYJTyCCszTszfMYpump",
+      "price": 2.421681257e-06,
+      "proceeds": 1.73,
+      "pnl_usd": -48.27,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T19:57:40+00:00",
+      "side": "sell",
+      "symbol": "TESLA",
+      "address": "VME9t1UtEUfwndtsRJyeyK5UBqjSuhPEMjN2QkZpump",
+      "price": 8.248060919e-09,
+      "proceeds": 0.05,
+      "pnl_usd": -49.95,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-17T19:57:40+00:00",
+      "side": "buy",
+      "symbol": "inu",
+      "address": "GFu7ov4MoLvxHYd7MZZuZjdDP1tqpjupz4cQyK4ipump",
+      "price": 1.2933812370070596e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T19:57:40+00:00",
+      "side": "buy",
+      "symbol": "$AURA",
+      "address": "D5xrHHWaDG867SGzzYYjGvuQTzraNqXz4YZ31sHipump",
+      "price": 1.048164983276268e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7503,6 +7503,10 @@
     {
       "date": "2026-10-17T19:34:39+00:00",
       "equity": 5889248.65
+    },
+    {
+      "date": "2026-10-17T19:57:40+00:00",
+      "equity": 5889150.35
     }
   ]
 }
