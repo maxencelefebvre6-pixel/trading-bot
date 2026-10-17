@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5889289.906728869,
+  "cash": 5889273.870467122,
   "positions": {
-    "3n1gYTuY6ggUs8ekmW26zuN5ihTyM8S7raGThUftpump": {
-      "symbol": "GTAVI",
-      "qty": 6270198.5797380805,
-      "entry_price": 7.89448681257998e-06,
-      "last_price": 7.596711096328754e-06,
+    "9RnjAAJf8hgnom7ikYGRh4ZajGC5Dcs4wknCPV7upump": {
+      "symbol": "Commons",
+      "qty": 592559.4051163346,
+      "entry_price": 8.353592833495214e-05,
+      "last_price": 8.099041978891306e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-17T17:22:41+00:00",
-      "missing": 0
-    },
-    "9dRkeih56wkTqPo8TgqW8R23N8Q8TETbpbUyZ3zPpump": {
-      "symbol": "uhh",
-      "qty": 5269622.725404051,
-      "entry_price": 9.393461843362717e-06,
-      "last_price": 9.037211172396584e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T17:22:41+00:00",
+      "entry_time": "2026-10-17T17:49:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T06:23:55+00:00",
-      "side": "buy",
-      "symbol": "cock",
-      "address": "8aYaxVd2Kwdqmau3iFJWK27CTjvqp4MmwAFqvWrcpump",
-      "price": 1.0016668307130488e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T06:23:55+00:00",
-      "side": "buy",
-      "symbol": "MaxPain",
-      "address": "GF6jtgS6bkKnFAJV4EGoJnrqDKX8kyMHHDuJqiHTpump",
-      "price": 8.37436561756933e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T07:14:26+00:00",
-      "side": "sell",
-      "symbol": "RobinPump",
-      "address": "GtGHxVvigiSpjK7eZkZyQX4WAVg724jN9DSyHY4Xpump",
-      "price": 1.211375442e-05,
-      "proceeds": 45.68,
-      "pnl_usd": -4.32,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-14T07:14:26+00:00",
       "side": "sell",
@@ -4521,6 +4486,34 @@
       "address": "9dRkeih56wkTqPo8TgqW8R23N8Q8TETbpbUyZ3zPpump",
       "price": 9.393461843362717e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T17:49:26+00:00",
+      "side": "sell",
+      "symbol": "GTAVI",
+      "address": "3n1gYTuY6ggUs8ekmW26zuN5ihTyM8S7raGThUftpump",
+      "price": 3.226146928e-06,
+      "proceeds": 19.27,
+      "pnl_usd": -30.73,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T17:49:26+00:00",
+      "side": "sell",
+      "symbol": "uhh",
+      "address": "9dRkeih56wkTqPo8TgqW8R23N8Q8TETbpbUyZ3zPpump",
+      "price": 2.924524643e-06,
+      "proceeds": 14.7,
+      "pnl_usd": -35.3,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-17T17:49:27+00:00",
+      "side": "buy",
+      "symbol": "Commons",
+      "address": "9RnjAAJf8hgnom7ikYGRh4ZajGC5Dcs4wknCPV7upump",
+      "price": 8.353592833495214e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7483,6 +7476,10 @@
     {
       "date": "2026-10-17T17:22:41+00:00",
       "equity": 5889385.16
+    },
+    {
+      "date": "2026-10-17T17:49:27+00:00",
+      "equity": 5889321.86
     }
   ]
 }
