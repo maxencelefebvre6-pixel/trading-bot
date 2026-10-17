@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5889410.448406162,
-  "positions": {},
+  "cash": 5889360.448406162,
+  "positions": {
+    "Bc8ByH9m2AZxhB9tGc8QUDzH5PdfQEK56NYhPWzTpump": {
+      "symbol": "kittylick",
+      "qty": 4465655.963386913,
+      "entry_price": 1.1084597740139713e-05,
+      "last_price": 1.0699801233607987e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T13:40:02+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-14T02:29:51+00:00",
-      "side": "sell",
-      "symbol": "FAITH",
-      "address": "HnpoUC92RMLbsc2m5W7eL8joocFfAt5kv2fnGgoCpump",
-      "price": 1.377411795e-05,
-      "proceeds": 45.72,
-      "pnl_usd": -4.28,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-14T02:29:51+00:00",
       "side": "buy",
@@ -4504,6 +4504,14 @@
       "proceeds": 23.63,
       "pnl_usd": -26.37,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-17T13:40:02+00:00",
+      "side": "buy",
+      "symbol": "kittylick",
+      "address": "Bc8ByH9m2AZxhB9tGc8QUDzH5PdfQEK56NYhPWzTpump",
+      "price": 1.1084597740139713e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7430,6 +7438,10 @@
     {
       "date": "2026-10-17T13:08:55+00:00",
       "equity": 5889410.45
+    },
+    {
+      "date": "2026-10-17T13:40:02+00:00",
+      "equity": 5889408.23
     }
   ]
 }
