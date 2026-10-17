@@ -1,42 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5889360.448406162,
+  "cash": 5889210.448406162,
   "positions": {
     "Bc8ByH9m2AZxhB9tGc8QUDzH5PdfQEK56NYhPWzTpump": {
       "symbol": "kittylick",
       "qty": 4465655.963386913,
       "entry_price": 1.1084597740139713e-05,
-      "last_price": 1.0699801233607987e-05,
+      "last_price": 1.069980123e-05,
       "cost": 50.0,
       "entry_time": "2026-10-17T13:40:02+00:00",
+      "missing": 0
+    },
+    "9veUQnrE6DiawJLFcjvoqfVvGAqDtDEyDFwh1Biupump": {
+      "symbol": "Jackie",
+      "qty": 593430.1877044062,
+      "entry_price": 8.341335008837884e-05,
+      "last_price": 8.087217545053471e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T14:05:28+00:00",
+      "missing": 0
+    },
+    "DXaCzoACk1vqe6uaE3y5YWxopBSUw8RjnA2ZQSCupump": {
+      "symbol": "$LA BEAST",
+      "qty": 4291163.527079287,
+      "entry_price": 1.1535332943531844e-05,
+      "last_price": 1.112104424092312e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T14:05:28+00:00",
+      "missing": 0
+    },
+    "fMRGZVf6Z4FswFdkmfvc6DZFseS11Wxh8q8GXJdpump": {
+      "symbol": "$DODO",
+      "qty": 4309646.940257522,
+      "entry_price": 1.1485859673934713e-05,
+      "last_price": 1.1089706382383959e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-17T14:05:28+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T02:29:51+00:00",
-      "side": "buy",
-      "symbol": "SI",
-      "address": "FGibcqWG2BGjJBEXfvF2cPU17Nvv18ZhoAT3qktqpump",
-      "price": 9.905573643144922e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T02:29:51+00:00",
-      "side": "buy",
-      "symbol": "Minds",
-      "address": "7GEPPBhe7pzfSchBHLdwu8Sy216dKiDUQ9aPhrCGpump",
-      "price": 8.241565609055871e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T02:29:51+00:00",
-      "side": "buy",
-      "symbol": "reggies",
-      "address": "6suxMzfgsJPuvC96bSigAqq6aiD5VhB9VhAosuN2pump",
-      "price": 0.00011224474644965505,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T03:02:34+00:00",
       "side": "sell",
@@ -4512,6 +4515,30 @@
       "address": "Bc8ByH9m2AZxhB9tGc8QUDzH5PdfQEK56NYhPWzTpump",
       "price": 1.1084597740139713e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T14:05:28+00:00",
+      "side": "buy",
+      "symbol": "Jackie",
+      "address": "9veUQnrE6DiawJLFcjvoqfVvGAqDtDEyDFwh1Biupump",
+      "price": 8.341335008837884e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T14:05:28+00:00",
+      "side": "buy",
+      "symbol": "$LA BEAST",
+      "address": "DXaCzoACk1vqe6uaE3y5YWxopBSUw8RjnA2ZQSCupump",
+      "price": 1.1535332943531844e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-17T14:05:28+00:00",
+      "side": "buy",
+      "symbol": "$DODO",
+      "address": "fMRGZVf6Z4FswFdkmfvc6DZFseS11Wxh8q8GXJdpump",
+      "price": 1.1485859673934713e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7442,6 +7469,10 @@
     {
       "date": "2026-10-17T13:40:02+00:00",
       "equity": 5889408.23
+    },
+    {
+      "date": "2026-10-17T14:05:28+00:00",
+      "equity": 5889401.74
     }
   ]
 }
