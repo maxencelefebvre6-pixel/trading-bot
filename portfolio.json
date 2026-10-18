@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5888373.230889174,
+  "cash": 5888273.230889174,
   "positions": {
     "GxY9uEiaUUGSvxjCi5cmM1caq1BrHTTcmrqmFzAQpump": {
       "symbol": "PAILEY",
       "qty": 4747242.393394088,
       "entry_price": 1.0427106075072244e-05,
-      "last_price": 1.0056065423071794e-05,
+      "last_price": 1.005606542e-05,
       "cost": 50.0,
       "entry_time": "2026-10-18T06:50:30+00:00",
       "missing": 0
@@ -15,29 +15,31 @@
       "symbol": "ROYALPHER",
       "qty": 1184377.284225943,
       "entry_price": 4.1794114645107386e-05,
-      "last_price": 4.051486059594862e-05,
+      "last_price": 4.05148606e-05,
       "cost": 50.0,
       "entry_time": "2026-10-18T06:50:30+00:00",
+      "missing": 0
+    },
+    "3X5j7BahjrVEgiHVzNXpRC3PBVEjw35AaZ5iH9supump": {
+      "symbol": "佛金疯",
+      "qty": 596018.1728035315,
+      "entry_price": 8.305115893893546e-05,
+      "last_price": 8.052009300741966e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T07:23:57+00:00",
+      "missing": 0
+    },
+    "EnEkfiz7RyDNabMbwAE5mmosEwNfZkh7UhURT7fqpump": {
+      "symbol": "佛金疯",
+      "qty": 875797.9679309287,
+      "entry_price": 5.651988450823159e-05,
+      "last_price": 5.474323162268046e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T07:23:57+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T22:18:47+00:00",
-      "side": "buy",
-      "symbol": "MrBeast",
-      "address": "Gd75AAGnXc2D7wG28b4Avb5yT2nm8ij8WjNFHsqWpump",
-      "price": 0.00039084192258182615,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T22:18:47+00:00",
-      "side": "buy",
-      "symbol": "RANAGOAT",
-      "address": "71mYE6f1sno3LE2YrrUXrCmvJTLSL1AGWWujRAy6pump",
-      "price": 0.06561594515192153,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T22:18:47+00:00",
       "side": "buy",
@@ -4519,6 +4521,22 @@
       "address": "HyiaLnsgrCRAUMNQAs1hfMfKDfhfzVTZnMaFu9cnpump",
       "price": 4.1794114645107386e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T07:23:57+00:00",
+      "side": "buy",
+      "symbol": "佛金疯",
+      "address": "3X5j7BahjrVEgiHVzNXpRC3PBVEjw35AaZ5iH9supump",
+      "price": 8.305115893893546e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T07:23:57+00:00",
+      "side": "buy",
+      "symbol": "佛金疯",
+      "address": "EnEkfiz7RyDNabMbwAE5mmosEwNfZkh7UhURT7fqpump",
+      "price": 5.651988450823159e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7593,6 +7611,10 @@
     {
       "date": "2026-10-18T06:50:30+00:00",
       "equity": 5888468.95
+    },
+    {
+      "date": "2026-10-18T07:23:57+00:00",
+      "equity": 5888464.89
     }
   ]
 }
