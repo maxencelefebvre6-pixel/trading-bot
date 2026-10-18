@@ -1,45 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5888475.002058111,
+  "cash": 5888452.572689951,
   "positions": {
-    "7HLgSoApnpxTDh65NkUUe8tgPKZiJMr9VLoqkNadpump": {
-      "symbol": "MINTLINE",
-      "qty": 605821.329293759,
-      "entry_price": 8.170725857028675e-05,
-      "last_price": 7.921560254536124e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T17:54:37+00:00",
-      "missing": 0
-    },
     "HB7womRHmFCqpuzxCYsWYobW57onj7dRQMfWHBH6pump": {
       "symbol": "NVX",
       "qty": 5071773.6059339745,
       "entry_price": 9.759899365792867e-06,
-      "last_price": 9.412290896851836e-06,
+      "last_price": 9.412290897e-06,
       "cost": 50.0,
       "entry_time": "2026-10-18T17:54:37+00:00",
+      "missing": 0
+    },
+    "ExKNnq9bpqze8JiarFFERtnvjKvqFrz5zy9Rb82Rpump": {
+      "symbol": "TRENCHBOT",
+      "qty": 14640214.365772955,
+      "entry_price": 3.381098033354279e-06,
+      "last_price": 3.253564260265379e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T18:21:54+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T08:33:20+00:00",
-      "side": "sell",
-      "symbol": "Apple",
-      "address": "2mJyjNDbCs9MRG6fXLXwBHajRRy8oByFXcuGx35Xpump",
-      "price": 1.874819685e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T08:33:20+00:00",
-      "side": "buy",
-      "symbol": "WIZCAT",
-      "address": "y4KL9Pw3YLVPaFyRm2brcvhHhivpbu4haYZW2Fgpump",
-      "price": 2.6412036598931565e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T09:09:27+00:00",
       "side": "sell",
@@ -4523,6 +4505,24 @@
       "address": "HB7womRHmFCqpuzxCYsWYobW57onj7dRQMfWHBH6pump",
       "price": 9.759899365792867e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T18:21:53+00:00",
+      "side": "sell",
+      "symbol": "MINTLINE",
+      "address": "7HLgSoApnpxTDh65NkUUe8tgPKZiJMr9VLoqkNadpump",
+      "price": 9.193840403e-05,
+      "proceeds": 27.57,
+      "pnl_usd": -22.43,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T18:21:54+00:00",
+      "side": "buy",
+      "symbol": "TRENCHBOT",
+      "address": "ExKNnq9bpqze8JiarFFERtnvjKvqFrz5zy9Rb82Rpump",
+      "price": 3.381098033354279e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7685,6 +7685,10 @@
     {
       "date": "2026-10-18T17:54:37+00:00",
       "equity": 5888570.73
+    },
+    {
+      "date": "2026-10-18T18:21:54+00:00",
+      "equity": 5888547.94
     }
   ]
 }
