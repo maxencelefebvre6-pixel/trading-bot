@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5888028.456671389,
+  "cash": 5887978.456671389,
   "positions": {
     "BgbTcw5gHx4xz7d9kaszDmT4xQz3sk3wRvu81aJTpump": {
       "symbol": "MCH",
@@ -15,23 +15,22 @@
       "symbol": "claude",
       "qty": 4339634.837272956,
       "entry_price": 1.1406489683151774e-05,
-      "last_price": 1.1012429594859058e-05,
+      "last_price": 1.101242959e-05,
       "cost": 50.0,
       "entry_time": "2026-10-18T22:24:46+00:00",
+      "missing": 0
+    },
+    "DMgCNCyQDG9RMNhHCuJkJNtEun7XGh9poQsH8Bfipump": {
+      "symbol": "STKAT",
+      "qty": 5902037.239534838,
+      "entry_price": 8.386934543283445e-06,
+      "last_price": 8.080518890563523e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T22:52:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T16:03:31+00:00",
-      "side": "sell",
-      "symbol": "Oppy",
-      "address": "9aezF8Nz8LZ3sjDG6bKh4zW8F21V8fLi67D8e2Ujpump",
-      "price": 8.460767549e-06,
-      "proceeds": 12.81,
-      "pnl_usd": -37.19,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-15T16:03:31+00:00",
       "side": "sell",
@@ -4521,6 +4520,14 @@
       "address": "JAPYGLnCF11hS4UX9C9qUUcVnUK9kF3SPAdtmprupump",
       "price": 1.1406489683151774e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T22:52:38+00:00",
+      "side": "buy",
+      "symbol": "STKAT",
+      "address": "DMgCNCyQDG9RMNhHCuJkJNtEun7XGh9poQsH8Bfipump",
+      "price": 8.386934543283445e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7723,6 +7730,10 @@
     {
       "date": "2026-10-18T22:24:46+00:00",
       "equity": 5888124.16
+    },
+    {
+      "date": "2026-10-18T22:52:38+00:00",
+      "equity": 5888121.86
     }
   ]
 }
