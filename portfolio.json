@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5887812.82956374,
+  "cash": 5887663.281908977,
   "positions": {
     "8mu2kNxtAWJT1HP5dGPGdrJSBoUZV5bJTZ6dFZGBpump": {
       "symbol": "income",
@@ -11,74 +11,35 @@
       "entry_time": "2026-10-18T11:45:13+00:00",
       "missing": 0
     },
-    "299wiFawTh8jz4iWFYf5vtYnMasZEKcR6dBTmg3Lpump": {
-      "symbol": "Rockstar",
-      "qty": 121722.54552809996,
-      "entry_price": 0.0004066625437813638,
-      "last_price": 0.0003944454822963216,
+    "9m3qixeEzeFjrFyTmKNqZFWWwMuY7RTGH3nJGBQSpump": {
+      "symbol": "HITLER",
+      "qty": 4116653.6729975375,
+      "entry_price": 1.202432945105062e-05,
+      "last_price": 1.1581761155120533e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T12:06:30+00:00",
+      "entry_time": "2026-10-18T12:43:03+00:00",
       "missing": 0
     },
-    "BSdWXH3dXxBgEErMxvvuUbDMFtVpAAMnN1apQGBypump": {
-      "symbol": "Gemini",
-      "qty": 126685.12485786066,
-      "entry_price": 0.0003907325351381108,
-      "last_price": 0.00037898802610181783,
+    "8dATxRTextAcaGxtWWUoTVApruNXtNS3Y74uD4Jzpump": {
+      "symbol": "MEGA",
+      "qty": 912240.1717252207,
+      "entry_price": 5.42620260916443e-05,
+      "last_price": 5.25380669183218e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T12:06:30+00:00",
+      "entry_time": "2026-10-18T12:43:03+00:00",
+      "missing": 0
+    },
+    "GcS3f1FkuvSuDmoTZPYD5WuXQY6Ycr67nwWPzjf6pump": {
+      "symbol": "DEGEN",
+      "qty": 1277054.5840490784,
+      "entry_price": 3.876106833511642e-05,
+      "last_price": 3.7569716280063696e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T12:43:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T01:56:35+00:00",
-      "side": "buy",
-      "symbol": "MONY",
-      "address": "6tymb9vUq1vq92BmTWGheK139dp3PcvnrLhVycG5pump",
-      "price": 2.5685053445386933e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T02:29:31+00:00",
-      "side": "sell",
-      "symbol": "HC",
-      "address": "CGw3GX1xaMrSAqk6ZPauUe4ng4vxAbC7ncbrYtTWpump",
-      "price": 1.745288926e-05,
-      "proceeds": 45.83,
-      "pnl_usd": -4.17,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-15T02:29:31+00:00",
-      "side": "sell",
-      "symbol": "Spike",
-      "address": "E56toxW5PKjcAkGBiKfXjP2L6rCKVtKR4CDo7EDMpump",
-      "price": 9.333640838e-05,
-      "proceeds": 27.35,
-      "pnl_usd": -22.65,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T02:29:31+00:00",
-      "side": "sell",
-      "symbol": "SpaceX",
-      "address": "Qc1psHQfYkq5zFKo993BDPmzcZevdaKHCSPoZYEpump",
-      "price": 1.836697336e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T02:29:31+00:00",
-      "side": "sell",
-      "symbol": "ARCADE",
-      "address": "4UP1kS13APtxE12oNJPJn4gvuryXhstcAeuWbnoTpump",
-      "price": 3.635279363e-06,
-      "proceeds": 16.31,
-      "pnl_usd": -33.69,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-15T02:29:31+00:00",
       "side": "sell",
@@ -4532,6 +4493,50 @@
       "address": "BSdWXH3dXxBgEErMxvvuUbDMFtVpAAMnN1apQGBypump",
       "price": 0.0003907325351381108,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T12:43:03+00:00",
+      "side": "sell",
+      "symbol": "Rockstar",
+      "address": "299wiFawTh8jz4iWFYf5vtYnMasZEKcR6dBTmg3Lpump",
+      "price": 1.858120997e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T12:43:03+00:00",
+      "side": "sell",
+      "symbol": "Gemini",
+      "address": "BSdWXH3dXxBgEErMxvvuUbDMFtVpAAMnN1apQGBypump",
+      "price": 1.937438022e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T12:43:03+00:00",
+      "side": "buy",
+      "symbol": "HITLER",
+      "address": "9m3qixeEzeFjrFyTmKNqZFWWwMuY7RTGH3nJGBQSpump",
+      "price": 1.202432945105062e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T12:43:03+00:00",
+      "side": "buy",
+      "symbol": "MEGA",
+      "address": "8dATxRTextAcaGxtWWUoTVApruNXtNS3Y74uD4Jzpump",
+      "price": 5.42620260916443e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T12:43:03+00:00",
+      "side": "buy",
+      "symbol": "DEGEN",
+      "address": "GcS3f1FkuvSuDmoTZPYD5WuXQY6Ycr67nwWPzjf6pump",
+      "price": 3.876106833511642e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7646,6 +7651,10 @@
     {
       "date": "2026-10-18T12:06:30+00:00",
       "equity": 5887956.75
+    },
+    {
+      "date": "2026-10-18T12:43:03+00:00",
+      "equity": 5887854.76
     }
   ]
 }
