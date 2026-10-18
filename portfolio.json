@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5888105.308296448,
-  "positions": {
-    "8Mk68ezEi7SQZvbmMHcTb9pN6vV2kE2qMBm1Uj1Ppump": {
-      "symbol": "$DODO",
-      "qty": 7263040.36597422,
-      "entry_price": 6.8153276735039004e-06,
-      "last_price": 6.555431052e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T08:56:26+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5888150.597543311,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-15T00:05:43+00:00",
-      "side": "buy",
-      "symbol": "XOGE",
-      "address": "7T2AxWrDm3jJieBqs55jvTXk4dLyK5BSyEvowHW3pump",
-      "price": 1.7043466518407546e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T00:05:43+00:00",
       "side": "buy",
@@ -4512,6 +4494,16 @@
       "proceeds": 0.86,
       "pnl_usd": -49.14,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T10:22:59+00:00",
+      "side": "sell",
+      "symbol": "$DODO",
+      "address": "8Mk68ezEi7SQZvbmMHcTb9pN6vV2kE2qMBm1Uj1Ppump",
+      "price": 6.555431052e-06,
+      "proceeds": 45.29,
+      "pnl_usd": -4.71,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -7606,6 +7598,10 @@
     {
       "date": "2026-10-18T09:25:06+00:00",
       "equity": 5888152.92
+    },
+    {
+      "date": "2026-10-18T10:22:59+00:00",
+      "equity": 5888150.6
     }
   ]
 }
