@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5888346.113199356,
+  "cash": 5888381.5207880875,
   "positions": {
     "6zmj7QMfyjUSQnnLp2ysmpLCz8fP47Mn2NruiYLpump": {
       "symbol": "CatFight",
@@ -11,91 +11,17 @@
       "entry_time": "2026-10-18T04:47:08+00:00",
       "missing": 0
     },
-    "2rvSTyvraLa15DEaMtBbQWa7SSX4ndCGcmf7WqUqpump": {
-      "symbol": "Grok",
-      "qty": 118655.92360070454,
-      "entry_price": 0.00041717259870291114,
-      "last_price": 0.0004046480571675454,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T05:12:13+00:00",
-      "missing": 0
-    },
-    "9sM32xvgP4tspT8T7KWFWySXfSNWMMhd1puDS9nzpump": {
-      "symbol": "GONGXI",
-      "qty": 1493081.9885612177,
-      "entry_price": 3.31529014342339e-05,
-      "last_price": 3.2006654291556e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T05:12:13+00:00",
-      "missing": 0
-    },
-    "DfR8nHqS72YysPiggZmtBWhTRVbfkh4hTBooTtZjpump": {
-      "symbol": "CC",
-      "qty": 4262037.084590909,
-      "entry_price": 1.161416454562625e-05,
-      "last_price": 1.1184660698934314e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T05:12:13+00:00",
-      "missing": 0
-    },
-    "AtmBqKirJzuEdNfabnnrd293FVdEX63xuDjpb5bYpump": {
-      "symbol": "ANGEL",
-      "qty": 4717364.683943252,
-      "entry_price": 1.0493146770798919e-05,
-      "last_price": 1.0099534713173017e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T05:12:13+00:00",
-      "missing": 0
-    },
     "2hnh1HfTxfWND44e5oWRrSNxHeLfYEH1iTAZC8v9pump": {
       "symbol": "GOONER",
       "qty": 1492819.7156574994,
       "entry_price": 3.3158726054336814e-05,
-      "last_price": 3.2131041533520094e-05,
+      "last_price": 3.213104153e-05,
       "cost": 50.0,
       "entry_time": "2026-10-18T05:12:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T21:14:27+00:00",
-      "side": "buy",
-      "symbol": "DOOROC",
-      "address": "CdDRD54RKywZmixZwA13wtnnNoMr65MSGyFG4LMepump",
-      "price": 7.05809155786871e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T21:51:41+00:00",
-      "side": "sell",
-      "symbol": "FIX6900",
-      "address": "AJ7TJ7RL697g1VEgMf2e4ACZxkCUPRygRVx2FEa1pump",
-      "price": 5.412704332e-06,
-      "proceeds": 43.36,
-      "pnl_usd": -6.64,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-14T21:51:41+00:00",
-      "side": "sell",
-      "symbol": "MONY",
-      "address": "68ppcBtzGw1qF4u2MnEFYp2ZHnTRpbBUNToZPfvGpump",
-      "price": 7.396406106e-06,
-      "proceeds": 45.51,
-      "pnl_usd": -4.49,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-14T21:51:41+00:00",
-      "side": "sell",
-      "symbol": "BALLS",
-      "address": "AwAUntFCX7JEDwhUuD4qWb2hYffWMGJWqq9ZVzVhpump",
-      "price": 0.0001534107843,
-      "proceeds": 494.3,
-      "pnl_usd": 444.3,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-14T21:51:41+00:00",
       "side": "sell",
@@ -4555,6 +4481,46 @@
       "address": "2hnh1HfTxfWND44e5oWRrSNxHeLfYEH1iTAZC8v9pump",
       "price": 3.3158726054336814e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T05:45:43+00:00",
+      "side": "sell",
+      "symbol": "Grok",
+      "address": "2rvSTyvraLa15DEaMtBbQWa7SSX4ndCGcmf7WqUqpump",
+      "price": 6.393684422e-05,
+      "proceeds": 7.28,
+      "pnl_usd": -42.72,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T05:45:43+00:00",
+      "side": "sell",
+      "symbol": "GONGXI",
+      "address": "9sM32xvgP4tspT8T7KWFWySXfSNWMMhd1puDS9nzpump",
+      "price": 2.103018995e-06,
+      "proceeds": 3.0,
+      "pnl_usd": -47.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T05:45:43+00:00",
+      "side": "sell",
+      "symbol": "CC",
+      "address": "DfR8nHqS72YysPiggZmtBWhTRVbfkh4hTBooTtZjpump",
+      "price": 2.960466865e-06,
+      "proceeds": 12.05,
+      "pnl_usd": -37.95,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T05:45:43+00:00",
+      "side": "sell",
+      "symbol": "ANGEL",
+      "address": "AtmBqKirJzuEdNfabnnrd293FVdEX63xuDjpb5bYpump",
+      "price": 2.903430033e-06,
+      "proceeds": 13.07,
+      "pnl_usd": -36.93,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -7617,6 +7583,10 @@
     {
       "date": "2026-10-18T05:12:13+00:00",
       "equity": 5888633.04
+    },
+    {
+      "date": "2026-10-18T05:45:43+00:00",
+      "equity": 5888477.33
     }
   ]
 }
