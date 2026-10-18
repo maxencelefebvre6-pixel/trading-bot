@@ -1,71 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5888716.488654459,
+  "cash": 5888612.887752701,
   "positions": {
-    "4QbtySht2iGiV8RoucaY2dnBCd9hGuuwCxku9PC6pump": {
-      "symbol": "SOLGREM",
-      "qty": 318101.854000272,
-      "entry_price": 0.0001556105359887581,
-      "last_price": 0.000151268032,
+    "Bi21gnZDxZ4ms4ZPUow2QFegUvR586ekghYgpPhipump": {
+      "symbol": "MEEMR",
+      "qty": 588401.1989906387,
+      "entry_price": 8.412627317026852e-05,
+      "last_price": 8.156352014495419e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T02:07:18+00:00",
+      "entry_time": "2026-10-18T03:08:28+00:00",
       "missing": 0
     },
-    "Ymxei14r9kpmuuoGC31ELMRrnPzgW6RatGt4d16pump": {
-      "symbol": "YouTube",
-      "qty": 124738.71128303758,
-      "entry_price": 0.00039682949656007216,
-      "last_price": 0.0003849054570772037,
+    "611zU4FKk4fCio5bdCLnSQP6uptb8tYQ4223CmYpump": {
+      "symbol": "Snowball",
+      "qty": 6118618.621386145,
+      "entry_price": 8.090061346034017e-06,
+      "last_price": 7.801533741002429e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-18T02:39:24+00:00",
+      "entry_time": "2026-10-18T03:08:28+00:00",
+      "missing": 0
+    },
+    "FpQWtsc6LygKn2cfbBauySoKboLvyagqQoCJ7Z1Hpump": {
+      "symbol": "$MFRG",
+      "qty": 2102105.588109547,
+      "entry_price": 2.354781809248509e-05,
+      "last_price": 2.2797152952876288e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T03:08:28+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T17:42:56+00:00",
-      "side": "sell",
-      "symbol": "BAKI",
-      "address": "N5CQcosKmdJEVmzcqCXs87qmaB9iEnGq6UjrUX3pump",
-      "price": 1.644798176e-06,
-      "proceeds": 50.52,
-      "pnl_usd": 0.52,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-14T17:42:56+00:00",
-      "side": "buy",
-      "symbol": "PUILD",
-      "address": "qyPCYh2RK841EQn4ozfGFwn8kEYfCRUtaStzwr5pump",
-      "price": 1.2471003378074189e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T17:42:56+00:00",
-      "side": "buy",
-      "symbol": "Skullcap",
-      "address": "HBMzxEZFoaFEfvhZYSEs3YKgkiDABjnvvmYkgq2opump",
-      "price": 1.0462403847183771e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T17:42:56+00:00",
-      "side": "buy",
-      "symbol": "att",
-      "address": "HNSNZvhajpGZp9CFyibKVH9LbWE5Kv9V5AQZSpifpump",
-      "price": 3.4985058879838808e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T18:14:40+00:00",
-      "side": "sell",
-      "symbol": "WOTF",
-      "address": "BAZQaTM9ZQhnChE2t4ZjgqAr5HbnSNDev9kVCMzTpump",
-      "price": 0.02575694338,
-      "proceeds": 46.82,
-      "pnl_usd": -3.18,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-14T18:14:40+00:00",
       "side": "sell",
@@ -4521,6 +4486,50 @@
       "address": "Ymxei14r9kpmuuoGC31ELMRrnPzgW6RatGt4d16pump",
       "price": 0.00039682949656007216,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T03:08:28+00:00",
+      "side": "sell",
+      "symbol": "SOLGREM",
+      "address": "4QbtySht2iGiV8RoucaY2dnBCd9hGuuwCxku9PC6pump",
+      "price": 0.000151268032,
+      "proceeds": 46.18,
+      "pnl_usd": -3.82,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T03:08:28+00:00",
+      "side": "sell",
+      "symbol": "YouTube",
+      "address": "Ymxei14r9kpmuuoGC31ELMRrnPzgW6RatGt4d16pump",
+      "price": 1.840214547e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T03:08:28+00:00",
+      "side": "buy",
+      "symbol": "MEEMR",
+      "address": "Bi21gnZDxZ4ms4ZPUow2QFegUvR586ekghYgpPhipump",
+      "price": 8.412627317026852e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T03:08:28+00:00",
+      "side": "buy",
+      "symbol": "Snowball",
+      "address": "611zU4FKk4fCio5bdCLnSQP6uptb8tYQ4223CmYpump",
+      "price": 8.090061346034017e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T03:08:28+00:00",
+      "side": "buy",
+      "symbol": "$MFRG",
+      "address": "FpQWtsc6LygKn2cfbBauySoKboLvyagqQoCJ7Z1Hpump",
+      "price": 2.354781809248509e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7563,6 +7572,10 @@
     {
       "date": "2026-10-18T02:39:24+00:00",
       "equity": 5888812.62
+    },
+    {
+      "date": "2026-10-18T03:08:28+00:00",
+      "equity": 5888756.54
     }
   ]
 }
