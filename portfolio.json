@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5887462.8807725245,
+  "cash": 5888475.002058111,
   "positions": {
-    "2vBQuqq8YPg59WurHWNnxAsmmUxA5eDycYQcnU3Lpump": {
-      "symbol": "coge",
-      "qty": 3604071.724925436,
-      "entry_price": 1.37344658425254e-05,
-      "last_price": 1.3238804065532237e-05,
+    "7HLgSoApnpxTDh65NkUUe8tgPKZiJMr9VLoqkNadpump": {
+      "symbol": "MINTLINE",
+      "qty": 605821.329293759,
+      "entry_price": 8.170725857028675e-05,
+      "last_price": 7.921560254536124e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T17:29:06+00:00",
+      "entry_time": "2026-10-18T17:54:37+00:00",
       "missing": 0
     },
-    "6ofEHxqSEfrJnYKznDVPzS54HkMKi12tqVCnViEUpump": {
-      "symbol": "quANT",
-      "qty": 9800524.68343953,
-      "entry_price": 5.050749995420428e-06,
-      "last_price": 4.860948852807477e-06,
+    "HB7womRHmFCqpuzxCYsWYobW57onj7dRQMfWHBH6pump": {
+      "symbol": "NVX",
+      "qty": 5071773.6059339745,
+      "entry_price": 9.759899365792867e-06,
+      "last_price": 9.412290896851836e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-18T17:29:06+00:00",
+      "entry_time": "2026-10-18T17:54:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T07:56:35+00:00",
-      "side": "buy",
-      "symbol": "$DODO",
-      "address": "6PFon6cJXKgFecjWtFnneDotSi9j6m9YoMDRxZT2pump",
-      "price": 9.43826467516487e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T07:56:35+00:00",
-      "side": "buy",
-      "symbol": "$DODO",
-      "address": "7vqm2FNmuCZ6PueKE2NqpgDjBGB4L7NhrwFUvUWwpump",
-      "price": 1.1542760293926551e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T08:33:20+00:00",
-      "side": "sell",
-      "symbol": "iwnl",
-      "address": "4c3KJ1AMFxzorrpsX58HEz5muJLxYSA187hSQJwnpump",
-      "price": 1.800486133e-05,
-      "proceeds": 45.83,
-      "pnl_usd": -4.17,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-15T08:33:20+00:00",
-      "side": "sell",
-      "symbol": "PEAT",
-      "address": "3EH5pX8897HtXpambnM2mfhn13EPvw6DAACNzxC4pump",
-      "price": 7.64845049e-05,
-      "proceeds": 29.54,
-      "pnl_usd": -20.46,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-15T08:33:20+00:00",
       "side": "sell",
@@ -4523,6 +4487,42 @@
       "address": "6ofEHxqSEfrJnYKznDVPzS54HkMKi12tqVCnViEUpump",
       "price": 5.050749995420428e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T17:54:37+00:00",
+      "side": "sell",
+      "symbol": "coge",
+      "address": "2vBQuqq8YPg59WurHWNnxAsmmUxA5eDycYQcnU3Lpump",
+      "price": 3.635900317e-06,
+      "proceeds": 12.52,
+      "pnl_usd": -37.48,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T17:54:37+00:00",
+      "side": "sell",
+      "symbol": "quANT",
+      "address": "6ofEHxqSEfrJnYKznDVPzS54HkMKi12tqVCnViEUpump",
+      "price": 0.0001186601546,
+      "proceeds": 1099.6,
+      "pnl_usd": 1049.6,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-18T17:54:37+00:00",
+      "side": "buy",
+      "symbol": "MINTLINE",
+      "address": "7HLgSoApnpxTDh65NkUUe8tgPKZiJMr9VLoqkNadpump",
+      "price": 8.170725857028675e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T17:54:37+00:00",
+      "side": "buy",
+      "symbol": "NVX",
+      "address": "HB7womRHmFCqpuzxCYsWYobW57onj7dRQMfWHBH6pump",
+      "price": 9.759899365792867e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7681,6 +7681,10 @@
     {
       "date": "2026-10-18T17:29:06+00:00",
       "equity": 5887558.23
+    },
+    {
+      "date": "2026-10-18T17:54:37+00:00",
+      "equity": 5888570.73
     }
   ]
 }
