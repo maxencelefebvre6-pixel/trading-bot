@@ -1,47 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5888452.572689951,
-  "positions": {
-    "HB7womRHmFCqpuzxCYsWYobW57onj7dRQMfWHBH6pump": {
-      "symbol": "NVX",
-      "qty": 5071773.6059339745,
-      "entry_price": 9.759899365792867e-06,
-      "last_price": 9.412290897e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T17:54:37+00:00",
-      "missing": 0
-    },
-    "ExKNnq9bpqze8JiarFFERtnvjKvqFrz5zy9Rb82Rpump": {
-      "symbol": "TRENCHBOT",
-      "qty": 14640214.365772955,
-      "entry_price": 3.381098033354279e-06,
-      "last_price": 3.253564260265379e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T18:21:54+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5888503.147562216,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-15T09:09:27+00:00",
-      "side": "sell",
-      "symbol": "1 vs 100",
-      "address": "EKXSqyyFjMnknWgaDMdferTvmzQs4ZYoDvfK8XTHpump",
-      "price": 6.484475344e-05,
-      "proceeds": 46.06,
-      "pnl_usd": -3.94,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-15T09:09:27+00:00",
-      "side": "sell",
-      "symbol": "$DODO",
-      "address": "6PFon6cJXKgFecjWtFnneDotSi9j6m9YoMDRxZT2pump",
-      "price": 9.100869046e-06,
-      "proceeds": 45.52,
-      "pnl_usd": -4.48,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-15T09:09:27+00:00",
       "side": "sell",
@@ -4523,6 +4484,26 @@
       "address": "ExKNnq9bpqze8JiarFFERtnvjKvqFrz5zy9Rb82Rpump",
       "price": 3.381098033354279e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T18:54:56+00:00",
+      "side": "sell",
+      "symbol": "NVX",
+      "address": "HB7womRHmFCqpuzxCYsWYobW57onj7dRQMfWHBH6pump",
+      "price": 9.412290897e-06,
+      "proceeds": 45.53,
+      "pnl_usd": -4.47,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T18:54:56+00:00",
+      "side": "sell",
+      "symbol": "TRENCHBOT",
+      "address": "ExKNnq9bpqze8JiarFFERtnvjKvqFrz5zy9Rb82Rpump",
+      "price": 3.65751993e-07,
+      "proceeds": 5.05,
+      "pnl_usd": -44.95,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -7689,6 +7670,10 @@
     {
       "date": "2026-10-18T18:21:54+00:00",
       "equity": 5888547.94
+    },
+    {
+      "date": "2026-10-18T18:54:57+00:00",
+      "equity": 5888503.15
     }
   ]
 }
