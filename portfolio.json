@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5888408.616177122,
+  "cash": 5888358.616177122,
   "positions": {
     "GZU1oXzgUdRdJuV7JULf7BwP4T6VyQZj6PpauBpJpump": {
       "symbol": "CHIMP",
@@ -10,17 +10,18 @@
       "cost": 50.0,
       "entry_time": "2026-10-18T19:19:13+00:00",
       "missing": 0
+    },
+    "5hTqsmmes4XSR8xvWv7RAeEDpf82N8gLwdQtSoNypump": {
+      "symbol": "W8GTA",
+      "qty": 4673738.099276323,
+      "entry_price": 1.059109409824751e-05,
+      "last_price": 1.0187365685991943e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T20:04:23+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T09:46:00+00:00",
-      "side": "buy",
-      "symbol": "FOMOHAND",
-      "address": "DRqSqPAXkxtCTbCASRygN7MCYMeKkwAGZvg4LXPGpump",
-      "price": 1.233005968599386e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T10:15:46+00:00",
       "side": "sell",
@@ -4512,6 +4513,14 @@
       "proceeds": 5.47,
       "pnl_usd": -44.53,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T20:04:23+00:00",
+      "side": "buy",
+      "symbol": "W8GTA",
+      "address": "5hTqsmmes4XSR8xvWv7RAeEDpf82N8gLwdQtSoNypump",
+      "price": 1.059109409824751e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7690,6 +7699,10 @@
     {
       "date": "2026-10-18T19:44:16+00:00",
       "equity": 5888456.35
+    },
+    {
+      "date": "2026-10-18T20:04:23+00:00",
+      "equity": 5888453.96
     }
   ]
 }
