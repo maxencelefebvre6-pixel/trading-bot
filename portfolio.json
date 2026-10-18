@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5888381.5207880875,
+  "cash": 5888427.259706739,
   "positions": {
-    "6zmj7QMfyjUSQnnLp2ysmpLCz8fP47Mn2NruiYLpump": {
-      "symbol": "CatFight",
-      "qty": 3319538.832213047,
-      "entry_price": 1.4911709879591824e-05,
-      "last_price": 1.441337831e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T04:47:08+00:00",
-      "missing": 0
-    },
     "2hnh1HfTxfWND44e5oWRrSNxHeLfYEH1iTAZC8v9pump": {
       "symbol": "GOONER",
       "qty": 1492819.7156574994,
@@ -22,16 +13,6 @@
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T21:51:41+00:00",
-      "side": "sell",
-      "symbol": "BALLS",
-      "address": "14LPir1HgAzBv7Ykz9Fd6eiCPjMqWNYETwm2nEtbpump",
-      "price": 3.08706958e-06,
-      "proceeds": 8.62,
-      "pnl_usd": -41.38,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-14T21:51:41+00:00",
       "side": "buy",
@@ -4521,6 +4502,16 @@
       "proceeds": 13.07,
       "pnl_usd": -36.93,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T06:08:57+00:00",
+      "side": "sell",
+      "symbol": "CatFight",
+      "address": "6zmj7QMfyjUSQnnLp2ysmpLCz8fP47Mn2NruiYLpump",
+      "price": 1.441337831e-05,
+      "proceeds": 45.74,
+      "pnl_usd": -4.26,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -7587,6 +7578,10 @@
     {
       "date": "2026-10-18T05:45:43+00:00",
       "equity": 5888477.33
+    },
+    {
+      "date": "2026-10-18T06:08:57+00:00",
+      "equity": 5888475.23
     }
   ]
 }
