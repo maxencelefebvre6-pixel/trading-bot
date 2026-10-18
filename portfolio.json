@@ -1,56 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5888078.005741891,
+  "cash": 5888105.308296448,
   "positions": {
-    "5NWpZpuV417GsbjUDjXrCZEHSCJfg8UNM35CnaVBpump": {
-      "symbol": "GRNDWF",
-      "qty": 1881.5542299758827,
-      "entry_price": 0.026308037903661423,
-      "last_price": 0.025531803621693296,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T08:56:26+00:00",
-      "missing": 0
-    },
-    "nLFWwusYNdMHarcXcxHDBMcqimYe3cC8J1niqKjpump": {
-      "symbol": "VCHICK",
-      "qty": 423283.52618186653,
-      "entry_price": 0.00011694289273788558,
-      "last_price": 0.00011331230438766964,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T08:56:26+00:00",
-      "missing": 0
-    },
     "8Mk68ezEi7SQZvbmMHcTb9pN6vV2kE2qMBm1Uj1Ppump": {
       "symbol": "$DODO",
       "qty": 7263040.36597422,
       "entry_price": 6.8153276735039004e-06,
-      "last_price": 6.555431052184815e-06,
+      "last_price": 6.555431052e-06,
       "cost": 50.0,
       "entry_time": "2026-10-18T08:56:26+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T23:44:17+00:00",
-      "side": "sell",
-      "symbol": "LOSERS",
-      "address": "9y4mS7yz18sKzsznUg2iPi3zdTHdYRrBNw8G4y4Upump",
-      "price": 5.700511416e-06,
-      "proceeds": 45.37,
-      "pnl_usd": -4.63,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-14T23:44:17+00:00",
-      "side": "sell",
-      "symbol": "DOBU",
-      "address": "8UnNdoVk4w76CC3KnJMECGXq41iPpe7UM9vJovL2pump",
-      "price": 2.92411283e-06,
-      "proceeds": 9.01,
-      "pnl_usd": -40.99,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-15T00:05:43+00:00",
       "side": "buy",
@@ -4530,6 +4492,26 @@
       "address": "8Mk68ezEi7SQZvbmMHcTb9pN6vV2kE2qMBm1Uj1Ppump",
       "price": 6.8153276735039004e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T09:25:06+00:00",
+      "side": "sell",
+      "symbol": "GRNDWF",
+      "address": "5NWpZpuV417GsbjUDjXrCZEHSCJfg8UNM35CnaVBpump",
+      "price": 0.02838808129,
+      "proceeds": 26.44,
+      "pnl_usd": -23.56,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T09:25:06+00:00",
+      "side": "sell",
+      "symbol": "VCHICK",
+      "address": "nLFWwusYNdMHarcXcxHDBMcqimYe3cC8J1niqKjpump",
+      "price": 2.124736207e-06,
+      "proceeds": 0.86,
+      "pnl_usd": -49.14,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -7620,6 +7602,10 @@
     {
       "date": "2026-10-18T08:56:26+00:00",
       "equity": 5888221.62
+    },
+    {
+      "date": "2026-10-18T09:25:06+00:00",
+      "equity": 5888152.92
     }
   ]
 }
