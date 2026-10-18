@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5888759.027995351,
+  "cash": 5888679.199446983,
   "positions": {
-    "5fRfeCgXYQhC8j55mrq6ChT6baRVo9gshkvhD1Wipump": {
-      "symbol": "OUIOUI",
-      "qty": 5835452.859446227,
-      "entry_price": 8.482632143942545e-06,
-      "last_price": 8.159696681547092e-06,
+    "rX7gXeCWc1RrHU5D9JzzLWvmGS2YnvMo9SWudYipump": {
+      "symbol": "Bill Gates",
+      "qty": 126735.70161654298,
+      "entry_price": 0.0003905766044501757,
+      "last_price": 0.000378839964961749,
       "cost": 50.0,
-      "entry_time": "2026-10-18T01:05:31+00:00",
+      "entry_time": "2026-10-18T01:36:11+00:00",
+      "missing": 0
+    },
+    "7hkKsvSsVSdVy2dVDkA71NutJZsedLP63pou2zcSpump": {
+      "symbol": "INTERN",
+      "qty": 1025315.7483615121,
+      "entry_price": 4.8277811083173754e-05,
+      "last_price": 4.680738601423283e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T01:36:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T16:29:57+00:00",
-      "side": "buy",
-      "symbol": "ZXC",
-      "address": "J8ojxCJFPbXr8dwkdXjdfKCVvS6HRx4Bb2mT2DHApump",
-      "price": 5.4036223530099386e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T16:29:57+00:00",
-      "side": "buy",
-      "symbol": "HALO",
-      "address": "2QKDAyKAgjnPKZEhgQNRhQUkLxHq9kt3ZnoiEzuRpump",
-      "price": 1.171456804926401e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T17:08:05+00:00",
-      "side": "sell",
-      "symbol": "NORMAL",
-      "address": "GnMhMfupJRrPFn9k695MmMqPpofkzgdxhTcFMYeppump",
-      "price": 3.089844197e-06,
-      "proceeds": 17.4,
-      "pnl_usd": -32.6,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-14T17:08:05+00:00",
       "side": "sell",
@@ -4512,6 +4495,32 @@
       "address": "5fRfeCgXYQhC8j55mrq6ChT6baRVo9gshkvhD1Wipump",
       "price": 8.482632143942545e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T01:36:11+00:00",
+      "side": "sell",
+      "symbol": "OUIOUI",
+      "address": "5fRfeCgXYQhC8j55mrq6ChT6baRVo9gshkvhD1Wipump",
+      "price": 3.631857757e-06,
+      "proceeds": 20.17,
+      "pnl_usd": -29.83,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T01:36:11+00:00",
+      "side": "buy",
+      "symbol": "Bill Gates",
+      "address": "rX7gXeCWc1RrHU5D9JzzLWvmGS2YnvMo9SWudYipump",
+      "price": 0.0003905766044501757,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T01:36:11+00:00",
+      "side": "buy",
+      "symbol": "INTERN",
+      "address": "7hkKsvSsVSdVy2dVDkA71NutJZsedLP63pou2zcSpump",
+      "price": 4.8277811083173754e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7542,6 +7551,10 @@
     {
       "date": "2026-10-18T01:05:31+00:00",
       "equity": 5888806.64
+    },
+    {
+      "date": "2026-10-18T01:36:11+00:00",
+      "equity": 5888775.2
     }
   ]
 }
