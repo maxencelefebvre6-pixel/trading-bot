@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5887978.456671389,
+  "cash": 5887874.335594713,
   "positions": {
-    "BgbTcw5gHx4xz7d9kaszDmT4xQz3sk3wRvu81aJTpump": {
-      "symbol": "MCH",
-      "qty": 1981294.9980977194,
-      "entry_price": 2.498365970111767e-05,
-      "last_price": 2.418529568e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T21:57:34+00:00",
-      "missing": 0
-    },
     "JAPYGLnCF11hS4UX9C9qUUcVnUK9kF3SPAdtmprupump": {
       "symbol": "claude",
       "qty": 4339634.837272956,
@@ -24,49 +15,40 @@
       "symbol": "STKAT",
       "qty": 5902037.239534838,
       "entry_price": 8.386934543283445e-06,
-      "last_price": 8.080518890563523e-06,
+      "last_price": 8.080518891e-06,
       "cost": 50.0,
       "entry_time": "2026-10-18T22:52:38+00:00",
+      "missing": 0
+    },
+    "FQi79TRbqZZcp9rXvqH57zCiWTsPHFe9g3gWtFWnpump": {
+      "symbol": "KFC",
+      "qty": 122070.40595168661,
+      "entry_price": 0.0004055036895641296,
+      "last_price": 0.0003933218586874442,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T23:13:30+00:00",
+      "missing": 0
+    },
+    "DhRcr9buHwb8WCDWZgFeryrRXiNmUV2qcw1H1ninpump": {
+      "symbol": "AIGDPBOT",
+      "qty": 2645.1883018627764,
+      "entry_price": 0.018713223540698955,
+      "last_price": 0.018159584368049077,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T23:13:30+00:00",
+      "missing": 0
+    },
+    "s9NujqSoJBZa8eWbRLZUi63QrMKWiQwVYumWdpapump": {
+      "symbol": "FOMO",
+      "qty": 125752.3446860463,
+      "entry_price": 0.00039363083148534413,
+      "last_price": 0.000381800968584433,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T23:13:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T16:03:31+00:00",
-      "side": "sell",
-      "symbol": "Never",
-      "address": "8EuZTzPejtPNSTN8Kq6L7QSYPNBTQc4FCBhGDrfnpump",
-      "price": 3.166633506e-06,
-      "proceeds": 23.04,
-      "pnl_usd": -26.96,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T16:03:31+00:00",
-      "side": "buy",
-      "symbol": "NGA",
-      "address": "C6TxH6WwSwwtzZ88K8AMvFYjpDWn1k4v2uyDFWX5pump",
-      "price": 1.4694757292501615e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T16:03:31+00:00",
-      "side": "buy",
-      "symbol": "LASER",
-      "address": "6MyK1o3DuQ76KR5gcx1r9AzTTHMEDLzChgbt7sj4pump",
-      "price": 3.9586290992623284e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T16:39:07+00:00",
-      "side": "sell",
-      "symbol": "LASER",
-      "address": "6MyK1o3DuQ76KR5gcx1r9AzTTHMEDLzChgbt7sj4pump",
-      "price": 2.697828363e-07,
-      "proceeds": 0.32,
-      "pnl_usd": -49.68,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-15T16:39:07+00:00",
       "side": "buy",
@@ -4528,6 +4510,40 @@
       "address": "DMgCNCyQDG9RMNhHCuJkJNtEun7XGh9poQsH8Bfipump",
       "price": 8.386934543283445e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T23:13:30+00:00",
+      "side": "sell",
+      "symbol": "MCH",
+      "address": "BgbTcw5gHx4xz7d9kaszDmT4xQz3sk3wRvu81aJTpump",
+      "price": 2.418529568e-05,
+      "proceeds": 45.88,
+      "pnl_usd": -4.12,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T23:13:30+00:00",
+      "side": "buy",
+      "symbol": "KFC",
+      "address": "FQi79TRbqZZcp9rXvqH57zCiWTsPHFe9g3gWtFWnpump",
+      "price": 0.0004055036895641296,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T23:13:30+00:00",
+      "side": "buy",
+      "symbol": "AIGDPBOT",
+      "address": "DhRcr9buHwb8WCDWZgFeryrRXiNmUV2qcw1H1ninpump",
+      "price": 0.018713223540698955,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T23:13:30+00:00",
+      "side": "buy",
+      "symbol": "FOMO",
+      "address": "s9NujqSoJBZa8eWbRLZUi63QrMKWiQwVYumWdpapump",
+      "price": 0.00039363083148534413,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7734,6 +7750,10 @@
     {
       "date": "2026-10-18T22:52:38+00:00",
       "equity": 5888121.86
+    },
+    {
+      "date": "2026-10-18T23:13:30+00:00",
+      "equity": 5888113.88
     }
   ]
 }
