@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5888427.259706739,
+  "cash": 5888373.230889174,
   "positions": {
-    "2hnh1HfTxfWND44e5oWRrSNxHeLfYEH1iTAZC8v9pump": {
-      "symbol": "GOONER",
-      "qty": 1492819.7156574994,
-      "entry_price": 3.3158726054336814e-05,
-      "last_price": 3.213104153e-05,
+    "GxY9uEiaUUGSvxjCi5cmM1caq1BrHTTcmrqmFzAQpump": {
+      "symbol": "PAILEY",
+      "qty": 4747242.393394088,
+      "entry_price": 1.0427106075072244e-05,
+      "last_price": 1.0056065423071794e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T05:12:13+00:00",
+      "entry_time": "2026-10-18T06:50:30+00:00",
+      "missing": 0
+    },
+    "HyiaLnsgrCRAUMNQAs1hfMfKDfhfzVTZnMaFu9cnpump": {
+      "symbol": "ROYALPHER",
+      "qty": 1184377.284225943,
+      "entry_price": 4.1794114645107386e-05,
+      "last_price": 4.051486059594862e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T06:50:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T21:51:41+00:00",
-      "side": "buy",
-      "symbol": "BUZZ",
-      "address": "6T8SiU9x7cPSS33L1j6XTLWWE4XsQScMXouhHdgfpump",
-      "price": 1.7192046186015774e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T22:18:47+00:00",
-      "side": "sell",
-      "symbol": "DOOROC",
-      "address": "CdDRD54RKywZmixZwA13wtnnNoMr65MSGyFG4LMepump",
-      "price": 6.790808485e-06,
-      "proceeds": 45.31,
-      "pnl_usd": -4.69,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-14T22:18:47+00:00",
-      "side": "sell",
-      "symbol": "BUZZ",
-      "address": "6T8SiU9x7cPSS33L1j6XTLWWE4XsQScMXouhHdgfpump",
-      "price": 2.098174028e-06,
-      "proceeds": 5.74,
-      "pnl_usd": -44.26,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-14T22:18:47+00:00",
       "side": "buy",
@@ -4512,6 +4493,32 @@
       "proceeds": 45.74,
       "pnl_usd": -4.26,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T06:50:29+00:00",
+      "side": "sell",
+      "symbol": "GOONER",
+      "address": "2hnh1HfTxfWND44e5oWRrSNxHeLfYEH1iTAZC8v9pump",
+      "price": 3.213104153e-05,
+      "proceeds": 45.97,
+      "pnl_usd": -4.03,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T06:50:30+00:00",
+      "side": "buy",
+      "symbol": "PAILEY",
+      "address": "GxY9uEiaUUGSvxjCi5cmM1caq1BrHTTcmrqmFzAQpump",
+      "price": 1.0427106075072244e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T06:50:30+00:00",
+      "side": "buy",
+      "symbol": "ROYALPHER",
+      "address": "HyiaLnsgrCRAUMNQAs1hfMfKDfhfzVTZnMaFu9cnpump",
+      "price": 4.1794114645107386e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7582,6 +7589,10 @@
     {
       "date": "2026-10-18T06:08:57+00:00",
       "equity": 5888475.23
+    },
+    {
+      "date": "2026-10-18T06:50:30+00:00",
+      "equity": 5888468.95
     }
   ]
 }
