@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5888679.199446983,
+  "cash": 5888720.599089796,
   "positions": {
-    "rX7gXeCWc1RrHU5D9JzzLWvmGS2YnvMo9SWudYipump": {
-      "symbol": "Bill Gates",
-      "qty": 126735.70161654298,
-      "entry_price": 0.0003905766044501757,
-      "last_price": 0.000378839964961749,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T01:36:11+00:00",
-      "missing": 0
-    },
     "7hkKsvSsVSdVy2dVDkA71NutJZsedLP63pou2zcSpump": {
       "symbol": "INTERN",
       "qty": 1025315.7483615121,
       "entry_price": 4.8277811083173754e-05,
-      "last_price": 4.680738601423283e-05,
+      "last_price": 4.680738601e-05,
       "cost": 50.0,
       "entry_time": "2026-10-18T01:36:11+00:00",
+      "missing": 0
+    },
+    "4QbtySht2iGiV8RoucaY2dnBCd9hGuuwCxku9PC6pump": {
+      "symbol": "SOLGREM",
+      "qty": 318101.854000272,
+      "entry_price": 0.0001556105359887581,
+      "last_price": 0.00015098465796215641,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T02:07:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T17:08:05+00:00",
-      "side": "sell",
-      "symbol": "ZXC",
-      "address": "J8ojxCJFPbXr8dwkdXjdfKCVvS6HRx4Bb2mT2DHApump",
-      "price": 3.085498673e-06,
-      "proceeds": 26.82,
-      "pnl_usd": -23.18,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-14T17:08:05+00:00",
-      "side": "sell",
-      "symbol": "HALO",
-      "address": "2QKDAyKAgjnPKZEhgQNRhQUkLxHq9kt3ZnoiEzuRpump",
-      "price": 2.912381219e-06,
-      "proceeds": 11.75,
-      "pnl_usd": -38.25,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-14T17:08:05+00:00",
       "side": "buy",
@@ -4521,6 +4501,24 @@
       "address": "7hkKsvSsVSdVy2dVDkA71NutJZsedLP63pou2zcSpump",
       "price": 4.8277811083173754e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T02:07:18+00:00",
+      "side": "sell",
+      "symbol": "Bill Gates",
+      "address": "rX7gXeCWc1RrHU5D9JzzLWvmGS2YnvMo9SWudYipump",
+      "price": 0.0007530371466,
+      "proceeds": 91.4,
+      "pnl_usd": 41.4,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-18T02:07:18+00:00",
+      "side": "buy",
+      "symbol": "SOLGREM",
+      "address": "4QbtySht2iGiV8RoucaY2dnBCd9hGuuwCxku9PC6pump",
+      "price": 0.0001556105359887581,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7555,6 +7553,10 @@
     {
       "date": "2026-10-18T01:36:11+00:00",
       "equity": 5888775.2
+    },
+    {
+      "date": "2026-10-18T02:07:18+00:00",
+      "equity": 5888816.62
     }
   ]
 }
