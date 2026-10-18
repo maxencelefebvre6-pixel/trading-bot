@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5888720.599089796,
+  "cash": 5888716.488654459,
   "positions": {
-    "7hkKsvSsVSdVy2dVDkA71NutJZsedLP63pou2zcSpump": {
-      "symbol": "INTERN",
-      "qty": 1025315.7483615121,
-      "entry_price": 4.8277811083173754e-05,
-      "last_price": 4.680738601e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T01:36:11+00:00",
-      "missing": 0
-    },
     "4QbtySht2iGiV8RoucaY2dnBCd9hGuuwCxku9PC6pump": {
       "symbol": "SOLGREM",
       "qty": 318101.854000272,
       "entry_price": 0.0001556105359887581,
-      "last_price": 0.00015098465796215641,
+      "last_price": 0.000151268032,
       "cost": 50.0,
       "entry_time": "2026-10-18T02:07:18+00:00",
+      "missing": 0
+    },
+    "Ymxei14r9kpmuuoGC31ELMRrnPzgW6RatGt4d16pump": {
+      "symbol": "YouTube",
+      "qty": 124738.71128303758,
+      "entry_price": 0.00039682949656007216,
+      "last_price": 0.0003849054570772037,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T02:39:24+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T17:08:05+00:00",
-      "side": "buy",
-      "symbol": "WOTF",
-      "address": "BAZQaTM9ZQhnChE2t4ZjgqAr5HbnSNDev9kVCMzTpump",
-      "price": 0.026144935352815916,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T17:08:05+00:00",
-      "side": "buy",
-      "symbol": "BAKI",
-      "address": "N5CQcosKmdJEVmzcqCXs87qmaB9iEnGq6UjrUX3pump",
-      "price": 1.479838120728577e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T17:42:56+00:00",
       "side": "sell",
@@ -4519,6 +4503,24 @@
       "address": "4QbtySht2iGiV8RoucaY2dnBCd9hGuuwCxku9PC6pump",
       "price": 0.0001556105359887581,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T02:39:23+00:00",
+      "side": "sell",
+      "symbol": "INTERN",
+      "address": "7hkKsvSsVSdVy2dVDkA71NutJZsedLP63pou2zcSpump",
+      "price": 4.667210663e-05,
+      "proceeds": 45.89,
+      "pnl_usd": -4.11,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T02:39:24+00:00",
+      "side": "buy",
+      "symbol": "YouTube",
+      "address": "Ymxei14r9kpmuuoGC31ELMRrnPzgW6RatGt4d16pump",
+      "price": 0.00039682949656007216,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7557,6 +7559,10 @@
     {
       "date": "2026-10-18T02:07:18+00:00",
       "equity": 5888816.62
+    },
+    {
+      "date": "2026-10-18T02:39:24+00:00",
+      "equity": 5888812.62
     }
   ]
 }
