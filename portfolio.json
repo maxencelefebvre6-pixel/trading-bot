@@ -1,73 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5888358.616177122,
+  "cash": 5888266.73055532,
   "positions": {
-    "GZU1oXzgUdRdJuV7JULf7BwP4T6VyQZj6PpauBpJpump": {
-      "symbol": "CHIMP",
-      "qty": 5111419.907799191,
-      "entry_price": 9.684197521019766e-06,
-      "last_price": 9.338747338e-06,
+    "HrXd7X69aXZt8sx3tMdTYjeqKZmFHgCNcqi24bvKpump": {
+      "symbol": "AVENGERS",
+      "qty": 2533289.3350700643,
+      "entry_price": 1.9539813046515256e-05,
+      "last_price": 1.8899700830400708e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T19:19:13+00:00",
+      "entry_time": "2026-10-18T20:34:21+00:00",
       "missing": 0
     },
-    "5hTqsmmes4XSR8xvWv7RAeEDpf82N8gLwdQtSoNypump": {
-      "symbol": "W8GTA",
-      "qty": 4673738.099276323,
-      "entry_price": 1.059109409824751e-05,
-      "last_price": 1.0187365685991943e-05,
+    "2vDXPJeoJT5VWMghJ12feP1CVqzCDsf9GyNnzca4pump": {
+      "symbol": "LEYS",
+      "qty": 1266664.786801458,
+      "entry_price": 3.907900536573361e-05,
+      "last_price": 3.787785471654654e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T20:04:23+00:00",
+      "entry_time": "2026-10-18T20:34:21+00:00",
+      "missing": 0
+    },
+    "7137gsfqdo5qebShTrrUoW9iUHrZxLunBSsbpAMVpump": {
+      "symbol": "Shiba X",
+      "qty": 2331326.441776826,
+      "entry_price": 2.1232547751774073e-05,
+      "last_price": 2.0545340605148243e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T20:34:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T10:15:46+00:00",
-      "side": "sell",
-      "symbol": "APE",
-      "address": "GkGWDk5y3vE84MVnVC8XnfbfBFc3TFp32vjvB8Pdpump",
-      "price": 2.363149705e-06,
-      "proceeds": 3.77,
-      "pnl_usd": -46.23,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T10:15:46+00:00",
-      "side": "sell",
-      "symbol": "FOMOHAND",
-      "address": "DRqSqPAXkxtCTbCASRygN7MCYMeKkwAGZvg4LXPGpump",
-      "price": 2.893190317e-06,
-      "proceeds": 11.1,
-      "pnl_usd": -38.9,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T10:15:46+00:00",
-      "side": "buy",
-      "symbol": "Anthropic",
-      "address": "wEFMyjbbZ4CUKwNk4YBqa54PwkTSJAnDDNZdUpUpump",
-      "price": 0.0003851030906178027,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T10:15:46+00:00",
-      "side": "buy",
-      "symbol": "ALIEN",
-      "address": "AULMaqgyqQ6NvvxCimZbwPMnEhaG4PSPEJo4M65Jpump",
-      "price": 1.2123276133095394e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T10:55:19+00:00",
-      "side": "sell",
-      "symbol": "Anthropic",
-      "address": "wEFMyjbbZ4CUKwNk4YBqa54PwkTSJAnDDNZdUpUpump",
-      "price": 0.0008128843967,
-      "proceeds": 100.05,
-      "pnl_usd": 50.05,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-15T10:55:19+00:00",
       "side": "sell",
@@ -4521,6 +4484,50 @@
       "address": "5hTqsmmes4XSR8xvWv7RAeEDpf82N8gLwdQtSoNypump",
       "price": 1.059109409824751e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T20:34:21+00:00",
+      "side": "sell",
+      "symbol": "CHIMP",
+      "address": "GZU1oXzgUdRdJuV7JULf7BwP4T6VyQZj6PpauBpJpump",
+      "price": 9.338747338e-06,
+      "proceeds": 45.52,
+      "pnl_usd": -4.48,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T20:34:21+00:00",
+      "side": "sell",
+      "symbol": "W8GTA",
+      "address": "5hTqsmmes4XSR8xvWv7RAeEDpf82N8gLwdQtSoNypump",
+      "price": 2.822414519e-06,
+      "proceeds": 12.59,
+      "pnl_usd": -37.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T20:34:21+00:00",
+      "side": "buy",
+      "symbol": "AVENGERS",
+      "address": "HrXd7X69aXZt8sx3tMdTYjeqKZmFHgCNcqi24bvKpump",
+      "price": 1.9539813046515256e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T20:34:21+00:00",
+      "side": "buy",
+      "symbol": "LEYS",
+      "address": "2vDXPJeoJT5VWMghJ12feP1CVqzCDsf9GyNnzca4pump",
+      "price": 3.907900536573361e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T20:34:21+00:00",
+      "side": "buy",
+      "symbol": "Shiba X",
+      "address": "7137gsfqdo5qebShTrrUoW9iUHrZxLunBSsbpAMVpump",
+      "price": 2.1232547751774073e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7703,6 +7710,10 @@
     {
       "date": "2026-10-18T20:04:23+00:00",
       "equity": 5888453.96
+    },
+    {
+      "date": "2026-10-18T20:34:21+00:00",
+      "equity": 5888410.49
     }
   ]
 }
