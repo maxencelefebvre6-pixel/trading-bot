@@ -1,57 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5888050.597543311,
+  "cash": 5887965.4102020115,
   "positions": {
-    "6gHswuvqSrA38BeGiHcXnndNwqWxNvisuDvSc1Fjpump": {
-      "symbol": "Invest",
-      "qty": 5220342.053389165,
-      "entry_price": 9.482137280231182e-06,
-      "last_price": 9.125395313024761e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T10:52:33+00:00",
-      "missing": 0
-    },
     "269sjJ9JU2f2ynsyptQ8hg9XmT95Qabkh6ZfzwEApump": {
       "symbol": "$WAI",
       "qty": 5093222.526016229,
       "entry_price": 9.7187978234121e-06,
-      "last_price": 9.374279452880296e-06,
+      "last_price": 9.374279453e-06,
       "cost": 50.0,
       "entry_time": "2026-10-18T10:52:33+00:00",
+      "missing": 0
+    },
+    "AqBCimXtiNJhKDe4GDGLgmUM9DjhtK3zUnC3cd79pump": {
+      "symbol": "Tortue",
+      "qty": 586880.6437654218,
+      "entry_price": 8.434423681518677e-05,
+      "last_price": 8.177510942718942e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T11:15:55+00:00",
+      "missing": 0
+    },
+    "9kpvxC1nFbZNhVk4r6iC4DWJSBPQiwY1boiYpyiHpump": {
+      "symbol": "Mbappe",
+      "qty": 5726475.6143611595,
+      "entry_price": 8.644060209714553e-06,
+      "last_price": 8.313240475040939e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T11:15:55+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T00:48:03+00:00",
-      "side": "sell",
-      "symbol": "@",
-      "address": "GncJHHWLLMfWNen2mH2uCFB5bfeojQ76EMkPNotTpump",
-      "price": 1.037915652e-05,
-      "proceeds": 45.43,
-      "pnl_usd": -4.57,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-15T00:48:03+00:00",
-      "side": "sell",
-      "symbol": "XOGE",
-      "address": "7T2AxWrDm3jJieBqs55jvTXk4dLyK5BSyEvowHW3pump",
-      "price": 3.398794276e-06,
-      "proceeds": 9.44,
-      "pnl_usd": -40.56,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T00:48:03+00:00",
-      "side": "sell",
-      "symbol": "FLOAT",
-      "address": "7WzmwZz6jRWvmjW1E99BHyptWi7BX5nDm4G6dVN7pump",
-      "price": 2.369303765e-06,
-      "proceeds": 4.98,
-      "pnl_usd": -45.02,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-15T00:48:03+00:00",
       "side": "sell",
@@ -4523,6 +4502,32 @@
       "address": "269sjJ9JU2f2ynsyptQ8hg9XmT95Qabkh6ZfzwEApump",
       "price": 9.7187978234121e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T11:15:55+00:00",
+      "side": "sell",
+      "symbol": "Invest",
+      "address": "6gHswuvqSrA38BeGiHcXnndNwqWxNvisuDvSc1Fjpump",
+      "price": 2.975290759e-06,
+      "proceeds": 14.81,
+      "pnl_usd": -35.19,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T11:15:55+00:00",
+      "side": "buy",
+      "symbol": "Tortue",
+      "address": "AqBCimXtiNJhKDe4GDGLgmUM9DjhtK3zUnC3cd79pump",
+      "price": 8.434423681518677e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T11:15:55+00:00",
+      "side": "buy",
+      "symbol": "Mbappe",
+      "address": "9kpvxC1nFbZNhVk4r6iC4DWJSBPQiwY1boiYpyiHpump",
+      "price": 8.644060209714553e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7625,6 +7630,10 @@
     {
       "date": "2026-10-18T10:52:33+00:00",
       "equity": 5888145.98
+    },
+    {
+      "date": "2026-10-18T11:15:55+00:00",
+      "equity": 5888108.75
     }
   ]
 }
