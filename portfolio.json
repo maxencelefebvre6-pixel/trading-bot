@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5888227.606708694,
+  "cash": 5888078.005741891,
   "positions": {
-    "9uTQMiL97gaXtGT8dUr9gP3PThF3VBxKCcDd6kEFpump": {
-      "symbol": "MemeTrash",
-      "qty": 9101061.554053143,
-      "entry_price": 5.438925965505118e-06,
-      "last_price": 5.23565784003974e-06,
+    "5NWpZpuV417GsbjUDjXrCZEHSCJfg8UNM35CnaVBpump": {
+      "symbol": "GRNDWF",
+      "qty": 1881.5542299758827,
+      "entry_price": 0.026308037903661423,
+      "last_price": 0.025531803621693296,
       "cost": 50.0,
-      "entry_time": "2026-10-18T08:24:11+00:00",
+      "entry_time": "2026-10-18T08:56:26+00:00",
+      "missing": 0
+    },
+    "nLFWwusYNdMHarcXcxHDBMcqimYe3cC8J1niqKjpump": {
+      "symbol": "VCHICK",
+      "qty": 423283.52618186653,
+      "entry_price": 0.00011694289273788558,
+      "last_price": 0.00011331230438766964,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T08:56:26+00:00",
+      "missing": 0
+    },
+    "8Mk68ezEi7SQZvbmMHcTb9pN6vV2kE2qMBm1Uj1Ppump": {
+      "symbol": "$DODO",
+      "qty": 7263040.36597422,
+      "entry_price": 6.8153276735039004e-06,
+      "last_price": 6.555431052184815e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T08:56:26+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T23:16:31+00:00",
-      "side": "sell",
-      "symbol": "diamond",
-      "address": "7qmbcuQKu6j89tcGdy8PXs2fyC7exMBYrcg5a6Sipump",
-      "price": 3.100688832e-06,
-      "proceeds": 11.25,
-      "pnl_usd": -38.75,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-14T23:16:31+00:00",
-      "side": "sell",
-      "symbol": "DIAMOND",
-      "address": "6wURZo2Vhuc5vVxsufsB68yKnExPdgkoj87bcfkRpump",
-      "price": 3.050893894e-06,
-      "proceeds": 14.52,
-      "pnl_usd": -35.48,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-14T23:16:31+00:00",
-      "side": "buy",
-      "symbol": "DOBU",
-      "address": "8UnNdoVk4w76CC3KnJMECGXq41iPpe7UM9vJovL2pump",
-      "price": 1.5367875871020884e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T23:16:31+00:00",
-      "side": "buy",
-      "symbol": "@",
-      "address": "GncJHHWLLMfWNen2mH2uCFB5bfeojQ76EMkPNotTpump",
-      "price": 1.0773610072920796e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-14T23:44:17+00:00",
       "side": "sell",
@@ -4514,6 +4496,40 @@
       "address": "9uTQMiL97gaXtGT8dUr9gP3PThF3VBxKCcDd6kEFpump",
       "price": 5.438925965505118e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T08:56:25+00:00",
+      "side": "sell",
+      "symbol": "MemeTrash",
+      "address": "9uTQMiL97gaXtGT8dUr9gP3PThF3VBxKCcDd6kEFpump",
+      "price": 4.611191225e-08,
+      "proceeds": 0.4,
+      "pnl_usd": -49.6,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T08:56:26+00:00",
+      "side": "buy",
+      "symbol": "GRNDWF",
+      "address": "5NWpZpuV417GsbjUDjXrCZEHSCJfg8UNM35CnaVBpump",
+      "price": 0.026308037903661423,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T08:56:26+00:00",
+      "side": "buy",
+      "symbol": "VCHICK",
+      "address": "nLFWwusYNdMHarcXcxHDBMcqimYe3cC8J1niqKjpump",
+      "price": 0.00011694289273788558,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T08:56:26+00:00",
+      "side": "buy",
+      "symbol": "$DODO",
+      "address": "8Mk68ezEi7SQZvbmMHcTb9pN6vV2kE2qMBm1Uj1Ppump",
+      "price": 6.8153276735039004e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7600,6 +7616,10 @@
     {
       "date": "2026-10-18T08:24:11+00:00",
       "equity": 5888275.26
+    },
+    {
+      "date": "2026-10-18T08:56:26+00:00",
+      "equity": 5888221.62
     }
   ]
 }
