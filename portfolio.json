@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5887574.969212269,
+  "cash": 5887520.482434915,
   "positions": {
-    "2wp8mu2HQrZNbKsNjnY8fgqedRQTjW6wFs29sNVEpump": {
-      "symbol": "cock",
-      "qty": 5352908.339190056,
-      "entry_price": 9.247309474290346e-06,
-      "last_price": 8.916434706e-06,
+    "vJYdx96314re8TdTecteyDYPH48RhrLJ3MGnJFQpump": {
+      "symbol": "Kaida",
+      "qty": 5651939.795068469,
+      "entry_price": 8.75805507397489e-06,
+      "last_price": 8.424870544236605e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-18T14:41:51+00:00",
+      "entry_time": "2026-10-18T16:01:18+00:00",
+      "missing": 0
+    },
+    "2Qp2cvCdQLKWTD7ZzMUVHU8sUzAhG5L8zVqtuYWvpump": {
+      "symbol": "LEGENDS",
+      "qty": 3308215.093833581,
+      "entry_price": 1.4962751391911183e-05,
+      "last_price": 1.4465424791062853e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T16:01:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T05:14:35+00:00",
-      "side": "buy",
-      "symbol": "SYCAMORE",
-      "address": "AUpRnx62wEhjnNEeQNZks6guCWKRSiKoBn9wqz5Zpump",
-      "price": 1.326948248426812e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T05:14:35+00:00",
-      "side": "buy",
-      "symbol": "FERSPE",
-      "address": "AcbMQVSinZopXc3QFZijnVH1m3k7VZZKxrCDdK9tpump",
-      "price": 1.0461623800934868e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T05:51:37+00:00",
-      "side": "sell",
-      "symbol": "Coco",
-      "address": "5VoCJVEeJsC9o9nmtBPdFKVudKs3u8uXVapmbCPvpump",
-      "price": 2.805492775e-05,
-      "proceeds": 73.36,
-      "pnl_usd": 23.36,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-15T05:51:37+00:00",
       "side": "sell",
@@ -4512,6 +4495,32 @@
       "proceeds": 57.3,
       "pnl_usd": 7.3,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-18T16:01:18+00:00",
+      "side": "sell",
+      "symbol": "cock",
+      "address": "2wp8mu2HQrZNbKsNjnY8fgqedRQTjW6wFs29sNVEpump",
+      "price": 8.916434706e-06,
+      "proceeds": 45.51,
+      "pnl_usd": -4.49,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T16:01:18+00:00",
+      "side": "buy",
+      "symbol": "Kaida",
+      "address": "vJYdx96314re8TdTecteyDYPH48RhrLJ3MGnJFQpump",
+      "price": 8.75805507397489e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T16:01:18+00:00",
+      "side": "buy",
+      "symbol": "LEGENDS",
+      "address": "2Qp2cvCdQLKWTD7ZzMUVHU8sUzAhG5L8zVqtuYWvpump",
+      "price": 1.4962751391911183e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7654,6 +7663,10 @@
     {
       "date": "2026-10-18T15:35:18+00:00",
       "equity": 5887622.7
+    },
+    {
+      "date": "2026-10-18T16:01:18+00:00",
+      "equity": 5887615.95
     }
   ]
 }
