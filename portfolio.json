@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5888067.609528616,
+  "cash": 5888028.456671389,
   "positions": {
     "BgbTcw5gHx4xz7d9kaszDmT4xQz3sk3wRvu81aJTpump": {
       "symbol": "MCH",
       "qty": 1981294.9980977194,
       "entry_price": 2.498365970111767e-05,
-      "last_price": 2.4185295684058194e-05,
+      "last_price": 2.418529568e-05,
       "cost": 50.0,
       "entry_time": "2026-10-18T21:57:34+00:00",
       "missing": 0
     },
-    "tiErpTBxkqDAac38abvYtwQhPrRiDgPVcL8Lj5tpump": {
-      "symbol": "LMAO",
-      "qty": 66571305.59764609,
-      "entry_price": 7.435636053042992e-07,
-      "last_price": 7.159731114774577e-07,
+    "JAPYGLnCF11hS4UX9C9qUUcVnUK9kF3SPAdtmprupump": {
+      "symbol": "claude",
+      "qty": 4339634.837272956,
+      "entry_price": 1.1406489683151774e-05,
+      "last_price": 1.1012429594859058e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T21:57:34+00:00",
+      "entry_time": "2026-10-18T22:24:46+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T16:03:31+00:00",
-      "side": "sell",
-      "symbol": "DACITY",
-      "address": "6PoggvnwbZ283TU7ncMZaZrv5wJofnfjCrgPN78Vpump",
-      "price": 2.047354342e-06,
-      "proceeds": 0.73,
-      "pnl_usd": -49.27,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T16:03:31+00:00",
-      "side": "sell",
-      "symbol": "FACEBOOK",
-      "address": "AyESPFKZaifC2CvUZBNgGvE23587w9kYheadUCmupump",
-      "price": 0.0009927482913,
-      "proceeds": 98.16,
-      "pnl_usd": 48.16,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-15T16:03:31+00:00",
       "side": "sell",
@@ -4523,6 +4503,24 @@
       "address": "tiErpTBxkqDAac38abvYtwQhPrRiDgPVcL8Lj5tpump",
       "price": 7.435636053042992e-07,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T22:24:46+00:00",
+      "side": "sell",
+      "symbol": "LMAO",
+      "address": "tiErpTBxkqDAac38abvYtwQhPrRiDgPVcL8Lj5tpump",
+      "price": 1.806909457e-07,
+      "proceeds": 10.85,
+      "pnl_usd": -39.15,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T22:24:46+00:00",
+      "side": "buy",
+      "symbol": "claude",
+      "address": "JAPYGLnCF11hS4UX9C9qUUcVnUK9kF3SPAdtmprupump",
+      "price": 1.1406489683151774e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7721,6 +7719,10 @@
     {
       "date": "2026-10-18T21:57:34+00:00",
       "equity": 5888163.19
+    },
+    {
+      "date": "2026-10-18T22:24:46+00:00",
+      "equity": 5888124.16
     }
   ]
 }
