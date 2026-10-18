@@ -1,35 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5888403.147562216,
+  "cash": 5888408.616177122,
   "positions": {
-    "7LUNKLomgtHX24aLzCRKCcPCUbWSML3ybQMfMCbZpump": {
-      "symbol": "DOLL",
-      "qty": 1661947.9497951732,
-      "entry_price": 2.9784326281759083e-05,
-      "last_price": 2.8751604297319585e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T19:19:13+00:00",
-      "missing": 0
-    },
     "GZU1oXzgUdRdJuV7JULf7BwP4T6VyQZj6PpauBpJpump": {
       "symbol": "CHIMP",
       "qty": 5111419.907799191,
       "entry_price": 9.684197521019766e-06,
-      "last_price": 9.338747338212966e-06,
+      "last_price": 9.338747338e-06,
       "cost": 50.0,
       "entry_time": "2026-10-18T19:19:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T09:46:00+00:00",
-      "side": "buy",
-      "symbol": "APE",
-      "address": "GkGWDk5y3vE84MVnVC8XnfbfBFc3TFp32vjvB8Pdpump",
-      "price": 2.9789201274458084e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T09:46:00+00:00",
       "side": "buy",
@@ -4519,6 +4502,16 @@
       "address": "GZU1oXzgUdRdJuV7JULf7BwP4T6VyQZj6PpauBpJpump",
       "price": 9.684197521019766e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T19:44:16+00:00",
+      "side": "sell",
+      "symbol": "DOLL",
+      "address": "7LUNKLomgtHX24aLzCRKCcPCUbWSML3ybQMfMCbZpump",
+      "price": 3.434557904e-06,
+      "proceeds": 5.47,
+      "pnl_usd": -44.53,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -7693,6 +7686,10 @@
     {
       "date": "2026-10-18T19:19:13+00:00",
       "equity": 5888498.67
+    },
+    {
+      "date": "2026-10-18T19:44:16+00:00",
+      "equity": 5888456.35
     }
   ]
 }
