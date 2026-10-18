@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5887965.4102020115,
+  "cash": 5887834.953281413,
   "positions": {
     "269sjJ9JU2f2ynsyptQ8hg9XmT95Qabkh6ZfzwEApump": {
       "symbol": "$WAI",
@@ -11,70 +11,35 @@
       "entry_time": "2026-10-18T10:52:33+00:00",
       "missing": 0
     },
-    "AqBCimXtiNJhKDe4GDGLgmUM9DjhtK3zUnC3cd79pump": {
-      "symbol": "Tortue",
-      "qty": 586880.6437654218,
-      "entry_price": 8.434423681518677e-05,
-      "last_price": 8.177510942718942e-05,
+    "xk5FevmpacHLXxB7CHFtikQBXaitcmBsZ8wtDT1pump": {
+      "symbol": "Mercedes",
+      "qty": 140268.09995137402,
+      "entry_price": 0.00035289563355574,
+      "last_price": 0.00034227427419150305,
       "cost": 50.0,
-      "entry_time": "2026-10-18T11:15:55+00:00",
+      "entry_time": "2026-10-18T11:45:13+00:00",
       "missing": 0
     },
-    "9kpvxC1nFbZNhVk4r6iC4DWJSBPQiwY1boiYpyiHpump": {
-      "symbol": "Mbappe",
-      "qty": 5726475.6143611595,
-      "entry_price": 8.644060209714553e-06,
-      "last_price": 8.313240475040939e-06,
+    "33o4Lhq89uJoRGCAFco48XjeFhqbWJoi9KHzxrnwpump": {
+      "symbol": "LPL",
+      "qty": 1230203.0305110372,
+      "entry_price": 4.0237260657240666e-05,
+      "last_price": 3.894015898682503e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T11:15:55+00:00",
+      "entry_time": "2026-10-18T11:45:13+00:00",
+      "missing": 0
+    },
+    "8mu2kNxtAWJT1HP5dGPGdrJSBoUZV5bJTZ6dFZGBpump": {
+      "symbol": "income",
+      "qty": 2590281.080332881,
+      "entry_price": 1.910989520629116e-05,
+      "last_price": 1.8491603582573387e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T11:45:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T00:48:03+00:00",
-      "side": "sell",
-      "symbol": "COGE",
-      "address": "3S9J2fb8ehmFMbrtspCpjd1f7nrgeou2qZ7FuoRUpump",
-      "price": 2.931171999e-06,
-      "proceeds": 19.79,
-      "pnl_usd": -30.21,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T00:48:03+00:00",
-      "side": "buy",
-      "symbol": "Eloncoin",
-      "address": "7SPcsrLwYaRQvTB14SoApr1JPdRM3EERPUEKXyHspump",
-      "price": 6.75933994595555e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T01:21:52+00:00",
-      "side": "buy",
-      "symbol": "旺柴",
-      "address": "4UK1SRkYnsCLyPZ6CPLYUNM6fJB7pHMqXP3sEN6Npump",
-      "price": 8.356659503878291e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T01:21:52+00:00",
-      "side": "buy",
-      "symbol": "HC",
-      "address": "CGw3GX1xaMrSAqk6ZPauUe4ng4vxAbC7ncbrYtTWpump",
-      "price": 1.8037511986268147e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T01:56:35+00:00",
-      "side": "sell",
-      "symbol": "Eloncoin",
-      "address": "7SPcsrLwYaRQvTB14SoApr1JPdRM3EERPUEKXyHspump",
-      "price": 6.500728729e-06,
-      "proceeds": 45.28,
-      "pnl_usd": -4.72,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-15T01:56:35+00:00",
       "side": "sell",
@@ -4528,6 +4493,50 @@
       "address": "9kpvxC1nFbZNhVk4r6iC4DWJSBPQiwY1boiYpyiHpump",
       "price": 8.644060209714553e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T11:45:13+00:00",
+      "side": "sell",
+      "symbol": "Tortue",
+      "address": "AqBCimXtiNJhKDe4GDGLgmUM9DjhtK3zUnC3cd79pump",
+      "price": 9.040667148e-06,
+      "proceeds": 2.63,
+      "pnl_usd": -47.37,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T11:45:13+00:00",
+      "side": "sell",
+      "symbol": "Mbappe",
+      "address": "9kpvxC1nFbZNhVk4r6iC4DWJSBPQiwY1boiYpyiHpump",
+      "price": 3.100346083e-06,
+      "proceeds": 16.92,
+      "pnl_usd": -33.08,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T11:45:13+00:00",
+      "side": "buy",
+      "symbol": "Mercedes",
+      "address": "xk5FevmpacHLXxB7CHFtikQBXaitcmBsZ8wtDT1pump",
+      "price": 0.00035289563355574,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T11:45:13+00:00",
+      "side": "buy",
+      "symbol": "LPL",
+      "address": "33o4Lhq89uJoRGCAFco48XjeFhqbWJoi9KHzxrnwpump",
+      "price": 4.0237260657240666e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T11:45:13+00:00",
+      "side": "buy",
+      "symbol": "income",
+      "address": "8mu2kNxtAWJT1HP5dGPGdrJSBoUZV5bJTZ6dFZGBpump",
+      "price": 1.910989520629116e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7634,6 +7643,10 @@
     {
       "date": "2026-10-18T11:15:55+00:00",
       "equity": 5888108.75
+    },
+    {
+      "date": "2026-10-18T11:45:13+00:00",
+      "equity": 5888026.51
     }
   ]
 }
