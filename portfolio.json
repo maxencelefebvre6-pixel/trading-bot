@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5887472.201751854,
+  "cash": 5887574.969212269,
   "positions": {
-    "EDVjuvcWhhdDWVhsMnc6YdR1fu5F5guXpFQTDE74pump": {
-      "symbol": "$MFRG",
-      "qty": 5659463.957628145,
-      "entry_price": 8.746411386414274e-06,
-      "last_price": 8.429480158e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T14:09:49+00:00",
-      "missing": 0
-    },
     "2wp8mu2HQrZNbKsNjnY8fgqedRQTjW6wFs29sNVEpump": {
       "symbol": "cock",
       "qty": 5352908.339190056,
@@ -19,36 +10,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-18T14:41:51+00:00",
       "missing": 0
-    },
-    "AHFJWY6CHeLbDuzq8Wn5cCpooQarKgZfEVJxqZRNpump": {
-      "symbol": "thrust",
-      "qty": 603106.2028773515,
-      "entry_price": 8.207509683011233e-05,
-      "last_price": 7.957256340336856e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T15:06:07+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T05:14:34+00:00",
-      "side": "sell",
-      "symbol": "EAGLE",
-      "address": "9WvN5hsyLg5BjxSkCxUNKvLXFJhPx9ozSy2PNxBJpump",
-      "price": 3.268528673e-06,
-      "proceeds": 9.28,
-      "pnl_usd": -40.72,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T05:14:35+00:00",
-      "side": "buy",
-      "symbol": "Coco",
-      "address": "5VoCJVEeJsC9o9nmtBPdFKVudKs3u8uXVapmbCPvpump",
-      "price": 1.8030892096440537e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T05:14:35+00:00",
       "side": "buy",
@@ -4528,6 +4492,26 @@
       "address": "AHFJWY6CHeLbDuzq8Wn5cCpooQarKgZfEVJxqZRNpump",
       "price": 8.207509683011233e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T15:35:18+00:00",
+      "side": "sell",
+      "symbol": "$MFRG",
+      "address": "EDVjuvcWhhdDWVhsMnc6YdR1fu5F5guXpFQTDE74pump",
+      "price": 8.429480158e-06,
+      "proceeds": 45.47,
+      "pnl_usd": -4.53,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T15:35:18+00:00",
+      "side": "sell",
+      "symbol": "thrust",
+      "address": "AHFJWY6CHeLbDuzq8Wn5cCpooQarKgZfEVJxqZRNpump",
+      "price": 9.924885392e-05,
+      "proceeds": 57.3,
+      "pnl_usd": 7.3,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
@@ -7666,6 +7650,10 @@
     {
       "date": "2026-10-18T15:06:07+00:00",
       "equity": 5887615.63
+    },
+    {
+      "date": "2026-10-18T15:35:18+00:00",
+      "equity": 5887622.7
     }
   ]
 }
