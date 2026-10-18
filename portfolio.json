@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5888762.174140853,
+  "cash": 5888778.471143057,
   "positions": {
-    "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump": {
-      "symbol": "$DODO",
-      "qty": 3772186.750330282,
-      "entry_price": 1.3122361981592222e-05,
-      "last_price": 1.269822243e-05,
+    "5Ltw3xSi1934JuT3dkQmM3hj73v3TTgruWWBMoPjpump": {
+      "symbol": "Poolkid",
+      "qty": 847.2188013278408,
+      "entry_price": 0.05842646542123352,
+      "last_price": 0.05669969784972191,
       "cost": 50.0,
-      "entry_time": "2026-10-17T23:02:18+00:00",
-      "missing": 0
-    },
-    "C1r4fUMqX4hNsfJT17tMvtrp1Fxnc41jyiSNWq6Spump": {
-      "symbol": "SWDRUM",
-      "qty": 2996572.0602789964,
-      "entry_price": 1.651887523618948e-05,
-      "last_price": 1.6031157214086075e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T23:52:17+00:00",
-      "missing": 0
-    },
-    "3sPNxiMjC2J5hmHVdSNMpqmtkdc6g3mstF9KnUKdpump": {
-      "symbol": "ALT",
-      "qty": 3193236.5657289093,
-      "entry_price": 1.550151358382081e-05,
-      "last_price": 1.494759493235709e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-17T23:52:17+00:00",
+      "entry_time": "2026-10-18T00:19:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T14:36:25+00:00",
-      "side": "sell",
-      "symbol": "MINDPAD",
-      "address": "CVv3QiezkAfwVgE3dU6DrP3Hs1zrd15d8x1bdYhCpump",
-      "price": 2.964825359e-06,
-      "proceeds": 12.23,
-      "pnl_usd": -37.77,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-14T14:36:26+00:00",
-      "side": "buy",
-      "symbol": "Jamie",
-      "address": "AJrCVGDKxGJMVFux46qaVdCCUAYdvfmEYH3S6nHapump",
-      "price": 1.9869737363055812e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T14:36:26+00:00",
-      "side": "buy",
-      "symbol": "SPRING",
-      "address": "AFCZJhvWGkXadacef7RzSiqZgY8u1bRjTh2drw8hpump",
-      "price": 1.6470419891808104e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T15:11:39+00:00",
-      "side": "sell",
-      "symbol": "Jamie",
-      "address": "AJrCVGDKxGJMVFux46qaVdCCUAYdvfmEYH3S6nHapump",
-      "price": 3.008056135e-06,
-      "proceeds": 7.17,
-      "pnl_usd": -42.83,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-14T15:11:39+00:00",
       "side": "sell",
@@ -4528,6 +4474,44 @@
       "address": "3sPNxiMjC2J5hmHVdSNMpqmtkdc6g3mstF9KnUKdpump",
       "price": 1.550151358382081e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T00:19:47+00:00",
+      "side": "sell",
+      "symbol": "$DODO",
+      "address": "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump",
+      "price": 1.269822243e-05,
+      "proceeds": 45.77,
+      "pnl_usd": -4.23,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T00:19:47+00:00",
+      "side": "sell",
+      "symbol": "SWDRUM",
+      "address": "C1r4fUMqX4hNsfJT17tMvtrp1Fxnc41jyiSNWq6Spump",
+      "price": 6.786044649e-08,
+      "proceeds": 0.1,
+      "pnl_usd": -49.9,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T00:19:47+00:00",
+      "side": "sell",
+      "symbol": "ALT",
+      "address": "3sPNxiMjC2J5hmHVdSNMpqmtkdc6g3mstF9KnUKdpump",
+      "price": 6.710762872e-06,
+      "proceeds": 20.43,
+      "pnl_usd": -29.57,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T00:19:48+00:00",
+      "side": "buy",
+      "symbol": "Poolkid",
+      "address": "5Ltw3xSi1934JuT3dkQmM3hj73v3TTgruWWBMoPjpump",
+      "price": 0.05842646542123352,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7550,6 +7534,10 @@
     {
       "date": "2026-10-17T23:52:17+00:00",
       "equity": 5888905.84
+    },
+    {
+      "date": "2026-10-18T00:19:48+00:00",
+      "equity": 5888826.51
     }
   ]
 }
