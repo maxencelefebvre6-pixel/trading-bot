@@ -1,24 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5888150.597543311,
-  "positions": {},
+  "cash": 5888050.597543311,
+  "positions": {
+    "6gHswuvqSrA38BeGiHcXnndNwqWxNvisuDvSc1Fjpump": {
+      "symbol": "Invest",
+      "qty": 5220342.053389165,
+      "entry_price": 9.482137280231182e-06,
+      "last_price": 9.125395313024761e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T10:52:33+00:00",
+      "missing": 0
+    },
+    "269sjJ9JU2f2ynsyptQ8hg9XmT95Qabkh6ZfzwEApump": {
+      "symbol": "$WAI",
+      "qty": 5093222.526016229,
+      "entry_price": 9.7187978234121e-06,
+      "last_price": 9.374279452880296e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-18T10:52:33+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-15T00:05:43+00:00",
-      "side": "buy",
-      "symbol": "FLOAT",
-      "address": "7WzmwZz6jRWvmjW1E99BHyptWi7BX5nDm4G6dVN7pump",
-      "price": 2.251796439396569e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T00:05:43+00:00",
-      "side": "buy",
-      "symbol": "COGE",
-      "address": "3S9J2fb8ehmFMbrtspCpjd1f7nrgeou2qZ7FuoRUpump",
-      "price": 6.9769070152479975e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T00:48:03+00:00",
       "side": "sell",
@@ -4504,6 +4507,22 @@
       "proceeds": 45.29,
       "pnl_usd": -4.71,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-18T10:52:33+00:00",
+      "side": "buy",
+      "symbol": "Invest",
+      "address": "6gHswuvqSrA38BeGiHcXnndNwqWxNvisuDvSc1Fjpump",
+      "price": 9.482137280231182e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T10:52:33+00:00",
+      "side": "buy",
+      "symbol": "$WAI",
+      "address": "269sjJ9JU2f2ynsyptQ8hg9XmT95Qabkh6ZfzwEApump",
+      "price": 9.7187978234121e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7602,6 +7621,10 @@
     {
       "date": "2026-10-18T10:22:59+00:00",
       "equity": 5888150.6
+    },
+    {
+      "date": "2026-10-18T10:52:33+00:00",
+      "equity": 5888145.98
     }
   ]
 }
