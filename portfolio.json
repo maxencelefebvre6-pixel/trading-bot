@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5888254.881580305,
+  "cash": 5888227.606708694,
   "positions": {
-    "9uYTBd6ihiJkq5xANsT6r873QpQCMUpAwgwsXLd5pump": {
-      "symbol": "FOMO",
-      "qty": 127774.89722080257,
-      "entry_price": 0.0003874000376964583,
-      "last_price": 0.00037575394554365633,
+    "9uTQMiL97gaXtGT8dUr9gP3PThF3VBxKCcDd6kEFpump": {
+      "symbol": "MemeTrash",
+      "qty": 9101061.554053143,
+      "entry_price": 5.438925965505118e-06,
+      "last_price": 5.23565784003974e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-18T07:55:36+00:00",
-      "missing": 0
-    },
-    "58bEjLJQEvL5eGrzPH5zrDtqBMwTfVWX4gfqVqAopump": {
-      "symbol": "ANSEME",
-      "qty": 3399608.1222834303,
-      "entry_price": 1.4560501745934207e-05,
-      "last_price": 1.405503044195221e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T07:55:36+00:00",
-      "missing": 0
-    },
-    "91yebhbFBEP9XCuyAnW6GePnXC7nKrZAGn77LcgVpump": {
-      "symbol": "RAIN",
-      "qty": 1273098.5026572999,
-      "entry_price": 3.888151615658973e-05,
-      "last_price": 3.7632712296686045e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T07:55:36+00:00",
+      "entry_time": "2026-10-18T08:24:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-14T22:50:52+00:00",
-      "side": "buy",
-      "symbol": "diamond",
-      "address": "7qmbcuQKu6j89tcGdy8PXs2fyC7exMBYrcg5a6Sipump",
-      "price": 1.3039715257787521e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T22:50:52+00:00",
-      "side": "buy",
-      "symbol": "DIAMOND",
-      "address": "6wURZo2Vhuc5vVxsufsB68yKnExPdgkoj87bcfkRpump",
-      "price": 9.926433601331705e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-14T23:16:31+00:00",
-      "side": "sell",
-      "symbol": "Catto",
-      "address": "Dta65Yjziwy2C7f324QUvo4LYjcVp411dubT1pGXpump",
-      "price": 0.000451024392,
-      "proceeds": 58.48,
-      "pnl_usd": 8.48,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-14T23:16:31+00:00",
-      "side": "sell",
-      "symbol": "diamond",
-      "address": "JCswFpda5qDhKynTPpGRnD4FSmyT5VAijE7R57Fgpump",
-      "price": 3.146969562e-06,
-      "proceeds": 6.17,
-      "pnl_usd": -43.83,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-14T23:16:31+00:00",
       "side": "sell",
@@ -4530,6 +4476,44 @@
       "address": "91yebhbFBEP9XCuyAnW6GePnXC7nKrZAGn77LcgVpump",
       "price": 3.888151615658973e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-18T08:24:11+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "9uYTBd6ihiJkq5xANsT6r873QpQCMUpAwgwsXLd5pump",
+      "price": 1.105745731e-05,
+      "proceeds": 1.34,
+      "pnl_usd": -48.66,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-18T08:24:11+00:00",
+      "side": "sell",
+      "symbol": "ANSEME",
+      "address": "58bEjLJQEvL5eGrzPH5zrDtqBMwTfVWX4gfqVqAopump",
+      "price": 2.279861073e-06,
+      "proceeds": 7.39,
+      "pnl_usd": -42.61,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T08:24:11+00:00",
+      "side": "sell",
+      "symbol": "RAIN",
+      "address": "91yebhbFBEP9XCuyAnW6GePnXC7nKrZAGn77LcgVpump",
+      "price": 1.147860307e-05,
+      "proceeds": 13.99,
+      "pnl_usd": -36.01,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-18T08:24:11+00:00",
+      "side": "buy",
+      "symbol": "MemeTrash",
+      "address": "9uTQMiL97gaXtGT8dUr9gP3PThF3VBxKCcDd6kEFpump",
+      "price": 5.438925965505118e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7612,6 +7596,10 @@
     {
       "date": "2026-10-18T07:55:36+00:00",
       "equity": 5888398.59
+    },
+    {
+      "date": "2026-10-18T08:24:11+00:00",
+      "equity": 5888275.26
     }
   ]
 }
