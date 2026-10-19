@@ -1,60 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5887856.953329466,
+  "cash": 5887926.550368074,
   "positions": {
-    "DMgCNCyQDG9RMNhHCuJkJNtEun7XGh9poQsH8Bfipump": {
-      "symbol": "STKAT",
-      "qty": 5902037.239534838,
-      "entry_price": 8.386934543283445e-06,
-      "last_price": 8.080518891e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-18T22:52:38+00:00",
-      "missing": 0
-    },
     "DCTgzXYbELL9M6W44RFpzUcxCSLg4XCiWb4PFufTpump": {
       "symbol": "Butler",
       "qty": 594493.5862093768,
       "entry_price": 8.326414472462689e-05,
-      "last_price": 8.072710737510054e-05,
+      "last_price": 8.926843298e-05,
       "cost": 50.0,
       "entry_time": "2026-10-18T23:40:21+00:00",
       "missing": 0
     },
-    "yRvjDRpKszxEptq9Tr7CoD4T5gVGx5r7xp3C4Bhpump": {
-      "symbol": "OpenAI",
-      "qty": 128082.88458477132,
-      "entry_price": 0.00038646849780493936,
-      "last_price": 0.00037485296241534296,
+    "47huugjVa2m9qva38hDSKofpqSQ7Vg3e7MTRf1Ugpump": {
+      "symbol": "CHAIN",
+      "qty": 1444252.4204287766,
+      "entry_price": 3.4273787116315996e-05,
+      "last_price": 3.3087963586228987e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T23:40:21+00:00",
+      "entry_time": "2026-10-19T00:01:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T17:50:42+00:00",
-      "side": "buy",
-      "symbol": "Grok",
-      "address": "Scew3uVEUgVkcqfu3KYRPdyCcjkeLWanJLvoMptpump",
-      "price": 0.00024325471133791737,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T17:50:42+00:00",
-      "side": "buy",
-      "symbol": "DCITY",
-      "address": "Bwd4r4dRphpQv4Ys2C15avbGY5L1Pmhnfb9Ne3vapump",
-      "price": 1.5513451575820223e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T17:50:42+00:00",
-      "side": "buy",
-      "symbol": "BLOCK",
-      "address": "3UbYDyR5QG193pDMuG9B53Ky9Sat9af37keP2Xq4pump",
-      "price": 1.055807479627838e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T18:19:46+00:00",
       "side": "sell",
@@ -4528,6 +4495,34 @@
       "address": "yRvjDRpKszxEptq9Tr7CoD4T5gVGx5r7xp3C4Bhpump",
       "price": 0.00038646849780493936,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T00:01:36+00:00",
+      "side": "sell",
+      "symbol": "STKAT",
+      "address": "DMgCNCyQDG9RMNhHCuJkJNtEun7XGh9poQsH8Bfipump",
+      "price": 8.080518891e-06,
+      "proceeds": 45.44,
+      "pnl_usd": -4.56,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T00:01:36+00:00",
+      "side": "sell",
+      "symbol": "OpenAI",
+      "address": "yRvjDRpKszxEptq9Tr7CoD4T5gVGx5r7xp3C4Bhpump",
+      "price": 0.0006044234424,
+      "proceeds": 74.16,
+      "pnl_usd": 24.16,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-19T00:01:36+00:00",
+      "side": "buy",
+      "symbol": "CHAIN",
+      "address": "47huugjVa2m9qva38hDSKofpqSQ7Vg3e7MTRf1Ugpump",
+      "price": 3.4273787116315996e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7742,6 +7737,10 @@
     {
       "date": "2026-10-18T23:40:21+00:00",
       "equity": 5888000.65
+    },
+    {
+      "date": "2026-10-19T00:01:36+00:00",
+      "equity": 5888027.41
     }
   ]
 }
