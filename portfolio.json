@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5886439.558975814,
+  "cash": 5886425.41734485,
   "positions": {
-    "9uYDGHGYrddmSeQxLztXSFe7dGuNfAFdqNGaAS6apump": {
-      "symbol": "ONE-SHOTTE",
-      "qty": 4892232.260531615,
-      "entry_price": 1.011808053336803e-05,
-      "last_price": 9.739876581825377e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T18:10:31+00:00",
-      "missing": 0
-    },
-    "9wPv7hkgMYUg2rDMk48vyDiYbcNPYP4x3FvHsrUgpump": {
-      "symbol": "NCAT",
-      "qty": 7201389.768359334,
-      "entry_price": 6.873673220339718e-06,
-      "last_price": 6.6139550264625925e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T18:10:31+00:00",
-      "missing": 0
-    },
     "BxKHwJP3TjgU8MhwPfpPJNFfMAvoSoYEgXPFXBBBpump": {
       "symbol": "MUSHROOM",
       "qty": 4435183.811506231,
       "entry_price": 1.1160755022504766e-05,
-      "last_price": 1.0781887525091916e-05,
+      "last_price": 1.078188753e-05,
       "cost": 50.0,
       "entry_time": "2026-10-19T18:10:31+00:00",
       "missing": 0
@@ -33,37 +15,22 @@
       "symbol": "Dacity",
       "qty": 2875740.5861637597,
       "entry_price": 1.7212957329378948e-05,
-      "last_price": 1.664806557607295e-05,
+      "last_price": 1.658640135e-05,
       "cost": 50.0,
       "entry_time": "2026-10-19T18:10:31+00:00",
+      "missing": 0
+    },
+    "YS3e6jMFefhmCHNYasZY3k6YfXGkfZY6CkAaR7Npump": {
+      "symbol": "SpaceX",
+      "qty": 113723.05038594975,
+      "entry_price": 0.00043526795871205037,
+      "last_price": 0.00042219695859933485,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T18:56:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T11:14:04+00:00",
-      "side": "buy",
-      "symbol": "TCAT",
-      "address": "B29fhkoc1D9xUWBQJ3JKjEyFSUj4k2zAb8TKZfoxpump",
-      "price": 1.6980581708594217e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T11:14:04+00:00",
-      "side": "buy",
-      "symbol": "pmupeee",
-      "address": "C4Y1vBHZiZ1EpgzzryjddHLBBFaAzpaJ66LZSCxHpump",
-      "price": 8.027904557275696e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T11:14:04+00:00",
-      "side": "buy",
-      "symbol": "oldgame",
-      "address": "HnWdpQcmBLTYoGXFxz5GPk9HhYzFcHzan94ndErbpump",
-      "price": 9.34751297714995e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T11:51:34+00:00",
       "side": "sell",
@@ -4535,6 +4502,34 @@
       "address": "EBvUE2CSfD5t2xSW5ctXRe43jgZzPjWaPcay39r7pump",
       "price": 1.7212957329378948e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T18:56:37+00:00",
+      "side": "sell",
+      "symbol": "ONE-SHOTTE",
+      "address": "9uYDGHGYrddmSeQxLztXSFe7dGuNfAFdqNGaAS6apump",
+      "price": 2.910558262e-06,
+      "proceeds": 13.59,
+      "pnl_usd": -36.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T18:56:37+00:00",
+      "side": "sell",
+      "symbol": "NCAT",
+      "address": "9wPv7hkgMYUg2rDMk48vyDiYbcNPYP4x3FvHsrUgpump",
+      "price": 3.25153452e-06,
+      "proceeds": 22.27,
+      "pnl_usd": -27.73,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T18:56:38+00:00",
+      "side": "buy",
+      "symbol": "SpaceX",
+      "address": "YS3e6jMFefhmCHNYasZY3k6YfXGkfZY6CkAaR7Npump",
+      "price": 0.00043526795871205037,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7861,6 +7856,10 @@
     {
       "date": "2026-10-19T18:10:31+00:00",
       "equity": 5886630.53
+    },
+    {
+      "date": "2026-10-19T18:56:38+00:00",
+      "equity": 5886568.95
     }
   ]
 }
