@@ -1,61 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5887715.139676503,
+  "cash": 5887567.96439676,
   "positions": {
     "4d9PJsheMw4XqfvFTwj3wAnpdbXpXw39Ko3pwED2pump": {
       "symbol": "CROONER",
       "qty": 5211286.385776294,
       "entry_price": 9.498614417949759e-06,
-      "last_price": 9.160036688014636e-06,
+      "last_price": 9.160036688e-06,
       "cost": 50.0,
       "entry_time": "2026-10-19T03:07:43+00:00",
       "missing": 0
     },
-    "5eCYAtpc41G9Mpi5NyoMqP9bo8Fx8PaoBB56K8sypump": {
-      "symbol": "LARA",
-      "qty": 1261927.4540545663,
-      "entry_price": 3.9225709719648907e-05,
-      "last_price": 3.796773058105863e-05,
+    "14VfjnbUy7kq1kU32ZcA3xtav6Y7nK6ZhHuRB4okpump": {
+      "symbol": "FOMO",
+      "qty": 146991.8433545518,
+      "entry_price": 0.0003367533794416299,
+      "last_price": 0.00032660783414937265,
       "cost": 50.0,
-      "entry_time": "2026-10-19T03:07:43+00:00",
+      "entry_time": "2026-10-19T03:44:35+00:00",
+      "missing": 0
+    },
+    "3ftvkyh9ehavuzUHe5SMfQHQk79q7NiVM4sNvhH5pump": {
+      "symbol": "AMERICA",
+      "qty": 1245441.2352401258,
+      "entry_price": 3.974495030305963e-05,
+      "last_price": 3.846095227706972e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T03:44:35+00:00",
+      "missing": 0
+    },
+    "74AcneobDy2VTQ97tZJGJYgY1mR1EmSZWP2kMwhepump": {
+      "symbol": "MrP",
+      "qty": 1398221.1452421418,
+      "entry_price": 3.540212517056997e-05,
+      "last_price": 3.418292038452076e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T03:44:35+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T21:14:27+00:00",
-      "side": "buy",
-      "symbol": "MrBeast",
-      "address": "CtVMgTYsrgqaVnuuCoWgwRX84kkuynd7k8GmyD99pump",
-      "price": 0.00039431439302558093,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T21:50:43+00:00",
-      "side": "sell",
-      "symbol": "MrBeast",
-      "address": "CtVMgTYsrgqaVnuuCoWgwRX84kkuynd7k8GmyD99pump",
-      "price": 1.877702148e-06,
-      "proceeds": 0.23,
-      "pnl_usd": -49.77,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T21:50:43+00:00",
-      "side": "buy",
-      "symbol": "CATCH",
-      "address": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-      "price": 1.5871322617872115e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T21:50:43+00:00",
-      "side": "buy",
-      "symbol": "CALLED",
-      "address": "4si66xJZV7MSykgRn4AHM5ytYmZftqYx4J6uqLewpump",
-      "price": 4.8786506627254095e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T22:17:24+00:00",
       "side": "sell",
@@ -4519,6 +4503,40 @@
       "address": "5eCYAtpc41G9Mpi5NyoMqP9bo8Fx8PaoBB56K8sypump",
       "price": 3.9225709719648907e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T03:44:35+00:00",
+      "side": "sell",
+      "symbol": "LARA",
+      "address": "5eCYAtpc41G9Mpi5NyoMqP9bo8Fx8PaoBB56K8sypump",
+      "price": 2.338662494e-06,
+      "proceeds": 2.82,
+      "pnl_usd": -47.18,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-19T03:44:35+00:00",
+      "side": "buy",
+      "symbol": "FOMO",
+      "address": "14VfjnbUy7kq1kU32ZcA3xtav6Y7nK6ZhHuRB4okpump",
+      "price": 0.0003367533794416299,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T03:44:35+00:00",
+      "side": "buy",
+      "symbol": "AMERICA",
+      "address": "3ftvkyh9ehavuzUHe5SMfQHQk79q7NiVM4sNvhH5pump",
+      "price": 3.974495030305963e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T03:44:35+00:00",
+      "side": "buy",
+      "symbol": "MrP",
+      "address": "74AcneobDy2VTQ97tZJGJYgY1mR1EmSZWP2kMwhepump",
+      "price": 3.540212517056997e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7757,6 +7775,10 @@
     {
       "date": "2026-10-19T03:07:43+00:00",
       "equity": 5887810.79
+    },
+    {
+      "date": "2026-10-19T03:44:35+00:00",
+      "equity": 5887759.4
     }
   ]
 }
