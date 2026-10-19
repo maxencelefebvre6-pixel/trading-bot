@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5886466.932931699,
+  "cash": 5886374.25419915,
   "positions": {
-    "8dfVNZkB5rSzQAtkDrqqs77u8Fv3qN9iTpKZxTUZpump": {
-      "symbol": "DD",
-      "qty": 3499228.8968877853,
-      "entry_price": 1.4145973715530671e-05,
-      "last_price": 1.3668722954219673e-05,
+    "DcCvcANnrcmdecx7dXcnmSvS5HjFRMs4PK4R159upump": {
+      "symbol": "Tibetan",
+      "qty": 2818925.2817771262,
+      "entry_price": 1.7559883662043667e-05,
+      "last_price": 1.6928652153244664e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T19:32:36+00:00",
+      "entry_time": "2026-10-19T20:08:56+00:00",
+      "missing": 0
+    },
+    "ChoEFimiTwPNjN6N5wn7qqyqQZNTYjKA3kVZ3srApump": {
+      "symbol": "PumpDrop",
+      "qty": 5257798.55587476,
+      "entry_price": 9.414586632401798e-06,
+      "last_price": 9.081481314229898e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T20:08:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T14:28:39+00:00",
-      "side": "buy",
-      "symbol": "💸",
-      "address": "EwAdkGDt1SkuRVjUtawy4vJTyRRB9fJdJd6ZYswpump",
-      "price": 1.788868184067157e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T14:28:39+00:00",
-      "side": "buy",
-      "symbol": "ELIZABETH",
-      "address": "6NBHo3EJEK3Ut8we99oZWV1kwsjLPqQVt8HtcN4cpump",
-      "price": 6.635238164229954e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T15:38:01+00:00",
-      "side": "sell",
-      "symbol": "MCHI",
-      "address": "7hJRspbLMXHguw15ccP2EAhfJRSyURPFSymox5QPpump",
-      "price": 1.091299873e-05,
-      "proceeds": 45.6,
-      "pnl_usd": -4.4,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-16T15:38:01+00:00",
       "side": "sell",
@@ -4512,6 +4495,32 @@
       "address": "8dfVNZkB5rSzQAtkDrqqs77u8Fv3qN9iTpKZxTUZpump",
       "price": 1.4145973715530671e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T20:08:55+00:00",
+      "side": "sell",
+      "symbol": "DD",
+      "address": "8dfVNZkB5rSzQAtkDrqqs77u8Fv3qN9iTpKZxTUZpump",
+      "price": 2.18931074e-06,
+      "proceeds": 7.32,
+      "pnl_usd": -42.68,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T20:08:56+00:00",
+      "side": "buy",
+      "symbol": "Tibetan",
+      "address": "DcCvcANnrcmdecx7dXcnmSvS5HjFRMs4PK4R159upump",
+      "price": 1.7559883662043667e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T20:08:56+00:00",
+      "side": "buy",
+      "symbol": "PumpDrop",
+      "address": "ChoEFimiTwPNjN6N5wn7qqyqQZNTYjKA3kVZ3srApump",
+      "price": 9.414586632401798e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7846,6 +7855,10 @@
     {
       "date": "2026-10-19T19:32:36+00:00",
       "equity": 5886514.76
+    },
+    {
+      "date": "2026-10-19T20:08:56+00:00",
+      "equity": 5886469.72
     }
   ]
 }
