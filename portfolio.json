@@ -1,119 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5886507.444310339,
+  "cash": 5886439.558975814,
   "positions": {
-    "9APYfomitzQMBBF4J6WmhiGUJKMfVCNuu2trjWetpump": {
-      "symbol": "MidnightCity",
-      "qty": 5044865.190761354,
-      "entry_price": 9.811956936064258e-06,
-      "last_price": 9.444346022730247e-06,
+    "9uYDGHGYrddmSeQxLztXSFe7dGuNfAFdqNGaAS6apump": {
+      "symbol": "ONE-SHOTTE",
+      "qty": 4892232.260531615,
+      "entry_price": 1.011808053336803e-05,
+      "last_price": 9.739876581825377e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-19T17:39:51+00:00",
+      "entry_time": "2026-10-19T18:10:31+00:00",
       "missing": 0
     },
-    "VUvhNc7wK1qbVkvmGecVJJ6CZn4a8mm46X9N8P1pump": {
-      "symbol": "ChatGPT",
-      "qty": 131976.80950483104,
-      "entry_price": 0.0003750658936651143,
-      "last_price": 0.0003637840969077803,
+    "9wPv7hkgMYUg2rDMk48vyDiYbcNPYP4x3FvHsrUgpump": {
+      "symbol": "NCAT",
+      "qty": 7201389.768359334,
+      "entry_price": 6.873673220339718e-06,
+      "last_price": 6.6139550264625925e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-19T17:39:51+00:00",
+      "entry_time": "2026-10-19T18:10:31+00:00",
       "missing": 0
     },
-    "2m5wWBG6tg6KqcVPCGKQQKqaJmoi9Kb3rh8pSxoapump": {
-      "symbol": "DOOROC",
-      "qty": 7063673.355493705,
-      "entry_price": 7.0076853088771224e-06,
-      "last_price": 6.741888095599499e-06,
+    "BxKHwJP3TjgU8MhwPfpPJNFfMAvoSoYEgXPFXBBBpump": {
+      "symbol": "MUSHROOM",
+      "qty": 4435183.811506231,
+      "entry_price": 1.1160755022504766e-05,
+      "last_price": 1.0781887525091916e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T17:39:51+00:00",
+      "entry_time": "2026-10-19T18:10:31+00:00",
       "missing": 0
     },
-    "9KRuHSLDj2nTAzhoWYuMZwC1BPo7mFsjkbzFUB7hpump": {
-      "symbol": "wApe",
-      "qty": 9697530.37017253,
-      "entry_price": 5.104392366973256e-06,
-      "last_price": 4.928357564592724e-06,
+    "EBvUE2CSfD5t2xSW5ctXRe43jgZzPjWaPcay39r7pump": {
+      "symbol": "Dacity",
+      "qty": 2875740.5861637597,
+      "entry_price": 1.7212957329378948e-05,
+      "last_price": 1.664806557607295e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T17:39:51+00:00",
+      "entry_time": "2026-10-19T18:10:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T10:08:08+00:00",
-      "side": "sell",
-      "symbol": "Chase",
-      "address": "YwCKitMEdf7nagejZbvpDvxDui5CdoQ3NuJsE5Tpump",
-      "price": 1.402440228e-05,
-      "proceeds": 73.84,
-      "pnl_usd": 23.84,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-16T10:08:08+00:00",
-      "side": "sell",
-      "symbol": "$DODO",
-      "address": "6sEVReLxCNRVtgCHzsECsBTaXrJnYBcwdREPgMZ9pump",
-      "price": 2.69268412e-05,
-      "proceeds": 39.05,
-      "pnl_usd": -10.95,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T10:08:08+00:00",
-      "side": "buy",
-      "symbol": "Cryptoagent",
-      "address": "GvH94Sbve1yDFsEjZPTtpqM8E7Q8Lzw5jKRSi5WApump",
-      "price": 9.924177478248444e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T10:08:08+00:00",
-      "side": "buy",
-      "symbol": "KARDASHEV",
-      "address": "k94NMZTLYURKmVBLWW1p6bDMWpNmo5Qow4h2GXZpump",
-      "price": 1.4850979261220478e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T10:08:08+00:00",
-      "side": "buy",
-      "symbol": "$DODO",
-      "address": "DdnhNA2pHCvABPQmWuAN8fsfaNsgEXpsDjoRftAfpump",
-      "price": 1.193767408886951e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T10:43:41+00:00",
-      "side": "sell",
-      "symbol": "Cryptoagent",
-      "address": "GvH94Sbve1yDFsEjZPTtpqM8E7Q8Lzw5jKRSi5WApump",
-      "price": 3.121039519e-06,
-      "proceeds": 14.85,
-      "pnl_usd": -35.15,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T10:43:41+00:00",
-      "side": "sell",
-      "symbol": "KARDASHEV",
-      "address": "k94NMZTLYURKmVBLWW1p6bDMWpNmo5Qow4h2GXZpump",
-      "price": 3.00257552e-06,
-      "proceeds": 9.57,
-      "pnl_usd": -40.43,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T11:14:04+00:00",
-      "side": "sell",
-      "symbol": "$DODO",
-      "address": "DdnhNA2pHCvABPQmWuAN8fsfaNsgEXpsDjoRftAfpump",
-      "price": 1.152853214e-05,
-      "proceeds": 45.66,
-      "pnl_usd": -4.34,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-16T11:14:04+00:00",
       "side": "buy",
@@ -4537,6 +4463,78 @@
       "address": "9KRuHSLDj2nTAzhoWYuMZwC1BPo7mFsjkbzFUB7hpump",
       "price": 5.104392366973256e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T18:10:19+00:00",
+      "side": "sell",
+      "symbol": "MidnightCity",
+      "address": "9APYfomitzQMBBF4J6WmhiGUJKMfVCNuu2trjWetpump",
+      "price": 2.948938261e-06,
+      "proceeds": 14.19,
+      "pnl_usd": -35.81,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T18:10:19+00:00",
+      "side": "sell",
+      "symbol": "ChatGPT",
+      "address": "VUvhNc7wK1qbVkvmGecVJJ6CZn4a8mm46X9N8P1pump",
+      "price": 0.0006910295428,
+      "proceeds": 87.35,
+      "pnl_usd": 37.35,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-19T18:10:19+00:00",
+      "side": "sell",
+      "symbol": "DOOROC",
+      "address": "2m5wWBG6tg6KqcVPCGKQQKqaJmoi9Kb3rh8pSxoapump",
+      "price": 3.201915198e-06,
+      "proceeds": 21.52,
+      "pnl_usd": -28.48,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T18:10:19+00:00",
+      "side": "sell",
+      "symbol": "wApe",
+      "address": "9KRuHSLDj2nTAzhoWYuMZwC1BPo7mFsjkbzFUB7hpump",
+      "price": 9.85729436e-07,
+      "proceeds": 9.06,
+      "pnl_usd": -40.94,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-19T18:10:31+00:00",
+      "side": "buy",
+      "symbol": "ONE-SHOTTE",
+      "address": "9uYDGHGYrddmSeQxLztXSFe7dGuNfAFdqNGaAS6apump",
+      "price": 1.011808053336803e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T18:10:31+00:00",
+      "side": "buy",
+      "symbol": "NCAT",
+      "address": "9wPv7hkgMYUg2rDMk48vyDiYbcNPYP4x3FvHsrUgpump",
+      "price": 6.873673220339718e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T18:10:31+00:00",
+      "side": "buy",
+      "symbol": "MUSHROOM",
+      "address": "BxKHwJP3TjgU8MhwPfpPJNFfMAvoSoYEgXPFXBBBpump",
+      "price": 1.1160755022504766e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T18:10:31+00:00",
+      "side": "buy",
+      "symbol": "Dacity",
+      "address": "EBvUE2CSfD5t2xSW5ctXRe43jgZzPjWaPcay39r7pump",
+      "price": 1.7212957329378948e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7859,6 +7857,10 @@
     {
       "date": "2026-10-19T17:39:51+00:00",
       "equity": 5886698.52
+    },
+    {
+      "date": "2026-10-19T18:10:31+00:00",
+      "equity": 5886630.53
     }
   ]
 }
