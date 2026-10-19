@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5887227.2200048,
+  "cash": 5887192.299266397,
   "positions": {
-    "8jRHHdAywNvLgBQNsAB7Y5SUjMUcwkMkqqQiA3Pbpump": {
-      "symbol": "MEM",
-      "qty": 547809.5088260444,
-      "entry_price": 9.03598772976367e-05,
-      "last_price": 8.752776837364947e-05,
+    "5hPopWBHzXZ8SmD6zEGX1jFmkmBGXwsjtyMeWzoypump": {
+      "symbol": "SHITTER",
+      "qty": 2381653.603402155,
+      "entry_price": 2.078387886856847e-05,
+      "last_price": 2.0051944630990608e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T08:32:01+00:00",
-      "missing": 0
-    },
-    "5KSHcaaVhxQnL9Cb8ppv1AoBUWmxWPJbU9ASHeQFpump": {
-      "symbol": "Loadstar",
-      "qty": 4490303.110807134,
-      "entry_price": 1.1023754695059406e-05,
-      "last_price": 1.060383930582009e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T08:32:01+00:00",
+      "entry_time": "2026-10-19T09:14:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T01:18:04+00:00",
-      "side": "buy",
-      "symbol": "FTR",
-      "address": "74uhN5HrtdYesd6YqB28zbrxntooy26zM15G6zRypump",
-      "price": 2.966895781679474e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T01:18:04+00:00",
-      "side": "buy",
-      "symbol": "FTR",
-      "address": "HEF3UUp9zSzLYFShS7bWqQ1QMq4d6wGyWecWXWq3pump",
-      "price": 9.43151082798212e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T01:18:04+00:00",
-      "side": "buy",
-      "symbol": "$BYD",
-      "address": "7Kp8Z4aryqL9Njz4X3KXvjrFP2Cm8n59cHkbxb1epump",
-      "price": 6.674595218878179e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T01:51:53+00:00",
       "side": "sell",
@@ -4519,6 +4486,34 @@
       "address": "5KSHcaaVhxQnL9Cb8ppv1AoBUWmxWPJbU9ASHeQFpump",
       "price": 1.1023754695059406e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T09:14:36+00:00",
+      "side": "sell",
+      "symbol": "MEM",
+      "address": "8jRHHdAywNvLgBQNsAB7Y5SUjMUcwkMkqqQiA3Pbpump",
+      "price": 2.574563382e-06,
+      "proceeds": 1.35,
+      "pnl_usd": -48.65,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T09:14:36+00:00",
+      "side": "sell",
+      "symbol": "Loadstar",
+      "address": "5KSHcaaVhxQnL9Cb8ppv1AoBUWmxWPJbU9ASHeQFpump",
+      "price": 3.202894815e-06,
+      "proceeds": 13.73,
+      "pnl_usd": -36.27,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T09:14:36+00:00",
+      "side": "buy",
+      "symbol": "SHITTER",
+      "address": "5hPopWBHzXZ8SmD6zEGX1jFmkmBGXwsjtyMeWzoypump",
+      "price": 2.078387886856847e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7789,6 +7784,10 @@
     {
       "date": "2026-10-19T08:32:01+00:00",
       "equity": 5887322.78
+    },
+    {
+      "date": "2026-10-19T09:14:36+00:00",
+      "equity": 5887240.06
     }
   ]
 }
