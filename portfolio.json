@@ -1,56 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5887192.299266397,
+  "cash": 5887049.062163778,
   "positions": {
-    "5hPopWBHzXZ8SmD6zEGX1jFmkmBGXwsjtyMeWzoypump": {
-      "symbol": "SHITTER",
-      "qty": 2381653.603402155,
-      "entry_price": 2.078387886856847e-05,
-      "last_price": 2.0051944630990608e-05,
+    "9rgApJdeDKWJ1aYAP8dVvEVEWcwy6teCVWVwAkvGpump": {
+      "symbol": "MRBAG",
+      "qty": 635.3503811716788,
+      "entry_price": 0.0779097667474674,
+      "last_price": 0.07560883518839642,
       "cost": 50.0,
-      "entry_time": "2026-10-19T09:14:36+00:00",
+      "entry_time": "2026-10-19T09:57:02+00:00",
+      "missing": 0
+    },
+    "4zjnzNVTBPabN4NnUBegRVwrPAPuLXHJxmcMFEgwpump": {
+      "symbol": "VibeCat",
+      "qty": 5921399.202982857,
+      "entry_price": 8.359510700623727e-06,
+      "last_price": 8.038241961788204e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T09:57:02+00:00",
+      "missing": 0
+    },
+    "FTtZA1FzzyPoxD8BvfsFqfUpKjBpBjGv7Jtm4vHipump": {
+      "symbol": "MotoCrose",
+      "qty": 7162675.323689649,
+      "entry_price": 6.910825601194706e-06,
+      "last_price": 6.647919124401372e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T09:57:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T01:51:53+00:00",
-      "side": "sell",
-      "symbol": "FTR",
-      "address": "74uhN5HrtdYesd6YqB28zbrxntooy26zM15G6zRypump",
-      "price": 2.408891028e-05,
-      "proceeds": 38.32,
-      "pnl_usd": -11.68,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T01:51:53+00:00",
-      "side": "sell",
-      "symbol": "FTR",
-      "address": "HEF3UUp9zSzLYFShS7bWqQ1QMq4d6wGyWecWXWq3pump",
-      "price": 2.962616704e-06,
-      "proceeds": 14.83,
-      "pnl_usd": -35.17,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T02:21:43+00:00",
-      "side": "sell",
-      "symbol": "$BYD",
-      "address": "7Kp8Z4aryqL9Njz4X3KXvjrFP2Cm8n59cHkbxb1epump",
-      "price": 6.418079318e-06,
-      "proceeds": 45.26,
-      "pnl_usd": -4.74,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-16T02:21:43+00:00",
-      "side": "buy",
-      "symbol": "SUPERCYCLE",
-      "address": "84AaE16zkQ97UqeRsbZwkkDQJn9L3v4nUqrMMZ3Xpump",
-      "price": 3.518442492363245e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T02:21:43+00:00",
       "side": "buy",
@@ -4514,6 +4494,40 @@
       "address": "5hPopWBHzXZ8SmD6zEGX1jFmkmBGXwsjtyMeWzoypump",
       "price": 2.078387886856847e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T09:57:02+00:00",
+      "side": "sell",
+      "symbol": "SHITTER",
+      "address": "5hPopWBHzXZ8SmD6zEGX1jFmkmBGXwsjtyMeWzoypump",
+      "price": 2.966178411e-06,
+      "proceeds": 6.76,
+      "pnl_usd": -43.24,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T09:57:02+00:00",
+      "side": "buy",
+      "symbol": "MRBAG",
+      "address": "9rgApJdeDKWJ1aYAP8dVvEVEWcwy6teCVWVwAkvGpump",
+      "price": 0.0779097667474674,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T09:57:02+00:00",
+      "side": "buy",
+      "symbol": "VibeCat",
+      "address": "4zjnzNVTBPabN4NnUBegRVwrPAPuLXHJxmcMFEgwpump",
+      "price": 8.359510700623727e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T09:57:02+00:00",
+      "side": "buy",
+      "symbol": "MotoCrose",
+      "address": "FTtZA1FzzyPoxD8BvfsFqfUpKjBpBjGv7Jtm4vHipump",
+      "price": 6.910825601194706e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7788,6 +7802,10 @@
     {
       "date": "2026-10-19T09:14:36+00:00",
       "equity": 5887240.06
+    },
+    {
+      "date": "2026-10-19T09:57:02+00:00",
+      "equity": 5887192.31
     }
   ]
 }
