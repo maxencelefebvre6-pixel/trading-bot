@@ -1,56 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5887395.1015986735,
+  "cash": 5887293.075882923,
   "positions": {
-    "ctJ2i4k7xcoKp6Tovb6AXSsC4AtLVJiTkfbd2GMpump": {
-      "symbol": "XTO",
-      "qty": 80.12532656023839,
-      "entry_price": 0.6177821935338484,
-      "last_price": 0.6254025388,
+    "aeSZot52ewRKzwwvxtMTxZJ9uFniv4L41MevCtwpump": {
+      "symbol": "VERDX",
+      "qty": 1046299.2455271813,
+      "entry_price": 4.7309601160095706e-05,
+      "last_price": 4.580025947056287e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T06:09:56+00:00",
+      "entry_time": "2026-10-19T07:52:36+00:00",
+      "missing": 0
+    },
+    "5vhfeS17AQUZDJADj6LcdFBXkL9Xz6kw7kc4E2hnpump": {
+      "symbol": "DUB",
+      "qty": 4239228.045751575,
+      "entry_price": 1.167665420821307e-05,
+      "last_price": 1.1246642703114086e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T07:52:36+00:00",
+      "missing": 0
+    },
+    "BZoKm1w6Q515XRD48GdSGRAiWcLzERfswbXmMokzpump": {
+      "symbol": "Gachamon",
+      "qty": 5215889.925954975,
+      "entry_price": 9.490230948640478e-06,
+      "last_price": 9.132268813201436e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T07:52:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T00:42:43+00:00",
-      "side": "sell",
-      "symbol": "coffeeshop",
-      "address": "DF4VU2tPw5embmTwaGwe4q5Nq5G13SSJWFXwWkrXpump",
-      "price": 5.450739753e-06,
-      "proceeds": 12.21,
-      "pnl_usd": -37.79,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T00:42:43+00:00",
-      "side": "sell",
-      "symbol": "ALCVIE",
-      "address": "2Zp4VTFwxvREeFSFeAoTPVJEpydvAPgAC82Hzo3wpump",
-      "price": 0.08012266875,
-      "proceeds": 23.92,
-      "pnl_usd": -26.08,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-16T00:42:43+00:00",
-      "side": "sell",
-      "symbol": "MC",
-      "address": "8fYuEcTUU8uQW1oBiJno1WJ5YDr7ymGXekCPYu6qpump",
-      "price": 3.136955174e-06,
-      "proceeds": 12.81,
-      "pnl_usd": -37.19,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T00:42:44+00:00",
-      "side": "buy",
-      "symbol": "1",
-      "address": "9f5MXLm38fUnrfre4SAVsiuZh4XJTq5usZATY3KUpump",
-      "price": 8.486035347818034e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T00:42:44+00:00",
       "side": "buy",
@@ -4514,6 +4494,40 @@
       "proceeds": 13.78,
       "pnl_usd": -36.22,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T07:52:35+00:00",
+      "side": "sell",
+      "symbol": "XTO",
+      "address": "ctJ2i4k7xcoKp6Tovb6AXSsC4AtLVJiTkfbd2GMpump",
+      "price": 0.623523064,
+      "proceeds": 47.97,
+      "pnl_usd": -2.03,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T07:52:36+00:00",
+      "side": "buy",
+      "symbol": "VERDX",
+      "address": "aeSZot52ewRKzwwvxtMTxZJ9uFniv4L41MevCtwpump",
+      "price": 4.7309601160095706e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T07:52:36+00:00",
+      "side": "buy",
+      "symbol": "DUB",
+      "address": "5vhfeS17AQUZDJADj6LcdFBXkL9Xz6kw7kc4E2hnpump",
+      "price": 1.167665420821307e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T07:52:36+00:00",
+      "side": "buy",
+      "symbol": "Gachamon",
+      "address": "BZoKm1w6Q515XRD48GdSGRAiWcLzERfswbXmMokzpump",
+      "price": 9.490230948640478e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7776,6 +7790,10 @@
     {
       "date": "2026-10-19T07:03:23+00:00",
       "equity": 5887445.21
+    },
+    {
+      "date": "2026-10-19T07:52:36+00:00",
+      "equity": 5887436.31
     }
   ]
 }
