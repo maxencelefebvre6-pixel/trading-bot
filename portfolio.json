@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5887052.844366964,
+  "cash": 5886998.430598376,
   "positions": {
-    "DgtG4nAhxWzuxTGNtPXQuCqVSFFvrYj74YUbMzr3pump": {
-      "symbol": "MONY",
-      "qty": 4750560.673892159,
-      "entry_price": 1.0419822711041052e-05,
-      "last_price": 1.0054936411501272e-05,
+    "5u33ZJ8fcpDprxB6QwRZHchBqP6NnRG5sa4Y4Ruepump": {
+      "symbol": "RECRUIT",
+      "qty": 4295936.328614328,
+      "entry_price": 1.1522517144933204e-05,
+      "last_price": 1.109444389267161e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T11:08:05+00:00",
+      "entry_time": "2026-10-19T12:17:08+00:00",
+      "missing": 0
+    },
+    "3wuW326biXN8Quy4W8uuugUX1fvbiVSDfsGwMDEDpump": {
+      "symbol": "RICH",
+      "qty": 4985823.2234988,
+      "entry_price": 9.928149832248443e-06,
+      "last_price": 9.552935507730018e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T12:17:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T03:31:00+00:00",
-      "side": "sell",
-      "symbol": "ASS",
-      "address": "FH97vqEMTUULeox7iP3S2sXcCutdHHWGfpi92rxVpump",
-      "price": 3.792400184e-06,
-      "proceeds": 16.9,
-      "pnl_usd": -33.1,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T03:31:00+00:00",
-      "side": "buy",
-      "symbol": "123456",
-      "address": "hps4Xy4goXuV9zxdTAuF35tN58Gpks8Ho5zX529pump",
-      "price": 2.164765168505388e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T03:31:00+00:00",
-      "side": "buy",
-      "symbol": "LUMINOUS",
-      "address": "7uGU4yHFGwAGSq7Rdn1FNAgT6pZNGUr1ZCzNHNqkpump",
-      "price": 5.20585324042327e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T04:07:13+00:00",
       "side": "sell",
@@ -4514,6 +4497,32 @@
       "address": "DgtG4nAhxWzuxTGNtPXQuCqVSFFvrYj74YUbMzr3pump",
       "price": 1.0419822711041052e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T12:17:08+00:00",
+      "side": "sell",
+      "symbol": "MONY",
+      "address": "DgtG4nAhxWzuxTGNtPXQuCqVSFFvrYj74YUbMzr3pump",
+      "price": 1.005493641e-05,
+      "proceeds": 45.59,
+      "pnl_usd": -4.41,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T12:17:08+00:00",
+      "side": "buy",
+      "symbol": "RECRUIT",
+      "address": "5u33ZJ8fcpDprxB6QwRZHchBqP6NnRG5sa4Y4Ruepump",
+      "price": 1.1522517144933204e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T12:17:08+00:00",
+      "side": "buy",
+      "symbol": "RICH",
+      "address": "3wuW326biXN8Quy4W8uuugUX1fvbiVSDfsGwMDEDpump",
+      "price": 9.928149832248443e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7800,6 +7809,10 @@
     {
       "date": "2026-10-19T11:08:05+00:00",
       "equity": 5887100.61
+    },
+    {
+      "date": "2026-10-19T12:17:08+00:00",
+      "equity": 5887093.72
     }
   ]
 }
