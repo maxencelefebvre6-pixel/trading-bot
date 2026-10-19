@@ -1,89 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5887567.96439676,
+  "cash": 5887575.399051069,
   "positions": {
-    "4d9PJsheMw4XqfvFTwj3wAnpdbXpXw39Ko3pwED2pump": {
-      "symbol": "CROONER",
-      "qty": 5211286.385776294,
-      "entry_price": 9.498614417949759e-06,
-      "last_price": 9.160036688e-06,
+    "CtGGDHki7sAdWEZSZ4EwujNzrKnictmzBHFnNRKnpump": {
+      "symbol": "CLITCOIN",
+      "qty": 4200968.1514887195,
+      "entry_price": 1.1782998160188008e-05,
+      "last_price": 1.1353246188205933e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T03:07:43+00:00",
-      "missing": 0
-    },
-    "14VfjnbUy7kq1kU32ZcA3xtav6Y7nK6ZhHuRB4okpump": {
-      "symbol": "FOMO",
-      "qty": 146991.8433545518,
-      "entry_price": 0.0003367533794416299,
-      "last_price": 0.00032660783414937265,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T03:44:35+00:00",
-      "missing": 0
-    },
-    "3ftvkyh9ehavuzUHe5SMfQHQk79q7NiVM4sNvhH5pump": {
-      "symbol": "AMERICA",
-      "qty": 1245441.2352401258,
-      "entry_price": 3.974495030305963e-05,
-      "last_price": 3.846095227706972e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T03:44:35+00:00",
-      "missing": 0
-    },
-    "74AcneobDy2VTQ97tZJGJYgY1mR1EmSZWP2kMwhepump": {
-      "symbol": "MrP",
-      "qty": 1398221.1452421418,
-      "entry_price": 3.540212517056997e-05,
-      "last_price": 3.418292038452076e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T03:44:35+00:00",
+      "entry_time": "2026-10-19T04:19:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T22:17:24+00:00",
-      "side": "sell",
-      "symbol": "CATCH",
-      "address": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-      "price": 2.671089036e-05,
-      "proceeds": 77.01,
-      "pnl_usd": 27.01,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-15T22:17:24+00:00",
-      "side": "sell",
-      "symbol": "CALLED",
-      "address": "4si66xJZV7MSykgRn4AHM5ytYmZftqYx4J6uqLewpump",
-      "price": 3.683690438e-06,
-      "proceeds": 3.58,
-      "pnl_usd": -46.42,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T22:17:24+00:00",
-      "side": "buy",
-      "symbol": "SUGAR",
-      "address": "87skLb7YttSqEk4SKbuCUzZbb3s8Dp6m1gYgKCqwpump",
-      "price": 3.378290727611548e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T22:17:24+00:00",
-      "side": "buy",
-      "symbol": "YORU",
-      "address": "GwkKMTwr3k76E8uHeMyJZbULC92nktQGvtU1UEiZpump",
-      "price": 1.5017475635032811e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T22:17:24+00:00",
-      "side": "buy",
-      "symbol": "USMS",
-      "address": "Hg8j48GiZNSByFRWky6apoNPJMytz6W5Hdo1h4aEpump",
-      "price": 7.677127419538346e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T22:49:11+00:00",
       "side": "sell",
@@ -4537,6 +4466,54 @@
       "address": "74AcneobDy2VTQ97tZJGJYgY1mR1EmSZWP2kMwhepump",
       "price": 3.540212517056997e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T04:19:35+00:00",
+      "side": "sell",
+      "symbol": "CROONER",
+      "address": "4d9PJsheMw4XqfvFTwj3wAnpdbXpXw39Ko3pwED2pump",
+      "price": 9.160036688e-06,
+      "proceeds": 45.53,
+      "pnl_usd": -4.47,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T04:19:35+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "14VfjnbUy7kq1kU32ZcA3xtav6Y7nK6ZhHuRB4okpump",
+      "price": 1.858506846e-06,
+      "proceeds": 0.26,
+      "pnl_usd": -49.74,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T04:19:35+00:00",
+      "side": "sell",
+      "symbol": "AMERICA",
+      "address": "3ftvkyh9ehavuzUHe5SMfQHQk79q7NiVM4sNvhH5pump",
+      "price": 7.174401562e-06,
+      "proceeds": 8.56,
+      "pnl_usd": -41.44,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T04:19:35+00:00",
+      "side": "sell",
+      "symbol": "MrP",
+      "address": "74AcneobDy2VTQ97tZJGJYgY1mR1EmSZWP2kMwhepump",
+      "price": 2.301158201e-06,
+      "proceeds": 3.09,
+      "pnl_usd": -46.91,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T04:19:36+00:00",
+      "side": "buy",
+      "symbol": "CLITCOIN",
+      "address": "CtGGDHki7sAdWEZSZ4EwujNzrKnictmzBHFnNRKnpump",
+      "price": 1.1782998160188008e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7779,6 +7756,10 @@
     {
       "date": "2026-10-19T03:44:35+00:00",
       "equity": 5887759.4
+    },
+    {
+      "date": "2026-10-19T04:19:36+00:00",
+      "equity": 5887623.09
     }
   ]
 }
