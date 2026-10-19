@@ -1,52 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5887887.733594782,
+  "cash": 5887751.3864283655,
   "positions": {
-    "HC1R5yfaDh1GutzNLZRTH2bm2TytkpGp7kRfRWLtpump": {
-      "symbol": "Trumpism",
-      "qty": 4856102.644196772,
-      "entry_price": 1.0193359495634711e-05,
-      "last_price": 9.823762822207584e-06,
+    "2u9gENQpHLSHGaB7VvSxCshMCjD9C6HpPmvD214Fpump": {
+      "symbol": "HARDFORK",
+      "qty": 2505901.098885255,
+      "entry_price": 1.9753373356203073e-05,
+      "last_price": 1.903214386233568e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T01:23:22+00:00",
+      "entry_time": "2026-10-19T02:01:25+00:00",
+      "missing": 0
+    },
+    "A85vBkD3WCiWdYssMh3RAvsQzneYCuZCCEk429Ewpump": {
+      "symbol": "MemeMarket",
+      "qty": 5545068.434772432,
+      "entry_price": 8.926851053738432e-06,
+      "last_price": 8.595465029319409e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T02:01:25+00:00",
+      "missing": 0
+    },
+    "95Nw2RCPpWaGFch7sSTvHwKgxpVexcvCDpRBreMVpump": {
+      "symbol": "SOL",
+      "qty": 1467540.0041663733,
+      "entry_price": 3.372991527281613e-05,
+      "last_price": 3.2682397277378105e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T02:01:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T19:05:46+00:00",
-      "side": "sell",
-      "symbol": "SPIDER",
-      "address": "FNtyvxABxCmbEMzyKYubDLVgKYmyzHs25SXTLDBopump",
-      "price": 2.963153401e-06,
-      "proceeds": 13.96,
-      "pnl_usd": -36.04,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T19:05:46+00:00",
-      "side": "buy",
-      "symbol": "WINNIE",
-      "address": "CZ1nsCjeMy4TzW3o4CHnTqSeZ2kux1Dpk3QEX1Tgpump",
-      "price": 5.448900633532225e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T19:05:46+00:00",
-      "side": "buy",
-      "symbol": "FTR",
-      "address": "FRTxoebMm2jts18Fq4YTvWd2mXQfkq9c2Gze5ofSpump",
-      "price": 3.760364966920612e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T19:05:46+00:00",
-      "side": "buy",
-      "symbol": "$DS",
-      "address": "DVoZ8WtUTGDaME7E1asgrT9Uw17wF6i9JLinqnknpump",
-      "price": 4.138476970448455e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T19:05:46+00:00",
       "side": "buy",
@@ -4512,6 +4496,40 @@
       "address": "HC1R5yfaDh1GutzNLZRTH2bm2TytkpGp7kRfRWLtpump",
       "price": 1.0193359495634711e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T02:01:25+00:00",
+      "side": "sell",
+      "symbol": "Trumpism",
+      "address": "HC1R5yfaDh1GutzNLZRTH2bm2TytkpGp7kRfRWLtpump",
+      "price": 2.94579476e-06,
+      "proceeds": 13.65,
+      "pnl_usd": -36.35,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T02:01:25+00:00",
+      "side": "buy",
+      "symbol": "HARDFORK",
+      "address": "2u9gENQpHLSHGaB7VvSxCshMCjD9C6HpPmvD214Fpump",
+      "price": 1.9753373356203073e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T02:01:25+00:00",
+      "side": "buy",
+      "symbol": "MemeMarket",
+      "address": "A85vBkD3WCiWdYssMh3RAvsQzneYCuZCCEk429Ewpump",
+      "price": 8.926851053738432e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T02:01:25+00:00",
+      "side": "buy",
+      "symbol": "SOL",
+      "address": "95Nw2RCPpWaGFch7sSTvHwKgxpVexcvCDpRBreMVpump",
+      "price": 3.372991527281613e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7738,6 +7756,10 @@
     {
       "date": "2026-10-19T01:23:22+00:00",
       "equity": 5887935.44
+    },
+    {
+      "date": "2026-10-19T02:01:25+00:00",
+      "equity": 5887894.7
     }
   ]
 }
