@@ -1,60 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5886721.152957416,
+  "cash": 5886701.573292201,
   "positions": {
-    "DhvbDWdg4RtvX6N7ps1BQvMZ4hzjExr9RCXzzeq9pump": {
-      "symbol": "Octo",
-      "qty": 590262.8144463323,
-      "entry_price": 8.386094937461222e-05,
-      "last_price": 8.13059630027677e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T15:55:13+00:00",
-      "missing": 0
-    },
-    "J4RYvrKmiz1Jfx7uR6JDsru8bikYxnm86ew5xr1Tpump": {
-      "symbol": "NIGHT",
-      "qty": 4216362.491004527,
-      "entry_price": 1.173997731589887e-05,
-      "last_price": 1.1336219712077558e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T15:55:13+00:00",
-      "missing": 0
-    },
     "Fint1z64DYZVrBamRQPmihe6n5VgFL6sZfU157Lvpump": {
       "symbol": "DOGE PAID",
       "qty": 6470196.363759993,
       "entry_price": 7.65046332708739e-06,
-      "last_price": 7.366235818050353e-06,
+      "last_price": 7.366235818e-06,
       "cost": 50.0,
       "entry_time": "2026-10-19T15:55:13+00:00",
+      "missing": 0
+    },
+    "7Miffxh63NAYXGauKL1qHNdLTKBaPnWoehuMUaERpump": {
+      "symbol": "DERP",
+      "qty": 13687378.2647461,
+      "entry_price": 3.6164705206909267e-06,
+      "last_price": 3.4969662594096076e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T16:29:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T08:57:06+00:00",
-      "side": "buy",
-      "symbol": "Candy",
-      "address": "CugfrDV6rr8JWgc4Xnnpw1g8aXm7QKjaLpGuFq1kpump",
-      "price": 1.09225359268509e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T08:57:06+00:00",
-      "side": "buy",
-      "symbol": "FSR",
-      "address": "CCD3yX1wngnyWg4LzW55yhD4C5rw9QKxPJq9Jw4Spump",
-      "price": 5.299521079647324e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T08:57:06+00:00",
-      "side": "buy",
-      "symbol": "FSR",
-      "address": "64HTE6Jg5DCaebqjgggQwc5oL4Yi2JfHVJU3BdXfpump",
-      "price": 8.627265220419466e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T08:57:06+00:00",
       "side": "buy",
@@ -4528,6 +4495,34 @@
       "address": "Fint1z64DYZVrBamRQPmihe6n5VgFL6sZfU157Lvpump",
       "price": 7.65046332708739e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T16:29:49+00:00",
+      "side": "sell",
+      "symbol": "Octo",
+      "address": "DhvbDWdg4RtvX6N7ps1BQvMZ4hzjExr9RCXzzeq9pump",
+      "price": 9.09023278e-05,
+      "proceeds": 26.56,
+      "pnl_usd": -23.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-19T16:29:49+00:00",
+      "side": "sell",
+      "symbol": "NIGHT",
+      "address": "J4RYvrKmiz1Jfx7uR6JDsru8bikYxnm86ew5xr1Tpump",
+      "price": 9.587354101e-07,
+      "proceeds": 3.86,
+      "pnl_usd": -46.14,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-19T16:29:49+00:00",
+      "side": "buy",
+      "symbol": "DERP",
+      "address": "7Miffxh63NAYXGauKL1qHNdLTKBaPnWoehuMUaERpump",
+      "price": 3.6164705206909267e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7838,6 +7833,10 @@
     {
       "date": "2026-10-19T15:55:13+00:00",
       "equity": 5886864.6
+    },
+    {
+      "date": "2026-10-19T16:29:49+00:00",
+      "equity": 5886797.1
     }
   ]
 }
