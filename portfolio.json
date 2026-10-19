@@ -1,81 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5886775.583890899,
+  "cash": 5886627.568668411,
   "positions": {
-    "44iwJypypenTZxHPw3TgqMKk5yQfb3RyNB2SRkGWpump": {
-      "symbol": "Dog Think",
-      "qty": 4186985.288800621,
-      "entry_price": 1.1822348679467053e-05,
-      "last_price": 1.143821957e-05,
+    "A4H4qjZPnQPSyhHgP276RhZYFAGmPPK4HQsvNCyxpump": {
+      "symbol": "discat",
+      "qty": 140366.53670148278,
+      "entry_price": 0.0003526481536355887,
+      "last_price": 0.00034200543011446395,
       "cost": 50.0,
-      "entry_time": "2026-10-19T13:58:25+00:00",
+      "entry_time": "2026-10-19T15:18:32+00:00",
       "missing": 0
     },
-    "AoUZrfz72qPkQskwgNdN1MDdHYAn91znTEGKuwKfpump": {
-      "symbol": "bizcat",
-      "qty": 2195425.8640539153,
-      "entry_price": 2.2546878403170884e-05,
-      "last_price": 2.17614550378545e-05,
+    "BkhbP6uTywbRFcQzrREbTbpKW98PNzVZ9fidRbG7pump": {
+      "symbol": "BRADYROGERS",
+      "qty": 1906054.5642112165,
+      "entry_price": 2.5969875642298103e-05,
+      "last_price": 2.5044356978940633e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T14:38:00+00:00",
+      "entry_time": "2026-10-19T15:18:32+00:00",
+      "missing": 0
+    },
+    "2eFdCrSynu9MifctxekW2WemDvpuCzBTzLxWDG3Fpump": {
+      "symbol": "OPIUMBIRD",
+      "qty": 873758.6933925,
+      "entry_price": 5.6651796856874495e-05,
+      "last_price": 5.4853996518120604e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T15:18:32+00:00",
+      "missing": 0
+    },
+    "6Jz2epXTEpedGUZXrpeEQ42Vm8p4WnFNd3sGZeT8pump": {
+      "symbol": "BH",
+      "qty": 4864239.758387244,
+      "entry_price": 1.0176307595580341e-05,
+      "last_price": 9.813849273750686e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T15:18:32+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T06:18:51+00:00",
-      "side": "sell",
-      "symbol": "Musk",
-      "address": "BN5tQca5hx4hxxi6W4C5bdeETqygW6YsduJcMMAGpump",
-      "price": 3.118019976e-06,
-      "proceeds": 24.23,
-      "pnl_usd": -25.77,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T06:18:51+00:00",
-      "side": "sell",
-      "symbol": "Musk",
-      "address": "3Pjwny2sdr4vJxpu3CaYkkRz2PbwHoPgStmSvymwpump",
-      "price": 2.763828556e-06,
-      "proceeds": 9.42,
-      "pnl_usd": -40.58,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T07:09:24+00:00",
-      "side": "buy",
-      "symbol": "PTR",
-      "address": "AYtRssFASJxzZ2RgAkLP4Wn5LbF5hPMw411rzwkbpump",
-      "price": 2.6195628255269595e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T07:48:30+00:00",
-      "side": "buy",
-      "symbol": "WeBallin",
-      "address": "2qLtXjbwJCYtEtuV89YrcS4ZdS3qC4jxHXaQkc2Kpump",
-      "price": 8.944007951040972e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T08:16:07+00:00",
-      "side": "sell",
-      "symbol": "PTR",
-      "address": "AYtRssFASJxzZ2RgAkLP4Wn5LbF5hPMw411rzwkbpump",
-      "price": 2.52460392e-06,
-      "proceeds": 44.11,
-      "pnl_usd": -5.89,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-16T08:16:07+00:00",
-      "side": "buy",
-      "symbol": "LOOM",
-      "address": "EEXrAsvqA5YvsaE5V79VFdgN7hAUmP5RicM7X8yLpump",
-      "price": 8.712317674909461e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T08:16:07+00:00",
       "side": "buy",
@@ -4521,6 +4485,58 @@
       "address": "AoUZrfz72qPkQskwgNdN1MDdHYAn91znTEGKuwKfpump",
       "price": 2.2546878403170884e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T15:18:31+00:00",
+      "side": "sell",
+      "symbol": "Dog Think",
+      "address": "44iwJypypenTZxHPw3TgqMKk5yQfb3RyNB2SRkGWpump",
+      "price": 1.143821957e-05,
+      "proceeds": 45.83,
+      "pnl_usd": -4.17,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T15:18:31+00:00",
+      "side": "sell",
+      "symbol": "bizcat",
+      "address": "AoUZrfz72qPkQskwgNdN1MDdHYAn91znTEGKuwKfpump",
+      "price": 2.928924867e-06,
+      "proceeds": 6.16,
+      "pnl_usd": -43.84,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T15:18:32+00:00",
+      "side": "buy",
+      "symbol": "discat",
+      "address": "A4H4qjZPnQPSyhHgP276RhZYFAGmPPK4HQsvNCyxpump",
+      "price": 0.0003526481536355887,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T15:18:32+00:00",
+      "side": "buy",
+      "symbol": "BRADYROGERS",
+      "address": "BkhbP6uTywbRFcQzrREbTbpKW98PNzVZ9fidRbG7pump",
+      "price": 2.5969875642298103e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T15:18:32+00:00",
+      "side": "buy",
+      "symbol": "OPIUMBIRD",
+      "address": "2eFdCrSynu9MifctxekW2WemDvpuCzBTzLxWDG3Fpump",
+      "price": 5.6651796856874495e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T15:18:32+00:00",
+      "side": "buy",
+      "symbol": "BH",
+      "address": "6Jz2epXTEpedGUZXrpeEQ42Vm8p4WnFNd3sGZeT8pump",
+      "price": 1.0176307595580341e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7823,6 +7839,10 @@
     {
       "date": "2026-10-19T14:38:00+00:00",
       "equity": 5886871.25
+    },
+    {
+      "date": "2026-10-19T15:18:32+00:00",
+      "equity": 5886818.98
     }
   ]
 }
