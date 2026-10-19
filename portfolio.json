@@ -1,64 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5886975.124460752,
+  "cash": 5886804.503031616,
   "positions": {
-    "FdXDEV9G9CTYr89CGK4LtgFsjpNVY776EoU4opEtpump": {
-      "symbol": "MAG7",
-      "qty": 588558.4704486483,
-      "entry_price": 8.410379339586596e-05,
-      "last_price": 8.154263597142171e-05,
+    "46sXauC62xdZ4Gs1ND8jAwnUMFYCZG7XD4tCpWQopump": {
+      "symbol": "HÉROS",
+      "qty": 2915179.4318602094,
+      "entry_price": 1.6980086871844276e-05,
+      "last_price": 1.6371423934796237e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T13:09:43+00:00",
+      "entry_time": "2026-10-19T13:58:25+00:00",
+      "missing": 0
+    },
+    "Ciefg5Fk7yD6UkDrpj1XGEcZav1MFMm7nDiVDAYrpump": {
+      "symbol": "Riocopa",
+      "qty": 2613.1023959503946,
+      "entry_price": 0.018943000502663683,
+      "last_price": 0.01838395755444969,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T13:58:25+00:00",
+      "missing": 0
+    },
+    "GJVitBHKEcQ2FShGcHXnipMzkYnEkVGdCWPaP2Mkpump": {
+      "symbol": "blackrock",
+      "qty": 3910373.813178085,
+      "entry_price": 1.2658636326067706e-05,
+      "last_price": 1.2190718159850634e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T13:58:25+00:00",
+      "missing": 0
+    },
+    "44iwJypypenTZxHPw3TgqMKk5yQfb3RyNB2SRkGWpump": {
+      "symbol": "Dog Think",
+      "qty": 4186985.288800621,
+      "entry_price": 1.1822348679467053e-05,
+      "last_price": 1.1438219574988559e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T13:58:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T04:07:13+00:00",
-      "side": "sell",
-      "symbol": "LUMINOUS",
-      "address": "7uGU4yHFGwAGSq7Rdn1FNAgT6pZNGUr1ZCzNHNqkpump",
-      "price": 2.226867504e-06,
-      "proceeds": 2.03,
-      "pnl_usd": -47.97,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-16T04:07:13+00:00",
-      "side": "buy",
-      "symbol": "QUACK",
-      "address": "AP4PMz21bbhtsgzTDP2c6SykyiCsDomdfjdcXLeipump",
-      "price": 5.5823707473611606e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T04:07:13+00:00",
-      "side": "buy",
-      "symbol": "CHIMP",
-      "address": "9BRZfnadiVT47SQeErzZqgH2BTpWNGVMMxvGaeBipump",
-      "price": 8.06059903419031e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T04:42:08+00:00",
-      "side": "sell",
-      "symbol": "QUACK",
-      "address": "AP4PMz21bbhtsgzTDP2c6SykyiCsDomdfjdcXLeipump",
-      "price": 2.277964687e-06,
-      "proceeds": 1.94,
-      "pnl_usd": -48.06,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-16T04:42:08+00:00",
-      "side": "sell",
-      "symbol": "CHIMP",
-      "address": "9BRZfnadiVT47SQeErzZqgH2BTpWNGVMMxvGaeBipump",
-      "price": 3.437778093e-08,
-      "proceeds": 0.2,
-      "pnl_usd": -49.8,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-16T05:14:05+00:00",
       "side": "buy",
@@ -4512,6 +4493,48 @@
       "address": "FdXDEV9G9CTYr89CGK4LtgFsjpNVY776EoU4opEtpump",
       "price": 8.410379339586596e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T13:58:25+00:00",
+      "side": "sell",
+      "symbol": "MAG7",
+      "address": "FdXDEV9G9CTYr89CGK4LtgFsjpNVY776EoU4opEtpump",
+      "price": 0.0001008407001,
+      "proceeds": 29.38,
+      "pnl_usd": -20.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-19T13:58:25+00:00",
+      "side": "buy",
+      "symbol": "HÉROS",
+      "address": "46sXauC62xdZ4Gs1ND8jAwnUMFYCZG7XD4tCpWQopump",
+      "price": 1.6980086871844276e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T13:58:25+00:00",
+      "side": "buy",
+      "symbol": "Riocopa",
+      "address": "Ciefg5Fk7yD6UkDrpj1XGEcZav1MFMm7nDiVDAYrpump",
+      "price": 0.018943000502663683,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T13:58:25+00:00",
+      "side": "buy",
+      "symbol": "blackrock",
+      "address": "GJVitBHKEcQ2FShGcHXnipMzkYnEkVGdCWPaP2Mkpump",
+      "price": 1.2658636326067706e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T13:58:25+00:00",
+      "side": "buy",
+      "symbol": "Dog Think",
+      "address": "44iwJypypenTZxHPw3TgqMKk5yQfb3RyNB2SRkGWpump",
+      "price": 1.1822348679467053e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7806,6 +7829,10 @@
     {
       "date": "2026-10-19T13:09:43+00:00",
       "equity": 5887023.12
+    },
+    {
+      "date": "2026-10-19T13:58:25+00:00",
+      "equity": 5886995.83
     }
   ]
 }
