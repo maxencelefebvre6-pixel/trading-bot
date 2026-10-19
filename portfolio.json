@@ -1,65 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5886701.573292201,
+  "cash": 5886647.17586088,
   "positions": {
-    "Fint1z64DYZVrBamRQPmihe6n5VgFL6sZfU157Lvpump": {
-      "symbol": "DOGE PAID",
-      "qty": 6470196.363759993,
-      "entry_price": 7.65046332708739e-06,
-      "last_price": 7.366235818e-06,
+    "A1r97iaUSrB12nAnYzaT24maVs71L4nqppQqZCRdpump": {
+      "symbol": "ORBIN",
+      "qty": 1743535.2719638823,
+      "entry_price": 2.8390592835121838e-05,
+      "last_price": 2.7404406748064047e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T15:55:13+00:00",
+      "entry_time": "2026-10-19T17:06:39+00:00",
       "missing": 0
     },
-    "7Miffxh63NAYXGauKL1qHNdLTKBaPnWoehuMUaERpump": {
-      "symbol": "DERP",
-      "qty": 13687378.2647461,
-      "entry_price": 3.6164705206909267e-06,
-      "last_price": 3.4969662594096076e-06,
+    "9ybN9EixjNTpzCY6n6mPEKUQPxTDJi8xrYX3F9Jcpump": {
+      "symbol": "HANS",
+      "qty": 4520395.609397645,
+      "entry_price": 1.0950369011307842e-05,
+      "last_price": 1.0533043908139342e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T16:29:49+00:00",
+      "entry_time": "2026-10-19T17:06:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T08:57:06+00:00",
-      "side": "buy",
-      "symbol": "streaming",
-      "address": "GftEuTNKSGAQ7LP4q8j2VoDh6W6sgak3DiYd7XHApump",
-      "price": 1.0064852722654305e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T09:31:48+00:00",
-      "side": "sell",
-      "symbol": "mmrich",
-      "address": "7kQUu23Js4LZooVRKG2iw4ZmbHNBJG4jZmFTGeGfpump",
-      "price": 3.153006159e-05,
-      "proceeds": 45.53,
-      "pnl_usd": -4.47,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-16T09:31:48+00:00",
-      "side": "sell",
-      "symbol": "Candy",
-      "address": "CugfrDV6rr8JWgc4Xnnpw1g8aXm7QKjaLpGuFq1kpump",
-      "price": 3.084410913e-06,
-      "proceeds": 13.34,
-      "pnl_usd": -36.66,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-16T09:31:48+00:00",
-      "side": "sell",
-      "symbol": "FSR",
-      "address": "CCD3yX1wngnyWg4LzW55yhD4C5rw9QKxPJq9Jw4Spump",
-      "price": 1.934024028e-06,
-      "proceeds": 17.13,
-      "pnl_usd": -32.87,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-16T09:31:48+00:00",
       "side": "sell",
@@ -4523,6 +4485,42 @@
       "address": "7Miffxh63NAYXGauKL1qHNdLTKBaPnWoehuMUaERpump",
       "price": 3.6164705206909267e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T17:06:38+00:00",
+      "side": "sell",
+      "symbol": "DOGE PAID",
+      "address": "Fint1z64DYZVrBamRQPmihe6n5VgFL6sZfU157Lvpump",
+      "price": 7.366235818e-06,
+      "proceeds": 45.38,
+      "pnl_usd": -4.62,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T17:06:38+00:00",
+      "side": "sell",
+      "symbol": "DERP",
+      "address": "7Miffxh63NAYXGauKL1qHNdLTKBaPnWoehuMUaERpump",
+      "price": 1.699295475e-08,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-19T17:06:39+00:00",
+      "side": "buy",
+      "symbol": "ORBIN",
+      "address": "A1r97iaUSrB12nAnYzaT24maVs71L4nqppQqZCRdpump",
+      "price": 2.8390592835121838e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T17:06:39+00:00",
+      "side": "buy",
+      "symbol": "HANS",
+      "address": "9ybN9EixjNTpzCY6n6mPEKUQPxTDJi8xrYX3F9Jcpump",
+      "price": 1.0950369011307842e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7837,6 +7835,10 @@
     {
       "date": "2026-10-19T16:29:49+00:00",
       "equity": 5886797.1
+    },
+    {
+      "date": "2026-10-19T17:06:39+00:00",
+      "equity": 5886742.57
     }
   ]
 }
