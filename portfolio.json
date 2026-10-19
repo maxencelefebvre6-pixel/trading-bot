@@ -1,82 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5887293.075882923,
+  "cash": 5887227.2200048,
   "positions": {
-    "aeSZot52ewRKzwwvxtMTxZJ9uFniv4L41MevCtwpump": {
-      "symbol": "VERDX",
-      "qty": 1046299.2455271813,
-      "entry_price": 4.7309601160095706e-05,
-      "last_price": 4.580025947056287e-05,
+    "8jRHHdAywNvLgBQNsAB7Y5SUjMUcwkMkqqQiA3Pbpump": {
+      "symbol": "MEM",
+      "qty": 547809.5088260444,
+      "entry_price": 9.03598772976367e-05,
+      "last_price": 8.752776837364947e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T07:52:36+00:00",
+      "entry_time": "2026-10-19T08:32:01+00:00",
       "missing": 0
     },
-    "5vhfeS17AQUZDJADj6LcdFBXkL9Xz6kw7kc4E2hnpump": {
-      "symbol": "DUB",
-      "qty": 4239228.045751575,
-      "entry_price": 1.167665420821307e-05,
-      "last_price": 1.1246642703114086e-05,
+    "5KSHcaaVhxQnL9Cb8ppv1AoBUWmxWPJbU9ASHeQFpump": {
+      "symbol": "Loadstar",
+      "qty": 4490303.110807134,
+      "entry_price": 1.1023754695059406e-05,
+      "last_price": 1.060383930582009e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T07:52:36+00:00",
-      "missing": 0
-    },
-    "BZoKm1w6Q515XRD48GdSGRAiWcLzERfswbXmMokzpump": {
-      "symbol": "Gachamon",
-      "qty": 5215889.925954975,
-      "entry_price": 9.490230948640478e-06,
-      "last_price": 9.132268813201436e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T07:52:36+00:00",
+      "entry_time": "2026-10-19T08:32:01+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T00:42:44+00:00",
-      "side": "buy",
-      "symbol": "FOMOWEEN",
-      "address": "9yDK2JjjwtUoNLXe7oYexU2BXkBmmuJEoF9awFNbpump",
-      "price": 0.00040090721392471495,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T00:42:44+00:00",
-      "side": "buy",
-      "symbol": "DRAINLOVE",
-      "address": "9HmC4jXxkaFchQHQEy873oA3bCcpGziz1hW7aP14pump",
-      "price": 5.798551704092739e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T01:18:03+00:00",
-      "side": "sell",
-      "symbol": "1",
-      "address": "9f5MXLm38fUnrfre4SAVsiuZh4XJTq5usZATY3KUpump",
-      "price": 4.792730286e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-16T01:18:03+00:00",
-      "side": "sell",
-      "symbol": "FOMOWEEN",
-      "address": "9yDK2JjjwtUoNLXe7oYexU2BXkBmmuJEoF9awFNbpump",
-      "price": 2.114205719e-06,
-      "proceeds": 0.25,
-      "pnl_usd": -49.75,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-16T01:18:03+00:00",
-      "side": "sell",
-      "symbol": "DRAINLOVE",
-      "address": "9HmC4jXxkaFchQHQEy873oA3bCcpGziz1hW7aP14pump",
-      "price": 0.0002074985279,
-      "proceeds": 169.24,
-      "pnl_usd": 119.24,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-16T01:18:04+00:00",
       "side": "buy",
@@ -4528,6 +4473,52 @@
       "address": "BZoKm1w6Q515XRD48GdSGRAiWcLzERfswbXmMokzpump",
       "price": 9.490230948640478e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T08:32:01+00:00",
+      "side": "sell",
+      "symbol": "VERDX",
+      "address": "aeSZot52ewRKzwwvxtMTxZJ9uFniv4L41MevCtwpump",
+      "price": 6.043603684e-06,
+      "proceeds": 6.06,
+      "pnl_usd": -43.94,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T08:32:01+00:00",
+      "side": "sell",
+      "symbol": "DUB",
+      "address": "5vhfeS17AQUZDJADj6LcdFBXkL9Xz6kw7kc4E2hnpump",
+      "price": 2.966512568e-06,
+      "proceeds": 12.01,
+      "pnl_usd": -37.99,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T08:32:01+00:00",
+      "side": "sell",
+      "symbol": "Gachamon",
+      "address": "BZoKm1w6Q515XRD48GdSGRAiWcLzERfswbXmMokzpump",
+      "price": 3.232501666e-06,
+      "proceeds": 16.07,
+      "pnl_usd": -33.93,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T08:32:01+00:00",
+      "side": "buy",
+      "symbol": "MEM",
+      "address": "8jRHHdAywNvLgBQNsAB7Y5SUjMUcwkMkqqQiA3Pbpump",
+      "price": 9.03598772976367e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T08:32:01+00:00",
+      "side": "buy",
+      "symbol": "Loadstar",
+      "address": "5KSHcaaVhxQnL9Cb8ppv1AoBUWmxWPJbU9ASHeQFpump",
+      "price": 1.1023754695059406e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7794,6 +7785,10 @@
     {
       "date": "2026-10-19T07:52:36+00:00",
       "equity": 5887436.31
+    },
+    {
+      "date": "2026-10-19T08:32:01+00:00",
+      "equity": 5887322.78
     }
   ]
 }
