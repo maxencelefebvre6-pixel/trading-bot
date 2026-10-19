@@ -1,65 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5886282.614137814,
+  "cash": 5886264.802832722,
   "positions": {
-    "7JATjnuiTJGQ4w8V1WaYDPeMKUQzud1w5my2EHgVpump": {
-      "symbol": "MUGSY",
-      "qty": 1374793.2987483584,
-      "entry_price": 3.6005412628259006e-05,
-      "last_price": 3.488706913e-05,
+    "9abEeUfkSqs9nKQR4MvhUsfECExRQAyhqRyC3oM2pump": {
+      "symbol": "angel",
+      "qty": 6458862.7927788,
+      "entry_price": 7.663887837243185e-06,
+      "last_price": 7.376044589743982e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-19T20:44:09+00:00",
+      "entry_time": "2026-10-19T21:49:52+00:00",
       "missing": 0
     },
-    "Fiyf12KXmLrEVdHc1JYRtx7V4Y6Hz22LdowdXB27pump": {
-      "symbol": "POGO",
-      "qty": 13080266.63087429,
-      "entry_price": 3.784326527653619e-06,
-      "last_price": 3.6466330956526747e-06,
+    "A9R2QTgtmgWpFWHS6R4jePu3tYk5S7v6QhDi9ojopump": {
+      "symbol": "TA",
+      "qty": 5700989.529622998,
+      "entry_price": 8.682703194382712e-06,
+      "last_price": 8.358407937609806e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-19T21:13:18+00:00",
+      "entry_time": "2026-10-19T21:49:52+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T18:20:47+00:00",
-      "side": "sell",
-      "symbol": "FTC",
-      "address": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
-      "price": 0.0001666998683,
-      "proceeds": 45.45,
-      "pnl_usd": -4.55,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-16T18:20:47+00:00",
-      "side": "sell",
-      "symbol": "OMNI",
-      "address": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
-      "price": 0.002637216839,
-      "proceeds": 70.25,
-      "pnl_usd": 20.25,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-16T19:01:07+00:00",
-      "side": "buy",
-      "symbol": "妙脆角猫",
-      "address": "82xQgv8JVw4fqATDvSVjHjZMiax23mk5HABpC4xapump",
-      "price": 8.71385872963873e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T19:32:44+00:00",
-      "side": "sell",
-      "symbol": "妙脆角猫",
-      "address": "82xQgv8JVw4fqATDvSVjHjZMiax23mk5HABpC4xapump",
-      "price": 1.111818727e-05,
-      "proceeds": 59.27,
-      "pnl_usd": 9.27,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-16T21:35:10+00:00",
       "side": "buy",
@@ -4521,6 +4483,42 @@
       "address": "Fiyf12KXmLrEVdHc1JYRtx7V4Y6Hz22LdowdXB27pump",
       "price": 3.784326527653619e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T21:49:51+00:00",
+      "side": "sell",
+      "symbol": "MUGSY",
+      "address": "7JATjnuiTJGQ4w8V1WaYDPeMKUQzud1w5my2EHgVpump",
+      "price": 3.488706913e-05,
+      "proceeds": 45.96,
+      "pnl_usd": -4.04,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T21:49:51+00:00",
+      "side": "sell",
+      "symbol": "POGO",
+      "address": "Fiyf12KXmLrEVdHc1JYRtx7V4Y6Hz22LdowdXB27pump",
+      "price": 2.933728977e-06,
+      "proceeds": 36.22,
+      "pnl_usd": -13.78,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T21:49:52+00:00",
+      "side": "buy",
+      "symbol": "angel",
+      "address": "9abEeUfkSqs9nKQR4MvhUsfECExRQAyhqRyC3oM2pump",
+      "price": 7.663887837243185e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T21:49:52+00:00",
+      "side": "buy",
+      "symbol": "TA",
+      "address": "A9R2QTgtmgWpFWHS6R4jePu3tYk5S7v6QhDi9ojopump",
+      "price": 8.682703194382712e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7867,6 +7865,10 @@
     {
       "date": "2026-10-19T21:13:18+00:00",
       "equity": 5886378.28
+    },
+    {
+      "date": "2026-10-19T21:49:52+00:00",
+      "equity": 5886360.09
     }
   ]
 }
