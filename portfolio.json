@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5887575.399051069,
+  "cash": 5887507.0009931065,
   "positions": {
-    "CtGGDHki7sAdWEZSZ4EwujNzrKnictmzBHFnNRKnpump": {
-      "symbol": "CLITCOIN",
-      "qty": 4200968.1514887195,
-      "entry_price": 1.1782998160188008e-05,
-      "last_price": 1.1353246188205933e-05,
+    "ACaQ9HZKiC4qA6dqd96qNg7Jbe7UQxnsDQBddNYRpump": {
+      "symbol": "BitCoin",
+      "qty": 7188218.935839736,
+      "entry_price": 6.886267716916354e-06,
+      "last_price": 6.627975672324248e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-19T04:19:36+00:00",
+      "entry_time": "2026-10-19T05:00:25+00:00",
+      "missing": 0
+    },
+    "5NTD7w8cji3SdKjBaUq4vkzPat7Yxp8n7URMCZwrpump": {
+      "symbol": "BOB",
+      "qty": 5715130.647934598,
+      "entry_price": 8.661219322761921e-06,
+      "last_price": 8.399676169716774e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T05:00:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T22:49:11+00:00",
-      "side": "sell",
-      "symbol": "SUGAR",
-      "address": "87skLb7YttSqEk4SKbuCUzZbb3s8Dp6m1gYgKCqwpump",
-      "price": 2.24783527e-06,
-      "proceeds": 3.15,
-      "pnl_usd": -46.85,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T22:49:11+00:00",
-      "side": "sell",
-      "symbol": "YORU",
-      "address": "GwkKMTwr3k76E8uHeMyJZbULC92nktQGvtU1UEiZpump",
-      "price": 2.968654115e-06,
-      "proceeds": 9.36,
-      "pnl_usd": -40.64,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T22:49:11+00:00",
-      "side": "buy",
-      "symbol": "ch",
-      "address": "DMc3NTXaQW9ap1BpL8pNVkd8P4sojqLPT868WAFopump",
-      "price": 1.170536715479448e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T23:10:02+00:00",
       "side": "sell",
@@ -4514,6 +4495,32 @@
       "address": "CtGGDHki7sAdWEZSZ4EwujNzrKnictmzBHFnNRKnpump",
       "price": 1.1782998160188008e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T05:00:25+00:00",
+      "side": "sell",
+      "symbol": "CLITCOIN",
+      "address": "CtGGDHki7sAdWEZSZ4EwujNzrKnictmzBHFnNRKnpump",
+      "price": 7.919920843e-06,
+      "proceeds": 31.6,
+      "pnl_usd": -18.4,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T05:00:25+00:00",
+      "side": "buy",
+      "symbol": "BitCoin",
+      "address": "ACaQ9HZKiC4qA6dqd96qNg7Jbe7UQxnsDQBddNYRpump",
+      "price": 6.886267716916354e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T05:00:25+00:00",
+      "side": "buy",
+      "symbol": "BOB",
+      "address": "5NTD7w8cji3SdKjBaUq4vkzPat7Yxp8n7URMCZwrpump",
+      "price": 8.661219322761921e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7760,6 +7767,10 @@
     {
       "date": "2026-10-19T04:19:36+00:00",
       "equity": 5887623.09
+    },
+    {
+      "date": "2026-10-19T05:00:25+00:00",
+      "equity": 5887602.65
     }
   ]
 }
