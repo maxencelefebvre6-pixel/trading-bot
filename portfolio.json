@@ -1,90 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5887751.3864283655,
+  "cash": 5887597.954388203,
   "positions": {
-    "2u9gENQpHLSHGaB7VvSxCshMCjD9C6HpPmvD214Fpump": {
-      "symbol": "HARDFORK",
-      "qty": 2505901.098885255,
-      "entry_price": 1.9753373356203073e-05,
-      "last_price": 1.903214386233568e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T02:01:25+00:00",
-      "missing": 0
-    },
-    "A85vBkD3WCiWdYssMh3RAvsQzneYCuZCCEk429Ewpump": {
-      "symbol": "MemeMarket",
-      "qty": 5545068.434772432,
-      "entry_price": 8.926851053738432e-06,
-      "last_price": 8.595465029319409e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T02:01:25+00:00",
-      "missing": 0
-    },
     "95Nw2RCPpWaGFch7sSTvHwKgxpVexcvCDpRBreMVpump": {
       "symbol": "SOL",
       "qty": 1467540.0041663733,
       "entry_price": 3.372991527281613e-05,
-      "last_price": 3.2682397277378105e-05,
+      "last_price": 3.268274257e-05,
       "cost": 50.0,
       "entry_time": "2026-10-19T02:01:25+00:00",
+      "missing": 0
+    },
+    "3goEJAqwmQNFjHpw77yNjWdm3ZXvPyfAqk53ruBypump": {
+      "symbol": "LARA",
+      "qty": 2961912.96301547,
+      "entry_price": 1.671217237578951e-05,
+      "last_price": 1.6114828049516045e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T02:33:34+00:00",
+      "missing": 0
+    },
+    "HKRGGgtBGfBQ5pKe59VUADEk87SDWs8x9cyNd6x8pump": {
+      "symbol": "Big Ds",
+      "qty": 2274147.8336453983,
+      "entry_price": 2.176639498438095e-05,
+      "last_price": 2.110906865228244e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T02:33:34+00:00",
+      "missing": 0
+    },
+    "A7dPkHtsDbzQUmjfEyx8MLc3VrVMX4mnpmedJRd5pump": {
+      "symbol": "War Pepe",
+      "qty": 7006249.340920188,
+      "entry_price": 7.065121092806948e-06,
+      "last_price": 6.795899034261709e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T02:33:34+00:00",
+      "missing": 0
+    },
+    "4i63xadHWNuyRWSSWSgPZexWy7K2CAUQPsB5Vfvepump": {
+      "symbol": "INUX",
+      "qty": 6926585.988117004,
+      "entry_price": 7.146377751596584e-06,
+      "last_price": 6.876697954155619e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T02:33:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T19:05:46+00:00",
-      "side": "buy",
-      "symbol": "Competely",
-      "address": "FBZmrsC28sA2MWdSqHfDckCEyUZXBtMFvrd5Jz3Gpump",
-      "price": 8.56708404494184e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T19:37:32+00:00",
-      "side": "sell",
-      "symbol": "WINNIE",
-      "address": "CZ1nsCjeMy4TzW3o4CHnTqSeZ2kux1Dpk3QEX1Tgpump",
-      "price": 2.984895674e-06,
-      "proceeds": 25.73,
-      "pnl_usd": -24.27,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T19:37:32+00:00",
-      "side": "sell",
-      "symbol": "$DS",
-      "address": "DVoZ8WtUTGDaME7E1asgrT9Uw17wF6i9JLinqnknpump",
-      "price": 7.336084243e-07,
-      "proceeds": 8.29,
-      "pnl_usd": -41.71,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T19:37:32+00:00",
-      "side": "buy",
-      "symbol": "FRANKIE",
-      "address": "Btv9dBEMRmePyRNGmnpMBrMf58v9N2WTuUZpy65Hpump",
-      "price": 2.9116361150274566e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T19:37:32+00:00",
-      "side": "buy",
-      "symbol": "Tesla",
-      "address": "BdCAHyagzkfNjPmkGfPHyx695dUcdW24UXxydxjLpump",
-      "price": 8.03354064548651e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T20:07:35+00:00",
-      "side": "sell",
-      "symbol": "FTR",
-      "address": "FRTxoebMm2jts18Fq4YTvWd2mXQfkq9c2Gze5ofSpump",
-      "price": 3.639541708e-05,
-      "proceeds": 45.92,
-      "pnl_usd": -4.08,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-15T20:07:35+00:00",
       "side": "sell",
@@ -4530,6 +4494,58 @@
       "address": "95Nw2RCPpWaGFch7sSTvHwKgxpVexcvCDpRBreMVpump",
       "price": 3.372991527281613e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T02:33:34+00:00",
+      "side": "sell",
+      "symbol": "HARDFORK",
+      "address": "2u9gENQpHLSHGaB7VvSxCshMCjD9C6HpPmvD214Fpump",
+      "price": 1.2308052e-05,
+      "proceeds": 29.2,
+      "pnl_usd": -20.8,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T02:33:34+00:00",
+      "side": "sell",
+      "symbol": "MemeMarket",
+      "address": "A85vBkD3WCiWdYssMh3RAvsQzneYCuZCCEk429Ewpump",
+      "price": 3.287257092e-06,
+      "proceeds": 17.37,
+      "pnl_usd": -32.63,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T02:33:34+00:00",
+      "side": "buy",
+      "symbol": "LARA",
+      "address": "3goEJAqwmQNFjHpw77yNjWdm3ZXvPyfAqk53ruBypump",
+      "price": 1.671217237578951e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T02:33:34+00:00",
+      "side": "buy",
+      "symbol": "Big Ds",
+      "address": "HKRGGgtBGfBQ5pKe59VUADEk87SDWs8x9cyNd6x8pump",
+      "price": 2.176639498438095e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T02:33:34+00:00",
+      "side": "buy",
+      "symbol": "War Pepe",
+      "address": "A7dPkHtsDbzQUmjfEyx8MLc3VrVMX4mnpmedJRd5pump",
+      "price": 7.065121092806948e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T02:33:34+00:00",
+      "side": "buy",
+      "symbol": "INUX",
+      "address": "4i63xadHWNuyRWSSWSgPZexWy7K2CAUQPsB5Vfvepump",
+      "price": 7.146377751596584e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7760,6 +7776,10 @@
     {
       "date": "2026-10-19T02:01:25+00:00",
       "equity": 5887894.7
+    },
+    {
+      "date": "2026-10-19T02:33:34+00:00",
+      "equity": 5887836.9
     }
   ]
 }
