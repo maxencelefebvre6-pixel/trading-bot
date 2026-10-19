@@ -1,91 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5887507.0009931065,
+  "cash": 5887356.641564157,
   "positions": {
-    "ACaQ9HZKiC4qA6dqd96qNg7Jbe7UQxnsDQBddNYRpump": {
-      "symbol": "BitCoin",
-      "qty": 7188218.935839736,
-      "entry_price": 6.886267716916354e-06,
-      "last_price": 6.627975672324248e-06,
+    "8RDqc6H7YVth154qnEebVj1Er4vvUUDr4dG84NB9pump": {
+      "symbol": "sats",
+      "qty": 4207521.783077998,
+      "entry_price": 1.176464497440782e-05,
+      "last_price": 1.1336031401949176e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T05:00:25+00:00",
+      "entry_time": "2026-10-19T05:34:21+00:00",
       "missing": 0
     },
-    "5NTD7w8cji3SdKjBaUq4vkzPat7Yxp8n7URMCZwrpump": {
-      "symbol": "BOB",
-      "qty": 5715130.647934598,
-      "entry_price": 8.661219322761921e-06,
-      "last_price": 8.399676169716774e-06,
+    "EUSTbYtjzWPWZCP8LifC6nEwQc2URgC9ykxUaT9jpump": {
+      "symbol": "Gentlemen",
+      "qty": 3962405.990821436,
+      "entry_price": 1.2492409943519767e-05,
+      "last_price": 1.2024051024418511e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T05:00:25+00:00",
+      "entry_time": "2026-10-19T05:34:21+00:00",
+      "missing": 0
+    },
+    "48iy9xw2YLAXdxbKxkxp9YHHQvehvypzs4mGArxHpump": {
+      "symbol": "moca",
+      "qty": 39536202.1103186,
+      "entry_price": 1.2520170718947468e-06,
+      "last_price": 1.2058224654739643e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T05:34:21+00:00",
+      "missing": 0
+    },
+    "HLDo3dYkrLmVcWvDdw98nSBvm4uErVgxG2PTPXtnpump": {
+      "symbol": "FOMOCAT",
+      "qty": 4655520.096887925,
+      "entry_price": 1.0632539215777258e-05,
+      "last_price": 1.0260408384841965e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T05:34:21+00:00",
+      "missing": 0
+    },
+    "7SyHYfNjoZ7nyvM5kD8JzpThyLZC929EMkcVEoL2pump": {
+      "symbol": "$AURA",
+      "qty": 2041881.4378400294,
+      "entry_price": 2.4242347808579307e-05,
+      "last_price": 2.3468030188482647e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T05:34:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T23:10:02+00:00",
-      "side": "sell",
-      "symbol": "ch",
-      "address": "DMc3NTXaQW9ap1BpL8pNVkd8P4sojqLPT868WAFopump",
-      "price": 3.76759348e-07,
-      "proceeds": 14.38,
-      "pnl_usd": -35.62,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T23:10:02+00:00",
-      "side": "buy",
-      "symbol": "p(doom)",
-      "address": "6TFkw9nzWciVsfEuqFQQe2vesukhGyHmEVDsBCa7pump",
-      "price": 8.593206895019754e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T23:10:02+00:00",
-      "side": "buy",
-      "symbol": "Motion",
-      "address": "87SsFmfcXVPpzFdHpYAQ6iu6ccdtCmgbifGmywBipump",
-      "price": 1.2336106720201922e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-15T23:39:58+00:00",
-      "side": "sell",
-      "symbol": "USMS",
-      "address": "Hg8j48GiZNSByFRWky6apoNPJMytz6W5Hdo1h4aEpump",
-      "price": 7.391578572e-06,
-      "proceeds": 45.38,
-      "pnl_usd": -4.62,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-15T23:39:58+00:00",
-      "side": "sell",
-      "symbol": "p(doom)",
-      "address": "6TFkw9nzWciVsfEuqFQQe2vesukhGyHmEVDsBCa7pump",
-      "price": 0.000547783546,
-      "proceeds": 156.19,
-      "pnl_usd": 106.19,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T23:39:58+00:00",
-      "side": "sell",
-      "symbol": "Motion",
-      "address": "87SsFmfcXVPpzFdHpYAQ6iu6ccdtCmgbifGmywBipump",
-      "price": 8.199215114e-05,
-      "proceeds": 307.84,
-      "pnl_usd": 257.84,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-15T23:39:59+00:00",
-      "side": "buy",
-      "symbol": "SPACEXSI",
-      "address": "3LdqkdVaYwKRchXj6fHs5WRe9pjwuNmyBiXSdcYkpump",
-      "price": 0.0003661206008138994,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-15T23:39:59+00:00",
       "side": "buy",
@@ -4521,6 +4484,66 @@
       "address": "5NTD7w8cji3SdKjBaUq4vkzPat7Yxp8n7URMCZwrpump",
       "price": 8.661219322761921e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T05:34:20+00:00",
+      "side": "sell",
+      "symbol": "BitCoin",
+      "address": "ACaQ9HZKiC4qA6dqd96qNg7Jbe7UQxnsDQBddNYRpump",
+      "price": 3.084830211e-06,
+      "proceeds": 21.1,
+      "pnl_usd": -28.9,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T05:34:20+00:00",
+      "side": "sell",
+      "symbol": "BOB",
+      "address": "5NTD7w8cji3SdKjBaUq4vkzPat7Yxp8n7URMCZwrpump",
+      "price": 1.443045192e-05,
+      "proceeds": 78.55,
+      "pnl_usd": 28.55,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-19T05:34:21+00:00",
+      "side": "buy",
+      "symbol": "sats",
+      "address": "8RDqc6H7YVth154qnEebVj1Er4vvUUDr4dG84NB9pump",
+      "price": 1.176464497440782e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T05:34:21+00:00",
+      "side": "buy",
+      "symbol": "Gentlemen",
+      "address": "EUSTbYtjzWPWZCP8LifC6nEwQc2URgC9ykxUaT9jpump",
+      "price": 1.2492409943519767e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T05:34:21+00:00",
+      "side": "buy",
+      "symbol": "moca",
+      "address": "48iy9xw2YLAXdxbKxkxp9YHHQvehvypzs4mGArxHpump",
+      "price": 1.2520170718947468e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T05:34:21+00:00",
+      "side": "buy",
+      "symbol": "FOMOCAT",
+      "address": "HLDo3dYkrLmVcWvDdw98nSBvm4uErVgxG2PTPXtnpump",
+      "price": 1.0632539215777258e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T05:34:21+00:00",
+      "side": "buy",
+      "symbol": "$AURA",
+      "address": "7SyHYfNjoZ7nyvM5kD8JzpThyLZC929EMkcVEoL2pump",
+      "price": 2.4242347808579307e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7771,6 +7794,10 @@
     {
       "date": "2026-10-19T05:00:25+00:00",
       "equity": 5887602.65
+    },
+    {
+      "date": "2026-10-19T05:34:21+00:00",
+      "equity": 5887595.34
     }
   ]
 }
