@@ -1,57 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5887926.550368074,
+  "cash": 5887930.583307912,
   "positions": {
-    "DCTgzXYbELL9M6W44RFpzUcxCSLg4XCiWb4PFufTpump": {
-      "symbol": "Butler",
-      "qty": 594493.5862093768,
-      "entry_price": 8.326414472462689e-05,
-      "last_price": 8.926843298e-05,
+    "8vtnV2fPgkwfTYntJbobBc9D8m5VGWrGgQVQFeJ6pump": {
+      "symbol": "MOON",
+      "qty": 1575388.660412857,
+      "entry_price": 3.142081775999815e-05,
+      "last_price": 3.0366942287191814e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-18T23:40:21+00:00",
-      "missing": 0
-    },
-    "47huugjVa2m9qva38hDSKofpqSQ7Vg3e7MTRf1Ugpump": {
-      "symbol": "CHAIN",
-      "qty": 1444252.4204287766,
-      "entry_price": 3.4273787116315996e-05,
-      "last_price": 3.3087963586228987e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T00:01:36+00:00",
+      "entry_time": "2026-10-19T00:45:28+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-15T18:19:46+00:00",
-      "side": "sell",
-      "symbol": "HAL9000",
-      "address": "TFi5VBJEiUNbWiMzCDATTPJWYfLSn8zSvNKtgCtpump",
-      "price": 3.048931663e-06,
-      "proceeds": 14.23,
-      "pnl_usd": -35.77,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-15T18:19:46+00:00",
-      "side": "sell",
-      "symbol": "Grok",
-      "address": "Scew3uVEUgVkcqfu3KYRPdyCcjkeLWanJLvoMptpump",
-      "price": 1.942697262e-06,
-      "proceeds": 0.38,
-      "pnl_usd": -49.62,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-15T18:19:46+00:00",
-      "side": "sell",
-      "symbol": "DCITY",
-      "address": "Bwd4r4dRphpQv4Ys2C15avbGY5L1Pmhnfb9Ne3vapump",
-      "price": 1.734912459e-05,
-      "proceeds": 52.06,
-      "pnl_usd": 2.06,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-15T18:19:46+00:00",
       "side": "buy",
@@ -4523,6 +4484,34 @@
       "address": "47huugjVa2m9qva38hDSKofpqSQ7Vg3e7MTRf1Ugpump",
       "price": 3.4273787116315996e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T00:45:28+00:00",
+      "side": "sell",
+      "symbol": "Butler",
+      "address": "DCTgzXYbELL9M6W44RFpzUcxCSLg4XCiWb4PFufTpump",
+      "price": 8.926843298e-05,
+      "proceeds": 50.81,
+      "pnl_usd": 0.81,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T00:45:28+00:00",
+      "side": "sell",
+      "symbol": "CHAIN",
+      "address": "47huugjVa2m9qva38hDSKofpqSQ7Vg3e7MTRf1Ugpump",
+      "price": 2.330759229e-06,
+      "proceeds": 3.22,
+      "pnl_usd": -46.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-19T00:45:28+00:00",
+      "side": "buy",
+      "symbol": "MOON",
+      "address": "8vtnV2fPgkwfTYntJbobBc9D8m5VGWrGgQVQFeJ6pump",
+      "price": 3.142081775999815e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7741,6 +7730,10 @@
     {
       "date": "2026-10-19T00:01:36+00:00",
       "equity": 5888027.41
+    },
+    {
+      "date": "2026-10-19T00:45:28+00:00",
+      "equity": 5887978.42
     }
   ]
 }
