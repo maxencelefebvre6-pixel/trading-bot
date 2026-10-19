@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5887052.0133169135,
+  "cash": 5887052.844366964,
   "positions": {
-    "FTtZA1FzzyPoxD8BvfsFqfUpKjBpBjGv7Jtm4vHipump": {
-      "symbol": "MotoCrose",
-      "qty": 7162675.323689649,
-      "entry_price": 6.910825601194706e-06,
-      "last_price": 6.647919124e-06,
+    "DgtG4nAhxWzuxTGNtPXQuCqVSFFvrYj74YUbMzr3pump": {
+      "symbol": "MONY",
+      "qty": 4750560.673892159,
+      "entry_price": 1.0419822711041052e-05,
+      "last_price": 1.0054936411501272e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-19T09:57:02+00:00",
-      "missing": 0
-    },
-    "fwGVMj1kJCK1XFEyeBmTB9TxzcH6yPBMv5jT6nFpump": {
-      "symbol": "Comnexx",
-      "qty": 2715991.6798869274,
-      "entry_price": 1.822538720076668e-05,
-      "last_price": 1.7565904960913798e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T10:33:07+00:00",
+      "entry_time": "2026-10-19T11:08:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T02:57:56+00:00",
-      "side": "buy",
-      "symbol": "ASS",
-      "address": "FH97vqEMTUULeox7iP3S2sXcCutdHHWGfpi92rxVpump",
-      "price": 1.0590604687913064e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T02:57:56+00:00",
-      "side": "buy",
-      "symbol": "RL",
-      "address": "7Sj1bXb51FRt2H5NZbJ14ZkNMvvcN7aUuvQDzRTwpump",
-      "price": 3.2244180231060196e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T02:57:56+00:00",
-      "side": "buy",
-      "symbol": "COIN",
-      "address": "rSVfkNQMvmFXKmJTjDZyfZxj7aspe35W2PWfrH7pump",
-      "price": 7.654847172127051e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T03:31:00+00:00",
       "side": "sell",
@@ -4519,6 +4486,34 @@
       "address": "fwGVMj1kJCK1XFEyeBmTB9TxzcH6yPBMv5jT6nFpump",
       "price": 1.822538720076668e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T11:08:05+00:00",
+      "side": "sell",
+      "symbol": "MotoCrose",
+      "address": "FTtZA1FzzyPoxD8BvfsFqfUpKjBpBjGv7Jtm4vHipump",
+      "price": 6.647919124e-06,
+      "proceeds": 45.3,
+      "pnl_usd": -4.7,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-19T11:08:05+00:00",
+      "side": "sell",
+      "symbol": "Comnexx",
+      "address": "fwGVMj1kJCK1XFEyeBmTB9TxzcH6yPBMv5jT6nFpump",
+      "price": 2.141615891e-06,
+      "proceeds": 5.53,
+      "pnl_usd": -44.47,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-19T11:08:05+00:00",
+      "side": "buy",
+      "symbol": "MONY",
+      "address": "DgtG4nAhxWzuxTGNtPXQuCqVSFFvrYj74YUbMzr3pump",
+      "price": 1.0419822711041052e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7801,6 +7796,10 @@
     {
       "date": "2026-10-19T10:33:07+00:00",
       "equity": 5887147.34
+    },
+    {
+      "date": "2026-10-19T11:08:05+00:00",
+      "equity": 5887100.61
     }
   ]
 }
