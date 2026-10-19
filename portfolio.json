@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5886296.949708888,
+  "cash": 5886282.614137814,
   "positions": {
-    "FLafZPdHXH81dYNU3gADuzSb9ii9nCv6RNXxbEDvpump": {
-      "symbol": "PACK",
-      "qty": 2028858.2215099009,
-      "entry_price": 2.4397959145297742e-05,
-      "last_price": 2.3550733506977013e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-19T20:44:09+00:00",
-      "missing": 0
-    },
     "7JATjnuiTJGQ4w8V1WaYDPeMKUQzud1w5my2EHgVpump": {
       "symbol": "MUGSY",
       "qty": 1374793.2987483584,
       "entry_price": 3.6005412628259006e-05,
-      "last_price": 3.488706912578627e-05,
+      "last_price": 3.488706913e-05,
       "cost": 50.0,
       "entry_time": "2026-10-19T20:44:09+00:00",
+      "missing": 0
+    },
+    "Fiyf12KXmLrEVdHc1JYRtx7V4Y6Hz22LdowdXB27pump": {
+      "symbol": "POGO",
+      "qty": 13080266.63087429,
+      "entry_price": 3.784326527653619e-06,
+      "last_price": 3.6466330956526747e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T21:13:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T17:18:10+00:00",
-      "side": "buy",
-      "symbol": "FTC",
-      "address": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
-      "price": 0.00017393870619064367,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T17:52:03+00:00",
-      "side": "buy",
-      "symbol": "OMNI",
-      "address": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
-      "price": 0.0017829851064766456,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-16T18:20:47+00:00",
       "side": "sell",
@@ -4519,6 +4503,24 @@
       "address": "7JATjnuiTJGQ4w8V1WaYDPeMKUQzud1w5my2EHgVpump",
       "price": 3.6005412628259006e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T21:13:18+00:00",
+      "side": "sell",
+      "symbol": "PACK",
+      "address": "FLafZPdHXH81dYNU3gADuzSb9ii9nCv6RNXxbEDvpump",
+      "price": 1.856918679e-05,
+      "proceeds": 35.66,
+      "pnl_usd": -14.34,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-19T21:13:18+00:00",
+      "side": "buy",
+      "symbol": "POGO",
+      "address": "Fiyf12KXmLrEVdHc1JYRtx7V4Y6Hz22LdowdXB27pump",
+      "price": 3.784326527653619e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7861,6 +7863,10 @@
     {
       "date": "2026-10-19T20:44:09+00:00",
       "equity": 5886392.69
+    },
+    {
+      "date": "2026-10-19T21:13:18+00:00",
+      "equity": 5886378.28
     }
   ]
 }
