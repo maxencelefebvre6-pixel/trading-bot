@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5886264.802832722,
+  "cash": 5886114.802832722,
   "positions": {
     "9abEeUfkSqs9nKQR4MvhUsfECExRQAyhqRyC3oM2pump": {
       "symbol": "angel",
       "qty": 6458862.7927788,
       "entry_price": 7.663887837243185e-06,
-      "last_price": 7.376044589743982e-06,
+      "last_price": 7.37604459e-06,
       "cost": 50.0,
       "entry_time": "2026-10-19T21:49:52+00:00",
       "missing": 0
@@ -15,39 +15,40 @@
       "symbol": "TA",
       "qty": 5700989.529622998,
       "entry_price": 8.682703194382712e-06,
-      "last_price": 8.358407937609806e-06,
+      "last_price": 8.358407938e-06,
       "cost": 50.0,
       "entry_time": "2026-10-19T21:49:52+00:00",
+      "missing": 0
+    },
+    "8d86JECuu8t9fKS9tEGPXDLfLySmgdidTucCdNLBpump": {
+      "symbol": "FLEET",
+      "qty": 14626945.704608094,
+      "entry_price": 3.3841651565306246e-06,
+      "last_price": 3.2646416826090957e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T22:17:36+00:00",
+      "missing": 0
+    },
+    "DmA6NESRK6KrrsJUJa8gkJWiZHGDoRheMjSV6y93pump": {
+      "symbol": "EBAR",
+      "qty": 3041.7946453605737,
+      "entry_price": 0.016273287901107564,
+      "last_price": 0.01579268470303528,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T22:17:36+00:00",
+      "missing": 0
+    },
+    "FHEnZxYCHtvamjmprf3A43tBMXzH1iF2TwQGQb4qpump": {
+      "symbol": "MEW151",
+      "qty": 3847086.9273758694,
+      "entry_price": 1.2866878480898889e-05,
+      "last_price": 1.241519059895288e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-19T22:17:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-16T21:35:10+00:00",
-      "side": "buy",
-      "symbol": "YASX",
-      "address": "8ZQspAwv9ZAov2VTuXGRAA717ABsLttyoTQVjviwpump",
-      "price": 1.512180580150214e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T21:35:10+00:00",
-      "side": "buy",
-      "symbol": "Chud",
-      "address": "CWqVwX5r3iG6GgD8bSGtYbWUjSLHZVA63hbFeD98pump",
-      "price": 2.4198183847838064e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-16T22:06:26+00:00",
-      "side": "sell",
-      "symbol": "YASX",
-      "address": "8ZQspAwv9ZAov2VTuXGRAA717ABsLttyoTQVjviwpump",
-      "price": 3.325994265e-06,
-      "proceeds": 10.41,
-      "pnl_usd": -39.59,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-16T22:06:26+00:00",
       "side": "buy",
@@ -4519,6 +4520,30 @@
       "address": "A9R2QTgtmgWpFWHS6R4jePu3tYk5S7v6QhDi9ojopump",
       "price": 8.682703194382712e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T22:17:36+00:00",
+      "side": "buy",
+      "symbol": "FLEET",
+      "address": "8d86JECuu8t9fKS9tEGPXDLfLySmgdidTucCdNLBpump",
+      "price": 3.3841651565306246e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T22:17:36+00:00",
+      "side": "buy",
+      "symbol": "EBAR",
+      "address": "DmA6NESRK6KrrsJUJa8gkJWiZHGDoRheMjSV6y93pump",
+      "price": 0.016273287901107564,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-19T22:17:36+00:00",
+      "side": "buy",
+      "symbol": "MEW151",
+      "address": "FHEnZxYCHtvamjmprf3A43tBMXzH1iF2TwQGQb4qpump",
+      "price": 1.2866878480898889e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7869,6 +7894,10 @@
     {
       "date": "2026-10-19T21:49:52+00:00",
       "equity": 5886360.09
+    },
+    {
+      "date": "2026-10-19T22:17:36+00:00",
+      "equity": 5886353.65
     }
   ]
 }
