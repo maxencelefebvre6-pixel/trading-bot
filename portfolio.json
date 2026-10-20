@@ -1,56 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5884825.131169901,
+  "cash": 5884681.054044912,
   "positions": {
-    "vqf7ibP7NHr5zvkKeVjnsedUvx46k5AEScEHuszpump": {
-      "symbol": "TRUMPFOLIO",
-      "qty": 1959582.4242972177,
-      "entry_price": 2.526048375727427e-05,
-      "last_price": 2.435576262246862e-05,
+    "HR8YN462CYDz3RZQa6BJ3V2qHyKwknMaiVSmUJkupump": {
+      "symbol": "$PANIC",
+      "qty": 2877161.8893137337,
+      "entry_price": 1.7204454217140642e-05,
+      "last_price": 1.663639582190669e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-20T21:15:38+00:00",
+      "entry_time": "2026-10-20T21:52:39+00:00",
+      "missing": 0
+    },
+    "J5JQEw7EnSaj2J4kC7cCoPgq6j9UptXqYmNtVKLkpump": {
+      "symbol": "HOPE",
+      "qty": 756095.40078789,
+      "entry_price": 6.54679289788279e-05,
+      "last_price": 6.338334190350536e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T21:52:39+00:00",
+      "missing": 0
+    },
+    "7u5ENXx9YF9qFqB56Tog85EJocqfs2RGe53inzshpump": {
+      "symbol": "Grok5",
+      "qty": 4847154.866201374,
+      "entry_price": 1.0212176290292998e-05,
+      "last_price": 9.83012489201989e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T21:52:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T19:07:41+00:00",
-      "side": "sell",
-      "symbol": "bounds",
-      "address": "Z3bNCYdr4oaRHuyVbUFrcNfkiYKRpA7wW96WfZfpump",
-      "price": 3.013274917e-06,
-      "proceeds": 3.59,
-      "pnl_usd": -46.41,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T19:07:41+00:00",
-      "side": "buy",
-      "symbol": "gilet",
-      "address": "HMXnAyeRnh5DE2QVpTwssDz3H8aHqnoLeTBqsLehpump",
-      "price": 1.1002264320852909e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T19:34:38+00:00",
-      "side": "sell",
-      "symbol": "LION",
-      "address": "96kBjRkAYe9QemRfq2mAE2QKVwWufJQqvw8KfW5mpump",
-      "price": 2.219191479e-05,
-      "proceeds": 45.82,
-      "pnl_usd": -4.18,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-17T19:34:38+00:00",
-      "side": "sell",
-      "symbol": "OTTER",
-      "address": "7eDmbztLVn2YkcNo9ehQtjhjnaMaxzgwAoUs9od1pump",
-      "price": 1.332037307e-05,
-      "proceeds": 45.31,
-      "pnl_usd": -4.69,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-17T19:34:38+00:00",
       "side": "sell",
@@ -4514,6 +4494,40 @@
       "address": "vqf7ibP7NHr5zvkKeVjnsedUvx46k5AEScEHuszpump",
       "price": 2.526048375727427e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T21:52:39+00:00",
+      "side": "sell",
+      "symbol": "TRUMPFOLIO",
+      "address": "vqf7ibP7NHr5zvkKeVjnsedUvx46k5AEScEHuszpump",
+      "price": 3.155850822e-06,
+      "proceeds": 5.92,
+      "pnl_usd": -44.08,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T21:52:39+00:00",
+      "side": "buy",
+      "symbol": "$PANIC",
+      "address": "HR8YN462CYDz3RZQa6BJ3V2qHyKwknMaiVSmUJkupump",
+      "price": 1.7204454217140642e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T21:52:39+00:00",
+      "side": "buy",
+      "symbol": "HOPE",
+      "address": "J5JQEw7EnSaj2J4kC7cCoPgq6j9UptXqYmNtVKLkpump",
+      "price": 6.54679289788279e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T21:52:39+00:00",
+      "side": "buy",
+      "symbol": "Grok5",
+      "address": "7u5ENXx9YF9qFqB56Tog85EJocqfs2RGe53inzshpump",
+      "price": 1.0212176290292998e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8016,6 +8030,10 @@
     {
       "date": "2026-10-20T21:15:38+00:00",
       "equity": 5884872.86
+    },
+    {
+      "date": "2026-10-20T21:52:39+00:00",
+      "equity": 5884824.49
     }
   ]
 }
