@@ -1,75 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5885295.472513805,
+  "cash": 5885207.83119248,
   "positions": {
-    "BKMA2XL1LjjPmhRDvdgoimAKXqKbgJcs6TTw1h4rpump": {
-      "symbol": "EVILMARIO",
-      "qty": 6936562.390805071,
-      "entry_price": 7.136099585237772e-06,
-      "last_price": 6.891117744e-06,
+    "5QsSxcoydN97b6Qu2L3MyX3HCPBhkiSWpDCPRrn2pump": {
+      "symbol": "WEED",
+      "qty": 5483823.947456279,
+      "entry_price": 9.026547984451803e-06,
+      "last_price": 8.683611762942211e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-20T15:16:41+00:00",
+      "entry_time": "2026-10-20T16:31:05+00:00",
       "missing": 0
     },
-    "GwQeGpdncu6q4VaVKGj1UdNVE13M45QB6obDKxpBpump": {
-      "symbol": "kitty",
-      "qty": 5592828.935481673,
-      "entry_price": 8.850619350426619e-06,
-      "last_price": 8.517910667329899e-06,
+    "Ck54hCiFsZeCm1akVCNevHaPbhCEskmA7iKzFAokpump": {
+      "symbol": "$BWIZ",
+      "qty": 5751508.66231595,
+      "entry_price": 8.606437529047887e-06,
+      "last_price": 8.293694843099957e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-20T15:55:51+00:00",
+      "entry_time": "2026-10-20T16:31:05+00:00",
+      "missing": 0
+    },
+    "GmgDn375fAYJEZ1WPdVZSGtaMXfhfYwgxwiYiqbBpump": {
+      "symbol": "NEKO AI",
+      "qty": 6435051.990545618,
+      "entry_price": 7.692245544049283e-06,
+      "last_price": 7.4066735014573445e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T16:31:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T14:34:12+00:00",
-      "side": "sell",
-      "symbol": "Jackie",
-      "address": "9veUQnrE6DiawJLFcjvoqfVvGAqDtDEyDFwh1Biupump",
-      "price": 0.0001047132372,
-      "proceeds": 59.48,
-      "pnl_usd": 9.48,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-17T14:34:12+00:00",
-      "side": "sell",
-      "symbol": "$DODO",
-      "address": "fMRGZVf6Z4FswFdkmfvc6DZFseS11Wxh8q8GXJdpump",
-      "price": 4.710739178e-07,
-      "proceeds": 1.94,
-      "pnl_usd": -48.06,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-17T14:34:12+00:00",
-      "side": "buy",
-      "symbol": "GOOGLx",
-      "address": "Hy2rqEYkrtKYYsn9Fs73Lqd7VfsvqHF1a5E2f4WBpump",
-      "price": 8.464403322380638e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T15:00:03+00:00",
-      "side": "sell",
-      "symbol": "kittylick",
-      "address": "Bc8ByH9m2AZxhB9tGc8QUDzH5PdfQEK56NYhPWzTpump",
-      "price": 1.069980123e-05,
-      "proceeds": 45.62,
-      "pnl_usd": -4.38,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-17T15:00:03+00:00",
-      "side": "sell",
-      "symbol": "GOOGLx",
-      "address": "Hy2rqEYkrtKYYsn9Fs73Lqd7VfsvqHF1a5E2f4WBpump",
-      "price": 0.0001017304833,
-      "proceeds": 56.95,
-      "pnl_usd": 6.95,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-17T15:00:03+00:00",
       "side": "buy",
@@ -4523,6 +4484,50 @@
       "address": "GwQeGpdncu6q4VaVKGj1UdNVE13M45QB6obDKxpBpump",
       "price": 8.850619350426619e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T16:31:05+00:00",
+      "side": "sell",
+      "symbol": "EVILMARIO",
+      "address": "BKMA2XL1LjjPmhRDvdgoimAKXqKbgJcs6TTw1h4rpump",
+      "price": 6.891117744e-06,
+      "proceeds": 45.45,
+      "pnl_usd": -4.55,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-20T16:31:05+00:00",
+      "side": "sell",
+      "symbol": "kitty",
+      "address": "GwQeGpdncu6q4VaVKGj1UdNVE13M45QB6obDKxpBpump",
+      "price": 3.172293991e-06,
+      "proceeds": 16.91,
+      "pnl_usd": -33.09,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T16:31:05+00:00",
+      "side": "buy",
+      "symbol": "WEED",
+      "address": "5QsSxcoydN97b6Qu2L3MyX3HCPBhkiSWpDCPRrn2pump",
+      "price": 9.026547984451803e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T16:31:05+00:00",
+      "side": "buy",
+      "symbol": "$BWIZ",
+      "address": "Ck54hCiFsZeCm1akVCNevHaPbhCEskmA7iKzFAokpump",
+      "price": 8.606437529047887e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T16:31:05+00:00",
+      "side": "buy",
+      "symbol": "NEKO AI",
+      "address": "GmgDn375fAYJEZ1WPdVZSGtaMXfhfYwgxwiYiqbBpump",
+      "price": 7.692245544049283e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7989,6 +7994,10 @@
     {
       "date": "2026-10-20T15:55:51+00:00",
       "equity": 5885390.91
+    },
+    {
+      "date": "2026-10-20T16:31:05+00:00",
+      "equity": 5885350.81
     }
   ]
 }
