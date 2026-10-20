@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5885464.770586922,
-  "positions": {},
+  "cash": 5885314.770586922,
+  "positions": {
+    "BKMA2XL1LjjPmhRDvdgoimAKXqKbgJcs6TTw1h4rpump": {
+      "symbol": "EVILMARIO",
+      "qty": 6936562.390805071,
+      "entry_price": 7.136099585237772e-06,
+      "last_price": 6.891117744312225e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T15:16:41+00:00",
+      "missing": 0
+    },
+    "CQ2Zd5g5yXiN31vp5RQgZ51Te33LPxWbpmS9ADXnpump": {
+      "symbol": "JUICE",
+      "qty": 224603950.5829726,
+      "entry_price": 2.203879311629198e-07,
+      "last_price": 2.126718722991483e-07,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T15:16:41+00:00",
+      "missing": 0
+    },
+    "Hg1hBup2MwTym88dkFYGhtnfoKAsJBemNwUTnvFXpump": {
+      "symbol": "TOAD",
+      "qty": 11742123.051777903,
+      "entry_price": 4.215591999992292e-06,
+      "last_price": 4.077825661931287e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T15:16:41+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-17T12:31:52+00:00",
-      "side": "buy",
-      "symbol": "att",
-      "address": "6wfZjsVxoQ5T3KfY4vC8svfRnT4nbCUE6LnaysB2pump",
-      "price": 9.3756753242709e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T13:08:55+00:00",
-      "side": "sell",
-      "symbol": "att",
-      "address": "6wfZjsVxoQ5T3KfY4vC8svfRnT4nbCUE6LnaysB2pump",
-      "price": 9.040029021e-06,
-      "proceeds": 23.63,
-      "pnl_usd": -26.37,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-17T13:40:02+00:00",
-      "side": "buy",
-      "symbol": "kittylick",
-      "address": "Bc8ByH9m2AZxhB9tGc8QUDzH5PdfQEK56NYhPWzTpump",
-      "price": 1.1084597740139713e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T14:05:28+00:00",
       "side": "buy",
@@ -4502,6 +4504,30 @@
       "proceeds": 5.2,
       "pnl_usd": -44.8,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T15:16:41+00:00",
+      "side": "buy",
+      "symbol": "EVILMARIO",
+      "address": "BKMA2XL1LjjPmhRDvdgoimAKXqKbgJcs6TTw1h4rpump",
+      "price": 7.136099585237772e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T15:16:41+00:00",
+      "side": "buy",
+      "symbol": "JUICE",
+      "address": "CQ2Zd5g5yXiN31vp5RQgZ51Te33LPxWbpmS9ADXnpump",
+      "price": 2.203879311629198e-07,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T15:16:41+00:00",
+      "side": "buy",
+      "symbol": "TOAD",
+      "address": "Hg1hBup2MwTym88dkFYGhtnfoKAsJBemNwUTnvFXpump",
+      "price": 4.215591999992292e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7960,6 +7986,10 @@
     {
       "date": "2026-10-20T14:39:29+00:00",
       "equity": 5885464.77
+    },
+    {
+      "date": "2026-10-20T15:16:41+00:00",
+      "equity": 5885458.22
     }
   ]
 }
