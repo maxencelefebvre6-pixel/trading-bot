@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5885207.83119248,
+  "cash": 5885176.382664095,
   "positions": {
-    "5QsSxcoydN97b6Qu2L3MyX3HCPBhkiSWpDCPRrn2pump": {
-      "symbol": "WEED",
-      "qty": 5483823.947456279,
-      "entry_price": 9.026547984451803e-06,
-      "last_price": 8.683611762942211e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T16:31:05+00:00",
-      "missing": 0
-    },
     "Ck54hCiFsZeCm1akVCNevHaPbhCEskmA7iKzFAokpump": {
       "symbol": "$BWIZ",
       "qty": 5751508.66231595,
       "entry_price": 8.606437529047887e-06,
-      "last_price": 8.293694843099957e-06,
+      "last_price": 8.286540063e-06,
       "cost": 50.0,
       "entry_time": "2026-10-20T16:31:05+00:00",
       "missing": 0
@@ -24,29 +15,22 @@
       "symbol": "NEKO AI",
       "qty": 6435051.990545618,
       "entry_price": 7.692245544049283e-06,
-      "last_price": 7.4066735014573445e-06,
+      "last_price": 7.406673501e-06,
       "cost": 50.0,
       "entry_time": "2026-10-20T16:31:05+00:00",
+      "missing": 0
+    },
+    "7YSYRP48kDUzw7J9wZDbb8mghKwWpRWASjDhk417pump": {
+      "symbol": "pokemon",
+      "qty": 6941220.22349128,
+      "entry_price": 7.131310980809451e-06,
+      "last_price": 6.862086152353151e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T17:12:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T15:00:03+00:00",
-      "side": "buy",
-      "symbol": "TRUMP",
-      "address": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
-      "price": 2.021520076853967e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T15:00:03+00:00",
-      "side": "buy",
-      "symbol": "ETF",
-      "address": "DT5JtRMhfqzqHnkti1xNkmqrXG3NDvcTjR8iKRJEpump",
-      "price": 1.0174605432353697e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T15:00:03+00:00",
       "side": "buy",
@@ -4528,6 +4512,24 @@
       "address": "GmgDn375fAYJEZ1WPdVZSGtaMXfhfYwgxwiYiqbBpump",
       "price": 7.692245544049283e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T17:12:18+00:00",
+      "side": "sell",
+      "symbol": "WEED",
+      "address": "5QsSxcoydN97b6Qu2L3MyX3HCPBhkiSWpDCPRrn2pump",
+      "price": 3.55131332e-06,
+      "proceeds": 18.55,
+      "pnl_usd": -31.45,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T17:12:18+00:00",
+      "side": "buy",
+      "symbol": "pokemon",
+      "address": "7YSYRP48kDUzw7J9wZDbb8mghKwWpRWASjDhk417pump",
+      "price": 7.131310980809451e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7998,6 +8000,10 @@
     {
       "date": "2026-10-20T16:31:05+00:00",
       "equity": 5885350.81
+    },
+    {
+      "date": "2026-10-20T17:12:18+00:00",
+      "equity": 5885319.34
     }
   ]
 }
