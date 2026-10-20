@@ -1,98 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5885686.678732248,
-  "positions": {
-    "HbYARGBHsvUnuhwmX7zNa2fXqD4D9p98WiXff8vJpump": {
-      "symbol": "COLLECTOOO",
-      "qty": 1158805.0184573093,
-      "entry_price": 4.271641838926295e-05,
-      "last_price": 4.1359824542304776e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T03:28:33+00:00",
-      "missing": 0
-    },
-    "CAdrfRpm45UMySnTECDyQd5Kboe8dx4cgfj8KoFxpump": {
-      "symbol": "OpenAI",
-      "qty": 128328.93497434621,
-      "entry_price": 0.00038572750572499784,
-      "last_price": 0.00037412657607272654,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T03:28:33+00:00",
-      "missing": 0
-    },
-    "2DRXyKoEiDisSsGygYGp2Vwuv6jxs7jEWLmK4kUfpump": {
-      "symbol": "DacityCoin",
-      "qty": 5988002.990755319,
-      "entry_price": 8.26652893734713e-06,
-      "last_price": 7.949537238339073e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T03:28:33+00:00",
-      "missing": 0
-    },
-    "2VYVSG4QrY4wepBy7fM4qr3vg4XwGZfW8fCbJVbYpump": {
-      "symbol": "CATLOPUS",
-      "qty": 4345845.101870137,
-      "entry_price": 1.1390189673050884e-05,
-      "last_price": 1.0980651334434678e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T03:28:33+00:00",
-      "missing": 0
-    },
-    "2wgWXCJLAdWauGRikmz82nWJPKgwbPthN95RhK9Xpump": {
-      "symbol": "C",
-      "qty": 7962599.714592633,
-      "entry_price": 6.216562652180541e-06,
-      "last_price": 5.988138447972099e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T03:28:33+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5885778.574188723,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-17T02:51:52+00:00",
-      "side": "buy",
-      "symbol": "100kboob?",
-      "address": "4yYBkgXSsYCeYzP3JDXpwVMP8ZNAapy8QbaRnekVpump",
-      "price": 2.1151618631336416e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T02:51:52+00:00",
-      "side": "buy",
-      "symbol": "HYPECHAN",
-      "address": "7cF6oqKSxR1gtNm7J642dLUa5BeSZ2Pz6CBzDYKvpump",
-      "price": 9.727410578205991e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T02:51:52+00:00",
-      "side": "buy",
-      "symbol": "INUX",
-      "address": "kqm38ANmpjqrx82KnaXBXoMzA4RsC8ReLKXbV8Epump",
-      "price": 1.2068488739747327e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T03:19:29+00:00",
-      "side": "sell",
-      "symbol": "UDTF",
-      "address": "qu9cnPFqDzGnT5dRfK5jcbwMJqVWfYjxGimSLTMpump",
-      "price": 0.05798185924,
-      "proceeds": 47.69,
-      "pnl_usd": -2.31,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-17T03:19:29+00:00",
-      "side": "sell",
-      "symbol": "DOOROC",
-      "address": "CVe1xannL3u1bhwLebGwsxXFT1LyVvn4tBEJA1Ppump",
-      "price": 6.646620115e-06,
-      "proceeds": 45.3,
-      "pnl_usd": -4.7,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-17T03:19:29+00:00",
       "side": "sell",
@@ -4546,6 +4456,56 @@
       "address": "2wgWXCJLAdWauGRikmz82nWJPKgwbPthN95RhK9Xpump",
       "price": 6.216562652180541e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T04:06:32+00:00",
+      "side": "sell",
+      "symbol": "COLLECTOOO",
+      "address": "HbYARGBHsvUnuhwmX7zNa2fXqD4D9p98WiXff8vJpump",
+      "price": 6.788655633e-05,
+      "proceeds": 38.94,
+      "pnl_usd": -11.06,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T04:06:32+00:00",
+      "side": "sell",
+      "symbol": "OpenAI",
+      "address": "CAdrfRpm45UMySnTECDyQd5Kboe8dx4cgfj8KoFxpump",
+      "price": 1.867498548e-06,
+      "proceeds": 0.23,
+      "pnl_usd": -49.77,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T04:06:32+00:00",
+      "side": "sell",
+      "symbol": "DacityCoin",
+      "address": "2DRXyKoEiDisSsGygYGp2Vwuv6jxs7jEWLmK4kUfpump",
+      "price": 3.210700218e-06,
+      "proceeds": 18.32,
+      "pnl_usd": -31.68,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T04:06:32+00:00",
+      "side": "sell",
+      "symbol": "CATLOPUS",
+      "address": "2VYVSG4QrY4wepBy7fM4qr3vg4XwGZfW8fCbJVbYpump",
+      "price": 2.510677373e-06,
+      "proceeds": 10.39,
+      "pnl_usd": -39.61,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T04:06:32+00:00",
+      "side": "sell",
+      "symbol": "C",
+      "address": "2wgWXCJLAdWauGRikmz82nWJPKgwbPthN95RhK9Xpump",
+      "price": 3.174953669e-06,
+      "proceeds": 24.02,
+      "pnl_usd": -25.98,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -7936,6 +7896,10 @@
     {
       "date": "2026-10-20T03:28:33+00:00",
       "equity": 5885925.62
+    },
+    {
+      "date": "2026-10-20T04:06:32+00:00",
+      "equity": 5885778.57
     }
   ]
 }
