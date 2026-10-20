@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5886061.519364283,
+  "cash": 5886026.665992621,
   "positions": {
-    "QXtrCdpa6qFzH3Ka1YShGUBNncah6F8xa9FeWnYpump": {
-      "symbol": "Simpsons",
-      "qty": 674636.3519094441,
-      "entry_price": 7.337286207584074e-05,
-      "last_price": 7.114155213249318e-05,
+    "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump": {
+      "symbol": "DUST",
+      "qty": 769384.329513256,
+      "entry_price": 6.43371564784998e-05,
+      "last_price": 6.231393194874737e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-20T01:13:41+00:00",
-      "missing": 0
-    },
-    "AKmHspkVaXC6FUak2dkZWMtFBSb3UiMa8WZzCkhEpump": {
-      "symbol": "PIVOT",
-      "qty": 4795092.253297396,
-      "entry_price": 1.032305477876068e-05,
-      "last_price": 9.93843015125168e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T01:13:41+00:00",
+      "entry_time": "2026-10-20T01:51:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T00:37:30+00:00",
-      "side": "sell",
-      "symbol": "FDP",
-      "address": "4V3TTpsvd2iK5ecBr3WALqhoxG5hcctXSii7B8YRpump",
-      "price": 2.34372243e-06,
-      "proceeds": 2.34,
-      "pnl_usd": -47.66,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T01:15:36+00:00",
-      "side": "sell",
-      "symbol": "FROBERT",
-      "address": "ACuR71n5dSb8ZvvGmUyGdyorDuLgiBN3h4wfuvrspump",
-      "price": 0.0001406189541,
-      "proceeds": 46.11,
-      "pnl_usd": -3.89,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-17T01:15:36+00:00",
-      "side": "buy",
-      "symbol": "$MSN",
-      "address": "DQ7pKdQDvvQkXFe4kzDnN5K4FKgmtwBuSAdLEEf3pump",
-      "price": 2.0739585233924855e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T01:15:36+00:00",
       "side": "buy",
@@ -4521,6 +4484,34 @@
       "address": "AKmHspkVaXC6FUak2dkZWMtFBSb3UiMa8WZzCkhEpump",
       "price": 1.032305477876068e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T01:51:11+00:00",
+      "side": "sell",
+      "symbol": "Simpsons",
+      "address": "QXtrCdpa6qFzH3Ka1YShGUBNncah6F8xa9FeWnYpump",
+      "price": 1.905889597e-06,
+      "proceeds": 1.23,
+      "pnl_usd": -48.77,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T01:51:11+00:00",
+      "side": "sell",
+      "symbol": "PIVOT",
+      "address": "AKmHspkVaXC6FUak2dkZWMtFBSb3UiMa8WZzCkhEpump",
+      "price": 3.042324605e-06,
+      "proceeds": 13.92,
+      "pnl_usd": -36.08,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T01:51:12+00:00",
+      "side": "buy",
+      "symbol": "DUST",
+      "address": "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump",
+      "price": 6.43371564784998e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7895,6 +7886,10 @@
     {
       "date": "2026-10-20T01:13:41+00:00",
       "equity": 5886157.17
+    },
+    {
+      "date": "2026-10-20T01:51:12+00:00",
+      "equity": 5886074.61
     }
   ]
 }
