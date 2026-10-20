@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5885565.944755164,
-  "positions": {
-    "FCTq7bC1vYQot2nzEd5hkEDRkpjppDyuVVXzhs8Fpump": {
-      "symbol": "Sepolia",
-      "qty": 3860033.3644981612,
-      "entry_price": 1.2823723353084395e-05,
-      "last_price": 1.2364615054451777e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T06:18:32+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5885576.4055012,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-17T05:24:55+00:00",
-      "side": "buy",
-      "symbol": "SOL",
-      "address": "6HxJb9Gi86JDhHnVCB1Mcna8ZMjhxvGgMCdkbt2Bpump",
-      "price": 1.5435242997593425e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T05:55:35+00:00",
       "side": "sell",
@@ -4512,6 +4494,16 @@
       "address": "FCTq7bC1vYQot2nzEd5hkEDRkpjppDyuVVXzhs8Fpump",
       "price": 1.2823723353084395e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T07:10:08+00:00",
+      "side": "sell",
+      "symbol": "Sepolia",
+      "address": "FCTq7bC1vYQot2nzEd5hkEDRkpjppDyuVVXzhs8Fpump",
+      "price": 2.838597295e-06,
+      "proceeds": 10.46,
+      "pnl_usd": -39.54,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -7922,6 +7914,10 @@
     {
       "date": "2026-10-20T06:18:32+00:00",
       "equity": 5885613.67
+    },
+    {
+      "date": "2026-10-20T07:10:08+00:00",
+      "equity": 5885576.41
     }
   ]
 }
