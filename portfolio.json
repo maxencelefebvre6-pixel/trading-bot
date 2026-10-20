@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5885710.697735881,
+  "cash": 5885852.8643810665,
   "positions": {
-    "8UxPkYRJ888F6a5X2WESdULsEoD7vX6yNA2MVR1Cpump": {
-      "symbol": "song",
-      "qty": 5457572.1443448495,
-      "entry_price": 9.069967137547055e-06,
-      "last_price": 8.741325401e-06,
+    "7bVCovpGMSRztmgm3si8uuUYuPnWX2noq63KtPYTpump": {
+      "symbol": "HATE",
+      "qty": 5545090.445474201,
+      "entry_price": 8.926815619464056e-06,
+      "last_price": 8.601407903053166e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-20T08:25:06+00:00",
-      "missing": 0
-    },
-    "CRWCzAr2CmHmqfNTFfJFpNVF1jtuw1WMGSnhAL6ypump": {
-      "symbol": "Haiku",
-      "qty": 3663540.8757450776,
-      "entry_price": 1.3511518413161657e-05,
-      "last_price": 1.3024091610391711e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T09:06:18+00:00",
+      "entry_time": "2026-10-20T09:40:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T07:44:41+00:00",
-      "side": "buy",
-      "symbol": "SI",
-      "address": "BbbFLmMjY8eZnXpNJGpTXV5PqEUi9c6XkC9V9YQqpump",
-      "price": 3.473979023868735e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T07:44:41+00:00",
-      "side": "buy",
-      "symbol": "AIEG",
-      "address": "BB1n4RhmW8cd1J8VZT5jEac2iJgN4W4zX3uLA8skpump",
-      "price": 7.123474036225147e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T08:08:14+00:00",
-      "side": "sell",
-      "symbol": "MAC",
-      "address": "CU4L2VHPzpn1XdNs6pRbceJzF2myEcqD9F9H4foApump",
-      "price": 9.735582335e-05,
-      "proceeds": 54.87,
-      "pnl_usd": 4.87,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-17T08:08:14+00:00",
       "side": "sell",
@@ -4521,6 +4486,34 @@
       "address": "CRWCzAr2CmHmqfNTFfJFpNVF1jtuw1WMGSnhAL6ypump",
       "price": 1.3511518413161657e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T09:40:13+00:00",
+      "side": "sell",
+      "symbol": "song",
+      "address": "8UxPkYRJ888F6a5X2WESdULsEoD7vX6yNA2MVR1Cpump",
+      "price": 8.741325401e-06,
+      "proceeds": 45.47,
+      "pnl_usd": -4.53,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-20T09:40:13+00:00",
+      "side": "sell",
+      "symbol": "Haiku",
+      "address": "CRWCzAr2CmHmqfNTFfJFpNVF1jtuw1WMGSnhAL6ypump",
+      "price": 4.246013251e-05,
+      "proceeds": 146.7,
+      "pnl_usd": 96.7,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-20T09:40:13+00:00",
+      "side": "buy",
+      "symbol": "HATE",
+      "address": "7bVCovpGMSRztmgm3si8uuUYuPnWX2noq63KtPYTpump",
+      "price": 8.926815619464056e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7943,6 +7936,10 @@
     {
       "date": "2026-10-20T09:06:18+00:00",
       "equity": 5885806.12
+    },
+    {
+      "date": "2026-10-20T09:40:13+00:00",
+      "equity": 5885900.56
     }
   ]
 }
