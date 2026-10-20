@@ -1,62 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5885426.4055012,
+  "cash": 5885710.697735881,
   "positions": {
-    "J28yRmmp58Aux2V1E6zPqCKjY3m1BzAMUeSEbXpBpump": {
-      "symbol": "COLLECTOOO",
-      "qty": 586349.49475427,
-      "entry_price": 8.442064066371318e-05,
-      "last_price": 8.184925813210935e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T08:25:06+00:00",
-      "missing": 0
-    },
-    "CfdFkBcY4aaTFDHFp83DAbdF6e7cViCFETmtWGCApump": {
-      "symbol": "Pepemon",
-      "qty": 4758536.485291689,
-      "entry_price": 1.0402357984014858e-05,
-      "last_price": 1.0004423681998215e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T08:25:06+00:00",
-      "missing": 0
-    },
     "8UxPkYRJ888F6a5X2WESdULsEoD7vX6yNA2MVR1Cpump": {
       "symbol": "song",
       "qty": 5457572.1443448495,
       "entry_price": 9.069967137547055e-06,
-      "last_price": 8.741325400870154e-06,
+      "last_price": 8.741325401e-06,
       "cost": 50.0,
       "entry_time": "2026-10-20T08:25:06+00:00",
+      "missing": 0
+    },
+    "CRWCzAr2CmHmqfNTFfJFpNVF1jtuw1WMGSnhAL6ypump": {
+      "symbol": "Haiku",
+      "qty": 3663540.8757450776,
+      "entry_price": 1.3511518413161657e-05,
+      "last_price": 1.3024091610391711e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T09:06:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T07:44:41+00:00",
-      "side": "sell",
-      "symbol": "visioner",
-      "address": "dKXBHA6tKrZwohZHzyvd1sHZzL5wB2Hj4uGTwLFpump",
-      "price": 2.181495343e-06,
-      "proceeds": 4.25,
-      "pnl_usd": -45.75,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-17T07:44:41+00:00",
-      "side": "buy",
-      "symbol": "MAC",
-      "address": "CU4L2VHPzpn1XdNs6pRbceJzF2myEcqD9F9H4foApump",
-      "price": 8.408282856349764e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T07:44:41+00:00",
-      "side": "buy",
-      "symbol": "CFD",
-      "address": "64ExnYwXd2drBMdpwSyxz4HNFECskmTGfPGnDHaspump",
-      "price": 5.9628679990461405e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T07:44:41+00:00",
       "side": "buy",
@@ -4528,6 +4493,34 @@
       "address": "8UxPkYRJ888F6a5X2WESdULsEoD7vX6yNA2MVR1Cpump",
       "price": 9.069967137547055e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T09:06:18+00:00",
+      "side": "sell",
+      "symbol": "COLLECTOOO",
+      "address": "J28yRmmp58Aux2V1E6zPqCKjY3m1BzAMUeSEbXpBpump",
+      "price": 0.0008924001416,
+      "proceeds": 259.01,
+      "pnl_usd": 209.01,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T09:06:18+00:00",
+      "side": "sell",
+      "symbol": "Pepemon",
+      "address": "CfdFkBcY4aaTFDHFp83DAbdF6e7cViCFETmtWGCApump",
+      "price": 1.707009502e-05,
+      "proceeds": 75.28,
+      "pnl_usd": 25.28,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-20T09:06:18+00:00",
+      "side": "buy",
+      "symbol": "Haiku",
+      "address": "CRWCzAr2CmHmqfNTFfJFpNVF1jtuw1WMGSnhAL6ypump",
+      "price": 1.3511518413161657e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7946,6 +7939,10 @@
     {
       "date": "2026-10-20T08:25:06+00:00",
       "equity": 5885569.71
+    },
+    {
+      "date": "2026-10-20T09:06:18+00:00",
+      "equity": 5885806.12
     }
   ]
 }
