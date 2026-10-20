@@ -1,46 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5885852.8643810665,
+  "cash": 5885702.8643810665,
   "positions": {
     "7bVCovpGMSRztmgm3si8uuUYuPnWX2noq63KtPYTpump": {
       "symbol": "HATE",
       "qty": 5545090.445474201,
       "entry_price": 8.926815619464056e-06,
-      "last_price": 8.601407903053166e-06,
+      "last_price": 8.601407903e-06,
       "cost": 50.0,
       "entry_time": "2026-10-20T09:40:13+00:00",
+      "missing": 0
+    },
+    "ApfqSy8UUZDTg1u4pDE6EmvxFXca9ezSTS2Dytkzpump": {
+      "symbol": "Bunka",
+      "qty": 2279127.68549335,
+      "entry_price": 2.1718835813836823e-05,
+      "last_price": 2.095265826726164e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T10:11:49+00:00",
+      "missing": 0
+    },
+    "G6AhnexwNGMhmiJkXUAD541vMCqwPd68R4hcFELNpump": {
+      "symbol": "PALFLU",
+      "qty": 773.6178415824252,
+      "entry_price": 0.06398508066818676,
+      "last_price": 0.06209512479416444,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T10:11:49+00:00",
+      "missing": 0
+    },
+    "HrcdH4dAah3Bf6i5Gr5uyS9iZH3uA4dvY3j4KyaLpump": {
+      "symbol": "Moca",
+      "qty": 5349653.024168319,
+      "entry_price": 9.252936550533666e-06,
+      "last_price": 8.900854318486395e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T10:11:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T08:08:14+00:00",
-      "side": "sell",
-      "symbol": "CFD",
-      "address": "64ExnYwXd2drBMdpwSyxz4HNFECskmTGfPGnDHaspump",
-      "price": 2.1338225e-06,
-      "proceeds": 1.7,
-      "pnl_usd": -48.3,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-17T08:08:14+00:00",
-      "side": "sell",
-      "symbol": "SI",
-      "address": "BbbFLmMjY8eZnXpNJGpTXV5PqEUi9c6XkC9V9YQqpump",
-      "price": 4.467490085e-06,
-      "proceeds": 6.1,
-      "pnl_usd": -43.9,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T08:41:37+00:00",
-      "side": "buy",
-      "symbol": "EVIL",
-      "address": "4DMQUyvGFpozVGtAgjDJipmKzkUuEyqgcnNcMZuXpump",
-      "price": 1.6521032595049906e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T09:08:08+00:00",
       "side": "sell",
@@ -4514,6 +4513,30 @@
       "address": "7bVCovpGMSRztmgm3si8uuUYuPnWX2noq63KtPYTpump",
       "price": 8.926815619464056e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T10:11:49+00:00",
+      "side": "buy",
+      "symbol": "Bunka",
+      "address": "ApfqSy8UUZDTg1u4pDE6EmvxFXca9ezSTS2Dytkzpump",
+      "price": 2.1718835813836823e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T10:11:49+00:00",
+      "side": "buy",
+      "symbol": "PALFLU",
+      "address": "G6AhnexwNGMhmiJkXUAD541vMCqwPd68R4hcFELNpump",
+      "price": 0.06398508066818676,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T10:11:49+00:00",
+      "side": "buy",
+      "symbol": "Moca",
+      "address": "HrcdH4dAah3Bf6i5Gr5uyS9iZH3uA4dvY3j4KyaLpump",
+      "price": 9.252936550533666e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7940,6 +7963,10 @@
     {
       "date": "2026-10-20T09:40:13+00:00",
       "equity": 5885900.56
+    },
+    {
+      "date": "2026-10-20T10:11:49+00:00",
+      "equity": 5885893.97
     }
   ]
 }
