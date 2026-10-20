@@ -1,39 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5885528.574188723,
+  "cash": 5885460.506176539,
   "positions": {
-    "9oLTvECE27DjSqbvN5NVbasmAuKwWQaDaQVyvLeepump": {
-      "symbol": "Bien",
-      "qty": 587932.415455275,
-      "entry_price": 8.419335062801202e-05,
-      "last_price": 8.162919331656163e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T04:39:08+00:00",
-      "missing": 0
-    },
-    "7xTMgacureYyKpaQZwP6LHR1tywEaBjAYfj9zidipump": {
-      "symbol": "FORKIUS",
-      "qty": 4529196.842478213,
-      "entry_price": 1.0929090017848593e-05,
-      "last_price": 1.0522155322518582e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T04:39:08+00:00",
-      "missing": 0
-    },
-    "FCntrQazv9rX8BoG272JWWBMQUThPSNT6UQyxHhxpump": {
-      "symbol": "CRAWLPEPE",
-      "qty": 822869.215283272,
-      "entry_price": 6.015536743947782e-05,
-      "last_price": 5.822604729464426e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T04:39:08+00:00",
-      "missing": 0
-    },
     "92PLh1FJEm2NkSfgNUeha4jgBESdu5xPT5NgAf6ypump": {
       "symbol": "STD",
       "qty": 5665775.381632749,
       "entry_price": 8.736668269707369e-06,
-      "last_price": 8.42058650739772e-06,
+      "last_price": 8.420586507e-06,
       "cost": 50.0,
       "entry_time": "2026-10-20T04:39:08+00:00",
       "missing": 0
@@ -42,75 +15,49 @@
       "symbol": "GrenCAT",
       "qty": 6533471.616478776,
       "entry_price": 7.576370252401601e-06,
-      "last_price": 7.293737813678731e-06,
+      "last_price": 7.293737814e-06,
       "cost": 50.0,
       "entry_time": "2026-10-20T04:39:08+00:00",
+      "missing": 0
+    },
+    "xboJW5MuxL3z51cqHUvFRgihTh6uHeVbW1S669Mpump": {
+      "symbol": "ROTTAI",
+      "qty": 3846777.124413516,
+      "entry_price": 1.286791472421133e-05,
+      "last_price": 1.2400669073451819e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T05:12:51+00:00",
+      "missing": 0
+    },
+    "FudbK6H6RXU2hUDrT4NT6duzjNsRtX261Z82sVmMpump": {
+      "symbol": "$GRADED",
+      "qty": 223450.76744969297,
+      "entry_price": 0.00022152530763244876,
+      "last_price": 0.00021451790054827284,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T05:12:51+00:00",
+      "missing": 0
+    },
+    "8dtXKdPmEcTHZwzdHqgyBRA9KeVHtKmnvn4Gzof7pump": {
+      "symbol": "GENGAR",
+      "qty": 978477.0407135927,
+      "entry_price": 5.058882113769393e-05,
+      "last_price": 4.896175735023953e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T05:12:51+00:00",
+      "missing": 0
+    },
+    "EGqP6Jdf8iB9V7xVYLA7r852fd9dE2AXEiNkLBUapump": {
+      "symbol": "FLOWERS",
+      "qty": 7707534.104785654,
+      "entry_price": 6.4222875081753006e-06,
+      "last_price": 6.190083678409779e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T05:12:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T03:54:58+00:00",
-      "side": "sell",
-      "symbol": "iPhone Duo",
-      "address": "E7pTEkDQFeodkFKtRnafQxvrZ8GQwc1Rk6La2ZzCpump",
-      "price": 1.853938635e-06,
-      "proceeds": 0.21,
-      "pnl_usd": -49.79,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-17T03:54:58+00:00",
-      "side": "buy",
-      "symbol": "room/OS",
-      "address": "3cvZsvXFPkFvs2kRCUnuhWfTCjtoLc97aTqaxBcZpump",
-      "price": 2.5940697346243564e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T03:54:58+00:00",
-      "side": "buy",
-      "symbol": "HORNY",
-      "address": "6TQS9ZY9pi2dznBVLLd8rrJeYrStdvU2xsYfjd3epump",
-      "price": 8.976743098017774e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T03:54:58+00:00",
-      "side": "buy",
-      "symbol": "Escocar",
-      "address": "AwpejFSdZ3GDcrwsJC2r7QeEd8Y6UD6Gm1vvnvmxpump",
-      "price": 8.321312393041167e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T04:23:33+00:00",
-      "side": "sell",
-      "symbol": "room/OS",
-      "address": "3cvZsvXFPkFvs2kRCUnuhWfTCjtoLc97aTqaxBcZpump",
-      "price": 2.416921249e-06,
-      "proceeds": 4.41,
-      "pnl_usd": -45.59,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T04:23:33+00:00",
-      "side": "sell",
-      "symbol": "HORNY",
-      "address": "6TQS9ZY9pi2dznBVLLd8rrJeYrStdvU2xsYfjd3epump",
-      "price": 2.191601789e-06,
-      "proceeds": 11.52,
-      "pnl_usd": -38.48,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T04:23:33+00:00",
-      "side": "buy",
-      "symbol": "CWCRAB",
-      "address": "2216cxeMuV3qrWcK5jf3c8v8CtyPw8qVfG5XrVnCpump",
-      "price": 0.06977071859109539,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T04:23:33+00:00",
       "side": "buy",
@@ -4544,6 +4491,68 @@
       "address": "7uAhKxBZRJwwoM2sYAzs4EkmwsoYSbaQ1yJcJ7Bppump",
       "price": 7.576370252401601e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T05:12:50+00:00",
+      "side": "sell",
+      "symbol": "Bien",
+      "address": "9oLTvECE27DjSqbvN5NVbasmAuKwWQaDaQVyvLeepump",
+      "price": 8.570213217e-05,
+      "proceeds": 24.94,
+      "pnl_usd": -25.06,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T05:12:50+00:00",
+      "side": "sell",
+      "symbol": "FORKIUS",
+      "address": "7xTMgacureYyKpaQZwP6LHR1tywEaBjAYfj9zidipump",
+      "price": 2.572720976e-05,
+      "proceeds": 105.42,
+      "pnl_usd": 55.42,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-20T05:12:50+00:00",
+      "side": "sell",
+      "symbol": "CRAWLPEPE",
+      "address": "FCntrQazv9rX8BoG272JWWBMQUThPSNT6UQyxHhxpump",
+      "price": 1.994100156e-06,
+      "proceeds": 1.57,
+      "pnl_usd": -48.43,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T05:12:51+00:00",
+      "side": "buy",
+      "symbol": "ROTTAI",
+      "address": "xboJW5MuxL3z51cqHUvFRgihTh6uHeVbW1S669Mpump",
+      "price": 1.286791472421133e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T05:12:51+00:00",
+      "side": "buy",
+      "symbol": "$GRADED",
+      "address": "FudbK6H6RXU2hUDrT4NT6duzjNsRtX261Z82sVmMpump",
+      "price": 0.00022152530763244876,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T05:12:51+00:00",
+      "side": "buy",
+      "symbol": "GENGAR",
+      "address": "8dtXKdPmEcTHZwzdHqgyBRA9KeVHtKmnvn4Gzof7pump",
+      "price": 5.058882113769393e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T05:12:51+00:00",
+      "side": "buy",
+      "symbol": "FLOWERS",
+      "address": "EGqP6Jdf8iB9V7xVYLA7r852fd9dE2AXEiNkLBUapump",
+      "price": 6.4222875081753006e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7942,6 +7951,10 @@
     {
       "date": "2026-10-20T04:39:08+00:00",
       "equity": 5885767.5
+    },
+    {
+      "date": "2026-10-20T05:12:51+00:00",
+      "equity": 5885747.12
     }
   ]
 }
