@@ -1,36 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5885580.904749426,
-  "positions": {},
+  "cash": 5885430.904749426,
+  "positions": {
+    "4Cxsue4e5ZNcQmfei5xF3CbeGUfgSZ27JpX3674Spump": {
+      "symbol": "OCLO",
+      "qty": 5314607.579291244,
+      "entry_price": 9.313952020254583e-06,
+      "last_price": 8.961649979623475e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T14:03:04+00:00",
+      "missing": 0
+    },
+    "8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump": {
+      "symbol": "FREN",
+      "qty": 3385850.9158718106,
+      "entry_price": 1.4619663189527771e-05,
+      "last_price": 1.4100400983576552e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T14:03:04+00:00",
+      "missing": 0
+    },
+    "ESixdFXb7rpDNGMnEHFNjmaAaJw634Ekga19VWu9pump": {
+      "symbol": "ElonCar",
+      "qty": 16835843.511288725,
+      "entry_price": 2.9401556249206873e-06,
+      "last_price": 2.847036041960312e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T14:03:04+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-17T11:02:50+00:00",
-      "side": "sell",
-      "symbol": "AI",
-      "address": "DR3DLkViQrnc2DkVJFYxkoo3yv65VZuhR3jc2DNjpump",
-      "price": 8.230967302e-06,
-      "proceeds": 28.14,
-      "pnl_usd": -21.86,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T11:02:50+00:00",
-      "side": "sell",
-      "symbol": "TESLA SI",
-      "address": "5bHFygxBZ775KMtQ2PLCbeo8Z9U8Wc1K7FU7AvWNpump",
-      "price": 1.863256659e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T11:02:51+00:00",
-      "side": "buy",
-      "symbol": "Mr.Teddy",
-      "address": "H2tMQrgQim3KNsztzxsLZjfNCxC8Wfk5993K5ucpump",
-      "price": 8.477114843318734e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T11:31:38+00:00",
       "side": "sell",
@@ -4506,6 +4506,30 @@
       "proceeds": 4.43,
       "pnl_usd": -45.57,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T14:03:04+00:00",
+      "side": "buy",
+      "symbol": "OCLO",
+      "address": "4Cxsue4e5ZNcQmfei5xF3CbeGUfgSZ27JpX3674Spump",
+      "price": 9.313952020254583e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T14:03:04+00:00",
+      "side": "buy",
+      "symbol": "FREN",
+      "address": "8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump",
+      "price": 1.4619663189527771e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T14:03:04+00:00",
+      "side": "buy",
+      "symbol": "ElonCar",
+      "address": "ESixdFXb7rpDNGMnEHFNjmaAaJw634Ekga19VWu9pump",
+      "price": 2.9401556249206873e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7956,6 +7980,10 @@
     {
       "date": "2026-10-20T13:19:35+00:00",
       "equity": 5885580.9
+    },
+    {
+      "date": "2026-10-20T14:03:04+00:00",
+      "equity": 5885574.21
     }
   ]
 }
