@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5886145.545602355,
+  "cash": 5886061.519364283,
   "positions": {
-    "5nboaBtcE9Q6gFQB7fXk1RFSjsnYoyn3hf3XqV6gpump": {
-      "symbol": "ANAKIN",
-      "qty": 1202909.6920004534,
-      "entry_price": 4.1150221275282024e-05,
-      "last_price": 3.9819967105043576e-05,
+    "QXtrCdpa6qFzH3Ka1YShGUBNncah6F8xa9FeWnYpump": {
+      "symbol": "Simpsons",
+      "qty": 674636.3519094441,
+      "entry_price": 7.337286207584074e-05,
+      "last_price": 7.114155213249318e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-20T00:27:01+00:00",
+      "entry_time": "2026-10-20T01:13:41+00:00",
+      "missing": 0
+    },
+    "AKmHspkVaXC6FUak2dkZWMtFBSb3UiMa8WZzCkhEpump": {
+      "symbol": "PIVOT",
+      "qty": 4795092.253297396,
+      "entry_price": 1.032305477876068e-05,
+      "last_price": 9.93843015125168e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T01:13:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T00:37:30+00:00",
-      "side": "sell",
-      "symbol": "$DODO",
-      "address": "J2br6Yop1213NWcxZ4VF8ZpdRcPcWdHmgBZTGtZnpump",
-      "price": 7.458273493e-06,
-      "proceeds": 45.39,
-      "pnl_usd": -4.61,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-17T00:37:30+00:00",
-      "side": "sell",
-      "symbol": "cap",
-      "address": "FDfHJw1Zn2zBb2LfmoTpyCmqEYFT3FcrBorrDdapump",
-      "price": 6.421628159e-07,
-      "proceeds": 1.48,
-      "pnl_usd": -48.52,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-17T00:37:30+00:00",
-      "side": "sell",
-      "symbol": "$CAT",
-      "address": "6iakR9EUyXt5GW4YwQBc8X62FvC2EfqTowZFsj6npump",
-      "price": 6.871026774e-06,
-      "proceeds": 45.33,
-      "pnl_usd": -4.67,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-17T00:37:30+00:00",
       "side": "sell",
@@ -4516,6 +4495,32 @@
       "address": "5nboaBtcE9Q6gFQB7fXk1RFSjsnYoyn3hf3XqV6gpump",
       "price": 4.1150221275282024e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T01:13:40+00:00",
+      "side": "sell",
+      "symbol": "ANAKIN",
+      "address": "5nboaBtcE9Q6gFQB7fXk1RFSjsnYoyn3hf3XqV6gpump",
+      "price": 1.387747219e-05,
+      "proceeds": 15.97,
+      "pnl_usd": -34.03,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T01:13:41+00:00",
+      "side": "buy",
+      "symbol": "Simpsons",
+      "address": "QXtrCdpa6qFzH3Ka1YShGUBNncah6F8xa9FeWnYpump",
+      "price": 7.337286207584074e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T01:13:41+00:00",
+      "side": "buy",
+      "symbol": "PIVOT",
+      "address": "AKmHspkVaXC6FUak2dkZWMtFBSb3UiMa8WZzCkhEpump",
+      "price": 1.032305477876068e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7886,6 +7891,10 @@
     {
       "date": "2026-10-20T00:27:01+00:00",
       "equity": 5886193.45
+    },
+    {
+      "date": "2026-10-20T01:13:41+00:00",
+      "equity": 5886157.17
     }
   ]
 }
