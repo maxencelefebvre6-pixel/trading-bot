@@ -1,109 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5885460.506176539,
+  "cash": 5885570.240247513,
   "positions": {
-    "92PLh1FJEm2NkSfgNUeha4jgBESdu5xPT5NgAf6ypump": {
-      "symbol": "STD",
-      "qty": 5665775.381632749,
-      "entry_price": 8.736668269707369e-06,
-      "last_price": 8.420586507e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T04:39:08+00:00",
-      "missing": 0
-    },
-    "7uAhKxBZRJwwoM2sYAzs4EkmwsoYSbaQ1yJcJ7Bppump": {
-      "symbol": "GrenCAT",
-      "qty": 6533471.616478776,
-      "entry_price": 7.576370252401601e-06,
-      "last_price": 7.293737814e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T04:39:08+00:00",
-      "missing": 0
-    },
-    "xboJW5MuxL3z51cqHUvFRgihTh6uHeVbW1S669Mpump": {
-      "symbol": "ROTTAI",
-      "qty": 3846777.124413516,
-      "entry_price": 1.286791472421133e-05,
-      "last_price": 1.2400669073451819e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T05:12:51+00:00",
-      "missing": 0
-    },
     "FudbK6H6RXU2hUDrT4NT6duzjNsRtX261Z82sVmMpump": {
       "symbol": "$GRADED",
       "qty": 223450.76744969297,
       "entry_price": 0.00022152530763244876,
-      "last_price": 0.00021451790054827284,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T05:12:51+00:00",
-      "missing": 0
-    },
-    "8dtXKdPmEcTHZwzdHqgyBRA9KeVHtKmnvn4Gzof7pump": {
-      "symbol": "GENGAR",
-      "qty": 978477.0407135927,
-      "entry_price": 5.058882113769393e-05,
-      "last_price": 4.896175735023953e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T05:12:51+00:00",
-      "missing": 0
-    },
-    "EGqP6Jdf8iB9V7xVYLA7r852fd9dE2AXEiNkLBUapump": {
-      "symbol": "FLOWERS",
-      "qty": 7707534.104785654,
-      "entry_price": 6.4222875081753006e-06,
-      "last_price": 6.190083678409779e-06,
+      "last_price": 0.0002136199114,
       "cost": 50.0,
       "entry_time": "2026-10-20T05:12:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T04:23:33+00:00",
-      "side": "buy",
-      "symbol": "inumask",
-      "address": "CrtqwemFzU4ZzUT8FZ6DdpZ73JpjkSLcqVxAnXKQpump",
-      "price": 6.121250037073467e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T04:56:18+00:00",
-      "side": "sell",
-      "symbol": "Escocar",
-      "address": "AwpejFSdZ3GDcrwsJC2r7QeEd8Y6UD6Gm1vvnvmxpump",
-      "price": 8.014295865e-06,
-      "proceeds": 45.4,
-      "pnl_usd": -4.6,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-17T04:56:18+00:00",
-      "side": "sell",
-      "symbol": "CWCRAB",
-      "address": "2216cxeMuV3qrWcK5jf3c8v8CtyPw8qVfG5XrVnCpump",
-      "price": 0.08381723329,
-      "proceeds": 29.44,
-      "pnl_usd": -20.56,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-17T04:56:18+00:00",
-      "side": "sell",
-      "symbol": "inumask",
-      "address": "CrtqwemFzU4ZzUT8FZ6DdpZ73JpjkSLcqVxAnXKQpump",
-      "price": 2.96505591e-06,
-      "proceeds": 22.78,
-      "pnl_usd": -27.22,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T04:56:18+00:00",
-      "side": "buy",
-      "symbol": "Work",
-      "address": "Ekt6snNAJgEcUW8HUHLvsmRzGfZJRfynCcV2vywpump",
-      "price": 1.0884676484875214e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T05:24:55+00:00",
       "side": "sell",
@@ -4553,6 +4462,56 @@
       "address": "EGqP6Jdf8iB9V7xVYLA7r852fd9dE2AXEiNkLBUapump",
       "price": 6.4222875081753006e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T05:49:42+00:00",
+      "side": "sell",
+      "symbol": "STD",
+      "address": "92PLh1FJEm2NkSfgNUeha4jgBESdu5xPT5NgAf6ypump",
+      "price": 8.420586507e-06,
+      "proceeds": 45.48,
+      "pnl_usd": -4.52,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-20T05:49:42+00:00",
+      "side": "sell",
+      "symbol": "GrenCAT",
+      "address": "7uAhKxBZRJwwoM2sYAzs4EkmwsoYSbaQ1yJcJ7Bppump",
+      "price": 7.293737814e-06,
+      "proceeds": 45.37,
+      "pnl_usd": -4.63,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-20T05:49:42+00:00",
+      "side": "sell",
+      "symbol": "ROTTAI",
+      "address": "xboJW5MuxL3z51cqHUvFRgihTh6uHeVbW1S669Mpump",
+      "price": 3.050863416e-06,
+      "proceeds": 11.21,
+      "pnl_usd": -38.79,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T05:49:42+00:00",
+      "side": "sell",
+      "symbol": "GENGAR",
+      "address": "8dtXKdPmEcTHZwzdHqgyBRA9KeVHtKmnvn4Gzof7pump",
+      "price": 2.731626978e-06,
+      "proceeds": 2.56,
+      "pnl_usd": -47.44,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T05:49:42+00:00",
+      "side": "sell",
+      "symbol": "FLOWERS",
+      "address": "EGqP6Jdf8iB9V7xVYLA7r852fd9dE2AXEiNkLBUapump",
+      "price": 6.981769684e-07,
+      "proceeds": 5.12,
+      "pnl_usd": -44.88,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -7955,6 +7914,10 @@
     {
       "date": "2026-10-20T05:12:51+00:00",
       "equity": 5885747.12
+    },
+    {
+      "date": "2026-10-20T05:49:42+00:00",
+      "equity": 5885617.97
     }
   ]
 }
