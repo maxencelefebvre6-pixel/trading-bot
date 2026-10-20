@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5885010.907705341,
-  "positions": {
-    "4gTidDBE6oGhvrSLQizttLFdrzJZehiuBdx2aFhLpump": {
-      "symbol": "SpaceX AI",
-      "qty": 121625.59132811306,
-      "entry_price": 0.00040698671603135186,
-      "last_price": 0.00039436894509489067,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T19:02:14+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5885011.128955783,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-17T16:56:07+00:00",
-      "side": "buy",
-      "symbol": "X",
-      "address": "KMCp1Na2bKEhiJEVpXSBL7oZqJgf2zMBZ2RFRvBpump",
-      "price": 0.00040224223589546454,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T17:22:40+00:00",
       "side": "sell",
@@ -4514,6 +4496,16 @@
       "address": "4gTidDBE6oGhvrSLQizttLFdrzJZehiuBdx2aFhLpump",
       "price": 0.00040698671603135186,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T19:38:22+00:00",
+      "side": "sell",
+      "symbol": "SpaceX AI",
+      "address": "4gTidDBE6oGhvrSLQizttLFdrzJZehiuBdx2aFhLpump",
+      "price": 1.896892501e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -8000,6 +7992,10 @@
     {
       "date": "2026-10-20T19:02:14+00:00",
       "equity": 5885058.87
+    },
+    {
+      "date": "2026-10-20T19:38:22+00:00",
+      "equity": 5885011.13
     }
   ]
 }
