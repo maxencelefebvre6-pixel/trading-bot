@@ -1,108 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5884784.684427814,
+  "cash": 5884825.131169901,
   "positions": {
-    "CY1EuGtdHpWua2SF2MpLostgGfGbXPZbMKUVvnWBpump": {
-      "symbol": "LUCKY",
-      "qty": 16115529.231135897,
-      "entry_price": 3.071571481770755e-06,
-      "last_price": 2.965844578e-06,
+    "vqf7ibP7NHr5zvkKeVjnsedUvx46k5AEScEHuszpump": {
+      "symbol": "TRUMPFOLIO",
+      "qty": 1959582.4242972177,
+      "entry_price": 2.526048375727427e-05,
+      "last_price": 2.435576262246862e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-20T20:08:07+00:00",
-      "missing": 0
-    },
-    "BVvXb7pyy1dg22SCzgDwApg2Cr1q14WRDFZnSMhxpump": {
-      "symbol": "PRIVACYCOIN",
-      "qty": 1828379.5430160202,
-      "entry_price": 2.707315348669173e-05,
-      "last_price": 2.613656977243199e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T20:44:51+00:00",
-      "missing": 0
-    },
-    "722L77CRtbyHZxjuhBuV1D9WtcEcmsKuNsFhLkZQpump": {
-      "symbol": "Crawlbrain",
-      "qty": 5366909.295454162,
-      "entry_price": 9.223185501183541e-06,
-      "last_price": 8.875626339092989e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T20:44:51+00:00",
-      "missing": 0
-    },
-    "T86sUpHnjo7aBvLVJPRA87ZNGCEt7o8KJUuEyQVpump": {
-      "symbol": "MemeTok",
-      "qty": 3667588.2569957613,
-      "entry_price": 1.3496607724594209e-05,
-      "last_price": 1.300887333269467e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T20:44:51+00:00",
-      "missing": 0
-    },
-    "2yY8nKodSpaGXKcZVYJjgW1HgQRXo6ELg1WFG45Fpump": {
-      "symbol": "FrogeBot",
-      "qty": 3815027.830608096,
-      "entry_price": 1.297500364292492e-05,
-      "last_price": 1.2480038647526728e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T20:44:51+00:00",
+      "entry_time": "2026-10-20T21:15:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T18:08:19+00:00",
-      "side": "buy",
-      "symbol": "ref",
-      "address": "5NSNUwexP5WEGPXYm5JQPxcKAbM1Ru2ZKJcAbq7Cpump",
-      "price": 3.878041539387677e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T18:08:19+00:00",
-      "side": "buy",
-      "symbol": "OTTER",
-      "address": "7eDmbztLVn2YkcNo9ehQtjhjnaMaxzgwAoUs9od1pump",
-      "price": 1.3849766854270106e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T18:40:59+00:00",
-      "side": "sell",
-      "symbol": "COMMS",
-      "address": "FP37SXEMALttunPCWBkPbh8iromJVT1T8bTn73Wupump",
-      "price": 3.499439843e-06,
-      "proceeds": 12.82,
-      "pnl_usd": -37.18,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T18:40:59+00:00",
-      "side": "sell",
-      "symbol": "CONQUER",
-      "address": "48MmT725QpDMAd3J8Pku6RsaEXUDupsZJYiTgDrPpump",
-      "price": 2.997947303e-06,
-      "proceeds": 15.35,
-      "pnl_usd": -34.65,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T18:40:59+00:00",
-      "side": "sell",
-      "symbol": "ref",
-      "address": "5NSNUwexP5WEGPXYm5JQPxcKAbM1Ru2ZKJcAbq7Cpump",
-      "price": 3.225695655e-06,
-      "proceeds": 38.88,
-      "pnl_usd": -11.12,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T18:40:59+00:00",
-      "side": "buy",
-      "symbol": "bounds",
-      "address": "Z3bNCYdr4oaRHuyVbUFrcNfkiYKRpA7wW96WfZfpump",
-      "price": 3.985883201492086e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T19:07:41+00:00",
       "side": "sell",
@@ -4546,6 +4456,64 @@
       "address": "2yY8nKodSpaGXKcZVYJjgW1HgQRXo6ELg1WFG45Fpump",
       "price": 1.297500364292492e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T21:15:38+00:00",
+      "side": "sell",
+      "symbol": "LUCKY",
+      "address": "CY1EuGtdHpWua2SF2MpLostgGfGbXPZbMKUVvnWBpump",
+      "price": 2.965844578e-06,
+      "proceeds": 44.94,
+      "pnl_usd": -5.06,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-20T21:15:38+00:00",
+      "side": "sell",
+      "symbol": "PRIVACYCOIN",
+      "address": "BVvXb7pyy1dg22SCzgDwApg2Cr1q14WRDFZnSMhxpump",
+      "price": 3.33798742e-06,
+      "proceeds": 5.85,
+      "pnl_usd": -44.15,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T21:15:38+00:00",
+      "side": "sell",
+      "symbol": "Crawlbrain",
+      "address": "722L77CRtbyHZxjuhBuV1D9WtcEcmsKuNsFhLkZQpump",
+      "price": 3.108500764e-06,
+      "proceeds": 15.91,
+      "pnl_usd": -34.09,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T21:15:38+00:00",
+      "side": "sell",
+      "symbol": "MemeTok",
+      "address": "T86sUpHnjo7aBvLVJPRA87ZNGCEt7o8KJUuEyQVpump",
+      "price": 3.218730069e-06,
+      "proceeds": 11.28,
+      "pnl_usd": -38.72,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T21:15:38+00:00",
+      "side": "sell",
+      "symbol": "FrogeBot",
+      "address": "2yY8nKodSpaGXKcZVYJjgW1HgQRXo6ELg1WFG45Fpump",
+      "price": 3.422917905e-06,
+      "proceeds": 12.47,
+      "pnl_usd": -37.53,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T21:15:38+00:00",
+      "side": "buy",
+      "symbol": "TRUMPFOLIO",
+      "address": "vqf7ibP7NHr5zvkKeVjnsedUvx46k5AEScEHuszpump",
+      "price": 2.526048375727427e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8044,6 +8012,10 @@
     {
       "date": "2026-10-20T20:44:51+00:00",
       "equity": 5885023.23
+    },
+    {
+      "date": "2026-10-20T21:15:38+00:00",
+      "equity": 5884872.86
     }
   ]
 }
