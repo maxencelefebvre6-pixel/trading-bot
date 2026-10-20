@@ -1,51 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5885550.496380427,
+  "cash": 5885515.968938322,
   "positions": {
-    "271HTW947v7ytqZPHRMnxmQEFSEnaNTPPgCGWATGpump": {
-      "symbol": "PacksPad",
-      "qty": 4547478.281850811,
-      "entry_price": 1.088515369002568e-05,
-      "last_price": 1.0497425674019975e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T11:54:46+00:00",
-      "missing": 0
-    },
     "BrmhMyxU8wHyAEgVa5GQ6mzQP3bXqCzNMTg1faegpump": {
       "symbol": "GODPACK",
       "qty": 2997974.902008145,
       "entry_price": 1.6511145562573996e-05,
-      "last_price": 1.596860853115197e-05,
+      "last_price": 1.596860853e-05,
       "cost": 50.0,
       "entry_time": "2026-10-20T11:54:46+00:00",
+      "missing": 0
+    },
+    "FaREyaCY5VSPUNWkiGP5kRehhz7riMReLerp7vnrpump": {
+      "symbol": "SI",
+      "qty": 5085586.61982983,
+      "entry_price": 9.733390403181518e-06,
+      "last_price": 9.375542922477425e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T12:32:13+00:00",
+      "missing": 0
+    },
+    "59e5S4Ghxr2i2Fgh13MhVCtMkUYQGs7ms7jVxD4Spump": {
+      "symbol": "MONY",
+      "qty": 70343190.98469806,
+      "entry_price": 7.036928422932629e-07,
+      "last_price": 6.792714076701458e-07,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T12:32:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T10:06:17+00:00",
-      "side": "buy",
-      "symbol": "MOGPEPE",
-      "address": "8awaK1eoxDkVB7HkTNEiVdkMucZyWTRwu4TRLPiJpump",
-      "price": 0.00010510418236109811,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T10:06:17+00:00",
-      "side": "buy",
-      "symbol": "AI",
-      "address": "DR3DLkViQrnc2DkVJFYxkoo3yv65VZuhR3jc2DNjpump",
-      "price": 1.3763275896415059e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T10:06:17+00:00",
-      "side": "buy",
-      "symbol": "$CEOCAT",
-      "address": "4ZZV8uTyjovtzTQckWfcbuorf8pzpMaWVEKoVm7ipump",
-      "price": 1.0753749229475273e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T10:36:44+00:00",
       "side": "sell",
@@ -4519,6 +4504,32 @@
       "address": "BrmhMyxU8wHyAEgVa5GQ6mzQP3bXqCzNMTg1faegpump",
       "price": 1.6511145562573996e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T12:32:13+00:00",
+      "side": "sell",
+      "symbol": "PacksPad",
+      "address": "271HTW947v7ytqZPHRMnxmQEFSEnaNTPPgCGWATGpump",
+      "price": 1.543685377e-05,
+      "proceeds": 65.47,
+      "pnl_usd": 15.47,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-20T12:32:13+00:00",
+      "side": "buy",
+      "symbol": "SI",
+      "address": "FaREyaCY5VSPUNWkiGP5kRehhz7riMReLerp7vnrpump",
+      "price": 9.733390403181518e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T12:32:13+00:00",
+      "side": "buy",
+      "symbol": "MONY",
+      "address": "59e5S4Ghxr2i2Fgh13MhVCtMkUYQGs7ms7jVxD4Spump",
+      "price": 7.036928422932629e-07,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7961,6 +7972,10 @@
     {
       "date": "2026-10-20T11:54:46+00:00",
       "equity": 5885646.11
+    },
+    {
+      "date": "2026-10-20T12:32:13+00:00",
+      "equity": 5885659.3
     }
   ]
 }
