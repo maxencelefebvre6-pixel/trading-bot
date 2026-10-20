@@ -1,66 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5885430.904749426,
-  "positions": {
-    "4Cxsue4e5ZNcQmfei5xF3CbeGUfgSZ27JpX3674Spump": {
-      "symbol": "OCLO",
-      "qty": 5314607.579291244,
-      "entry_price": 9.313952020254583e-06,
-      "last_price": 8.961649979623475e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T14:03:04+00:00",
-      "missing": 0
-    },
-    "8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump": {
-      "symbol": "FREN",
-      "qty": 3385850.9158718106,
-      "entry_price": 1.4619663189527771e-05,
-      "last_price": 1.4100400983576552e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T14:03:04+00:00",
-      "missing": 0
-    },
-    "ESixdFXb7rpDNGMnEHFNjmaAaJw634Ekga19VWu9pump": {
-      "symbol": "ElonCar",
-      "qty": 16835843.511288725,
-      "entry_price": 2.9401556249206873e-06,
-      "last_price": 2.847036041960312e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T14:03:04+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5885464.770586922,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-17T11:31:38+00:00",
-      "side": "sell",
-      "symbol": "$CEOCAT",
-      "address": "4ZZV8uTyjovtzTQckWfcbuorf8pzpMaWVEKoVm7ipump",
-      "price": 1.037841347e-05,
-      "proceeds": 45.6,
-      "pnl_usd": -4.4,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-17T11:31:38+00:00",
-      "side": "sell",
-      "symbol": "Mr.Teddy",
-      "address": "H2tMQrgQim3KNsztzxsLZjfNCxC8Wfk5993K5ucpump",
-      "price": 5.142551397e-06,
-      "proceeds": 28.5,
-      "pnl_usd": -21.5,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T11:58:14+00:00",
-      "side": "sell",
-      "symbol": "unsuitablecat",
-      "address": "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump",
-      "price": 6.831832863e-06,
-      "proceeds": 45.3,
-      "pnl_usd": -4.7,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-17T12:31:52+00:00",
       "side": "buy",
@@ -4530,6 +4472,36 @@
       "address": "ESixdFXb7rpDNGMnEHFNjmaAaJw634Ekga19VWu9pump",
       "price": 2.9401556249206873e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T14:39:29+00:00",
+      "side": "sell",
+      "symbol": "OCLO",
+      "address": "4Cxsue4e5ZNcQmfei5xF3CbeGUfgSZ27JpX3674Spump",
+      "price": 3.163707162e-06,
+      "proceeds": 16.03,
+      "pnl_usd": -33.97,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T14:39:29+00:00",
+      "side": "sell",
+      "symbol": "FREN",
+      "address": "8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump",
+      "price": 3.906769735e-06,
+      "proceeds": 12.64,
+      "pnl_usd": -37.36,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T14:39:29+00:00",
+      "side": "sell",
+      "symbol": "ElonCar",
+      "address": "ESixdFXb7rpDNGMnEHFNjmaAaJw634Ekga19VWu9pump",
+      "price": 3.291709454e-07,
+      "proceeds": 5.2,
+      "pnl_usd": -44.8,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -7984,6 +7956,10 @@
     {
       "date": "2026-10-20T14:03:04+00:00",
       "equity": 5885574.21
+    },
+    {
+      "date": "2026-10-20T14:39:29+00:00",
+      "equity": 5885464.77
     }
   ]
 }
