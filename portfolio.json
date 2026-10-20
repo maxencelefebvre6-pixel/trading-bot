@@ -1,60 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5885314.770586922,
+  "cash": 5885295.472513805,
   "positions": {
     "BKMA2XL1LjjPmhRDvdgoimAKXqKbgJcs6TTw1h4rpump": {
       "symbol": "EVILMARIO",
       "qty": 6936562.390805071,
       "entry_price": 7.136099585237772e-06,
-      "last_price": 6.891117744312225e-06,
+      "last_price": 6.891117744e-06,
       "cost": 50.0,
       "entry_time": "2026-10-20T15:16:41+00:00",
       "missing": 0
     },
-    "CQ2Zd5g5yXiN31vp5RQgZ51Te33LPxWbpmS9ADXnpump": {
-      "symbol": "JUICE",
-      "qty": 224603950.5829726,
-      "entry_price": 2.203879311629198e-07,
-      "last_price": 2.126718722991483e-07,
+    "GwQeGpdncu6q4VaVKGj1UdNVE13M45QB6obDKxpBpump": {
+      "symbol": "kitty",
+      "qty": 5592828.935481673,
+      "entry_price": 8.850619350426619e-06,
+      "last_price": 8.517910667329899e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-20T15:16:41+00:00",
-      "missing": 0
-    },
-    "Hg1hBup2MwTym88dkFYGhtnfoKAsJBemNwUTnvFXpump": {
-      "symbol": "TOAD",
-      "qty": 11742123.051777903,
-      "entry_price": 4.215591999992292e-06,
-      "last_price": 4.077825661931287e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T15:16:41+00:00",
+      "entry_time": "2026-10-20T15:55:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T14:05:28+00:00",
-      "side": "buy",
-      "symbol": "Jackie",
-      "address": "9veUQnrE6DiawJLFcjvoqfVvGAqDtDEyDFwh1Biupump",
-      "price": 8.341335008837884e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T14:05:28+00:00",
-      "side": "buy",
-      "symbol": "$LA BEAST",
-      "address": "DXaCzoACk1vqe6uaE3y5YWxopBSUw8RjnA2ZQSCupump",
-      "price": 1.1535332943531844e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T14:05:28+00:00",
-      "side": "buy",
-      "symbol": "$DODO",
-      "address": "fMRGZVf6Z4FswFdkmfvc6DZFseS11Wxh8q8GXJdpump",
-      "price": 1.1485859673934713e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T14:34:12+00:00",
       "side": "sell",
@@ -4528,6 +4495,34 @@
       "address": "Hg1hBup2MwTym88dkFYGhtnfoKAsJBemNwUTnvFXpump",
       "price": 4.215591999992292e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T15:55:51+00:00",
+      "side": "sell",
+      "symbol": "JUICE",
+      "address": "CQ2Zd5g5yXiN31vp5RQgZ51Te33LPxWbpmS9ADXnpump",
+      "price": 2.080380648e-07,
+      "proceeds": 30.61,
+      "pnl_usd": -19.39,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T15:55:51+00:00",
+      "side": "sell",
+      "symbol": "TOAD",
+      "address": "Hg1hBup2MwTym88dkFYGhtnfoKAsJBemNwUTnvFXpump",
+      "price": 8.514213673e-09,
+      "proceeds": 0.1,
+      "pnl_usd": -49.9,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-20T15:55:51+00:00",
+      "side": "buy",
+      "symbol": "kitty",
+      "address": "GwQeGpdncu6q4VaVKGj1UdNVE13M45QB6obDKxpBpump",
+      "price": 8.850619350426619e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7990,6 +7985,10 @@
     {
       "date": "2026-10-20T15:16:41+00:00",
       "equity": 5885458.22
+    },
+    {
+      "date": "2026-10-20T15:55:51+00:00",
+      "equity": 5885390.91
     }
   ]
 }
