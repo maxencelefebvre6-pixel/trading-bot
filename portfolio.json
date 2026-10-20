@@ -1,42 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5886026.665992621,
+  "cash": 5886014.399954895,
   "positions": {
-    "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump": {
-      "symbol": "DUST",
-      "qty": 769384.329513256,
-      "entry_price": 6.43371564784998e-05,
-      "last_price": 6.231393194874737e-05,
+    "G4qDJywq4tYNSnewuUZPwhRUXxP3sSobaaBmbq45pump": {
+      "symbol": "JEF",
+      "qty": 5407010.362234245,
+      "entry_price": 9.154781789533316e-06,
+      "last_price": 8.806623895048932e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-20T01:51:12+00:00",
+      "entry_time": "2026-10-20T02:18:55+00:00",
+      "missing": 0
+    },
+    "8XD3wNrKE8U55fz6Pw2nBfe2WiwwQS5KbsmSsvFZpump": {
+      "symbol": "PAID",
+      "qty": 947837.2648931574,
+      "entry_price": 5.222415475042518e-05,
+      "last_price": 5.056597312202603e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T02:18:55+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T01:15:36+00:00",
-      "side": "buy",
-      "symbol": "TOAD",
-      "address": "99stfK1eCJkAFkh3CNg8N39yerXoTHtXrSXsut9qpump",
-      "price": 6.721668864013929e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T01:49:16+00:00",
-      "side": "buy",
-      "symbol": "Lacy",
-      "address": "HZUbWmuc2FgRNSFyRbUsc1AM1maEU9WcnJ4PRccSpump",
-      "price": 4.525184075814922e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T01:49:16+00:00",
-      "side": "buy",
-      "symbol": "pwf",
-      "address": "3STQfPiqZGaHMZvY4KVuSZummz872ZBD9xj6ShDWpump",
-      "price": 8.758991798822645e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T01:49:16+00:00",
       "side": "buy",
@@ -4512,6 +4497,32 @@
       "address": "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump",
       "price": 6.43371564784998e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T02:18:55+00:00",
+      "side": "sell",
+      "symbol": "DUST",
+      "address": "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump",
+      "price": 0.0001194086898,
+      "proceeds": 87.73,
+      "pnl_usd": 37.73,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-20T02:18:55+00:00",
+      "side": "buy",
+      "symbol": "JEF",
+      "address": "G4qDJywq4tYNSnewuUZPwhRUXxP3sSobaaBmbq45pump",
+      "price": 9.154781789533316e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T02:18:55+00:00",
+      "side": "buy",
+      "symbol": "PAID",
+      "address": "8XD3wNrKE8U55fz6Pw2nBfe2WiwwQS5KbsmSsvFZpump",
+      "price": 5.222415475042518e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7890,6 +7901,10 @@
     {
       "date": "2026-10-20T01:51:12+00:00",
       "equity": 5886074.61
+    },
+    {
+      "date": "2026-10-20T02:18:55+00:00",
+      "equity": 5886109.95
     }
   ]
 }
