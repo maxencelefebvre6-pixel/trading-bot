@@ -1,56 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5885778.574188723,
-  "positions": {},
+  "cash": 5885528.574188723,
+  "positions": {
+    "9oLTvECE27DjSqbvN5NVbasmAuKwWQaDaQVyvLeepump": {
+      "symbol": "Bien",
+      "qty": 587932.415455275,
+      "entry_price": 8.419335062801202e-05,
+      "last_price": 8.162919331656163e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T04:39:08+00:00",
+      "missing": 0
+    },
+    "7xTMgacureYyKpaQZwP6LHR1tywEaBjAYfj9zidipump": {
+      "symbol": "FORKIUS",
+      "qty": 4529196.842478213,
+      "entry_price": 1.0929090017848593e-05,
+      "last_price": 1.0522155322518582e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T04:39:08+00:00",
+      "missing": 0
+    },
+    "FCntrQazv9rX8BoG272JWWBMQUThPSNT6UQyxHhxpump": {
+      "symbol": "CRAWLPEPE",
+      "qty": 822869.215283272,
+      "entry_price": 6.015536743947782e-05,
+      "last_price": 5.822604729464426e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T04:39:08+00:00",
+      "missing": 0
+    },
+    "92PLh1FJEm2NkSfgNUeha4jgBESdu5xPT5NgAf6ypump": {
+      "symbol": "STD",
+      "qty": 5665775.381632749,
+      "entry_price": 8.736668269707369e-06,
+      "last_price": 8.42058650739772e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T04:39:08+00:00",
+      "missing": 0
+    },
+    "7uAhKxBZRJwwoM2sYAzs4EkmwsoYSbaQ1yJcJ7Bppump": {
+      "symbol": "GrenCAT",
+      "qty": 6533471.616478776,
+      "entry_price": 7.576370252401601e-06,
+      "last_price": 7.293737813678731e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-20T04:39:08+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-17T03:19:29+00:00",
-      "side": "sell",
-      "symbol": "si",
-      "address": "3kRf4w4dEJiqAVpAuByDRBEvu5JXxKSWDSjqwX3Npump",
-      "price": 1.56773535e-05,
-      "proceeds": 51.65,
-      "pnl_usd": 1.65,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-17T03:19:29+00:00",
-      "side": "sell",
-      "symbol": "100kboob?",
-      "address": "4yYBkgXSsYCeYzP3JDXpwVMP8ZNAapy8QbaRnekVpump",
-      "price": 3.794768834e-05,
-      "proceeds": 85.02,
-      "pnl_usd": 35.02,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-17T03:19:29+00:00",
-      "side": "sell",
-      "symbol": "HYPECHAN",
-      "address": "7cF6oqKSxR1gtNm7J642dLUa5BeSZ2Pz6CBzDYKvpump",
-      "price": 6.824910525e-06,
-      "proceeds": 32.93,
-      "pnl_usd": -17.07,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T03:19:29+00:00",
-      "side": "buy",
-      "symbol": "iPhone Duo",
-      "address": "E7pTEkDQFeodkFKtRnafQxvrZ8GQwc1Rk6La2ZzCpump",
-      "price": 0.0004179548598670382,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T03:54:58+00:00",
-      "side": "sell",
-      "symbol": "INUX",
-      "address": "kqm38ANmpjqrx82KnaXBXoMzA4RsC8ReLKXbV8Epump",
-      "price": 1.165476327e-05,
-      "proceeds": 45.66,
-      "pnl_usd": -4.34,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-17T03:54:58+00:00",
       "side": "sell",
@@ -4506,6 +4504,46 @@
       "proceeds": 24.02,
       "pnl_usd": -25.98,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T04:39:08+00:00",
+      "side": "buy",
+      "symbol": "Bien",
+      "address": "9oLTvECE27DjSqbvN5NVbasmAuKwWQaDaQVyvLeepump",
+      "price": 8.419335062801202e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T04:39:08+00:00",
+      "side": "buy",
+      "symbol": "FORKIUS",
+      "address": "7xTMgacureYyKpaQZwP6LHR1tywEaBjAYfj9zidipump",
+      "price": 1.0929090017848593e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T04:39:08+00:00",
+      "side": "buy",
+      "symbol": "CRAWLPEPE",
+      "address": "FCntrQazv9rX8BoG272JWWBMQUThPSNT6UQyxHhxpump",
+      "price": 6.015536743947782e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T04:39:08+00:00",
+      "side": "buy",
+      "symbol": "STD",
+      "address": "92PLh1FJEm2NkSfgNUeha4jgBESdu5xPT5NgAf6ypump",
+      "price": 8.736668269707369e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T04:39:08+00:00",
+      "side": "buy",
+      "symbol": "GrenCAT",
+      "address": "7uAhKxBZRJwwoM2sYAzs4EkmwsoYSbaQ1yJcJ7Bppump",
+      "price": 7.576370252401601e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -7900,6 +7938,10 @@
     {
       "date": "2026-10-20T04:06:32+00:00",
       "equity": 5885778.57
+    },
+    {
+      "date": "2026-10-20T04:39:08+00:00",
+      "equity": 5885767.5
     }
   ]
 }
