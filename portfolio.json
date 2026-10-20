@@ -1,62 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5885515.968938322,
-  "positions": {
-    "BrmhMyxU8wHyAEgVa5GQ6mzQP3bXqCzNMTg1faegpump": {
-      "symbol": "GODPACK",
-      "qty": 2997974.902008145,
-      "entry_price": 1.6511145562573996e-05,
-      "last_price": 1.596860853e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T11:54:46+00:00",
-      "missing": 0
-    },
-    "FaREyaCY5VSPUNWkiGP5kRehhz7riMReLerp7vnrpump": {
-      "symbol": "SI",
-      "qty": 5085586.61982983,
-      "entry_price": 9.733390403181518e-06,
-      "last_price": 9.375542922477425e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T12:32:13+00:00",
-      "missing": 0
-    },
-    "59e5S4Ghxr2i2Fgh13MhVCtMkUYQGs7ms7jVxD4Spump": {
-      "symbol": "MONY",
-      "qty": 70343190.98469806,
-      "entry_price": 7.036928422932629e-07,
-      "last_price": 6.792714076701458e-07,
-      "cost": 50.0,
-      "entry_time": "2026-10-20T12:32:13+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5885580.904749426,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-17T10:36:44+00:00",
-      "side": "sell",
-      "symbol": "MOGPEPE",
-      "address": "8awaK1eoxDkVB7HkTNEiVdkMucZyWTRwu4TRLPiJpump",
-      "price": 2.207519005e-06,
-      "proceeds": 1.0,
-      "pnl_usd": -49.0,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T10:36:44+00:00",
-      "side": "buy",
-      "symbol": "TESLA SI",
-      "address": "5bHFygxBZ775KMtQ2PLCbeo8Z9U8Wc1K7FU7AvWNpump",
-      "price": 0.00040973038638263863,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T10:36:44+00:00",
-      "side": "buy",
-      "symbol": "unsuitablecat",
-      "address": "3YapcTP3atCakvvR2sLDjymk8wT6pWiAZ9qw93QHpump",
-      "price": 7.102493183996675e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T11:02:50+00:00",
       "side": "sell",
@@ -4530,6 +4476,36 @@
       "address": "59e5S4Ghxr2i2Fgh13MhVCtMkUYQGs7ms7jVxD4Spump",
       "price": 7.036928422932629e-07,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-20T13:19:34+00:00",
+      "side": "sell",
+      "symbol": "GODPACK",
+      "address": "BrmhMyxU8wHyAEgVa5GQ6mzQP3bXqCzNMTg1faegpump",
+      "price": 1.596860853e-05,
+      "proceeds": 45.79,
+      "pnl_usd": -4.21,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-20T13:19:34+00:00",
+      "side": "sell",
+      "symbol": "SI",
+      "address": "FaREyaCY5VSPUNWkiGP5kRehhz7riMReLerp7vnrpump",
+      "price": 3.033096988e-06,
+      "proceeds": 14.71,
+      "pnl_usd": -35.29,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-20T13:19:34+00:00",
+      "side": "sell",
+      "symbol": "MONY",
+      "address": "59e5S4Ghxr2i2Fgh13MhVCtMkUYQGs7ms7jVxD4Spump",
+      "price": 7.256726313e-08,
+      "proceeds": 4.43,
+      "pnl_usd": -45.57,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -7976,6 +7952,10 @@
     {
       "date": "2026-10-20T12:32:13+00:00",
       "equity": 5885659.3
+    },
+    {
+      "date": "2026-10-20T13:19:35+00:00",
+      "equity": 5885580.9
     }
   ]
 }
