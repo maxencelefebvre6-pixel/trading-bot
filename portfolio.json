@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5884745.631345463,
-  "positions": {
-    "H93XNFJEYyx6ym6P4CgGcD1JnsCvwQDLfniXvB8ipump": {
-      "symbol": "ORANGIE",
-      "qty": 570978.5535489544,
-      "entry_price": 8.669327366558607e-05,
-      "last_price": 8.405498558769378e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T01:05:58+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5884773.501013347,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-17T22:41:14+00:00",
-      "side": "sell",
-      "symbol": "Osaka",
-      "address": "EvWyX8d8a7pmTcXSJ3ccd1hcxoqUsdH2jmFhSiZUpump",
-      "price": 2.855285852e-09,
-      "proceeds": 0.02,
-      "pnl_usd": -49.98,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-17T22:41:14+00:00",
       "side": "buy",
@@ -4512,6 +4492,16 @@
       "address": "H93XNFJEYyx6ym6P4CgGcD1JnsCvwQDLfniXvB8ipump",
       "price": 8.669327366558607e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T01:42:26+00:00",
+      "side": "sell",
+      "symbol": "ORANGIE",
+      "address": "H93XNFJEYyx6ym6P4CgGcD1JnsCvwQDLfniXvB8ipump",
+      "price": 9.860678481e-05,
+      "proceeds": 27.87,
+      "pnl_usd": -22.13,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -8042,6 +8032,10 @@
     {
       "date": "2026-10-21T01:05:58+00:00",
       "equity": 5884793.62
+    },
+    {
+      "date": "2026-10-21T01:42:26+00:00",
+      "equity": 5884773.5
     }
   ]
 }
