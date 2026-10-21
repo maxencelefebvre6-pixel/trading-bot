@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5883701.592788524,
+  "cash": 5883592.03720244,
   "positions": {
-    "E3Wk7QpFy9EgFwZpy9Pg4VUSLfBVi7sQkUURaZDRpump": {
-      "symbol": "Kimchi",
-      "qty": 575578.3496085454,
-      "entry_price": 8.600045507907875e-05,
-      "last_price": 8.338320907102435e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T11:44:54+00:00",
-      "missing": 0
-    },
-    "95CGiNb3EVXYNApDqkqVbdMpkCxYm9rEtjADVQ6Cpump": {
-      "symbol": "GAME",
-      "qty": 5043786.890072931,
-      "entry_price": 9.81405461389037e-06,
-      "last_price": 9.445661927981868e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T11:44:54+00:00",
-      "missing": 0
-    },
     "GnBETonXRuMcM1C82zami7tRb3VGqnrHkhAhrwnspump": {
       "symbol": "LEONIDA",
       "qty": 5374641.449036389,
       "entry_price": 9.20991669293117e-06,
-      "last_price": 8.879585561996865e-06,
+      "last_price": 8.879585562e-06,
       "cost": 50.0,
       "entry_time": "2026-10-21T11:44:54+00:00",
       "missing": 0
@@ -33,7 +15,7 @@
       "symbol": "s",
       "qty": 5467475.081264781,
       "entry_price": 9.05353920489186e-06,
-      "last_price": 8.728200394181987e-06,
+      "last_price": 8.728200394e-06,
       "cost": 50.0,
       "entry_time": "2026-10-21T11:44:54+00:00",
       "missing": 0
@@ -42,57 +24,40 @@
       "symbol": "SOOTS",
       "qty": 6684753.100667593,
       "entry_price": 7.40491073560466e-06,
-      "last_price": 7.127015837228109e-06,
+      "last_price": 7.127015837e-06,
       "cost": 50.0,
       "entry_time": "2026-10-21T11:44:54+00:00",
+      "missing": 0
+    },
+    "8fzCqyujdPqURi5g76a8FRpZM51KZ2wDe8gC59ySpump": {
+      "symbol": "DACITY",
+      "qty": 129345.98736190857,
+      "entry_price": 0.00038269451576800425,
+      "last_price": 0.00037117072259868015,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T12:16:39+00:00",
+      "missing": 0
+    },
+    "EQEgAAPJXJ5mzECJs8PbtLXXY1CY2RCmMiDWzumJpump": {
+      "symbol": "MNY",
+      "qty": 3937755.3357497053,
+      "entry_price": 1.257061340266732e-05,
+      "last_price": 1.2142910576551537e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T12:16:39+00:00",
+      "missing": 0
+    },
+    "95poUrPx49k4TUZy52XKhHwsgqiyRxkkdM2cT9cTpump": {
+      "symbol": "GucioKrup",
+      "qty": 16919954.98731853,
+      "entry_price": 2.925539697776982e-06,
+      "last_price": 2.818351502142375e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T12:16:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T11:45:13+00:00",
-      "side": "sell",
-      "symbol": "Tortue",
-      "address": "AqBCimXtiNJhKDe4GDGLgmUM9DjhtK3zUnC3cd79pump",
-      "price": 9.040667148e-06,
-      "proceeds": 2.63,
-      "pnl_usd": -47.37,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-18T11:45:13+00:00",
-      "side": "sell",
-      "symbol": "Mbappe",
-      "address": "9kpvxC1nFbZNhVk4r6iC4DWJSBPQiwY1boiYpyiHpump",
-      "price": 3.100346083e-06,
-      "proceeds": 16.92,
-      "pnl_usd": -33.08,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T11:45:13+00:00",
-      "side": "buy",
-      "symbol": "Mercedes",
-      "address": "xk5FevmpacHLXxB7CHFtikQBXaitcmBsZ8wtDT1pump",
-      "price": 0.00035289563355574,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T11:45:13+00:00",
-      "side": "buy",
-      "symbol": "LPL",
-      "address": "33o4Lhq89uJoRGCAFco48XjeFhqbWJoi9KHzxrnwpump",
-      "price": 4.0237260657240666e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T11:45:13+00:00",
-      "side": "buy",
-      "symbol": "income",
-      "address": "8mu2kNxtAWJT1HP5dGPGdrJSBoUZV5bJTZ6dFZGBpump",
-      "price": 1.910989520629116e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T12:06:30+00:00",
       "side": "sell",
@@ -4546,6 +4511,50 @@
       "address": "9GsdkMpQkKuJhwriGEYSGh8hxPVVwkEBCJuwdDYspump",
       "price": 7.40491073560466e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T12:16:39+00:00",
+      "side": "sell",
+      "symbol": "Kimchi",
+      "address": "E3Wk7QpFy9EgFwZpy9Pg4VUSLfBVi7sQkUURaZDRpump",
+      "price": 9.042379248e-05,
+      "proceeds": 25.76,
+      "pnl_usd": -24.24,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T12:16:39+00:00",
+      "side": "sell",
+      "symbol": "GAME",
+      "address": "95CGiNb3EVXYNApDqkqVbdMpkCxYm9rEtjADVQ6Cpump",
+      "price": 3.051206098e-06,
+      "proceeds": 14.68,
+      "pnl_usd": -35.32,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T12:16:39+00:00",
+      "side": "buy",
+      "symbol": "DACITY",
+      "address": "8fzCqyujdPqURi5g76a8FRpZM51KZ2wDe8gC59ySpump",
+      "price": 0.00038269451576800425,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T12:16:39+00:00",
+      "side": "buy",
+      "symbol": "MNY",
+      "address": "EQEgAAPJXJ5mzECJs8PbtLXXY1CY2RCmMiDWzumJpump",
+      "price": 1.257061340266732e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T12:16:39+00:00",
+      "side": "buy",
+      "symbol": "GucioKrup",
+      "address": "95poUrPx49k4TUZy52XKhHwsgqiyRxkkdM2cT9cTpump",
+      "price": 2.925539697776982e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8140,6 +8149,10 @@
     {
       "date": "2026-10-21T11:44:54+00:00",
       "equity": 5883940.32
+    },
+    {
+      "date": "2026-10-21T12:16:39+00:00",
+      "equity": 5883878.64
     }
   ]
 }
