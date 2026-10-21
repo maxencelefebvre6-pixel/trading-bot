@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883478.071544079,
+  "cash": 5883479.123506413,
   "positions": {
-    "7XSZL8cxhBcfqgMYE6zt4mKmTBFunvEBV7udj71Wpump": {
-      "symbol": "FLYINGCAR",
-      "qty": 4515003.21775886,
-      "entry_price": 1.0963447336050983e-05,
-      "last_price": 1.057069906e-05,
+    "5M2mJsuPAtYeV7g3Az6Qn5XzDhH1yeWYq5ck2wXNpump": {
+      "symbol": "MoMo",
+      "qty": 14580234.02324681,
+      "entry_price": 3.395007235211514e-06,
+      "last_price": 3.2824077673935735e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-21T18:05:13+00:00",
-      "missing": 0
-    },
-    "BETNBNe5BYrih6s656tpqKZzZfH3xpRhDQZcZ1K5pump": {
-      "symbol": "KIMCHIBULL",
-      "qty": 79555.03559455724,
-      "entry_price": 0.0006222107705698336,
-      "last_price": 0.0006036414578930671,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T18:43:48+00:00",
-      "missing": 0
-    },
-    "w2sNbiKnp76c7k4PnVFLfiYpHwa2JsE3CYJTF8Apump": {
-      "symbol": "GIF",
-      "qty": 2081457.3891555145,
-      "entry_price": 2.378141405050961e-05,
-      "last_price": 2.2952455136450995e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T18:43:48+00:00",
+      "entry_time": "2026-10-21T19:21:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T16:31:43+00:00",
-      "side": "buy",
-      "symbol": "LIBERLAND",
-      "address": "Ggpb6AL4D9xa7cd72m3F2y6nwzZFxLxjjrGj2eYRpump",
-      "price": 8.397008806733638e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T16:31:43+00:00",
-      "side": "buy",
-      "symbol": "DOGESTER",
-      "address": "8RpybikpGLbKsYJ4FXz12ExDz89R7VXAUZ3JXNcKpump",
-      "price": 5.978095460058244e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T17:01:07+00:00",
-      "side": "sell",
-      "symbol": "LIBERLAND",
-      "address": "Ggpb6AL4D9xa7cd72m3F2y6nwzZFxLxjjrGj2eYRpump",
-      "price": 2.93112179e-06,
-      "proceeds": 16.46,
-      "pnl_usd": -33.54,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T17:01:07+00:00",
-      "side": "sell",
-      "symbol": "DOGESTER",
-      "address": "8RpybikpGLbKsYJ4FXz12ExDz89R7VXAUZ3JXNcKpump",
-      "price": 6.645149437e-05,
-      "proceeds": 52.57,
-      "pnl_usd": 2.57,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-18T17:01:07+00:00",
       "side": "buy",
@@ -4528,6 +4474,44 @@
       "address": "w2sNbiKnp76c7k4PnVFLfiYpHwa2JsE3CYJTF8Apump",
       "price": 2.378141405050961e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T19:21:21+00:00",
+      "side": "sell",
+      "symbol": "FLYINGCAR",
+      "address": "7XSZL8cxhBcfqgMYE6zt4mKmTBFunvEBV7udj71Wpump",
+      "price": 1.057069906e-05,
+      "proceeds": 45.51,
+      "pnl_usd": -4.49,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-21T19:21:21+00:00",
+      "side": "sell",
+      "symbol": "KIMCHIBULL",
+      "address": "BETNBNe5BYrih6s656tpqKZzZfH3xpRhDQZcZ1K5pump",
+      "price": 1.942407412e-06,
+      "proceeds": 0.15,
+      "pnl_usd": -49.85,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T19:21:21+00:00",
+      "side": "sell",
+      "symbol": "GIF",
+      "address": "w2sNbiKnp76c7k4PnVFLfiYpHwa2JsE3CYJTF8Apump",
+      "price": 2.70885886e-06,
+      "proceeds": 5.39,
+      "pnl_usd": -44.61,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T19:21:21+00:00",
+      "side": "buy",
+      "symbol": "MoMo",
+      "address": "5M2mJsuPAtYeV7g3Az6Qn5XzDhH1yeWYq5ck2wXNpump",
+      "price": 3.395007235211514e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8162,6 +8146,10 @@
     {
       "date": "2026-10-21T18:43:48+00:00",
       "equity": 5883621.6
+    },
+    {
+      "date": "2026-10-21T19:21:21+00:00",
+      "equity": 5883526.98
     }
   ]
 }
