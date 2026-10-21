@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5884005.41803297,
+  "cash": 5883905.41803297,
   "positions": {
     "GFRb2GtDHm7GJ512SgBycuXpjKThf18haFVsdmtmpump": {
       "symbol": "Psi",
       "qty": 4906132.277684261,
       "entry_price": 1.0089414063528766e-05,
-      "last_price": 9.734205829693516e-06,
+      "last_price": 9.73420583e-06,
       "cost": 50.0,
       "entry_time": "2026-10-21T10:31:32+00:00",
+      "missing": 0
+    },
+    "2B2o663NCtfs8uhk8K7fdtSEKdH1f9PWYRbu6ZGopump": {
+      "symbol": "KIMCHINU",
+      "qty": 217621.47398687928,
+      "entry_price": 0.00022745917070198885,
+      "last_price": 0.00022055955098706113,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T11:08:44+00:00",
+      "missing": 0
+    },
+    "6QuY1RdbemGvwvkP1BWrCtUz6LKcDesJqaCazfGppump": {
+      "symbol": "MrBeast",
+      "qty": 108543.01166365358,
+      "entry_price": 0.00045604041422203726,
+      "last_price": 0.0004423697424182698,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T11:08:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T08:56:26+00:00",
-      "side": "buy",
-      "symbol": "VCHICK",
-      "address": "nLFWwusYNdMHarcXcxHDBMcqimYe3cC8J1niqKjpump",
-      "price": 0.00011694289273788558,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T08:56:26+00:00",
-      "side": "buy",
-      "symbol": "$DODO",
-      "address": "8Mk68ezEi7SQZvbmMHcTb9pN6vV2kE2qMBm1Uj1Ppump",
-      "price": 6.8153276735039004e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T09:25:06+00:00",
       "side": "sell",
@@ -4512,6 +4514,22 @@
       "address": "GFRb2GtDHm7GJ512SgBycuXpjKThf18haFVsdmtmpump",
       "price": 1.0089414063528766e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T11:08:44+00:00",
+      "side": "buy",
+      "symbol": "KIMCHINU",
+      "address": "2B2o663NCtfs8uhk8K7fdtSEKdH1f9PWYRbu6ZGopump",
+      "price": 0.00022745917070198885,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T11:08:44+00:00",
+      "side": "buy",
+      "symbol": "MrBeast",
+      "address": "6QuY1RdbemGvwvkP1BWrCtUz6LKcDesJqaCazfGppump",
+      "price": 0.00045604041422203726,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8098,6 +8116,10 @@
     {
       "date": "2026-10-21T10:31:32+00:00",
       "equity": 5884053.18
+    },
+    {
+      "date": "2026-10-21T11:08:44+00:00",
+      "equity": 5884049.19
     }
   ]
 }
