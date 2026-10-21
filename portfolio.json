@@ -1,98 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5883120.411559646,
+  "cash": 5882965.444600801,
   "positions": {
-    "3PxnEkomSAmKLypFncb4Zkrz3oH1MPpjaLxXmFMMpump": {
-      "symbol": "FIL-PHP",
-      "qty": 1484669.6294057693,
-      "entry_price": 3.334075070951111e-05,
-      "last_price": 3.2258722755257886e-05,
+    "FRpQVJSpmNV84vbRS9PY16KgDotkPTXN9aFpXsRzpump": {
+      "symbol": "CYBER",
+      "qty": 576450.0118067408,
+      "entry_price": 8.587041198048453e-05,
+      "last_price": 8.325774058565985e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T22:11:55+00:00",
+      "entry_time": "2026-10-21T22:48:38+00:00",
       "missing": 0
     },
-    "8ctEhkaBHYEMYG6aWEC6BbW83y6HvHSqabJHoh3Zpump": {
-      "symbol": "Americinu",
-      "qty": 6038857.784654111,
-      "entry_price": 8.196914344594924e-06,
-      "last_price": 7.884427386091559e-06,
+    "8eRWpNme7R3qgsJJfpqkryptd1VYtmvbyytyX7VZpump": {
+      "symbol": "XCOIN",
+      "qty": 1463110.7962172853,
+      "entry_price": 3.383202429233445e-05,
+      "last_price": 3.267033981631069e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T22:11:55+00:00",
+      "entry_time": "2026-10-21T22:48:38+00:00",
       "missing": 0
     },
-    "H8BHkfnQxPWKrrJR4tYinzEyBQmNG9Hs9kwqLkz5pump": {
-      "symbol": "AIB",
-      "qty": 5065778.8969434835,
-      "entry_price": 9.771448973003263e-06,
-      "last_price": 9.417604049689249e-06,
+    "21qjavef4eWJNTGHVDr4Xw3T9eeXVxvUXuAq7D5Qpump": {
+      "symbol": "ISAAC",
+      "qty": 2615151.406133425,
+      "entry_price": 1.8928158378863097e-05,
+      "last_price": 1.8257552097670354e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T22:11:55+00:00",
+      "entry_time": "2026-10-21T22:48:38+00:00",
+      "missing": 0
+    },
+    "CbEhmWfzCXfmo2hUncFJ3Ux1Bt6Xuudz45wHqmgSpump": {
+      "symbol": "XTERMINAL",
+      "qty": 3879415.329851877,
+      "entry_price": 1.2759654687937215e-05,
+      "last_price": 1.2304976591613648e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T22:48:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T19:19:13+00:00",
-      "side": "buy",
-      "symbol": "CHIMP",
-      "address": "GZU1oXzgUdRdJuV7JULf7BwP4T6VyQZj6PpauBpJpump",
-      "price": 9.684197521019766e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T19:44:16+00:00",
-      "side": "sell",
-      "symbol": "DOLL",
-      "address": "7LUNKLomgtHX24aLzCRKCcPCUbWSML3ybQMfMCbZpump",
-      "price": 3.434557904e-06,
-      "proceeds": 5.47,
-      "pnl_usd": -44.53,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T20:04:23+00:00",
-      "side": "buy",
-      "symbol": "W8GTA",
-      "address": "5hTqsmmes4XSR8xvWv7RAeEDpf82N8gLwdQtSoNypump",
-      "price": 1.059109409824751e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T20:34:21+00:00",
-      "side": "sell",
-      "symbol": "CHIMP",
-      "address": "GZU1oXzgUdRdJuV7JULf7BwP4T6VyQZj6PpauBpJpump",
-      "price": 9.338747338e-06,
-      "proceeds": 45.52,
-      "pnl_usd": -4.48,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T20:34:21+00:00",
-      "side": "sell",
-      "symbol": "W8GTA",
-      "address": "5hTqsmmes4XSR8xvWv7RAeEDpf82N8gLwdQtSoNypump",
-      "price": 2.822414519e-06,
-      "proceeds": 12.59,
-      "pnl_usd": -37.41,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T20:34:21+00:00",
-      "side": "buy",
-      "symbol": "AVENGERS",
-      "address": "HrXd7X69aXZt8sx3tMdTYjeqKZmFHgCNcqi24bvKpump",
-      "price": 1.9539813046515256e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T20:34:21+00:00",
-      "side": "buy",
-      "symbol": "LEYS",
-      "address": "2vDXPJeoJT5VWMghJ12feP1CVqzCDsf9GyNnzca4pump",
-      "price": 3.907900536573361e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T20:34:21+00:00",
       "side": "buy",
@@ -4528,6 +4475,68 @@
       "address": "H8BHkfnQxPWKrrJR4tYinzEyBQmNG9Hs9kwqLkz5pump",
       "price": 9.771448973003263e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T22:48:38+00:00",
+      "side": "sell",
+      "symbol": "FIL-PHP",
+      "address": "3PxnEkomSAmKLypFncb4Zkrz3oH1MPpjaLxXmFMMpump",
+      "price": 7.357931718e-06,
+      "proceeds": 10.46,
+      "pnl_usd": -39.54,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T22:48:38+00:00",
+      "side": "sell",
+      "symbol": "Americinu",
+      "address": "8ctEhkaBHYEMYG6aWEC6BbW83y6HvHSqabJHoh3Zpump",
+      "price": 3.056738297e-06,
+      "proceeds": 17.59,
+      "pnl_usd": -32.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T22:48:38+00:00",
+      "side": "sell",
+      "symbol": "AIB",
+      "address": "H8BHkfnQxPWKrrJR4tYinzEyBQmNG9Hs9kwqLkz5pump",
+      "price": 3.517314945e-06,
+      "proceeds": 16.99,
+      "pnl_usd": -33.01,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T22:48:38+00:00",
+      "side": "buy",
+      "symbol": "CYBER",
+      "address": "FRpQVJSpmNV84vbRS9PY16KgDotkPTXN9aFpXsRzpump",
+      "price": 8.587041198048453e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T22:48:38+00:00",
+      "side": "buy",
+      "symbol": "XCOIN",
+      "address": "8eRWpNme7R3qgsJJfpqkryptd1VYtmvbyytyX7VZpump",
+      "price": 3.383202429233445e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T22:48:38+00:00",
+      "side": "buy",
+      "symbol": "ISAAC",
+      "address": "21qjavef4eWJNTGHVDr4Xw3T9eeXVxvUXuAq7D5Qpump",
+      "price": 1.8928158378863097e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T22:48:38+00:00",
+      "side": "buy",
+      "symbol": "XTERMINAL",
+      "address": "CbEhmWfzCXfmo2hUncFJ3Ux1Bt6Xuudz45wHqmgSpump",
+      "price": 1.2759654687937215e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8186,6 +8195,10 @@
     {
       "date": "2026-10-21T22:11:55+00:00",
       "equity": 5883263.63
+    },
+    {
+      "date": "2026-10-21T22:48:38+00:00",
+      "equity": 5883156.72
     }
   ]
 }
