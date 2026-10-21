@@ -1,62 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5884623.501013347,
+  "cash": 5884584.374804705,
   "positions": {
-    "D5KYFyaixD1PYJuvz8Te3yiLurKRHvKYfGdbPmeqpump": {
-      "symbol": "Rockstar",
-      "qty": 106894.3876184154,
-      "entry_price": 0.0004630738909951181,
-      "last_price": 0.000449185874694649,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T02:53:09+00:00",
-      "missing": 0
-    },
-    "6HeyMsrcTAQrJxVguddfwiNDoM65iPq7xksW3X4pump": {
-      "symbol": "SYLPH",
-      "qty": 3652241.4659866537,
-      "entry_price": 1.3553320737687744e-05,
-      "last_price": 1.3061246879703806e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T02:53:09+00:00",
-      "missing": 0
-    },
     "B5pdGJAYieajFgJk2eyS1sLAQ84vHeSswjspRG6Xpump": {
       "symbol": "7",
       "qty": 1486915.5997970721,
       "entry_price": 3.329038985585702e-05,
-      "last_price": 3.2229002846489957e-05,
+      "last_price": 3.226127012e-05,
       "cost": 50.0,
       "entry_time": "2026-10-21T02:53:09+00:00",
+      "missing": 0
+    },
+    "5pKmKgexqYRBwjjwv5AAyEZznYzEtjGmKem2LzQUpump": {
+      "symbol": "GORKPEPED",
+      "qty": 14195189.420946086,
+      "entry_price": 3.487096827814004e-06,
+      "last_price": 3.35746940588168e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T03:24:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-17T23:02:18+00:00",
-      "side": "sell",
-      "symbol": "MrBeast",
-      "address": "83XQi4mAZJvsTivzvczgUK895JRmwhfLj9KfbCcmpump",
-      "price": 1.972717006e-06,
-      "proceeds": 1.67,
-      "pnl_usd": -48.33,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-17T23:02:18+00:00",
-      "side": "buy",
-      "symbol": "$DODO",
-      "address": "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump",
-      "price": 1.3122361981592222e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T23:27:57+00:00",
-      "side": "buy",
-      "symbol": "COMAN",
-      "address": "9xh9Ji35euqzbgoXKALWyg3jVppqtk4WnkAK5Lugpump",
-      "price": 3.606898545321519e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-17T23:27:57+00:00",
       "side": "buy",
@@ -4528,6 +4493,34 @@
       "address": "B5pdGJAYieajFgJk2eyS1sLAQ84vHeSswjspRG6Xpump",
       "price": 3.329038985585702e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T03:24:33+00:00",
+      "side": "sell",
+      "symbol": "Rockstar",
+      "address": "D5KYFyaixD1PYJuvz8Te3yiLurKRHvKYfGdbPmeqpump",
+      "price": 1.948861273e-06,
+      "proceeds": 0.2,
+      "pnl_usd": -49.8,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T03:24:33+00:00",
+      "side": "sell",
+      "symbol": "SYLPH",
+      "address": "6HeyMsrcTAQrJxVguddfwiNDoM65iPq7xksW3X4pump",
+      "price": 3.057908724e-06,
+      "proceeds": 10.67,
+      "pnl_usd": -39.33,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T03:24:34+00:00",
+      "side": "buy",
+      "symbol": "GORKPEPED",
+      "address": "5pKmKgexqYRBwjjwv5AAyEZznYzEtjGmKem2LzQUpump",
+      "price": 3.487096827814004e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8066,6 +8059,10 @@
     {
       "date": "2026-10-21T02:53:09+00:00",
       "equity": 5884767.14
+    },
+    {
+      "date": "2026-10-21T03:24:34+00:00",
+      "equity": 5884680.0
     }
   ]
 }
