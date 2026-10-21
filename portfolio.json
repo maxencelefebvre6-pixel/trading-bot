@@ -1,52 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883479.123506413,
+  "cash": 5883342.148555519,
   "positions": {
-    "5M2mJsuPAtYeV7g3Az6Qn5XzDhH1yeWYq5ck2wXNpump": {
-      "symbol": "MoMo",
-      "qty": 14580234.02324681,
-      "entry_price": 3.395007235211514e-06,
-      "last_price": 3.2824077673935735e-06,
+    "E42YS3NEuXSkfC1XQy8DbpSKTr63Epe7VoGZrtnXpump": {
+      "symbol": "4",
+      "qty": 569497.486356691,
+      "entry_price": 8.691873306881791e-05,
+      "last_price": 8.427505692607433e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T19:21:21+00:00",
+      "entry_time": "2026-10-21T19:56:56+00:00",
+      "missing": 0
+    },
+    "5bcPnmXCRRd3evp7UbcVMtqhsmcEf5Wv3FmSut9Upump": {
+      "symbol": "69x",
+      "qty": 3880648.70188649,
+      "entry_price": 1.2755599334703163e-05,
+      "last_price": 1.2288240130680375e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T19:56:56+00:00",
+      "missing": 0
+    },
+    "CQ8bas8SJhHAaMYtNgEspNDKiE34YvuNvKQ8tvvTpump": {
+      "symbol": "undr",
+      "qty": 1771337.0123139734,
+      "entry_price": 2.7944992768674792e-05,
+      "last_price": 2.7069438338395005e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T19:56:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T17:01:07+00:00",
-      "side": "buy",
-      "symbol": "Rockstar",
-      "address": "oHRDEFLbPDg9QLe2a8zPDiQaS9yE1DKgJyztSN6pump",
-      "price": 0.0003936907217034462,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T17:01:07+00:00",
-      "side": "buy",
-      "symbol": "RON",
-      "address": "2WN2RXXv8N1ZLux9MM6NtJh5xgMnZAKj2pkYcrY9pump",
-      "price": 6.973589310968174e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T17:01:07+00:00",
-      "side": "buy",
-      "symbol": "baguette",
-      "address": "9BUyfPvFAr1GDSVaf8AB9sjSytDaqbGEeF6y6G2Apump",
-      "price": 1.128443442901343e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T17:29:05+00:00",
-      "side": "sell",
-      "symbol": "LEGENDS",
-      "address": "2Qp2cvCdQLKWTD7ZzMUVHU8sUzAhG5L8zVqtuYWvpump",
-      "price": 1.446542479e-05,
-      "proceeds": 45.76,
-      "pnl_usd": -4.24,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-18T17:29:05+00:00",
       "side": "sell",
@@ -4512,6 +4496,40 @@
       "address": "5M2mJsuPAtYeV7g3Az6Qn5XzDhH1yeWYq5ck2wXNpump",
       "price": 3.395007235211514e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T19:56:56+00:00",
+      "side": "sell",
+      "symbol": "MoMo",
+      "address": "5M2mJsuPAtYeV7g3Az6Qn5XzDhH1yeWYq5ck2wXNpump",
+      "price": 9.577304913e-07,
+      "proceeds": 13.03,
+      "pnl_usd": -36.97,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T19:56:56+00:00",
+      "side": "buy",
+      "symbol": "4",
+      "address": "E42YS3NEuXSkfC1XQy8DbpSKTr63Epe7VoGZrtnXpump",
+      "price": 8.691873306881791e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T19:56:56+00:00",
+      "side": "buy",
+      "symbol": "69x",
+      "address": "5bcPnmXCRRd3evp7UbcVMtqhsmcEf5Wv3FmSut9Upump",
+      "price": 1.2755599334703163e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T19:56:56+00:00",
+      "side": "buy",
+      "symbol": "undr",
+      "address": "CQ8bas8SJhHAaMYtNgEspNDKiE34YvuNvKQ8tvvTpump",
+      "price": 2.7944992768674792e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8150,6 +8168,10 @@
     {
       "date": "2026-10-21T19:21:21+00:00",
       "equity": 5883526.98
+    },
+    {
+      "date": "2026-10-21T19:56:56+00:00",
+      "equity": 5883485.78
     }
   ]
 }
