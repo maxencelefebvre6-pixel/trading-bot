@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883887.052191989,
+  "cash": 5884005.41803297,
   "positions": {
-    "2xwrvtVuuiEgKubaPKR86tKN15i2S5HZniJKyN6upump": {
-      "symbol": "DANIELLA",
-      "qty": 2401476.6126179816,
-      "entry_price": 2.061231816288118e-05,
-      "last_price": 1.9879773878549534e-05,
+    "GFRb2GtDHm7GJ512SgBycuXpjKThf18haFVsdmtmpump": {
+      "symbol": "Psi",
+      "qty": 4906132.277684261,
+      "entry_price": 1.0089414063528766e-05,
+      "last_price": 9.734205829693516e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-21T09:55:41+00:00",
-      "missing": 0
-    },
-    "47jtdAbscdtjr5wkWw54kYaAZMBCxe4EWsWE8zegpump": {
-      "symbol": "Kimchi",
-      "qty": 1025512.7614979657,
-      "entry_price": 4.82685363443897e-05,
-      "last_price": 4.672562596026985e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T09:55:41+00:00",
-      "missing": 0
-    },
-    "3Qaj6N7abGsmHrkJSqbz8cU5aNY3u5VgH81XdJxQpump": {
-      "symbol": "fg",
-      "qty": 2304025.3675834774,
-      "entry_price": 2.1484138454567845e-05,
-      "last_price": 2.0742280917496095e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T09:55:41+00:00",
+      "entry_time": "2026-10-21T10:31:32+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T08:24:11+00:00",
-      "side": "sell",
-      "symbol": "RAIN",
-      "address": "91yebhbFBEP9XCuyAnW6GePnXC7nKrZAGn77LcgVpump",
-      "price": 1.147860307e-05,
-      "proceeds": 13.99,
-      "pnl_usd": -36.01,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T08:24:11+00:00",
-      "side": "buy",
-      "symbol": "MemeTrash",
-      "address": "9uTQMiL97gaXtGT8dUr9gP3PThF3VBxKCcDd6kEFpump",
-      "price": 5.438925965505118e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T08:56:25+00:00",
-      "side": "sell",
-      "symbol": "MemeTrash",
-      "address": "9uTQMiL97gaXtGT8dUr9gP3PThF3VBxKCcDd6kEFpump",
-      "price": 4.611191225e-08,
-      "proceeds": 0.4,
-      "pnl_usd": -49.6,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-18T08:56:26+00:00",
-      "side": "buy",
-      "symbol": "GRNDWF",
-      "address": "5NWpZpuV417GsbjUDjXrCZEHSCJfg8UNM35CnaVBpump",
-      "price": 0.026308037903661423,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T08:56:26+00:00",
       "side": "buy",
@@ -4528,6 +4474,44 @@
       "address": "3Qaj6N7abGsmHrkJSqbz8cU5aNY3u5VgH81XdJxQpump",
       "price": 2.1484138454567845e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T10:31:32+00:00",
+      "side": "sell",
+      "symbol": "DANIELLA",
+      "address": "2xwrvtVuuiEgKubaPKR86tKN15i2S5HZniJKyN6upump",
+      "price": 1.122196089e-05,
+      "proceeds": 25.64,
+      "pnl_usd": -24.36,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T10:31:32+00:00",
+      "side": "sell",
+      "symbol": "Kimchi",
+      "address": "47jtdAbscdtjr5wkWw54kYaAZMBCxe4EWsWE8zegpump",
+      "price": 4.064300837e-05,
+      "proceeds": 38.02,
+      "pnl_usd": -11.98,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T10:31:32+00:00",
+      "side": "sell",
+      "symbol": "fg",
+      "address": "3Qaj6N7abGsmHrkJSqbz8cU5aNY3u5VgH81XdJxQpump",
+      "price": 4.747117715e-05,
+      "proceeds": 104.71,
+      "pnl_usd": 54.71,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-21T10:31:32+00:00",
+      "side": "buy",
+      "symbol": "Psi",
+      "address": "GFRb2GtDHm7GJ512SgBycuXpjKThf18haFVsdmtmpump",
+      "price": 1.0089414063528766e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8110,6 +8094,10 @@
     {
       "date": "2026-10-21T09:55:41+00:00",
       "equity": 5884030.5
+    },
+    {
+      "date": "2026-10-21T10:31:32+00:00",
+      "equity": 5884053.18
     }
   ]
 }
