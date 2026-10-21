@@ -1,74 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883508.449081549,
+  "cash": 5883578.071544079,
   "positions": {
-    "CnBntmvyzW8zV2gYnjmjnCCTWkft5vAUMtwitzK9pump": {
-      "symbol": "MrBeast",
-      "qty": 120664.53344901696,
-      "entry_price": 0.00041022824673593654,
-      "last_price": 0.00039791287743625944,
+    "7XSZL8cxhBcfqgMYE6zt4mKmTBFunvEBV7udj71Wpump": {
+      "symbol": "FLYINGCAR",
+      "qty": 4515003.21775886,
+      "entry_price": 1.0963447336050983e-05,
+      "last_price": 1.0570699064179767e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T17:30:57+00:00",
-      "missing": 0
-    },
-    "CKPa1s4LRraAtxSLdbEDEzQvCBdjcaY1qdeUAc6Apump": {
-      "symbol": "TESLA SI",
-      "qty": 111132.48440628797,
-      "entry_price": 0.0004454143202543148,
-      "last_price": 0.0004320572644020552,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T17:30:57+00:00",
-      "missing": 0
-    },
-    "Azi7XWpBcyvHCqu6CDaUVTmmEnKzDXXFSTxyM5iUpump": {
-      "symbol": "Darkwoods",
-      "qty": 2585235.969019786,
-      "entry_price": 1.9147188339162843e-05,
-      "last_price": 1.852793615412791e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T17:30:57+00:00",
+      "entry_time": "2026-10-21T18:05:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T15:35:18+00:00",
-      "side": "sell",
-      "symbol": "$MFRG",
-      "address": "EDVjuvcWhhdDWVhsMnc6YdR1fu5F5guXpFQTDE74pump",
-      "price": 8.429480158e-06,
-      "proceeds": 45.47,
-      "pnl_usd": -4.53,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T15:35:18+00:00",
-      "side": "sell",
-      "symbol": "thrust",
-      "address": "AHFJWY6CHeLbDuzq8Wn5cCpooQarKgZfEVJxqZRNpump",
-      "price": 9.924885392e-05,
-      "proceeds": 57.3,
-      "pnl_usd": 7.3,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-18T16:01:18+00:00",
-      "side": "sell",
-      "symbol": "cock",
-      "address": "2wp8mu2HQrZNbKsNjnY8fgqedRQTjW6wFs29sNVEpump",
-      "price": 8.916434706e-06,
-      "proceeds": 45.51,
-      "pnl_usd": -4.49,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T16:01:18+00:00",
-      "side": "buy",
-      "symbol": "Kaida",
-      "address": "vJYdx96314re8TdTecteyDYPH48RhrLJ3MGnJFQpump",
-      "price": 8.75805507397489e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T16:01:18+00:00",
       "side": "buy",
@@ -4530,6 +4474,44 @@
       "address": "Azi7XWpBcyvHCqu6CDaUVTmmEnKzDXXFSTxyM5iUpump",
       "price": 1.9147188339162843e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T18:05:13+00:00",
+      "side": "sell",
+      "symbol": "MrBeast",
+      "address": "CnBntmvyzW8zV2gYnjmjnCCTWkft5vAUMtwitzK9pump",
+      "price": 0.0008281431586,
+      "proceeds": 95.71,
+      "pnl_usd": 45.71,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-21T18:05:13+00:00",
+      "side": "sell",
+      "symbol": "TESLA SI",
+      "address": "CKPa1s4LRraAtxSLdbEDEzQvCBdjcaY1qdeUAc6Apump",
+      "price": 1.930925724e-06,
+      "proceeds": 0.21,
+      "pnl_usd": -49.79,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T18:05:13+00:00",
+      "side": "sell",
+      "symbol": "Darkwoods",
+      "address": "Azi7XWpBcyvHCqu6CDaUVTmmEnKzDXXFSTxyM5iUpump",
+      "price": 1.852793615e-05,
+      "proceeds": 23.71,
+      "pnl_usd": -26.29,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T18:05:13+00:00",
+      "side": "buy",
+      "symbol": "FLYINGCAR",
+      "address": "7XSZL8cxhBcfqgMYE6zt4mKmTBFunvEBV7udj71Wpump",
+      "price": 1.0963447336050983e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8156,6 +8138,10 @@
     {
       "date": "2026-10-21T17:30:57+00:00",
       "equity": 5883652.38
+    },
+    {
+      "date": "2026-10-21T18:05:13+00:00",
+      "equity": 5883625.8
     }
   ]
 }
