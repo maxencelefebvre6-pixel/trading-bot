@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5884043.658013563,
+  "cash": 5883893.658013563,
   "positions": {
     "2KfENzRdyrUJhjveznJxcJZAtZkqSVUQHcrLW1dtpump": {
       "symbol": "trench",
@@ -55,39 +55,36 @@
       "cost": 50.0,
       "entry_time": "2026-10-21T06:19:52+00:00",
       "missing": 0
+    },
+    "DT9qd38djBGgjHJy3g3SLPCwdZE4mLetzaxh6mhHpump": {
+      "symbol": "Vinky",
+      "qty": 5759930.6616056925,
+      "entry_price": 8.59385345208321e-06,
+      "last_price": 8.26661834871791e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T07:15:04+00:00",
+      "missing": 0
+    },
+    "9HTgFXrGjHbd4h4AZqijRc4AyUNrYvP53G1xmwospump": {
+      "symbol": "$F5",
+      "qty": 1958354.162267299,
+      "entry_price": 2.527632690436903e-05,
+      "last_price": 2.447718176521774e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T07:15:04+00:00",
+      "missing": 0
+    },
+    "A5ZBEFy6iK1s7wm2QpoV2hNwjKSSVmkKUU4tXuQvpump": {
+      "symbol": "SOOTS",
+      "qty": 1784703.382445109,
+      "entry_price": 2.7735701342249482e-05,
+      "last_price": 2.680719509960149e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T07:15:04+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T04:11:18+00:00",
-      "side": "sell",
-      "symbol": "$MFRG",
-      "address": "FpQWtsc6LygKn2cfbBauySoKboLvyagqQoCJ7Z1Hpump",
-      "price": 2.279715295e-05,
-      "proceeds": 45.89,
-      "pnl_usd": -4.11,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T04:11:18+00:00",
-      "side": "sell",
-      "symbol": "Cutecoin",
-      "address": "ANsn9nGMrYfWTe3tVKd5uZJL4UKLTp1xwRJ1byAEpump",
-      "price": 3.268076469e-06,
-      "proceeds": 7.21,
-      "pnl_usd": -42.79,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T04:11:18+00:00",
-      "side": "sell",
-      "symbol": "CUTE",
-      "address": "5WhnBrHocdMKGGpTeseYKg4KrWFp3xykKNNN4cUDpump",
-      "price": 2.941224887e-06,
-      "proceeds": 11.35,
-      "pnl_usd": -38.65,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-18T04:11:18+00:00",
       "side": "buy",
@@ -4555,6 +4552,30 @@
       "address": "2EMwYvLjqdSFsY6yEcLT8B49KybtWQTBYnxoofKZpump",
       "price": 5.088398361696671e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T07:15:04+00:00",
+      "side": "buy",
+      "symbol": "Vinky",
+      "address": "DT9qd38djBGgjHJy3g3SLPCwdZE4mLetzaxh6mhHpump",
+      "price": 8.59385345208321e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T07:15:04+00:00",
+      "side": "buy",
+      "symbol": "$F5",
+      "address": "9HTgFXrGjHbd4h4AZqijRc4AyUNrYvP53G1xmwospump",
+      "price": 2.527632690436903e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T07:15:04+00:00",
+      "side": "buy",
+      "symbol": "SOOTS",
+      "address": "A5ZBEFy6iK1s7wm2QpoV2hNwjKSSVmkKUU4tXuQvpump",
+      "price": 2.7735701342249482e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8117,6 +8138,10 @@
     {
       "date": "2026-10-21T06:19:52+00:00",
       "equity": 5884330.57
+    },
+    {
+      "date": "2026-10-21T07:15:04+00:00",
+      "equity": 5884323.96
     }
   ]
 }
