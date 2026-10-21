@@ -1,74 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5884480.317240708,
+  "cash": 5884402.469462809,
   "positions": {
-    "7dJHACMdiMGGgYvJqmwtJxz2U9HHS9g3Yp1GGz4Rpump": {
-      "symbol": "APPLECAT",
-      "qty": 5699396.957844687,
-      "entry_price": 8.685129385814736e-06,
-      "last_price": 8.357372482614614e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T04:03:02+00:00",
-      "missing": 0
-    },
-    "CZzmPGr356opUwy5wBqo1oarhJcBqBNJj2aVuJ6kpump": {
-      "symbol": "TOAD",
-      "qty": 2027323.5003838292,
-      "entry_price": 2.4416428848493227e-05,
-      "last_price": 2.354073294185842e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T04:03:02+00:00",
-      "missing": 0
-    },
     "2u7SV8njPMnK2GXPWe8RdFzf1Hd67tSp9Xc7f4Uepump": {
       "symbol": "CUPID",
       "qty": 3722610.417202868,
       "entry_price": 1.3297120690161771e-05,
-      "last_price": 1.2848081781354744e-05,
+      "last_price": 1.284808178e-05,
       "cost": 50.0,
       "entry_time": "2026-10-21T04:03:02+00:00",
+      "missing": 0
+    },
+    "8WU4e7F1enqBviq5nTRc6ESiLwd4YBpeF75hihQzpump": {
+      "symbol": "Kimchi",
+      "qty": 3816452.5903016385,
+      "entry_price": 1.2970159809082733e-05,
+      "last_price": 1.2500455535677783e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T04:37:07+00:00",
+      "missing": 0
+    },
+    "Hdbf1BzdkJYpuABqWyjMggHTyRixrs1qM7WJt5w3pump": {
+      "symbol": "Mask",
+      "qty": 883291.1323311423,
+      "entry_price": 5.6040413164074024e-05,
+      "last_price": 5.4261194773683646e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T04:37:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T00:19:47+00:00",
-      "side": "sell",
-      "symbol": "$DODO",
-      "address": "2mNi8GfNpqyXkcVn5ohB14J8UKzPUk2fKvQxhnKPpump",
-      "price": 1.269822243e-05,
-      "proceeds": 45.77,
-      "pnl_usd": -4.23,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T00:19:47+00:00",
-      "side": "sell",
-      "symbol": "SWDRUM",
-      "address": "C1r4fUMqX4hNsfJT17tMvtrp1Fxnc41jyiSNWq6Spump",
-      "price": 6.786044649e-08,
-      "proceeds": 0.1,
-      "pnl_usd": -49.9,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-18T00:19:47+00:00",
-      "side": "sell",
-      "symbol": "ALT",
-      "address": "3sPNxiMjC2J5hmHVdSNMpqmtkdc6g3mstF9KnUKdpump",
-      "price": 6.710762872e-06,
-      "proceeds": 20.43,
-      "pnl_usd": -29.57,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T00:19:48+00:00",
-      "side": "buy",
-      "symbol": "Poolkid",
-      "address": "5Ltw3xSi1934JuT3dkQmM3hj73v3TTgruWWBMoPjpump",
-      "price": 0.05842646542123352,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T01:05:31+00:00",
       "side": "sell",
@@ -4530,6 +4492,42 @@
       "address": "2u7SV8njPMnK2GXPWe8RdFzf1Hd67tSp9Xc7f4Uepump",
       "price": 1.3297120690161771e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T04:37:06+00:00",
+      "side": "sell",
+      "symbol": "APPLECAT",
+      "address": "7dJHACMdiMGGgYvJqmwtJxz2U9HHS9g3Yp1GGz4Rpump",
+      "price": 3.315066933e-06,
+      "proceeds": 18.0,
+      "pnl_usd": -32.0,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T04:37:06+00:00",
+      "side": "sell",
+      "symbol": "TOAD",
+      "address": "CZzmPGr356opUwy5wBqo1oarhJcBqBNJj2aVuJ6kpump",
+      "price": 2.137434236e-06,
+      "proceeds": 4.15,
+      "pnl_usd": -45.85,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T04:37:07+00:00",
+      "side": "buy",
+      "symbol": "Kimchi",
+      "address": "8WU4e7F1enqBviq5nTRc6ESiLwd4YBpeF75hihQzpump",
+      "price": 1.2970159809082733e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T04:37:07+00:00",
+      "side": "buy",
+      "symbol": "Mask",
+      "address": "Hdbf1BzdkJYpuABqWyjMggHTyRixrs1qM7WJt5w3pump",
+      "price": 5.6040413164074024e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8076,6 +8074,10 @@
     {
       "date": "2026-10-21T04:03:02+00:00",
       "equity": 5884623.5
+    },
+    {
+      "date": "2026-10-21T04:37:07+00:00",
+      "equity": 5884545.93
     }
   ]
 }
