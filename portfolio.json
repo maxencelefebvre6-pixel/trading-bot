@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883683.38413796,
+  "cash": 5883800.42322444,
   "positions": {
-    "EQEgAAPJXJ5mzECJs8PbtLXXY1CY2RCmMiDWzumJpump": {
-      "symbol": "MNY",
-      "qty": 3937755.3357497053,
-      "entry_price": 1.257061340266732e-05,
-      "last_price": 1.214291058e-05,
+    "E3QXSxBvGQ5yRLvkrx3ThrPTQs4axF1cXL6D4LeGpump": {
+      "symbol": "PUMP",
+      "qty": 2180247.7837619456,
+      "entry_price": 2.270384144805293e-05,
+      "last_price": 2.1974213096311633e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T12:16:39+00:00",
-      "missing": 0
-    },
-    "HnztF9Qkz7zVBaa8nAtL7VxFXm2LBAax3TLERdirpump": {
-      "symbol": "Grok",
-      "qty": 129025.8643730474,
-      "entry_price": 0.000383644009986111,
-      "last_price": 0.00037211489956327516,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T13:10:56+00:00",
+      "entry_time": "2026-10-21T13:54:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T12:43:03+00:00",
-      "side": "sell",
-      "symbol": "Gemini",
-      "address": "BSdWXH3dXxBgEErMxvvuUbDMFtVpAAMnN1apQGBypump",
-      "price": 1.937438022e-06,
-      "proceeds": 0.24,
-      "pnl_usd": -49.76,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-18T12:43:03+00:00",
-      "side": "buy",
-      "symbol": "HITLER",
-      "address": "9m3qixeEzeFjrFyTmKNqZFWWwMuY7RTGH3nJGBQSpump",
-      "price": 1.202432945105062e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T12:43:03+00:00",
-      "side": "buy",
-      "symbol": "MEGA",
-      "address": "8dATxRTextAcaGxtWWUoTVApruNXtNS3Y74uD4Jzpump",
-      "price": 5.42620260916443e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T12:43:03+00:00",
       "side": "buy",
@@ -4521,6 +4486,34 @@
       "address": "HnztF9Qkz7zVBaa8nAtL7VxFXm2LBAax3TLERdirpump",
       "price": 0.000383644009986111,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T13:54:11+00:00",
+      "side": "sell",
+      "symbol": "MNY",
+      "address": "EQEgAAPJXJ5mzECJs8PbtLXXY1CY2RCmMiDWzumJpump",
+      "price": 1.214291058e-05,
+      "proceeds": 45.68,
+      "pnl_usd": -4.32,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-21T13:54:11+00:00",
+      "side": "sell",
+      "symbol": "Grok",
+      "address": "HnztF9Qkz7zVBaa8nAtL7VxFXm2LBAax3TLERdirpump",
+      "price": 0.0009824739981,
+      "proceeds": 121.36,
+      "pnl_usd": 71.36,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-21T13:54:11+00:00",
+      "side": "buy",
+      "symbol": "PUMP",
+      "address": "E3QXSxBvGQ5yRLvkrx3ThrPTQs4axF1cXL6D4LeGpump",
+      "price": 2.270384144805293e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8123,6 +8116,10 @@
     {
       "date": "2026-10-21T13:10:56+00:00",
       "equity": 5883779.21
+    },
+    {
+      "date": "2026-10-21T13:54:11+00:00",
+      "equity": 5883848.33
     }
   ]
 }
