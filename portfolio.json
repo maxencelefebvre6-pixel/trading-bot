@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5884773.501013347,
-  "positions": {},
+  "cash": 5884623.501013347,
+  "positions": {
+    "D5KYFyaixD1PYJuvz8Te3yiLurKRHvKYfGdbPmeqpump": {
+      "symbol": "Rockstar",
+      "qty": 106894.3876184154,
+      "entry_price": 0.0004630738909951181,
+      "last_price": 0.000449185874694649,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T02:53:09+00:00",
+      "missing": 0
+    },
+    "6HeyMsrcTAQrJxVguddfwiNDoM65iPq7xksW3X4pump": {
+      "symbol": "SYLPH",
+      "qty": 3652241.4659866537,
+      "entry_price": 1.3553320737687744e-05,
+      "last_price": 1.3061246879703806e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T02:53:09+00:00",
+      "missing": 0
+    },
+    "B5pdGJAYieajFgJk2eyS1sLAQ84vHeSswjspRG6Xpump": {
+      "symbol": "7",
+      "qty": 1486915.5997970721,
+      "entry_price": 3.329038985585702e-05,
+      "last_price": 3.2229002846489957e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T02:53:09+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-17T22:41:14+00:00",
-      "side": "buy",
-      "symbol": "anir",
-      "address": "Abw5GpgLXnMabe2UpZkFNaDeCed3rALQVmQXi9Gupump",
-      "price": 1.2642574437024937e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T22:41:14+00:00",
-      "side": "buy",
-      "symbol": "MrBeast",
-      "address": "83XQi4mAZJvsTivzvczgUK895JRmwhfLj9KfbCcmpump",
-      "price": 5.601984938885159e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-17T23:02:18+00:00",
-      "side": "sell",
-      "symbol": "anir",
-      "address": "Abw5GpgLXnMabe2UpZkFNaDeCed3rALQVmQXi9Gupump",
-      "price": 2.96659603e-06,
-      "proceeds": 11.12,
-      "pnl_usd": -38.88,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-17T23:02:18+00:00",
       "side": "sell",
@@ -4502,6 +4504,30 @@
       "proceeds": 27.87,
       "pnl_usd": -22.13,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T02:53:09+00:00",
+      "side": "buy",
+      "symbol": "Rockstar",
+      "address": "D5KYFyaixD1PYJuvz8Te3yiLurKRHvKYfGdbPmeqpump",
+      "price": 0.0004630738909951181,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T02:53:09+00:00",
+      "side": "buy",
+      "symbol": "SYLPH",
+      "address": "6HeyMsrcTAQrJxVguddfwiNDoM65iPq7xksW3X4pump",
+      "price": 1.3553320737687744e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T02:53:09+00:00",
+      "side": "buy",
+      "symbol": "7",
+      "address": "B5pdGJAYieajFgJk2eyS1sLAQ84vHeSswjspRG6Xpump",
+      "price": 3.329038985585702e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8036,6 +8062,10 @@
     {
       "date": "2026-10-21T01:42:26+00:00",
       "equity": 5884773.5
+    },
+    {
+      "date": "2026-10-21T02:53:09+00:00",
+      "equity": 5884767.14
     }
   ]
 }
