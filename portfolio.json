@@ -1,90 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883808.877568324,
+  "cash": 5883887.052191989,
   "positions": {
-    "sYpshzrvUvkFRo8QsY11DqvXLhHZXMY1f61B12hpump": {
-      "symbol": "$AURA",
-      "qty": 6528646.74997509,
-      "entry_price": 7.581969418116988e-06,
-      "last_price": 7.307786078e-06,
+    "2xwrvtVuuiEgKubaPKR86tKN15i2S5HZniJKyN6upump": {
+      "symbol": "DANIELLA",
+      "qty": 2401476.6126179816,
+      "entry_price": 2.061231816288118e-05,
+      "last_price": 1.9879773878549534e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T08:38:01+00:00",
+      "entry_time": "2026-10-21T09:55:41+00:00",
       "missing": 0
     },
-    "HYEaTLu4iKUN6FrRiF3GoLsPcZzMg6BoDP7Spqitpump": {
-      "symbol": "PHP2SHELL",
-      "qty": 569952.2169184233,
-      "entry_price": 8.684938584436612e-05,
-      "last_price": 8.420715373096316e-05,
+    "47jtdAbscdtjr5wkWw54kYaAZMBCxe4EWsWE8zegpump": {
+      "symbol": "Kimchi",
+      "qty": 1025512.7614979657,
+      "entry_price": 4.82685363443897e-05,
+      "last_price": 4.672562596026985e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T09:16:09+00:00",
+      "entry_time": "2026-10-21T09:55:41+00:00",
       "missing": 0
     },
-    "2rQGYUo94Tp15EwiQGQ5c9G7By8AvpyXXjBwVkW2pump": {
-      "symbol": "SpaceX",
-      "qty": 128400.06487110714,
-      "entry_price": 0.00038551382391971515,
-      "last_price": 0.00037392778445055586,
+    "3Qaj6N7abGsmHrkJSqbz8cU5aNY3u5VgH81XdJxQpump": {
+      "symbol": "fg",
+      "qty": 2304025.3675834774,
+      "entry_price": 2.1484138454567845e-05,
+      "last_price": 2.0742280917496095e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T09:16:09+00:00",
+      "entry_time": "2026-10-21T09:55:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T07:55:36+00:00",
-      "side": "sell",
-      "symbol": "佛金疯",
-      "address": "EnEkfiz7RyDNabMbwAE5mmosEwNfZkh7UhURT7fqpump",
-      "price": 1.061024582e-05,
-      "proceeds": 8.91,
-      "pnl_usd": -41.09,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T07:55:36+00:00",
-      "side": "buy",
-      "symbol": "FOMO",
-      "address": "9uYTBd6ihiJkq5xANsT6r873QpQCMUpAwgwsXLd5pump",
-      "price": 0.0003874000376964583,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T07:55:36+00:00",
-      "side": "buy",
-      "symbol": "ANSEME",
-      "address": "58bEjLJQEvL5eGrzPH5zrDtqBMwTfVWX4gfqVqAopump",
-      "price": 1.4560501745934207e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T07:55:36+00:00",
-      "side": "buy",
-      "symbol": "RAIN",
-      "address": "91yebhbFBEP9XCuyAnW6GePnXC7nKrZAGn77LcgVpump",
-      "price": 3.888151615658973e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T08:24:11+00:00",
-      "side": "sell",
-      "symbol": "FOMO",
-      "address": "9uYTBd6ihiJkq5xANsT6r873QpQCMUpAwgwsXLd5pump",
-      "price": 1.105745731e-05,
-      "proceeds": 1.34,
-      "pnl_usd": -48.66,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-18T08:24:11+00:00",
-      "side": "sell",
-      "symbol": "ANSEME",
-      "address": "58bEjLJQEvL5eGrzPH5zrDtqBMwTfVWX4gfqVqAopump",
-      "price": 2.279861073e-06,
-      "proceeds": 7.39,
-      "pnl_usd": -42.61,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-18T08:24:11+00:00",
       "side": "sell",
@@ -4528,6 +4474,60 @@
       "address": "2rQGYUo94Tp15EwiQGQ5c9G7By8AvpyXXjBwVkW2pump",
       "price": 0.00038551382391971515,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T09:55:41+00:00",
+      "side": "sell",
+      "symbol": "$AURA",
+      "address": "sYpshzrvUvkFRo8QsY11DqvXLhHZXMY1f61B12hpump",
+      "price": 7.307786078e-06,
+      "proceeds": 45.42,
+      "pnl_usd": -4.58,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-21T09:55:41+00:00",
+      "side": "sell",
+      "symbol": "PHP2SHELL",
+      "address": "HYEaTLu4iKUN6FrRiF3GoLsPcZzMg6BoDP7Spqitpump",
+      "price": 0.0006469462487,
+      "proceeds": 182.52,
+      "pnl_usd": 132.52,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T09:55:41+00:00",
+      "side": "sell",
+      "symbol": "SpaceX",
+      "address": "2rQGYUo94Tp15EwiQGQ5c9G7By8AvpyXXjBwVkW2pump",
+      "price": 1.896419541e-06,
+      "proceeds": 0.23,
+      "pnl_usd": -49.77,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T09:55:41+00:00",
+      "side": "buy",
+      "symbol": "DANIELLA",
+      "address": "2xwrvtVuuiEgKubaPKR86tKN15i2S5HZniJKyN6upump",
+      "price": 2.061231816288118e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T09:55:41+00:00",
+      "side": "buy",
+      "symbol": "Kimchi",
+      "address": "47jtdAbscdtjr5wkWw54kYaAZMBCxe4EWsWE8zegpump",
+      "price": 4.82685363443897e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T09:55:41+00:00",
+      "side": "buy",
+      "symbol": "fg",
+      "address": "3Qaj6N7abGsmHrkJSqbz8cU5aNY3u5VgH81XdJxQpump",
+      "price": 2.1484138454567845e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8106,6 +8106,10 @@
     {
       "date": "2026-10-21T09:16:09+00:00",
       "equity": 5883952.59
+    },
+    {
+      "date": "2026-10-21T09:55:41+00:00",
+      "equity": 5884030.5
     }
   ]
 }
