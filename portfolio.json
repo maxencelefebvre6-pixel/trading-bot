@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883278.414505288,
+  "cash": 5883284.261908608,
   "positions": {
-    "CQ8bas8SJhHAaMYtNgEspNDKiE34YvuNvKQ8tvvTpump": {
-      "symbol": "undr",
-      "qty": 1771337.0123139734,
-      "entry_price": 2.7944992768674792e-05,
-      "last_price": 2.708875841e-05,
+    "C1phiVzmaSrk2rMkDwginJsbVQLG8SuZNHoGWd56pump": {
+      "symbol": "NU7",
+      "qty": 867869.8422073156,
+      "entry_price": 5.7036202426510295e-05,
+      "last_price": 5.522684421270639e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T19:56:56+00:00",
-      "missing": 0
-    },
-    "J37HFKz32LNXMGE3KdH6yKNWQ8Rd5RwvghqfHVYHpump": {
-      "symbol": "HODLON",
-      "qty": 845538.5149850539,
-      "entry_price": 5.85425727187306e-05,
-      "last_price": 5.6693576696968284e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T20:29:22+00:00",
-      "missing": 0
-    },
-    "D18FfHRzbRCZ3g2PDmgm45iKPDidKXmyL96uTXCwpump": {
-      "symbol": "TFP",
-      "qty": 2605478.363801173,
-      "entry_price": 1.899843064817613e-05,
-      "last_price": 1.8329022731026273e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T20:29:22+00:00",
+      "entry_time": "2026-10-21T21:05:00+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T17:29:06+00:00",
-      "side": "buy",
-      "symbol": "quANT",
-      "address": "6ofEHxqSEfrJnYKznDVPzS54HkMKi12tqVCnViEUpump",
-      "price": 5.050749995420428e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T17:54:37+00:00",
-      "side": "sell",
-      "symbol": "coge",
-      "address": "2vBQuqq8YPg59WurHWNnxAsmmUxA5eDycYQcnU3Lpump",
-      "price": 3.635900317e-06,
-      "proceeds": 12.52,
-      "pnl_usd": -37.48,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T17:54:37+00:00",
-      "side": "sell",
-      "symbol": "quANT",
-      "address": "6ofEHxqSEfrJnYKznDVPzS54HkMKi12tqVCnViEUpump",
-      "price": 0.0001186601546,
-      "proceeds": 1099.6,
-      "pnl_usd": 1049.6,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-18T17:54:37+00:00",
-      "side": "buy",
-      "symbol": "MINTLINE",
-      "address": "7HLgSoApnpxTDh65NkUUe8tgPKZiJMr9VLoqkNadpump",
-      "price": 8.170725857028675e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T17:54:37+00:00",
       "side": "buy",
@@ -4528,6 +4474,44 @@
       "address": "D18FfHRzbRCZ3g2PDmgm45iKPDidKXmyL96uTXCwpump",
       "price": 1.899843064817613e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T21:05:00+00:00",
+      "side": "sell",
+      "symbol": "undr",
+      "address": "CQ8bas8SJhHAaMYtNgEspNDKiE34YvuNvKQ8tvvTpump",
+      "price": 2.708875841e-05,
+      "proceeds": 45.97,
+      "pnl_usd": -4.03,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-21T21:05:00+00:00",
+      "side": "sell",
+      "symbol": "HODLON",
+      "address": "J37HFKz32LNXMGE3KdH6yKNWQ8Rd5RwvghqfHVYHpump",
+      "price": 2.087479884e-06,
+      "proceeds": 1.69,
+      "pnl_usd": -48.31,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T21:05:00+00:00",
+      "side": "sell",
+      "symbol": "TFP",
+      "address": "D18FfHRzbRCZ3g2PDmgm45iKPDidKXmyL96uTXCwpump",
+      "price": 3.284089296e-06,
+      "proceeds": 8.19,
+      "pnl_usd": -41.81,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T21:05:00+00:00",
+      "side": "buy",
+      "symbol": "NU7",
+      "address": "C1phiVzmaSrk2rMkDwginJsbVQLG8SuZNHoGWd56pump",
+      "price": 5.7036202426510295e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8174,6 +8158,10 @@
     {
       "date": "2026-10-21T20:29:22+00:00",
       "equity": 5883422.09
+    },
+    {
+      "date": "2026-10-21T21:05:00+00:00",
+      "equity": 5883332.19
     }
   ]
 }
