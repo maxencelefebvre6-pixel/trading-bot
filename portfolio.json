@@ -1,91 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5882965.444600801,
+  "cash": 5883030.539195805,
   "positions": {
-    "FRpQVJSpmNV84vbRS9PY16KgDotkPTXN9aFpXsRzpump": {
-      "symbol": "CYBER",
-      "qty": 576450.0118067408,
-      "entry_price": 8.587041198048453e-05,
-      "last_price": 8.325774058565985e-05,
+    "766NNPN93efYTvFMXxNmKMrDpaeTwAtjNUwLDdr5pump": {
+      "symbol": "PULLBACK",
+      "qty": 562467.9426993052,
+      "entry_price": 8.800501547243314e-05,
+      "last_price": 8.532762493930517e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T22:48:38+00:00",
-      "missing": 0
-    },
-    "8eRWpNme7R3qgsJJfpqkryptd1VYtmvbyytyX7VZpump": {
-      "symbol": "XCOIN",
-      "qty": 1463110.7962172853,
-      "entry_price": 3.383202429233445e-05,
-      "last_price": 3.267033981631069e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T22:48:38+00:00",
-      "missing": 0
-    },
-    "21qjavef4eWJNTGHVDr4Xw3T9eeXVxvUXuAq7D5Qpump": {
-      "symbol": "ISAAC",
-      "qty": 2615151.406133425,
-      "entry_price": 1.8928158378863097e-05,
-      "last_price": 1.8257552097670354e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T22:48:38+00:00",
-      "missing": 0
-    },
-    "CbEhmWfzCXfmo2hUncFJ3Ux1Bt6Xuudz45wHqmgSpump": {
-      "symbol": "XTERMINAL",
-      "qty": 3879415.329851877,
-      "entry_price": 1.2759654687937215e-05,
-      "last_price": 1.2304976591613648e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T22:48:38+00:00",
+      "entry_time": "2026-10-21T23:12:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T20:34:21+00:00",
-      "side": "buy",
-      "symbol": "Shiba X",
-      "address": "7137gsfqdo5qebShTrrUoW9iUHrZxLunBSsbpAMVpump",
-      "price": 2.1232547751774073e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T21:00:55+00:00",
-      "side": "sell",
-      "symbol": "AVENGERS",
-      "address": "HrXd7X69aXZt8sx3tMdTYjeqKZmFHgCNcqi24bvKpump",
-      "price": 5.628675762e-06,
-      "proceeds": 13.63,
-      "pnl_usd": -36.37,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T21:00:55+00:00",
-      "side": "sell",
-      "symbol": "Shiba X",
-      "address": "7137gsfqdo5qebShTrrUoW9iUHrZxLunBSsbpAMVpump",
-      "price": 1.74516047e-05,
-      "proceeds": 38.95,
-      "pnl_usd": -11.05,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T21:00:55+00:00",
-      "side": "buy",
-      "symbol": "ANIMOL",
-      "address": "tsUEU5EnvQ1LxoWs3L4uyYRzfCpNXitPcS9CW7mpump",
-      "price": 1.2423391802053747e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T21:30:06+00:00",
-      "side": "sell",
-      "symbol": "ANIMOL",
-      "address": "tsUEU5EnvQ1LxoWs3L4uyYRzfCpNXitPcS9CW7mpump",
-      "price": 3.311980246e-06,
-      "proceeds": 12.6,
-      "pnl_usd": -37.4,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-18T21:30:06+00:00",
       "side": "buy",
@@ -4537,6 +4464,54 @@
       "address": "CbEhmWfzCXfmo2hUncFJ3Ux1Bt6Xuudz45wHqmgSpump",
       "price": 1.2759654687937215e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T23:12:39+00:00",
+      "side": "sell",
+      "symbol": "CYBER",
+      "address": "FRpQVJSpmNV84vbRS9PY16KgDotkPTXN9aFpXsRzpump",
+      "price": 9.327272086e-05,
+      "proceeds": 26.61,
+      "pnl_usd": -23.39,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T23:12:39+00:00",
+      "side": "sell",
+      "symbol": "XCOIN",
+      "address": "8eRWpNme7R3qgsJJfpqkryptd1VYtmvbyytyX7VZpump",
+      "price": 1.27080111e-05,
+      "proceeds": 9.2,
+      "pnl_usd": -40.8,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T23:12:39+00:00",
+      "side": "sell",
+      "symbol": "ISAAC",
+      "address": "21qjavef4eWJNTGHVDr4Xw3T9eeXVxvUXuAq7D5Qpump",
+      "price": 2.77481817e-05,
+      "proceeds": 66.85,
+      "pnl_usd": 16.85,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-21T23:12:39+00:00",
+      "side": "sell",
+      "symbol": "XTERMINAL",
+      "address": "CbEhmWfzCXfmo2hUncFJ3Ux1Bt6Xuudz45wHqmgSpump",
+      "price": 3.353854295e-06,
+      "proceeds": 12.42,
+      "pnl_usd": -37.58,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T23:12:40+00:00",
+      "side": "buy",
+      "symbol": "PULLBACK",
+      "address": "766NNPN93efYTvFMXxNmKMrDpaeTwAtjNUwLDdr5pump",
+      "price": 8.800501547243314e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8199,6 +8174,10 @@
     {
       "date": "2026-10-21T22:48:38+00:00",
       "equity": 5883156.72
+    },
+    {
+      "date": "2026-10-21T23:12:40+00:00",
+      "equity": 5883078.53
     }
   ]
 }
