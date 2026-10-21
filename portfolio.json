@@ -1,38 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883845.598907748,
-  "positions": {},
+  "cash": 5883695.598907748,
+  "positions": {
+    "4iNctgb6UwFNycqdYCm51FM7psiQM8BEJdbHZHz4pump": {
+      "symbol": "100T",
+      "qty": 1613171.632574559,
+      "entry_price": 3.068489365945515e-05,
+      "last_price": 2.9612391834581997e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T15:45:42+00:00",
+      "missing": 0
+    },
+    "3Nc2GZnP1sA96ZUaFtwSsBNWJ2QKzjNH8gGJGpmqpump": {
+      "symbol": "Kimchu",
+      "qty": 866692.9196700772,
+      "entry_price": 5.711365453273011e-05,
+      "last_price": 5.5305671387079944e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T15:45:42+00:00",
+      "missing": 0
+    },
+    "9NodjuiZmVVehN7q1dFy5Eq6UkZVzUNKcVg5yUzWpump": {
+      "symbol": "SUNCAT",
+      "qty": 3491683.91120894,
+      "entry_price": 1.4176540963830088e-05,
+      "last_price": 1.3701548894032299e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T15:45:42+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-18T13:16:34+00:00",
-      "side": "sell",
-      "symbol": "income",
-      "address": "8mu2kNxtAWJT1HP5dGPGdrJSBoUZV5bJTZ6dFZGBpump",
-      "price": 1.849160358e-05,
-      "proceeds": 45.84,
-      "pnl_usd": -4.16,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T13:16:34+00:00",
-      "side": "sell",
-      "symbol": "HITLER",
-      "address": "9m3qixeEzeFjrFyTmKNqZFWWwMuY7RTGH3nJGBQSpump",
-      "price": 3.063687394e-06,
-      "proceeds": 12.04,
-      "pnl_usd": -37.96,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T13:16:34+00:00",
-      "side": "sell",
-      "symbol": "MEGA",
-      "address": "8dATxRTextAcaGxtWWUoTVApruNXtNS3Y74uD4Jzpump",
-      "price": 1.634781756e-05,
-      "proceeds": 14.28,
-      "pnl_usd": -35.72,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-18T13:16:34+00:00",
       "side": "sell",
@@ -4506,6 +4504,30 @@
       "proceeds": 45.18,
       "pnl_usd": -4.82,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-21T15:45:42+00:00",
+      "side": "buy",
+      "symbol": "100T",
+      "address": "4iNctgb6UwFNycqdYCm51FM7psiQM8BEJdbHZHz4pump",
+      "price": 3.068489365945515e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T15:45:42+00:00",
+      "side": "buy",
+      "symbol": "Kimchu",
+      "address": "3Nc2GZnP1sA96ZUaFtwSsBNWJ2QKzjNH8gGJGpmqpump",
+      "price": 5.711365453273011e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T15:45:42+00:00",
+      "side": "buy",
+      "symbol": "SUNCAT",
+      "address": "9NodjuiZmVVehN7q1dFy5Eq6UkZVzUNKcVg5yUzWpump",
+      "price": 1.4176540963830088e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8116,6 +8138,10 @@
     {
       "date": "2026-10-21T15:07:37+00:00",
       "equity": 5883845.6
+    },
+    {
+      "date": "2026-10-21T15:45:42+00:00",
+      "equity": 5883839.14
     }
   ]
 }
