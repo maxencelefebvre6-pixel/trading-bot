@@ -1,36 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883578.071544079,
+  "cash": 5883478.071544079,
   "positions": {
     "7XSZL8cxhBcfqgMYE6zt4mKmTBFunvEBV7udj71Wpump": {
       "symbol": "FLYINGCAR",
       "qty": 4515003.21775886,
       "entry_price": 1.0963447336050983e-05,
-      "last_price": 1.0570699064179767e-05,
+      "last_price": 1.057069906e-05,
       "cost": 50.0,
       "entry_time": "2026-10-21T18:05:13+00:00",
+      "missing": 0
+    },
+    "BETNBNe5BYrih6s656tpqKZzZfH3xpRhDQZcZ1K5pump": {
+      "symbol": "KIMCHIBULL",
+      "qty": 79555.03559455724,
+      "entry_price": 0.0006222107705698336,
+      "last_price": 0.0006036414578930671,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T18:43:48+00:00",
+      "missing": 0
+    },
+    "w2sNbiKnp76c7k4PnVFLfiYpHwa2JsE3CYJTF8Apump": {
+      "symbol": "GIF",
+      "qty": 2081457.3891555145,
+      "entry_price": 2.378141405050961e-05,
+      "last_price": 2.2952455136450995e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T18:43:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T16:01:18+00:00",
-      "side": "buy",
-      "symbol": "LEGENDS",
-      "address": "2Qp2cvCdQLKWTD7ZzMUVHU8sUzAhG5L8zVqtuYWvpump",
-      "price": 1.4962751391911183e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T16:31:43+00:00",
-      "side": "sell",
-      "symbol": "Kaida",
-      "address": "vJYdx96314re8TdTecteyDYPH48RhrLJ3MGnJFQpump",
-      "price": 3.743284446e-06,
-      "proceeds": 20.15,
-      "pnl_usd": -29.85,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-18T16:31:43+00:00",
       "side": "buy",
@@ -4512,6 +4512,22 @@
       "address": "7XSZL8cxhBcfqgMYE6zt4mKmTBFunvEBV7udj71Wpump",
       "price": 1.0963447336050983e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T18:43:48+00:00",
+      "side": "buy",
+      "symbol": "KIMCHIBULL",
+      "address": "BETNBNe5BYrih6s656tpqKZzZfH3xpRhDQZcZ1K5pump",
+      "price": 0.0006222107705698336,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T18:43:48+00:00",
+      "side": "buy",
+      "symbol": "GIF",
+      "address": "w2sNbiKnp76c7k4PnVFLfiYpHwa2JsE3CYJTF8Apump",
+      "price": 2.378141405050961e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8142,6 +8158,10 @@
     {
       "date": "2026-10-21T18:05:13+00:00",
       "equity": 5883625.8
+    },
+    {
+      "date": "2026-10-21T18:43:48+00:00",
+      "equity": 5883621.6
     }
   ]
 }
