@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883270.184793886,
+  "cash": 5883120.411559646,
   "positions": {
-    "DFNRpTZFzgLZxJNnoj3czyMUokj13Mpzx4yCjQKpump": {
-      "symbol": "BARRON",
-      "qty": 114984.56060843013,
-      "entry_price": 0.00043049257863903945,
-      "last_price": 0.000417581071403142,
+    "3PxnEkomSAmKLypFncb4Zkrz3oH1MPpjaLxXmFMMpump": {
+      "symbol": "FIL-PHP",
+      "qty": 1484669.6294057693,
+      "entry_price": 3.334075070951111e-05,
+      "last_price": 3.2258722755257886e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T21:39:09+00:00",
+      "entry_time": "2026-10-21T22:11:55+00:00",
+      "missing": 0
+    },
+    "8ctEhkaBHYEMYG6aWEC6BbW83y6HvHSqabJHoh3Zpump": {
+      "symbol": "Americinu",
+      "qty": 6038857.784654111,
+      "entry_price": 8.196914344594924e-06,
+      "last_price": 7.884427386091559e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T22:11:55+00:00",
+      "missing": 0
+    },
+    "H8BHkfnQxPWKrrJR4tYinzEyBQmNG9Hs9kwqLkz5pump": {
+      "symbol": "AIB",
+      "qty": 5065778.8969434835,
+      "entry_price": 9.771448973003263e-06,
+      "last_price": 9.417604049689249e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T22:11:55+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T18:21:54+00:00",
-      "side": "buy",
-      "symbol": "TRENCHBOT",
-      "address": "ExKNnq9bpqze8JiarFFERtnvjKvqFrz5zy9Rb82Rpump",
-      "price": 3.381098033354279e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T18:54:56+00:00",
-      "side": "sell",
-      "symbol": "NVX",
-      "address": "HB7womRHmFCqpuzxCYsWYobW57onj7dRQMfWHBH6pump",
-      "price": 9.412290897e-06,
-      "proceeds": 45.53,
-      "pnl_usd": -4.47,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T18:54:56+00:00",
-      "side": "sell",
-      "symbol": "TRENCHBOT",
-      "address": "ExKNnq9bpqze8JiarFFERtnvjKvqFrz5zy9Rb82Rpump",
-      "price": 3.65751993e-07,
-      "proceeds": 5.05,
-      "pnl_usd": -44.95,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-18T19:19:13+00:00",
-      "side": "buy",
-      "symbol": "DOLL",
-      "address": "7LUNKLomgtHX24aLzCRKCcPCUbWSML3ybQMfMCbZpump",
-      "price": 2.9784326281759083e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-18T19:19:13+00:00",
       "side": "buy",
@@ -4512,6 +4494,40 @@
       "address": "DFNRpTZFzgLZxJNnoj3czyMUokj13Mpzx4yCjQKpump",
       "price": 0.00043049257863903945,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T22:11:55+00:00",
+      "side": "sell",
+      "symbol": "BARRON",
+      "address": "DFNRpTZFzgLZxJNnoj3czyMUokj13Mpzx4yCjQKpump",
+      "price": 2.053695164e-06,
+      "proceeds": 0.23,
+      "pnl_usd": -49.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T22:11:55+00:00",
+      "side": "buy",
+      "symbol": "FIL-PHP",
+      "address": "3PxnEkomSAmKLypFncb4Zkrz3oH1MPpjaLxXmFMMpump",
+      "price": 3.334075070951111e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T22:11:55+00:00",
+      "side": "buy",
+      "symbol": "Americinu",
+      "address": "8ctEhkaBHYEMYG6aWEC6BbW83y6HvHSqabJHoh3Zpump",
+      "price": 8.196914344594924e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T22:11:55+00:00",
+      "side": "buy",
+      "symbol": "AIB",
+      "address": "H8BHkfnQxPWKrrJR4tYinzEyBQmNG9Hs9kwqLkz5pump",
+      "price": 9.771448973003263e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8166,6 +8182,10 @@
     {
       "date": "2026-10-21T21:39:09+00:00",
       "equity": 5883318.2
+    },
+    {
+      "date": "2026-10-21T22:11:55+00:00",
+      "equity": 5883263.63
     }
   ]
 }
