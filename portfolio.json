@@ -1,119 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883592.03720244,
+  "cash": 5883683.38413796,
   "positions": {
-    "GnBETonXRuMcM1C82zami7tRb3VGqnrHkhAhrwnspump": {
-      "symbol": "LEONIDA",
-      "qty": 5374641.449036389,
-      "entry_price": 9.20991669293117e-06,
-      "last_price": 8.879585562e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T11:44:54+00:00",
-      "missing": 0
-    },
-    "5drmrPyfZ5gw1JRbuJGx6vavw1G4PPmYToqbcj7xpump": {
-      "symbol": "s",
-      "qty": 5467475.081264781,
-      "entry_price": 9.05353920489186e-06,
-      "last_price": 8.728200394e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T11:44:54+00:00",
-      "missing": 0
-    },
-    "9GsdkMpQkKuJhwriGEYSGh8hxPVVwkEBCJuwdDYspump": {
-      "symbol": "SOOTS",
-      "qty": 6684753.100667593,
-      "entry_price": 7.40491073560466e-06,
-      "last_price": 7.127015837e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T11:44:54+00:00",
-      "missing": 0
-    },
-    "8fzCqyujdPqURi5g76a8FRpZM51KZ2wDe8gC59ySpump": {
-      "symbol": "DACITY",
-      "qty": 129345.98736190857,
-      "entry_price": 0.00038269451576800425,
-      "last_price": 0.00037117072259868015,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T12:16:39+00:00",
-      "missing": 0
-    },
     "EQEgAAPJXJ5mzECJs8PbtLXXY1CY2RCmMiDWzumJpump": {
       "symbol": "MNY",
       "qty": 3937755.3357497053,
       "entry_price": 1.257061340266732e-05,
-      "last_price": 1.2142910576551537e-05,
+      "last_price": 1.214291058e-05,
       "cost": 50.0,
       "entry_time": "2026-10-21T12:16:39+00:00",
       "missing": 0
     },
-    "95poUrPx49k4TUZy52XKhHwsgqiyRxkkdM2cT9cTpump": {
-      "symbol": "GucioKrup",
-      "qty": 16919954.98731853,
-      "entry_price": 2.925539697776982e-06,
-      "last_price": 2.818351502142375e-06,
+    "HnztF9Qkz7zVBaa8nAtL7VxFXm2LBAax3TLERdirpump": {
+      "symbol": "Grok",
+      "qty": 129025.8643730474,
+      "entry_price": 0.000383644009986111,
+      "last_price": 0.00037211489956327516,
       "cost": 50.0,
-      "entry_time": "2026-10-21T12:16:39+00:00",
+      "entry_time": "2026-10-21T13:10:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T12:06:30+00:00",
-      "side": "sell",
-      "symbol": "$WAI",
-      "address": "269sjJ9JU2f2ynsyptQ8hg9XmT95Qabkh6ZfzwEApump",
-      "price": 9.374279453e-06,
-      "proceeds": 45.55,
-      "pnl_usd": -4.45,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T12:06:30+00:00",
-      "side": "sell",
-      "symbol": "Mercedes",
-      "address": "xk5FevmpacHLXxB7CHFtikQBXaitcmBsZ8wtDT1pump",
-      "price": 0.0002083545133,
-      "proceeds": 28.02,
-      "pnl_usd": -21.98,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T12:06:30+00:00",
-      "side": "sell",
-      "symbol": "LPL",
-      "address": "33o4Lhq89uJoRGCAFco48XjeFhqbWJoi9KHzxrnwpump",
-      "price": 3.656204446e-06,
-      "proceeds": 4.31,
-      "pnl_usd": -45.69,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-18T12:06:30+00:00",
-      "side": "buy",
-      "symbol": "Rockstar",
-      "address": "299wiFawTh8jz4iWFYf5vtYnMasZEKcR6dBTmg3Lpump",
-      "price": 0.0004066625437813638,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T12:06:30+00:00",
-      "side": "buy",
-      "symbol": "Gemini",
-      "address": "BSdWXH3dXxBgEErMxvvuUbDMFtVpAAMnN1apQGBypump",
-      "price": 0.0003907325351381108,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T12:43:03+00:00",
-      "side": "sell",
-      "symbol": "Rockstar",
-      "address": "299wiFawTh8jz4iWFYf5vtYnMasZEKcR6dBTmg3Lpump",
-      "price": 1.858120997e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-18T12:43:03+00:00",
       "side": "sell",
@@ -4555,6 +4463,64 @@
       "address": "95poUrPx49k4TUZy52XKhHwsgqiyRxkkdM2cT9cTpump",
       "price": 2.925539697776982e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T13:10:56+00:00",
+      "side": "sell",
+      "symbol": "LEONIDA",
+      "address": "GnBETonXRuMcM1C82zami7tRb3VGqnrHkhAhrwnspump",
+      "price": 8.879585562e-06,
+      "proceeds": 45.51,
+      "pnl_usd": -4.49,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-21T13:10:56+00:00",
+      "side": "sell",
+      "symbol": "s",
+      "address": "5drmrPyfZ5gw1JRbuJGx6vavw1G4PPmYToqbcj7xpump",
+      "price": 8.728200394e-06,
+      "proceeds": 45.5,
+      "pnl_usd": -4.5,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-21T13:10:56+00:00",
+      "side": "sell",
+      "symbol": "SOOTS",
+      "address": "9GsdkMpQkKuJhwriGEYSGh8hxPVVwkEBCJuwdDYspump",
+      "price": 7.127015837e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-21T13:10:56+00:00",
+      "side": "sell",
+      "symbol": "DACITY",
+      "address": "8fzCqyujdPqURi5g76a8FRpZM51KZ2wDe8gC59ySpump",
+      "price": 1.958648515e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T13:10:56+00:00",
+      "side": "sell",
+      "symbol": "GucioKrup",
+      "address": "95poUrPx49k4TUZy52XKhHwsgqiyRxkkdM2cT9cTpump",
+      "price": 2.990191711e-07,
+      "proceeds": 4.75,
+      "pnl_usd": -45.25,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-21T13:10:56+00:00",
+      "side": "buy",
+      "symbol": "Grok",
+      "address": "HnztF9Qkz7zVBaa8nAtL7VxFXm2LBAax3TLERdirpump",
+      "price": 0.000383644009986111,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8153,6 +8119,10 @@
     {
       "date": "2026-10-21T12:16:39+00:00",
       "equity": 5883878.64
+    },
+    {
+      "date": "2026-10-21T13:10:56+00:00",
+      "equity": 5883779.21
     }
   ]
 }
