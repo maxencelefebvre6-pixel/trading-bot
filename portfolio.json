@@ -1,73 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5884360.887883968,
+  "cash": 5884183.027935574,
   "positions": {
-    "Dn7jn7dZqovCqL7VuJvSdrD7NoJGx8YXw6iLfm1gpump": {
-      "symbol": "Naseem",
-      "qty": 7809125.993890966,
-      "entry_price": 6.338737528210399e-06,
-      "last_price": 6.097220237942379e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-21T05:12:31+00:00",
-      "missing": 0
-    },
     "2W27h2PvRENoHz8KfU8yGLNf9c3tjckJZ9EDLebYpump": {
       "symbol": "WiN",
       "qty": 3493569.832223419,
       "entry_price": 1.4168888093614154e-05,
-      "last_price": 1.3692268353639073e-05,
+      "last_price": 1.369226835e-05,
       "cost": 50.0,
       "entry_time": "2026-10-21T05:12:31+00:00",
+      "missing": 0
+    },
+    "BdbK43FqLqKnkdDToEg2zLRYzVn8Jq3eDyaG5xMpump": {
+      "symbol": "PHP",
+      "qty": 580828.1692356281,
+      "entry_price": 8.522313934109321e-05,
+      "last_price": 8.262866804161223e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T05:49:32+00:00",
+      "missing": 0
+    },
+    "CJg55k171ccDjnmHcqt9DbA9mrcEHvBD1DkAPQRXpump": {
+      "symbol": "smol",
+      "qty": 1150498.8104862429,
+      "entry_price": 4.30248163221303e-05,
+      "last_price": 4.1659380502162915e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T05:49:32+00:00",
+      "missing": 0
+    },
+    "G2QFDpZuqv68GfmY35aR2HKBfU4cS8nKz2LUniRhpump": {
+      "symbol": "dogbaton",
+      "qty": 13009599.222029328,
+      "entry_price": 3.8048827758030386e-06,
+      "last_price": 3.6696010843480616e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T05:49:32+00:00",
+      "missing": 0
+    },
+    "2KfENzRdyrUJhjveznJxcJZAtZkqSVUQHcrLW1dtpump": {
+      "symbol": "trench",
+      "qty": 6084997.970761076,
+      "entry_price": 8.134760313454769e-06,
+      "last_price": 7.835949925918486e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-21T05:49:32+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T02:07:18+00:00",
-      "side": "sell",
-      "symbol": "Bill Gates",
-      "address": "rX7gXeCWc1RrHU5D9JzzLWvmGS2YnvMo9SWudYipump",
-      "price": 0.0007530371466,
-      "proceeds": 91.4,
-      "pnl_usd": 41.4,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-18T02:07:18+00:00",
-      "side": "buy",
-      "symbol": "SOLGREM",
-      "address": "4QbtySht2iGiV8RoucaY2dnBCd9hGuuwCxku9PC6pump",
-      "price": 0.0001556105359887581,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T02:39:23+00:00",
-      "side": "sell",
-      "symbol": "INTERN",
-      "address": "7hkKsvSsVSdVy2dVDkA71NutJZsedLP63pou2zcSpump",
-      "price": 4.667210663e-05,
-      "proceeds": 45.89,
-      "pnl_usd": -4.11,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T02:39:24+00:00",
-      "side": "buy",
-      "symbol": "YouTube",
-      "address": "Ymxei14r9kpmuuoGC31ELMRrnPzgW6RatGt4d16pump",
-      "price": 0.00039682949656007216,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T03:08:28+00:00",
-      "side": "sell",
-      "symbol": "SOLGREM",
-      "address": "4QbtySht2iGiV8RoucaY2dnBCd9hGuuwCxku9PC6pump",
-      "price": 0.000151268032,
-      "proceeds": 46.18,
-      "pnl_usd": -3.82,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-18T03:08:28+00:00",
       "side": "sell",
@@ -4521,6 +4502,48 @@
       "address": "2W27h2PvRENoHz8KfU8yGLNf9c3tjckJZ9EDLebYpump",
       "price": 1.4168888093614154e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T05:49:32+00:00",
+      "side": "sell",
+      "symbol": "Naseem",
+      "address": "Dn7jn7dZqovCqL7VuJvSdrD7NoJGx8YXw6iLfm1gpump",
+      "price": 2.982636025e-06,
+      "proceeds": 22.14,
+      "pnl_usd": -27.86,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-21T05:49:32+00:00",
+      "side": "buy",
+      "symbol": "PHP",
+      "address": "BdbK43FqLqKnkdDToEg2zLRYzVn8Jq3eDyaG5xMpump",
+      "price": 8.522313934109321e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T05:49:32+00:00",
+      "side": "buy",
+      "symbol": "smol",
+      "address": "CJg55k171ccDjnmHcqt9DbA9mrcEHvBD1DkAPQRXpump",
+      "price": 4.30248163221303e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T05:49:32+00:00",
+      "side": "buy",
+      "symbol": "dogbaton",
+      "address": "G2QFDpZuqv68GfmY35aR2HKBfU4cS8nKz2LUniRhpump",
+      "price": 3.8048827758030386e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-21T05:49:32+00:00",
+      "side": "buy",
+      "symbol": "trench",
+      "address": "2KfENzRdyrUJhjveznJxcJZAtZkqSVUQHcrLW1dtpump",
+      "price": 8.134760313454769e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8075,6 +8098,10 @@
     {
       "date": "2026-10-21T05:12:31+00:00",
       "equity": 5884456.34
+    },
+    {
+      "date": "2026-10-21T05:49:32+00:00",
+      "equity": 5884422.21
     }
   ]
 }
