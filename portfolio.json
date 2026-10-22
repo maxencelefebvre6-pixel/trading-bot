@@ -1,64 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5883188.673646557,
-  "positions": {
-    "4jSZwNrikbHKAonDpq2jGBv4bJoL8AnozY2H56v9pump": {
-      "symbol": "ヤギ",
-      "qty": 1169075.9926741633,
-      "entry_price": 4.234113120976242e-05,
-      "last_price": 4.09953364524845e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T23:29:11+00:00",
-      "missing": 0
-    },
-    "9a1nu2wrdWDUPnyLGNjbQCSNYYm3qkPWYZndmFh5pump": {
-      "symbol": "NOODLELANA\\",
-      "qty": 730628.2311229173,
-      "entry_price": 6.774991424013613e-05,
-      "last_price": 6.561697544794704e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T23:29:11+00:00",
-      "missing": 0
-    },
-    "3E8y793CNkxSvoX6NS2bccMBdrAEWhoRAq56cL3xpump": {
-      "symbol": "TESLA SI",
-      "qty": 122211.30146651316,
-      "entry_price": 0.0004050361906469295,
-      "last_price": 0.0003928643360593961,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T23:29:11+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5883224.118100396,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-19T17:39:51+00:00",
-      "side": "buy",
-      "symbol": "wApe",
-      "address": "9KRuHSLDj2nTAzhoWYuMZwC1BPo7mFsjkbzFUB7hpump",
-      "price": 5.104392366973256e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T18:10:19+00:00",
-      "side": "sell",
-      "symbol": "MidnightCity",
-      "address": "9APYfomitzQMBBF4J6WmhiGUJKMfVCNuu2trjWetpump",
-      "price": 2.948938261e-06,
-      "proceeds": 14.19,
-      "pnl_usd": -35.81,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T18:10:19+00:00",
-      "side": "sell",
-      "symbol": "ChatGPT",
-      "address": "VUvhNc7wK1qbVkvmGecVJJ6CZn4a8mm46X9N8P1pump",
-      "price": 0.0006910295428,
-      "proceeds": 87.35,
-      "pnl_usd": 37.35,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-19T18:10:19+00:00",
       "side": "sell",
@@ -4530,6 +4474,36 @@
       "address": "3E8y793CNkxSvoX6NS2bccMBdrAEWhoRAq56cL3xpump",
       "price": 0.0004050361906469295,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T23:58:23+00:00",
+      "side": "sell",
+      "symbol": "ヤギ",
+      "address": "4jSZwNrikbHKAonDpq2jGBv4bJoL8AnozY2H56v9pump",
+      "price": 5.846926378e-05,
+      "proceeds": 33.84,
+      "pnl_usd": -16.16,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-22T23:58:23+00:00",
+      "side": "sell",
+      "symbol": "NOODLELANA\\",
+      "address": "9a1nu2wrdWDUPnyLGNjbQCSNYYm3qkPWYZndmFh5pump",
+      "price": 1.987938663e-06,
+      "proceeds": 1.39,
+      "pnl_usd": -48.61,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-22T23:58:23+00:00",
+      "side": "sell",
+      "symbol": "TESLA SI",
+      "address": "3E8y793CNkxSvoX6NS2bccMBdrAEWhoRAq56cL3xpump",
+      "price": 1.862518491e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
@@ -8348,6 +8322,10 @@
     {
       "date": "2026-10-22T23:29:11+00:00",
       "equity": 5883332.55
+    },
+    {
+      "date": "2026-10-22T23:58:24+00:00",
+      "equity": 5883224.12
     }
   ]
 }
