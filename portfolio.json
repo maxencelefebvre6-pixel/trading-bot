@@ -1,45 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5883920.022355272,
-  "positions": {
-    "2xzCuMVspyMxrpnb1yZavnrwyRj6rfPdVgXaR3bJpump": {
-      "symbol": "KFC",
-      "qty": 5509185.809471276,
-      "entry_price": 8.984993738076623e-06,
-      "last_price": 8.645296992834705e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T15:16:18+00:00",
-      "missing": 0
-    },
-    "Fxaxs65swkLffLdMnjZZ5rdVSk62h5dwo7JE14ZPpump": {
-      "symbol": "Snipercat",
-      "qty": 5376049.774235043,
-      "entry_price": 9.207504037114936e-06,
-      "last_price": 8.855611395072196e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T15:16:18+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5883951.772481223,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-19T09:57:02+00:00",
-      "side": "buy",
-      "symbol": "MotoCrose",
-      "address": "FTtZA1FzzyPoxD8BvfsFqfUpKjBpBjGv7Jtm4vHipump",
-      "price": 6.910825601194706e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T10:33:07+00:00",
-      "side": "sell",
-      "symbol": "MRBAG",
-      "address": "9rgApJdeDKWJ1aYAP8dVvEVEWcwy6teCVWVwAkvGpump",
-      "price": 0.1088286407,
-      "proceeds": 34.23,
-      "pnl_usd": -15.77,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-19T10:33:07+00:00",
       "side": "sell",
@@ -4521,6 +4484,26 @@
       "address": "Fxaxs65swkLffLdMnjZZ5rdVSk62h5dwo7JE14ZPpump",
       "price": 9.207504037114936e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T15:55:28+00:00",
+      "side": "sell",
+      "symbol": "KFC",
+      "address": "2xzCuMVspyMxrpnb1yZavnrwyRj6rfPdVgXaR3bJpump",
+      "price": 2.926633678e-06,
+      "proceeds": 15.37,
+      "pnl_usd": -34.63,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T15:55:28+00:00",
+      "side": "sell",
+      "symbol": "Snipercat",
+      "address": "Fxaxs65swkLffLdMnjZZ5rdVSk62h5dwo7JE14ZPpump",
+      "price": 3.196039417e-06,
+      "proceeds": 16.38,
+      "pnl_usd": -33.62,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -8283,6 +8266,10 @@
     {
       "date": "2026-10-22T15:16:18+00:00",
       "equity": 5884015.26
+    },
+    {
+      "date": "2026-10-22T15:55:28+00:00",
+      "equity": 5883951.77
     }
   ]
 }
