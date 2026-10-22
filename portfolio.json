@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5882957.885455554,
+  "cash": 5882965.765523437,
   "positions": {
-    "FLcRHLWPky2DppuLh5SwvsKvmruXqTcbcJhwmEESpump": {
-      "symbol": "AMF",
-      "qty": 2184297.7359326673,
-      "entry_price": 2.266174578021257e-05,
-      "last_price": 2.193765188e-05,
+    "EHjYHEtUweibu5F5AmJdQoYLXDCzmhM4GVZEU1ZApump": {
+      "symbol": "666",
+      "qty": 4672106.017148629,
+      "entry_price": 1.0594793829231145e-05,
+      "last_price": 1.0223722604657624e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-21T23:47:14+00:00",
-      "missing": 0
-    },
-    "Gg7iYWMD33CQgT7U8UkXKRNWD9H42TfaGbRrDwxupump": {
-      "symbol": "CIMCHI",
-      "qty": 4181145.080111852,
-      "entry_price": 1.1838862094370521e-05,
-      "last_price": 1.1404417692822348e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T00:09:03+00:00",
+      "entry_time": "2026-10-22T00:56:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T21:30:06+00:00",
-      "side": "buy",
-      "symbol": "safu",
-      "address": "8rghWwSTHSzEzp5GZd9nUzRZ8oZ4JUrdQjNd5a2spump",
-      "price": 2.26411197462193e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T21:57:34+00:00",
-      "side": "sell",
-      "symbol": "LEYS",
-      "address": "2vDXPJeoJT5VWMghJ12feP1CVqzCDsf9GyNnzca4pump",
-      "price": 3.787785472e-05,
-      "proceeds": 46.0,
-      "pnl_usd": -4.0,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T21:57:34+00:00",
-      "side": "sell",
-      "symbol": "safufun",
-      "address": "DysNEXDh24ZA5TMa3cT2BFnCYhq34MZGkpnaqq5rpump",
-      "price": 7.977157211e-05,
-      "proceeds": 24.05,
-      "pnl_usd": -25.95,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-18T21:57:34+00:00",
       "side": "sell",
@@ -4523,6 +4486,34 @@
       "address": "Gg7iYWMD33CQgT7U8UkXKRNWD9H42TfaGbRrDwxupump",
       "price": 1.1838862094370521e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T00:56:05+00:00",
+      "side": "sell",
+      "symbol": "AMF",
+      "address": "FLcRHLWPky2DppuLh5SwvsKvmruXqTcbcJhwmEESpump",
+      "price": 2.193765188e-05,
+      "proceeds": 45.88,
+      "pnl_usd": -4.12,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T00:56:05+00:00",
+      "side": "sell",
+      "symbol": "CIMCHI",
+      "address": "Gg7iYWMD33CQgT7U8UkXKRNWD9H42TfaGbRrDwxupump",
+      "price": 3.005222348e-06,
+      "proceeds": 12.0,
+      "pnl_usd": -38.0,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T00:56:05+00:00",
+      "side": "buy",
+      "symbol": "666",
+      "address": "EHjYHEtUweibu5F5AmJdQoYLXDCzmhM4GVZEU1ZApump",
+      "price": 1.0594793829231145e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8197,6 +8188,10 @@
     {
       "date": "2026-10-22T00:09:03+00:00",
       "equity": 5883053.49
+    },
+    {
+      "date": "2026-10-22T00:56:05+00:00",
+      "equity": 5883013.53
     }
   ]
 }
