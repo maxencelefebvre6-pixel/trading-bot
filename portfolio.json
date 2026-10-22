@@ -1,55 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883787.221177938,
+  "cash": 5883702.850940575,
   "positions": {
     "cTR1ApbZG6VyhwkWC4KvFr4hZzkjbLwQd2rjk15pump": {
       "symbol": "STENKS",
       "qty": 1519925.1114128511,
       "entry_price": 3.2567394030346086e-05,
-      "last_price": 3.155319535207505e-05,
+      "last_price": 3.146742023e-05,
       "cost": 50.0,
       "entry_time": "2026-10-22T06:17:10+00:00",
       "missing": 0
     },
-    "7ZcbE4g9q4PWwDT1KtG8Lq2K92EEQiZhcMTxUfM5pump": {
-      "symbol": "PairCity",
-      "qty": 5531343.110150709,
-      "entry_price": 8.949001899585886e-06,
-      "last_price": 8.608376709019735e-06,
+    "9jFkLjPsgzc7EpsoHpdbyRxYDhSoP9kzXgBCwJ2dpump": {
+      "symbol": "FROGGY",
+      "qty": 1441971.3999208626,
+      "entry_price": 3.432800401084004e-05,
+      "last_price": 3.3140517098204246e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-22T06:17:10+00:00",
+      "entry_time": "2026-10-22T07:13:45+00:00",
+      "missing": 0
+    },
+    "BUQGK3AqZH9rZZSVmsb5DZVH6hcx3yiY3bGW8RRCpump": {
+      "symbol": "ACTIII",
+      "qty": 3152330.9151921957,
+      "entry_price": 1.5702666164088935e-05,
+      "last_price": 1.5133556778523931e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T07:13:45+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T03:07:42+00:00",
-      "side": "sell",
-      "symbol": "War Pepe",
-      "address": "A7dPkHtsDbzQUmjfEyx8MLc3VrVMX4mnpmedJRd5pump",
-      "price": 1.205150155e-09,
-      "proceeds": 0.01,
-      "pnl_usd": -49.99,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-19T03:07:42+00:00",
-      "side": "sell",
-      "symbol": "INUX",
-      "address": "4i63xadHWNuyRWSSWSgPZexWy7K2CAUQPsB5Vfvepump",
-      "price": 4.422857484e-06,
-      "proceeds": 29.15,
-      "pnl_usd": -20.85,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T03:07:43+00:00",
-      "side": "buy",
-      "symbol": "CROONER",
-      "address": "4d9PJsheMw4XqfvFTwj3wAnpdbXpXw39Ko3pwED2pump",
-      "price": 9.498614417949759e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T03:07:43+00:00",
       "side": "buy",
@@ -4521,6 +4502,32 @@
       "address": "7ZcbE4g9q4PWwDT1KtG8Lq2K92EEQiZhcMTxUfM5pump",
       "price": 8.949001899585886e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T07:13:44+00:00",
+      "side": "sell",
+      "symbol": "PairCity",
+      "address": "7ZcbE4g9q4PWwDT1KtG8Lq2K92EEQiZhcMTxUfM5pump",
+      "price": 2.964009451e-06,
+      "proceeds": 15.63,
+      "pnl_usd": -34.37,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T07:13:45+00:00",
+      "side": "buy",
+      "symbol": "FROGGY",
+      "address": "9jFkLjPsgzc7EpsoHpdbyRxYDhSoP9kzXgBCwJ2dpump",
+      "price": 3.432800401084004e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T07:13:45+00:00",
+      "side": "buy",
+      "symbol": "ACTIII",
+      "address": "BUQGK3AqZH9rZZSVmsb5DZVH6hcx3yiY3bGW8RRCpump",
+      "price": 1.5702666164088935e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8231,6 +8238,10 @@
     {
       "date": "2026-10-22T06:17:10+00:00",
       "equity": 5883882.8
+    },
+    {
+      "date": "2026-10-22T07:13:45+00:00",
+      "equity": 5883846.17
     }
   ]
 }
