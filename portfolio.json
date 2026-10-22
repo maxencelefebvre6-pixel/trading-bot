@@ -1,80 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883893.61975398,
+  "cash": 5883920.022355272,
   "positions": {
-    "A5s9YyPy6WxiqE3bHebfWmDCwi3GLymJxQz7E1rDpump": {
-      "symbol": "NUTCAT",
-      "qty": 16067969.013634084,
-      "entry_price": 3.0806631477816507e-06,
-      "last_price": 2.939503329e-06,
+    "2xzCuMVspyMxrpnb1yZavnrwyRj6rfPdVgXaR3bJpump": {
+      "symbol": "KFC",
+      "qty": 5509185.809471276,
+      "entry_price": 8.984993738076623e-06,
+      "last_price": 8.645296992834705e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-22T13:59:54+00:00",
+      "entry_time": "2026-10-22T15:16:18+00:00",
       "missing": 0
     },
-    "YHmDZQuamPVAVhES5PQTFN5uAjfAw78MNSH4gh4pump": {
-      "symbol": "AURA",
-      "qty": 5547125.940302528,
-      "entry_price": 8.923539961542747e-06,
-      "last_price": 8.584677218364001e-06,
+    "Fxaxs65swkLffLdMnjZZ5rdVSk62h5dwo7JE14ZPpump": {
+      "symbol": "Snipercat",
+      "qty": 5376049.774235043,
+      "entry_price": 9.207504037114936e-06,
+      "last_price": 8.855611395072196e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-22T14:37:28+00:00",
-      "missing": 0
-    },
-    "G4wmrx15b8XChfhPg1C9qycMfKNAFSHnsLz1gU1wpump": {
-      "symbol": "TRUMPOCEAN",
-      "qty": 204338.04635530722,
-      "entry_price": 0.00024224563600812928,
-      "last_price": 0.00023489786667099354,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T14:37:28+00:00",
+      "entry_time": "2026-10-22T15:16:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T09:14:36+00:00",
-      "side": "sell",
-      "symbol": "Loadstar",
-      "address": "5KSHcaaVhxQnL9Cb8ppv1AoBUWmxWPJbU9ASHeQFpump",
-      "price": 3.202894815e-06,
-      "proceeds": 13.73,
-      "pnl_usd": -36.27,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T09:14:36+00:00",
-      "side": "buy",
-      "symbol": "SHITTER",
-      "address": "5hPopWBHzXZ8SmD6zEGX1jFmkmBGXwsjtyMeWzoypump",
-      "price": 2.078387886856847e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T09:57:02+00:00",
-      "side": "sell",
-      "symbol": "SHITTER",
-      "address": "5hPopWBHzXZ8SmD6zEGX1jFmkmBGXwsjtyMeWzoypump",
-      "price": 2.966178411e-06,
-      "proceeds": 6.76,
-      "pnl_usd": -43.24,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T09:57:02+00:00",
-      "side": "buy",
-      "symbol": "MRBAG",
-      "address": "9rgApJdeDKWJ1aYAP8dVvEVEWcwy6teCVWVwAkvGpump",
-      "price": 0.0779097667474674,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T09:57:02+00:00",
-      "side": "buy",
-      "symbol": "VibeCat",
-      "address": "4zjnzNVTBPabN4NnUBegRVwrPAPuLXHJxmcMFEgwpump",
-      "price": 8.359510700623727e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T09:57:02+00:00",
       "side": "buy",
@@ -4528,6 +4475,52 @@
       "address": "G4wmrx15b8XChfhPg1C9qycMfKNAFSHnsLz1gU1wpump",
       "price": 0.00024224563600812928,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T15:16:18+00:00",
+      "side": "sell",
+      "symbol": "NUTCAT",
+      "address": "A5s9YyPy6WxiqE3bHebfWmDCwi3GLymJxQz7E1rDpump",
+      "price": 2.939503329e-06,
+      "proceeds": 44.41,
+      "pnl_usd": -5.59,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T15:16:18+00:00",
+      "side": "sell",
+      "symbol": "AURA",
+      "address": "YHmDZQuamPVAVhES5PQTFN5uAjfAw78MNSH4gh4pump",
+      "price": 4.446365134e-06,
+      "proceeds": 23.46,
+      "pnl_usd": -26.54,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T15:16:18+00:00",
+      "side": "sell",
+      "symbol": "TRUMPOCEAN",
+      "address": "G4wmrx15b8XChfhPg1C9qycMfKNAFSHnsLz1gU1wpump",
+      "price": 0.0002990269351,
+      "proceeds": 58.54,
+      "pnl_usd": 8.54,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-22T15:16:18+00:00",
+      "side": "buy",
+      "symbol": "KFC",
+      "address": "2xzCuMVspyMxrpnb1yZavnrwyRj6rfPdVgXaR3bJpump",
+      "price": 8.984993738076623e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T15:16:18+00:00",
+      "side": "buy",
+      "symbol": "Snipercat",
+      "address": "Fxaxs65swkLffLdMnjZZ5rdVSk62h5dwo7JE14ZPpump",
+      "price": 9.207504037114936e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8286,6 +8279,10 @@
     {
       "date": "2026-10-22T14:37:28+00:00",
       "equity": 5884036.47
+    },
+    {
+      "date": "2026-10-22T15:16:18+00:00",
+      "equity": 5884015.26
     }
   ]
 }
