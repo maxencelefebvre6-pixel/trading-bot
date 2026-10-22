@@ -1,81 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883462.782796225,
+  "cash": 5883458.55635919,
   "positions": {
-    "CtFjTRs6f1BHxQD8DAkTWgFQK3wNtipuJidBE5Hepump": {
-      "symbol": "pokeball",
-      "qty": 5041298.756230708,
-      "entry_price": 9.81889834218242e-06,
-      "last_price": 9.471292878e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T08:01:29+00:00",
-      "missing": 0
-    },
-    "EVLG9Unj6ud2cEs7RBEzifiGcKJcXvCa9asUumJppump": {
-      "symbol": "Au",
-      "qty": 591564.6486919265,
-      "entry_price": 8.367639971295595e-05,
-      "last_price": 8.112697532261786e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T08:41:46+00:00",
-      "missing": 0
-    },
-    "efCBajyiZEKW4xB9Zv6RJxHNfQno915xzyS1L7cpump": {
-      "symbol": "Claude AI",
-      "qty": 124557.4359988665,
-      "entry_price": 0.00039740702434217147,
-      "last_price": 0.00038546618182862095,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T08:41:46+00:00",
-      "missing": 0
-    },
     "FtPtSVQmqfa7BMq1uuhgTkyRxGVJeBVEE5ZkGt5wpump": {
       "symbol": "$LOAD",
       "qty": 4986319.85454179,
       "entry_price": 9.927161001296962e-06,
-      "last_price": 9.576344705265904e-06,
+      "last_price": 9.576344705e-06,
       "cost": 50.0,
       "entry_time": "2026-10-22T08:41:46+00:00",
+      "missing": 0
+    },
+    "EM477JZAx9i6RdjgyjPiGgHuK3Q3bPmEyoG3KFYbpump": {
+      "symbol": "gottapee",
+      "qty": 34943760.3086607,
+      "entry_price": 1.4165619144237198e-06,
+      "last_price": 1.3654742513604752e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T09:19:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T05:00:25+00:00",
-      "side": "buy",
-      "symbol": "BitCoin",
-      "address": "ACaQ9HZKiC4qA6dqd96qNg7Jbe7UQxnsDQBddNYRpump",
-      "price": 6.886267716916354e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T05:00:25+00:00",
-      "side": "buy",
-      "symbol": "BOB",
-      "address": "5NTD7w8cji3SdKjBaUq4vkzPat7Yxp8n7URMCZwrpump",
-      "price": 8.661219322761921e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T05:34:20+00:00",
-      "side": "sell",
-      "symbol": "BitCoin",
-      "address": "ACaQ9HZKiC4qA6dqd96qNg7Jbe7UQxnsDQBddNYRpump",
-      "price": 3.084830211e-06,
-      "proceeds": 21.1,
-      "pnl_usd": -28.9,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T05:34:20+00:00",
-      "side": "sell",
-      "symbol": "BOB",
-      "address": "5NTD7w8cji3SdKjBaUq4vkzPat7Yxp8n7URMCZwrpump",
-      "price": 1.443045192e-05,
-      "proceeds": 78.55,
-      "pnl_usd": 28.55,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-19T05:34:21+00:00",
       "side": "buy",
@@ -4535,6 +4481,44 @@
       "address": "FtPtSVQmqfa7BMq1uuhgTkyRxGVJeBVEE5ZkGt5wpump",
       "price": 9.927161001296962e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T09:19:18+00:00",
+      "side": "sell",
+      "symbol": "pokeball",
+      "address": "CtFjTRs6f1BHxQD8DAkTWgFQK3wNtipuJidBE5Hepump",
+      "price": 9.471292878e-06,
+      "proceeds": 45.55,
+      "pnl_usd": -4.45,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T09:19:18+00:00",
+      "side": "sell",
+      "symbol": "Au",
+      "address": "EVLG9Unj6ud2cEs7RBEzifiGcKJcXvCa9asUumJppump",
+      "price": 4.712443262e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-22T09:19:18+00:00",
+      "side": "sell",
+      "symbol": "Claude AI",
+      "address": "efCBajyiZEKW4xB9Zv6RJxHNfQno915xzyS1L7cpump",
+      "price": 1.875823217e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-22T09:19:18+00:00",
+      "side": "buy",
+      "symbol": "gottapee",
+      "address": "EM477JZAx9i6RdjgyjPiGgHuK3Q3bPmEyoG3KFYbpump",
+      "price": 1.4165619144237198e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8257,6 +8241,10 @@
     {
       "date": "2026-10-22T08:41:46+00:00",
       "equity": 5883654.29
+    },
+    {
+      "date": "2026-10-22T09:19:18+00:00",
+      "equity": 5883554.02
     }
   ]
 }
