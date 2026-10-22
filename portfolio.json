@@ -1,54 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5883669.11253814,
+  "cash": 5883469.11253814,
   "positions": {
     "7GpHsPkUhJmovK2C5LpsbMA9rzwacFjhm8Gfc71pump": {
       "symbol": "wind",
       "qty": 750181.155789003,
       "entry_price": 6.598406214021516e-05,
-      "last_price": 6.400048398293017e-05,
+      "last_price": 6.388515441e-05,
       "cost": 50.0,
       "entry_time": "2026-10-22T05:10:45+00:00",
+      "missing": 0
+    },
+    "FjPVqJmRK9fYZpY5PC5qT97CtoyZyNMfQDVnq8jkpump": {
+      "symbol": "4",
+      "qty": 2416936.6514042034,
+      "entry_price": 2.048047058711334e-05,
+      "last_price": 1.9750993669220242e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T05:46:08+00:00",
+      "missing": 0
+    },
+    "kFFVJgeNihR7mgByhfrmvQw2oTBqyDfsBHqSaqspump": {
+      "symbol": "Gemini",
+      "qty": 115824.2698193494,
+      "entry_price": 0.0004273715696822862,
+      "last_price": 0.00041454955968849407,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T05:46:08+00:00",
+      "missing": 0
+    },
+    "Ho64cWfach3gsH5d3EvT2LYPZC1A546KTtV5uYPXpump": {
+      "symbol": "fomo",
+      "qty": 124420.4782262771,
+      "entry_price": 0.00039784447629253526,
+      "last_price": 0.0003858923032479209,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T05:46:08+00:00",
+      "missing": 0
+    },
+    "3CVEMMd1uvAjYCEMVXifYTzZLUzPRjbZo9FztMhDpump": {
+      "symbol": "$BWIZ",
+      "qty": 6524791.793011036,
+      "entry_price": 7.586448973440259e-06,
+      "last_price": 7.300789651605453e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T05:46:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T02:01:25+00:00",
-      "side": "buy",
-      "symbol": "MemeMarket",
-      "address": "A85vBkD3WCiWdYssMh3RAvsQzneYCuZCCEk429Ewpump",
-      "price": 8.926851053738432e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T02:01:25+00:00",
-      "side": "buy",
-      "symbol": "SOL",
-      "address": "95Nw2RCPpWaGFch7sSTvHwKgxpVexcvCDpRBreMVpump",
-      "price": 3.372991527281613e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T02:33:34+00:00",
-      "side": "sell",
-      "symbol": "HARDFORK",
-      "address": "2u9gENQpHLSHGaB7VvSxCshMCjD9C6HpPmvD214Fpump",
-      "price": 1.2308052e-05,
-      "proceeds": 29.2,
-      "pnl_usd": -20.8,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T02:33:34+00:00",
-      "side": "sell",
-      "symbol": "MemeMarket",
-      "address": "A85vBkD3WCiWdYssMh3RAvsQzneYCuZCCEk429Ewpump",
-      "price": 3.287257092e-06,
-      "proceeds": 17.37,
-      "pnl_usd": -32.63,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-19T02:33:34+00:00",
       "side": "buy",
@@ -4512,6 +4512,38 @@
       "address": "7GpHsPkUhJmovK2C5LpsbMA9rzwacFjhm8Gfc71pump",
       "price": 6.598406214021516e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T05:46:08+00:00",
+      "side": "buy",
+      "symbol": "4",
+      "address": "FjPVqJmRK9fYZpY5PC5qT97CtoyZyNMfQDVnq8jkpump",
+      "price": 2.048047058711334e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T05:46:08+00:00",
+      "side": "buy",
+      "symbol": "Gemini",
+      "address": "kFFVJgeNihR7mgByhfrmvQw2oTBqyDfsBHqSaqspump",
+      "price": 0.0004273715696822862,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T05:46:08+00:00",
+      "side": "buy",
+      "symbol": "fomo",
+      "address": "Ho64cWfach3gsH5d3EvT2LYPZC1A546KTtV5uYPXpump",
+      "price": 0.00039784447629253526,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T05:46:08+00:00",
+      "side": "buy",
+      "symbol": "$BWIZ",
+      "address": "3CVEMMd1uvAjYCEMVXifYTzZLUzPRjbZo9FztMhDpump",
+      "price": 7.586448973440259e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8214,6 +8246,10 @@
     {
       "date": "2026-10-22T05:10:45+00:00",
       "equity": 5883717.12
+    },
+    {
+      "date": "2026-10-22T05:46:08+00:00",
+      "equity": 5883708.44
     }
   ]
 }
