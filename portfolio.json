@@ -1,53 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883978.2771987375,
+  "cash": 5883893.61975398,
   "positions": {
-    "79sxWJtQAENM2GPFKrjvpcnnt9egbcQehr3cyimEpump": {
-      "symbol": "Susan",
-      "qty": 3073321.096743402,
-      "entry_price": 1.6106354800496415e-05,
-      "last_price": 1.551220723034599e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T13:59:54+00:00",
-      "missing": 0
-    },
     "A5s9YyPy6WxiqE3bHebfWmDCwi3GLymJxQz7E1rDpump": {
       "symbol": "NUTCAT",
       "qty": 16067969.013634084,
       "entry_price": 3.0806631477816507e-06,
-      "last_price": 2.9736766998296542e-06,
+      "last_price": 2.939503329e-06,
       "cost": 50.0,
       "entry_time": "2026-10-22T13:59:54+00:00",
+      "missing": 0
+    },
+    "YHmDZQuamPVAVhES5PQTFN5uAjfAw78MNSH4gh4pump": {
+      "symbol": "AURA",
+      "qty": 5547125.940302528,
+      "entry_price": 8.923539961542747e-06,
+      "last_price": 8.584677218364001e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T14:37:28+00:00",
+      "missing": 0
+    },
+    "G4wmrx15b8XChfhPg1C9qycMfKNAFSHnsLz1gU1wpump": {
+      "symbol": "TRUMPOCEAN",
+      "qty": 204338.04635530722,
+      "entry_price": 0.00024224563600812928,
+      "last_price": 0.00023489786667099354,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T14:37:28+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T08:32:01+00:00",
-      "side": "buy",
-      "symbol": "MEM",
-      "address": "8jRHHdAywNvLgBQNsAB7Y5SUjMUcwkMkqqQiA3Pbpump",
-      "price": 9.03598772976367e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T08:32:01+00:00",
-      "side": "buy",
-      "symbol": "Loadstar",
-      "address": "5KSHcaaVhxQnL9Cb8ppv1AoBUWmxWPJbU9ASHeQFpump",
-      "price": 1.1023754695059406e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T09:14:36+00:00",
-      "side": "sell",
-      "symbol": "MEM",
-      "address": "8jRHHdAywNvLgBQNsAB7Y5SUjMUcwkMkqqQiA3Pbpump",
-      "price": 2.574563382e-06,
-      "proceeds": 1.35,
-      "pnl_usd": -48.65,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-19T09:14:36+00:00",
       "side": "sell",
@@ -4519,6 +4502,32 @@
       "address": "A5s9YyPy6WxiqE3bHebfWmDCwi3GLymJxQz7E1rDpump",
       "price": 3.0806631477816507e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T14:37:27+00:00",
+      "side": "sell",
+      "symbol": "Susan",
+      "address": "79sxWJtQAENM2GPFKrjvpcnnt9egbcQehr3cyimEpump",
+      "price": 5.229790543e-06,
+      "proceeds": 15.34,
+      "pnl_usd": -34.66,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T14:37:28+00:00",
+      "side": "buy",
+      "symbol": "AURA",
+      "address": "YHmDZQuamPVAVhES5PQTFN5uAjfAw78MNSH4gh4pump",
+      "price": 8.923539961542747e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T14:37:28+00:00",
+      "side": "buy",
+      "symbol": "TRUMPOCEAN",
+      "address": "G4wmrx15b8XChfhPg1C9qycMfKNAFSHnsLz1gU1wpump",
+      "price": 0.00024224563600812928,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8273,6 +8282,10 @@
     {
       "date": "2026-10-22T13:59:54+00:00",
       "equity": 5884073.73
+    },
+    {
+      "date": "2026-10-22T14:37:28+00:00",
+      "equity": 5884036.47
     }
   ]
 }
