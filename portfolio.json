@@ -1,67 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883458.55635919,
+  "cash": 5883397.55089308,
   "positions": {
-    "FtPtSVQmqfa7BMq1uuhgTkyRxGVJeBVEE5ZkGt5wpump": {
-      "symbol": "$LOAD",
-      "qty": 4986319.85454179,
-      "entry_price": 9.927161001296962e-06,
-      "last_price": 9.576344705e-06,
+    "7kjKi4YhDyH4aGounoBA9HhUWKtLbf2hEZXxsyEJpump": {
+      "symbol": "SHAV",
+      "qty": 588255.568170417,
+      "entry_price": 8.414709979533913e-05,
+      "last_price": 8.158382669267895e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-22T08:41:46+00:00",
+      "entry_time": "2026-10-22T09:59:51+00:00",
       "missing": 0
     },
-    "EM477JZAx9i6RdjgyjPiGgHuK3Q3bPmEyoG3KFYbpump": {
-      "symbol": "gottapee",
-      "qty": 34943760.3086607,
-      "entry_price": 1.4165619144237198e-06,
-      "last_price": 1.3654742513604752e-06,
+    "5P8isBsR2ercinDkGTQuVKMLeDqLvC96PgqSpcN3pump": {
+      "symbol": "KIMBANDS",
+      "qty": 1246868.525890219,
+      "entry_price": 3.969945425052637e-05,
+      "last_price": 3.842100466518562e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-22T09:19:18+00:00",
+      "entry_time": "2026-10-22T09:59:51+00:00",
+      "missing": 0
+    },
+    "FMXKReevsJCewNbjP19Ax6rMtjCUB2xGwrvGrtqUpump": {
+      "symbol": "bugsauce",
+      "qty": 7059654.421023844,
+      "entry_price": 7.011674658264808e-06,
+      "last_price": 6.744973268767082e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T09:59:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T05:34:21+00:00",
-      "side": "buy",
-      "symbol": "sats",
-      "address": "8RDqc6H7YVth154qnEebVj1Er4vvUUDr4dG84NB9pump",
-      "price": 1.176464497440782e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T05:34:21+00:00",
-      "side": "buy",
-      "symbol": "Gentlemen",
-      "address": "EUSTbYtjzWPWZCP8LifC6nEwQc2URgC9ykxUaT9jpump",
-      "price": 1.2492409943519767e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T05:34:21+00:00",
-      "side": "buy",
-      "symbol": "moca",
-      "address": "48iy9xw2YLAXdxbKxkxp9YHHQvehvypzs4mGArxHpump",
-      "price": 1.2520170718947468e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T05:34:21+00:00",
-      "side": "buy",
-      "symbol": "FOMOCAT",
-      "address": "HLDo3dYkrLmVcWvDdw98nSBvm4uErVgxG2PTPXtnpump",
-      "price": 1.0632539215777258e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T05:34:21+00:00",
-      "side": "buy",
-      "symbol": "$AURA",
-      "address": "7SyHYfNjoZ7nyvM5kD8JzpThyLZC929EMkcVEoL2pump",
-      "price": 2.4242347808579307e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T06:09:56+00:00",
       "side": "sell",
@@ -4519,6 +4488,50 @@
       "address": "EM477JZAx9i6RdjgyjPiGgHuK3Q3bPmEyoG3KFYbpump",
       "price": 1.4165619144237198e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T09:59:51+00:00",
+      "side": "sell",
+      "symbol": "$LOAD",
+      "address": "FtPtSVQmqfa7BMq1uuhgTkyRxGVJeBVEE5ZkGt5wpump",
+      "price": 9.576344705e-06,
+      "proceeds": 45.56,
+      "pnl_usd": -4.44,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T09:59:51+00:00",
+      "side": "sell",
+      "symbol": "gottapee",
+      "address": "EM477JZAx9i6RdjgyjPiGgHuK3Q3bPmEyoG3KFYbpump",
+      "price": 1.36142713e-06,
+      "proceeds": 43.44,
+      "pnl_usd": -6.56,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-22T09:59:51+00:00",
+      "side": "buy",
+      "symbol": "SHAV",
+      "address": "7kjKi4YhDyH4aGounoBA9HhUWKtLbf2hEZXxsyEJpump",
+      "price": 8.414709979533913e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T09:59:51+00:00",
+      "side": "buy",
+      "symbol": "KIMBANDS",
+      "address": "5P8isBsR2ercinDkGTQuVKMLeDqLvC96PgqSpcN3pump",
+      "price": 3.969945425052637e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T09:59:51+00:00",
+      "side": "buy",
+      "symbol": "bugsauce",
+      "address": "FMXKReevsJCewNbjP19Ax6rMtjCUB2xGwrvGrtqUpump",
+      "price": 7.011674658264808e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8245,6 +8258,10 @@
     {
       "date": "2026-10-22T09:19:18+00:00",
       "equity": 5883554.02
+    },
+    {
+      "date": "2026-10-22T09:59:51+00:00",
+      "equity": 5883541.07
     }
   ]
 }
