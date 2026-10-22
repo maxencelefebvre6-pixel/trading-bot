@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5883997.954921362,
+  "cash": 5884023.32646554,
   "positions": {
-    "FMXKReevsJCewNbjP19Ax6rMtjCUB2xGwrvGrtqUpump": {
-      "symbol": "bugsauce",
-      "qty": 7059654.421023844,
-      "entry_price": 7.011674658264808e-06,
-      "last_price": 6.744973269e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T09:59:51+00:00",
-      "missing": 0
-    },
-    "8KXgCH7S992tBkXMz6HRBgiexAQxfTmywM7Vrhp9pump": {
-      "symbol": "CYBER",
-      "qty": 581778.3486436156,
-      "entry_price": 8.508395012534678e-05,
-      "last_price": 8.24930003868409e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T10:35:16+00:00",
-      "missing": 0
-    },
     "GrVefczWMYJKXYeFWHLntaFQi4z127KBCQGCmSz6pump": {
       "symbol": "FUN",
       "qty": 6751043.271955516,
       "entry_price": 7.3322000772277325e-06,
-      "last_price": 7.055638483642949e-06,
+      "last_price": 7.055638484e-06,
       "cost": 50.0,
       "entry_time": "2026-10-22T10:35:16+00:00",
       "missing": 0
@@ -33,43 +15,22 @@
       "symbol": "Kimichi",
       "qty": 8188289.678411621,
       "entry_price": 6.04521846979919e-06,
-      "last_price": 5.818084746259433e-06,
+      "last_price": 5.818084746e-06,
       "cost": 50.0,
       "entry_time": "2026-10-22T10:35:16+00:00",
+      "missing": 0
+    },
+    "9Kf1zfbPXQV4WuoP196i44KBfm3qBm8XxrTHJ4JMpump": {
+      "symbol": "Ppump",
+      "qty": 3991729.6192220123,
+      "entry_price": 1.2400639502644356e-05,
+      "last_price": 1.1950029464374699e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T11:11:58+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T07:03:23+00:00",
-      "side": "sell",
-      "symbol": "FOMOCAT",
-      "address": "HLDo3dYkrLmVcWvDdw98nSBvm4uErVgxG2PTPXtnpump",
-      "price": 1.026040838e-05,
-      "proceeds": 45.59,
-      "pnl_usd": -4.41,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-19T07:03:23+00:00",
-      "side": "sell",
-      "symbol": "$AURA",
-      "address": "7SyHYfNjoZ7nyvM5kD8JzpThyLZC929EMkcVEoL2pump",
-      "price": 2.346803019e-05,
-      "proceeds": 45.88,
-      "pnl_usd": -4.12,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-19T07:03:23+00:00",
-      "side": "sell",
-      "symbol": "Kibi",
-      "address": "AhNvKVePsFxVGwDe4gQ8UQ8qhh5AmXy3uNrrcDnVpump",
-      "price": 3.176561754e-06,
-      "proceeds": 13.78,
-      "pnl_usd": -36.22,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-19T07:52:35+00:00",
       "side": "sell",
@@ -4539,6 +4500,34 @@
       "address": "J1mfwywdPwwjBGLbrWi5FnwMeF9uWhHYmJLvTAT8pump",
       "price": 6.04521846979919e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T11:11:58+00:00",
+      "side": "sell",
+      "symbol": "bugsauce",
+      "address": "FMXKReevsJCewNbjP19Ax6rMtjCUB2xGwrvGrtqUpump",
+      "price": 6.744973269e-06,
+      "proceeds": 45.3,
+      "pnl_usd": -4.7,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T11:11:58+00:00",
+      "side": "sell",
+      "symbol": "CYBER",
+      "address": "8KXgCH7S992tBkXMz6HRBgiexAQxfTmywM7Vrhp9pump",
+      "price": 0.0001044267196,
+      "proceeds": 30.07,
+      "pnl_usd": -19.93,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-22T11:11:58+00:00",
+      "side": "buy",
+      "symbol": "Ppump",
+      "address": "9Kf1zfbPXQV4WuoP196i44KBfm3qBm8XxrTHJ4JMpump",
+      "price": 1.2400639502644356e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8273,6 +8262,10 @@
     {
       "date": "2026-10-22T10:35:16+00:00",
       "equity": 5884188.84
+    },
+    {
+      "date": "2026-10-22T11:11:58+00:00",
+      "equity": 5884166.3
     }
   ]
 }
