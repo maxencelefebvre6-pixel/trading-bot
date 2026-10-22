@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5884075.141475957,
-  "positions": {
-    "Bqup9PRwv3GD2QcVHfYXoqu7f14YtMKifPxDqfWJpump": {
-      "symbol": "udream",
-      "qty": 1499137.6576024138,
-      "entry_price": 3.3018982445658695e-05,
-      "last_price": 3.187816832746502e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T12:22:07+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5884078.2771987375,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-19T08:32:01+00:00",
-      "side": "sell",
-      "symbol": "VERDX",
-      "address": "aeSZot52ewRKzwwvxtMTxZJ9uFniv4L41MevCtwpump",
-      "price": 6.043603684e-06,
-      "proceeds": 6.06,
-      "pnl_usd": -43.94,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-19T08:32:01+00:00",
       "side": "sell",
@@ -4514,6 +4494,16 @@
       "address": "Bqup9PRwv3GD2QcVHfYXoqu7f14YtMKifPxDqfWJpump",
       "price": 3.3018982445658695e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T13:15:48+00:00",
+      "side": "sell",
+      "symbol": "udream",
+      "address": "Bqup9PRwv3GD2QcVHfYXoqu7f14YtMKifPxDqfWJpump",
+      "price": 2.184866781e-06,
+      "proceeds": 3.14,
+      "pnl_usd": -46.86,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -8260,6 +8250,10 @@
     {
       "date": "2026-10-22T12:22:07+00:00",
       "equity": 5884122.93
+    },
+    {
+      "date": "2026-10-22T13:15:48+00:00",
+      "equity": 5884078.28
     }
   ]
 }
