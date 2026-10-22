@@ -1,38 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883567.914804311,
+  "cash": 5883539.249383008,
   "positions": {
-    "ETCdQKhXzUorQ22SGMvnZdc527tixz9PEushgWRqpump": {
-      "symbol": "OFFLINE",
-      "qty": 7299849.321745941,
-      "entry_price": 6.780961882670866e-06,
-      "last_price": 6.523572526487306e-06,
+    "3isuxgAYyRN6QsUUpuEMGey6S28skLFrcP86kWampump": {
+      "symbol": "CRIME",
+      "qty": 3866818.532220638,
+      "entry_price": 1.2801221362610239e-05,
+      "last_price": 1.233682127245347e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-22T20:08:59+00:00",
+      "entry_time": "2026-10-22T20:43:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T15:55:13+00:00",
-      "side": "sell",
-      "symbol": "BRADYROGERS",
-      "address": "BkhbP6uTywbRFcQzrREbTbpKW98PNzVZ9fidRbG7pump",
-      "price": 1.392809731e-05,
-      "proceeds": 25.25,
-      "pnl_usd": -24.75,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T15:55:13+00:00",
-      "side": "sell",
-      "symbol": "OPIUMBIRD",
-      "address": "2eFdCrSynu9MifctxekW2WemDvpuCzBTzLxWDG3Fpump",
-      "price": 2.945522534e-06,
-      "proceeds": 2.47,
-      "pnl_usd": -47.53,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-19T15:55:13+00:00",
       "side": "sell",
@@ -4514,6 +4494,24 @@
       "address": "ETCdQKhXzUorQ22SGMvnZdc527tixz9PEushgWRqpump",
       "price": 6.780961882670866e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T20:43:27+00:00",
+      "side": "sell",
+      "symbol": "OFFLINE",
+      "address": "ETCdQKhXzUorQ22SGMvnZdc527tixz9PEushgWRqpump",
+      "price": 3.073905338e-06,
+      "proceeds": 21.33,
+      "pnl_usd": -28.67,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T20:43:27+00:00",
+      "side": "buy",
+      "symbol": "CRIME",
+      "address": "3isuxgAYyRN6QsUUpuEMGey6S28skLFrcP86kWampump",
+      "price": 1.2801221362610239e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8308,6 +8306,10 @@
     {
       "date": "2026-10-22T20:08:59+00:00",
       "equity": 5883615.54
+    },
+    {
+      "date": "2026-10-22T20:43:27+00:00",
+      "equity": 5883586.95
     }
   ]
 }
