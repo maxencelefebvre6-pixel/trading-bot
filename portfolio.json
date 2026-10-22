@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883551.025965406,
-  "positions": {},
+  "cash": 5883501.025965406,
+  "positions": {
+    "7d7XQnTsuzg2YAtvv8LLsK1EbRgnCZUBHmFuk742pump": {
+      "symbol": "1",
+      "qty": 1152192.3844317298,
+      "entry_price": 4.296157540080755e-05,
+      "last_price": 4.159641414288068e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T21:53:27+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-19T15:55:13+00:00",
-      "side": "buy",
-      "symbol": "Octo",
-      "address": "DhvbDWdg4RtvX6N7ps1BQvMZ4hzjExr9RCXzzeq9pump",
-      "price": 8.386094937461222e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T15:55:13+00:00",
       "side": "buy",
@@ -4502,6 +4504,14 @@
       "proceeds": 11.78,
       "pnl_usd": -38.22,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T21:53:27+00:00",
+      "side": "buy",
+      "symbol": "1",
+      "address": "7d7XQnTsuzg2YAtvv8LLsK1EbRgnCZUBHmFuk742pump",
+      "price": 4.296157540080755e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8304,6 +8314,10 @@
     {
       "date": "2026-10-22T21:16:42+00:00",
       "equity": 5883551.03
+    },
+    {
+      "date": "2026-10-22T21:53:27+00:00",
+      "equity": 5883548.95
     }
   ]
 }
