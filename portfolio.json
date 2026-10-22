@@ -1,69 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883522.996133398,
+  "cash": 5883571.9774060305,
   "positions": {
-    "3Tza3a2ZNvGNuAut5KiaCqSbv3ogL2HSwngaqFUkpump": {
-      "symbol": "php.gov",
-      "qty": 6508813.82287632,
-      "entry_price": 7.60507234452212e-06,
-      "last_price": 7.313189556e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T18:12:04+00:00",
-      "missing": 0
-    },
-    "JwihzoCXEV8nZD5YwwHr94YrMopZUtCxuw2hJAbpump": {
-      "symbol": "COINBASE",
-      "qty": 129451.83593780946,
-      "entry_price": 0.0003823815988502513,
-      "last_price": 0.00037088795205402614,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T18:58:38+00:00",
-      "missing": 0
-    },
-    "273oHcXRsFqF6Ma3xjan4SGruppm5AwBHfXLcUBJpump": {
-      "symbol": "nut",
-      "qty": 5806907.297124814,
-      "entry_price": 8.524331019458333e-06,
-      "last_price": 8.199231623771076e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T18:58:38+00:00",
-      "missing": 0
-    },
     "HjyZZ4AqPZ6ECzR2BvcxwUbjBbnBJ6KvSJFwYXWApump": {
       "symbol": "DacityC",
       "qty": 1776267.9148055376,
       "entry_price": 2.7867417739974864e-05,
-      "last_price": 2.6993893358813866e-05,
+      "last_price": 2.699389336e-05,
       "cost": 50.0,
       "entry_time": "2026-10-22T18:58:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T15:18:32+00:00",
-      "side": "buy",
-      "symbol": "discat",
-      "address": "A4H4qjZPnQPSyhHgP276RhZYFAGmPPK4HQsvNCyxpump",
-      "price": 0.0003526481536355887,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T15:18:32+00:00",
-      "side": "buy",
-      "symbol": "BRADYROGERS",
-      "address": "BkhbP6uTywbRFcQzrREbTbpKW98PNzVZ9fidRbG7pump",
-      "price": 2.5969875642298103e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T15:18:32+00:00",
-      "side": "buy",
-      "symbol": "OPIUMBIRD",
-      "address": "2eFdCrSynu9MifctxekW2WemDvpuCzBTzLxWDG3Fpump",
-      "price": 5.6651796856874495e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T15:18:32+00:00",
       "side": "buy",
@@ -4535,6 +4484,36 @@
       "address": "HjyZZ4AqPZ6ECzR2BvcxwUbjBbnBJ6KvSJFwYXWApump",
       "price": 2.7867417739974864e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T19:34:07+00:00",
+      "side": "sell",
+      "symbol": "php.gov",
+      "address": "3Tza3a2ZNvGNuAut5KiaCqSbv3ogL2HSwngaqFUkpump",
+      "price": 5.255882364e-06,
+      "proceeds": 32.43,
+      "pnl_usd": -17.57,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T19:34:07+00:00",
+      "side": "sell",
+      "symbol": "COINBASE",
+      "address": "JwihzoCXEV8nZD5YwwHr94YrMopZUtCxuw2hJAbpump",
+      "price": 1.910026378e-06,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-22T19:34:07+00:00",
+      "side": "sell",
+      "symbol": "nut",
+      "address": "273oHcXRsFqF6Ma3xjan4SGruppm5AwBHfXLcUBJpump",
+      "price": 2.948528332e-06,
+      "proceeds": 16.32,
+      "pnl_usd": -33.68,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -8321,6 +8300,10 @@
     {
       "date": "2026-10-22T18:58:38+00:00",
       "equity": 5883714.17
+    },
+    {
+      "date": "2026-10-22T19:34:07+00:00",
+      "equity": 5883619.93
     }
   ]
 }
