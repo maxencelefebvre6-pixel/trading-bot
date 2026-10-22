@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883501.025965406,
+  "cash": 5883376.773666508,
   "positions": {
-    "7d7XQnTsuzg2YAtvv8LLsK1EbRgnCZUBHmFuk742pump": {
-      "symbol": "1",
-      "qty": 1152192.3844317298,
-      "entry_price": 4.296157540080755e-05,
-      "last_price": 4.159641414288068e-05,
+    "3dGBpugcKZ9eoWtqK5R5mQknCrhtYdMmMx4VjTyxpump": {
+      "symbol": "RICH",
+      "qty": 4092894.1969447164,
+      "entry_price": 1.2094131345235115e-05,
+      "last_price": 1.1648851725392355e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-22T21:53:27+00:00",
+      "entry_time": "2026-10-22T22:23:11+00:00",
+      "missing": 0
+    },
+    "3mETQJ1PxuA9qokpt66Xuu4GaGyADR2goTETJz7Bpump": {
+      "symbol": "Batman",
+      "qty": 1786868.712237196,
+      "entry_price": 2.7702091183870465e-05,
+      "last_price": 2.6736346993059675e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T22:23:11+00:00",
+      "missing": 0
+    },
+    "AjnZRJGNT1rxRc2MU65PmkjeV98DrQ3FC1KKvS4Ppump": {
+      "symbol": "Burger",
+      "qty": 5573447.4850866925,
+      "entry_price": 8.88139704060207e-06,
+      "last_price": 8.547251865634271e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T22:23:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T15:55:13+00:00",
-      "side": "buy",
-      "symbol": "NIGHT",
-      "address": "J4RYvrKmiz1Jfx7uR6JDsru8bikYxnm86ew5xr1Tpump",
-      "price": 1.173997731589887e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T15:55:13+00:00",
-      "side": "buy",
-      "symbol": "DOGE PAID",
-      "address": "Fint1z64DYZVrBamRQPmihe6n5VgFL6sZfU157Lvpump",
-      "price": 7.65046332708739e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T16:29:49+00:00",
-      "side": "sell",
-      "symbol": "Octo",
-      "address": "DhvbDWdg4RtvX6N7ps1BQvMZ4hzjExr9RCXzzeq9pump",
-      "price": 9.09023278e-05,
-      "proceeds": 26.56,
-      "pnl_usd": -23.44,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-19T16:29:49+00:00",
-      "side": "sell",
-      "symbol": "NIGHT",
-      "address": "J4RYvrKmiz1Jfx7uR6JDsru8bikYxnm86ew5xr1Tpump",
-      "price": 9.587354101e-07,
-      "proceeds": 3.86,
-      "pnl_usd": -46.14,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-19T16:29:49+00:00",
       "side": "buy",
@@ -4512,6 +4494,40 @@
       "address": "7d7XQnTsuzg2YAtvv8LLsK1EbRgnCZUBHmFuk742pump",
       "price": 4.296157540080755e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T22:23:11+00:00",
+      "side": "sell",
+      "symbol": "1",
+      "address": "7d7XQnTsuzg2YAtvv8LLsK1EbRgnCZUBHmFuk742pump",
+      "price": 4.51448547e-05,
+      "proceeds": 25.75,
+      "pnl_usd": -24.25,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-22T22:23:11+00:00",
+      "side": "buy",
+      "symbol": "RICH",
+      "address": "3dGBpugcKZ9eoWtqK5R5mQknCrhtYdMmMx4VjTyxpump",
+      "price": 1.2094131345235115e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T22:23:11+00:00",
+      "side": "buy",
+      "symbol": "Batman",
+      "address": "3mETQJ1PxuA9qokpt66Xuu4GaGyADR2goTETJz7Bpump",
+      "price": 2.7702091183870465e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T22:23:11+00:00",
+      "side": "buy",
+      "symbol": "Burger",
+      "address": "AjnZRJGNT1rxRc2MU65PmkjeV98DrQ3FC1KKvS4Ppump",
+      "price": 8.88139704060207e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8318,6 +8334,10 @@
     {
       "date": "2026-10-22T21:53:27+00:00",
       "equity": 5883548.95
+    },
+    {
+      "date": "2026-10-22T22:23:11+00:00",
+      "equity": 5883519.86
     }
   ]
 }
