@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5883539.249383008,
-  "positions": {
-    "3isuxgAYyRN6QsUUpuEMGey6S28skLFrcP86kWampump": {
-      "symbol": "CRIME",
-      "qty": 3866818.532220638,
-      "entry_price": 1.2801221362610239e-05,
-      "last_price": 1.233682127245347e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T20:43:27+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5883551.025965406,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-19T15:55:13+00:00",
-      "side": "sell",
-      "symbol": "BH",
-      "address": "6Jz2epXTEpedGUZXrpeEQ42Vm8p4WnFNd3sGZeT8pump",
-      "price": 6.555447394e-08,
-      "proceeds": 0.3,
-      "pnl_usd": -49.7,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-19T15:55:13+00:00",
       "side": "buy",
@@ -4512,6 +4492,16 @@
       "address": "3isuxgAYyRN6QsUUpuEMGey6S28skLFrcP86kWampump",
       "price": 1.2801221362610239e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T21:16:42+00:00",
+      "side": "sell",
+      "symbol": "CRIME",
+      "address": "3isuxgAYyRN6QsUUpuEMGey6S28skLFrcP86kWampump",
+      "price": 3.18785353e-06,
+      "proceeds": 11.78,
+      "pnl_usd": -38.22,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -8310,6 +8300,10 @@
     {
       "date": "2026-10-22T20:43:27+00:00",
       "equity": 5883586.95
+    },
+    {
+      "date": "2026-10-22T21:16:42+00:00",
+      "equity": 5883551.03
     }
   ]
 }
