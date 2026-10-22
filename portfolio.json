@@ -1,88 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5883746.532459279,
+  "cash": 5883666.388750778,
   "positions": {
-    "GEB7cztPJU9CyGSVHRG9n6C27XT9G5s8oTCKykXFpump": {
-      "symbol": "SAVPIR",
-      "qty": 5864564.888649383,
-      "entry_price": 8.440523881968661e-06,
-      "last_price": 8.125249289e-06,
+    "3Tza3a2ZNvGNuAut5KiaCqSbv3ogL2HSwngaqFUkpump": {
+      "symbol": "php.gov",
+      "qty": 6508813.82287632,
+      "entry_price": 7.60507234452212e-06,
+      "last_price": 7.333404887926581e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-22T17:09:13+00:00",
+      "entry_time": "2026-10-22T18:12:04+00:00",
       "missing": 0
     },
-    "G8CMwNsTFQ53hDRdAUDZRxJrtezZ8oRH2zx922hHpump": {
-      "symbol": "Alone",
-      "qty": 2411005.5475332583,
-      "entry_price": 2.0530852801497827e-05,
-      "last_price": 1.9801601124361902e-05,
+    "8doZsBQDL5DqsnKxH8MnbDCN3JpTKKctGS4U4UAdpump": {
+      "symbol": "JPMD",
+      "qty": 2306895.414804308,
+      "entry_price": 2.145740967810586e-05,
+      "last_price": 2.0649654398225456e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-22T17:42:05+00:00",
+      "entry_time": "2026-10-22T18:12:04+00:00",
       "missing": 0
     },
-    "6uXpCTxkHXn2TBu8EnyWtHvStjApVtmDjibcHQBepump": {
-      "symbol": "PULP",
-      "qty": 3597612.0639105607,
-      "entry_price": 1.3759126643075047e-05,
-      "last_price": 1.3260858706589562e-05,
+    "AuVtwH8iXrqjSJ8WntxJqgrg2e2cZLh1rHccDEutpump": {
+      "symbol": "Greenth",
+      "qty": 700269.3105765355,
+      "entry_price": 7.068709031279177e-05,
+      "last_price": 6.826628226320712e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-22T17:42:05+00:00",
+      "entry_time": "2026-10-22T18:12:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T13:58:25+00:00",
-      "side": "sell",
-      "symbol": "MAG7",
-      "address": "FdXDEV9G9CTYr89CGK4LtgFsjpNVY776EoU4opEtpump",
-      "price": 0.0001008407001,
-      "proceeds": 29.38,
-      "pnl_usd": -20.62,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-19T13:58:25+00:00",
-      "side": "buy",
-      "symbol": "HÉROS",
-      "address": "46sXauC62xdZ4Gs1ND8jAwnUMFYCZG7XD4tCpWQopump",
-      "price": 1.6980086871844276e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T13:58:25+00:00",
-      "side": "buy",
-      "symbol": "Riocopa",
-      "address": "Ciefg5Fk7yD6UkDrpj1XGEcZav1MFMm7nDiVDAYrpump",
-      "price": 0.018943000502663683,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T13:58:25+00:00",
-      "side": "buy",
-      "symbol": "blackrock",
-      "address": "GJVitBHKEcQ2FShGcHXnipMzkYnEkVGdCWPaP2Mkpump",
-      "price": 1.2658636326067706e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T13:58:25+00:00",
-      "side": "buy",
-      "symbol": "Dog Think",
-      "address": "44iwJypypenTZxHPw3TgqMKk5yQfb3RyNB2SRkGWpump",
-      "price": 1.1822348679467053e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T14:38:00+00:00",
-      "side": "sell",
-      "symbol": "HÉROS",
-      "address": "46sXauC62xdZ4Gs1ND8jAwnUMFYCZG7XD4tCpWQopump",
-      "price": 2.933746e-06,
-      "proceeds": 8.18,
-      "pnl_usd": -41.82,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-19T14:38:00+00:00",
       "side": "sell",
@@ -4528,6 +4476,60 @@
       "address": "6uXpCTxkHXn2TBu8EnyWtHvStjApVtmDjibcHQBepump",
       "price": 1.3759126643075047e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T18:12:03+00:00",
+      "side": "sell",
+      "symbol": "SAVPIR",
+      "address": "GEB7cztPJU9CyGSVHRG9n6C27XT9G5s8oTCKykXFpump",
+      "price": 8.125249289e-06,
+      "proceeds": 45.36,
+      "pnl_usd": -4.64,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T18:12:03+00:00",
+      "side": "sell",
+      "symbol": "Alone",
+      "address": "G8CMwNsTFQ53hDRdAUDZRxJrtezZ8oRH2zx922hHpump",
+      "price": 6.13399314e-06,
+      "proceeds": 14.13,
+      "pnl_usd": -35.87,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T18:12:03+00:00",
+      "side": "sell",
+      "symbol": "PULP",
+      "address": "6uXpCTxkHXn2TBu8EnyWtHvStjApVtmDjibcHQBepump",
+      "price": 3.014699194e-06,
+      "proceeds": 10.37,
+      "pnl_usd": -39.63,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T18:12:04+00:00",
+      "side": "buy",
+      "symbol": "php.gov",
+      "address": "3Tza3a2ZNvGNuAut5KiaCqSbv3ogL2HSwngaqFUkpump",
+      "price": 7.60507234452212e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T18:12:04+00:00",
+      "side": "buy",
+      "symbol": "JPMD",
+      "address": "8doZsBQDL5DqsnKxH8MnbDCN3JpTKKctGS4U4UAdpump",
+      "price": 2.145740967810586e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T18:12:04+00:00",
+      "side": "buy",
+      "symbol": "Greenth",
+      "address": "AuVtwH8iXrqjSJ8WntxJqgrg2e2cZLh1rHccDEutpump",
+      "price": 7.068709031279177e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8306,6 +8308,10 @@
     {
       "date": "2026-10-22T17:42:05+00:00",
       "equity": 5883889.63
+    },
+    {
+      "date": "2026-10-22T18:12:04+00:00",
+      "equity": 5883809.56
     }
   ]
 }
