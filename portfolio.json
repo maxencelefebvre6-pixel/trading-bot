@@ -1,89 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5882817.431414323,
+  "cash": 5882923.388675392,
   "positions": {
-    "H72yi3BaxqWtFfryE5NChB84962fzwf6Mn7zByYJpump": {
-      "symbol": "USMS",
-      "qty": 4690470.584922177,
-      "entry_price": 1.0553312104572401e-05,
-      "last_price": 1.019061095e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T02:09:59+00:00",
-      "missing": 0
-    },
-    "zuGkaMjuhLfXMKPVttfLFCcX6RcMpEqLidMHAArpump": {
-      "symbol": "X",
-      "qty": 120930.44906489544,
-      "entry_price": 0.00040932619024210023,
-      "last_price": 0.00039703540236111243,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T02:46:23+00:00",
-      "missing": 0
-    },
-    "6Vix85qRqWbLf9MdqfCDRDCpNtBSGoALBew8wH1Ppump": {
-      "symbol": "Nut",
-      "qty": 4084961.29277718,
-      "entry_price": 1.2117617879886247e-05,
-      "last_price": 1.1663086873818062e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T02:46:23+00:00",
-      "missing": 0
-    },
     "7rY6XVcpiHYPcPxHdd8p912QAvNVjUrTZL9v3dEepump": {
       "symbol": "cap",
       "qty": 6380905.580947368,
       "entry_price": 7.757519582769124e-06,
-      "last_price": 7.470172680206478e-06,
+      "last_price": 7.483359355e-06,
       "cost": 50.0,
       "entry_time": "2026-10-22T02:46:23+00:00",
+      "missing": 0
+    },
+    "EWKzUwjW9ino2wmiKU4wZh6XMQh3yWQ4h1DSsciMpump": {
+      "symbol": "KIMCHIBULL",
+      "qty": 3677574.21890651,
+      "entry_price": 1.3459959487838244e-05,
+      "last_price": 1.2985466532294933e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T03:16:39+00:00",
+      "missing": 0
+    },
+    "F9dP9kZGyH9NsskYBQtwoBCcrTA7e4ZNWj3E3pxjpump": {
+      "symbol": "Au",
+      "qty": 5808296.454808901,
+      "entry_price": 8.522292273669526e-06,
+      "last_price": 8.197043256168803e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T03:16:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-18T23:13:30+00:00",
-      "side": "buy",
-      "symbol": "KFC",
-      "address": "FQi79TRbqZZcp9rXvqH57zCiWTsPHFe9g3gWtFWnpump",
-      "price": 0.0004055036895641296,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T23:13:30+00:00",
-      "side": "buy",
-      "symbol": "AIGDPBOT",
-      "address": "DhRcr9buHwb8WCDWZgFeryrRXiNmUV2qcw1H1ninpump",
-      "price": 0.018713223540698955,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T23:13:30+00:00",
-      "side": "buy",
-      "symbol": "FOMO",
-      "address": "s9NujqSoJBZa8eWbRLZUi63QrMKWiQwVYumWdpapump",
-      "price": 0.00039363083148534413,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-18T23:40:21+00:00",
-      "side": "sell",
-      "symbol": "claude",
-      "address": "JAPYGLnCF11hS4UX9C9qUUcVnUK9kF3SPAdtmprupump",
-      "price": 1.101242959e-05,
-      "proceeds": 45.63,
-      "pnl_usd": -4.37,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-18T23:40:21+00:00",
-      "side": "sell",
-      "symbol": "KFC",
-      "address": "FQi79TRbqZZcp9rXvqH57zCiWTsPHFe9g3gWtFWnpump",
-      "price": 1.867781412e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-18T23:40:21+00:00",
       "side": "sell",
@@ -4537,6 +4484,52 @@
       "address": "7rY6XVcpiHYPcPxHdd8p912QAvNVjUrTZL9v3dEepump",
       "price": 7.757519582769124e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T03:16:39+00:00",
+      "side": "sell",
+      "symbol": "USMS",
+      "address": "H72yi3BaxqWtFfryE5NChB84962fzwf6Mn7zByYJpump",
+      "price": 1.019061095e-05,
+      "proceeds": 45.62,
+      "pnl_usd": -4.38,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T03:16:39+00:00",
+      "side": "sell",
+      "symbol": "X",
+      "address": "zuGkaMjuhLfXMKPVttfLFCcX6RcMpEqLidMHAArpump",
+      "price": 0.001033031859,
+      "proceeds": 119.6,
+      "pnl_usd": 69.6,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-22T03:16:39+00:00",
+      "side": "sell",
+      "symbol": "Nut",
+      "address": "6Vix85qRqWbLf9MdqfCDRDCpNtBSGoALBew8wH1Ppump",
+      "price": 1.05375942e-05,
+      "proceeds": 40.74,
+      "pnl_usd": -9.26,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T03:16:39+00:00",
+      "side": "buy",
+      "symbol": "KIMCHIBULL",
+      "address": "EWKzUwjW9ino2wmiKU4wZh6XMQh3yWQ4h1DSsciMpump",
+      "price": 1.3459959487838244e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T03:16:39+00:00",
+      "side": "buy",
+      "symbol": "Au",
+      "address": "F9dP9kZGyH9NsskYBQtwoBCcrTA7e4ZNWj3E3pxjpump",
+      "price": 8.522292273669526e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8223,6 +8216,10 @@
     {
       "date": "2026-10-22T02:46:23+00:00",
       "equity": 5883008.55
+    },
+    {
+      "date": "2026-10-22T03:16:39+00:00",
+      "equity": 5883066.51
     }
   ]
 }
