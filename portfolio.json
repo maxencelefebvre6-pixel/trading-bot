@@ -1,26 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883951.772481223,
-  "positions": {},
+  "cash": 5883851.772481223,
+  "positions": {
+    "8sXuueemPXFyoinyEgvFBnp2WVBfotoFVu77Gm62pump": {
+      "symbol": "RICK",
+      "qty": 3250132.7639559763,
+      "entry_price": 1.5230147072438326e-05,
+      "last_price": 1.472484903637852e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T16:32:17+00:00",
+      "missing": 0
+    },
+    "FASYDUi5M9BuK9A8KhbchsEadGJttLrXFzy8mEQhpump": {
+      "symbol": "EKO",
+      "qty": 2883197.8380845957,
+      "entry_price": 1.7168436846804968e-05,
+      "last_price": 1.6558144414380688e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-22T16:32:17+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-19T10:33:07+00:00",
-      "side": "sell",
-      "symbol": "VibeCat",
-      "address": "4zjnzNVTBPabN4NnUBegRVwrPAPuLXHJxmcMFEgwpump",
-      "price": 3.320707491e-06,
-      "proceeds": 18.72,
-      "pnl_usd": -31.28,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T10:33:07+00:00",
-      "side": "buy",
-      "symbol": "Comnexx",
-      "address": "fwGVMj1kJCK1XFEyeBmTB9TxzcH6yPBMv5jT6nFpump",
-      "price": 1.822538720076668e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T11:08:05+00:00",
       "side": "sell",
@@ -4504,6 +4505,22 @@
       "proceeds": 16.38,
       "pnl_usd": -33.62,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T16:32:17+00:00",
+      "side": "buy",
+      "symbol": "RICK",
+      "address": "8sXuueemPXFyoinyEgvFBnp2WVBfotoFVu77Gm62pump",
+      "price": 1.5230147072438326e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T16:32:17+00:00",
+      "side": "buy",
+      "symbol": "EKO",
+      "address": "FASYDUi5M9BuK9A8KhbchsEadGJttLrXFzy8mEQhpump",
+      "price": 1.7168436846804968e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8270,6 +8287,10 @@
     {
       "date": "2026-10-22T15:55:28+00:00",
       "equity": 5883951.77
+    },
+    {
+      "date": "2026-10-22T16:32:17+00:00",
+      "equity": 5883947.37
     }
   ]
 }
