@@ -1,80 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883376.773666508,
+  "cash": 5883308.534918895,
   "positions": {
-    "3dGBpugcKZ9eoWtqK5R5mQknCrhtYdMmMx4VjTyxpump": {
-      "symbol": "RICH",
-      "qty": 4092894.1969447164,
-      "entry_price": 1.2094131345235115e-05,
-      "last_price": 1.1648851725392355e-05,
+    "GmrUG6xDu3qd3kDuDECAU55RbohRjmRkZTTvAJMYpump": {
+      "symbol": "scribes",
+      "qty": 596194.9475063139,
+      "entry_price": 8.302653386621626e-05,
+      "last_price": 8.04960297226036e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-22T22:23:11+00:00",
+      "entry_time": "2026-10-22T22:57:27+00:00",
       "missing": 0
     },
-    "3mETQJ1PxuA9qokpt66Xuu4GaGyADR2goTETJz7Bpump": {
-      "symbol": "Batman",
-      "qty": 1786868.712237196,
-      "entry_price": 2.7702091183870465e-05,
-      "last_price": 2.6736346993059675e-05,
+    "DMnpg7eZ43NeSR16sWksLkqZtFxzFoegJ9LFK2cupump": {
+      "symbol": "Trump",
+      "qty": 10905496.162591621,
+      "entry_price": 4.5389956827270705e-06,
+      "last_price": 4.376728719117954e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-22T22:23:11+00:00",
-      "missing": 0
-    },
-    "AjnZRJGNT1rxRc2MU65PmkjeV98DrQ3FC1KKvS4Ppump": {
-      "symbol": "Burger",
-      "qty": 5573447.4850866925,
-      "entry_price": 8.88139704060207e-06,
-      "last_price": 8.547251865634271e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T22:23:11+00:00",
+      "entry_time": "2026-10-22T22:57:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T16:29:49+00:00",
-      "side": "buy",
-      "symbol": "DERP",
-      "address": "7Miffxh63NAYXGauKL1qHNdLTKBaPnWoehuMUaERpump",
-      "price": 3.6164705206909267e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T17:06:38+00:00",
-      "side": "sell",
-      "symbol": "DOGE PAID",
-      "address": "Fint1z64DYZVrBamRQPmihe6n5VgFL6sZfU157Lvpump",
-      "price": 7.366235818e-06,
-      "proceeds": 45.38,
-      "pnl_usd": -4.62,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-19T17:06:38+00:00",
-      "side": "sell",
-      "symbol": "DERP",
-      "address": "7Miffxh63NAYXGauKL1qHNdLTKBaPnWoehuMUaERpump",
-      "price": 1.699295475e-08,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-19T17:06:39+00:00",
-      "side": "buy",
-      "symbol": "ORBIN",
-      "address": "A1r97iaUSrB12nAnYzaT24maVs71L4nqppQqZCRdpump",
-      "price": 2.8390592835121838e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T17:06:39+00:00",
-      "side": "buy",
-      "symbol": "HANS",
-      "address": "9ybN9EixjNTpzCY6n6mPEKUQPxTDJi8xrYX3F9Jcpump",
-      "price": 1.0950369011307842e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T17:39:50+00:00",
       "side": "sell",
@@ -4528,6 +4475,52 @@
       "address": "AjnZRJGNT1rxRc2MU65PmkjeV98DrQ3FC1KKvS4Ppump",
       "price": 8.88139704060207e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T22:57:27+00:00",
+      "side": "sell",
+      "symbol": "RICH",
+      "address": "3dGBpugcKZ9eoWtqK5R5mQknCrhtYdMmMx4VjTyxpump",
+      "price": 2.897152459e-06,
+      "proceeds": 11.33,
+      "pnl_usd": -38.67,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T22:57:27+00:00",
+      "side": "sell",
+      "symbol": "Batman",
+      "address": "3mETQJ1PxuA9qokpt66Xuu4GaGyADR2goTETJz7Bpump",
+      "price": 2.891676745e-06,
+      "proceeds": 4.95,
+      "pnl_usd": -45.05,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T22:57:27+00:00",
+      "side": "sell",
+      "symbol": "Burger",
+      "address": "AjnZRJGNT1rxRc2MU65PmkjeV98DrQ3FC1KKvS4Ppump",
+      "price": 2.914351592e-06,
+      "proceeds": 15.48,
+      "pnl_usd": -34.52,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-22T22:57:27+00:00",
+      "side": "buy",
+      "symbol": "scribes",
+      "address": "GmrUG6xDu3qd3kDuDECAU55RbohRjmRkZTTvAJMYpump",
+      "price": 8.302653386621626e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T22:57:27+00:00",
+      "side": "buy",
+      "symbol": "Trump",
+      "address": "DMnpg7eZ43NeSR16sWksLkqZtFxzFoegJ9LFK2cupump",
+      "price": 4.5389956827270705e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8338,6 +8331,10 @@
     {
       "date": "2026-10-22T22:23:11+00:00",
       "equity": 5883519.86
+    },
+    {
+      "date": "2026-10-22T22:57:27+00:00",
+      "equity": 5883404.26
     }
   ]
 }
