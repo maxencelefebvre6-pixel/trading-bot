@@ -1,62 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5884023.32646554,
-  "positions": {
-    "GrVefczWMYJKXYeFWHLntaFQi4z127KBCQGCmSz6pump": {
-      "symbol": "FUN",
-      "qty": 6751043.271955516,
-      "entry_price": 7.3322000772277325e-06,
-      "last_price": 7.055638484e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T10:35:16+00:00",
-      "missing": 0
-    },
-    "J1mfwywdPwwjBGLbrWi5FnwMeF9uWhHYmJLvTAT8pump": {
-      "symbol": "Kimichi",
-      "qty": 8188289.678411621,
-      "entry_price": 6.04521846979919e-06,
-      "last_price": 5.818084746e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T10:35:16+00:00",
-      "missing": 0
-    },
-    "9Kf1zfbPXQV4WuoP196i44KBfm3qBm8XxrTHJ4JMpump": {
-      "symbol": "Ppump",
-      "qty": 3991729.6192220123,
-      "entry_price": 1.2400639502644356e-05,
-      "last_price": 1.1950029464374699e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-22T11:11:58+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5884125.141475957,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-19T07:52:35+00:00",
-      "side": "sell",
-      "symbol": "XTO",
-      "address": "ctJ2i4k7xcoKp6Tovb6AXSsC4AtLVJiTkfbd2GMpump",
-      "price": 0.623523064,
-      "proceeds": 47.97,
-      "pnl_usd": -2.03,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-19T07:52:36+00:00",
-      "side": "buy",
-      "symbol": "VERDX",
-      "address": "aeSZot52ewRKzwwvxtMTxZJ9uFniv4L41MevCtwpump",
-      "price": 4.7309601160095706e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T07:52:36+00:00",
-      "side": "buy",
-      "symbol": "DUB",
-      "address": "5vhfeS17AQUZDJADj6LcdFBXkL9Xz6kw7kc4E2hnpump",
-      "price": 1.167665420821307e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T07:52:36+00:00",
       "side": "buy",
@@ -4528,6 +4474,36 @@
       "address": "9Kf1zfbPXQV4WuoP196i44KBfm3qBm8XxrTHJ4JMpump",
       "price": 1.2400639502644356e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-22T11:50:00+00:00",
+      "side": "sell",
+      "symbol": "FUN",
+      "address": "GrVefczWMYJKXYeFWHLntaFQi4z127KBCQGCmSz6pump",
+      "price": 7.055638484e-06,
+      "proceeds": 45.33,
+      "pnl_usd": -4.67,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T11:50:00+00:00",
+      "side": "sell",
+      "symbol": "Kimichi",
+      "address": "J1mfwywdPwwjBGLbrWi5FnwMeF9uWhHYmJLvTAT8pump",
+      "price": 5.818084746e-06,
+      "proceeds": 45.33,
+      "pnl_usd": -4.67,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-22T11:50:00+00:00",
+      "side": "sell",
+      "symbol": "Ppump",
+      "address": "9Kf1zfbPXQV4WuoP196i44KBfm3qBm8XxrTHJ4JMpump",
+      "price": 2.925001545e-06,
+      "proceeds": 11.15,
+      "pnl_usd": -38.85,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -8266,6 +8242,10 @@
     {
       "date": "2026-10-22T11:11:58+00:00",
       "equity": 5884166.3
+    },
+    {
+      "date": "2026-10-22T11:50:00+00:00",
+      "equity": 5884125.14
     }
   ]
 }
