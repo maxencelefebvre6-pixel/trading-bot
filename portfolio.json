@@ -1,80 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883028.735730866,
+  "cash": 5883031.568299017,
   "positions": {
-    "5ZSGjEtpTWqeF6J87Lbo2nE4gZnpzL53t9depZZcpump": {
-      "symbol": "sol",
-      "qty": 6321582.492843812,
-      "entry_price": 7.8303178129899e-06,
-      "last_price": 7.540763485e-06,
+    "aJ7fTZo9EQny96bUKNBPt3YfJKqyJxzEsq58xhnpump": {
+      "symbol": "Dacity",
+      "qty": 330.44132848690697,
+      "entry_price": 0.14979966406339312,
+      "last_price": 0.14542972783136593,
       "cost": 50.0,
-      "entry_time": "2026-10-23T02:37:49+00:00",
+      "entry_time": "2026-10-23T03:54:31+00:00",
       "missing": 0
     },
-    "BX6b6JapWQTiuGi6hGRkbS7gvQQXGoPY3qr2Qatfpump": {
-      "symbol": "PEPSBY",
-      "qty": 1556798.7635271368,
-      "entry_price": 3.179601703167537e-05,
-      "last_price": 3.069797495462838e-05,
+    "2qyhYq5eomJQMbSR17wCcAES9ax9FLuweuohjHQhpump": {
+      "symbol": "Mask",
+      "qty": 3454821.499769066,
+      "entry_price": 1.4327802464847686e-05,
+      "last_price": 1.3805127321940984e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T03:13:30+00:00",
-      "missing": 0
-    },
-    "EBU8wohdzYHz5T4pKsGSKFovqw3FQfKHDCtZZWfPpump": {
-      "symbol": "MECHADOGE",
-      "qty": 21945759.502573755,
-      "entry_price": 2.255561034203202e-06,
-      "last_price": 2.17368333064166e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T03:13:30+00:00",
+      "entry_time": "2026-10-23T03:54:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T20:44:09+00:00",
-      "side": "sell",
-      "symbol": "PumpDrop",
-      "address": "ChoEFimiTwPNjN6N5wn7qqyqQZNTYjKA3kVZ3srApump",
-      "price": 2.958557081e-06,
-      "proceeds": 14.84,
-      "pnl_usd": -35.16,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T20:44:09+00:00",
-      "side": "buy",
-      "symbol": "PACK",
-      "address": "FLafZPdHXH81dYNU3gADuzSb9ii9nCv6RNXxbEDvpump",
-      "price": 2.4397959145297742e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T20:44:09+00:00",
-      "side": "buy",
-      "symbol": "MUGSY",
-      "address": "7JATjnuiTJGQ4w8V1WaYDPeMKUQzud1w5my2EHgVpump",
-      "price": 3.6005412628259006e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T21:13:18+00:00",
-      "side": "sell",
-      "symbol": "PACK",
-      "address": "FLafZPdHXH81dYNU3gADuzSb9ii9nCv6RNXxbEDvpump",
-      "price": 1.856918679e-05,
-      "proceeds": 35.66,
-      "pnl_usd": -14.34,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T21:13:18+00:00",
-      "side": "buy",
-      "symbol": "POGO",
-      "address": "Fiyf12KXmLrEVdHc1JYRtx7V4Y6Hz22LdowdXB27pump",
-      "price": 3.784326527653619e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T21:49:51+00:00",
       "side": "sell",
@@ -4528,6 +4475,52 @@
       "address": "EBU8wohdzYHz5T4pKsGSKFovqw3FQfKHDCtZZWfPpump",
       "price": 2.255561034203202e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T03:54:31+00:00",
+      "side": "sell",
+      "symbol": "sol",
+      "address": "5ZSGjEtpTWqeF6J87Lbo2nE4gZnpzL53t9depZZcpump",
+      "price": 7.540763485e-06,
+      "proceeds": 45.4,
+      "pnl_usd": -4.6,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T03:54:31+00:00",
+      "side": "sell",
+      "symbol": "PEPSBY",
+      "address": "BX6b6JapWQTiuGi6hGRkbS7gvQQXGoPY3qr2Qatfpump",
+      "price": 2.91579715e-06,
+      "proceeds": 4.35,
+      "pnl_usd": -45.65,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T03:54:31+00:00",
+      "side": "sell",
+      "symbol": "MECHADOGE",
+      "address": "EBU8wohdzYHz5T4pKsGSKFovqw3FQfKHDCtZZWfPpump",
+      "price": 2.594812657e-06,
+      "proceeds": 53.08,
+      "pnl_usd": 3.08,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-23T03:54:31+00:00",
+      "side": "buy",
+      "symbol": "Dacity",
+      "address": "aJ7fTZo9EQny96bUKNBPt3YfJKqyJxzEsq58xhnpump",
+      "price": 0.14979966406339312,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T03:54:31+00:00",
+      "side": "buy",
+      "symbol": "Mask",
+      "address": "2qyhYq5eomJQMbSR17wCcAES9ax9FLuweuohjHQhpump",
+      "price": 1.4327802464847686e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8370,6 +8363,10 @@
     {
       "date": "2026-10-23T03:13:30+00:00",
       "equity": 5883171.9
+    },
+    {
+      "date": "2026-10-23T03:54:31+00:00",
+      "equity": 5883127.32
     }
   ]
 }
