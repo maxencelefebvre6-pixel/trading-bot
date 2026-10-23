@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5882398.043855654,
+  "cash": 5882452.79598554,
   "positions": {
-    "DgXQsagRN6hbnX7rC4vQcRBE9DQ5etN1CCvFEzdxpump": {
-      "symbol": "Dog coin",
-      "qty": 2042683.28581084,
-      "entry_price": 2.423283156221208e-05,
-      "last_price": 2.33086064e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T07:48:06+00:00",
-      "missing": 0
-    },
-    "7kARoWTfM2qzL6kj5Egmi9uo3myc1V4Y7Suz5eGUpump": {
-      "symbol": "FORMATION",
-      "qty": 2654492.325042306,
-      "entry_price": 1.8647633497757842e-05,
-      "last_price": 1.7984625370769007e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T08:21:39+00:00",
-      "missing": 0
-    },
     "7cn5FfdNJcbAJsjWiP5qaexky91VHiBBcJJD5jrVpump": {
       "symbol": "LMAO",
       "qty": 346116.82898116106,
       "entry_price": 0.00014301529384083851,
-      "last_price": 0.00013878469622258813,
+      "last_price": 0.0001386921133,
       "cost": 50.0,
       "entry_time": "2026-10-23T08:21:39+00:00",
       "missing": 0
@@ -33,7 +15,7 @@
       "symbol": "USMS",
       "qty": 10786262.32796144,
       "entry_price": 4.589170789188038e-06,
-      "last_price": 4.424626924378584e-06,
+      "last_price": 4.424626924e-06,
       "cost": 50.0,
       "entry_time": "2026-10-23T08:21:39+00:00",
       "missing": 0
@@ -42,33 +24,13 @@
       "symbol": "PILL",
       "qty": 2799428.803267175,
       "entry_price": 1.7682178572367774e-05,
-      "last_price": 1.7104724902091432e-05,
+      "last_price": 1.71047249e-05,
       "cost": 50.0,
       "entry_time": "2026-10-23T08:21:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T04:06:32+00:00",
-      "side": "sell",
-      "symbol": "COLLECTOOO",
-      "address": "HbYARGBHsvUnuhwmX7zNa2fXqD4D9p98WiXff8vJpump",
-      "price": 6.788655633e-05,
-      "proceeds": 38.94,
-      "pnl_usd": -11.06,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-20T04:06:32+00:00",
-      "side": "sell",
-      "symbol": "OpenAI",
-      "address": "CAdrfRpm45UMySnTECDyQd5Kboe8dx4cgfj8KoFxpump",
-      "price": 1.867498548e-06,
-      "proceeds": 0.23,
-      "pnl_usd": -49.77,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-20T04:06:32+00:00",
       "side": "sell",
@@ -4548,6 +4510,26 @@
       "address": "5t79nyKZH8HzSxQyFt1N6m4zj33uMBV8tfB9JcHipump",
       "price": 1.7682178572367774e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T09:01:55+00:00",
+      "side": "sell",
+      "symbol": "Dog coin",
+      "address": "DgXQsagRN6hbnX7rC4vQcRBE9DQ5etN1CCvFEzdxpump",
+      "price": 2.33086064e-05,
+      "proceeds": 45.59,
+      "pnl_usd": -4.41,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T09:01:55+00:00",
+      "side": "sell",
+      "symbol": "FORMATION",
+      "address": "7kARoWTfM2qzL6kj5Egmi9uo3myc1V4Y7Suz5eGUpump",
+      "price": 3.609969921e-06,
+      "proceeds": 9.17,
+      "pnl_usd": -40.83,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
@@ -8422,6 +8404,10 @@
     {
       "date": "2026-10-23T08:21:39+00:00",
       "equity": 5882637.04
+    },
+    {
+      "date": "2026-10-23T09:01:55+00:00",
+      "equity": 5882596.41
     }
   ]
 }
