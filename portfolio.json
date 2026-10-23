@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883031.568299017,
+  "cash": 5882941.293588319,
   "positions": {
-    "aJ7fTZo9EQny96bUKNBPt3YfJKqyJxzEsq58xhnpump": {
-      "symbol": "Dacity",
-      "qty": 330.44132848690697,
-      "entry_price": 0.14979966406339312,
-      "last_price": 0.14542972783136593,
+    "BjNwmF2iw1nzp4f4sQUHvZdeLmAkMUs1WqLs6MXEpump": {
+      "symbol": "PAL",
+      "qty": 4427484.515283113,
+      "entry_price": 1.118016332505112e-05,
+      "last_price": 1.0752955530567022e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T03:54:31+00:00",
+      "entry_time": "2026-10-23T04:27:41+00:00",
       "missing": 0
     },
-    "2qyhYq5eomJQMbSR17wCcAES9ax9FLuweuohjHQhpump": {
-      "symbol": "Mask",
-      "qty": 3454821.499769066,
-      "entry_price": 1.4327802464847686e-05,
-      "last_price": 1.3805127321940984e-05,
+    "EKGBsPpafZaVwqozdEzJvfLKAwPy8EkTa4hYijAqpump": {
+      "symbol": "$BTit",
+      "qty": 2495733.1496754736,
+      "entry_price": 1.983385122982263e-05,
+      "last_price": 1.91812971162047e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T03:54:31+00:00",
+      "entry_time": "2026-10-23T04:27:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T21:49:51+00:00",
-      "side": "sell",
-      "symbol": "MUGSY",
-      "address": "7JATjnuiTJGQ4w8V1WaYDPeMKUQzud1w5my2EHgVpump",
-      "price": 3.488706913e-05,
-      "proceeds": 45.96,
-      "pnl_usd": -4.04,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-19T21:49:51+00:00",
-      "side": "sell",
-      "symbol": "POGO",
-      "address": "Fiyf12KXmLrEVdHc1JYRtx7V4Y6Hz22LdowdXB27pump",
-      "price": 2.933728977e-06,
-      "proceeds": 36.22,
-      "pnl_usd": -13.78,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T21:49:52+00:00",
-      "side": "buy",
-      "symbol": "angel",
-      "address": "9abEeUfkSqs9nKQR4MvhUsfECExRQAyhqRyC3oM2pump",
-      "price": 7.663887837243185e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T21:49:52+00:00",
-      "side": "buy",
-      "symbol": "TA",
-      "address": "A9R2QTgtmgWpFWHS6R4jePu3tYk5S7v6QhDi9ojopump",
-      "price": 8.682703194382712e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T22:17:36+00:00",
       "side": "buy",
@@ -4521,6 +4485,42 @@
       "address": "2qyhYq5eomJQMbSR17wCcAES9ax9FLuweuohjHQhpump",
       "price": 1.4327802464847686e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T04:27:40+00:00",
+      "side": "sell",
+      "symbol": "Dacity",
+      "address": "aJ7fTZo9EQny96bUKNBPt3YfJKqyJxzEsq58xhnpump",
+      "price": 1.861074989e-06,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T04:27:40+00:00",
+      "side": "sell",
+      "symbol": "Mask",
+      "address": "2qyhYq5eomJQMbSR17wCcAES9ax9FLuweuohjHQhpump",
+      "price": 2.94451291e-06,
+      "proceeds": 9.72,
+      "pnl_usd": -40.28,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T04:27:41+00:00",
+      "side": "buy",
+      "symbol": "PAL",
+      "address": "BjNwmF2iw1nzp4f4sQUHvZdeLmAkMUs1WqLs6MXEpump",
+      "price": 1.118016332505112e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T04:27:41+00:00",
+      "side": "buy",
+      "symbol": "$BTit",
+      "address": "EKGBsPpafZaVwqozdEzJvfLKAwPy8EkTa4hYijAqpump",
+      "price": 1.983385122982263e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8367,6 +8367,10 @@
     {
       "date": "2026-10-23T03:54:31+00:00",
       "equity": 5883127.32
+    },
+    {
+      "date": "2026-10-23T04:27:41+00:00",
+      "equity": 5883036.77
     }
   ]
 }
