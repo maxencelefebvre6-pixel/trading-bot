@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883000.957220952,
+  "cash": 5883030.581623353,
   "positions": {
-    "FMp55HxbQQp4DiARXqaet59wA5jJCU5J6PUYNKQzpump": {
-      "symbol": "CC",
-      "qty": 28630734.50247791,
-      "entry_price": 1.7289112857274379e-06,
-      "last_price": 1.665718539879783e-06,
+    "6iEkV2cT7AkLb8VHHANdBsbab84Nz8RRVY2NgApipump": {
+      "symbol": "SpaceX AI",
+      "qty": 123056.8790643409,
+      "entry_price": 0.0004022530099606921,
+      "last_price": 0.000390169989335703,
       "cost": 50.0,
-      "entry_time": "2026-10-23T16:40:57+00:00",
+      "entry_time": "2026-10-23T17:16:17+00:00",
+      "missing": 0
+    },
+    "DPy1vgpHudpE73cVQA74VweuGZFpaVi4K1i4tWFDpump": {
+      "symbol": "ZONE",
+      "qty": 6057963.956905924,
+      "entry_price": 8.1710621509346e-06,
+      "last_price": 7.870972617833604e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T17:16:17+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T11:54:46+00:00",
-      "side": "buy",
-      "symbol": "GODPACK",
-      "address": "BrmhMyxU8wHyAEgVa5GQ6mzQP3bXqCzNMTg1faegpump",
-      "price": 1.6511145562573996e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T12:32:13+00:00",
-      "side": "sell",
-      "symbol": "PacksPad",
-      "address": "271HTW947v7ytqZPHRMnxmQEFSEnaNTPPgCGWATGpump",
-      "price": 1.543685377e-05,
-      "proceeds": 65.47,
-      "pnl_usd": 15.47,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-20T12:32:13+00:00",
-      "side": "buy",
-      "symbol": "SI",
-      "address": "FaREyaCY5VSPUNWkiGP5kRehhz7riMReLerp7vnrpump",
-      "price": 9.733390403181518e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T12:32:13+00:00",
       "side": "buy",
@@ -4512,6 +4495,32 @@
       "address": "FMp55HxbQQp4DiARXqaet59wA5jJCU5J6PUYNKQzpump",
       "price": 1.7289112857274379e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T17:16:17+00:00",
+      "side": "sell",
+      "symbol": "CC",
+      "address": "FMp55HxbQQp4DiARXqaet59wA5jJCU5J6PUYNKQzpump",
+      "price": 5.701806511e-06,
+      "proceeds": 129.62,
+      "pnl_usd": 79.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T17:16:17+00:00",
+      "side": "buy",
+      "symbol": "SpaceX AI",
+      "address": "6iEkV2cT7AkLb8VHHANdBsbab84Nz8RRVY2NgApipump",
+      "price": 0.0004022530099606921,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T17:16:17+00:00",
+      "side": "buy",
+      "symbol": "ZONE",
+      "address": "DPy1vgpHudpE73cVQA74VweuGZFpaVi4K1i4tWFDpump",
+      "price": 8.1710621509346e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8438,6 +8447,10 @@
     {
       "date": "2026-10-23T16:40:57+00:00",
       "equity": 5883048.65
+    },
+    {
+      "date": "2026-10-23T17:16:17+00:00",
+      "equity": 5883126.28
     }
   ]
 }
