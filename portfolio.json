@@ -1,42 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5883137.004080582,
+  "cash": 5883038.419411318,
   "positions": {
-    "2VkrLBtcbBypFMBbgNL8N3Cact9VZupfosKV5smPpump": {
-      "symbol": "NP67",
-      "qty": 711278.6737333256,
-      "entry_price": 6.959297646334138e-05,
-      "last_price": 6.737505053016355e-05,
+    "Ecb5EZRo61JSkoWQG84v8mECyLg689xBh6TcDV7Jpump": {
+      "symbol": "McWojak",
+      "qty": 4088454.095632037,
+      "entry_price": 1.2107265690688342e-05,
+      "last_price": 1.1649239156507767e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T01:24:30+00:00",
+      "entry_time": "2026-10-23T02:05:04+00:00",
+      "missing": 0
+    },
+    "7WDoMWnHtazKgddJKUeLMksS7mXrSWmtVDAJBZa3pump": {
+      "symbol": "LMAO",
+      "qty": 597349.5005458938,
+      "entry_price": 8.286606074796067e-05,
+      "last_price": 8.039039897164991e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T02:05:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T18:10:31+00:00",
-      "side": "buy",
-      "symbol": "NCAT",
-      "address": "9wPv7hkgMYUg2rDMk48vyDiYbcNPYP4x3FvHsrUgpump",
-      "price": 6.873673220339718e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T18:10:31+00:00",
-      "side": "buy",
-      "symbol": "MUSHROOM",
-      "address": "BxKHwJP3TjgU8MhwPfpPJNFfMAvoSoYEgXPFXBBBpump",
-      "price": 1.1160755022504766e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T18:10:31+00:00",
-      "side": "buy",
-      "symbol": "Dacity",
-      "address": "EBvUE2CSfD5t2xSW5ctXRe43jgZzPjWaPcay39r7pump",
-      "price": 1.7212957329378948e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-19T18:56:37+00:00",
       "side": "sell",
@@ -4512,6 +4497,32 @@
       "address": "2VkrLBtcbBypFMBbgNL8N3Cact9VZupfosKV5smPpump",
       "price": 6.959297646334138e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T02:05:04+00:00",
+      "side": "sell",
+      "symbol": "NP67",
+      "address": "2VkrLBtcbBypFMBbgNL8N3Cact9VZupfosKV5smPpump",
+      "price": 2.077290567e-06,
+      "proceeds": 1.42,
+      "pnl_usd": -48.58,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T02:05:04+00:00",
+      "side": "buy",
+      "symbol": "McWojak",
+      "address": "Ecb5EZRo61JSkoWQG84v8mECyLg689xBh6TcDV7Jpump",
+      "price": 1.2107265690688342e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T02:05:04+00:00",
+      "side": "buy",
+      "symbol": "LMAO",
+      "address": "7WDoMWnHtazKgddJKUeLMksS7mXrSWmtVDAJBZa3pump",
+      "price": 8.286606074796067e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8342,6 +8353,10 @@
     {
       "date": "2026-10-23T01:24:30+00:00",
       "equity": 5883184.93
+    },
+    {
+      "date": "2026-10-23T02:05:04+00:00",
+      "equity": 5883134.07
     }
   ]
 }
