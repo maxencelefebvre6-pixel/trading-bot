@@ -1,108 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5882848.893739979,
+  "cash": 5883028.735730866,
   "positions": {
-    "7WDoMWnHtazKgddJKUeLMksS7mXrSWmtVDAJBZa3pump": {
-      "symbol": "LMAO",
-      "qty": 597349.5005458938,
-      "entry_price": 8.286606074796067e-05,
-      "last_price": 8.039039897e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T02:05:04+00:00",
-      "missing": 0
-    },
-    "AY3ZwLBDrTUXBJ3Abm75DNHR5TqJDi42Byn6PeNDpump": {
-      "symbol": "WRHND",
-      "qty": 582498.5741840191,
-      "entry_price": 8.49787487794988e-05,
-      "last_price": 8.239084807103267e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T02:37:49+00:00",
-      "missing": 0
-    },
-    "3vm6E891kSmb5Crgx4pxxsimPiCzSmEYXNkziotQpump": {
-      "symbol": "CYBER",
-      "qty": 1333190.6108663091,
-      "entry_price": 3.7128974354113425e-05,
-      "last_price": 3.584864752313139e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T02:37:49+00:00",
-      "missing": 0
-    },
-    "DXc3UrGFBc3p9gbrUqUUpCRFr98EQxzRnwWYcAgSpump": {
-      "symbol": "SKRB",
-      "qty": 4747558.963444864,
-      "entry_price": 1.0426410789447558e-05,
-      "last_price": 1.006450048392655e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T02:37:49+00:00",
-      "missing": 0
-    },
     "5ZSGjEtpTWqeF6J87Lbo2nE4gZnpzL53t9depZZcpump": {
       "symbol": "sol",
       "qty": 6321582.492843812,
       "entry_price": 7.8303178129899e-06,
-      "last_price": 7.5407634853823815e-06,
+      "last_price": 7.540763485e-06,
       "cost": 50.0,
       "entry_time": "2026-10-23T02:37:49+00:00",
+      "missing": 0
+    },
+    "BX6b6JapWQTiuGi6hGRkbS7gvQQXGoPY3qr2Qatfpump": {
+      "symbol": "PEPSBY",
+      "qty": 1556798.7635271368,
+      "entry_price": 3.179601703167537e-05,
+      "last_price": 3.069797495462838e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T03:13:30+00:00",
+      "missing": 0
+    },
+    "EBU8wohdzYHz5T4pKsGSKFovqw3FQfKHDCtZZWfPpump": {
+      "symbol": "MECHADOGE",
+      "qty": 21945759.502573755,
+      "entry_price": 2.255561034203202e-06,
+      "last_price": 2.17368333064166e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T03:13:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T19:32:36+00:00",
-      "side": "sell",
-      "symbol": "SpaceX",
-      "address": "YS3e6jMFefhmCHNYasZY3k6YfXGkfZY6CkAaR7Npump",
-      "price": 1.85165617e-06,
-      "proceeds": 0.2,
-      "pnl_usd": -49.8,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-19T19:32:36+00:00",
-      "side": "buy",
-      "symbol": "DD",
-      "address": "8dfVNZkB5rSzQAtkDrqqs77u8Fv3qN9iTpKZxTUZpump",
-      "price": 1.4145973715530671e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T20:08:55+00:00",
-      "side": "sell",
-      "symbol": "DD",
-      "address": "8dfVNZkB5rSzQAtkDrqqs77u8Fv3qN9iTpKZxTUZpump",
-      "price": 2.18931074e-06,
-      "proceeds": 7.32,
-      "pnl_usd": -42.68,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-19T20:08:56+00:00",
-      "side": "buy",
-      "symbol": "Tibetan",
-      "address": "DcCvcANnrcmdecx7dXcnmSvS5HjFRMs4PK4R159upump",
-      "price": 1.7559883662043667e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T20:08:56+00:00",
-      "side": "buy",
-      "symbol": "PumpDrop",
-      "address": "ChoEFimiTwPNjN6N5wn7qqyqQZNTYjKA3kVZ3srApump",
-      "price": 9.414586632401798e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-19T20:44:09+00:00",
-      "side": "sell",
-      "symbol": "Tibetan",
-      "address": "DcCvcANnrcmdecx7dXcnmSvS5HjFRMs4PK4R159upump",
-      "price": 2.914400368e-06,
-      "proceeds": 7.86,
-      "pnl_usd": -42.14,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-19T20:44:09+00:00",
       "side": "sell",
@@ -4544,6 +4472,62 @@
       "address": "5ZSGjEtpTWqeF6J87Lbo2nE4gZnpzL53t9depZZcpump",
       "price": 7.8303178129899e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T03:13:29+00:00",
+      "side": "sell",
+      "symbol": "LMAO",
+      "address": "7WDoMWnHtazKgddJKUeLMksS7mXrSWmtVDAJBZa3pump",
+      "price": 8.039039897e-05,
+      "proceeds": 46.08,
+      "pnl_usd": -3.92,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T03:13:29+00:00",
+      "side": "sell",
+      "symbol": "WRHND",
+      "address": "AY3ZwLBDrTUXBJ3Abm75DNHR5TqJDi42Byn6PeNDpump",
+      "price": 0.0007191621104,
+      "proceeds": 207.36,
+      "pnl_usd": 157.36,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T03:13:29+00:00",
+      "side": "sell",
+      "symbol": "CYBER",
+      "address": "3vm6E891kSmb5Crgx4pxxsimPiCzSmEYXNkziotQpump",
+      "price": 2.923789092e-06,
+      "proceeds": 3.74,
+      "pnl_usd": -46.26,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T03:13:29+00:00",
+      "side": "sell",
+      "symbol": "SKRB",
+      "address": "DXc3UrGFBc3p9gbrUqUUpCRFr98EQxzRnwWYcAgSpump",
+      "price": 5.004320982e-06,
+      "proceeds": 22.67,
+      "pnl_usd": -27.33,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T03:13:30+00:00",
+      "side": "buy",
+      "symbol": "PEPSBY",
+      "address": "BX6b6JapWQTiuGi6hGRkbS7gvQQXGoPY3qr2Qatfpump",
+      "price": 3.179601703167537e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T03:13:30+00:00",
+      "side": "buy",
+      "symbol": "MECHADOGE",
+      "address": "EBU8wohdzYHz5T4pKsGSKFovqw3FQfKHDCtZZWfPpump",
+      "price": 2.255561034203202e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8382,6 +8366,10 @@
     {
       "date": "2026-10-23T02:37:49+00:00",
       "equity": 5883088.15
+    },
+    {
+      "date": "2026-10-23T03:13:30+00:00",
+      "equity": 5883171.9
     }
   ]
 }
