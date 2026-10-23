@@ -1,61 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5882548.254728356,
+  "cash": 5882480.683451639,
   "positions": {
-    "49nqGdE44Gy2qVyGCSUWx2gsApNpQA2eVz7urWZ7pump": {
-      "symbol": "HOPMIC",
-      "qty": 680.8587188651054,
-      "entry_price": 0.07270230758373698,
-      "last_price": 0.07055358761538781,
+    "HcjtoGvjEKMqSjEFZM5uYw5dnMn5jAXD6H11mXpzpump": {
+      "symbol": "GANDALF",
+      "qty": 6151485.800880857,
+      "entry_price": 8.046836423309615e-06,
+      "last_price": 7.74094817239618e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-23T21:52:01+00:00",
+      "entry_time": "2026-10-23T22:20:19+00:00",
       "missing": 0
     },
-    "GkQszkjCxpYExN7mALBBTdRp3UtuWCLjeb2hTZaopump": {
-      "symbol": "$Kimba",
-      "qty": 1937377.9888236094,
-      "entry_price": 2.5549996069717286e-05,
-      "last_price": 2.4653773649795837e-05,
+    "B47GsUQCz5fPmZCLJFVm9KTGDaii3rcLL4dmau27pump": {
+      "symbol": "THEEND",
+      "qty": 7405116.898524985,
+      "entry_price": 6.684566993109837e-06,
+      "last_price": 6.4290592616010236e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-23T21:52:01+00:00",
+      "entry_time": "2026-10-23T22:20:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T19:02:14+00:00",
-      "side": "buy",
-      "symbol": "SpaceX AI",
-      "address": "4gTidDBE6oGhvrSLQizttLFdrzJZehiuBdx2aFhLpump",
-      "price": 0.00040698671603135186,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T19:38:22+00:00",
-      "side": "sell",
-      "symbol": "SpaceX AI",
-      "address": "4gTidDBE6oGhvrSLQizttLFdrzJZehiuBdx2aFhLpump",
-      "price": 1.896892501e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-20T20:08:07+00:00",
-      "side": "buy",
-      "symbol": "CUMROCKET",
-      "address": "tyHLJzLZjrnj5Dmn1YE2WdMadiuSMJxeWmJdoXMpump",
-      "price": 8.478861259349712e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T20:08:07+00:00",
-      "side": "buy",
-      "symbol": "LUCKY",
-      "address": "CY1EuGtdHpWua2SF2MpLostgGfGbXPZbMKUVvnWBpump",
-      "price": 3.071571481770755e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T20:08:07+00:00",
       "side": "buy",
@@ -4519,6 +4485,42 @@
       "address": "GkQszkjCxpYExN7mALBBTdRp3UtuWCLjeb2hTZaopump",
       "price": 2.5549996069717286e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T22:20:19+00:00",
+      "side": "sell",
+      "symbol": "HOPMIC",
+      "address": "49nqGdE44Gy2qVyGCSUWx2gsApNpQA2eVz7urWZ7pump",
+      "price": 0.09607718565,
+      "proceeds": 32.38,
+      "pnl_usd": -17.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T22:20:19+00:00",
+      "side": "sell",
+      "symbol": "$Kimba",
+      "address": "GkQszkjCxpYExN7mALBBTdRp3UtuWCLjeb2hTZaopump",
+      "price": 2.600671078e-08,
+      "proceeds": 0.05,
+      "pnl_usd": -49.95,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T22:20:19+00:00",
+      "side": "buy",
+      "symbol": "GANDALF",
+      "address": "HcjtoGvjEKMqSjEFZM5uYw5dnMn5jAXD6H11mXpzpump",
+      "price": 8.046836423309615e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T22:20:19+00:00",
+      "side": "buy",
+      "symbol": "THEEND",
+      "address": "B47GsUQCz5fPmZCLJFVm9KTGDaii3rcLL4dmau27pump",
+      "price": 6.684566993109837e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8481,6 +8483,10 @@
     {
       "date": "2026-10-23T21:52:01+00:00",
       "equity": 5882644.06
+    },
+    {
+      "date": "2026-10-23T22:20:19+00:00",
+      "equity": 5882575.91
     }
   ]
 }
