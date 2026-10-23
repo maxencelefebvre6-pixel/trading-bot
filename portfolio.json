@@ -1,80 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5882822.406924334,
+  "cash": 5882789.537568583,
   "positions": {
-    "FyxMVbZvcNpzXgebUSzLDqrZ9svdTXeZTfDPJrsSpump": {
-      "symbol": "$MFRG",
-      "qty": 3402538.664994237,
-      "entry_price": 1.4547961058977075e-05,
-      "last_price": 1.406093847e-05,
+    "8B8kHMjBAB6dLi65q7TbP4GJd7AxffBdAPoDU5CYpump": {
+      "symbol": "PCAT",
+      "qty": 5808874.059797731,
+      "entry_price": 8.521444860128991e-06,
+      "last_price": 8.207693096479713e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-23T14:45:44+00:00",
+      "entry_time": "2026-10-23T16:03:52+00:00",
       "missing": 0
     },
-    "CuqyQsyudXofzRiuPY188rNQsBhcgZuEHCHrXrZ2pump": {
-      "symbol": "PBJ",
-      "qty": 3758474.970962289,
-      "entry_price": 1.317023537004596e-05,
-      "last_price": 1.2689877292776097e-05,
+    "GHYP5cacAiL6FSbJwv9kLzYeCtc2jiMEiYYDUcXEpump": {
+      "symbol": "DCT",
+      "qty": 951056.8467275476,
+      "entry_price": 5.204736201660554e-05,
+      "last_price": 5.038502381793008e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T15:21:10+00:00",
-      "missing": 0
-    },
-    "DHh3dcY1vTeeTgFekakxZPo7HzUd5vjHdXv33L5Ppump": {
-      "symbol": "SKINWALKER",
-      "qty": 3400982.8178882846,
-      "entry_price": 1.4554616312567909e-05,
-      "last_price": 1.403227627543215e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T15:21:10+00:00",
+      "entry_time": "2026-10-23T16:03:52+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T10:49:33+00:00",
-      "side": "sell",
-      "symbol": "Moca",
-      "address": "HrcdH4dAah3Bf6i5Gr5uyS9iZH3uA4dvY3j4KyaLpump",
-      "price": 3.07928121e-06,
-      "proceeds": 15.7,
-      "pnl_usd": -34.3,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T11:18:39+00:00",
-      "side": "buy",
-      "symbol": "COMPUTE",
-      "address": "Ffv5EUWSGJCqy7Lin9yo8Mo8YzG5S7yQvTe7o64npump",
-      "price": 8.370600219454121e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T11:18:39+00:00",
-      "side": "buy",
-      "symbol": "TUTU",
-      "address": "ZtsoGpYEts2URNxwUWtaEatPqk6q4B3m18N3Gcxpump",
-      "price": 2.1590444900753e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T11:18:39+00:00",
-      "side": "buy",
-      "symbol": "Pager",
-      "address": "EUakpgjn6MQt6fNEXE6QoqSAiCya4rUuZtFMjzhupump",
-      "price": 9.702166256137436e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T11:54:46+00:00",
-      "side": "sell",
-      "symbol": "COMPUTE",
-      "address": "Ffv5EUWSGJCqy7Lin9yo8Mo8YzG5S7yQvTe7o64npump",
-      "price": 7.822813956e-10,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-20T11:54:46+00:00",
       "side": "sell",
@@ -4528,6 +4475,52 @@
       "address": "DHh3dcY1vTeeTgFekakxZPo7HzUd5vjHdXv33L5Ppump",
       "price": 1.4554616312567909e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T16:03:52+00:00",
+      "side": "sell",
+      "symbol": "$MFRG",
+      "address": "FyxMVbZvcNpzXgebUSzLDqrZ9svdTXeZTfDPJrsSpump",
+      "price": 1.406093847e-05,
+      "proceeds": 45.73,
+      "pnl_usd": -4.27,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T16:03:52+00:00",
+      "side": "sell",
+      "symbol": "PBJ",
+      "address": "CuqyQsyudXofzRiuPY188rNQsBhcgZuEHCHrXrZ2pump",
+      "price": 2.917647175e-06,
+      "proceeds": 10.48,
+      "pnl_usd": -39.52,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T16:03:52+00:00",
+      "side": "sell",
+      "symbol": "SKINWALKER",
+      "address": "DHh3dcY1vTeeTgFekakxZPo7HzUd5vjHdXv33L5Ppump",
+      "price": 3.358723843e-06,
+      "proceeds": 10.92,
+      "pnl_usd": -39.08,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T16:03:52+00:00",
+      "side": "buy",
+      "symbol": "PCAT",
+      "address": "8B8kHMjBAB6dLi65q7TbP4GJd7AxffBdAPoDU5CYpump",
+      "price": 8.521444860128991e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T16:03:52+00:00",
+      "side": "buy",
+      "symbol": "DCT",
+      "address": "GHYP5cacAiL6FSbJwv9kLzYeCtc2jiMEiYYDUcXEpump",
+      "price": 5.204736201660554e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8446,6 +8439,10 @@
     {
       "date": "2026-10-23T15:21:10+00:00",
       "equity": 5882965.67
+    },
+    {
+      "date": "2026-10-23T16:03:52+00:00",
+      "equity": 5882885.13
     }
   ]
 }
