@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5882247.645864044,
+  "cash": 5882204.117480443,
   "positions": {
     "B47GsUQCz5fPmZCLJFVm9KTGDaii3rcLL4dmau27pump": {
       "symbol": "THEEND",
@@ -11,29 +11,11 @@
       "entry_time": "2026-10-23T22:20:19+00:00",
       "missing": 0
     },
-    "29gUUq5oN6CgcidPvbW822ipCoBx2g45zEevrdz5pump": {
-      "symbol": "Gauntlet",
-      "qty": 6486024.416031776,
-      "entry_price": 7.63179365739802e-06,
-      "last_price": 7.344874996440352e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T22:53:48+00:00",
-      "missing": 0
-    },
-    "BwZmBr4XFaDFEN6pQyay5aHNLaFSgxky6TpF9SxYpump": {
-      "symbol": "Foodslop",
-      "qty": 2150626.5437042993,
-      "entry_price": 2.301654843092368e-05,
-      "last_price": 2.214581879704679e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T22:53:48+00:00",
-      "missing": 0
-    },
     "9pfd68qgbaD5wsLgF9kkq45wCPncNJ1yrUKLS7XKpump": {
       "symbol": "Caty",
       "qty": 2407084.38885932,
       "entry_price": 2.0564297715983812e-05,
-      "last_price": 1.9903721999690017e-05,
+      "last_price": 1.984922154e-05,
       "cost": 50.0,
       "entry_time": "2026-10-23T22:53:48+00:00",
       "missing": 0
@@ -42,7 +24,7 @@
       "symbol": "ECLIPSE",
       "qty": 3212969.159026565,
       "entry_price": 1.5406310347216978e-05,
-      "last_price": 1.4862251340472113e-05,
+      "last_price": 1.486225134e-05,
       "cost": 50.0,
       "entry_time": "2026-10-23T22:53:48+00:00",
       "missing": 0
@@ -51,47 +33,31 @@
       "symbol": "GOC",
       "qty": 7279627.954890104,
       "entry_price": 6.799798053793158e-06,
-      "last_price": 6.546705474289217e-06,
+      "last_price": 6.546705474e-06,
       "cost": 50.0,
       "entry_time": "2026-10-23T22:53:48+00:00",
+      "missing": 0
+    },
+    "4QFTfVKQZErM5DN1mmcHURwiQRtbbuezXV38JcFypump": {
+      "symbol": "ANSEM",
+      "qty": 5542122.385548201,
+      "entry_price": 8.931596337366643e-06,
+      "last_price": 8.589510482513183e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T23:20:12+00:00",
+      "missing": 0
+    },
+    "7KmYQZDtpZVprHzW4gyET99AzTXaHrywCMfxpfshpump": {
+      "symbol": "HC",
+      "qty": 6613900.885396985,
+      "entry_price": 7.4842367398175586e-06,
+      "last_price": 7.204075700436285e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T23:20:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T20:44:50+00:00",
-      "side": "sell",
-      "symbol": "SATCAT",
-      "address": "2AMrJ5fq4rheGrLhVzLGk8r1Sq11FwoTm5GBHQYWpump",
-      "price": 2.725635401e-07,
-      "proceeds": 1.82,
-      "pnl_usd": -48.18,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-20T20:44:51+00:00",
-      "side": "buy",
-      "symbol": "PRIVACYCOIN",
-      "address": "BVvXb7pyy1dg22SCzgDwApg2Cr1q14WRDFZnSMhxpump",
-      "price": 2.707315348669173e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T20:44:51+00:00",
-      "side": "buy",
-      "symbol": "Crawlbrain",
-      "address": "722L77CRtbyHZxjuhBuV1D9WtcEcmsKuNsFhLkZQpump",
-      "price": 9.223185501183541e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T20:44:51+00:00",
-      "side": "buy",
-      "symbol": "MemeTok",
-      "address": "T86sUpHnjo7aBvLVJPRA87ZNGCEt7o8KJUuEyQVpump",
-      "price": 1.3496607724594209e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T20:44:51+00:00",
       "side": "buy",
@@ -4553,6 +4519,42 @@
       "address": "51mPsb5kx14y3nhCbjDM3snGKpjUSLG4d5mDctMMpump",
       "price": 6.799798053793158e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T23:20:12+00:00",
+      "side": "sell",
+      "symbol": "Gauntlet",
+      "address": "29gUUq5oN6CgcidPvbW822ipCoBx2g45zEevrdz5pump",
+      "price": 3.77422183e-06,
+      "proceeds": 23.27,
+      "pnl_usd": -26.73,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T23:20:12+00:00",
+      "side": "sell",
+      "symbol": "Foodslop",
+      "address": "BwZmBr4XFaDFEN6pQyay5aHNLaFSgxky6TpF9SxYpump",
+      "price": 1.629078955e-05,
+      "proceeds": 33.2,
+      "pnl_usd": -16.8,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T23:20:12+00:00",
+      "side": "buy",
+      "symbol": "ANSEM",
+      "address": "4QFTfVKQZErM5DN1mmcHURwiQRtbbuezXV38JcFypump",
+      "price": 8.931596337366643e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T23:20:12+00:00",
+      "side": "buy",
+      "symbol": "HC",
+      "address": "7KmYQZDtpZVprHzW4gyET99AzTXaHrywCMfxpfshpump",
+      "price": 7.4842367398175586e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8523,6 +8525,10 @@
     {
       "date": "2026-10-23T22:53:48+00:00",
       "equity": 5882533.84
+    },
+    {
+      "date": "2026-10-23T23:20:12+00:00",
+      "equity": 5882490.16
     }
   ]
 }
