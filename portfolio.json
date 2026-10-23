@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5882588.620930079,
+  "cash": 5882615.13004328,
   "positions": {
-    "o5J4QX6kuhMcetdtUyTfYWoErpU2ikG8vTyWxeKpump": {
-      "symbol": "YouTube",
-      "qty": 125642.45060782443,
-      "entry_price": 0.0003939751235393157,
-      "last_price": 0.0003821367505825537,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T19:05:57+00:00",
-      "missing": 0
-    },
-    "4gwgHGZFWWRhgUug6n73MAZUdZ1HoUtp1G4k7jt1pump": {
-      "symbol": "Weazel",
-      "qty": 136868.7012533906,
-      "entry_price": 0.0003616604785951657,
-      "last_price": 0.0003507695778760613,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T19:05:57+00:00",
-      "missing": 0
-    },
     "6dGcPPgsZoB8sWAcRWC9AM8Dq6C1tFq7oY1KV3NDpump": {
       "symbol": "$BROKE",
       "qty": 2675300.781299433,
       "entry_price": 1.8502592435964198e-05,
-      "last_price": 1.788380810604972e-05,
+      "last_price": 1.788982586e-05,
       "cost": 50.0,
       "entry_time": "2026-10-23T19:05:57+00:00",
       "missing": 0
@@ -33,66 +15,31 @@
       "symbol": "LaMisery",
       "qty": 5511078.386964695,
       "entry_price": 8.981908171925465e-06,
-      "last_price": 8.658598899922343e-06,
+      "last_price": 8.666384107e-06,
       "cost": 50.0,
       "entry_time": "2026-10-23T19:05:57+00:00",
       "missing": 0
     },
-    "43osbpT7zwuo5Fx9T7jCQ8wpMLth1sWNCxEzmmatpump": {
-      "symbol": "undr",
-      "qty": 21109201.75852436,
-      "entry_price": 2.344948926361501e-06,
-      "last_price": 2.255729774347643e-06,
+    "6ePRkW8ABNsQ8fxD3og2vHVGcpGEGa1GZPTD6kMRpump": {
+      "symbol": "ch",
+      "qty": 13144160.531400066,
+      "entry_price": 3.765930877194441e-06,
+      "last_price": 3.643080684272183e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-23T19:05:57+00:00",
+      "entry_time": "2026-10-23T19:39:36+00:00",
+      "missing": 0
+    },
+    "AhGrL5ZQvCs4UMZBXYHQtJyfRpkUw9gRUT5SnJ4kpump": {
+      "symbol": "GOC",
+      "qty": 3910953.837168945,
+      "entry_price": 1.265675895469837e-05,
+      "last_price": 1.2226049949735235e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T19:39:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T16:31:05+00:00",
-      "side": "buy",
-      "symbol": "$BWIZ",
-      "address": "Ck54hCiFsZeCm1akVCNevHaPbhCEskmA7iKzFAokpump",
-      "price": 8.606437529047887e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T16:31:05+00:00",
-      "side": "buy",
-      "symbol": "NEKO AI",
-      "address": "GmgDn375fAYJEZ1WPdVZSGtaMXfhfYwgxwiYiqbBpump",
-      "price": 7.692245544049283e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T17:12:18+00:00",
-      "side": "sell",
-      "symbol": "WEED",
-      "address": "5QsSxcoydN97b6Qu2L3MyX3HCPBhkiSWpDCPRrn2pump",
-      "price": 3.55131332e-06,
-      "proceeds": 18.55,
-      "pnl_usd": -31.45,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T17:12:18+00:00",
-      "side": "buy",
-      "symbol": "pokemon",
-      "address": "7YSYRP48kDUzw7J9wZDbb8mghKwWpRWASjDhk417pump",
-      "price": 7.131310980809451e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T17:46:39+00:00",
-      "side": "sell",
-      "symbol": "$BWIZ",
-      "address": "Ck54hCiFsZeCm1akVCNevHaPbhCEskmA7iKzFAokpump",
-      "price": 8.286540063e-06,
-      "proceeds": 45.42,
-      "pnl_usd": -4.58,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-20T17:46:39+00:00",
       "side": "sell",
@@ -4544,6 +4491,52 @@
       "address": "43osbpT7zwuo5Fx9T7jCQ8wpMLth1sWNCxEzmmatpump",
       "price": 2.344948926361501e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T19:39:36+00:00",
+      "side": "sell",
+      "symbol": "YouTube",
+      "address": "o5J4QX6kuhMcetdtUyTfYWoErpU2ikG8vTyWxeKpump",
+      "price": 9.687883947e-05,
+      "proceeds": 11.68,
+      "pnl_usd": -38.32,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T19:39:36+00:00",
+      "side": "sell",
+      "symbol": "Weazel",
+      "address": "4gwgHGZFWWRhgUug6n73MAZUdZ1HoUtp1G4k7jt1pump",
+      "price": 0.0006091268155,
+      "proceeds": 79.85,
+      "pnl_usd": 29.85,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-23T19:39:36+00:00",
+      "side": "sell",
+      "symbol": "undr",
+      "address": "43osbpT7zwuo5Fx9T7jCQ8wpMLth1sWNCxEzmmatpump",
+      "price": 1.763680877e-06,
+      "proceeds": 34.98,
+      "pnl_usd": -15.02,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T19:39:36+00:00",
+      "side": "buy",
+      "symbol": "ch",
+      "address": "6ePRkW8ABNsQ8fxD3og2vHVGcpGEGa1GZPTD6kMRpump",
+      "price": 3.765930877194441e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T19:39:36+00:00",
+      "side": "buy",
+      "symbol": "GOC",
+      "address": "AhGrL5ZQvCs4UMZBXYHQtJyfRpkUw9gRUT5SnJ4kpump",
+      "price": 1.265675895469837e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8486,6 +8479,10 @@
     {
       "date": "2026-10-23T19:05:57+00:00",
       "equity": 5882827.82
+    },
+    {
+      "date": "2026-10-23T19:39:36+00:00",
+      "equity": 5882806.45
     }
   ]
 }
