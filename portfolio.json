@@ -1,125 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5882616.3718184475,
+  "cash": 5882681.970197579,
   "positions": {
-    "pJWevyhv6QkY559BWNPYP3x7HHB8D9hA9igDUAmpump": {
-      "symbol": "eCash",
-      "qty": 3796505.259682317,
-      "entry_price": 1.303830670950843e-05,
-      "last_price": 1.259606386e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T05:04:51+00:00",
-      "missing": 0
-    },
-    "14uNqfAVhtCSGeyp4CdcY6KvxUFuCTPWdxE1LFvtpump": {
-      "symbol": "Serf",
-      "qty": 5437214.241401462,
-      "entry_price": 9.103926717303896e-06,
-      "last_price": 8.758209595249037e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T05:37:42+00:00",
-      "missing": 0
-    },
-    "9Hdu6kLzspmVEcBsrbNQGJADNyDMmQz5D8P4d9pQpump": {
-      "symbol": "Seeblues",
-      "qty": 2791602.742792765,
-      "entry_price": 1.7731749307023317e-05,
-      "last_price": 1.716465017762532e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T05:37:42+00:00",
-      "missing": 0
-    },
-    "6rxfDZe3un6vUx8q5CwZf3WcdsjNGd69RoiXXc6pump": {
-      "symbol": "Rockstar",
-      "qty": 131092.50329362633,
-      "entry_price": 0.00037759596282273966,
-      "last_price": 0.0003662440068185962,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T05:37:42+00:00",
-      "missing": 0
-    },
-    "CmB7LNbJer6mY98qL4MWQT5yUsxLtdNfJq2Ay3epump": {
-      "symbol": "Rick",
-      "qty": 6422218.390762878,
-      "entry_price": 7.707617055065614e-06,
-      "last_price": 7.413802822267081e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T05:37:42+00:00",
-      "missing": 0
-    },
     "4njaxqZd4AVyWi51vPpBT8XnJMmpoqCwgYe4dtbupump": {
       "symbol": "$GOD",
       "qty": 6105803.791697955,
       "entry_price": 8.107040725302215e-06,
-      "last_price": 7.806176423364354e-06,
+      "last_price": 7.806176423e-06,
       "cost": 50.0,
       "entry_time": "2026-10-23T05:37:42+00:00",
+      "missing": 0
+    },
+    "DrxcSXsu3Joy5Yo8P1niB7f4sDD5UrawZnK7U7Sipump": {
+      "symbol": "LAST",
+      "qty": 4393972.074997599,
+      "entry_price": 1.1265433451810694e-05,
+      "last_price": 1.0844603471571407e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T06:12:34+00:00",
+      "missing": 0
+    },
+    "7oHuVQRtfd5HtdeVYWw4GdotDZGSvpN4gHVEeAtApump": {
+      "symbol": "Particle",
+      "qty": 1328587.9567924277,
+      "entry_price": 3.725760100935014e-05,
+      "last_price": 3.6064796988446585e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T06:12:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-19T23:53:00+00:00",
-      "side": "buy",
-      "symbol": "POKEDOLLAR",
-      "address": "BduvkQfRXfHAkEA8twA6bejSWzDoDxDiXoCzUEsupump",
-      "price": 1.425883080436542e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T00:27:01+00:00",
-      "side": "sell",
-      "symbol": "POKEDOLLAR",
-      "address": "BduvkQfRXfHAkEA8twA6bejSWzDoDxDiXoCzUEsupump",
-      "price": 3.130886501e-06,
-      "proceeds": 10.39,
-      "pnl_usd": -39.61,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T00:27:01+00:00",
-      "side": "buy",
-      "symbol": "ANAKIN",
-      "address": "5nboaBtcE9Q6gFQB7fXk1RFSjsnYoyn3hf3XqV6gpump",
-      "price": 4.1150221275282024e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T01:13:40+00:00",
-      "side": "sell",
-      "symbol": "ANAKIN",
-      "address": "5nboaBtcE9Q6gFQB7fXk1RFSjsnYoyn3hf3XqV6gpump",
-      "price": 1.387747219e-05,
-      "proceeds": 15.97,
-      "pnl_usd": -34.03,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T01:13:41+00:00",
-      "side": "buy",
-      "symbol": "Simpsons",
-      "address": "QXtrCdpa6qFzH3Ka1YShGUBNncah6F8xa9FeWnYpump",
-      "price": 7.337286207584074e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T01:13:41+00:00",
-      "side": "buy",
-      "symbol": "PIVOT",
-      "address": "AKmHspkVaXC6FUak2dkZWMtFBSb3UiMa8WZzCkhEpump",
-      "price": 1.032305477876068e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T01:51:11+00:00",
-      "side": "sell",
-      "symbol": "Simpsons",
-      "address": "QXtrCdpa6qFzH3Ka1YShGUBNncah6F8xa9FeWnYpump",
-      "price": 1.905889597e-06,
-      "proceeds": 1.23,
-      "pnl_usd": -48.77,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-20T01:51:11+00:00",
       "side": "sell",
@@ -4551,6 +4462,72 @@
       "address": "4njaxqZd4AVyWi51vPpBT8XnJMmpoqCwgYe4dtbupump",
       "price": 8.107040725302215e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T06:12:34+00:00",
+      "side": "sell",
+      "symbol": "eCash",
+      "address": "pJWevyhv6QkY559BWNPYP3x7HHB8D9hA9igDUAmpump",
+      "price": 1.259606386e-05,
+      "proceeds": 45.69,
+      "pnl_usd": -4.31,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T06:12:34+00:00",
+      "side": "sell",
+      "symbol": "Serf",
+      "address": "14uNqfAVhtCSGeyp4CdcY6KvxUFuCTPWdxE1LFvtpump",
+      "price": 3.141350811e-06,
+      "proceeds": 16.29,
+      "pnl_usd": -33.71,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T06:12:34+00:00",
+      "side": "sell",
+      "symbol": "Seeblues",
+      "address": "9Hdu6kLzspmVEcBsrbNQGJADNyDMmQz5D8P4d9pQpump",
+      "price": 3.984101066e-06,
+      "proceeds": 10.64,
+      "pnl_usd": -39.36,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T06:12:34+00:00",
+      "side": "sell",
+      "symbol": "Rockstar",
+      "address": "6rxfDZe3un6vUx8q5CwZf3WcdsjNGd69RoiXXc6pump",
+      "price": 0.0007406962845,
+      "proceeds": 92.98,
+      "pnl_usd": 42.98,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-23T06:12:34+00:00",
+      "side": "sell",
+      "symbol": "Rick",
+      "address": "CmB7LNbJer6mY98qL4MWQT5yUsxLtdNfJq2Ay3epump",
+      "price": 1.184581617e-09,
+      "proceeds": 0.01,
+      "pnl_usd": -49.99,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T06:12:34+00:00",
+      "side": "buy",
+      "symbol": "LAST",
+      "address": "DrxcSXsu3Joy5Yo8P1niB7f4sDD5UrawZnK7U7Sipump",
+      "price": 1.1265433451810694e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T06:12:34+00:00",
+      "side": "buy",
+      "symbol": "Particle",
+      "address": "7oHuVQRtfd5HtdeVYWw4GdotDZGSvpN4gHVEeAtApump",
+      "price": 3.725760100935014e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8409,6 +8386,10 @@
     {
       "date": "2026-10-23T05:37:42+00:00",
       "equity": 5882903.02
+    },
+    {
+      "date": "2026-10-23T06:12:34+00:00",
+      "equity": 5882825.2
     }
   ]
 }
