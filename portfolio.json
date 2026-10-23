@@ -1,65 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5883030.581623353,
+  "cash": 5882880.804526304,
   "positions": {
-    "6iEkV2cT7AkLb8VHHANdBsbab84Nz8RRVY2NgApipump": {
-      "symbol": "SpaceX AI",
-      "qty": 123056.8790643409,
-      "entry_price": 0.0004022530099606921,
-      "last_price": 0.000390169989335703,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T17:16:17+00:00",
-      "missing": 0
-    },
     "DPy1vgpHudpE73cVQA74VweuGZFpaVi4K1i4tWFDpump": {
       "symbol": "ZONE",
       "qty": 6057963.956905924,
       "entry_price": 8.1710621509346e-06,
-      "last_price": 7.870972617833604e-06,
+      "last_price": 7.800235012e-06,
       "cost": 50.0,
       "entry_time": "2026-10-23T17:16:17+00:00",
+      "missing": 0
+    },
+    "A1vinpiShT13ivscTNDQs7UWsRW8CTNmYMC3ymyEpump": {
+      "symbol": "HC",
+      "qty": 4694008.79145766,
+      "entry_price": 1.054535732657383e-05,
+      "last_price": 1.0148430618430935e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T17:51:32+00:00",
+      "missing": 0
+    },
+    "FgGxVSDWrTA2ufj4x8LY17JSWYeYcU3cUc5WMLFMpump": {
+      "symbol": "McCat",
+      "qty": 3735916.1060356377,
+      "entry_price": 1.3249762198896606e-05,
+      "last_price": 1.276921200925307e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T17:51:32+00:00",
+      "missing": 0
+    },
+    "82nMDhznMRmY6VVqELvcYqxhBsGU29fEiCRrKM4apump": {
+      "symbol": "DRSSRSHT",
+      "qty": 8802100.577430166,
+      "entry_price": 5.623657621786897e-06,
+      "last_price": 5.407408136850148e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T17:51:32+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T12:32:13+00:00",
-      "side": "buy",
-      "symbol": "MONY",
-      "address": "59e5S4Ghxr2i2Fgh13MhVCtMkUYQGs7ms7jVxD4Spump",
-      "price": 7.036928422932629e-07,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T13:19:34+00:00",
-      "side": "sell",
-      "symbol": "GODPACK",
-      "address": "BrmhMyxU8wHyAEgVa5GQ6mzQP3bXqCzNMTg1faegpump",
-      "price": 1.596860853e-05,
-      "proceeds": 45.79,
-      "pnl_usd": -4.21,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-20T13:19:34+00:00",
-      "side": "sell",
-      "symbol": "SI",
-      "address": "FaREyaCY5VSPUNWkiGP5kRehhz7riMReLerp7vnrpump",
-      "price": 3.033096988e-06,
-      "proceeds": 14.71,
-      "pnl_usd": -35.29,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T13:19:34+00:00",
-      "side": "sell",
-      "symbol": "MONY",
-      "address": "59e5S4Ghxr2i2Fgh13MhVCtMkUYQGs7ms7jVxD4Spump",
-      "price": 7.256726313e-08,
-      "proceeds": 4.43,
-      "pnl_usd": -45.57,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-20T14:03:04+00:00",
       "side": "buy",
@@ -4521,6 +4501,40 @@
       "address": "DPy1vgpHudpE73cVQA74VweuGZFpaVi4K1i4tWFDpump",
       "price": 8.1710621509346e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T17:51:32+00:00",
+      "side": "sell",
+      "symbol": "SpaceX AI",
+      "address": "6iEkV2cT7AkLb8VHHANdBsbab84Nz8RRVY2NgApipump",
+      "price": 1.888587048e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T17:51:32+00:00",
+      "side": "buy",
+      "symbol": "HC",
+      "address": "A1vinpiShT13ivscTNDQs7UWsRW8CTNmYMC3ymyEpump",
+      "price": 1.054535732657383e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T17:51:32+00:00",
+      "side": "buy",
+      "symbol": "McCat",
+      "address": "FgGxVSDWrTA2ufj4x8LY17JSWYeYcU3cUc5WMLFMpump",
+      "price": 1.3249762198896606e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T17:51:32+00:00",
+      "side": "buy",
+      "symbol": "DRSSRSHT",
+      "address": "82nMDhznMRmY6VVqELvcYqxhBsGU29fEiCRrKM4apump",
+      "price": 5.623657621786897e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8451,6 +8465,10 @@
     {
       "date": "2026-10-23T17:16:17+00:00",
       "equity": 5883126.28
+    },
+    {
+      "date": "2026-10-23T17:51:32+00:00",
+      "equity": 5883071.0
     }
   ]
 }
