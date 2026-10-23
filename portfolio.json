@@ -1,115 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5882620.698889324,
+  "cash": 5882711.909764245,
   "positions": {
-    "3JpttAJ2SZzvgLd8GdjYRVmVg1dWD6iEKqy5XUpLpump": {
-      "symbol": "psyopcat",
-      "qty": 974125.6022745279,
-      "entry_price": 5.0814802407841775e-05,
-      "last_price": 4.919462708489641e-05,
+    "EdHEtSnSHP3noYkE8xQQbZNajrTB5yDGWj3y1SxGpump": {
+      "symbol": "KANTO",
+      "qty": 3666938.964860906,
+      "entry_price": 1.349899752200474e-05,
+      "last_price": 1.3008549425721207e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T13:21:45+00:00",
+      "entry_time": "2026-10-23T14:05:32+00:00",
       "missing": 0
     },
-    "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump": {
-      "symbol": "Trace",
-      "qty": 1595661.2855790535,
-      "entry_price": 3.1021621222098414e-05,
-      "last_price": 2.995785606328987e-05,
+    "7SdRHNxHU4czRx5JzfrKmanptxJdgZXpuvk24gnXpump": {
+      "symbol": "AVANZA",
+      "qty": 1285318.2194108355,
+      "entry_price": 3.851186364003291e-05,
+      "last_price": 3.732499660531508e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T13:21:45+00:00",
+      "entry_time": "2026-10-23T14:05:32+00:00",
       "missing": 0
     },
-    "2J1QW5JJVkUgDkHjBEiFyi8BeZQgJfaS2rfhj2wtpump": {
-      "symbol": "ACTIV",
-      "qty": 1022211.5003956622,
-      "entry_price": 4.842442095480269e-05,
-      "last_price": 4.6859953709082444e-05,
+    "2QmYfqWc7wkiPyXrRD4SsqRzihpi3fEzHYRXiAe8pump": {
+      "symbol": "lingling",
+      "qty": 3762334.026082441,
+      "entry_price": 1.3156726557727318e-05,
+      "last_price": 1.2705606903741016e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T13:21:45+00:00",
+      "entry_time": "2026-10-23T14:05:32+00:00",
       "missing": 0
     },
-    "A3WqngzJwDfeuhd7vRtw9w367pGRF4tH4KVdmh34pump": {
-      "symbol": "KIMCHI",
-      "qty": 1133441.6693339914,
-      "entry_price": 4.367229592775262e-05,
-      "last_price": 4.2275315016027435e-05,
+    "CSEEqXLbmvecnp8Xien9RU4SgqNnYGqeZP3x4t4ypump": {
+      "symbol": "NEKO AI",
+      "qty": 97281758.54643774,
+      "entry_price": 5.088312623005374e-07,
+      "last_price": 4.894917453213814e-07,
       "cost": 50.0,
-      "entry_time": "2026-10-23T13:21:45+00:00",
+      "entry_time": "2026-10-23T14:05:32+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T06:18:32+00:00",
-      "side": "buy",
-      "symbol": "Sepolia",
-      "address": "FCTq7bC1vYQot2nzEd5hkEDRkpjppDyuVVXzhs8Fpump",
-      "price": 1.2823723353084395e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T07:10:08+00:00",
-      "side": "sell",
-      "symbol": "Sepolia",
-      "address": "FCTq7bC1vYQot2nzEd5hkEDRkpjppDyuVVXzhs8Fpump",
-      "price": 2.838597295e-06,
-      "proceeds": 10.46,
-      "pnl_usd": -39.54,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T08:25:06+00:00",
-      "side": "buy",
-      "symbol": "COLLECTOOO",
-      "address": "J28yRmmp58Aux2V1E6zPqCKjY3m1BzAMUeSEbXpBpump",
-      "price": 8.442064066371318e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T08:25:06+00:00",
-      "side": "buy",
-      "symbol": "Pepemon",
-      "address": "CfdFkBcY4aaTFDHFp83DAbdF6e7cViCFETmtWGCApump",
-      "price": 1.0402357984014858e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T08:25:06+00:00",
-      "side": "buy",
-      "symbol": "song",
-      "address": "8UxPkYRJ888F6a5X2WESdULsEoD7vX6yNA2MVR1Cpump",
-      "price": 9.069967137547055e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T09:06:18+00:00",
-      "side": "sell",
-      "symbol": "COLLECTOOO",
-      "address": "J28yRmmp58Aux2V1E6zPqCKjY3m1BzAMUeSEbXpBpump",
-      "price": 0.0008924001416,
-      "proceeds": 259.01,
-      "pnl_usd": 209.01,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-20T09:06:18+00:00",
-      "side": "sell",
-      "symbol": "Pepemon",
-      "address": "CfdFkBcY4aaTFDHFp83DAbdF6e7cViCFETmtWGCApump",
-      "price": 1.707009502e-05,
-      "proceeds": 75.28,
-      "pnl_usd": 25.28,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-20T09:06:18+00:00",
-      "side": "buy",
-      "symbol": "Haiku",
-      "address": "CRWCzAr2CmHmqfNTFfJFpNVF1jtuw1WMGSnhAL6ypump",
-      "price": 1.3511518413161657e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T09:40:13+00:00",
       "side": "sell",
@@ -4535,6 +4465,78 @@
       "address": "A3WqngzJwDfeuhd7vRtw9w367pGRF4tH4KVdmh34pump",
       "price": 4.367229592775262e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "side": "sell",
+      "symbol": "psyopcat",
+      "address": "3JpttAJ2SZzvgLd8GdjYRVmVg1dWD6iEKqy5XUpLpump",
+      "price": 2.103499818e-06,
+      "proceeds": 1.96,
+      "pnl_usd": -48.04,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "side": "sell",
+      "symbol": "Trace",
+      "address": "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump",
+      "price": 9.56210646e-05,
+      "proceeds": 144.82,
+      "pnl_usd": 94.82,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "side": "sell",
+      "symbol": "ACTIV",
+      "address": "2J1QW5JJVkUgDkHjBEiFyi8BeZQgJfaS2rfhj2wtpump",
+      "price": 2.157171534e-06,
+      "proceeds": 2.11,
+      "pnl_usd": -47.89,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "side": "sell",
+      "symbol": "KIMCHI",
+      "address": "A3WqngzJwDfeuhd7vRtw9w367pGRF4tH4KVdmh34pump",
+      "price": 0.0001315914112,
+      "proceeds": 142.32,
+      "pnl_usd": 92.32,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "side": "buy",
+      "symbol": "KANTO",
+      "address": "EdHEtSnSHP3noYkE8xQQbZNajrTB5yDGWj3y1SxGpump",
+      "price": 1.349899752200474e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "side": "buy",
+      "symbol": "AVANZA",
+      "address": "7SdRHNxHU4czRx5JzfrKmanptxJdgZXpuvk24gnXpump",
+      "price": 3.851186364003291e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "side": "buy",
+      "symbol": "lingling",
+      "address": "2QmYfqWc7wkiPyXrRD4SsqRzihpi3fEzHYRXiAe8pump",
+      "price": 1.3156726557727318e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "side": "buy",
+      "symbol": "NEKO AI",
+      "address": "CSEEqXLbmvecnp8Xien9RU4SgqNnYGqeZP3x4t4ypump",
+      "price": 5.088312623005374e-07,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8441,6 +8443,10 @@
     {
       "date": "2026-10-23T13:21:45+00:00",
       "equity": 5882812.24
+    },
+    {
+      "date": "2026-10-23T14:05:32+00:00",
+      "equity": 5882903.01
     }
   ]
 }
