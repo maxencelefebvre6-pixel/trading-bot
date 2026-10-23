@@ -1,104 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5882685.104106654,
+  "cash": 5882620.698889324,
   "positions": {
-    "9uEi2bYDoS5SX8ysVXVWHrRWaGwrbaBkStt2TBVupump": {
-      "symbol": "LICENSE",
-      "qty": 2956857.95741915,
-      "entry_price": 1.6740743286568066e-05,
-      "last_price": 1.61493845e-05,
+    "3JpttAJ2SZzvgLd8GdjYRVmVg1dWD6iEKqy5XUpLpump": {
+      "symbol": "psyopcat",
+      "qty": 974125.6022745279,
+      "entry_price": 5.0814802407841775e-05,
+      "last_price": 4.919462708489641e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T11:59:00+00:00",
+      "entry_time": "2026-10-23T13:21:45+00:00",
       "missing": 0
     },
-    "4WkgcMVPX164U9ByxB1oDvftiSKJCe5eAv5CrLqJpump": {
-      "symbol": "McGruff",
-      "qty": 5171293.061010874,
-      "entry_price": 9.572074027907411e-06,
-      "last_price": 9.217189037141714e-06,
+    "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump": {
+      "symbol": "Trace",
+      "qty": 1595661.2855790535,
+      "entry_price": 3.1021621222098414e-05,
+      "last_price": 2.995785606328987e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T12:37:27+00:00",
+      "entry_time": "2026-10-23T13:21:45+00:00",
       "missing": 0
     },
-    "G889NycrCzLR774wGUowXSbpJVZbg6YLqUZzhjU4pump": {
-      "symbol": "messenger",
-      "qty": 3904634.3955113245,
-      "entry_price": 1.267724324123765e-05,
-      "last_price": 1.2244920391038198e-05,
+    "2J1QW5JJVkUgDkHjBEiFyi8BeZQgJfaS2rfhj2wtpump": {
+      "symbol": "ACTIV",
+      "qty": 1022211.5003956622,
+      "entry_price": 4.842442095480269e-05,
+      "last_price": 4.6859953709082444e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T12:37:27+00:00",
+      "entry_time": "2026-10-23T13:21:45+00:00",
+      "missing": 0
+    },
+    "A3WqngzJwDfeuhd7vRtw9w367pGRF4tH4KVdmh34pump": {
+      "symbol": "KIMCHI",
+      "qty": 1133441.6693339914,
+      "entry_price": 4.367229592775262e-05,
+      "last_price": 4.2275315016027435e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T13:21:45+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T05:12:51+00:00",
-      "side": "buy",
-      "symbol": "FLOWERS",
-      "address": "EGqP6Jdf8iB9V7xVYLA7r852fd9dE2AXEiNkLBUapump",
-      "price": 6.4222875081753006e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T05:49:42+00:00",
-      "side": "sell",
-      "symbol": "STD",
-      "address": "92PLh1FJEm2NkSfgNUeha4jgBESdu5xPT5NgAf6ypump",
-      "price": 8.420586507e-06,
-      "proceeds": 45.48,
-      "pnl_usd": -4.52,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-20T05:49:42+00:00",
-      "side": "sell",
-      "symbol": "GrenCAT",
-      "address": "7uAhKxBZRJwwoM2sYAzs4EkmwsoYSbaQ1yJcJ7Bppump",
-      "price": 7.293737814e-06,
-      "proceeds": 45.37,
-      "pnl_usd": -4.63,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-20T05:49:42+00:00",
-      "side": "sell",
-      "symbol": "ROTTAI",
-      "address": "xboJW5MuxL3z51cqHUvFRgihTh6uHeVbW1S669Mpump",
-      "price": 3.050863416e-06,
-      "proceeds": 11.21,
-      "pnl_usd": -38.79,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T05:49:42+00:00",
-      "side": "sell",
-      "symbol": "GENGAR",
-      "address": "8dtXKdPmEcTHZwzdHqgyBRA9KeVHtKmnvn4Gzof7pump",
-      "price": 2.731626978e-06,
-      "proceeds": 2.56,
-      "pnl_usd": -47.44,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T05:49:42+00:00",
-      "side": "sell",
-      "symbol": "FLOWERS",
-      "address": "EGqP6Jdf8iB9V7xVYLA7r852fd9dE2AXEiNkLBUapump",
-      "price": 6.981769684e-07,
-      "proceeds": 5.12,
-      "pnl_usd": -44.88,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-20T06:18:32+00:00",
-      "side": "sell",
-      "symbol": "$GRADED",
-      "address": "FudbK6H6RXU2hUDrT4NT6duzjNsRtX261Z82sVmMpump",
-      "price": 0.0002130655944,
-      "proceeds": 45.7,
-      "pnl_usd": -4.3,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-20T06:18:32+00:00",
       "side": "buy",
@@ -4532,6 +4473,68 @@
       "address": "G889NycrCzLR774wGUowXSbpJVZbg6YLqUZzhjU4pump",
       "price": 1.267724324123765e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T13:21:45+00:00",
+      "side": "sell",
+      "symbol": "LICENSE",
+      "address": "9uEi2bYDoS5SX8ysVXVWHrRWaGwrbaBkStt2TBVupump",
+      "price": 1.61493845e-05,
+      "proceeds": 45.68,
+      "pnl_usd": -4.32,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T13:21:45+00:00",
+      "side": "sell",
+      "symbol": "McGruff",
+      "address": "4WkgcMVPX164U9ByxB1oDvftiSKJCe5eAv5CrLqJpump",
+      "price": 1.368343998e-05,
+      "proceeds": 66.25,
+      "pnl_usd": 16.25,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-23T13:21:45+00:00",
+      "side": "sell",
+      "symbol": "messenger",
+      "address": "G889NycrCzLR774wGUowXSbpJVZbg6YLqUZzhjU4pump",
+      "price": 1.224492039e-05,
+      "proceeds": 23.67,
+      "pnl_usd": -26.33,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T13:21:45+00:00",
+      "side": "buy",
+      "symbol": "psyopcat",
+      "address": "3JpttAJ2SZzvgLd8GdjYRVmVg1dWD6iEKqy5XUpLpump",
+      "price": 5.0814802407841775e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T13:21:45+00:00",
+      "side": "buy",
+      "symbol": "Trace",
+      "address": "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump",
+      "price": 3.1021621222098414e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T13:21:45+00:00",
+      "side": "buy",
+      "symbol": "ACTIV",
+      "address": "2J1QW5JJVkUgDkHjBEiFyi8BeZQgJfaS2rfhj2wtpump",
+      "price": 4.842442095480269e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T13:21:45+00:00",
+      "side": "buy",
+      "symbol": "KIMCHI",
+      "address": "A3WqngzJwDfeuhd7vRtw9w367pGRF4tH4KVdmh34pump",
+      "price": 4.367229592775262e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8434,6 +8437,10 @@
     {
       "date": "2026-10-23T12:37:27+00:00",
       "equity": 5882828.33
+    },
+    {
+      "date": "2026-10-23T13:21:45+00:00",
+      "equity": 5882812.24
     }
   ]
 }
