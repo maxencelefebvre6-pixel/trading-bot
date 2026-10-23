@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5883224.118100396,
-  "positions": {},
-  "trades": [
-    {
-      "date": "2026-10-19T18:10:19+00:00",
-      "side": "sell",
+  "cash": 5883174.118100396,
+  "positions": {
+    "NActAuVdRK2VxPx9HaM1pGAQCgWm9YV8VbEuqkhpump": {
       "symbol": "DOOROC",
-      "address": "2m5wWBG6tg6KqcVPCGKQQKqaJmoi9Kb3rh8pSxoapump",
-      "price": 3.201915198e-06,
-      "proceeds": 21.52,
-      "pnl_usd": -28.48,
-      "reason": "stop-loss"
-    },
+      "qty": 8342543.953821837,
+      "entry_price": 5.93344191819611e-06,
+      "last_price": 5.731796751258983e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T00:42:40+00:00",
+      "missing": 0
+    }
+  },
+  "trades": [
     {
       "date": "2026-10-19T18:10:19+00:00",
       "side": "sell",
@@ -4504,6 +4504,14 @@
       "proceeds": 0.22,
       "pnl_usd": -49.78,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-23T00:42:40+00:00",
+      "side": "buy",
+      "symbol": "DOOROC",
+      "address": "NActAuVdRK2VxPx9HaM1pGAQCgWm9YV8VbEuqkhpump",
+      "price": 5.93344191819611e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8326,6 +8334,10 @@
     {
       "date": "2026-10-22T23:58:24+00:00",
       "equity": 5883224.12
+    },
+    {
+      "date": "2026-10-23T00:42:40+00:00",
+      "equity": 5883221.94
     }
   ]
 }
