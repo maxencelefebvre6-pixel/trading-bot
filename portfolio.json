@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5882620.786227833,
+  "cash": 5882548.254728356,
   "positions": {
-    "65g7N5sudYgvmsMnNrrNUgv7xd8XyaMR1V4TiWMGpump": {
-      "symbol": "ELON",
-      "qty": 9927067.9870729,
-      "entry_price": 4.986366575151824e-06,
-      "last_price": 4.798567892013092e-06,
+    "49nqGdE44Gy2qVyGCSUWx2gsApNpQA2eVz7urWZ7pump": {
+      "symbol": "HOPMIC",
+      "qty": 680.8587188651054,
+      "entry_price": 0.07270230758373698,
+      "last_price": 0.07055358761538781,
       "cost": 50.0,
-      "entry_time": "2026-10-23T21:14:45+00:00",
+      "entry_time": "2026-10-23T21:52:01+00:00",
+      "missing": 0
+    },
+    "GkQszkjCxpYExN7mALBBTdRp3UtuWCLjeb2hTZaopump": {
+      "symbol": "$Kimba",
+      "qty": 1937377.9888236094,
+      "entry_price": 2.5549996069717286e-05,
+      "last_price": 2.4653773649795837e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T21:52:01+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T19:02:14+00:00",
-      "side": "sell",
-      "symbol": "COMPUTE",
-      "address": "GedJQfcMezFTvWyK36tS33ZxsrrJjhsdAxH6rg22pump",
-      "price": 2.116758451e-06,
-      "proceeds": 2.13,
-      "pnl_usd": -47.87,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-20T19:02:14+00:00",
-      "side": "sell",
-      "symbol": "HIMOTHY",
-      "address": "HRxMfiHA5QoNrJRrvXkekEGZSX1Z97Gats3S1YU9pump",
-      "price": 3.004011079e-06,
-      "proceeds": 13.55,
-      "pnl_usd": -36.45,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T19:02:14+00:00",
-      "side": "sell",
-      "symbol": "HIMOTHY",
-      "address": "EsHKfMrTzQAoqwkUsQDMZf7xQTG6TZmYu6u5muy3pump",
-      "price": 3.096068129e-06,
-      "proceeds": 5.29,
-      "pnl_usd": -44.71,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-20T19:02:14+00:00",
       "side": "buy",
@@ -4514,6 +4493,32 @@
       "address": "65g7N5sudYgvmsMnNrrNUgv7xd8XyaMR1V4TiWMGpump",
       "price": 4.986366575151824e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T21:52:01+00:00",
+      "side": "sell",
+      "symbol": "ELON",
+      "address": "65g7N5sudYgvmsMnNrrNUgv7xd8XyaMR1V4TiWMGpump",
+      "price": 2.918721954e-06,
+      "proceeds": 27.47,
+      "pnl_usd": -22.53,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T21:52:01+00:00",
+      "side": "buy",
+      "symbol": "HOPMIC",
+      "address": "49nqGdE44Gy2qVyGCSUWx2gsApNpQA2eVz7urWZ7pump",
+      "price": 0.07270230758373698,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T21:52:01+00:00",
+      "side": "buy",
+      "symbol": "$Kimba",
+      "address": "GkQszkjCxpYExN7mALBBTdRp3UtuWCLjeb2hTZaopump",
+      "price": 2.5549996069717286e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8472,6 +8477,10 @@
     {
       "date": "2026-10-23T21:14:45+00:00",
       "equity": 5882668.42
+    },
+    {
+      "date": "2026-10-23T21:52:01+00:00",
+      "equity": 5882644.06
     }
   ]
 }
