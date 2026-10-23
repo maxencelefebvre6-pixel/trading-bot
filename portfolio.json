@@ -1,66 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5882607.136835701,
+  "cash": 5882617.483757894,
   "positions": {
-    "AhGrL5ZQvCs4UMZBXYHQtJyfRpkUw9gRUT5SnJ4kpump": {
-      "symbol": "GOC",
-      "qty": 3910953.837168945,
-      "entry_price": 1.265675895469837e-05,
-      "last_price": 1.222131747e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T19:39:36+00:00",
-      "missing": 0
-    },
-    "GsbF78xZZtpXwdReXt9xmakjbo4NiAXjTy4qenNkpump": {
-      "symbol": "ADIN",
-      "qty": 5311282.259338837,
-      "entry_price": 9.319783356074526e-06,
-      "last_price": 8.976443813904242e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T20:07:04+00:00",
-      "missing": 0
-    },
     "FmCjhjsLAVSjp1i4NRmY7KvRnajnCFwZwyjPg7qApump": {
       "symbol": "Lucia",
       "qty": 7336178.034215243,
       "entry_price": 6.747382597469236e-06,
-      "last_price": 6.488047538887392e-06,
+      "last_price": 6.384596803e-06,
       "cost": 50.0,
       "entry_time": "2026-10-23T20:07:04+00:00",
+      "missing": 0
+    },
+    "4tfDHd7TKVUZnUyVYi5xK1FvraCjSHFnKLnNvBcEpump": {
+      "symbol": "Fih",
+      "qty": 3101521.428682654,
+      "entry_price": 1.5959909076309274e-05,
+      "last_price": 1.5377929602651555e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T20:42:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T18:15:14+00:00",
-      "side": "sell",
-      "symbol": "SpaceX AI",
-      "address": "4Nu9ShvPWpXkCPSPXkYDC79v6LncprwrLGGS1wn4pump",
-      "price": 1.886995701e-06,
-      "proceeds": 0.21,
-      "pnl_usd": -49.79,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-20T18:15:14+00:00",
-      "side": "sell",
-      "symbol": "VFP",
-      "address": "AHhHX2mo79ZgfZCcwZFi8qDvhELJXbXPsVmQTUuspump",
-      "price": 2.984416095e-06,
-      "proceeds": 14.83,
-      "pnl_usd": -35.17,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T18:15:14+00:00",
-      "side": "sell",
-      "symbol": "Lucknow",
-      "address": "6j48vacnbsbS4Y7HxEXkeFXDJejyHvZhY1c2VPu7pump",
-      "price": 2.987510078e-06,
-      "proceeds": 12.41,
-      "pnl_usd": -37.59,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-20T18:15:14+00:00",
       "side": "buy",
@@ -4530,6 +4491,34 @@
       "address": "FmCjhjsLAVSjp1i4NRmY7KvRnajnCFwZwyjPg7qApump",
       "price": 6.747382597469236e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T20:42:25+00:00",
+      "side": "sell",
+      "symbol": "GOC",
+      "address": "AhGrL5ZQvCs4UMZBXYHQtJyfRpkUw9gRUT5SnJ4kpump",
+      "price": 1.222131747e-05,
+      "proceeds": 45.66,
+      "pnl_usd": -4.34,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T20:42:25+00:00",
+      "side": "sell",
+      "symbol": "ADIN",
+      "address": "GsbF78xZZtpXwdReXt9xmakjbo4NiAXjTy4qenNkpump",
+      "price": 2.899005485e-06,
+      "proceeds": 14.68,
+      "pnl_usd": -35.32,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T20:42:25+00:00",
+      "side": "buy",
+      "symbol": "Fih",
+      "address": "4tfDHd7TKVUZnUyVYi5xK1FvraCjSHFnKLnNvBcEpump",
+      "price": 1.5959909076309274e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8480,6 +8469,10 @@
     {
       "date": "2026-10-23T20:07:04+00:00",
       "equity": 5882750.21
+    },
+    {
+      "date": "2026-10-23T20:42:25+00:00",
+      "equity": 5882712.02
     }
   ]
 }
