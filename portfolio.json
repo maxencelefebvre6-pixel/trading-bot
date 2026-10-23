@@ -1,42 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5882539.676464865,
+  "cash": 5882441.066083813,
   "positions": {
-    "7HYZgusu6h3DoNpa3a1A9vgWthnFXLQcdNaRadyepump": {
-      "symbol": "DAZE",
-      "qty": 587951.9074730196,
-      "entry_price": 8.419055941624188e-05,
-      "last_price": 8.155706527381175e-05,
+    "BWNvZSuGuMDZ1foz7koiiE5Y3T7uFi9Tz1k4gmgDpump": {
+      "symbol": "Mind Lot",
+      "qty": 1091426.3069736806,
+      "entry_price": 4.5353497239089067e-05,
+      "last_price": 4.389953162997074e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-23T10:14:01+00:00",
+      "entry_time": "2026-10-23T10:51:44+00:00",
+      "missing": 0
+    },
+    "HffH5YB6YhTWinZYzbqJowpDbKzqALGMX1NFAHYdpump": {
+      "symbol": "PUMP",
+      "qty": 3527863.3802648988,
+      "entry_price": 1.4031155593186027e-05,
+      "last_price": 1.352482994474112e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T10:51:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T04:39:08+00:00",
-      "side": "buy",
-      "symbol": "FORKIUS",
-      "address": "7xTMgacureYyKpaQZwP6LHR1tywEaBjAYfj9zidipump",
-      "price": 1.0929090017848593e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T04:39:08+00:00",
-      "side": "buy",
-      "symbol": "CRAWLPEPE",
-      "address": "FCntrQazv9rX8BoG272JWWBMQUThPSNT6UQyxHhxpump",
-      "price": 6.015536743947782e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T04:39:08+00:00",
-      "side": "buy",
-      "symbol": "STD",
-      "address": "92PLh1FJEm2NkSfgNUeha4jgBESdu5xPT5NgAf6ypump",
-      "price": 8.736668269707369e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T04:39:08+00:00",
       "side": "buy",
@@ -4512,6 +4497,32 @@
       "address": "7HYZgusu6h3DoNpa3a1A9vgWthnFXLQcdNaRadyepump",
       "price": 8.419055941624188e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T10:51:43+00:00",
+      "side": "sell",
+      "symbol": "DAZE",
+      "address": "7HYZgusu6h3DoNpa3a1A9vgWthnFXLQcdNaRadyepump",
+      "price": 2.462863217e-06,
+      "proceeds": 1.39,
+      "pnl_usd": -48.61,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T10:51:44+00:00",
+      "side": "buy",
+      "symbol": "Mind Lot",
+      "address": "BWNvZSuGuMDZ1foz7koiiE5Y3T7uFi9Tz1k4gmgDpump",
+      "price": 4.5353497239089067e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T10:51:44+00:00",
+      "side": "buy",
+      "symbol": "PUMP",
+      "address": "HffH5YB6YhTWinZYzbqJowpDbKzqALGMX1NFAHYdpump",
+      "price": 1.4031155593186027e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8398,6 +8409,10 @@
     {
       "date": "2026-10-23T10:14:01+00:00",
       "equity": 5882587.63
+    },
+    {
+      "date": "2026-10-23T10:51:44+00:00",
+      "equity": 5882536.69
     }
   ]
 }
