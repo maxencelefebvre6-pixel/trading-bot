@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5882592.9818295725,
+  "cash": 5882493.147756434,
   "positions": {
-    "97kMwMsfe7b3k75wpXv5mvmimM46aJzZiFdXhXVwpump": {
-      "symbol": "X",
-      "qty": 91944.75078644275,
-      "entry_price": 0.0005383667863211912,
-      "last_price": 0.0005222609810960302,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T07:05:27+00:00",
-      "missing": 0
-    },
     "DypagpH2EQEoSd1EKk9DpukD7G1Ew8MtZmnWzK2rpump": {
       "symbol": "$GOD",
       "qty": 964954.2155101566,
       "entry_price": 5.1297770613738505e-05,
-      "last_price": 4.9739879140730076e-05,
+      "last_price": 4.966427787e-05,
       "cost": 50.0,
       "entry_time": "2026-10-23T07:05:27+00:00",
       "missing": 0
@@ -24,39 +15,31 @@
       "symbol": "QQn",
       "qty": 5666201.632548385,
       "entry_price": 8.736011037033513e-06,
-      "last_price": 8.402921541712237e-06,
+      "last_price": 8.402921542e-06,
       "cost": 50.0,
       "entry_time": "2026-10-23T07:05:27+00:00",
+      "missing": 0
+    },
+    "EJcJdiZkvNhSPME38aTNvgif65v7Ly4DWGMUWgGSpump": {
+      "symbol": "PAIRLESS",
+      "qty": 4814954.146410775,
+      "entry_price": 1.028047173344297e-05,
+      "last_price": 9.885384489784279e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T07:48:06+00:00",
+      "missing": 0
+    },
+    "DgXQsagRN6hbnX7rC4vQcRBE9DQ5etN1CCvFEzdxpump": {
+      "symbol": "Dog coin",
+      "qty": 2042683.28581084,
+      "entry_price": 2.423283156221208e-05,
+      "last_price": 2.330860640432715e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T07:48:06+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T02:55:50+00:00",
-      "side": "sell",
-      "symbol": "PAID",
-      "address": "8XD3wNrKE8U55fz6Pw2nBfe2WiwwQS5KbsmSsvFZpump",
-      "price": 2.461753758e-06,
-      "proceeds": 2.24,
-      "pnl_usd": -47.76,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T02:55:50+00:00",
-      "side": "buy",
-      "symbol": "TM",
-      "address": "33esri2Uj1X6oNLgFFkdnDVUsRujDCAvtXkBedmNpump",
-      "price": 3.929547091083668e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T02:55:50+00:00",
-      "side": "buy",
-      "symbol": "PECITY",
-      "address": "3W3DGjeShFuLjR4bJcYhL63khUg7nzYCN5r7zw1ppump",
-      "price": 4.6064640948601083e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T03:28:33+00:00",
       "side": "sell",
@@ -4528,6 +4511,32 @@
       "address": "78xVwWKyJiJcUvo9m51W5yEXohFEXTs2m9zYiQjVpump",
       "price": 8.736011037033513e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T07:48:06+00:00",
+      "side": "sell",
+      "symbol": "X",
+      "address": "97kMwMsfe7b3k75wpXv5mvmimM46aJzZiFdXhXVwpump",
+      "price": 1.879248945e-06,
+      "proceeds": 0.17,
+      "pnl_usd": -49.83,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T07:48:06+00:00",
+      "side": "buy",
+      "symbol": "PAIRLESS",
+      "address": "EJcJdiZkvNhSPME38aTNvgif65v7Ly4DWGMUWgGSpump",
+      "price": 1.028047173344297e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T07:48:06+00:00",
+      "side": "buy",
+      "symbol": "Dog coin",
+      "address": "DgXQsagRN6hbnX7rC4vQcRBE9DQ5etN1CCvFEzdxpump",
+      "price": 2.423283156221208e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8394,6 +8403,10 @@
     {
       "date": "2026-10-23T07:05:27+00:00",
       "equity": 5882736.61
+    },
+    {
+      "date": "2026-10-23T07:48:06+00:00",
+      "equity": 5882683.89
     }
   ]
 }
