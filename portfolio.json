@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5882711.909764245,
+  "cash": 5882812.744654014,
   "positions": {
-    "EdHEtSnSHP3noYkE8xQQbZNajrTB5yDGWj3y1SxGpump": {
-      "symbol": "KANTO",
-      "qty": 3666938.964860906,
-      "entry_price": 1.349899752200474e-05,
-      "last_price": 1.3008549425721207e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T14:05:32+00:00",
-      "missing": 0
-    },
     "7SdRHNxHU4czRx5JzfrKmanptxJdgZXpuvk24gnXpump": {
       "symbol": "AVANZA",
       "qty": 1285318.2194108355,
       "entry_price": 3.851186364003291e-05,
-      "last_price": 3.732499660531508e-05,
+      "last_price": 3.732499661e-05,
       "cost": 50.0,
       "entry_time": "2026-10-23T14:05:32+00:00",
       "missing": 0
@@ -24,58 +15,31 @@
       "symbol": "lingling",
       "qty": 3762334.026082441,
       "entry_price": 1.3156726557727318e-05,
-      "last_price": 1.2705606903741016e-05,
+      "last_price": 1.27056069e-05,
       "cost": 50.0,
       "entry_time": "2026-10-23T14:05:32+00:00",
       "missing": 0
     },
-    "CSEEqXLbmvecnp8Xien9RU4SgqNnYGqeZP3x4t4ypump": {
-      "symbol": "NEKO AI",
-      "qty": 97281758.54643774,
-      "entry_price": 5.088312623005374e-07,
-      "last_price": 4.894917453213814e-07,
+    "92oM56q4Xph95vRxEJNzfd4tRbEzmDTLQmavJNZgpump": {
+      "symbol": "LARPMAS",
+      "qty": 6418477.924954888,
+      "entry_price": 7.712108786344062e-06,
+      "last_price": 7.4218341350147855e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-23T14:05:32+00:00",
+      "entry_time": "2026-10-23T14:45:44+00:00",
+      "missing": 0
+    },
+    "FyxMVbZvcNpzXgebUSzLDqrZ9svdTXeZTfDPJrsSpump": {
+      "symbol": "$MFRG",
+      "qty": 3402538.664994237,
+      "entry_price": 1.4547961058977075e-05,
+      "last_price": 1.4060938468094357e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T14:45:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T09:40:13+00:00",
-      "side": "sell",
-      "symbol": "song",
-      "address": "8UxPkYRJ888F6a5X2WESdULsEoD7vX6yNA2MVR1Cpump",
-      "price": 8.741325401e-06,
-      "proceeds": 45.47,
-      "pnl_usd": -4.53,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-20T09:40:13+00:00",
-      "side": "sell",
-      "symbol": "Haiku",
-      "address": "CRWCzAr2CmHmqfNTFfJFpNVF1jtuw1WMGSnhAL6ypump",
-      "price": 4.246013251e-05,
-      "proceeds": 146.7,
-      "pnl_usd": 96.7,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-20T09:40:13+00:00",
-      "side": "buy",
-      "symbol": "HATE",
-      "address": "7bVCovpGMSRztmgm3si8uuUYuPnWX2noq63KtPYTpump",
-      "price": 8.926815619464056e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T10:11:49+00:00",
-      "side": "buy",
-      "symbol": "Bunka",
-      "address": "ApfqSy8UUZDTg1u4pDE6EmvxFXca9ezSTS2Dytkzpump",
-      "price": 2.1718835813836823e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T10:11:49+00:00",
       "side": "buy",
@@ -4537,6 +4501,42 @@
       "address": "CSEEqXLbmvecnp8Xien9RU4SgqNnYGqeZP3x4t4ypump",
       "price": 5.088312623005374e-07,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T14:45:43+00:00",
+      "side": "sell",
+      "symbol": "KANTO",
+      "address": "EdHEtSnSHP3noYkE8xQQbZNajrTB5yDGWj3y1SxGpump",
+      "price": 2.465400917e-05,
+      "proceeds": 83.16,
+      "pnl_usd": 33.16,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-23T14:45:43+00:00",
+      "side": "sell",
+      "symbol": "NEKO AI",
+      "address": "CSEEqXLbmvecnp8Xien9RU4SgqNnYGqeZP3x4t4ypump",
+      "price": 1.44481419e-06,
+      "proceeds": 117.67,
+      "pnl_usd": 67.67,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-23T14:45:44+00:00",
+      "side": "buy",
+      "symbol": "LARPMAS",
+      "address": "92oM56q4Xph95vRxEJNzfd4tRbEzmDTLQmavJNZgpump",
+      "price": 7.712108786344062e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T14:45:44+00:00",
+      "side": "buy",
+      "symbol": "$MFRG",
+      "address": "FyxMVbZvcNpzXgebUSzLDqrZ9svdTXeZTfDPJrsSpump",
+      "price": 1.4547961058977075e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8447,6 +8447,10 @@
     {
       "date": "2026-10-23T14:05:32+00:00",
       "equity": 5882903.01
+    },
+    {
+      "date": "2026-10-23T14:45:44+00:00",
+      "equity": 5883004.0
     }
   ]
 }
