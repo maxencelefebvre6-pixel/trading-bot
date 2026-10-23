@@ -1,66 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5882452.79598554,
-  "positions": {
-    "7cn5FfdNJcbAJsjWiP5qaexky91VHiBBcJJD5jrVpump": {
-      "symbol": "LMAO",
-      "qty": 346116.82898116106,
-      "entry_price": 0.00014301529384083851,
-      "last_price": 0.0001386921133,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T08:21:39+00:00",
-      "missing": 0
-    },
-    "CTWcpPsAxhkvQh28uPvs7K5HpG7kAAmxXxJtn1Popump": {
-      "symbol": "USMS",
-      "qty": 10786262.32796144,
-      "entry_price": 4.589170789188038e-06,
-      "last_price": 4.424626924e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T08:21:39+00:00",
-      "missing": 0
-    },
-    "5t79nyKZH8HzSxQyFt1N6m4zj33uMBV8tfB9JcHipump": {
-      "symbol": "PILL",
-      "qty": 2799428.803267175,
-      "entry_price": 1.7682178572367774e-05,
-      "last_price": 1.71047249e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T08:21:39+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5882589.676464865,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-20T04:06:32+00:00",
-      "side": "sell",
-      "symbol": "DacityCoin",
-      "address": "2DRXyKoEiDisSsGygYGp2Vwuv6jxs7jEWLmK4kUfpump",
-      "price": 3.210700218e-06,
-      "proceeds": 18.32,
-      "pnl_usd": -31.68,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T04:06:32+00:00",
-      "side": "sell",
-      "symbol": "CATLOPUS",
-      "address": "2VYVSG4QrY4wepBy7fM4qr3vg4XwGZfW8fCbJVbYpump",
-      "price": 2.510677373e-06,
-      "proceeds": 10.39,
-      "pnl_usd": -39.61,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-20T04:06:32+00:00",
-      "side": "sell",
-      "symbol": "C",
-      "address": "2wgWXCJLAdWauGRikmz82nWJPKgwbPthN95RhK9Xpump",
-      "price": 3.174953669e-06,
-      "proceeds": 24.02,
-      "pnl_usd": -25.98,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-20T04:39:08+00:00",
       "side": "buy",
@@ -4530,6 +4472,36 @@
       "proceeds": 9.17,
       "pnl_usd": -40.83,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T09:36:52+00:00",
+      "side": "sell",
+      "symbol": "LMAO",
+      "address": "7cn5FfdNJcbAJsjWiP5qaexky91VHiBBcJJD5jrVpump",
+      "price": 0.0001385717681,
+      "proceeds": 46.04,
+      "pnl_usd": -3.96,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T09:36:52+00:00",
+      "side": "sell",
+      "symbol": "USMS",
+      "address": "CTWcpPsAxhkvQh28uPvs7K5HpG7kAAmxXxJtn1Popump",
+      "price": 4.424626924e-06,
+      "proceeds": 45.03,
+      "pnl_usd": -4.97,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T09:36:52+00:00",
+      "side": "sell",
+      "symbol": "PILL",
+      "address": "5t79nyKZH8HzSxQyFt1N6m4zj33uMBV8tfB9JcHipump",
+      "price": 1.71047249e-05,
+      "proceeds": 45.81,
+      "pnl_usd": -4.19,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
@@ -8408,6 +8380,10 @@
     {
       "date": "2026-10-23T09:01:55+00:00",
       "equity": 5882596.41
+    },
+    {
+      "date": "2026-10-23T09:36:53+00:00",
+      "equity": 5882589.68
     }
   ]
 }
