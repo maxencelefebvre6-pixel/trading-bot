@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5882589.676464865,
-  "positions": {},
+  "cash": 5882539.676464865,
+  "positions": {
+    "7HYZgusu6h3DoNpa3a1A9vgWthnFXLQcdNaRadyepump": {
+      "symbol": "DAZE",
+      "qty": 587951.9074730196,
+      "entry_price": 8.419055941624188e-05,
+      "last_price": 8.155706527381175e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T10:14:01+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-20T04:39:08+00:00",
-      "side": "buy",
-      "symbol": "Bien",
-      "address": "9oLTvECE27DjSqbvN5NVbasmAuKwWQaDaQVyvLeepump",
-      "price": 8.419335062801202e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T04:39:08+00:00",
       "side": "buy",
@@ -4502,6 +4504,14 @@
       "proceeds": 45.81,
       "pnl_usd": -4.19,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T10:14:01+00:00",
+      "side": "buy",
+      "symbol": "DAZE",
+      "address": "7HYZgusu6h3DoNpa3a1A9vgWthnFXLQcdNaRadyepump",
+      "price": 8.419055941624188e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8384,6 +8394,10 @@
     {
       "date": "2026-10-23T09:36:53+00:00",
       "equity": 5882589.68
+    },
+    {
+      "date": "2026-10-23T10:14:01+00:00",
+      "equity": 5882587.63
     }
   ]
 }
