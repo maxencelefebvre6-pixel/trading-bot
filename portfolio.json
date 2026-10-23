@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5882617.483757894,
+  "cash": 5882620.786227833,
   "positions": {
-    "FmCjhjsLAVSjp1i4NRmY7KvRnajnCFwZwyjPg7qApump": {
-      "symbol": "Lucia",
-      "qty": 7336178.034215243,
-      "entry_price": 6.747382597469236e-06,
-      "last_price": 6.384596803e-06,
+    "65g7N5sudYgvmsMnNrrNUgv7xd8XyaMR1V4TiWMGpump": {
+      "symbol": "ELON",
+      "qty": 9927067.9870729,
+      "entry_price": 4.986366575151824e-06,
+      "last_price": 4.798567892013092e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-23T20:07:04+00:00",
-      "missing": 0
-    },
-    "4tfDHd7TKVUZnUyVYi5xK1FvraCjSHFnKLnNvBcEpump": {
-      "symbol": "Fih",
-      "qty": 3101521.428682654,
-      "entry_price": 1.5959909076309274e-05,
-      "last_price": 1.5377929602651555e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-23T20:42:25+00:00",
+      "entry_time": "2026-10-23T21:14:45+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T18:15:14+00:00",
-      "side": "buy",
-      "symbol": "COMPUTE",
-      "address": "GedJQfcMezFTvWyK36tS33ZxsrrJjhsdAxH6rg22pump",
-      "price": 4.703942238477391e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T18:15:14+00:00",
-      "side": "buy",
-      "symbol": "HIMOTHY",
-      "address": "HRxMfiHA5QoNrJRrvXkekEGZSX1Z97Gats3S1YU9pump",
-      "price": 1.0471452036900336e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T18:15:14+00:00",
-      "side": "buy",
-      "symbol": "HIMOTHY",
-      "address": "EsHKfMrTzQAoqwkUsQDMZf7xQTG6TZmYu6u5muy3pump",
-      "price": 2.7741585319186305e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T19:02:14+00:00",
       "side": "sell",
@@ -4519,6 +4486,34 @@
       "address": "4tfDHd7TKVUZnUyVYi5xK1FvraCjSHFnKLnNvBcEpump",
       "price": 1.5959909076309274e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T21:14:45+00:00",
+      "side": "sell",
+      "symbol": "Lucia",
+      "address": "FmCjhjsLAVSjp1i4NRmY7KvRnajnCFwZwyjPg7qApump",
+      "price": 6.38428972e-06,
+      "proceeds": 44.54,
+      "pnl_usd": -5.46,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-23T21:14:45+00:00",
+      "side": "sell",
+      "symbol": "Fih",
+      "address": "4tfDHd7TKVUZnUyVYi5xK1FvraCjSHFnKLnNvBcEpump",
+      "price": 2.955047717e-06,
+      "proceeds": 8.77,
+      "pnl_usd": -41.23,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-23T21:14:45+00:00",
+      "side": "buy",
+      "symbol": "ELON",
+      "address": "65g7N5sudYgvmsMnNrrNUgv7xd8XyaMR1V4TiWMGpump",
+      "price": 4.986366575151824e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8473,6 +8468,10 @@
     {
       "date": "2026-10-23T20:42:25+00:00",
       "equity": 5882712.02
+    },
+    {
+      "date": "2026-10-23T21:14:45+00:00",
+      "equity": 5882668.42
     }
   ]
 }
