@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5882785.104106654,
+  "cash": 5882685.104106654,
   "positions": {
     "9uEi2bYDoS5SX8ysVXVWHrRWaGwrbaBkStt2TBVupump": {
       "symbol": "LICENSE",
       "qty": 2956857.95741915,
       "entry_price": 1.6740743286568066e-05,
-      "last_price": 1.614938450086552e-05,
+      "last_price": 1.61493845e-05,
       "cost": 50.0,
       "entry_time": "2026-10-23T11:59:00+00:00",
+      "missing": 0
+    },
+    "4WkgcMVPX164U9ByxB1oDvftiSKJCe5eAv5CrLqJpump": {
+      "symbol": "McGruff",
+      "qty": 5171293.061010874,
+      "entry_price": 9.572074027907411e-06,
+      "last_price": 9.217189037141714e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T12:37:27+00:00",
+      "missing": 0
+    },
+    "G889NycrCzLR774wGUowXSbpJVZbg6YLqUZzhjU4pump": {
+      "symbol": "messenger",
+      "qty": 3904634.3955113245,
+      "entry_price": 1.267724324123765e-05,
+      "last_price": 1.2244920391038198e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-23T12:37:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T05:12:51+00:00",
-      "side": "buy",
-      "symbol": "$GRADED",
-      "address": "FudbK6H6RXU2hUDrT4NT6duzjNsRtX261Z82sVmMpump",
-      "price": 0.00022152530763244876,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T05:12:51+00:00",
-      "side": "buy",
-      "symbol": "GENGAR",
-      "address": "8dtXKdPmEcTHZwzdHqgyBRA9KeVHtKmnvn4Gzof7pump",
-      "price": 5.058882113769393e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T05:12:51+00:00",
       "side": "buy",
@@ -4514,6 +4516,22 @@
       "address": "9uEi2bYDoS5SX8ysVXVWHrRWaGwrbaBkStt2TBVupump",
       "price": 1.6740743286568066e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T12:37:27+00:00",
+      "side": "buy",
+      "symbol": "McGruff",
+      "address": "4WkgcMVPX164U9ByxB1oDvftiSKJCe5eAv5CrLqJpump",
+      "price": 9.572074027907411e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-23T12:37:27+00:00",
+      "side": "buy",
+      "symbol": "messenger",
+      "address": "G889NycrCzLR774wGUowXSbpJVZbg6YLqUZzhjU4pump",
+      "price": 1.267724324123765e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8412,6 +8430,10 @@
     {
       "date": "2026-10-23T11:59:00+00:00",
       "equity": 5882832.86
+    },
+    {
+      "date": "2026-10-23T12:37:27+00:00",
+      "equity": 5882828.33
     }
   ]
 }
