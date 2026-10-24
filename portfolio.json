@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5881912.493863472,
+  "cash": 5882000.908521075,
   "positions": {
-    "74aMfYvUdY9ZxKCC3dtheMZfQYin3omzmnRLpWGPpump": {
-      "symbol": "BERU",
-      "qty": 1871654.2741201643,
-      "entry_price": 2.6447192029237976e-05,
-      "last_price": 2.5523061553809775e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T04:05:38+00:00",
-      "missing": 0
-    },
     "2RHH1bwJRGLDunvXL5bnboxWkdJBVfmKgdxLiKXWpump": {
       "symbol": "Ina",
       "qty": 3920785.906243592,
       "entry_price": 1.2625019877054376e-05,
-      "last_price": 1.2176593425106045e-05,
+      "last_price": 1.217659343e-05,
       "cost": 50.0,
       "entry_time": "2026-10-24T04:05:38+00:00",
       "missing": 0
@@ -24,31 +15,22 @@
       "symbol": "$TIPTOE",
       "qty": 5437119.136018388,
       "entry_price": 9.104085962009827e-06,
-      "last_price": 8.773448408937377e-06,
+      "last_price": 8.773448409e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T04:05:38+00:00",
+      "missing": 0
+    },
+    "2P3EEoqTPUmKaDs6JtE6t5NjB9L3Ykq5GqSDJ9Rdpump": {
+      "symbol": "thebeets",
+      "qty": 1518970.232233808,
+      "entry_price": 3.258786706254603e-05,
+      "last_price": 3.157616274579366e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T04:37:32+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T04:03:02+00:00",
-      "side": "sell",
-      "symbol": "GORKPEPED",
-      "address": "5pKmKgexqYRBwjjwv5AAyEZznYzEtjGmKem2LzQUpump",
-      "price": 8.366451738e-10,
-      "proceeds": 0.01,
-      "pnl_usd": -49.99,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T04:03:02+00:00",
-      "side": "buy",
-      "symbol": "APPLECAT",
-      "address": "7dJHACMdiMGGgYvJqmwtJxz2U9HHS9g3Yp1GGz4Rpump",
-      "price": 8.685129385814736e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T04:03:02+00:00",
       "side": "buy",
@@ -4528,13 +4510,27 @@
       "address": "FXF7cymALLJ7dKKAy3Aey7Nt2bwkjTRdUmLkRJt1pump",
       "price": 9.104085962009827e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T04:37:31+00:00",
+      "side": "sell",
+      "symbol": "BERU",
+      "address": "74aMfYvUdY9ZxKCC3dtheMZfQYin3omzmnRLpWGPpump",
+      "price": 7.804365042e-05,
+      "proceeds": 138.41,
+      "pnl_usd": 88.41,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-24T04:37:32+00:00",
+      "side": "buy",
+      "symbol": "thebeets",
+      "address": "2P3EEoqTPUmKaDs6JtE6t5NjB9L3Ykq5GqSDJ9Rdpump",
+      "price": 3.258786706254603e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-03T22:53:02+00:00",
-      "equity": 1007.07
-    },
     {
       "date": "2026-10-04T02:57:17+00:00",
       "equity": 977.76
@@ -8530,6 +8526,10 @@
     {
       "date": "2026-10-24T04:05:38+00:00",
       "equity": 5882055.71
+    },
+    {
+      "date": "2026-10-24T04:37:32+00:00",
+      "equity": 5882144.32
     }
   ]
 }
