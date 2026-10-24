@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5881613.401535032,
+  "cash": 5881579.609580322,
   "positions": {
     "FWgYGHDtq7aXAQFjSM53XPKShkEJhYVLiGMHNPdZpump": {
       "symbol": "$BWIZ",
@@ -20,37 +20,17 @@
       "entry_time": "2026-10-24T11:12:10+00:00",
       "missing": 0
     },
-    "9AjAUFkqqbTHk3rufkaHxaau1FxfBP8HsNRGbe3Kpump": {
-      "symbol": "COGE",
-      "qty": 5981953.547009877,
-      "entry_price": 8.274888731749335e-06,
-      "last_price": 7.959755771467378e-06,
+    "31VNSUS5oNfbrQPsiDwhakzVXeZ2Q8uU7wZMB1Wvpump": {
+      "symbol": "8dollarclaim",
+      "qty": 6862819.9019655315,
+      "entry_price": 7.2127785235662465e-06,
+      "last_price": 6.94063384540032e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T11:47:31+00:00",
+      "entry_time": "2026-10-24T12:11:52+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T09:16:09+00:00",
-      "side": "sell",
-      "symbol": "dogbaton",
-      "address": "6fp7xztrgfhYCJfyqtmZfB5SVPXE1Bofo7UDmRthpump",
-      "price": 1.612448271e-05,
-      "proceeds": 45.52,
-      "pnl_usd": -4.48,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-21T09:16:09+00:00",
-      "side": "sell",
-      "symbol": "Naseem",
-      "address": "99zRLyU6AgirPpxabWtqCWiMhqbBkm78xQy9o8u4pump",
-      "price": 3.110323344e-06,
-      "proceeds": 10.92,
-      "pnl_usd": -39.08,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-21T09:16:09+00:00",
       "side": "sell",
@@ -4532,13 +4512,27 @@
       "address": "9AjAUFkqqbTHk3rufkaHxaau1FxfBP8HsNRGbe3Kpump",
       "price": 8.274888731749335e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T12:11:52+00:00",
+      "side": "sell",
+      "symbol": "COGE",
+      "address": "9AjAUFkqqbTHk3rufkaHxaau1FxfBP8HsNRGbe3Kpump",
+      "price": 2.843661138e-06,
+      "proceeds": 16.21,
+      "pnl_usd": -33.79,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T12:11:52+00:00",
+      "side": "buy",
+      "symbol": "8dollarclaim",
+      "address": "31VNSUS5oNfbrQPsiDwhakzVXeZ2Q8uU7wZMB1Wvpump",
+      "price": 7.2127785235662465e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-04T23:59:22+00:00",
-      "equity": 314742.17
-    },
     {
       "date": "2026-10-05T00:31:08+00:00",
       "equity": 314862.62
@@ -8534,6 +8528,10 @@
     {
       "date": "2026-10-24T11:47:31+00:00",
       "equity": 5881756.16
+    },
+    {
+      "date": "2026-10-24T12:11:52+00:00",
+      "equity": 5881722.38
     }
   ]
 }
