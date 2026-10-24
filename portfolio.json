@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5881652.223114784,
+  "cash": 5881613.401535032,
   "positions": {
-    "7WA8RfoD8PGKZ11tPsfBpZ8kPTJ2CBwoaaF1ucVepump": {
-      "symbol": "wr.dog",
-      "qty": 3642692.8936336054,
-      "entry_price": 1.3588847988396706e-05,
-      "last_price": 1.3084617727318454e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T11:12:10+00:00",
-      "missing": 0
-    },
     "FWgYGHDtq7aXAQFjSM53XPKShkEJhYVLiGMHNPdZpump": {
       "symbol": "$BWIZ",
       "qty": 6875748.795896479,
       "entry_price": 7.1992158918810606e-06,
-      "last_price": 6.923564225360744e-06,
+      "last_price": 6.903784517e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T11:12:10+00:00",
       "missing": 0
@@ -24,33 +15,22 @@
       "symbol": "LaMisery",
       "qty": 6223995.706923255,
       "entry_price": 7.953090318641887e-06,
-      "last_price": 7.659773023119288e-06,
+      "last_price": 7.659773023e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T11:12:10+00:00",
+      "missing": 0
+    },
+    "9AjAUFkqqbTHk3rufkaHxaau1FxfBP8HsNRGbe3Kpump": {
+      "symbol": "COGE",
+      "qty": 5981953.547009877,
+      "entry_price": 8.274888731749335e-06,
+      "last_price": 7.959755771467378e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T11:47:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T09:16:09+00:00",
-      "side": "sell",
-      "symbol": "$CYBERWAS",
-      "address": "7qKy4SR5x2pubqqYL913s7tPSWJ8rgtGQ1yuFZkvpump",
-      "price": 1.000925179e-05,
-      "proceeds": 45.49,
-      "pnl_usd": -4.51,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-21T09:16:09+00:00",
-      "side": "sell",
-      "symbol": "TOYOTA",
-      "address": "FPcEeC9ryEVeaymUstdM5NuFY7HiyK1QG2ZzkEmMpump",
-      "price": 1.783732584e-05,
-      "proceeds": 45.82,
-      "pnl_usd": -4.18,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-21T09:16:09+00:00",
       "side": "sell",
@@ -4534,13 +4514,27 @@
       "address": "9gN4oz8SvaA7zkska9u5pTNReeFiyPzgNWSPCsddpump",
       "price": 7.953090318641887e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T11:47:31+00:00",
+      "side": "sell",
+      "symbol": "wr.dog",
+      "address": "7WA8RfoD8PGKZ11tPsfBpZ8kPTJ2CBwoaaF1ucVepump",
+      "price": 3.212157635e-06,
+      "proceeds": 11.18,
+      "pnl_usd": -38.82,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T11:47:31+00:00",
+      "side": "buy",
+      "symbol": "COGE",
+      "address": "9AjAUFkqqbTHk3rufkaHxaau1FxfBP8HsNRGbe3Kpump",
+      "price": 8.274888731749335e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-04T23:47:21+00:00",
-      "equity": 235895.33
-    },
     {
       "date": "2026-10-04T23:59:22+00:00",
       "equity": 314742.17
@@ -8536,6 +8530,10 @@
     {
       "date": "2026-10-24T11:12:10+00:00",
       "equity": 5881795.17
+    },
+    {
+      "date": "2026-10-24T11:47:31+00:00",
+      "equity": 5881756.16
     }
   ]
 }
