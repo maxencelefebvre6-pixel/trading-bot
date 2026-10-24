@@ -1,97 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5881052.428174439,
+  "cash": 5881070.375042639,
   "positions": {
-    "9aZJeiXGPhJwcGpvcVRRyEtJ3a1zWyZNNgndiXzUpump": {
-      "symbol": "MotoCrose",
-      "qty": 4451817.80144069,
-      "entry_price": 1.1119053431158144e-05,
-      "last_price": 1.073279e-05,
+    "6H7XhGnwo8NifVSBHN16FZ71Xx9xoYudXUkAfKRzpump": {
+      "symbol": "m/acc",
+      "qty": 1012519.7238256166,
+      "entry_price": 4.888793653616297e-05,
+      "last_price": 4.732365336488922e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-24T19:33:53+00:00",
+      "entry_time": "2026-10-24T20:56:15+00:00",
       "missing": 0
     },
-    "C9axeACuWESYsKwvtoorWKrvmJirVD94PuDuw7VUpump": {
-      "symbol": "FOMO",
-      "qty": 98278.79229938352,
-      "entry_price": 0.0005036691929344201,
-      "last_price": 0.0004885831159438224,
+    "2vnSUULWu7Z7ypq6nmRF4tYhQ92zxKXCLrEjHHCHpump": {
+      "symbol": "JEW",
+      "qty": 4271916.701190009,
+      "entry_price": 1.1587304590047602e-05,
+      "last_price": 1.1164187379524721e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-24T20:25:57+00:00",
-      "missing": 0
-    },
-    "6S7bsAwW9KPHuNsTsQkzCPUpHtyU2HybJcyzXJwWpump": {
-      "symbol": "KINGPEP",
-      "qty": 2094054.1417206603,
-      "entry_price": 2.363835729640038e-05,
-      "last_price": 2.2870936867606066e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T20:25:57+00:00",
-      "missing": 0
-    },
-    "HM7VwNQWhyb6gduANtFtSnrDNpQCznS5GmPJei8Lpump": {
-      "symbol": "bbCoin",
-      "qty": 1015630.3320240304,
-      "entry_price": 4.873820566322826e-05,
-      "last_price": 4.717562086076054e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T20:25:57+00:00",
+      "entry_time": "2026-10-24T20:56:15+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T19:56:56+00:00",
-      "side": "buy",
-      "symbol": "4",
-      "address": "E42YS3NEuXSkfC1XQy8DbpSKTr63Epe7VoGZrtnXpump",
-      "price": 8.691873306881791e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T19:56:56+00:00",
-      "side": "buy",
-      "symbol": "69x",
-      "address": "5bcPnmXCRRd3evp7UbcVMtqhsmcEf5Wv3FmSut9Upump",
-      "price": 1.2755599334703163e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T19:56:56+00:00",
-      "side": "buy",
-      "symbol": "undr",
-      "address": "CQ8bas8SJhHAaMYtNgEspNDKiE34YvuNvKQ8tvvTpump",
-      "price": 2.7944992768674792e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T20:29:22+00:00",
-      "side": "sell",
-      "symbol": "4",
-      "address": "E42YS3NEuXSkfC1XQy8DbpSKTr63Epe7VoGZrtnXpump",
-      "price": 8.574540029e-05,
-      "proceeds": 24.17,
-      "pnl_usd": -25.83,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T20:29:22+00:00",
-      "side": "sell",
-      "symbol": "69x",
-      "address": "5bcPnmXCRRd3evp7UbcVMtqhsmcEf5Wv3FmSut9Upump",
-      "price": 3.262708007e-06,
-      "proceeds": 12.09,
-      "pnl_usd": -37.91,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T20:29:22+00:00",
-      "side": "buy",
-      "symbol": "HODLON",
-      "address": "J37HFKz32LNXMGE3KdH6yKNWQ8Rd5RwvghqfHVYHpump",
-      "price": 5.85425727187306e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T20:29:22+00:00",
       "side": "buy",
@@ -4535,13 +4465,65 @@
       "address": "HM7VwNQWhyb6gduANtFtSnrDNpQCznS5GmPJei8Lpump",
       "price": 4.873820566322826e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T20:56:15+00:00",
+      "side": "sell",
+      "symbol": "MotoCrose",
+      "address": "9aZJeiXGPhJwcGpvcVRRyEtJ3a1zWyZNNgndiXzUpump",
+      "price": 1.073279e-05,
+      "proceeds": 45.61,
+      "pnl_usd": -4.39,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T20:56:15+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "C9axeACuWESYsKwvtoorWKrvmJirVD94PuDuw7VUpump",
+      "price": 0.0001728318315,
+      "proceeds": 16.29,
+      "pnl_usd": -33.71,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T20:56:15+00:00",
+      "side": "sell",
+      "symbol": "KINGPEP",
+      "address": "6S7bsAwW9KPHuNsTsQkzCPUpHtyU2HybJcyzXJwWpump",
+      "price": 2.656080741e-05,
+      "proceeds": 53.22,
+      "pnl_usd": 3.22,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-24T20:56:15+00:00",
+      "side": "sell",
+      "symbol": "bbCoin",
+      "address": "HM7VwNQWhyb6gduANtFtSnrDNpQCznS5GmPJei8Lpump",
+      "price": 2.891157044e-06,
+      "proceeds": 2.82,
+      "pnl_usd": -47.18,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T20:56:15+00:00",
+      "side": "buy",
+      "symbol": "m/acc",
+      "address": "6H7XhGnwo8NifVSBHN16FZ71Xx9xoYudXUkAfKRzpump",
+      "price": 4.888793653616297e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T20:56:15+00:00",
+      "side": "buy",
+      "symbol": "JEW",
+      "address": "2vnSUULWu7Z7ypq6nmRF4tYhQ92zxKXCLrEjHHCHpump",
+      "price": 1.1587304590047602e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T07:41:21+00:00",
-      "equity": 552245.35
-    },
     {
       "date": "2026-10-05T08:00:09+00:00",
       "equity": 552208.89
@@ -8537,6 +8519,10 @@
     {
       "date": "2026-10-24T20:25:57+00:00",
       "equity": 5881244.03
+    },
+    {
+      "date": "2026-10-24T20:56:15+00:00",
+      "equity": 5881165.98
     }
   ]
 }
