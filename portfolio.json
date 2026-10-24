@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5881657.56837837,
+  "cash": 5881760.644496965,
   "positions": {
-    "CacBhQ4a6nGGYfjVLkQ5iH3ymppTSe7nsLGzE6obpump": {
-      "symbol": "MrBeast",
-      "qty": 101280.63433691587,
-      "entry_price": 0.0004887410147465644,
-      "last_price": 0.00047409697428901163,
+    "BuYt9jsi37JCBuEEzEGXLjfMd9BGZCsWXAifLxewpump": {
+      "symbol": "Marmoset",
+      "qty": 15530758.371241463,
+      "entry_price": 3.1872236253227587e-06,
+      "last_price": 3.071236601522807e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T10:12:02+00:00",
-      "missing": 0
-    },
-    "kcikWtRg7JJXHa9KcgFp3iW15qNXyk7e33Z3MRnpump": {
-      "symbol": "FAWN",
-      "qty": 5701526.593033682,
-      "entry_price": 8.68188531479986e-06,
-      "last_price": 8.348902935573313e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T10:12:02+00:00",
+      "entry_time": "2026-10-24T10:47:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T08:00:03+00:00",
-      "side": "buy",
-      "symbol": "dogbaton",
-      "address": "6fp7xztrgfhYCJfyqtmZfB5SVPXE1Bofo7UDmRthpump",
-      "price": 1.672127043079418e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T08:38:01+00:00",
-      "side": "sell",
-      "symbol": "SOOTS",
-      "address": "A5ZBEFy6iK1s7wm2QpoV2hNwjKSSVmkKUU4tXuQvpump",
-      "price": 2.68071951e-05,
-      "proceeds": 45.73,
-      "pnl_usd": -4.27,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-21T08:38:01+00:00",
-      "side": "sell",
-      "symbol": "fomo",
-      "address": "kD37ewSdGm4HcbWSjyvc7Adrx8kASnX84yBq6RVpump",
-      "price": 1.886902337e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-21T08:38:01+00:00",
       "side": "buy",
@@ -4523,13 +4486,37 @@
       "address": "kcikWtRg7JJXHa9KcgFp3iW15qNXyk7e33Z3MRnpump",
       "price": 8.68188531479986e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T10:47:39+00:00",
+      "side": "sell",
+      "symbol": "MrBeast",
+      "address": "CacBhQ4a6nGGYfjVLkQ5iH3ymppTSe7nsLGzE6obpump",
+      "price": 0.001411412837,
+      "proceeds": 136.85,
+      "pnl_usd": 86.85,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-24T10:47:39+00:00",
+      "side": "sell",
+      "symbol": "FAWN",
+      "address": "kcikWtRg7JJXHa9KcgFp3iW15qNXyk7e33Z3MRnpump",
+      "price": 2.986880518e-06,
+      "proceeds": 16.23,
+      "pnl_usd": -33.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T10:47:39+00:00",
+      "side": "buy",
+      "symbol": "Marmoset",
+      "address": "BuYt9jsi37JCBuEEzEGXLjfMd9BGZCsWXAifLxewpump",
+      "price": 3.1872236253227587e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-04T23:11:55+00:00",
-      "equity": 235963.57
-    },
     {
       "date": "2026-10-04T23:29:54+00:00",
       "equity": 235941.42
@@ -8525,6 +8512,10 @@
     {
       "date": "2026-10-24T10:12:02+00:00",
       "equity": 5881753.19
+    },
+    {
+      "date": "2026-10-24T10:47:39+00:00",
+      "equity": 5881808.34
     }
   ]
 }
