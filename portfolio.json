@@ -1,69 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5881978.656388218,
+  "cash": 5881830.685585331,
   "positions": {
-    "5hPDV9MRGxPJMLZvtoWkNRkvC3ZDmD591fpcuEzcpump": {
-      "symbol": "Talarico",
-      "qty": 601642.7940825436,
-      "entry_price": 8.227473259358733e-05,
-      "last_price": 8.675151923e-05,
+    "9V4xAjPwxAur8rtwtny94phewyEa9g4Av3PDjmdVpump": {
+      "symbol": "ARTOCTO",
+      "qty": 2207.627939575935,
+      "entry_price": 0.022422256537262566,
+      "last_price": 0.02176029680522733,
       "cost": 50.0,
-      "entry_time": "2026-10-24T05:45:08+00:00",
+      "entry_time": "2026-10-24T07:00:41+00:00",
       "missing": 0
     },
-    "6HhMLur43AXKtPaymM8PHmHdr1kSFNJLETGzktNXpump": {
-      "symbol": "Riostor",
-      "qty": 688887.8569178844,
-      "entry_price": 7.185494634999845e-05,
-      "last_price": 6.973490630219477e-05,
+    "FU3qbTu8hyxJLXCojqZEvdPdXsPJ4pHSc8gFyYdpump": {
+      "symbol": "Machiato",
+      "qty": 6123371.56137229,
+      "entry_price": 8.083781868188103e-06,
+      "last_price": 7.774323711570314e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T06:11:59+00:00",
+      "entry_time": "2026-10-24T07:00:41+00:00",
+      "missing": 0
+    },
+    "Ht3CQYmr5KZvtUX5Rt5bCPG6zpEBj3iRNXvjaGV8pump": {
+      "symbol": "Lodds",
+      "qty": 6674771.635954031,
+      "entry_price": 7.4159840515539855e-06,
+      "last_price": 7.134404294270053e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T07:00:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T05:49:32+00:00",
-      "side": "sell",
-      "symbol": "Naseem",
-      "address": "Dn7jn7dZqovCqL7VuJvSdrD7NoJGx8YXw6iLfm1gpump",
-      "price": 2.982636025e-06,
-      "proceeds": 22.14,
-      "pnl_usd": -27.86,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T05:49:32+00:00",
-      "side": "buy",
-      "symbol": "PHP",
-      "address": "BdbK43FqLqKnkdDToEg2zLRYzVn8Jq3eDyaG5xMpump",
-      "price": 8.522313934109321e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T05:49:32+00:00",
-      "side": "buy",
-      "symbol": "smol",
-      "address": "CJg55k171ccDjnmHcqt9DbA9mrcEHvBD1DkAPQRXpump",
-      "price": 4.30248163221303e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T05:49:32+00:00",
-      "side": "buy",
-      "symbol": "dogbaton",
-      "address": "G2QFDpZuqv68GfmY35aR2HKBfU4cS8nKz2LUniRhpump",
-      "price": 3.8048827758030386e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T05:49:32+00:00",
-      "side": "buy",
-      "symbol": "trench",
-      "address": "2KfENzRdyrUJhjveznJxcJZAtZkqSVUQHcrLW1dtpump",
-      "price": 8.134760313454769e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T06:19:52+00:00",
       "side": "sell",
@@ -4521,13 +4488,53 @@
       "address": "6HhMLur43AXKtPaymM8PHmHdr1kSFNJLETGzktNXpump",
       "price": 7.185494634999845e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T07:00:41+00:00",
+      "side": "sell",
+      "symbol": "Talarico",
+      "address": "5hPDV9MRGxPJMLZvtoWkNRkvC3ZDmD591fpcuEzcpump",
+      "price": 1.940773561e-06,
+      "proceeds": 1.12,
+      "pnl_usd": -48.88,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T07:00:41+00:00",
+      "side": "sell",
+      "symbol": "Riostor",
+      "address": "6HhMLur43AXKtPaymM8PHmHdr1kSFNJLETGzktNXpump",
+      "price": 2.67037839e-06,
+      "proceeds": 0.91,
+      "pnl_usd": -49.09,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T07:00:41+00:00",
+      "side": "buy",
+      "symbol": "ARTOCTO",
+      "address": "9V4xAjPwxAur8rtwtny94phewyEa9g4Av3PDjmdVpump",
+      "price": 0.022422256537262566,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T07:00:41+00:00",
+      "side": "buy",
+      "symbol": "Machiato",
+      "address": "FU3qbTu8hyxJLXCojqZEvdPdXsPJ4pHSc8gFyYdpump",
+      "price": 8.083781868188103e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T07:00:41+00:00",
+      "side": "buy",
+      "symbol": "Lodds",
+      "address": "Ht3CQYmr5KZvtUX5Rt5bCPG6zpEBj3iRNXvjaGV8pump",
+      "price": 7.4159840515539855e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-04T17:59:17+00:00",
-      "equity": 236203.79
-    },
     {
       "date": "2026-10-04T21:12:23+00:00",
       "equity": 236139.1
@@ -8523,6 +8530,10 @@
     {
       "date": "2026-10-24T06:11:59+00:00",
       "equity": 5882078.89
+    },
+    {
+      "date": "2026-10-24T07:00:41+00:00",
+      "equity": 5881973.95
     }
   ]
 }
