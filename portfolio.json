@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5881487.168943956,
+  "cash": 5881386.9515156,
   "positions": {
-    "6WSN2qCCkzvgLajwYKWjwNRji3pdZ4h9RZcgQQhSpump": {
-      "symbol": "FI",
-      "qty": 1592572.5687378917,
-      "entry_price": 3.108178614380416e-05,
-      "last_price": 2.9998981527591524e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T16:33:20+00:00",
-      "missing": 0
-    },
     "AGo8x9oLjCowTDb8kP3mKGFZKtzPNrmNB2gY3RZBpump": {
       "symbol": "LMAO",
       "qty": 2625405.579547552,
       "entry_price": 1.8854229756200396e-05,
-      "last_price": 1.823628064980535e-05,
+      "last_price": 1.818513542e-05,
       "cost": 50.0,
       "entry_time": "2026-10-24T16:33:20+00:00",
       "missing": 0
@@ -24,53 +15,40 @@
       "symbol": "up",
       "qty": 462019.91014653083,
       "entry_price": 0.00010713823996091628,
-      "last_price": 0.00010394758959883266,
+      "last_price": 0.0001039424807,
       "cost": 50.0,
       "entry_time": "2026-10-24T16:33:20+00:00",
+      "missing": 0
+    },
+    "5pmUDKSTACsJJ9EvJezAagQLVdETVFHVCqQMjNxpump": {
+      "symbol": "MARKET",
+      "qty": 3790840.2534211767,
+      "entry_price": 1.3057791067647071e-05,
+      "last_price": 1.2572284299543518e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T17:04:23+00:00",
+      "missing": 0
+    },
+    "BEJ6VswqVH4hWquZpT6cfF497bYeppYXHeUrjYtCpump": {
+      "symbol": "MONY",
+      "qty": 3989063.0933198407,
+      "entry_price": 1.2408928824137583e-05,
+      "last_price": 1.1989312381809425e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T17:04:23+00:00",
+      "missing": 0
+    },
+    "8PSUFhxwcxXTDvtZDAN7E4ueHun5P3GN3vtxBSXEpump": {
+      "symbol": "DOOYET",
+      "qty": 3965244.4002746074,
+      "entry_price": 1.2483467600779398e-05,
+      "last_price": 1.205792500090934e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T17:04:23+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T13:10:56+00:00",
-      "side": "sell",
-      "symbol": "s",
-      "address": "5drmrPyfZ5gw1JRbuJGx6vavw1G4PPmYToqbcj7xpump",
-      "price": 8.728200394e-06,
-      "proceeds": 45.5,
-      "pnl_usd": -4.5,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-21T13:10:56+00:00",
-      "side": "sell",
-      "symbol": "SOOTS",
-      "address": "9GsdkMpQkKuJhwriGEYSGh8hxPVVwkEBCJuwdDYspump",
-      "price": 7.127015837e-06,
-      "proceeds": 45.35,
-      "pnl_usd": -4.65,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-21T13:10:56+00:00",
-      "side": "sell",
-      "symbol": "DACITY",
-      "address": "8fzCqyujdPqURi5g76a8FRpZM51KZ2wDe8gC59ySpump",
-      "price": 1.958648515e-06,
-      "proceeds": 0.24,
-      "pnl_usd": -49.76,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T13:10:56+00:00",
-      "side": "sell",
-      "symbol": "GucioKrup",
-      "address": "95poUrPx49k4TUZy52XKhHwsgqiyRxkkdM2cT9cTpump",
-      "price": 2.990191711e-07,
-      "proceeds": 4.75,
-      "pnl_usd": -45.25,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-21T13:10:56+00:00",
       "side": "buy",
@@ -4532,13 +4510,43 @@
       "address": "BjMM3MKUHdJDqAHEzKSRAg1Kf3M2vL2UMBCVvPCApump",
       "price": 0.00010713823996091628,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T17:04:23+00:00",
+      "side": "sell",
+      "symbol": "FI",
+      "address": "6WSN2qCCkzvgLajwYKWjwNRji3pdZ4h9RZcgQQhSpump",
+      "price": 3.490850329e-05,
+      "proceeds": 49.78,
+      "pnl_usd": -0.22,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T17:04:23+00:00",
+      "side": "buy",
+      "symbol": "MARKET",
+      "address": "5pmUDKSTACsJJ9EvJezAagQLVdETVFHVCqQMjNxpump",
+      "price": 1.3057791067647071e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T17:04:23+00:00",
+      "side": "buy",
+      "symbol": "MONY",
+      "address": "BEJ6VswqVH4hWquZpT6cfF497bYeppYXHeUrjYtCpump",
+      "price": 1.2408928824137583e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T17:04:23+00:00",
+      "side": "buy",
+      "symbol": "DOOYET",
+      "address": "8PSUFhxwcxXTDvtZDAN7E4ueHun5P3GN3vtxBSXEpump",
+      "price": 1.2483467600779398e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T04:04:15+00:00",
-      "equity": 314659.05
-    },
     {
       "date": "2026-10-05T04:28:17+00:00",
       "equity": 314623.98
@@ -8534,6 +8542,10 @@
     {
       "date": "2026-10-24T16:33:20+00:00",
       "equity": 5881630.85
+    },
+    {
+      "date": "2026-10-24T17:04:23+00:00",
+      "equity": 5881626.02
     }
   ]
 }
