@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880935.891127133,
+  "cash": 5880881.408240436,
   "positions": {
-    "6hF98me3HHxqMLahyM1SRTdWGaPfKpABDuGEBxxkpump": {
-      "symbol": "JOIAI",
-      "qty": 5276057.016907929,
-      "entry_price": 9.382006267439813e-06,
-      "last_price": 9.046682853e-06,
+    "4MSF35Y2wzD76Mtsz7obHEC6SnqMhn61hJzTkkgHpump": {
+      "symbol": "LLMWIKI",
+      "qty": 5420186.331589675,
+      "entry_price": 9.132527365619598e-06,
+      "last_price": 8.785784324529103e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T21:54:40+00:00",
+      "entry_time": "2026-10-24T23:10:24+00:00",
+      "missing": 0
+    },
+    "DU3mCbgEy968nVBZML7FhbSHWXduFdZuso6Lgi6Jpump": {
+      "symbol": "Hou",
+      "qty": 3330216.749277989,
+      "entry_price": 1.4863897375668386e-05,
+      "last_price": 1.4326811113545878e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T23:10:24+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T22:48:38+00:00",
-      "side": "sell",
-      "symbol": "FIL-PHP",
-      "address": "3PxnEkomSAmKLypFncb4Zkrz3oH1MPpjaLxXmFMMpump",
-      "price": 7.357931718e-06,
-      "proceeds": 10.46,
-      "pnl_usd": -39.54,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T22:48:38+00:00",
-      "side": "sell",
-      "symbol": "Americinu",
-      "address": "8ctEhkaBHYEMYG6aWEC6BbW83y6HvHSqabJHoh3Zpump",
-      "price": 3.056738297e-06,
-      "proceeds": 17.59,
-      "pnl_usd": -32.41,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T22:48:38+00:00",
-      "side": "sell",
-      "symbol": "AIB",
-      "address": "H8BHkfnQxPWKrrJR4tYinzEyBQmNG9Hs9kwqLkz5pump",
-      "price": 3.517314945e-06,
-      "proceeds": 16.99,
-      "pnl_usd": -33.01,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-21T22:48:38+00:00",
       "side": "buy",
@@ -4514,13 +4493,35 @@
       "proceeds": 10.03,
       "pnl_usd": -39.97,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T23:10:24+00:00",
+      "side": "sell",
+      "symbol": "JOIAI",
+      "address": "6hF98me3HHxqMLahyM1SRTdWGaPfKpABDuGEBxxkpump",
+      "price": 9.046682853e-06,
+      "proceeds": 45.52,
+      "pnl_usd": -4.48,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T23:10:24+00:00",
+      "side": "buy",
+      "symbol": "LLMWIKI",
+      "address": "4MSF35Y2wzD76Mtsz7obHEC6SnqMhn61hJzTkkgHpump",
+      "price": 9.132527365619598e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T23:10:24+00:00",
+      "side": "buy",
+      "symbol": "Hou",
+      "address": "DU3mCbgEy968nVBZML7FhbSHWXduFdZuso6Lgi6Jpump",
+      "price": 1.4863897375668386e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T09:33:34+00:00",
-      "equity": 552415.76
-    },
     {
       "date": "2026-10-05T09:54:05+00:00",
       "equity": 552358.82
@@ -8516,6 +8517,10 @@
     {
       "date": "2026-10-24T22:49:23+00:00",
       "equity": 5880983.62
+    },
+    {
+      "date": "2026-10-24T23:10:24+00:00",
+      "equity": 5880976.74
     }
   ]
 }
