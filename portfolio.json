@@ -1,73 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5881607.042809383,
+  "cash": 5881483.433830438,
   "positions": {
-    "H8uLL2F6sfbpgDWHFT6LwncZkhfjxbffaQZkTDsApump": {
-      "symbol": "TOFI",
-      "qty": 1067297.6818831936,
-      "entry_price": 4.6378813371598185e-05,
-      "last_price": 4.489584207597517e-05,
+    "6WAFc6of7UUPJEKomtp9bcLmKC4N47tt3vQ2icEBpump": {
+      "symbol": "Memegle",
+      "qty": 4989466.271876462,
+      "entry_price": 9.920900814383863e-06,
+      "last_price": 9.542445450306916e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T14:00:37+00:00",
+      "entry_time": "2026-10-24T14:30:36+00:00",
       "missing": 0
     },
-    "fbsPyxXB4Baj48CkdmVPx8MBxADQoF8nXCyguNxpump": {
-      "symbol": "DCY",
-      "qty": 1077498.1199294862,
-      "entry_price": 4.593975533176743e-05,
-      "last_price": 4.447726028970138e-05,
+    "nfjeVpibEFuq4nH5kn5vFgbUXfS1yrNXig11yrzpump": {
+      "symbol": "Macchiato",
+      "qty": 10755598.21168396,
+      "entry_price": 4.602254474904747e-06,
+      "last_price": 4.430438178738219e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T14:00:37+00:00",
+      "entry_time": "2026-10-24T14:30:36+00:00",
+      "missing": 0
+    },
+    "D3S2gH9iGvpBEFXjy7rgxbkpsEs1S1P2e6Mg92efpump": {
+      "symbol": "Google",
+      "qty": 5381616.4007977275,
+      "entry_price": 9.197979995873084e-06,
+      "last_price": 8.881483499611952e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T14:30:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T09:55:41+00:00",
-      "side": "buy",
-      "symbol": "fg",
-      "address": "3Qaj6N7abGsmHrkJSqbz8cU5aNY3u5VgH81XdJxQpump",
-      "price": 2.1484138454567845e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T10:31:32+00:00",
-      "side": "sell",
-      "symbol": "DANIELLA",
-      "address": "2xwrvtVuuiEgKubaPKR86tKN15i2S5HZniJKyN6upump",
-      "price": 1.122196089e-05,
-      "proceeds": 25.64,
-      "pnl_usd": -24.36,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T10:31:32+00:00",
-      "side": "sell",
-      "symbol": "Kimchi",
-      "address": "47jtdAbscdtjr5wkWw54kYaAZMBCxe4EWsWE8zegpump",
-      "price": 4.064300837e-05,
-      "proceeds": 38.02,
-      "pnl_usd": -11.98,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T10:31:32+00:00",
-      "side": "sell",
-      "symbol": "fg",
-      "address": "3Qaj6N7abGsmHrkJSqbz8cU5aNY3u5VgH81XdJxQpump",
-      "price": 4.747117715e-05,
-      "proceeds": 104.71,
-      "pnl_usd": 54.71,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-21T10:31:32+00:00",
-      "side": "buy",
-      "symbol": "Psi",
-      "address": "GFRb2GtDHm7GJ512SgBycuXpjKThf18haFVsdmtmpump",
-      "price": 1.0089414063528766e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T11:08:44+00:00",
       "side": "buy",
@@ -4521,13 +4484,53 @@
       "address": "fbsPyxXB4Baj48CkdmVPx8MBxADQoF8nXCyguNxpump",
       "price": 4.593975533176743e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T14:30:35+00:00",
+      "side": "sell",
+      "symbol": "TOFI",
+      "address": "H8uLL2F6sfbpgDWHFT6LwncZkhfjxbffaQZkTDsApump",
+      "price": 1.969553261e-06,
+      "proceeds": 2.02,
+      "pnl_usd": -47.98,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T14:30:35+00:00",
+      "side": "sell",
+      "symbol": "DCY",
+      "address": "fbsPyxXB4Baj48CkdmVPx8MBxADQoF8nXCyguNxpump",
+      "price": 2.363688316e-05,
+      "proceeds": 24.37,
+      "pnl_usd": -25.63,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T14:30:36+00:00",
+      "side": "buy",
+      "symbol": "Memegle",
+      "address": "6WAFc6of7UUPJEKomtp9bcLmKC4N47tt3vQ2icEBpump",
+      "price": 9.920900814383863e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T14:30:36+00:00",
+      "side": "buy",
+      "symbol": "Macchiato",
+      "address": "nfjeVpibEFuq4nH5kn5vFgbUXfS1yrNXig11yrzpump",
+      "price": 4.602254474904747e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T14:30:36+00:00",
+      "side": "buy",
+      "symbol": "Google",
+      "address": "D3S2gH9iGvpBEFXjy7rgxbkpsEs1S1P2e6Mg92efpump",
+      "price": 9.197979995873084e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T01:55:34+00:00",
-      "equity": 314725.4
-    },
     {
       "date": "2026-10-05T02:17:05+00:00",
       "equity": 314706.95
@@ -8523,6 +8526,10 @@
     {
       "date": "2026-10-24T14:00:37+00:00",
       "equity": 5881702.88
+    },
+    {
+      "date": "2026-10-24T14:30:36+00:00",
+      "equity": 5881626.49
     }
   ]
 }
