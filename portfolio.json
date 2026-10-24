@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5880983.994753187,
+  "cash": 5880833.994753187,
   "positions": {
     "EnpBZh9YrWAF5sZERarctPixqh1aF9Jh81WurzVPpump": {
       "symbol": "MUSCK",
       "qty": 16447451.818497717,
       "entry_price": 3.0095847397059738e-06,
-      "last_price": 2.9014337007426282e-06,
+      "last_price": 2.858298119e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T21:24:27+00:00",
       "missing": 0
@@ -15,39 +15,40 @@
       "symbol": "$KMALONE",
       "qty": 5831858.55545971,
       "entry_price": 8.48786017858042e-06,
-      "last_price": 8.179096062669039e-06,
+      "last_price": 8.179096063e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T21:24:27+00:00",
+      "missing": 0
+    },
+    "74HTvZ5vYS9MSpfHc84c7W6v5nMTUXdTToXj4LP1pump": {
+      "symbol": "Bear",
+      "qty": 1048915.1015059198,
+      "entry_price": 4.719161725189503e-05,
+      "last_price": 4.5676465913597173e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T21:54:40+00:00",
+      "missing": 0
+    },
+    "HtFHBp2ZxwkyH297SBttaNMRkVqt4nW1iUM34BDNpump": {
+      "symbol": "WILDWOOD",
+      "qty": 1111882.184647974,
+      "entry_price": 4.4519105246453674e-05,
+      "last_price": 4.308458982255102e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T21:54:40+00:00",
+      "missing": 0
+    },
+    "6hF98me3HHxqMLahyM1SRTdWGaPfKpABDuGEBxxkpump": {
+      "symbol": "JOIAI",
+      "qty": 5276057.016907929,
+      "entry_price": 9.382006267439813e-06,
+      "last_price": 9.046682852565204e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T21:54:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T21:05:00+00:00",
-      "side": "buy",
-      "symbol": "NU7",
-      "address": "C1phiVzmaSrk2rMkDwginJsbVQLG8SuZNHoGWd56pump",
-      "price": 5.7036202426510295e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T21:39:08+00:00",
-      "side": "sell",
-      "symbol": "NU7",
-      "address": "C1phiVzmaSrk2rMkDwginJsbVQLG8SuZNHoGWd56pump",
-      "price": 4.328735183e-05,
-      "proceeds": 35.92,
-      "pnl_usd": -14.08,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T21:39:09+00:00",
-      "side": "buy",
-      "symbol": "BARRON",
-      "address": "DFNRpTZFzgLZxJNnoj3czyMUokj13Mpzx4yCjQKpump",
-      "price": 0.00043049257863903945,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T22:11:55+00:00",
       "side": "sell",
@@ -4519,13 +4520,33 @@
       "address": "4EaVNAmHephtd6bY2wU5kEGzPXv3KWnNfoDxHKfBpump",
       "price": 8.48786017858042e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T21:54:40+00:00",
+      "side": "buy",
+      "symbol": "Bear",
+      "address": "74HTvZ5vYS9MSpfHc84c7W6v5nMTUXdTToXj4LP1pump",
+      "price": 4.719161725189503e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T21:54:40+00:00",
+      "side": "buy",
+      "symbol": "WILDWOOD",
+      "address": "HtFHBp2ZxwkyH297SBttaNMRkVqt4nW1iUM34BDNpump",
+      "price": 4.4519105246453674e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T21:54:40+00:00",
+      "side": "buy",
+      "symbol": "JOIAI",
+      "address": "6hF98me3HHxqMLahyM1SRTdWGaPfKpABDuGEBxxkpump",
+      "price": 9.382006267439813e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T08:25:56+00:00",
-      "equity": 552133.81
-    },
     {
       "date": "2026-10-05T08:49:51+00:00",
       "equity": 552478.34
@@ -8521,6 +8542,10 @@
     {
       "date": "2026-10-24T21:24:27+00:00",
       "equity": 5881079.42
+    },
+    {
+      "date": "2026-10-24T21:54:40+00:00",
+      "equity": 5881072.25
     }
   ]
 }
