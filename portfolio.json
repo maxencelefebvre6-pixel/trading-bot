@@ -1,104 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5882110.577344209,
+  "cash": 5882084.941183646,
   "positions": {
     "1btC9yCTw1EEjm57hJpDAmm9DsxXZwq4EyhfEe7pump": {
       "symbol": "NODF",
       "qty": 337.10812601053624,
       "entry_price": 0.14683716048557338,
-      "last_price": 0.14255351271285616,
+      "last_price": 0.1581230317,
       "cost": 50.0,
       "entry_time": "2026-10-24T01:11:52+00:00",
       "missing": 0
     },
-    "5iK6LNLgJAds1Nawzt93uEEFo1r1cwpK69hZqjEcpump": {
-      "symbol": "GTA6 Coin",
-      "qty": 125692.44350673807,
-      "entry_price": 0.00039381842391620324,
-      "last_price": 0.00038197882814181835,
+    "8HswqjSxGR9gK62Eb5gxGudc4oFngNhytxbpJn4spump": {
+      "symbol": "LOPE",
+      "qty": 6061796.879730127,
+      "entry_price": 8.165895522748654e-06,
+      "last_price": 7.870741910668736e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T01:11:52+00:00",
+      "entry_time": "2026-10-24T01:53:17+00:00",
       "missing": 0
     },
-    "Bs1j45ab4krjXSfrHJaaURK6ZWsuMq1eHPKHAgPzpump": {
-      "symbol": "XDOG",
-      "qty": 4854548.048433545,
-      "entry_price": 1.019662376520767e-05,
-      "last_price": 9.814642045362242e-06,
+    "AorAyRoTCvAa1fMNuUw4zcxGRNtyFNZxdumuVuSapump": {
+      "symbol": "HELIUM",
+      "qty": 7200034.350614732,
+      "entry_price": 6.874967200090335e-06,
+      "last_price": 6.611373616335016e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T01:11:52+00:00",
-      "missing": 0
-    },
-    "Hq9ZnEK2XRpihNK4rTi298ELCNfw6meed1H1wGxQpump": {
-      "symbol": "Biddy",
-      "qty": 2163.8218418071647,
-      "entry_price": 0.02287619019441035,
-      "last_price": 0.022200565407350308,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T01:11:52+00:00",
-      "missing": 0
-    },
-    "DVfR9oY6y6DSP1Pago7E4qxW8bWqo5mMpfM2EWQDpump": {
-      "symbol": "AT",
-      "qty": 3150748.2753802757,
-      "entry_price": 1.57105537077619e-05,
-      "last_price": 1.5191242053308677e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T01:11:52+00:00",
+      "entry_time": "2026-10-24T01:53:17+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T23:21:11+00:00",
-      "side": "buy",
-      "symbol": "Kimchi",
-      "address": "ECYh2aK3dFs2jgCGaGmXEp12o438a578fUTTyqRJpump",
-      "price": 6.81870594795064e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T23:50:26+00:00",
-      "side": "sell",
-      "symbol": "BetOnBlak",
-      "address": "EiuWcUYjzek5teGdP9YrkfVk5gfcYf16r5BJBrMKpump",
-      "price": 2.068376909e-05,
-      "proceeds": 45.82,
-      "pnl_usd": -4.18,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-20T23:50:26+00:00",
-      "side": "buy",
-      "symbol": "celebrity",
-      "address": "42w87Mr7a79MjVEe46bRJeTgKG29WqcbewmTv9T8pump",
-      "price": 1.404009276525756e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T23:50:26+00:00",
-      "side": "buy",
-      "symbol": "$LOAD",
-      "address": "CAK3FXZqQrw1mrFFFYCGBXm3P6eRzwYCysNU6boXpump",
-      "price": 1.4494679281560939e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T23:50:26+00:00",
-      "side": "buy",
-      "symbol": "AOTROJAN",
-      "address": "4NwR5ZdzW9yqGEtfycwyAEthaxKsDbNopqwo2Ybppump",
-      "price": 0.1391816738109492,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-20T23:50:26+00:00",
-      "side": "buy",
-      "symbol": "FISH",
-      "address": "JA3nrsH2LEwKUkV5tgfPA963Ua7EjkJNjMPgtiEqpump",
-      "price": 1.1252644301657758e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-20T23:50:26+00:00",
       "side": "buy",
@@ -4544,6 +4476,62 @@
       "address": "DVfR9oY6y6DSP1Pago7E4qxW8bWqo5mMpfM2EWQDpump",
       "price": 1.57105537077619e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T01:53:17+00:00",
+      "side": "sell",
+      "symbol": "GTA6 Coin",
+      "address": "5iK6LNLgJAds1Nawzt93uEEFo1r1cwpK69hZqjEcpump",
+      "price": 1.808476922e-06,
+      "proceeds": 0.22,
+      "pnl_usd": -49.78,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T01:53:17+00:00",
+      "side": "sell",
+      "symbol": "XDOG",
+      "address": "Bs1j45ab4krjXSfrHJaaURK6ZWsuMq1eHPKHAgPzpump",
+      "price": 3.144048645e-06,
+      "proceeds": 14.56,
+      "pnl_usd": -35.44,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T01:53:17+00:00",
+      "side": "sell",
+      "symbol": "Biddy",
+      "address": "Hq9ZnEK2XRpihNK4rTi298ELCNfw6meed1H1wGxQpump",
+      "price": 0.02675502321,
+      "proceeds": 28.66,
+      "pnl_usd": -21.34,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T01:53:17+00:00",
+      "side": "sell",
+      "symbol": "AT",
+      "address": "DVfR9oY6y6DSP1Pago7E4qxW8bWqo5mMpfM2EWQDpump",
+      "price": 1.026341058e-05,
+      "proceeds": 30.93,
+      "pnl_usd": -19.07,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T01:53:17+00:00",
+      "side": "buy",
+      "symbol": "LOPE",
+      "address": "8HswqjSxGR9gK62Eb5gxGudc4oFngNhytxbpJn4spump",
+      "price": 8.165895522748654e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T01:53:17+00:00",
+      "side": "buy",
+      "symbol": "HELIUM",
+      "address": "AorAyRoTCvAa1fMNuUw4zcxGRNtyFNZxdumuVuSapump",
+      "price": 6.874967200090335e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8530,6 +8518,10 @@
     {
       "date": "2026-10-24T01:11:52+00:00",
       "equity": 5882350.19
+    },
+    {
+      "date": "2026-10-24T01:53:17+00:00",
+      "equity": 5882233.56
     }
   ]
 }
