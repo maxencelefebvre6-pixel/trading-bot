@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5881229.025110842,
+  "cash": 5881079.025110842,
   "positions": {
     "4z7aXJa7vVax1MEydViMVpZqP5hZ9ooDVom85EaDpump": {
       "symbol": "PUPPYFLOW",
@@ -24,43 +24,40 @@
       "symbol": "MotoCrose",
       "qty": 4451817.80144069,
       "entry_price": 1.1119053431158144e-05,
-      "last_price": 1.0732789998082676e-05,
+      "last_price": 1.073279e-05,
       "cost": 50.0,
       "entry_time": "2026-10-24T19:33:53+00:00",
+      "missing": 0
+    },
+    "DqGGPdUfL9BuCWyLybF82tkqKKXX9VbsVwwcEUQmpump": {
+      "symbol": "Baba",
+      "qty": 8234490.053450495,
+      "entry_price": 6.011301207323462e-06,
+      "last_price": 5.786601805752624e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T19:58:03+00:00",
+      "missing": 0
+    },
+    "979nyczcLe8dk1SsMVLwxjZJPLBq1tJoszVhHW5Ypump": {
+      "symbol": "fomocat",
+      "qty": 1696009.4117777066,
+      "entry_price": 2.9186158789128166e-05,
+      "last_price": 2.816568254142814e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T19:58:03+00:00",
+      "missing": 0
+    },
+    "7sSUs1iKu3cCyib1C3xnzPGw3fpsmJAW4KC8HmSEpump": {
+      "symbol": "$MFRG",
+      "qty": 7848808.285664728,
+      "entry_price": 6.306689907359327e-06,
+      "last_price": 6.080805607366057e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T19:58:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T18:05:13+00:00",
-      "side": "sell",
-      "symbol": "MrBeast",
-      "address": "CnBntmvyzW8zV2gYnjmjnCCTWkft5vAUMtwitzK9pump",
-      "price": 0.0008281431586,
-      "proceeds": 95.71,
-      "pnl_usd": 45.71,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-21T18:05:13+00:00",
-      "side": "sell",
-      "symbol": "TESLA SI",
-      "address": "CKPa1s4LRraAtxSLdbEDEzQvCBdjcaY1qdeUAc6Apump",
-      "price": 1.930925724e-06,
-      "proceeds": 0.21,
-      "pnl_usd": -49.79,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T18:05:13+00:00",
-      "side": "sell",
-      "symbol": "Darkwoods",
-      "address": "Azi7XWpBcyvHCqu6CDaUVTmmEnKzDXXFSTxyM5iUpump",
-      "price": 1.852793615e-05,
-      "proceeds": 23.71,
-      "pnl_usd": -26.29,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-21T18:05:13+00:00",
       "side": "buy",
@@ -4530,13 +4527,33 @@
       "address": "9aZJeiXGPhJwcGpvcVRRyEtJ3a1zWyZNNgndiXzUpump",
       "price": 1.1119053431158144e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T19:58:03+00:00",
+      "side": "buy",
+      "symbol": "Baba",
+      "address": "DqGGPdUfL9BuCWyLybF82tkqKKXX9VbsVwwcEUQmpump",
+      "price": 6.011301207323462e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T19:58:03+00:00",
+      "side": "buy",
+      "symbol": "fomocat",
+      "address": "979nyczcLe8dk1SsMVLwxjZJPLBq1tJoszVhHW5Ypump",
+      "price": 2.9186158789128166e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T19:58:03+00:00",
+      "side": "buy",
+      "symbol": "$MFRG",
+      "address": "7sSUs1iKu3cCyib1C3xnzPGw3fpsmJAW4KC8HmSEpump",
+      "price": 6.306689907359327e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T06:54:10+00:00",
-      "equity": 552218.92
-    },
     {
       "date": "2026-10-05T07:18:40+00:00",
       "equity": 552254.96
@@ -8532,6 +8549,10 @@
     {
       "date": "2026-10-24T19:33:53+00:00",
       "equity": 5881372.25
+    },
+    {
+      "date": "2026-10-24T19:58:03+00:00",
+      "equity": 5881365.4
     }
   ]
 }
