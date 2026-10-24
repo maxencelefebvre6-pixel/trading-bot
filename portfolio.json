@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5881483.433830438,
+  "cash": 5881525.036323635,
   "positions": {
-    "6WAFc6of7UUPJEKomtp9bcLmKC4N47tt3vQ2icEBpump": {
-      "symbol": "Memegle",
-      "qty": 4989466.271876462,
-      "entry_price": 9.920900814383863e-06,
-      "last_price": 9.542445450306916e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T14:30:36+00:00",
-      "missing": 0
-    },
     "nfjeVpibEFuq4nH5kn5vFgbUXfS1yrNXig11yrzpump": {
       "symbol": "Macchiato",
       "qty": 10755598.21168396,
       "entry_price": 4.602254474904747e-06,
-      "last_price": 4.430438178738219e-06,
+      "last_price": 4.569419468e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T14:30:36+00:00",
       "missing": 0
@@ -24,49 +15,40 @@
       "symbol": "Google",
       "qty": 5381616.4007977275,
       "entry_price": 9.197979995873084e-06,
-      "last_price": 8.881483499611952e-06,
+      "last_price": 8.8814835e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T14:30:36+00:00",
+      "missing": 0
+    },
+    "CEV537MfYSgQv8LCqNGqAgZVCAAMjwwyUTbGEHUYpump": {
+      "symbol": "CATANA",
+      "qty": 5033989.880416309,
+      "entry_price": 9.833154451217602e-06,
+      "last_price": 9.464434729421648e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T15:01:03+00:00",
+      "missing": 0
+    },
+    "9m3uhaHJSsGrDG6uew7NwsF9t5N3pUtteFmb1Wxgpump": {
+      "symbol": "MotoCrose",
+      "qty": 5268378.513979719,
+      "entry_price": 9.395680258859729e-06,
+      "last_price": 9.060373161730497e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T15:01:03+00:00",
+      "missing": 0
+    },
+    "xEcWRgL2XFpE3uJGgFMZsendYoUW8vYQXh7XTgSpump": {
+      "symbol": "GRASSPEPE",
+      "qty": 5944925.995555651,
+      "entry_price": 8.326428291454856e-06,
+      "last_price": 8.032522603365036e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T15:01:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T11:08:44+00:00",
-      "side": "buy",
-      "symbol": "KIMCHINU",
-      "address": "2B2o663NCtfs8uhk8K7fdtSEKdH1f9PWYRbu6ZGopump",
-      "price": 0.00022745917070198885,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T11:08:44+00:00",
-      "side": "buy",
-      "symbol": "MrBeast",
-      "address": "6QuY1RdbemGvwvkP1BWrCtUz6LKcDesJqaCazfGppump",
-      "price": 0.00045604041422203726,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T11:44:54+00:00",
-      "side": "sell",
-      "symbol": "Psi",
-      "address": "GFRb2GtDHm7GJ512SgBycuXpjKThf18haFVsdmtmpump",
-      "price": 9.73420583e-06,
-      "proceeds": 45.57,
-      "pnl_usd": -4.43,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-21T11:44:54+00:00",
-      "side": "sell",
-      "symbol": "KIMCHINU",
-      "address": "2B2o663NCtfs8uhk8K7fdtSEKdH1f9PWYRbu6ZGopump",
-      "price": 1.966992193e-06,
-      "proceeds": 0.41,
-      "pnl_usd": -49.59,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-21T11:44:54+00:00",
       "side": "sell",
@@ -4528,13 +4510,43 @@
       "address": "D3S2gH9iGvpBEFXjy7rgxbkpsEs1S1P2e6Mg92efpump",
       "price": 9.197979995873084e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T15:01:03+00:00",
+      "side": "sell",
+      "symbol": "Memegle",
+      "address": "6WAFc6of7UUPJEKomtp9bcLmKC4N47tt3vQ2icEBpump",
+      "price": 4.096526363e-05,
+      "proceeds": 191.6,
+      "pnl_usd": 141.6,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-24T15:01:03+00:00",
+      "side": "buy",
+      "symbol": "CATANA",
+      "address": "CEV537MfYSgQv8LCqNGqAgZVCAAMjwwyUTbGEHUYpump",
+      "price": 9.833154451217602e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T15:01:03+00:00",
+      "side": "buy",
+      "symbol": "MotoCrose",
+      "address": "9m3uhaHJSsGrDG6uew7NwsF9t5N3pUtteFmb1Wxgpump",
+      "price": 9.395680258859729e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T15:01:03+00:00",
+      "side": "buy",
+      "symbol": "GRASSPEPE",
+      "address": "xEcWRgL2XFpE3uJGgFMZsendYoUW8vYQXh7XTgSpump",
+      "price": 8.326428291454856e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T02:17:05+00:00",
-      "equity": 314706.95
-    },
     {
       "date": "2026-10-05T02:37:44+00:00",
       "equity": 314741.88
@@ -8530,6 +8542,10 @@
     {
       "date": "2026-10-24T14:30:36+00:00",
       "equity": 5881626.49
+    },
+    {
+      "date": "2026-10-24T15:01:03+00:00",
+      "equity": 5881765.11
     }
   ]
 }
