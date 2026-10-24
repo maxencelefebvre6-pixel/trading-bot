@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5881665.453315161,
+  "cash": 5881610.978355392,
   "positions": {
-    "HANrchMudjvAsBEb4gFFEoLDfH6XeJVwciqjQp2kpump": {
-      "symbol": "ELPL",
-      "qty": 4518404.7915589865,
-      "entry_price": 1.0955193764948403e-05,
-      "last_price": 1.05548879e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T08:07:07+00:00",
-      "missing": 0
-    },
     "Fm3hsbL8H8v5xiQ22yaQrzAkub7tYVU5QK6JgSsSpump": {
       "symbol": "VANGOGE",
       "qty": 16413019.00809679,
       "entry_price": 3.0158985361304282e-06,
-      "last_price": 2.9083484539172834e-06,
+      "last_price": 2.846685648e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T08:41:12+00:00",
       "missing": 0
@@ -24,43 +15,31 @@
       "symbol": "BTBB",
       "qty": 2022200.8242939503,
       "entry_price": 2.4478280992335606e-05,
-      "last_price": 2.3703645738206938e-05,
+      "last_price": 2.370364574e-05,
       "cost": 50.0,
       "entry_time": "2026-10-24T08:41:12+00:00",
+      "missing": 0
+    },
+    "2iFyiaZc6wk9LeN24ZihdfrjJNMAWRns2A7nGKGLpump": {
+      "symbol": "Hodler",
+      "qty": 3989516.4992271145,
+      "entry_price": 1.240751855759704e-05,
+      "last_price": 1.1935899021316786e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T09:10:49+00:00",
+      "missing": 0
+    },
+    "8fTwy5msHHMz6bzWuRcjSTxE85yE89Tr7WLJeBu2pump": {
+      "symbol": "WEIRDCAT",
+      "qty": 3211024.3653142336,
+      "entry_price": 1.5415641355669342e-05,
+      "last_price": 1.4901714282404349e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T09:10:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T08:00:03+00:00",
-      "side": "sell",
-      "symbol": "Cavesnl",
-      "address": "DNFKBnvQuDMVb8XXnSkk4DViWjmUD9guWTRKWwSEpump",
-      "price": 0.0001732776687,
-      "proceeds": 0.06,
-      "pnl_usd": -49.94,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T08:00:03+00:00",
-      "side": "sell",
-      "symbol": "PUMPFUN",
-      "address": "TyTJTCKDeB7E6DeJco6nfpNafEfjAKDmSMgp1Xipump",
-      "price": 2.953879893e-06,
-      "proceeds": 9.29,
-      "pnl_usd": -40.71,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T08:00:03+00:00",
-      "side": "sell",
-      "symbol": "PINKY",
-      "address": "tZPasooEK7iJALGUkCSBnMmviyXZtxHtJmXaw5Epump",
-      "price": 1.183900177e-05,
-      "proceeds": 72.08,
-      "pnl_usd": 22.08,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-21T08:00:03+00:00",
       "side": "sell",
@@ -4534,13 +4513,35 @@
       "address": "AdRr9N1qNiR6VFnfBkJNvtek99Q8f8QLBfcgRao3pump",
       "price": 2.4478280992335606e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T09:10:49+00:00",
+      "side": "sell",
+      "symbol": "ELPL",
+      "address": "HANrchMudjvAsBEb4gFFEoLDfH6XeJVwciqjQp2kpump",
+      "price": 1.05548879e-05,
+      "proceeds": 45.53,
+      "pnl_usd": -4.47,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T09:10:49+00:00",
+      "side": "buy",
+      "symbol": "Hodler",
+      "address": "2iFyiaZc6wk9LeN24ZihdfrjJNMAWRns2A7nGKGLpump",
+      "price": 1.240751855759704e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T09:10:49+00:00",
+      "side": "buy",
+      "symbol": "WEIRDCAT",
+      "address": "8fTwy5msHHMz6bzWuRcjSTxE85yE89Tr7WLJeBu2pump",
+      "price": 1.5415641355669342e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-04T22:21:10+00:00",
-      "equity": 235860.48
-    },
     {
       "date": "2026-10-04T22:39:01+00:00",
       "equity": 235853.57
@@ -8536,6 +8537,10 @@
     {
       "date": "2026-10-24T08:41:12+00:00",
       "equity": 5881808.81
+    },
+    {
+      "date": "2026-10-24T09:10:49+00:00",
+      "equity": 5881801.1
     }
   ]
 }
