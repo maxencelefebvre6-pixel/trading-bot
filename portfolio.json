@@ -1,83 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5881941.909546589,
+  "cash": 5881983.244044746,
   "positions": {
-    "2P3EEoqTPUmKaDs6JtE6t5NjB9L3Ykq5GqSDJ9Rdpump": {
-      "symbol": "thebeets",
-      "qty": 1518970.232233808,
-      "entry_price": 3.258786706254603e-05,
-      "last_price": 3.152093374e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T04:37:32+00:00",
-      "missing": 0
-    },
-    "2KrSWp8s4ksKoAo1mRoUUTq4dQwiqoeQQzyDA7xqpump": {
-      "symbol": "MP",
-      "qty": 2389136.8861447335,
-      "entry_price": 2.0718779357961532e-05,
-      "last_price": 2.00372820512663e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T05:09:49+00:00",
-      "missing": 0
-    },
-    "36LGcntje2Dj283QGUNvtVkhQGoEf7Db8Qi9zgRZpump": {
-      "symbol": "SOLFLY",
-      "qty": 1121701.0094696488,
-      "entry_price": 4.412940666194469e-05,
-      "last_price": 4.2718765601642196e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T05:09:49+00:00",
-      "missing": 0
-    },
     "6TyAxPBwQvf2L15bYGBHxwwfSjDnqnna5VwJQFaKpump": {
       "symbol": "BBC",
       "qty": 6198698.672817425,
       "entry_price": 7.985547066042705e-06,
-      "last_price": 7.691360594937522e-06,
+      "last_price": 7.691360595e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T05:09:49+00:00",
+      "missing": 0
+    },
+    "5hPDV9MRGxPJMLZvtoWkNRkvC3ZDmD591fpcuEzcpump": {
+      "symbol": "Talarico",
+      "qty": 601642.7940825436,
+      "entry_price": 8.227473259358733e-05,
+      "last_price": 7.969459302869715e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T05:45:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T04:37:07+00:00",
-      "side": "buy",
-      "symbol": "Mask",
-      "address": "Hdbf1BzdkJYpuABqWyjMggHTyRixrs1qM7WJt5w3pump",
-      "price": 5.6040413164074024e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T05:12:31+00:00",
-      "side": "sell",
-      "symbol": "CUPID",
-      "address": "2u7SV8njPMnK2GXPWe8RdFzf1Hd67tSp9Xc7f4Uepump",
-      "price": 1.284808178e-05,
-      "proceeds": 45.71,
-      "pnl_usd": -4.29,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-21T05:12:31+00:00",
-      "side": "sell",
-      "symbol": "Kimchi",
-      "address": "8WU4e7F1enqBviq5nTRc6ESiLwd4YBpeF75hihQzpump",
-      "price": 3.01347269e-06,
-      "proceeds": 10.99,
-      "pnl_usd": -39.01,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T05:12:31+00:00",
-      "side": "sell",
-      "symbol": "Mask",
-      "address": "Hdbf1BzdkJYpuABqWyjMggHTyRixrs1qM7WJt5w3pump",
-      "price": 2.034509731e-06,
-      "proceeds": 1.72,
-      "pnl_usd": -48.28,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-21T05:12:31+00:00",
       "side": "buy",
@@ -4537,13 +4481,47 @@
       "address": "6TyAxPBwQvf2L15bYGBHxwwfSjDnqnna5VwJQFaKpump",
       "price": 7.985547066042705e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T05:45:08+00:00",
+      "side": "sell",
+      "symbol": "thebeets",
+      "address": "2P3EEoqTPUmKaDs6JtE6t5NjB9L3Ykq5GqSDJ9Rdpump",
+      "price": 3.152093374e-05,
+      "proceeds": 45.89,
+      "pnl_usd": -4.11,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T05:45:08+00:00",
+      "side": "sell",
+      "symbol": "MP",
+      "address": "2KrSWp8s4ksKoAo1mRoUUTq4dQwiqoeQQzyDA7xqpump",
+      "price": 2.397407956e-06,
+      "proceeds": 5.48,
+      "pnl_usd": -44.52,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T05:45:08+00:00",
+      "side": "sell",
+      "symbol": "SOLFLY",
+      "address": "36LGcntje2Dj283QGUNvtVkhQGoEf7Db8Qi9zgRZpump",
+      "price": 3.838804422e-05,
+      "proceeds": 39.97,
+      "pnl_usd": -10.03,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T05:45:08+00:00",
+      "side": "buy",
+      "symbol": "Talarico",
+      "address": "5hPDV9MRGxPJMLZvtoWkNRkvC3ZDmD591fpcuEzcpump",
+      "price": 8.227473259358733e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-04T05:13:10+00:00",
-      "equity": 236209.84
-    },
     {
       "date": "2026-10-04T11:04:29+00:00",
       "equity": 236207.9
@@ -8539,6 +8517,10 @@
     {
       "date": "2026-10-24T05:09:49+00:00",
       "equity": 5882133.25
+    },
+    {
+      "date": "2026-10-24T05:45:08+00:00",
+      "equity": 5882078.87
     }
   ]
 }
