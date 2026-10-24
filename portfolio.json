@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5881983.244044746,
+  "cash": 5881978.656388218,
   "positions": {
-    "6TyAxPBwQvf2L15bYGBHxwwfSjDnqnna5VwJQFaKpump": {
-      "symbol": "BBC",
-      "qty": 6198698.672817425,
-      "entry_price": 7.985547066042705e-06,
-      "last_price": 7.691360595e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T05:09:49+00:00",
-      "missing": 0
-    },
     "5hPDV9MRGxPJMLZvtoWkNRkvC3ZDmD591fpcuEzcpump": {
       "symbol": "Talarico",
       "qty": 601642.7940825436,
       "entry_price": 8.227473259358733e-05,
-      "last_price": 7.969459302869715e-05,
+      "last_price": 8.675151923e-05,
       "cost": 50.0,
       "entry_time": "2026-10-24T05:45:08+00:00",
+      "missing": 0
+    },
+    "6HhMLur43AXKtPaymM8PHmHdr1kSFNJLETGzktNXpump": {
+      "symbol": "Riostor",
+      "qty": 688887.8569178844,
+      "entry_price": 7.185494634999845e-05,
+      "last_price": 6.973490630219477e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T06:11:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T05:12:31+00:00",
-      "side": "buy",
-      "symbol": "Naseem",
-      "address": "Dn7jn7dZqovCqL7VuJvSdrD7NoJGx8YXw6iLfm1gpump",
-      "price": 6.338737528210399e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T05:12:31+00:00",
-      "side": "buy",
-      "symbol": "WiN",
-      "address": "2W27h2PvRENoHz8KfU8yGLNf9c3tjckJZ9EDLebYpump",
-      "price": 1.4168888093614154e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T05:49:32+00:00",
       "side": "sell",
@@ -4519,13 +4503,27 @@
       "address": "5hPDV9MRGxPJMLZvtoWkNRkvC3ZDmD591fpcuEzcpump",
       "price": 8.227473259358733e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T06:11:59+00:00",
+      "side": "sell",
+      "symbol": "BBC",
+      "address": "6TyAxPBwQvf2L15bYGBHxwwfSjDnqnna5VwJQFaKpump",
+      "price": 7.691360595e-06,
+      "proceeds": 45.41,
+      "pnl_usd": -4.59,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T06:11:59+00:00",
+      "side": "buy",
+      "symbol": "Riostor",
+      "address": "6HhMLur43AXKtPaymM8PHmHdr1kSFNJLETGzktNXpump",
+      "price": 7.185494634999845e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-04T11:04:29+00:00",
-      "equity": 236207.9
-    },
     {
       "date": "2026-10-04T17:59:17+00:00",
       "equity": 236203.79
@@ -8521,6 +8519,10 @@
     {
       "date": "2026-10-24T05:45:08+00:00",
       "equity": 5882078.87
+    },
+    {
+      "date": "2026-10-24T06:11:59+00:00",
+      "equity": 5882078.89
     }
   ]
 }
