@@ -1,52 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5881630.785019616,
+  "cash": 5881487.168943956,
   "positions": {
-    "CxbASYC838ZofNDtjgocZ24k63LjU4xDd6vdBDNSpump": {
-      "symbol": "a",
-      "qty": 40193172.02537936,
-      "entry_price": 1.231552462909471e-06,
-      "last_price": 1.1882832976130712e-06,
+    "6WSN2qCCkzvgLajwYKWjwNRji3pdZ4h9RZcgQQhSpump": {
+      "symbol": "FI",
+      "qty": 1592572.5687378917,
+      "entry_price": 3.108178614380416e-05,
+      "last_price": 2.9998981527591524e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-24T16:02:05+00:00",
+      "entry_time": "2026-10-24T16:33:20+00:00",
+      "missing": 0
+    },
+    "AGo8x9oLjCowTDb8kP3mKGFZKtzPNrmNB2gY3RZBpump": {
+      "symbol": "LMAO",
+      "qty": 2625405.579547552,
+      "entry_price": 1.8854229756200396e-05,
+      "last_price": 1.823628064980535e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T16:33:20+00:00",
+      "missing": 0
+    },
+    "BjMM3MKUHdJDqAHEzKSRAg1Kf3M2vL2UMBCVvPCApump": {
+      "symbol": "up",
+      "qty": 462019.91014653083,
+      "entry_price": 0.00010713823996091628,
+      "last_price": 0.00010394758959883266,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T16:33:20+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T12:16:39+00:00",
-      "side": "buy",
-      "symbol": "DACITY",
-      "address": "8fzCqyujdPqURi5g76a8FRpZM51KZ2wDe8gC59ySpump",
-      "price": 0.00038269451576800425,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T12:16:39+00:00",
-      "side": "buy",
-      "symbol": "MNY",
-      "address": "EQEgAAPJXJ5mzECJs8PbtLXXY1CY2RCmMiDWzumJpump",
-      "price": 1.257061340266732e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T12:16:39+00:00",
-      "side": "buy",
-      "symbol": "GucioKrup",
-      "address": "95poUrPx49k4TUZy52XKhHwsgqiyRxkkdM2cT9cTpump",
-      "price": 2.925539697776982e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T13:10:56+00:00",
-      "side": "sell",
-      "symbol": "LEONIDA",
-      "address": "GnBETonXRuMcM1C82zami7tRb3VGqnrHkhAhrwnspump",
-      "price": 8.879585562e-06,
-      "proceeds": 45.51,
-      "pnl_usd": -4.49,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-21T13:10:56+00:00",
       "side": "sell",
@@ -4514,13 +4498,43 @@
       "address": "CxbASYC838ZofNDtjgocZ24k63LjU4xDd6vdBDNSpump",
       "price": 1.231552462909471e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T16:33:19+00:00",
+      "side": "sell",
+      "symbol": "a",
+      "address": "CxbASYC838ZofNDtjgocZ24k63LjU4xDd6vdBDNSpump",
+      "price": 1.706441652e-07,
+      "proceeds": 6.38,
+      "pnl_usd": -43.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T16:33:20+00:00",
+      "side": "buy",
+      "symbol": "FI",
+      "address": "6WSN2qCCkzvgLajwYKWjwNRji3pdZ4h9RZcgQQhSpump",
+      "price": 3.108178614380416e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T16:33:20+00:00",
+      "side": "buy",
+      "symbol": "LMAO",
+      "address": "AGo8x9oLjCowTDb8kP3mKGFZKtzPNrmNB2gY3RZBpump",
+      "price": 1.8854229756200396e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T16:33:20+00:00",
+      "side": "buy",
+      "symbol": "up",
+      "address": "BjMM3MKUHdJDqAHEzKSRAg1Kf3M2vL2UMBCVvPCApump",
+      "price": 0.00010713823996091628,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T03:43:16+00:00",
-      "equity": 314661.0
-    },
     {
       "date": "2026-10-05T04:04:15+00:00",
       "equity": 314659.05
@@ -8516,6 +8530,10 @@
     {
       "date": "2026-10-24T16:02:05+00:00",
       "equity": 5881678.55
+    },
+    {
+      "date": "2026-10-24T16:33:20+00:00",
+      "equity": 5881630.85
     }
   ]
 }
