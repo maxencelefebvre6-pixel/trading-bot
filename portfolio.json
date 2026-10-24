@@ -1,48 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5881187.4113614075,
+  "cash": 5881229.025110842,
   "positions": {
-    "GwxwWfzA16deFMKgcyozDAxwdMDnmjH8eQU7LJXCpump": {
-      "symbol": "EMOG",
-      "qty": 5367527.50036525,
-      "entry_price": 9.222123220911606e-06,
-      "last_price": 8.890381249e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T18:32:03+00:00",
-      "missing": 0
-    },
-    "5miJJe2tBBBBtV7YKAwRvgvHRnxxQxKPKEhNkpBxpump": {
-      "symbol": "gold",
-      "qty": 5883867.726792079,
-      "entry_price": 8.412833581319766e-06,
-      "last_price": 8.106064459e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T18:32:03+00:00",
-      "missing": 0
-    },
-    "3teeprs5ytYdMeJUqFnrnhAJqJBegNujXRSDRR7cpump": {
-      "symbol": "Gary",
-      "qty": 7679134.4647825565,
-      "entry_price": 6.4460389679348645e-06,
-      "last_price": 6.224284537862918e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T19:06:07+00:00",
-      "missing": 0
-    },
-    "5pFn8fZvZNtdYZBUGDshZJSjoUq7VPHAS6JPHRCYpump": {
-      "symbol": "MIAYO",
-      "qty": 22817019.8616135,
-      "entry_price": 2.169433181906325e-06,
-      "last_price": 2.0976264265829204e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T19:06:07+00:00",
-      "missing": 0
-    },
     "4z7aXJa7vVax1MEydViMVpZqP5hZ9ooDVom85EaDpump": {
       "symbol": "PUPPYFLOW",
       "qty": 5540260.9975960795,
       "entry_price": 8.934597128452624e-06,
-      "last_price": 8.612922354718268e-06,
+      "last_price": 8.612922355e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T19:06:07+00:00",
       "missing": 0
@@ -51,57 +15,22 @@
       "symbol": "PUPPYFLOW",
       "qty": 5230292.765289618,
       "entry_price": 9.464097369176433e-06,
-      "last_price": 9.125673911321133e-06,
+      "last_price": 9.125673911e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T19:06:07+00:00",
+      "missing": 0
+    },
+    "9aZJeiXGPhJwcGpvcVRRyEtJ3a1zWyZNNgndiXzUpump": {
+      "symbol": "MotoCrose",
+      "qty": 4451817.80144069,
+      "entry_price": 1.1119053431158144e-05,
+      "last_price": 1.0732789998082676e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T19:33:53+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T17:30:57+00:00",
-      "side": "sell",
-      "symbol": "✋",
-      "address": "Hhp2LXBDP77ds3gkQCpLM2YndSkGEaTWwwLNgB3Upump",
-      "price": 9.645313072e-06,
-      "proceeds": 13.28,
-      "pnl_usd": -36.72,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T17:30:57+00:00",
-      "side": "sell",
-      "symbol": "pumpzz",
-      "address": "C7oGiWtZGZTuqhFsNgzTJZxU8kwYxdo9UZ2ji1ZNpump",
-      "price": 5.431223778e-06,
-      "proceeds": 31.04,
-      "pnl_usd": -18.96,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T17:30:57+00:00",
-      "side": "buy",
-      "symbol": "MrBeast",
-      "address": "CnBntmvyzW8zV2gYnjmjnCCTWkft5vAUMtwitzK9pump",
-      "price": 0.00041022824673593654,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T17:30:57+00:00",
-      "side": "buy",
-      "symbol": "TESLA SI",
-      "address": "CKPa1s4LRraAtxSLdbEDEzQvCBdjcaY1qdeUAc6Apump",
-      "price": 0.0004454143202543148,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T17:30:57+00:00",
-      "side": "buy",
-      "symbol": "Darkwoods",
-      "address": "Azi7XWpBcyvHCqu6CDaUVTmmEnKzDXXFSTxyM5iUpump",
-      "price": 1.9147188339162843e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T18:05:13+00:00",
       "side": "sell",
@@ -4553,13 +4482,57 @@
       "address": "5PQ316LQamj9sTmRYkuJF4bzHrBKNMmdVP4FG2DNpump",
       "price": 9.464097369176433e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T19:33:53+00:00",
+      "side": "sell",
+      "symbol": "EMOG",
+      "address": "GwxwWfzA16deFMKgcyozDAxwdMDnmjH8eQU7LJXCpump",
+      "price": 8.890381249e-06,
+      "proceeds": 45.5,
+      "pnl_usd": -4.5,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T19:33:53+00:00",
+      "side": "sell",
+      "symbol": "gold",
+      "address": "5miJJe2tBBBBtV7YKAwRvgvHRnxxQxKPKEhNkpBxpump",
+      "price": 8.106064459e-06,
+      "proceeds": 45.45,
+      "pnl_usd": -4.55,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T19:33:53+00:00",
+      "side": "sell",
+      "symbol": "Gary",
+      "address": "3teeprs5ytYdMeJUqFnrnhAJqJBegNujXRSDRR7cpump",
+      "price": 8.977793238e-08,
+      "proceeds": 0.66,
+      "pnl_usd": -49.34,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T19:33:53+00:00",
+      "side": "sell",
+      "symbol": "MIAYO",
+      "address": "5pFn8fZvZNtdYZBUGDshZJSjoUq7VPHAS6JPHRCYpump",
+      "price": 6.878710302e-10,
+      "proceeds": 0.01,
+      "pnl_usd": -49.99,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T19:33:53+00:00",
+      "side": "buy",
+      "symbol": "MotoCrose",
+      "address": "9aZJeiXGPhJwcGpvcVRRyEtJ3a1zWyZNNgndiXzUpump",
+      "price": 1.1119053431158144e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T06:23:36+00:00",
-      "equity": 552336.69
-    },
     {
       "date": "2026-10-05T06:54:10+00:00",
       "equity": 552218.92
@@ -8555,6 +8528,10 @@
     {
       "date": "2026-10-24T19:06:07+00:00",
       "equity": 5881473.93
+    },
+    {
+      "date": "2026-10-24T19:33:53+00:00",
+      "equity": 5881372.25
     }
   ]
 }
