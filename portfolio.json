@@ -1,88 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5882084.941183646,
+  "cash": 5882038.587288077,
   "positions": {
-    "1btC9yCTw1EEjm57hJpDAmm9DsxXZwq4EyhfEe7pump": {
-      "symbol": "NODF",
-      "qty": 337.10812601053624,
-      "entry_price": 0.14683716048557338,
-      "last_price": 0.1581230317,
+    "3a9gC4bHNFRzoUvFWqwafKufNhTPqvyu8YUrrxtzpump": {
+      "symbol": "WOBBO",
+      "qty": 1437882.8667739925,
+      "entry_price": 3.4425613618345205e-05,
+      "last_price": 3.323440395564474e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-24T01:11:52+00:00",
+      "entry_time": "2026-10-24T02:21:37+00:00",
       "missing": 0
     },
-    "8HswqjSxGR9gK62Eb5gxGudc4oFngNhytxbpJn4spump": {
-      "symbol": "LOPE",
-      "qty": 6061796.879730127,
-      "entry_price": 8.165895522748654e-06,
-      "last_price": 7.870741910668736e-06,
+    "BXJwxDVKEyXZMsXDxxTkRa5DodbYJmcSGmwhcwuGpump": {
+      "symbol": "milo",
+      "qty": 1049005.6598491233,
+      "entry_price": 4.718754330374109e-05,
+      "last_price": 4.5749236880563835e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-24T01:53:17+00:00",
+      "entry_time": "2026-10-24T02:21:37+00:00",
       "missing": 0
     },
-    "AorAyRoTCvAa1fMNuUw4zcxGRNtyFNZxdumuVuSapump": {
-      "symbol": "HELIUM",
-      "qty": 7200034.350614732,
-      "entry_price": 6.874967200090335e-06,
-      "last_price": 6.611373616335016e-06,
+    "H3YrC3gzE8yGp7uUjysb5yA3ZDT9Py3pAFhZigyApump": {
+      "symbol": "Tweet",
+      "qty": 5347673.295926317,
+      "entry_price": 9.25636202153701e-06,
+      "last_price": 8.925223345967097e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T01:53:17+00:00",
+      "entry_time": "2026-10-24T02:21:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-20T23:50:26+00:00",
-      "side": "buy",
-      "symbol": "FOMOCAT",
-      "address": "Cqcb5Mmx2Z1ZDnNJDNvapMRmjPUegemDe7LD1wB1pump",
-      "price": 7.922435124463546e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T00:15:10+00:00",
-      "side": "sell",
-      "symbol": "celebrity",
-      "address": "42w87Mr7a79MjVEe46bRJeTgKG29WqcbewmTv9T8pump",
-      "price": 3.241983656e-06,
-      "proceeds": 10.92,
-      "pnl_usd": -39.08,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T00:15:10+00:00",
-      "side": "sell",
-      "symbol": "AOTROJAN",
-      "address": "4NwR5ZdzW9yqGEtfycwyAEthaxKsDbNopqwo2Ybppump",
-      "price": 0.00275546541,
-      "proceeds": 0.49,
-      "pnl_usd": -49.51,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T00:15:10+00:00",
-      "side": "buy",
-      "symbol": "YOF",
-      "address": "C5m5ESNTKZidBvVxK9Pw23U299shUnYM3ciPXQNMpump",
-      "price": 2.0655718144846797e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T00:15:10+00:00",
-      "side": "buy",
-      "symbol": "Speed",
-      "address": "2eCGWjo3SrqKwi9afXShhKTbkqAfentAAqMF7h3apump",
-      "price": 0.0004026607881179426,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T00:15:10+00:00",
-      "side": "buy",
-      "symbol": "SCAM",
-      "address": "HERGUPACryphrwUfibXubFEr8SNu8ZKk2rLwqJxHpump",
-      "price": 2.0251534767883843e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T01:05:58+00:00",
       "side": "sell",
@@ -4532,6 +4480,60 @@
       "address": "AorAyRoTCvAa1fMNuUw4zcxGRNtyFNZxdumuVuSapump",
       "price": 6.874967200090335e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T02:21:37+00:00",
+      "side": "sell",
+      "symbol": "NODF",
+      "address": "1btC9yCTw1EEjm57hJpDAmm9DsxXZwq4EyhfEe7pump",
+      "price": 0.1589759524,
+      "proceeds": 51.46,
+      "pnl_usd": 1.46,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T02:21:37+00:00",
+      "side": "sell",
+      "symbol": "LOPE",
+      "address": "8HswqjSxGR9gK62Eb5gxGudc4oFngNhytxbpJn4spump",
+      "price": 2.9558619e-06,
+      "proceeds": 17.07,
+      "pnl_usd": -32.93,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T02:21:37+00:00",
+      "side": "sell",
+      "symbol": "HELIUM",
+      "address": "AorAyRoTCvAa1fMNuUw4zcxGRNtyFNZxdumuVuSapump",
+      "price": 5.152636392e-06,
+      "proceeds": 35.12,
+      "pnl_usd": -14.88,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T02:21:37+00:00",
+      "side": "buy",
+      "symbol": "WOBBO",
+      "address": "3a9gC4bHNFRzoUvFWqwafKufNhTPqvyu8YUrrxtzpump",
+      "price": 3.4425613618345205e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T02:21:37+00:00",
+      "side": "buy",
+      "symbol": "milo",
+      "address": "BXJwxDVKEyXZMsXDxxTkRa5DodbYJmcSGmwhcwuGpump",
+      "price": 4.718754330374109e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T02:21:37+00:00",
+      "side": "buy",
+      "symbol": "Tweet",
+      "address": "H3YrC3gzE8yGp7uUjysb5yA3ZDT9Py3pAFhZigyApump",
+      "price": 9.25636202153701e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
@@ -8522,6 +8524,10 @@
     {
       "date": "2026-10-24T01:53:17+00:00",
       "equity": 5882233.56
+    },
+    {
+      "date": "2026-10-24T02:21:37+00:00",
+      "equity": 5882182.09
     }
   ]
 }
