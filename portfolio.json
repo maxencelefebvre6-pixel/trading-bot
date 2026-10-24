@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5881581.297020553,
+  "cash": 5881630.785019616,
   "positions": {
-    "9m3uhaHJSsGrDG6uew7NwsF9t5N3pUtteFmb1Wxgpump": {
-      "symbol": "MotoCrose",
-      "qty": 5268378.513979719,
-      "entry_price": 9.395680258859729e-06,
-      "last_price": 9.060373162e-06,
+    "CxbASYC838ZofNDtjgocZ24k63LjU4xDd6vdBDNSpump": {
+      "symbol": "a",
+      "qty": 40193172.02537936,
+      "entry_price": 1.231552462909471e-06,
+      "last_price": 1.1882832976130712e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-24T15:01:03+00:00",
-      "missing": 0
-    },
-    "xEcWRgL2XFpE3uJGgFMZsendYoUW8vYQXh7XTgSpump": {
-      "symbol": "GRASSPEPE",
-      "qty": 5944925.995555651,
-      "entry_price": 8.326428291454856e-06,
-      "last_price": 8.032522603e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T15:01:03+00:00",
-      "missing": 0
-    },
-    "13Mknv4zuXSco5kABrg3ZauQHCYHSKKgqMtiTcVnpump": {
-      "symbol": "KnightDog",
-      "qty": 4708223.778704878,
-      "entry_price": 1.0513518967362313e-05,
-      "last_price": 1.0117145701141946e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T15:31:10+00:00",
+      "entry_time": "2026-10-24T16:02:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T11:44:54+00:00",
-      "side": "buy",
-      "symbol": "s",
-      "address": "5drmrPyfZ5gw1JRbuJGx6vavw1G4PPmYToqbcj7xpump",
-      "price": 9.05353920489186e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T11:44:54+00:00",
-      "side": "buy",
-      "symbol": "SOOTS",
-      "address": "9GsdkMpQkKuJhwriGEYSGh8hxPVVwkEBCJuwdDYspump",
-      "price": 7.40491073560466e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T12:16:39+00:00",
-      "side": "sell",
-      "symbol": "Kimchi",
-      "address": "E3Wk7QpFy9EgFwZpy9Pg4VUSLfBVi7sQkUURaZDRpump",
-      "price": 9.042379248e-05,
-      "proceeds": 25.76,
-      "pnl_usd": -24.24,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T12:16:39+00:00",
-      "side": "sell",
-      "symbol": "GAME",
-      "address": "95CGiNb3EVXYNApDqkqVbdMpkCxYm9rEtjADVQ6Cpump",
-      "price": 3.051206098e-06,
-      "proceeds": 14.68,
-      "pnl_usd": -35.32,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-21T12:16:39+00:00",
       "side": "buy",
@@ -4530,13 +4476,47 @@
       "address": "13Mknv4zuXSco5kABrg3ZauQHCYHSKKgqMtiTcVnpump",
       "price": 1.0513518967362313e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T16:02:05+00:00",
+      "side": "sell",
+      "symbol": "MotoCrose",
+      "address": "9m3uhaHJSsGrDG6uew7NwsF9t5N3pUtteFmb1Wxgpump",
+      "price": 9.060373162e-06,
+      "proceeds": 45.52,
+      "pnl_usd": -4.48,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T16:02:05+00:00",
+      "side": "sell",
+      "symbol": "GRASSPEPE",
+      "address": "xEcWRgL2XFpE3uJGgFMZsendYoUW8vYQXh7XTgSpump",
+      "price": 8.032522603e-06,
+      "proceeds": 45.46,
+      "pnl_usd": -4.54,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T16:02:05+00:00",
+      "side": "sell",
+      "symbol": "KnightDog",
+      "address": "13Mknv4zuXSco5kABrg3ZauQHCYHSKKgqMtiTcVnpump",
+      "price": 1.921393296e-06,
+      "proceeds": 8.51,
+      "pnl_usd": -41.49,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T16:02:05+00:00",
+      "side": "buy",
+      "symbol": "a",
+      "address": "CxbASYC838ZofNDtjgocZ24k63LjU4xDd6vdBDNSpump",
+      "price": 1.231552462909471e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T02:56:28+00:00",
-      "equity": 314665.33
-    },
     {
       "date": "2026-10-05T03:43:16+00:00",
       "equity": 314661.0
@@ -8532,6 +8512,10 @@
     {
       "date": "2026-10-24T15:31:10+00:00",
       "equity": 5881724.42
+    },
+    {
+      "date": "2026-10-24T16:02:05+00:00",
+      "equity": 5881678.55
     }
   ]
 }
