@@ -1,34 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5880836.22805598,
+  "cash": 5880935.891127133,
   "positions": {
-    "EnpBZh9YrWAF5sZERarctPixqh1aF9Jh81WurzVPpump": {
-      "symbol": "MUSCK",
-      "qty": 16447451.818497717,
-      "entry_price": 3.0095847397059738e-06,
-      "last_price": 2.858298119e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T21:24:27+00:00",
-      "missing": 0
-    },
-    "4EaVNAmHephtd6bY2wU5kEGzPXv3KWnNfoDxHKfBpump": {
-      "symbol": "$KMALONE",
-      "qty": 5831858.55545971,
-      "entry_price": 8.48786017858042e-06,
-      "last_price": 8.179096063e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T21:24:27+00:00",
-      "missing": 0
-    },
-    "HtFHBp2ZxwkyH297SBttaNMRkVqt4nW1iUM34BDNpump": {
-      "symbol": "WILDWOOD",
-      "qty": 1111882.184647974,
-      "entry_price": 4.4519105246453674e-05,
-      "last_price": 4.433481576e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T21:54:40+00:00",
-      "missing": 0
-    },
     "6hF98me3HHxqMLahyM1SRTdWGaPfKpABDuGEBxxkpump": {
       "symbol": "JOIAI",
       "qty": 5276057.016907929,
@@ -40,30 +13,6 @@
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T22:11:55+00:00",
-      "side": "buy",
-      "symbol": "FIL-PHP",
-      "address": "3PxnEkomSAmKLypFncb4Zkrz3oH1MPpjaLxXmFMMpump",
-      "price": 3.334075070951111e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T22:11:55+00:00",
-      "side": "buy",
-      "symbol": "Americinu",
-      "address": "8ctEhkaBHYEMYG6aWEC6BbW83y6HvHSqabJHoh3Zpump",
-      "price": 8.196914344594924e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T22:11:55+00:00",
-      "side": "buy",
-      "symbol": "AIB",
-      "address": "H8BHkfnQxPWKrrJR4tYinzEyBQmNG9Hs9kwqLkz5pump",
-      "price": 9.771448973003263e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T22:48:38+00:00",
       "side": "sell",
@@ -4535,13 +4484,39 @@
       "proceeds": 2.23,
       "pnl_usd": -47.77,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-24T22:49:23+00:00",
+      "side": "sell",
+      "symbol": "MUSCK",
+      "address": "EnpBZh9YrWAF5sZERarctPixqh1aF9Jh81WurzVPpump",
+      "price": 2.858298119e-06,
+      "proceeds": 44.18,
+      "pnl_usd": -5.82,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T22:49:23+00:00",
+      "side": "sell",
+      "symbol": "$KMALONE",
+      "address": "4EaVNAmHephtd6bY2wU5kEGzPXv3KWnNfoDxHKfBpump",
+      "price": 8.179096063e-06,
+      "proceeds": 45.46,
+      "pnl_usd": -4.54,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T22:49:23+00:00",
+      "side": "sell",
+      "symbol": "WILDWOOD",
+      "address": "HtFHBp2ZxwkyH297SBttaNMRkVqt4nW1iUM34BDNpump",
+      "price": 9.418253089e-06,
+      "proceeds": 10.03,
+      "pnl_usd": -39.97,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T09:07:17+00:00",
-      "equity": 552450.9
-    },
     {
       "date": "2026-10-05T09:33:34+00:00",
       "equity": 552415.76
@@ -8537,6 +8512,10 @@
     {
       "date": "2026-10-24T22:20:27+00:00",
       "equity": 5881027.97
+    },
+    {
+      "date": "2026-10-24T22:49:23+00:00",
+      "equity": 5880983.62
     }
   ]
 }
