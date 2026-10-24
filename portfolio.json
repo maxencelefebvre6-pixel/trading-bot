@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5880833.994753187,
+  "cash": 5880836.22805598,
   "positions": {
     "EnpBZh9YrWAF5sZERarctPixqh1aF9Jh81WurzVPpump": {
       "symbol": "MUSCK",
@@ -20,20 +20,11 @@
       "entry_time": "2026-10-24T21:24:27+00:00",
       "missing": 0
     },
-    "74HTvZ5vYS9MSpfHc84c7W6v5nMTUXdTToXj4LP1pump": {
-      "symbol": "Bear",
-      "qty": 1048915.1015059198,
-      "entry_price": 4.719161725189503e-05,
-      "last_price": 4.5676465913597173e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T21:54:40+00:00",
-      "missing": 0
-    },
     "HtFHBp2ZxwkyH297SBttaNMRkVqt4nW1iUM34BDNpump": {
       "symbol": "WILDWOOD",
       "qty": 1111882.184647974,
       "entry_price": 4.4519105246453674e-05,
-      "last_price": 4.308458982255102e-05,
+      "last_price": 4.433481576e-05,
       "cost": 50.0,
       "entry_time": "2026-10-24T21:54:40+00:00",
       "missing": 0
@@ -42,23 +33,13 @@
       "symbol": "JOIAI",
       "qty": 5276057.016907929,
       "entry_price": 9.382006267439813e-06,
-      "last_price": 9.046682852565204e-06,
+      "last_price": 9.046682853e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T21:54:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T22:11:55+00:00",
-      "side": "sell",
-      "symbol": "BARRON",
-      "address": "DFNRpTZFzgLZxJNnoj3czyMUokj13Mpzx4yCjQKpump",
-      "price": 2.053695164e-06,
-      "proceeds": 0.23,
-      "pnl_usd": -49.77,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-21T22:11:55+00:00",
       "side": "buy",
@@ -4544,13 +4525,19 @@
       "address": "6hF98me3HHxqMLahyM1SRTdWGaPfKpABDuGEBxxkpump",
       "price": 9.382006267439813e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T22:20:27+00:00",
+      "side": "sell",
+      "symbol": "Bear",
+      "address": "74HTvZ5vYS9MSpfHc84c7W6v5nMTUXdTToXj4LP1pump",
+      "price": 2.222854676e-06,
+      "proceeds": 2.23,
+      "pnl_usd": -47.77,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T08:49:51+00:00",
-      "equity": 552478.34
-    },
     {
       "date": "2026-10-05T09:07:17+00:00",
       "equity": 552450.9
@@ -8546,6 +8533,10 @@
     {
       "date": "2026-10-24T21:54:40+00:00",
       "equity": 5881072.25
+    },
+    {
+      "date": "2026-10-24T22:20:27+00:00",
+      "equity": 5881027.97
     }
   ]
 }
