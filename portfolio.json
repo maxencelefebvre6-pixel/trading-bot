@@ -1,39 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5881525.036323635,
+  "cash": 5881581.297020553,
   "positions": {
-    "nfjeVpibEFuq4nH5kn5vFgbUXfS1yrNXig11yrzpump": {
-      "symbol": "Macchiato",
-      "qty": 10755598.21168396,
-      "entry_price": 4.602254474904747e-06,
-      "last_price": 4.569419468e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T14:30:36+00:00",
-      "missing": 0
-    },
-    "D3S2gH9iGvpBEFXjy7rgxbkpsEs1S1P2e6Mg92efpump": {
-      "symbol": "Google",
-      "qty": 5381616.4007977275,
-      "entry_price": 9.197979995873084e-06,
-      "last_price": 8.8814835e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T14:30:36+00:00",
-      "missing": 0
-    },
-    "CEV537MfYSgQv8LCqNGqAgZVCAAMjwwyUTbGEHUYpump": {
-      "symbol": "CATANA",
-      "qty": 5033989.880416309,
-      "entry_price": 9.833154451217602e-06,
-      "last_price": 9.464434729421648e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T15:01:03+00:00",
-      "missing": 0
-    },
     "9m3uhaHJSsGrDG6uew7NwsF9t5N3pUtteFmb1Wxgpump": {
       "symbol": "MotoCrose",
       "qty": 5268378.513979719,
       "entry_price": 9.395680258859729e-06,
-      "last_price": 9.060373161730497e-06,
+      "last_price": 9.060373162e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T15:01:03+00:00",
       "missing": 0
@@ -42,47 +15,22 @@
       "symbol": "GRASSPEPE",
       "qty": 5944925.995555651,
       "entry_price": 8.326428291454856e-06,
-      "last_price": 8.032522603365036e-06,
+      "last_price": 8.032522603e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T15:01:03+00:00",
+      "missing": 0
+    },
+    "13Mknv4zuXSco5kABrg3ZauQHCYHSKKgqMtiTcVnpump": {
+      "symbol": "KnightDog",
+      "qty": 4708223.778704878,
+      "entry_price": 1.0513518967362313e-05,
+      "last_price": 1.0117145701141946e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T15:31:10+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T11:44:54+00:00",
-      "side": "sell",
-      "symbol": "MrBeast",
-      "address": "6QuY1RdbemGvwvkP1BWrCtUz6LKcDesJqaCazfGppump",
-      "price": 1.889873913e-06,
-      "proceeds": 0.2,
-      "pnl_usd": -49.8,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T11:44:54+00:00",
-      "side": "buy",
-      "symbol": "Kimchi",
-      "address": "E3Wk7QpFy9EgFwZpy9Pg4VUSLfBVi7sQkUURaZDRpump",
-      "price": 8.600045507907875e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T11:44:54+00:00",
-      "side": "buy",
-      "symbol": "GAME",
-      "address": "95CGiNb3EVXYNApDqkqVbdMpkCxYm9rEtjADVQ6Cpump",
-      "price": 9.81405461389037e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T11:44:54+00:00",
-      "side": "buy",
-      "symbol": "LEONIDA",
-      "address": "GnBETonXRuMcM1C82zami7tRb3VGqnrHkhAhrwnspump",
-      "price": 9.20991669293117e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T11:44:54+00:00",
       "side": "buy",
@@ -4544,13 +4492,47 @@
       "address": "xEcWRgL2XFpE3uJGgFMZsendYoUW8vYQXh7XTgSpump",
       "price": 8.326428291454856e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T15:31:10+00:00",
+      "side": "sell",
+      "symbol": "Macchiato",
+      "address": "nfjeVpibEFuq4nH5kn5vFgbUXfS1yrNXig11yrzpump",
+      "price": 4.569419468e-06,
+      "proceeds": 46.27,
+      "pnl_usd": -3.73,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T15:31:10+00:00",
+      "side": "sell",
+      "symbol": "Google",
+      "address": "D3S2gH9iGvpBEFXjy7rgxbkpsEs1S1P2e6Mg92efpump",
+      "price": 8.8814835e-06,
+      "proceeds": 45.58,
+      "pnl_usd": -4.42,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T15:31:10+00:00",
+      "side": "sell",
+      "symbol": "CATANA",
+      "address": "CEV537MfYSgQv8LCqNGqAgZVCAAMjwwyUTbGEHUYpump",
+      "price": 3.00178413e-06,
+      "proceeds": 14.41,
+      "pnl_usd": -35.59,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T15:31:10+00:00",
+      "side": "buy",
+      "symbol": "KnightDog",
+      "address": "13Mknv4zuXSco5kABrg3ZauQHCYHSKKgqMtiTcVnpump",
+      "price": 1.0513518967362313e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T02:37:44+00:00",
-      "equity": 314741.88
-    },
     {
       "date": "2026-10-05T02:56:28+00:00",
       "equity": 314665.33
@@ -8546,6 +8528,10 @@
     {
       "date": "2026-10-24T15:01:03+00:00",
       "equity": 5881765.11
+    },
+    {
+      "date": "2026-10-24T15:31:10+00:00",
+      "equity": 5881724.42
     }
   ]
 }
