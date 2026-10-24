@@ -1,43 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5880881.408240436,
-  "positions": {
-    "4MSF35Y2wzD76Mtsz7obHEC6SnqMhn61hJzTkkgHpump": {
-      "symbol": "LLMWIKI",
-      "qty": 5420186.331589675,
-      "entry_price": 9.132527365619598e-06,
-      "last_price": 8.785784324529103e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T23:10:24+00:00",
-      "missing": 0
-    },
-    "DU3mCbgEy968nVBZML7FhbSHWXduFdZuso6Lgi6Jpump": {
-      "symbol": "Hou",
-      "qty": 3330216.749277989,
-      "entry_price": 1.4863897375668386e-05,
-      "last_price": 1.4326811113545878e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T23:10:24+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5880931.593825535,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-21T22:48:38+00:00",
-      "side": "buy",
-      "symbol": "CYBER",
-      "address": "FRpQVJSpmNV84vbRS9PY16KgDotkPTXN9aFpXsRzpump",
-      "price": 8.587041198048453e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T22:48:38+00:00",
-      "side": "buy",
-      "symbol": "XCOIN",
-      "address": "8eRWpNme7R3qgsJJfpqkryptd1VYtmvbyytyX7VZpump",
-      "price": 3.383202429233445e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T22:48:38+00:00",
       "side": "buy",
@@ -4519,13 +4484,29 @@
       "address": "DU3mCbgEy968nVBZML7FhbSHWXduFdZuso6Lgi6Jpump",
       "price": 1.4863897375668386e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T23:38:49+00:00",
+      "side": "sell",
+      "symbol": "LLMWIKI",
+      "address": "4MSF35Y2wzD76Mtsz7obHEC6SnqMhn61hJzTkkgHpump",
+      "price": 7.94519832e-06,
+      "proceeds": 40.72,
+      "pnl_usd": -9.28,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T23:38:49+00:00",
+      "side": "sell",
+      "symbol": "Hou",
+      "address": "DU3mCbgEy968nVBZML7FhbSHWXduFdZuso6Lgi6Jpump",
+      "price": 2.972475943e-06,
+      "proceeds": 9.46,
+      "pnl_usd": -40.54,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T09:54:05+00:00",
-      "equity": 552358.82
-    },
     {
       "date": "2026-10-05T10:15:55+00:00",
       "equity": 552470.24
@@ -8521,6 +8502,10 @@
     {
       "date": "2026-10-24T23:10:24+00:00",
       "equity": 5880976.74
+    },
+    {
+      "date": "2026-10-24T23:38:49+00:00",
+      "equity": 5880931.59
     }
   ]
 }
