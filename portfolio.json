@@ -1,50 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5881760.644496965,
+  "cash": 5881652.223114784,
   "positions": {
-    "BuYt9jsi37JCBuEEzEGXLjfMd9BGZCsWXAifLxewpump": {
-      "symbol": "Marmoset",
-      "qty": 15530758.371241463,
-      "entry_price": 3.1872236253227587e-06,
-      "last_price": 3.071236601522807e-06,
+    "7WA8RfoD8PGKZ11tPsfBpZ8kPTJ2CBwoaaF1ucVepump": {
+      "symbol": "wr.dog",
+      "qty": 3642692.8936336054,
+      "entry_price": 1.3588847988396706e-05,
+      "last_price": 1.3084617727318454e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-24T10:47:39+00:00",
+      "entry_time": "2026-10-24T11:12:10+00:00",
+      "missing": 0
+    },
+    "FWgYGHDtq7aXAQFjSM53XPKShkEJhYVLiGMHNPdZpump": {
+      "symbol": "$BWIZ",
+      "qty": 6875748.795896479,
+      "entry_price": 7.1992158918810606e-06,
+      "last_price": 6.923564225360744e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T11:12:10+00:00",
+      "missing": 0
+    },
+    "9gN4oz8SvaA7zkska9u5pTNReeFiyPzgNWSPCsddpump": {
+      "symbol": "LaMisery",
+      "qty": 6223995.706923255,
+      "entry_price": 7.953090318641887e-06,
+      "last_price": 7.659773023119288e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-24T11:12:10+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T08:38:01+00:00",
-      "side": "buy",
-      "symbol": "Naseem",
-      "address": "99zRLyU6AgirPpxabWtqCWiMhqbBkm78xQy9o8u4pump",
-      "price": 1.3460978686723322e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T08:38:01+00:00",
-      "side": "buy",
-      "symbol": "KSI",
-      "address": "5UprcWhr1uqPEjBuHGN2TSupr9vfGWpt3ygXC5Mnpump",
-      "price": 9.652546119441365e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T08:38:01+00:00",
-      "side": "buy",
-      "symbol": "Claude AI",
-      "address": "9zCtWZThGtJvRm1fPA3Qz6LnXdb5MveJMsCQyA3pump",
-      "price": 0.00034666431255042055,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T08:38:01+00:00",
-      "side": "buy",
-      "symbol": "$AURA",
-      "address": "sYpshzrvUvkFRo8QsY11DqvXLhHZXMY1f61B12hpump",
-      "price": 7.581969418116988e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T09:16:09+00:00",
       "side": "sell",
@@ -4514,13 +4500,43 @@
       "address": "BuYt9jsi37JCBuEEzEGXLjfMd9BGZCsWXAifLxewpump",
       "price": 3.1872236253227587e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T11:12:10+00:00",
+      "side": "sell",
+      "symbol": "Marmoset",
+      "address": "BuYt9jsi37JCBuEEzEGXLjfMd9BGZCsWXAifLxewpump",
+      "price": 2.845344026e-06,
+      "proceeds": 41.58,
+      "pnl_usd": -8.42,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-24T11:12:10+00:00",
+      "side": "buy",
+      "symbol": "wr.dog",
+      "address": "7WA8RfoD8PGKZ11tPsfBpZ8kPTJ2CBwoaaF1ucVepump",
+      "price": 1.3588847988396706e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T11:12:10+00:00",
+      "side": "buy",
+      "symbol": "$BWIZ",
+      "address": "FWgYGHDtq7aXAQFjSM53XPKShkEJhYVLiGMHNPdZpump",
+      "price": 7.1992158918810606e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T11:12:10+00:00",
+      "side": "buy",
+      "symbol": "LaMisery",
+      "address": "9gN4oz8SvaA7zkska9u5pTNReeFiyPzgNWSPCsddpump",
+      "price": 7.953090318641887e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-04T23:29:54+00:00",
-      "equity": 235941.42
-    },
     {
       "date": "2026-10-04T23:47:21+00:00",
       "equity": 235895.33
@@ -8516,6 +8532,10 @@
     {
       "date": "2026-10-24T10:47:39+00:00",
       "equity": 5881808.34
+    },
+    {
+      "date": "2026-10-24T11:12:10+00:00",
+      "equity": 5881795.17
     }
   ]
 }
