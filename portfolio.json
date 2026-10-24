@@ -1,56 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5881579.609580322,
+  "cash": 5881670.163413369,
   "positions": {
-    "FWgYGHDtq7aXAQFjSM53XPKShkEJhYVLiGMHNPdZpump": {
-      "symbol": "$BWIZ",
-      "qty": 6875748.795896479,
-      "entry_price": 7.1992158918810606e-06,
-      "last_price": 6.903784517e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T11:12:10+00:00",
-      "missing": 0
-    },
-    "9gN4oz8SvaA7zkska9u5pTNReeFiyPzgNWSPCsddpump": {
-      "symbol": "LaMisery",
-      "qty": 6223995.706923255,
-      "entry_price": 7.953090318641887e-06,
-      "last_price": 7.659773023e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-24T11:12:10+00:00",
-      "missing": 0
-    },
     "31VNSUS5oNfbrQPsiDwhakzVXeZ2Q8uU7wZMB1Wvpump": {
       "symbol": "8dollarclaim",
       "qty": 6862819.9019655315,
       "entry_price": 7.2127785235662465e-06,
-      "last_price": 6.94063384540032e-06,
+      "last_price": 6.922821266e-06,
       "cost": 50.0,
       "entry_time": "2026-10-24T12:11:52+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T09:16:09+00:00",
-      "side": "sell",
-      "symbol": "KSI",
-      "address": "5UprcWhr1uqPEjBuHGN2TSupr9vfGWpt3ygXC5Mnpump",
-      "price": 3.016569445e-06,
-      "proceeds": 14.76,
-      "pnl_usd": -35.24,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-21T09:16:09+00:00",
-      "side": "sell",
-      "symbol": "Claude AI",
-      "address": "9zCtWZThGtJvRm1fPA3Qz6LnXdb5MveJMsCQyA3pump",
-      "price": 0.0002991497408,
-      "proceeds": 40.94,
-      "pnl_usd": -9.06,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-21T09:16:09+00:00",
       "side": "buy",
@@ -4530,13 +4492,29 @@
       "address": "31VNSUS5oNfbrQPsiDwhakzVXeZ2Q8uU7wZMB1Wvpump",
       "price": 7.2127785235662465e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-24T12:56:55+00:00",
+      "side": "sell",
+      "symbol": "$BWIZ",
+      "address": "FWgYGHDtq7aXAQFjSM53XPKShkEJhYVLiGMHNPdZpump",
+      "price": 6.903784517e-06,
+      "proceeds": 45.15,
+      "pnl_usd": -4.85,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-24T12:56:55+00:00",
+      "side": "sell",
+      "symbol": "LaMisery",
+      "address": "9gN4oz8SvaA7zkska9u5pTNReeFiyPzgNWSPCsddpump",
+      "price": 7.659773023e-06,
+      "proceeds": 45.41,
+      "pnl_usd": -4.59,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T00:31:08+00:00",
-      "equity": 314862.62
-    },
     {
       "date": "2026-10-05T00:57:12+00:00",
       "equity": 314773.99
@@ -8532,6 +8510,10 @@
     {
       "date": "2026-10-24T12:11:52+00:00",
       "equity": 5881722.38
+    },
+    {
+      "date": "2026-10-24T12:56:55+00:00",
+      "equity": 5881717.67
     }
   ]
 }
