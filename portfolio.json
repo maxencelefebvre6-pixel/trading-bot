@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880931.593825535,
-  "positions": {},
+  "cash": 5880881.593825535,
+  "positions": {
+    "Ce39h753v1QvHgSH2iZ6U16SF7ZDCqSaKG7N1Dohpump": {
+      "symbol": "Clump",
+      "qty": 536577.4096485489,
+      "entry_price": 9.225136785468074e-05,
+      "last_price": 8.943989866498728e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T00:39:33+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-21T22:48:38+00:00",
-      "side": "buy",
-      "symbol": "ISAAC",
-      "address": "21qjavef4eWJNTGHVDr4Xw3T9eeXVxvUXuAq7D5Qpump",
-      "price": 1.8928158378863097e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-21T22:48:38+00:00",
       "side": "buy",
@@ -4504,13 +4506,17 @@
       "proceeds": 9.46,
       "pnl_usd": -40.54,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T00:39:33+00:00",
+      "side": "buy",
+      "symbol": "Clump",
+      "address": "Ce39h753v1QvHgSH2iZ6U16SF7ZDCqSaKG7N1Dohpump",
+      "price": 9.225136785468074e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T10:15:55+00:00",
-      "equity": 552470.24
-    },
     {
       "date": "2026-10-05T10:38:28+00:00",
       "equity": 552468.19
@@ -8506,6 +8512,10 @@
     {
       "date": "2026-10-24T23:38:49+00:00",
       "equity": 5880931.59
+    },
+    {
+      "date": "2026-10-25T00:39:33+00:00",
+      "equity": 5880929.59
     }
   ]
 }
