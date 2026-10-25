@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5881007.1758970525,
+  "cash": 5880948.31356354,
   "positions": {
-    "32HXjWFEPGt1UmHgnKgf64DBYaegkX5jFYsAfZdKpump": {
-      "symbol": "LMAO",
-      "qty": 5354077.778692029,
-      "entry_price": 9.245289673788148e-06,
-      "last_price": 8.896261471131568e-06,
+    "ANj79q9YCePjbZEGzDgpbgWoNR8hCPJ89QGpi61Dpump": {
+      "symbol": "SXSI",
+      "qty": 5707739.181324029,
+      "entry_price": 8.672435517370197e-06,
+      "last_price": 8.342271933591451e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-25T01:52:39+00:00",
+      "entry_time": "2026-10-25T02:22:37+00:00",
+      "missing": 0
+    },
+    "DQDu837TRSWdrdgAzXZtWQWmGtsbU4RMG7oPPKMqpump": {
+      "symbol": "cap",
+      "qty": 2744241.8743141335,
+      "entry_price": 1.803776863231908e-05,
+      "last_price": 1.7444320565328393e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T02:22:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T23:12:39+00:00",
-      "side": "sell",
-      "symbol": "XCOIN",
-      "address": "8eRWpNme7R3qgsJJfpqkryptd1VYtmvbyytyX7VZpump",
-      "price": 1.27080111e-05,
-      "proceeds": 9.2,
-      "pnl_usd": -40.8,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-21T23:12:39+00:00",
-      "side": "sell",
-      "symbol": "ISAAC",
-      "address": "21qjavef4eWJNTGHVDr4Xw3T9eeXVxvUXuAq7D5Qpump",
-      "price": 2.77481817e-05,
-      "proceeds": 66.85,
-      "pnl_usd": 16.85,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-21T23:12:39+00:00",
-      "side": "sell",
-      "symbol": "XTERMINAL",
-      "address": "CbEhmWfzCXfmo2hUncFJ3Ux1Bt6Xuudz45wHqmgSpump",
-      "price": 3.353854295e-06,
-      "proceeds": 12.42,
-      "pnl_usd": -37.58,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-21T23:12:40+00:00",
       "side": "buy",
@@ -4514,13 +4493,35 @@
       "address": "32HXjWFEPGt1UmHgnKgf64DBYaegkX5jFYsAfZdKpump",
       "price": 9.245289673788148e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T02:22:36+00:00",
+      "side": "sell",
+      "symbol": "LMAO",
+      "address": "32HXjWFEPGt1UmHgnKgf64DBYaegkX5jFYsAfZdKpump",
+      "price": 8.121258068e-06,
+      "proceeds": 41.14,
+      "pnl_usd": -8.86,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T02:22:37+00:00",
+      "side": "buy",
+      "symbol": "SXSI",
+      "address": "ANj79q9YCePjbZEGzDgpbgWoNR8hCPJ89QGpi61Dpump",
+      "price": 8.672435517370197e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T02:22:37+00:00",
+      "side": "buy",
+      "symbol": "cap",
+      "address": "DQDu837TRSWdrdgAzXZtWQWmGtsbU4RMG7oPPKMqpump",
+      "price": 1.803776863231908e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T11:20:49+00:00",
-      "equity": 552457.34
-    },
     {
       "date": "2026-10-05T11:43:21+00:00",
       "equity": 552711.19
@@ -8516,6 +8517,10 @@
     {
       "date": "2026-10-25T01:52:39+00:00",
       "equity": 5881054.81
+    },
+    {
+      "date": "2026-10-25T02:22:37+00:00",
+      "equity": 5881043.8
     }
   ]
 }
