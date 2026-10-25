@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880445.593058884,
+  "cash": 5880411.76397895,
   "positions": {
-    "HkaLcH443xv1Vncrsg5QnGfox1PiWHsG8U55bLiApump": {
-      "symbol": "Pasta",
-      "qty": 1120295.3348359708,
-      "entry_price": 4.4184777407153614e-05,
-      "last_price": 4.285568766e-05,
+    "Ajm8dcq7yqNPzVA4EBCuhMz1f9CC7Zd5s4kz6dcupump": {
+      "symbol": "PP",
+      "qty": 3567918.8646896337,
+      "entry_price": 1.3873633868158576e-05,
+      "last_price": 1.3409838175378091e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-25T07:10:33+00:00",
+      "entry_time": "2026-10-25T08:11:19+00:00",
       "missing": 0
     },
-    "4f8JQ9gXoyNnLfibNS31B6hRUazjTgc8kt9vR7VHpump": {
-      "symbol": "ARCH",
-      "qty": 7825185.103433487,
-      "entry_price": 6.325728956658251e-06,
-      "last_price": 6.09263475479885e-06,
+    "CQE6WpyFixZFzY2osHCCxPB7Eh7drJVZKTsK2Hmppump": {
+      "symbol": "PAPER",
+      "qty": 1844947.7150498028,
+      "entry_price": 2.683002862152318e-05,
+      "last_price": 2.6005939929771472e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-25T07:47:50+00:00",
+      "entry_time": "2026-10-25T08:11:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T06:17:10+00:00",
-      "side": "sell",
-      "symbol": "fomo",
-      "address": "Ho64cWfach3gsH5d3EvT2LYPZC1A546KTtV5uYPXpump",
-      "price": 0.0009192460462,
-      "proceeds": 109.5,
-      "pnl_usd": 59.5,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-22T06:17:10+00:00",
-      "side": "sell",
-      "symbol": "$BWIZ",
-      "address": "3CVEMMd1uvAjYCEMVXifYTzZLUzPRjbZo9FztMhDpump",
-      "price": 2.240780547e-05,
-      "proceeds": 139.13,
-      "pnl_usd": 89.13,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-22T06:17:10+00:00",
-      "side": "buy",
-      "symbol": "STENKS",
-      "address": "cTR1ApbZG6VyhwkWC4KvFr4hZzkjbLwQd2rjk15pump",
-      "price": 3.2567394030346086e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T06:17:10+00:00",
-      "side": "buy",
-      "symbol": "PairCity",
-      "address": "7ZcbE4g9q4PWwDT1KtG8Lq2K92EEQiZhcMTxUfM5pump",
-      "price": 8.949001899585886e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T07:13:44+00:00",
       "side": "sell",
@@ -4521,13 +4485,45 @@
       "address": "4f8JQ9gXoyNnLfibNS31B6hRUazjTgc8kt9vR7VHpump",
       "price": 6.325728956658251e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T08:11:18+00:00",
+      "side": "sell",
+      "symbol": "Pasta",
+      "address": "HkaLcH443xv1Vncrsg5QnGfox1PiWHsG8U55bLiApump",
+      "price": 4.285568766e-05,
+      "proceeds": 46.03,
+      "pnl_usd": -3.97,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T08:11:18+00:00",
+      "side": "sell",
+      "symbol": "ARCH",
+      "address": "4f8JQ9gXoyNnLfibNS31B6hRUazjTgc8kt9vR7VHpump",
+      "price": 2.709399005e-06,
+      "proceeds": 20.14,
+      "pnl_usd": -29.86,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T08:11:19+00:00",
+      "side": "buy",
+      "symbol": "PP",
+      "address": "Ajm8dcq7yqNPzVA4EBCuhMz1f9CC7Zd5s4kz6dcupump",
+      "price": 1.3873633868158576e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T08:11:19+00:00",
+      "side": "buy",
+      "symbol": "PAPER",
+      "address": "CQE6WpyFixZFzY2osHCCxPB7Eh7drJVZKTsK2Hmppump",
+      "price": 2.683002862152318e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T15:18:59+00:00",
-      "equity": 567541.11
-    },
     {
       "date": "2026-10-05T15:41:24+00:00",
       "equity": 567534.49
@@ -8523,6 +8519,10 @@
     {
       "date": "2026-10-25T07:47:50+00:00",
       "equity": 5880541.28
+    },
+    {
+      "date": "2026-10-25T08:11:19+00:00",
+      "equity": 5880507.59
     }
   ]
 }
