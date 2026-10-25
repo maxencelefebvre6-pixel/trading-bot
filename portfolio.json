@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879680.321438795,
+  "cash": 5879596.076667037,
   "positions": {
-    "GcnYhbxdVAZimnMrB4hrUUuq4LzdsaBiN9DGQLotpump": {
-      "symbol": "민수",
-      "qty": 5817781.5960284,
-      "entry_price": 8.508397777220093e-06,
-      "last_price": 8.187679781672089e-06,
+    "Ax2MqDBZhFkDR54cT96xoyXHNDuZUuadWstPoBdMpump": {
+      "symbol": "maga",
+      "qty": 3195477.563738425,
+      "entry_price": 1.5490642325802907e-05,
+      "last_price": 1.4929699352073674e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-25T22:48:36+00:00",
+      "entry_time": "2026-10-25T23:09:39+00:00",
+      "missing": 0
+    },
+    "PqBDz4yLPwbkUq9nS2YGyedzBTFZDPB6kQqvc6mpump": {
+      "symbol": "SOL",
+      "qty": 3482249.3259843895,
+      "entry_price": 1.4214949983803056e-05,
+      "last_price": 1.3754816194512552e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T23:09:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T23:58:23+00:00",
-      "side": "sell",
-      "symbol": "TESLA SI",
-      "address": "3E8y793CNkxSvoX6NS2bccMBdrAEWhoRAq56cL3xpump",
-      "price": 1.862518491e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-23T00:42:40+00:00",
-      "side": "buy",
-      "symbol": "DOOROC",
-      "address": "NActAuVdRK2VxPx9HaM1pGAQCgWm9YV8VbEuqkhpump",
-      "price": 5.93344191819611e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T01:24:30+00:00",
-      "side": "sell",
-      "symbol": "DOOROC",
-      "address": "NActAuVdRK2VxPx9HaM1pGAQCgWm9YV8VbEuqkhpump",
-      "price": 1.627132268e-06,
-      "proceeds": 12.89,
-      "pnl_usd": -37.11,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-23T01:24:30+00:00",
       "side": "buy",
@@ -4512,13 +4493,35 @@
       "address": "GcnYhbxdVAZimnMrB4hrUUuq4LzdsaBiN9DGQLotpump",
       "price": 8.508397777220093e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T23:09:39+00:00",
+      "side": "sell",
+      "symbol": "민수",
+      "address": "GcnYhbxdVAZimnMrB4hrUUuq4LzdsaBiN9DGQLotpump",
+      "price": 2.841563664e-06,
+      "proceeds": 15.76,
+      "pnl_usd": -34.24,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T23:09:39+00:00",
+      "side": "buy",
+      "symbol": "maga",
+      "address": "Ax2MqDBZhFkDR54cT96xoyXHNDuZUuadWstPoBdMpump",
+      "price": 1.5490642325802907e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T23:09:39+00:00",
+      "side": "buy",
+      "symbol": "SOL",
+      "address": "PqBDz4yLPwbkUq9nS2YGyedzBTFZDPB6kQqvc6mpump",
+      "price": 1.4214949983803056e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T03:45:57+00:00",
-      "equity": 645321.09
-    },
     {
       "date": "2026-10-06T04:01:43+00:00",
       "equity": 645230.5
@@ -8514,6 +8517,10 @@
     {
       "date": "2026-10-25T22:48:36+00:00",
       "equity": 5879727.96
+    },
+    {
+      "date": "2026-10-25T23:09:39+00:00",
+      "equity": 5879691.68
     }
   ]
 }
