@@ -1,16 +1,7 @@
 {
   "mode": "pumpfun",
-  "cash": 5879383.425651182,
+  "cash": 5879594.441976812,
   "positions": {
-    "71anv4fi2vgS6cYJrgg5UQLhqb1J3sU3aiGUvc94pump": {
-      "symbol": "Pimp",
-      "qty": 2980175.998101688,
-      "entry_price": 1.660975728666042e-05,
-      "last_price": 1.606421782e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T20:58:27+00:00",
-      "missing": 0
-    },
     "BBVp72uZ2BZ3z8r8NfrdMtpqjvSQoEXQWAGScucapump": {
       "symbol": "Lega",
       "qty": 3763788.0464331084,
@@ -37,55 +28,9 @@
       "cost": 50.0,
       "entry_time": "2026-10-25T21:26:56+00:00",
       "missing": 0
-    },
-    "DsySnSucgCjd1Mcih2pocvdvomEPiGf8cbFyW5afpump": {
-      "symbol": "GENNY",
-      "qty": 2591318.089689017,
-      "entry_price": 1.910224769277186e-05,
-      "last_price": 1.8399000696620836e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T21:55:59+00:00",
-      "missing": 0
-    },
-    "DX2UR7Bk6Ne6JcU24WA8SkMfGfqKpDh5uxDsBmeTpump": {
-      "symbol": "uinhim",
-      "qty": 6317906.10198121,
-      "entry_price": 7.834874276538784e-06,
-      "last_price": 7.543729035493023e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T21:55:59+00:00",
-      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T23:29:10+00:00",
-      "side": "sell",
-      "symbol": "scribes",
-      "address": "GmrUG6xDu3qd3kDuDECAU55RbohRjmRkZTTvAJMYpump",
-      "price": 0.000102019358,
-      "proceeds": 30.11,
-      "pnl_usd": -19.89,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-22T23:29:10+00:00",
-      "side": "sell",
-      "symbol": "Trump",
-      "address": "DMnpg7eZ43NeSR16sWksLkqZtFxzFoegJ9LFK2cupump",
-      "price": 3.015717496e-09,
-      "proceeds": 0.03,
-      "pnl_usd": -49.97,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-22T23:29:11+00:00",
-      "side": "buy",
-      "symbol": "ヤギ",
-      "address": "4jSZwNrikbHKAonDpq2jGBv4bJoL8AnozY2H56v9pump",
-      "price": 4.234113120976242e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T23:29:11+00:00",
       "side": "buy",
@@ -4553,13 +4498,39 @@
       "address": "DX2UR7Bk6Ne6JcU24WA8SkMfGfqKpDh5uxDsBmeTpump",
       "price": 7.834874276538784e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T22:21:30+00:00",
+      "side": "sell",
+      "symbol": "Pimp",
+      "address": "71anv4fi2vgS6cYJrgg5UQLhqb1J3sU3aiGUvc94pump",
+      "price": 1.606421782e-05,
+      "proceeds": 45.79,
+      "pnl_usd": -4.21,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T22:21:30+00:00",
+      "side": "sell",
+      "symbol": "GENNY",
+      "address": "DsySnSucgCjd1Mcih2pocvdvomEPiGf8cbFyW5afpump",
+      "price": 1.151219187e-05,
+      "proceeds": 28.33,
+      "pnl_usd": -21.67,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T22:21:30+00:00",
+      "side": "sell",
+      "symbol": "uinhim",
+      "address": "DX2UR7Bk6Ne6JcU24WA8SkMfGfqKpDh5uxDsBmeTpump",
+      "price": 2.275715607e-05,
+      "proceeds": 136.89,
+      "pnl_usd": 86.89,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T03:03:23+00:00",
-      "equity": 644786.57
-    },
     {
       "date": "2026-10-06T03:24:24+00:00",
       "equity": 644737.72
@@ -8555,6 +8526,10 @@
     {
       "date": "2026-10-25T21:55:59+00:00",
       "equity": 5879669.03
+    },
+    {
+      "date": "2026-10-25T22:21:30+00:00",
+      "equity": 5879736.83
     }
   ]
 }
