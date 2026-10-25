@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5880458.499456392,
+  "cash": 5880404.573525355,
   "positions": {
-    "9nCnjCn1u7Ev4yZyqDyzngeTaVu7W53qMU4vqciypump": {
-      "symbol": "SCAM",
-      "qty": 1704186.6212991038,
-      "entry_price": 2.9046114657481632e-05,
-      "last_price": 2.805731527e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T05:51:21+00:00",
-      "missing": 0
-    },
-    "iaRawJZzLDb4cHMDhkZBxZUvTMea12zo82aw3Gjpump": {
-      "symbol": "LEGO",
-      "qty": 124585.09254315007,
-      "entry_price": 0.00039731880427713027,
-      "last_price": 0.00038537702791721824,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T06:20:49+00:00",
-      "missing": 0
-    },
     "EqT3WcfR1nKnh2z2SsNakcWQYae6j6s1jkc8bB9Bpump": {
       "symbol": "34%",
       "qty": 5633487.007299536,
       "entry_price": 8.786742551435879e-06,
-      "last_price": 8.462868021393246e-06,
+      "last_price": 8.462868021e-06,
       "cost": 50.0,
       "entry_time": "2026-10-25T06:20:49+00:00",
       "missing": 0
@@ -33,45 +15,31 @@
       "symbol": "INUX",
       "qty": 6390201.124651989,
       "entry_price": 7.74623506121582e-06,
-      "last_price": 7.458693850450371e-06,
+      "last_price": 7.45869385e-06,
       "cost": 50.0,
       "entry_time": "2026-10-25T06:20:49+00:00",
+      "missing": 0
+    },
+    "8PoBRXa31T4tQVWNfW1iHf3suDDo1RRQdxudLMFCpump": {
+      "symbol": "FOMO",
+      "qty": 131298.41499426242,
+      "entry_price": 0.00037700378943769495,
+      "last_price": 0.00036565571977781065,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T07:10:33+00:00",
+      "missing": 0
+    },
+    "HkaLcH443xv1Vncrsg5QnGfox1PiWHsG8U55bLiApump": {
+      "symbol": "Pasta",
+      "qty": 1120295.3348359708,
+      "entry_price": 4.4184777407153614e-05,
+      "last_price": 4.283014583305814e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T07:10:33+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T05:10:45+00:00",
-      "side": "buy",
-      "symbol": "wind",
-      "address": "7GpHsPkUhJmovK2C5LpsbMA9rzwacFjhm8Gfc71pump",
-      "price": 6.598406214021516e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T05:46:08+00:00",
-      "side": "buy",
-      "symbol": "4",
-      "address": "FjPVqJmRK9fYZpY5PC5qT97CtoyZyNMfQDVnq8jkpump",
-      "price": 2.048047058711334e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T05:46:08+00:00",
-      "side": "buy",
-      "symbol": "Gemini",
-      "address": "kFFVJgeNihR7mgByhfrmvQw2oTBqyDfsBHqSaqspump",
-      "price": 0.0004273715696822862,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T05:46:08+00:00",
-      "side": "buy",
-      "symbol": "fomo",
-      "address": "Ho64cWfach3gsH5d3EvT2LYPZC1A546KTtV5uYPXpump",
-      "price": 0.00039784447629253526,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T05:46:08+00:00",
       "side": "buy",
@@ -4535,13 +4503,45 @@
       "address": "89xFaC83PE43aJM2HixWiDA8DrgcFGpwm758k8wCpump",
       "price": 7.74623506121582e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T07:10:33+00:00",
+      "side": "sell",
+      "symbol": "SCAM",
+      "address": "9nCnjCn1u7Ev4yZyqDyzngeTaVu7W53qMU4vqciypump",
+      "price": 2.805731527e-05,
+      "proceeds": 45.81,
+      "pnl_usd": -4.19,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T07:10:33+00:00",
+      "side": "sell",
+      "symbol": "LEGO",
+      "address": "iaRawJZzLDb4cHMDhkZBxZUvTMea12zo82aw3Gjpump",
+      "price": 2.184673338e-06,
+      "proceeds": 0.26,
+      "pnl_usd": -49.74,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T07:10:33+00:00",
+      "side": "buy",
+      "symbol": "FOMO",
+      "address": "8PoBRXa31T4tQVWNfW1iHf3suDDo1RRQdxudLMFCpump",
+      "price": 0.00037700378943769495,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T07:10:33+00:00",
+      "side": "buy",
+      "symbol": "Pasta",
+      "address": "HkaLcH443xv1Vncrsg5QnGfox1PiWHsG8U55bLiApump",
+      "price": 4.4184777407153614e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T14:33:34+00:00",
-      "equity": 567675.49
-    },
     {
       "date": "2026-10-05T14:55:11+00:00",
       "equity": 567543.18
@@ -8537,6 +8537,10 @@
     {
       "date": "2026-10-25T06:20:49+00:00",
       "equity": 5880649.66
+    },
+    {
+      "date": "2026-10-25T07:10:33+00:00",
+      "equity": 5880595.9
     }
   ]
 }
