@@ -1,52 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880362.856877237,
+  "cash": 5880421.1243676245,
   "positions": {
-    "2d69L4ATcxqWFeKxLAPzYrZ5haZrGZkSFE8MiNAnpump": {
-      "symbol": "weenpump1",
-      "qty": 4913931.670364331,
-      "entry_price": 1.007340014484368e-05,
-      "last_price": 9.7049589e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T09:50:12+00:00",
-      "missing": 0
-    },
-    "4eoWLDDrQm7qbkSSjfu68fnMxu1acZSgR19CKqpipump": {
-      "symbol": "SPY",
-      "qty": 4119910.350233979,
-      "entry_price": 1.2014824545196422e-05,
-      "last_price": 1.1577118837440684e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T10:49:32+00:00",
-      "missing": 0
-    },
     "6dUJuGmt9Z2K6r89jFK2RVntEJ9PhHE5aLPC9fuupump": {
       "symbol": "$MLIPS",
       "qty": 7331932.38814965,
       "entry_price": 6.7512897527540145e-06,
-      "last_price": 6.4924214746897276e-06,
+      "last_price": 6.492421475e-06,
       "cost": 50.0,
       "entry_time": "2026-10-25T10:49:32+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T08:41:46+00:00",
-      "side": "buy",
-      "symbol": "Au",
-      "address": "EVLG9Unj6ud2cEs7RBEzifiGcKJcXvCa9asUumJppump",
-      "price": 8.367639971295595e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T08:41:46+00:00",
-      "side": "buy",
-      "symbol": "Claude AI",
-      "address": "efCBajyiZEKW4xB9Zv6RJxHNfQno915xzyS1L7cpump",
-      "price": 0.00039740702434217147,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T08:41:46+00:00",
       "side": "buy",
@@ -4528,13 +4494,29 @@
       "address": "6dUJuGmt9Z2K6r89jFK2RVntEJ9PhHE5aLPC9fuupump",
       "price": 6.7512897527540145e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T11:13:38+00:00",
+      "side": "sell",
+      "symbol": "weenpump1",
+      "address": "2d69L4ATcxqWFeKxLAPzYrZ5haZrGZkSFE8MiNAnpump",
+      "price": 9.7049589e-06,
+      "proceeds": 45.5,
+      "pnl_usd": -4.5,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T11:13:38+00:00",
+      "side": "sell",
+      "symbol": "SPY",
+      "address": "4eoWLDDrQm7qbkSSjfu68fnMxu1acZSgR19CKqpipump",
+      "price": 3.245187294e-06,
+      "proceeds": 12.77,
+      "pnl_usd": -37.23,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T17:23:41+00:00",
-      "equity": 641577.45
-    },
     {
       "date": "2026-10-05T17:44:28+00:00",
       "equity": 641482.86
@@ -8530,6 +8512,10 @@
     {
       "date": "2026-10-25T10:49:32+00:00",
       "equity": 5880505.85
+    },
+    {
+      "date": "2026-10-25T11:13:38+00:00",
+      "equity": 5880468.73
     }
   ]
 }
