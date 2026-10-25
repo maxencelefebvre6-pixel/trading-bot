@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5880462.856877237,
+  "cash": 5880362.856877237,
   "positions": {
     "2d69L4ATcxqWFeKxLAPzYrZ5haZrGZkSFE8MiNAnpump": {
       "symbol": "weenpump1",
@@ -10,29 +10,27 @@
       "cost": 50.0,
       "entry_time": "2026-10-25T09:50:12+00:00",
       "missing": 0
+    },
+    "4eoWLDDrQm7qbkSSjfu68fnMxu1acZSgR19CKqpipump": {
+      "symbol": "SPY",
+      "qty": 4119910.350233979,
+      "entry_price": 1.2014824545196422e-05,
+      "last_price": 1.1577118837440684e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T10:49:32+00:00",
+      "missing": 0
+    },
+    "6dUJuGmt9Z2K6r89jFK2RVntEJ9PhHE5aLPC9fuupump": {
+      "symbol": "$MLIPS",
+      "qty": 7331932.38814965,
+      "entry_price": 6.7512897527540145e-06,
+      "last_price": 6.4924214746897276e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T10:49:32+00:00",
+      "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T08:41:46+00:00",
-      "side": "sell",
-      "symbol": "BUGGED",
-      "address": "4nwaXiEQvu7RHrzecAQ9MNMoa3kMnNTRZg9wDvcPpump",
-      "price": 2.009076758e-06,
-      "proceeds": 1.58,
-      "pnl_usd": -48.42,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-22T08:41:46+00:00",
-      "side": "sell",
-      "symbol": ".",
-      "address": "2MHX4asg2Q1LzM8LtFp9zoexDp1tWwCyuC58fk9apump",
-      "price": 4.12456517e-08,
-      "proceeds": 0.45,
-      "pnl_usd": -49.55,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-22T08:41:46+00:00",
       "side": "buy",
@@ -4514,13 +4512,25 @@
       "proceeds": 45.34,
       "pnl_usd": -4.66,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T10:49:32+00:00",
+      "side": "buy",
+      "symbol": "SPY",
+      "address": "4eoWLDDrQm7qbkSSjfu68fnMxu1acZSgR19CKqpipump",
+      "price": 1.2014824545196422e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T10:49:32+00:00",
+      "side": "buy",
+      "symbol": "$MLIPS",
+      "address": "6dUJuGmt9Z2K6r89jFK2RVntEJ9PhHE5aLPC9fuupump",
+      "price": 6.7512897527540145e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T17:02:06+00:00",
-      "equity": 567650.4
-    },
     {
       "date": "2026-10-05T17:23:41+00:00",
       "equity": 641577.45
@@ -8516,6 +8526,10 @@
     {
       "date": "2026-10-25T10:14:54+00:00",
       "equity": 5880510.55
+    },
+    {
+      "date": "2026-10-25T10:49:32+00:00",
+      "equity": 5880505.85
     }
   ]
 }
