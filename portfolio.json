@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5879878.2086348105,
+  "cash": 5879792.935843444,
   "positions": {
     "Ds9AEfChNAJvN7kFnatGSedmMpCcpqjSsh5hoj55pump": {
       "symbol": "Dog Think",
@@ -20,47 +20,26 @@
       "entry_time": "2026-10-25T17:05:14+00:00",
       "missing": 0
     },
-    "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump": {
-      "symbol": "Twin",
-      "qty": 3520047.2116180416,
-      "entry_price": 1.4062311390774386e-05,
-      "last_price": 1.3555949368859105e-05,
+    "8RFv7vzZVMLdiBpbQHUz8dDt2wKQBofBAYChjcuspump": {
+      "symbol": "GE",
+      "qty": 68064704.81497353,
+      "entry_price": 7.272491687807997e-07,
+      "last_price": 6.999871514208564e-07,
       "cost": 50.0,
-      "entry_time": "2026-10-25T17:34:41+00:00",
+      "entry_time": "2026-10-25T18:01:41+00:00",
+      "missing": 0
+    },
+    "JDz8BGjjwq9t1cc7vKQSDaj5gDd7Ny8meobx4B7dpump": {
+      "symbol": "🔥",
+      "qty": 4341927.329084963,
+      "entry_price": 1.1400467176964902e-05,
+      "last_price": 1.1004117387142016e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T18:01:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T18:12:03+00:00",
-      "side": "sell",
-      "symbol": "SAVPIR",
-      "address": "GEB7cztPJU9CyGSVHRG9n6C27XT9G5s8oTCKykXFpump",
-      "price": 8.125249289e-06,
-      "proceeds": 45.36,
-      "pnl_usd": -4.64,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-22T18:12:03+00:00",
-      "side": "sell",
-      "symbol": "Alone",
-      "address": "G8CMwNsTFQ53hDRdAUDZRxJrtezZ8oRH2zx922hHpump",
-      "price": 6.13399314e-06,
-      "proceeds": 14.13,
-      "pnl_usd": -35.87,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T18:12:03+00:00",
-      "side": "sell",
-      "symbol": "PULP",
-      "address": "6uXpCTxkHXn2TBu8EnyWtHvStjApVtmDjibcHQBepump",
-      "price": 3.014699194e-06,
-      "proceeds": 10.37,
-      "pnl_usd": -39.63,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-22T18:12:04+00:00",
       "side": "buy",
@@ -4530,13 +4509,35 @@
       "address": "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
       "price": 1.4062311390774386e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T18:01:41+00:00",
+      "side": "sell",
+      "symbol": "Twin",
+      "address": "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+      "price": 4.38115219e-06,
+      "proceeds": 14.73,
+      "pnl_usd": -35.27,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T18:01:41+00:00",
+      "side": "buy",
+      "symbol": "GE",
+      "address": "8RFv7vzZVMLdiBpbQHUz8dDt2wKQBofBAYChjcuspump",
+      "price": 7.272491687807997e-07,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T18:01:41+00:00",
+      "side": "buy",
+      "symbol": "🔥",
+      "address": "JDz8BGjjwq9t1cc7vKQSDaj5gDd7Ny8meobx4B7dpump",
+      "price": 1.1400467176964902e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T23:44:43+00:00",
-      "equity": 640983.5
-    },
     {
       "date": "2026-10-05T23:57:06+00:00",
       "equity": 640975.4
@@ -8532,6 +8533,10 @@
     {
       "date": "2026-10-25T17:34:41+00:00",
       "equity": 5880021.66
+    },
+    {
+      "date": "2026-10-25T18:01:41+00:00",
+      "equity": 5879984.09
     }
   ]
 }
