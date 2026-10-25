@@ -1,63 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5880949.716694222,
+  "cash": 5880845.505245773,
   "positions": {
-    "DQDu837TRSWdrdgAzXZtWQWmGtsbU4RMG7oPPKMqpump": {
-      "symbol": "cap",
-      "qty": 2744241.8743141335,
-      "entry_price": 1.803776863231908e-05,
-      "last_price": 1.744432057e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T02:22:37+00:00",
-      "missing": 0
-    },
     "AUQZcnP3SXgsbn67urzMhxVoJYky4nuDvxotAQC2pump": {
       "symbol": "wApe",
       "qty": 4729627.556640019,
       "entry_price": 1.0465940374206835e-05,
-      "last_price": 1.00988598661472e-05,
+      "last_price": 1.009885987e-05,
       "cost": 50.0,
       "entry_time": "2026-10-25T02:59:18+00:00",
+      "missing": 0
+    },
+    "4eZxnVygJcETMH2HMPjn5wCeRL45XusTFnLpbEKmpump": {
+      "symbol": "Marvin",
+      "qty": 789564.6894376575,
+      "entry_price": 6.269277319791848e-05,
+      "last_price": 6.0705356781554464e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T03:32:09+00:00",
+      "missing": 0
+    },
+    "2Qm9Pgq23GNAdxZRpzb5WHCNxRNLMjeWSr6uULvwpump": {
+      "symbol": "Marvin",
+      "qty": 294182.3948049719,
+      "entry_price": 0.0001682629581991676,
+      "last_price": 0.00016309461840847422,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T03:32:09+00:00",
+      "missing": 0
+    },
+    "ABfaFvGt4VuHGLCoZjJ27z64KMBgPR8nGikgVtzppump": {
+      "symbol": "RICK",
+      "qty": 6864502.5409557475,
+      "entry_price": 7.211010514551881e-06,
+      "last_price": 6.936763265617027e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T03:32:09+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T23:47:14+00:00",
-      "side": "buy",
-      "symbol": "AMF",
-      "address": "FLcRHLWPky2DppuLh5SwvsKvmruXqTcbcJhwmEESpump",
-      "price": 2.266174578021257e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T00:09:03+00:00",
-      "side": "buy",
-      "symbol": "CIMCHI",
-      "address": "Gg7iYWMD33CQgT7U8UkXKRNWD9H42TfaGbRrDwxupump",
-      "price": 1.1838862094370521e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T00:56:05+00:00",
-      "side": "sell",
-      "symbol": "AMF",
-      "address": "FLcRHLWPky2DppuLh5SwvsKvmruXqTcbcJhwmEESpump",
-      "price": 2.193765188e-05,
-      "proceeds": 45.88,
-      "pnl_usd": -4.12,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-22T00:56:05+00:00",
-      "side": "sell",
-      "symbol": "CIMCHI",
-      "address": "Gg7iYWMD33CQgT7U8UkXKRNWD9H42TfaGbRrDwxupump",
-      "price": 3.005222348e-06,
-      "proceeds": 12.0,
-      "pnl_usd": -38.0,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-22T00:56:05+00:00",
       "side": "buy",
@@ -4519,13 +4501,43 @@
       "address": "AUQZcnP3SXgsbn67urzMhxVoJYky4nuDvxotAQC2pump",
       "price": 1.0465940374206835e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T03:32:08+00:00",
+      "side": "sell",
+      "symbol": "cap",
+      "address": "DQDu837TRSWdrdgAzXZtWQWmGtsbU4RMG7oPPKMqpump",
+      "price": 1.744432057e-05,
+      "proceeds": 45.79,
+      "pnl_usd": -4.21,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T03:32:09+00:00",
+      "side": "buy",
+      "symbol": "Marvin",
+      "address": "4eZxnVygJcETMH2HMPjn5wCeRL45XusTFnLpbEKmpump",
+      "price": 6.269277319791848e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T03:32:09+00:00",
+      "side": "buy",
+      "symbol": "Marvin",
+      "address": "2Qm9Pgq23GNAdxZRpzb5WHCNxRNLMjeWSr6uULvwpump",
+      "price": 0.0001682629581991676,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T03:32:09+00:00",
+      "side": "buy",
+      "symbol": "RICK",
+      "address": "ABfaFvGt4VuHGLCoZjJ27z64KMBgPR8nGikgVtzppump",
+      "price": 7.211010514551881e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T12:00:18+00:00",
-      "equity": 552683.79
-    },
     {
       "date": "2026-10-05T12:29:46+00:00",
       "equity": 552662.38
@@ -8521,6 +8533,10 @@
     {
       "date": "2026-10-25T02:59:18+00:00",
       "equity": 5881045.35
+    },
+    {
+      "date": "2026-10-25T03:32:09+00:00",
+      "equity": 5881036.8
     }
   ]
 }
