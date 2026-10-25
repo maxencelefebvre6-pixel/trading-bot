@@ -1,45 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879596.076667037,
+  "cash": 5879555.450539142,
   "positions": {
-    "Ax2MqDBZhFkDR54cT96xoyXHNDuZUuadWstPoBdMpump": {
-      "symbol": "maga",
-      "qty": 3195477.563738425,
-      "entry_price": 1.5490642325802907e-05,
-      "last_price": 1.4929699352073674e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T23:09:39+00:00",
-      "missing": 0
-    },
     "PqBDz4yLPwbkUq9nS2YGyedzBTFZDPB6kQqvc6mpump": {
       "symbol": "SOL",
       "qty": 3482249.3259843895,
       "entry_price": 1.4214949983803056e-05,
-      "last_price": 1.3754816194512552e-05,
+      "last_price": 1.374774979e-05,
       "cost": 50.0,
       "entry_time": "2026-10-25T23:09:39+00:00",
+      "missing": 0
+    },
+    "HNnqhcJ2hHNp3MFdenVsvx9QWMex2igy9wVNN2xppump": {
+      "symbol": "dogbaton",
+      "qty": 33651818.09331546,
+      "entry_price": 1.4709457855364015e-06,
+      "last_price": 1.4212226387805932e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T23:38:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T01:24:30+00:00",
-      "side": "buy",
-      "symbol": "NP67",
-      "address": "2VkrLBtcbBypFMBbgNL8N3Cact9VZupfosKV5smPpump",
-      "price": 6.959297646334138e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T02:05:04+00:00",
-      "side": "sell",
-      "symbol": "NP67",
-      "address": "2VkrLBtcbBypFMBbgNL8N3Cact9VZupfosKV5smPpump",
-      "price": 2.077290567e-06,
-      "proceeds": 1.42,
-      "pnl_usd": -48.58,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-23T02:05:04+00:00",
       "side": "buy",
@@ -4519,13 +4501,27 @@
       "address": "PqBDz4yLPwbkUq9nS2YGyedzBTFZDPB6kQqvc6mpump",
       "price": 1.4214949983803056e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T23:38:31+00:00",
+      "side": "sell",
+      "symbol": "maga",
+      "address": "Ax2MqDBZhFkDR54cT96xoyXHNDuZUuadWstPoBdMpump",
+      "price": 3.067518054e-06,
+      "proceeds": 9.37,
+      "pnl_usd": -40.63,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T23:38:31+00:00",
+      "side": "buy",
+      "symbol": "dogbaton",
+      "address": "HNnqhcJ2hHNp3MFdenVsvx9QWMex2igy9wVNN2xppump",
+      "price": 1.4709457855364015e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T04:01:43+00:00",
-      "equity": 645230.5
-    },
     {
       "date": "2026-10-06T04:24:46+00:00",
       "equity": 659827.33
@@ -8521,6 +8517,10 @@
     {
       "date": "2026-10-25T23:09:39+00:00",
       "equity": 5879691.68
+    },
+    {
+      "date": "2026-10-25T23:38:31+00:00",
+      "equity": 5879651.15
     }
   ]
 }
