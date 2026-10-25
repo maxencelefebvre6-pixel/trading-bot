@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5879794.96297263,
+  "cash": 5879755.4342978345,
   "positions": {
     "38wEYSiSUNrYFSUaT22155k163LrCTKvNvqAg8Wcpump": {
       "symbol": "Dcperps",
@@ -11,37 +11,17 @@
       "entry_time": "2026-10-25T19:08:40+00:00",
       "missing": 0
     },
-    "CCpLmU68N3uxA6WqjshnaaWtwvg8HbxxQK5dUoWZpump": {
-      "symbol": "RECEIPTS",
-      "qty": 3837526.1208442794,
-      "entry_price": 1.2898935001674906e-05,
-      "last_price": 1.241927036621029e-05,
+    "58mAuasApeJkRAP2uTyY7AfLuftAzd5WHbFuGKi2pump": {
+      "symbol": "BARRON",
+      "qty": 122125.63812405623,
+      "entry_price": 0.00040532029768980605,
+      "last_price": 0.00039313798287607035,
       "cost": 50.0,
-      "entry_time": "2026-10-25T19:37:12+00:00",
+      "entry_time": "2026-10-25T20:00:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T19:34:07+00:00",
-      "side": "sell",
-      "symbol": "nut",
-      "address": "273oHcXRsFqF6Ma3xjan4SGruppm5AwBHfXLcUBJpump",
-      "price": 2.948528332e-06,
-      "proceeds": 16.32,
-      "pnl_usd": -33.68,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T20:08:59+00:00",
-      "side": "sell",
-      "symbol": "DacityC",
-      "address": "HjyZZ4AqPZ6ECzR2BvcxwUbjBbnBJ6KvSJFwYXWApump",
-      "price": 2.699389336e-05,
-      "proceeds": 45.94,
-      "pnl_usd": -4.06,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-22T20:08:59+00:00",
       "side": "buy",
@@ -4521,13 +4501,27 @@
       "address": "CCpLmU68N3uxA6WqjshnaaWtwvg8HbxxQK5dUoWZpump",
       "price": 1.2898935001674906e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T20:00:05+00:00",
+      "side": "sell",
+      "symbol": "RECEIPTS",
+      "address": "CCpLmU68N3uxA6WqjshnaaWtwvg8HbxxQK5dUoWZpump",
+      "price": 2.855724248e-06,
+      "proceeds": 10.47,
+      "pnl_usd": -39.53,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T20:00:05+00:00",
+      "side": "buy",
+      "symbol": "BARRON",
+      "address": "58mAuasApeJkRAP2uTyY7AfLuftAzd5WHbFuGKi2pump",
+      "price": 0.00040532029768980605,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T01:16:18+00:00",
-      "equity": 644911.78
-    },
     {
       "date": "2026-10-06T01:35:00+00:00",
       "equity": 644880.09
@@ -8523,6 +8517,10 @@
     {
       "date": "2026-10-25T19:37:12+00:00",
       "equity": 5879887.38
+    },
+    {
+      "date": "2026-10-25T20:00:05+00:00",
+      "equity": 5879848.21
     }
   ]
 }
