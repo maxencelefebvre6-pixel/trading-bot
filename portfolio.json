@@ -1,101 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879976.240928564,
+  "cash": 5880087.046342808,
   "positions": {
-    "2jMLCRq5mqDNdFaH2e67XfS4bsVgdkNSo56sf9v5pump": {
-      "symbol": "TEMPTATION",
-      "qty": 548841.0254077894,
-      "entry_price": 9.019005086804773e-05,
-      "last_price": 8.743940495308058e-05,
+    "3EFodgJriYP9bBASQviEe2k645kXA4yELSNQKzCMpump": {
+      "symbol": "SI",
+      "qty": 4242327.924734886,
+      "entry_price": 1.1668122049545094e-05,
+      "last_price": 1.1231166432615883e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-25T15:00:05+00:00",
+      "entry_time": "2026-10-25T15:30:23+00:00",
       "missing": 0
     },
-    "3E7cykFqNX3771V4fRf7aybYR4wTWcyG2vUA2rUZpump": {
-      "symbol": "BOOBS",
-      "qty": 3086108.6396579165,
-      "entry_price": 1.6039616805417092e-05,
-      "last_price": 1.546223258895936e-05,
+    "RRfQrBp2wGYxSQodwAzcKTW3mxfS5DshuyrqUDRpump": {
+      "symbol": "Pawa",
+      "qty": 9938542.91113943,
+      "entry_price": 4.980609375295733e-06,
+      "last_price": 4.7962081678386105e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-25T15:00:05+00:00",
-      "missing": 0
-    },
-    "HgdBJvh8fTafnhmnWHgNHEQrYPzqBDQLu2hKZKfkpump": {
-      "symbol": "ANALOS",
-      "qty": 641964.3904329924,
-      "entry_price": 7.71070806070929e-05,
-      "last_price": 7.46748041322878e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T15:00:05+00:00",
-      "missing": 0
-    },
-    "3CarF2hZt9mxA2b6mSX3hWii6rdGx8yHBtuAe1ZEpump": {
-      "symbol": "FOMO",
-      "qty": 4925385.546724405,
-      "entry_price": 1.0049974673133892e-05,
-      "last_price": 9.673026883815527e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T15:00:05+00:00",
+      "entry_time": "2026-10-25T15:30:23+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T15:16:18+00:00",
-      "side": "sell",
-      "symbol": "AURA",
-      "address": "YHmDZQuamPVAVhES5PQTFN5uAjfAw78MNSH4gh4pump",
-      "price": 4.446365134e-06,
-      "proceeds": 23.46,
-      "pnl_usd": -26.54,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T15:16:18+00:00",
-      "side": "sell",
-      "symbol": "TRUMPOCEAN",
-      "address": "G4wmrx15b8XChfhPg1C9qycMfKNAFSHnsLz1gU1wpump",
-      "price": 0.0002990269351,
-      "proceeds": 58.54,
-      "pnl_usd": 8.54,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-22T15:16:18+00:00",
-      "side": "buy",
-      "symbol": "KFC",
-      "address": "2xzCuMVspyMxrpnb1yZavnrwyRj6rfPdVgXaR3bJpump",
-      "price": 8.984993738076623e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T15:16:18+00:00",
-      "side": "buy",
-      "symbol": "Snipercat",
-      "address": "Fxaxs65swkLffLdMnjZZ5rdVSk62h5dwo7JE14ZPpump",
-      "price": 9.207504037114936e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T15:55:28+00:00",
-      "side": "sell",
-      "symbol": "KFC",
-      "address": "2xzCuMVspyMxrpnb1yZavnrwyRj6rfPdVgXaR3bJpump",
-      "price": 2.926633678e-06,
-      "proceeds": 15.37,
-      "pnl_usd": -34.63,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T15:55:28+00:00",
-      "side": "sell",
-      "symbol": "Snipercat",
-      "address": "Fxaxs65swkLffLdMnjZZ5rdVSk62h5dwo7JE14ZPpump",
-      "price": 3.196039417e-06,
-      "proceeds": 16.38,
-      "pnl_usd": -33.62,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-22T16:32:17+00:00",
       "side": "buy",
@@ -4537,13 +4463,65 @@
       "address": "3CarF2hZt9mxA2b6mSX3hWii6rdGx8yHBtuAe1ZEpump",
       "price": 1.0049974673133892e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T15:30:23+00:00",
+      "side": "sell",
+      "symbol": "TEMPTATION",
+      "address": "2jMLCRq5mqDNdFaH2e67XfS4bsVgdkNSo56sf9v5pump",
+      "price": 8.871036988e-05,
+      "proceeds": 24.1,
+      "pnl_usd": -25.9,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-25T15:30:23+00:00",
+      "side": "sell",
+      "symbol": "BOOBS",
+      "address": "3E7cykFqNX3771V4fRf7aybYR4wTWcyG2vUA2rUZpump",
+      "price": 2.864908459e-06,
+      "proceeds": 8.46,
+      "pnl_usd": -41.54,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T15:30:23+00:00",
+      "side": "sell",
+      "symbol": "ANALOS",
+      "address": "HgdBJvh8fTafnhmnWHgNHEQrYPzqBDQLu2hKZKfkpump",
+      "price": 0.000269057467,
+      "proceeds": 164.54,
+      "pnl_usd": 114.54,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-25T15:30:23+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "3CarF2hZt9mxA2b6mSX3hWii6rdGx8yHBtuAe1ZEpump",
+      "price": 2.917290651e-06,
+      "proceeds": 13.71,
+      "pnl_usd": -36.29,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T15:30:23+00:00",
+      "side": "buy",
+      "symbol": "SI",
+      "address": "3EFodgJriYP9bBASQviEe2k645kXA4yELSNQKzCMpump",
+      "price": 1.1668122049545094e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T15:30:23+00:00",
+      "side": "buy",
+      "symbol": "Pawa",
+      "address": "RRfQrBp2wGYxSQodwAzcKTW3mxfS5DshuyrqUDRpump",
+      "price": 4.980609375295733e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T22:20:28+00:00",
-      "equity": 641170.59
-    },
     {
       "date": "2026-10-05T22:37:49+00:00",
       "equity": 641164.07
@@ -8539,6 +8517,10 @@
     {
       "date": "2026-10-25T15:00:05+00:00",
       "equity": 5880167.53
+    },
+    {
+      "date": "2026-10-25T15:30:23+00:00",
+      "equity": 5880182.36
     }
   ]
 }
