@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880411.76397895,
+  "cash": 5880490.411461245,
   "positions": {
-    "Ajm8dcq7yqNPzVA4EBCuhMz1f9CC7Zd5s4kz6dcupump": {
-      "symbol": "PP",
-      "qty": 3567918.8646896337,
-      "entry_price": 1.3873633868158576e-05,
-      "last_price": 1.3409838175378091e-05,
+    "GTv58Sngivyhtb4Qxtm3ERBW2RCBFL9mTykFEL41pump": {
+      "symbol": "Big Titty",
+      "qty": 2674396.0016018446,
+      "entry_price": 1.8508852081124747e-05,
+      "last_price": 1.789934270701353e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-25T08:11:19+00:00",
-      "missing": 0
-    },
-    "CQE6WpyFixZFzY2osHCCxPB7Eh7drJVZKTsK2Hmppump": {
-      "symbol": "PAPER",
-      "qty": 1844947.7150498028,
-      "entry_price": 2.683002862152318e-05,
-      "last_price": 2.6005939929771472e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T08:11:19+00:00",
+      "entry_time": "2026-10-25T08:48:10+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T07:13:44+00:00",
-      "side": "sell",
-      "symbol": "PairCity",
-      "address": "7ZcbE4g9q4PWwDT1KtG8Lq2K92EEQiZhcMTxUfM5pump",
-      "price": 2.964009451e-06,
-      "proceeds": 15.63,
-      "pnl_usd": -34.37,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T07:13:45+00:00",
-      "side": "buy",
-      "symbol": "FROGGY",
-      "address": "9jFkLjPsgzc7EpsoHpdbyRxYDhSoP9kzXgBCwJ2dpump",
-      "price": 3.432800401084004e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T07:13:45+00:00",
-      "side": "buy",
-      "symbol": "ACTIII",
-      "address": "BUQGK3AqZH9rZZSVmsb5DZVH6hcx3yiY3bGW8RRCpump",
-      "price": 1.5702666164088935e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T08:01:28+00:00",
       "side": "sell",
@@ -4521,13 +4486,37 @@
       "address": "CQE6WpyFixZFzY2osHCCxPB7Eh7drJVZKTsK2Hmppump",
       "price": 2.683002862152318e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T08:48:10+00:00",
+      "side": "sell",
+      "symbol": "PP",
+      "address": "Ajm8dcq7yqNPzVA4EBCuhMz1f9CC7Zd5s4kz6dcupump",
+      "price": 3.478012258e-05,
+      "proceeds": 118.6,
+      "pnl_usd": 68.6,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-25T08:48:10+00:00",
+      "side": "sell",
+      "symbol": "PAPER",
+      "address": "CQE6WpyFixZFzY2osHCCxPB7Eh7drJVZKTsK2Hmppump",
+      "price": 5.686864077e-06,
+      "proceeds": 10.05,
+      "pnl_usd": -39.95,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T08:48:10+00:00",
+      "side": "buy",
+      "symbol": "Big Titty",
+      "address": "GTv58Sngivyhtb4Qxtm3ERBW2RCBFL9mTykFEL41pump",
+      "price": 1.8508852081124747e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T15:41:24+00:00",
-      "equity": 567534.49
-    },
     {
       "date": "2026-10-05T15:59:47+00:00",
       "equity": 567842.8
@@ -8523,6 +8512,10 @@
     {
       "date": "2026-10-25T08:11:19+00:00",
       "equity": 5880507.59
+    },
+    {
+      "date": "2026-10-25T08:48:10+00:00",
+      "equity": 5880538.28
     }
   ]
 }
