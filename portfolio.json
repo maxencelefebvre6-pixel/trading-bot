@@ -1,56 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5880266.590733508,
+  "cash": 5880127.379231994,
   "positions": {
-    "GHzwWBzVboyhu1Wb8YkmUy3MfXz3koHrV1iA4Qikpump": {
-      "symbol": "TXP",
-      "qty": 4519177.715650626,
-      "entry_price": 1.0953320076033674e-05,
-      "last_price": 1.0611551867038638e-05,
+    "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump": {
+      "symbol": "nevergoon",
+      "qty": 3499387.3852064996,
+      "entry_price": 1.4145333040079812e-05,
+      "last_price": 1.3628924366245452e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-25T14:00:00+00:00",
+      "entry_time": "2026-10-25T14:29:43+00:00",
+      "missing": 0
+    },
+    "Fjh3MUEjp927ez5jKQEP1LwmSZyVqYohaZqGNP8Cpump": {
+      "symbol": "DOGE",
+      "qty": 581964.40154319,
+      "entry_price": 8.505674895017852e-05,
+      "last_price": 8.238332242962345e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T14:29:43+00:00",
+      "missing": 0
+    },
+    "TVeb3tbu84ohXStaKEvLXp4RWrBzZskoyA6wNhFpump": {
+      "symbol": "$ABYSS",
+      "qty": 5062102.903618754,
+      "entry_price": 9.778544795012732e-06,
+      "last_price": 9.431218967463566e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T14:29:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T11:50:00+00:00",
-      "side": "sell",
-      "symbol": "FUN",
-      "address": "GrVefczWMYJKXYeFWHLntaFQi4z127KBCQGCmSz6pump",
-      "price": 7.055638484e-06,
-      "proceeds": 45.33,
-      "pnl_usd": -4.67,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-22T11:50:00+00:00",
-      "side": "sell",
-      "symbol": "Kimichi",
-      "address": "J1mfwywdPwwjBGLbrWi5FnwMeF9uWhHYmJLvTAT8pump",
-      "price": 5.818084746e-06,
-      "proceeds": 45.33,
-      "pnl_usd": -4.67,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-22T11:50:00+00:00",
-      "side": "sell",
-      "symbol": "Ppump",
-      "address": "9Kf1zfbPXQV4WuoP196i44KBfm3qBm8XxrTHJ4JMpump",
-      "price": 2.925001545e-06,
-      "proceeds": 11.15,
-      "pnl_usd": -38.85,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T12:22:07+00:00",
-      "side": "buy",
-      "symbol": "udream",
-      "address": "Bqup9PRwv3GD2QcVHfYXoqu7f14YtMKifPxDqfWJpump",
-      "price": 3.3018982445658695e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T13:15:48+00:00",
       "side": "sell",
@@ -4514,13 +4494,43 @@
       "address": "GHzwWBzVboyhu1Wb8YkmUy3MfXz3koHrV1iA4Qikpump",
       "price": 1.0953320076033674e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T14:29:43+00:00",
+      "side": "sell",
+      "symbol": "TXP",
+      "address": "GHzwWBzVboyhu1Wb8YkmUy3MfXz3koHrV1iA4Qikpump",
+      "price": 2.505748963e-06,
+      "proceeds": 10.79,
+      "pnl_usd": -39.21,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T14:29:43+00:00",
+      "side": "buy",
+      "symbol": "nevergoon",
+      "address": "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
+      "price": 1.4145333040079812e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T14:29:43+00:00",
+      "side": "buy",
+      "symbol": "DOGE",
+      "address": "Fjh3MUEjp927ez5jKQEP1LwmSZyVqYohaZqGNP8Cpump",
+      "price": 8.505674895017852e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T14:29:43+00:00",
+      "side": "buy",
+      "symbol": "$ABYSS",
+      "address": "TVeb3tbu84ohXStaKEvLXp4RWrBzZskoyA6wNhFpump",
+      "price": 9.778544795012732e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T21:41:47+00:00",
-      "equity": 641352.55
-    },
     {
       "date": "2026-10-05T21:58:51+00:00",
       "equity": 641302.01
@@ -8516,6 +8526,10 @@
     {
       "date": "2026-10-25T14:00:00+00:00",
       "equity": 5880314.55
+    },
+    {
+      "date": "2026-10-25T14:29:43+00:00",
+      "equity": 5880270.76
     }
   ]
 }
