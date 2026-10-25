@@ -1,64 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879753.908331839,
+  "cash": 5879794.96297263,
   "positions": {
-    "DkBFoZCFn4AiChZdLsMu9Akqqr3g3pZfaJFasZLppump": {
-      "symbol": "BBE",
-      "qty": 4141644.3591481615,
-      "entry_price": 1.1951774635275778e-05,
-      "last_price": 1.153139281e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T18:33:56+00:00",
-      "missing": 0
-    },
-    "8EAXxbxk113dbNR2GDUf9bevzU9Jxi6Bz8TEwvSEpump": {
-      "symbol": "OBITO",
-      "qty": 5560735.894858604,
-      "entry_price": 8.901699511708003e-06,
-      "last_price": 8.580368968e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T18:33:56+00:00",
-      "missing": 0
-    },
     "38wEYSiSUNrYFSUaT22155k163LrCTKvNvqAg8Wcpump": {
       "symbol": "Dcperps",
       "qty": 15747929.0872204,
       "entry_price": 3.1432704405666735e-06,
-      "last_price": 3.0237735416739797e-06,
+      "last_price": 2.842290449e-06,
       "cost": 50.0,
       "entry_time": "2026-10-25T19:08:40+00:00",
+      "missing": 0
+    },
+    "CCpLmU68N3uxA6WqjshnaaWtwvg8HbxxQK5dUoWZpump": {
+      "symbol": "RECEIPTS",
+      "qty": 3837526.1208442794,
+      "entry_price": 1.2898935001674906e-05,
+      "last_price": 1.241927036621029e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T19:37:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T18:58:38+00:00",
-      "side": "buy",
-      "symbol": "DacityC",
-      "address": "HjyZZ4AqPZ6ECzR2BvcxwUbjBbnBJ6KvSJFwYXWApump",
-      "price": 2.7867417739974864e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T19:34:07+00:00",
-      "side": "sell",
-      "symbol": "php.gov",
-      "address": "3Tza3a2ZNvGNuAut5KiaCqSbv3ogL2HSwngaqFUkpump",
-      "price": 5.255882364e-06,
-      "proceeds": 32.43,
-      "pnl_usd": -17.57,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T19:34:07+00:00",
-      "side": "sell",
-      "symbol": "COINBASE",
-      "address": "JwihzoCXEV8nZD5YwwHr94YrMopZUtCxuw2hJAbpump",
-      "price": 1.910026378e-06,
-      "proceeds": 0.24,
-      "pnl_usd": -49.76,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-22T19:34:07+00:00",
       "side": "sell",
@@ -4530,13 +4493,37 @@
       "address": "38wEYSiSUNrYFSUaT22155k163LrCTKvNvqAg8Wcpump",
       "price": 3.1432704405666735e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T19:37:12+00:00",
+      "side": "sell",
+      "symbol": "BBE",
+      "address": "DkBFoZCFn4AiChZdLsMu9Akqqr3g3pZfaJFasZLppump",
+      "price": 1.153139281e-05,
+      "proceeds": 45.57,
+      "pnl_usd": -4.43,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T19:37:12+00:00",
+      "side": "sell",
+      "symbol": "OBITO",
+      "address": "8EAXxbxk113dbNR2GDUf9bevzU9Jxi6Bz8TEwvSEpump",
+      "price": 8.580368968e-06,
+      "proceeds": 45.48,
+      "pnl_usd": -4.52,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T19:37:12+00:00",
+      "side": "buy",
+      "symbol": "RECEIPTS",
+      "address": "CCpLmU68N3uxA6WqjshnaaWtwvg8HbxxQK5dUoWZpump",
+      "price": 1.2898935001674906e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T00:55:23+00:00",
-      "equity": 645053.16
-    },
     {
       "date": "2026-10-06T01:16:18+00:00",
       "equity": 644911.78
@@ -8532,6 +8519,10 @@
     {
       "date": "2026-10-25T19:08:40+00:00",
       "equity": 5879897.0
+    },
+    {
+      "date": "2026-10-25T19:37:12+00:00",
+      "equity": 5879887.38
     }
   ]
 }
