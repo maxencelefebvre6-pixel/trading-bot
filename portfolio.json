@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5880604.012290455,
+  "cash": 5880504.883165629,
   "positions": {
-    "6ythTMxhdQUkEWQs8dFxxE3AGLkgWMWS5JEVxZsbpump": {
-      "symbol": "BamBam",
-      "qty": 455047.34187427,
-      "entry_price": 0.00010877989045297378,
-      "last_price": 0.00010541072696466775,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T05:16:02+00:00",
-      "missing": 0
-    },
     "AfMHctdjzxjYqX3hbFMhjAoLS8ZfeURHEUf8bKiVpump": {
       "symbol": "TOTHETOP",
       "qty": 4392287.355344627,
       "entry_price": 1.126975445715485e-05,
-      "last_price": 1.0879266080322372e-05,
+      "last_price": 1.087926608e-05,
       "cost": 50.0,
       "entry_time": "2026-10-25T05:16:02+00:00",
       "missing": 0
@@ -24,39 +15,31 @@
       "symbol": "kittylick",
       "qty": 3575369.795232778,
       "entry_price": 1.3844721758851592e-05,
-      "last_price": 1.3378586450874268e-05,
+      "last_price": 1.337858645e-05,
       "cost": 50.0,
       "entry_time": "2026-10-25T05:16:02+00:00",
+      "missing": 0
+    },
+    "CKfnhDuXmPir9xyPVrNon8c7NYokYhZ8Zxi7gUZipump": {
+      "symbol": "TIT",
+      "qty": 4329856.147689473,
+      "entry_price": 1.1432250474744878e-05,
+      "last_price": 1.0996107207054123e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T05:51:21+00:00",
+      "missing": 0
+    },
+    "9nCnjCn1u7Ev4yZyqDyzngeTaVu7W53qMU4vqciypump": {
+      "symbol": "SCAM",
+      "qty": 1704186.6212991038,
+      "entry_price": 2.9046114657481632e-05,
+      "last_price": 2.8057315265784357e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T05:51:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T04:32:08+00:00",
-      "side": "sell",
-      "symbol": "FOMOCAT",
-      "address": "FBkaVrZTSy4zHmp2NGyDFApMiZfQ3Egv3dgHYBUMpump",
-      "price": 1.116686919e-06,
-      "proceeds": 1.18,
-      "pnl_usd": -48.82,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-22T04:32:08+00:00",
-      "side": "buy",
-      "symbol": "Au",
-      "address": "8XMxEJPkv5sUXPByXtJXkA6zu7UoYKMPRFW6fAGepump",
-      "price": 8.56128795866291e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T04:32:08+00:00",
-      "side": "buy",
-      "symbol": "SURY",
-      "address": "GFRMNCeJWoTBhWiKzrFbQjxPsqaaiNeAkjqKFFx6pump",
-      "price": 4.4028746824443236e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T04:32:08+00:00",
       "side": "buy",
@@ -4528,13 +4511,35 @@
       "address": "6iPDynHX634CA4bJTLKUNMeHoKAVCaYJPzDWdVeppump",
       "price": 1.3844721758851592e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T05:51:21+00:00",
+      "side": "sell",
+      "symbol": "BamBam",
+      "address": "6ythTMxhdQUkEWQs8dFxxE3AGLkgWMWS5JEVxZsbpump",
+      "price": 1.995748469e-06,
+      "proceeds": 0.87,
+      "pnl_usd": -49.13,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-25T05:51:21+00:00",
+      "side": "buy",
+      "symbol": "TIT",
+      "address": "CKfnhDuXmPir9xyPVrNon8c7NYokYhZ8Zxi7gUZipump",
+      "price": 1.1432250474744878e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T05:51:21+00:00",
+      "side": "buy",
+      "symbol": "SCAM",
+      "address": "9nCnjCn1u7Ev4yZyqDyzngeTaVu7W53qMU4vqciypump",
+      "price": 2.9046114657481632e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T13:49:07+00:00",
-      "equity": 567666.56
-    },
     {
       "date": "2026-10-05T14:06:40+00:00",
       "equity": 567614.41
@@ -8530,6 +8535,10 @@
     {
       "date": "2026-10-25T05:16:02+00:00",
       "equity": 5880747.6
+    },
+    {
+      "date": "2026-10-25T05:51:21+00:00",
+      "equity": 5880695.93
     }
   ]
 }
