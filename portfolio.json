@@ -1,63 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5880026.221467935,
+  "cash": 5879878.926032785,
   "positions": {
     "7RqwT618RSzawFRapT2GxcTynJrRAuPxFZRDkn3dpump": {
       "symbol": "GNB",
       "qty": 242052.81907982758,
       "entry_price": 0.0002045008200614065,
-      "last_price": 0.00019847943952024233,
+      "last_price": 0.0001941866865,
       "cost": 50.0,
       "entry_time": "2026-10-25T16:33:12+00:00",
       "missing": 0
     },
-    "Hy9t2MVAGVtf42b88QeyqXB7NoCkRj34UkGZXptBpump": {
-      "symbol": "BLOB",
-      "qty": 1177226.801039619,
-      "entry_price": 4.204797236716505e-05,
-      "last_price": 4.0692928113492835e-05,
+    "6Sz9n9AqsGrGEVcVbf7VHipaeuPgVD6FHSEi81kdpump": {
+      "symbol": "GME",
+      "qty": 3863059.805598053,
+      "entry_price": 1.2813676849700425e-05,
+      "last_price": 1.23305634113909e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-25T16:33:12+00:00",
+      "entry_time": "2026-10-25T17:05:14+00:00",
+      "missing": 0
+    },
+    "Ds9AEfChNAJvN7kFnatGSedmMpCcpqjSsh5hoj55pump": {
+      "symbol": "Dog Think",
+      "qty": 6329691.103571245,
+      "entry_price": 7.820286833913876e-06,
+      "last_price": 7.530571074894878e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T17:05:14+00:00",
+      "missing": 0
+    },
+    "4EbxnYttmS47iZAVd5FASrkh7Zq89cxagBydiZWppump": {
+      "symbol": "MOON",
+      "qty": 376678.7993327977,
+      "entry_price": 0.00013141169635158174,
+      "last_price": 0.00012752002829417603,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T17:05:14+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T17:09:13+00:00",
-      "side": "buy",
-      "symbol": "KAREN",
-      "address": "teQAKaBGKTzjWpi6DABZj8jZv2CuFXEHxz6QSVJpump",
-      "price": 1.1105312218502508e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T17:09:13+00:00",
-      "side": "buy",
-      "symbol": "SAVPIR",
-      "address": "GEB7cztPJU9CyGSVHRG9n6C27XT9G5s8oTCKykXFpump",
-      "price": 8.440523881968661e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T17:42:04+00:00",
-      "side": "sell",
-      "symbol": "RICK",
-      "address": "8sXuueemPXFyoinyEgvFBnp2WVBfotoFVu77Gm62pump",
-      "price": 1.472484904e-05,
-      "proceeds": 45.76,
-      "pnl_usd": -4.24,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-22T17:42:04+00:00",
-      "side": "sell",
-      "symbol": "CANDLE",
-      "address": "66PcGP5fjGKr1ds1QKkKP2dt5cua319J3HZtdqEhpump",
-      "price": 1.590684753e-05,
-      "proceeds": 10.83,
-      "pnl_usd": -39.17,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-22T17:42:04+00:00",
       "side": "sell",
@@ -4521,13 +4503,43 @@
       "address": "Hy9t2MVAGVtf42b88QeyqXB7NoCkRj34UkGZXptBpump",
       "price": 4.204797236716505e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T17:05:14+00:00",
+      "side": "sell",
+      "symbol": "BLOB",
+      "address": "Hy9t2MVAGVtf42b88QeyqXB7NoCkRj34UkGZXptBpump",
+      "price": 2.398153928e-06,
+      "proceeds": 2.7,
+      "pnl_usd": -47.3,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T17:05:14+00:00",
+      "side": "buy",
+      "symbol": "GME",
+      "address": "6Sz9n9AqsGrGEVcVbf7VHipaeuPgVD6FHSEi81kdpump",
+      "price": 1.2813676849700425e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T17:05:14+00:00",
+      "side": "buy",
+      "symbol": "Dog Think",
+      "address": "Ds9AEfChNAJvN7kFnatGSedmMpCcpqjSsh5hoj55pump",
+      "price": 7.820286833913876e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T17:05:14+00:00",
+      "side": "buy",
+      "symbol": "MOON",
+      "address": "4EbxnYttmS47iZAVd5FASrkh7Zq89cxagBydiZWppump",
+      "price": 0.00013141169635158174,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T23:11:53+00:00",
-      "equity": 641105.94
-    },
     {
       "date": "2026-10-05T23:28:43+00:00",
       "equity": 641099.38
@@ -8523,6 +8535,10 @@
     {
       "date": "2026-10-25T16:33:12+00:00",
       "equity": 5880122.17
+    },
+    {
+      "date": "2026-10-25T17:05:14+00:00",
+      "equity": 5880069.26
     }
   ]
 }
