@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5879878.926032785,
+  "cash": 5879878.2086348105,
   "positions": {
-    "7RqwT618RSzawFRapT2GxcTynJrRAuPxFZRDkn3dpump": {
-      "symbol": "GNB",
-      "qty": 242052.81907982758,
-      "entry_price": 0.0002045008200614065,
-      "last_price": 0.0001941866865,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T16:33:12+00:00",
-      "missing": 0
-    },
-    "6Sz9n9AqsGrGEVcVbf7VHipaeuPgVD6FHSEi81kdpump": {
-      "symbol": "GME",
-      "qty": 3863059.805598053,
-      "entry_price": 1.2813676849700425e-05,
-      "last_price": 1.23305634113909e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T17:05:14+00:00",
-      "missing": 0
-    },
     "Ds9AEfChNAJvN7kFnatGSedmMpCcpqjSsh5hoj55pump": {
       "symbol": "Dog Think",
       "qty": 6329691.103571245,
       "entry_price": 7.820286833913876e-06,
-      "last_price": 7.530571074894878e-06,
+      "last_price": 7.530571075e-06,
       "cost": 50.0,
       "entry_time": "2026-10-25T17:05:14+00:00",
       "missing": 0
@@ -33,39 +15,22 @@
       "symbol": "MOON",
       "qty": 376678.7993327977,
       "entry_price": 0.00013141169635158174,
-      "last_price": 0.00012752002829417603,
+      "last_price": 0.0001275981823,
       "cost": 50.0,
       "entry_time": "2026-10-25T17:05:14+00:00",
+      "missing": 0
+    },
+    "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump": {
+      "symbol": "Twin",
+      "qty": 3520047.2116180416,
+      "entry_price": 1.4062311390774386e-05,
+      "last_price": 1.3555949368859105e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T17:34:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T17:42:04+00:00",
-      "side": "sell",
-      "symbol": "KAREN",
-      "address": "teQAKaBGKTzjWpi6DABZj8jZv2CuFXEHxz6QSVJpump",
-      "price": 1.92134151e-05,
-      "proceeds": 79.61,
-      "pnl_usd": 29.61,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-22T17:42:05+00:00",
-      "side": "buy",
-      "symbol": "Alone",
-      "address": "G8CMwNsTFQ53hDRdAUDZRxJrtezZ8oRH2zx922hHpump",
-      "price": 2.0530852801497827e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T17:42:05+00:00",
-      "side": "buy",
-      "symbol": "PULP",
-      "address": "6uXpCTxkHXn2TBu8EnyWtHvStjApVtmDjibcHQBepump",
-      "price": 1.3759126643075047e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T18:12:03+00:00",
       "side": "sell",
@@ -4537,13 +4502,37 @@
       "address": "4EbxnYttmS47iZAVd5FASrkh7Zq89cxagBydiZWppump",
       "price": 0.00013141169635158174,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T17:34:40+00:00",
+      "side": "sell",
+      "symbol": "GNB",
+      "address": "7RqwT618RSzawFRapT2GxcTynJrRAuPxFZRDkn3dpump",
+      "price": 0.0001941866865,
+      "proceeds": 45.12,
+      "pnl_usd": -4.88,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T17:34:40+00:00",
+      "side": "sell",
+      "symbol": "GME",
+      "address": "6Sz9n9AqsGrGEVcVbf7VHipaeuPgVD6FHSEi81kdpump",
+      "price": 1.126588268e-06,
+      "proceeds": 4.16,
+      "pnl_usd": -45.84,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-25T17:34:41+00:00",
+      "side": "buy",
+      "symbol": "Twin",
+      "address": "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+      "price": 1.4062311390774386e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T23:28:43+00:00",
-      "equity": 641099.38
-    },
     {
       "date": "2026-10-05T23:44:43+00:00",
       "equity": 640983.5
@@ -8539,6 +8528,10 @@
     {
       "date": "2026-10-25T17:05:14+00:00",
       "equity": 5880069.26
+    },
+    {
+      "date": "2026-10-25T17:34:41+00:00",
+      "equity": 5880021.66
     }
   ]
 }
