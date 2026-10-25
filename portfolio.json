@@ -1,90 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5879647.7481334545,
+  "cash": 5879461.372091596,
   "positions": {
-    "eA68N4ka8Aueggre9nTAG6SQnAJdD9KfdAKhEfhpump": {
-      "symbol": "Claude AI",
-      "qty": 140666.21911867862,
-      "entry_price": 0.00035189685419949595,
-      "last_price": 0.0003413008218900418,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T20:58:27+00:00",
-      "missing": 0
-    },
     "71anv4fi2vgS6cYJrgg5UQLhqb1J3sU3aiGUvc94pump": {
       "symbol": "Pimp",
       "qty": 2980175.998101688,
       "entry_price": 1.660975728666042e-05,
-      "last_price": 1.6064217817308522e-05,
+      "last_price": 1.606421782e-05,
       "cost": 50.0,
       "entry_time": "2026-10-25T20:58:27+00:00",
       "missing": 0
     },
-    "CSsmSNoHjzLUhgRE2zybGQSHSYANH7KY8vgUycyGpump": {
-      "symbol": "CHAMBER",
-      "qty": 4939653.980065395,
-      "entry_price": 1.0020944827261904e-05,
-      "last_price": 9.65217525447824e-06,
+    "4za3s1LwdU5TUuWvEEeXSATazfAMTdw3Fv6McxBRpump": {
+      "symbol": "희망이",
+      "qty": 3253203.439535984,
+      "entry_price": 1.521577144497928e-05,
+      "last_price": 1.4670796868139242e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-25T20:58:27+00:00",
+      "entry_time": "2026-10-25T21:26:56+00:00",
+      "missing": 0
+    },
+    "BBVp72uZ2BZ3z8r8NfrdMtpqjvSQoEXQWAGScucapump": {
+      "symbol": "Lega",
+      "qty": 3763788.0464331084,
+      "entry_price": 1.3151643872962105e-05,
+      "last_price": 1.2705693672015783e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T21:26:56+00:00",
+      "missing": 0
+    },
+    "FUqJKjhSLegrkGLMJwWnUo3EFtWLW3KXygjs2fsWpump": {
+      "symbol": "GTA",
+      "qty": 4555982.328981241,
+      "entry_price": 1.0864835819297098e-05,
+      "last_price": 1.0457621147260554e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T21:26:56+00:00",
+      "missing": 0
+    },
+    "9Sxpavci2mgvRkPGpE5tj3wg4okMPzTADzw9mTs9pump": {
+      "symbol": "Tao",
+      "qty": 5978411.285150244,
+      "entry_price": 8.279791676921406e-06,
+      "last_price": 7.977240031575159e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T21:26:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T22:23:11+00:00",
-      "side": "sell",
-      "symbol": "1",
-      "address": "7d7XQnTsuzg2YAtvv8LLsK1EbRgnCZUBHmFuk742pump",
-      "price": 4.51448547e-05,
-      "proceeds": 25.75,
-      "pnl_usd": -24.25,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-22T22:23:11+00:00",
-      "side": "buy",
-      "symbol": "RICH",
-      "address": "3dGBpugcKZ9eoWtqK5R5mQknCrhtYdMmMx4VjTyxpump",
-      "price": 1.2094131345235115e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T22:23:11+00:00",
-      "side": "buy",
-      "symbol": "Batman",
-      "address": "3mETQJ1PxuA9qokpt66Xuu4GaGyADR2goTETJz7Bpump",
-      "price": 2.7702091183870465e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T22:23:11+00:00",
-      "side": "buy",
-      "symbol": "Burger",
-      "address": "AjnZRJGNT1rxRc2MU65PmkjeV98DrQ3FC1KKvS4Ppump",
-      "price": 8.88139704060207e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T22:57:27+00:00",
-      "side": "sell",
-      "symbol": "RICH",
-      "address": "3dGBpugcKZ9eoWtqK5R5mQknCrhtYdMmMx4VjTyxpump",
-      "price": 2.897152459e-06,
-      "proceeds": 11.33,
-      "pnl_usd": -38.67,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T22:57:27+00:00",
-      "side": "sell",
-      "symbol": "Batman",
-      "address": "3mETQJ1PxuA9qokpt66Xuu4GaGyADR2goTETJz7Bpump",
-      "price": 2.891676745e-06,
-      "proceeds": 4.95,
-      "pnl_usd": -45.05,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-22T22:57:27+00:00",
       "side": "sell",
@@ -4528,13 +4492,61 @@
       "address": "CSsmSNoHjzLUhgRE2zybGQSHSYANH7KY8vgUycyGpump",
       "price": 1.0020944827261904e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T21:26:56+00:00",
+      "side": "sell",
+      "symbol": "Claude AI",
+      "address": "eA68N4ka8Aueggre9nTAG6SQnAJdD9KfdAKhEfhpump",
+      "price": 1.831122207e-06,
+      "proceeds": 0.25,
+      "pnl_usd": -49.75,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-25T21:26:56+00:00",
+      "side": "sell",
+      "symbol": "CHAMBER",
+      "address": "CSsmSNoHjzLUhgRE2zybGQSHSYANH7KY8vgUycyGpump",
+      "price": 2.838282672e-06,
+      "proceeds": 13.38,
+      "pnl_usd": -36.62,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T21:26:56+00:00",
+      "side": "buy",
+      "symbol": "희망이",
+      "address": "4za3s1LwdU5TUuWvEEeXSATazfAMTdw3Fv6McxBRpump",
+      "price": 1.521577144497928e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T21:26:56+00:00",
+      "side": "buy",
+      "symbol": "Lega",
+      "address": "BBVp72uZ2BZ3z8r8NfrdMtpqjvSQoEXQWAGScucapump",
+      "price": 1.3151643872962105e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T21:26:56+00:00",
+      "side": "buy",
+      "symbol": "GTA",
+      "address": "FUqJKjhSLegrkGLMJwWnUo3EFtWLW3KXygjs2fsWpump",
+      "price": 1.0864835819297098e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T21:26:56+00:00",
+      "side": "buy",
+      "symbol": "Tao",
+      "address": "9Sxpavci2mgvRkPGpE5tj3wg4okMPzTADzw9mTs9pump",
+      "price": 8.279791676921406e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T02:07:53+00:00",
-      "equity": 644800.71
-    },
     {
       "date": "2026-10-06T02:48:59+00:00",
       "equity": 644794.44
@@ -8530,6 +8542,10 @@
     {
       "date": "2026-10-25T20:58:27+00:00",
       "equity": 5879791.31
+    },
+    {
+      "date": "2026-10-25T21:26:56+00:00",
+      "equity": 5879700.13
     }
   ]
 }
