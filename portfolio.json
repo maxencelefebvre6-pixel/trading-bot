@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5879797.7481334545,
-  "positions": {},
+  "cash": 5879647.7481334545,
+  "positions": {
+    "eA68N4ka8Aueggre9nTAG6SQnAJdD9KfdAKhEfhpump": {
+      "symbol": "Claude AI",
+      "qty": 140666.21911867862,
+      "entry_price": 0.00035189685419949595,
+      "last_price": 0.0003413008218900418,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T20:58:27+00:00",
+      "missing": 0
+    },
+    "71anv4fi2vgS6cYJrgg5UQLhqb1J3sU3aiGUvc94pump": {
+      "symbol": "Pimp",
+      "qty": 2980175.998101688,
+      "entry_price": 1.660975728666042e-05,
+      "last_price": 1.6064217817308522e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T20:58:27+00:00",
+      "missing": 0
+    },
+    "CSsmSNoHjzLUhgRE2zybGQSHSYANH7KY8vgUycyGpump": {
+      "symbol": "CHAMBER",
+      "qty": 4939653.980065395,
+      "entry_price": 1.0020944827261904e-05,
+      "last_price": 9.65217525447824e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T20:58:27+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-22T20:43:27+00:00",
-      "side": "buy",
-      "symbol": "CRIME",
-      "address": "3isuxgAYyRN6QsUUpuEMGey6S28skLFrcP86kWampump",
-      "price": 1.2801221362610239e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T21:16:42+00:00",
-      "side": "sell",
-      "symbol": "CRIME",
-      "address": "3isuxgAYyRN6QsUUpuEMGey6S28skLFrcP86kWampump",
-      "price": 3.18785353e-06,
-      "proceeds": 11.78,
-      "pnl_usd": -38.22,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-22T21:53:27+00:00",
-      "side": "buy",
-      "symbol": "1",
-      "address": "7d7XQnTsuzg2YAtvv8LLsK1EbRgnCZUBHmFuk742pump",
-      "price": 4.296157540080755e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T22:23:11+00:00",
       "side": "sell",
@@ -4502,13 +4504,33 @@
       "proceeds": 0.21,
       "pnl_usd": -49.79,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-25T20:58:27+00:00",
+      "side": "buy",
+      "symbol": "Claude AI",
+      "address": "eA68N4ka8Aueggre9nTAG6SQnAJdD9KfdAKhEfhpump",
+      "price": 0.00035189685419949595,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T20:58:27+00:00",
+      "side": "buy",
+      "symbol": "Pimp",
+      "address": "71anv4fi2vgS6cYJrgg5UQLhqb1J3sU3aiGUvc94pump",
+      "price": 1.660975728666042e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T20:58:27+00:00",
+      "side": "buy",
+      "symbol": "CHAMBER",
+      "address": "CSsmSNoHjzLUhgRE2zybGQSHSYANH7KY8vgUycyGpump",
+      "price": 1.0020944827261904e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T01:51:37+00:00",
-      "equity": 644875.75
-    },
     {
       "date": "2026-10-06T02:07:53+00:00",
       "equity": 644800.71
@@ -8504,6 +8526,10 @@
     {
       "date": "2026-10-25T20:28:05+00:00",
       "equity": 5879797.75
+    },
+    {
+      "date": "2026-10-25T20:58:27+00:00",
+      "equity": 5879791.31
     }
   ]
 }
