@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880298.132710758,
+  "cash": 5880249.645274544,
   "positions": {
-    "GHjpD4pZ67mZX15gfgEg3w1jnvcMM5ZZj4cWy2wgpump": {
-      "symbol": "NOCOMMENT",
-      "qty": 700036.8472003739,
-      "entry_price": 7.071056359099259e-05,
-      "last_price": 6.847220013831595e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T12:55:35+00:00",
-      "missing": 0
-    },
     "hQj3giDmLB85tL2RRMCLop7Hoa7pVdTDKRAiFQLpump": {
       "symbol": "SOOTS",
       "qty": 7197349.269008577,
       "entry_price": 6.87753201211792e-06,
-      "last_price": 6.615105094041877e-06,
+      "last_price": 6.615105094e-06,
       "cost": 50.0,
       "entry_time": "2026-10-25T12:55:35+00:00",
+      "missing": 0
+    },
+    "Bj1TYZBLFMyGTNVGDkTGsLPVtyC7KpcdA6xHVBt2pump": {
+      "symbol": "pussyinbio",
+      "qty": 3535136.6302903285,
+      "entry_price": 1.4002287655833754e-05,
+      "last_price": 1.3496938909037597e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T13:28:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T10:35:16+00:00",
-      "side": "buy",
-      "symbol": "FUN",
-      "address": "GrVefczWMYJKXYeFWHLntaFQi4z127KBCQGCmSz6pump",
-      "price": 7.3322000772277325e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T10:35:16+00:00",
-      "side": "buy",
-      "symbol": "Kimichi",
-      "address": "J1mfwywdPwwjBGLbrWi5FnwMeF9uWhHYmJLvTAT8pump",
-      "price": 6.04521846979919e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T11:11:58+00:00",
       "side": "sell",
@@ -4521,13 +4505,27 @@
       "address": "hQj3giDmLB85tL2RRMCLop7Hoa7pVdTDKRAiFQLpump",
       "price": 6.87753201211792e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T13:28:49+00:00",
+      "side": "sell",
+      "symbol": "NOCOMMENT",
+      "address": "GHjpD4pZ67mZX15gfgEg3w1jnvcMM5ZZj4cWy2wgpump",
+      "price": 2.252404975e-06,
+      "proceeds": 1.51,
+      "pnl_usd": -48.49,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T13:28:49+00:00",
+      "side": "buy",
+      "symbol": "pussyinbio",
+      "address": "Bj1TYZBLFMyGTNVGDkTGsLPVtyC7KpcdA6xHVBt2pump",
+      "price": 1.4002287655833754e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T18:54:29+00:00",
-      "equity": 641389.44
-    },
     {
       "date": "2026-10-05T21:32:09+00:00",
       "equity": 641357.15
@@ -8523,6 +8521,10 @@
     {
       "date": "2026-10-25T12:55:35+00:00",
       "equity": 5880393.68
+    },
+    {
+      "date": "2026-10-25T13:28:49+00:00",
+      "equity": 5880344.97
     }
   ]
 }
