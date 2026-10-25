@@ -1,45 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880948.31356354,
+  "cash": 5880949.716694222,
   "positions": {
-    "ANj79q9YCePjbZEGzDgpbgWoNR8hCPJ89QGpi61Dpump": {
-      "symbol": "SXSI",
-      "qty": 5707739.181324029,
-      "entry_price": 8.672435517370197e-06,
-      "last_price": 8.342271933591451e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T02:22:37+00:00",
-      "missing": 0
-    },
     "DQDu837TRSWdrdgAzXZtWQWmGtsbU4RMG7oPPKMqpump": {
       "symbol": "cap",
       "qty": 2744241.8743141335,
       "entry_price": 1.803776863231908e-05,
-      "last_price": 1.7444320565328393e-05,
+      "last_price": 1.744432057e-05,
       "cost": 50.0,
       "entry_time": "2026-10-25T02:22:37+00:00",
+      "missing": 0
+    },
+    "AUQZcnP3SXgsbn67urzMhxVoJYky4nuDvxotAQC2pump": {
+      "symbol": "wApe",
+      "qty": 4729627.556640019,
+      "entry_price": 1.0465940374206835e-05,
+      "last_price": 1.00988598661472e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T02:59:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-21T23:12:40+00:00",
-      "side": "buy",
-      "symbol": "PULLBACK",
-      "address": "766NNPN93efYTvFMXxNmKMrDpaeTwAtjNUwLDdr5pump",
-      "price": 8.800501547243314e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-21T23:47:14+00:00",
-      "side": "sell",
-      "symbol": "PULLBACK",
-      "address": "766NNPN93efYTvFMXxNmKMrDpaeTwAtjNUwLDdr5pump",
-      "price": 9.821887613e-05,
-      "proceeds": 27.35,
-      "pnl_usd": -22.65,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-21T23:47:14+00:00",
       "side": "buy",
@@ -4519,13 +4501,27 @@
       "address": "DQDu837TRSWdrdgAzXZtWQWmGtsbU4RMG7oPPKMqpump",
       "price": 1.803776863231908e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T02:59:17+00:00",
+      "side": "sell",
+      "symbol": "SXSI",
+      "address": "ANj79q9YCePjbZEGzDgpbgWoNR8hCPJ89QGpi61Dpump",
+      "price": 9.549532267e-06,
+      "proceeds": 51.4,
+      "pnl_usd": 1.4,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-25T02:59:18+00:00",
+      "side": "buy",
+      "symbol": "wApe",
+      "address": "AUQZcnP3SXgsbn67urzMhxVoJYky4nuDvxotAQC2pump",
+      "price": 1.0465940374206835e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T11:43:21+00:00",
-      "equity": 552711.19
-    },
     {
       "date": "2026-10-05T12:00:18+00:00",
       "equity": 552683.79
@@ -8521,6 +8517,10 @@
     {
       "date": "2026-10-25T02:22:37+00:00",
       "equity": 5881043.8
+    },
+    {
+      "date": "2026-10-25T02:59:18+00:00",
+      "equity": 5881045.35
     }
   ]
 }
