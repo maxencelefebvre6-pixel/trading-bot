@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5881057.1758970525,
-  "positions": {},
+  "cash": 5881007.1758970525,
+  "positions": {
+    "32HXjWFEPGt1UmHgnKgf64DBYaegkX5jFYsAfZdKpump": {
+      "symbol": "LMAO",
+      "qty": 5354077.778692029,
+      "entry_price": 9.245289673788148e-06,
+      "last_price": 8.896261471131568e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T01:52:39+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-21T23:12:39+00:00",
-      "side": "sell",
-      "symbol": "CYBER",
-      "address": "FRpQVJSpmNV84vbRS9PY16KgDotkPTXN9aFpXsRzpump",
-      "price": 9.327272086e-05,
-      "proceeds": 26.61,
-      "pnl_usd": -23.39,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-21T23:12:39+00:00",
       "side": "sell",
@@ -4506,13 +4506,17 @@
       "proceeds": 175.58,
       "pnl_usd": 125.58,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-25T01:52:39+00:00",
+      "side": "buy",
+      "symbol": "LMAO",
+      "address": "32HXjWFEPGt1UmHgnKgf64DBYaegkX5jFYsAfZdKpump",
+      "price": 9.245289673788148e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T10:57:33+00:00",
-      "equity": 552505.35
-    },
     {
       "date": "2026-10-05T11:20:49+00:00",
       "equity": 552457.34
@@ -8508,6 +8512,10 @@
     {
       "date": "2026-10-25T01:18:41+00:00",
       "equity": 5881057.18
+    },
+    {
+      "date": "2026-10-25T01:52:39+00:00",
+      "equity": 5881054.81
     }
   ]
 }
