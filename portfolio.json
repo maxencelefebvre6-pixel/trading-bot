@@ -1,87 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5880845.505245773,
+  "cash": 5880879.410222607,
   "positions": {
-    "AUQZcnP3SXgsbn67urzMhxVoJYky4nuDvxotAQC2pump": {
-      "symbol": "wApe",
-      "qty": 4729627.556640019,
-      "entry_price": 1.0465940374206835e-05,
-      "last_price": 1.009885987e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T02:59:18+00:00",
-      "missing": 0
-    },
-    "4eZxnVygJcETMH2HMPjn5wCeRL45XusTFnLpbEKmpump": {
-      "symbol": "Marvin",
-      "qty": 789564.6894376575,
-      "entry_price": 6.269277319791848e-05,
-      "last_price": 6.0705356781554464e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T03:32:09+00:00",
-      "missing": 0
-    },
-    "2Qm9Pgq23GNAdxZRpzb5WHCNxRNLMjeWSr6uULvwpump": {
-      "symbol": "Marvin",
-      "qty": 294182.3948049719,
-      "entry_price": 0.0001682629581991676,
-      "last_price": 0.00016309461840847422,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T03:32:09+00:00",
-      "missing": 0
-    },
     "ABfaFvGt4VuHGLCoZjJ27z64KMBgPR8nGikgVtzppump": {
       "symbol": "RICK",
       "qty": 6864502.5409557475,
       "entry_price": 7.211010514551881e-06,
-      "last_price": 6.936763265617027e-06,
+      "last_price": 6.936763266e-06,
       "cost": 50.0,
       "entry_time": "2026-10-25T03:32:09+00:00",
+      "missing": 0
+    },
+    "2U917zKEN4GDT5m8UhkL9uHdDE12cFCESWGsZWgdpump": {
+      "symbol": "CHILLMACCA",
+      "qty": 1058028.0806707554,
+      "entry_price": 4.678514767643843e-05,
+      "last_price": 4.5292018164966546e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T04:10:11+00:00",
+      "missing": 0
+    },
+    "8c9RLDRcEmkY8H5gMsKwesSWZudgAMdZDxK4PMrVpump": {
+      "symbol": "CHIKO",
+      "qty": 1681445.3973153655,
+      "entry_price": 2.943895774375596e-05,
+      "last_price": 2.841591580992945e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T04:10:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T00:56:05+00:00",
-      "side": "buy",
-      "symbol": "666",
-      "address": "EHjYHEtUweibu5F5AmJdQoYLXDCzmhM4GVZEU1ZApump",
-      "price": 1.0594793829231145e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T02:09:59+00:00",
-      "side": "sell",
-      "symbol": "666",
-      "address": "EHjYHEtUweibu5F5AmJdQoYLXDCzmhM4GVZEU1ZApump",
-      "price": 1.02237226e-05,
-      "proceeds": 45.59,
-      "pnl_usd": -4.41,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-22T02:09:59+00:00",
-      "side": "buy",
-      "symbol": "AIC",
-      "address": "44BcqLcs6YK5LapyUjAeidPPv1tSELwoQPkv71w9pump",
-      "price": 2.0911406328693345e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T02:09:59+00:00",
-      "side": "buy",
-      "symbol": "ElePHPant",
-      "address": "F2mrcqUA6K3VMBiAuqqDDaHmzY8Yw9SaPiTr2A9Npump",
-      "price": 1.0104095012107255e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T02:09:59+00:00",
-      "side": "buy",
-      "symbol": "USMS",
-      "address": "H72yi3BaxqWtFfryE5NChB84962fzwf6Mn7zByYJpump",
-      "price": 1.0553312104572401e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-22T02:46:23+00:00",
       "side": "sell",
@@ -4535,13 +4484,55 @@
       "address": "ABfaFvGt4VuHGLCoZjJ27z64KMBgPR8nGikgVtzppump",
       "price": 7.211010514551881e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T04:10:11+00:00",
+      "side": "sell",
+      "symbol": "wApe",
+      "address": "AUQZcnP3SXgsbn67urzMhxVoJYky4nuDvxotAQC2pump",
+      "price": 1.009885987e-05,
+      "proceeds": 45.58,
+      "pnl_usd": -4.42,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T04:10:11+00:00",
+      "side": "sell",
+      "symbol": "Marvin",
+      "address": "4eZxnVygJcETMH2HMPjn5wCeRL45XusTFnLpbEKmpump",
+      "price": 4.677367644e-06,
+      "proceeds": 3.54,
+      "pnl_usd": -46.46,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T04:10:11+00:00",
+      "side": "sell",
+      "symbol": "Marvin",
+      "address": "2Qm9Pgq23GNAdxZRpzb5WHCNxRNLMjeWSr6uULvwpump",
+      "price": 0.0003012215562,
+      "proceeds": 84.78,
+      "pnl_usd": 34.78,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-25T04:10:11+00:00",
+      "side": "buy",
+      "symbol": "CHILLMACCA",
+      "address": "2U917zKEN4GDT5m8UhkL9uHdDE12cFCESWGsZWgdpump",
+      "price": 4.678514767643843e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T04:10:11+00:00",
+      "side": "buy",
+      "symbol": "CHIKO",
+      "address": "8c9RLDRcEmkY8H5gMsKwesSWZudgAMdZDxK4PMrVpump",
+      "price": 2.943895774375596e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T12:29:46+00:00",
-      "equity": 552662.38
-    },
     {
       "date": "2026-10-05T12:57:18+00:00",
       "equity": 552587.52
@@ -8537,6 +8528,10 @@
     {
       "date": "2026-10-25T03:32:09+00:00",
       "equity": 5881036.8
+    },
+    {
+      "date": "2026-10-25T04:10:11+00:00",
+      "equity": 5881022.73
     }
   ]
 }
