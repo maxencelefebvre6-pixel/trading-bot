@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880490.411461245,
+  "cash": 5880419.200011882,
   "positions": {
-    "GTv58Sngivyhtb4Qxtm3ERBW2RCBFL9mTykFEL41pump": {
-      "symbol": "Big Titty",
-      "qty": 2674396.0016018446,
-      "entry_price": 1.8508852081124747e-05,
-      "last_price": 1.789934270701353e-05,
+    "6wBKdeJBFqtBLCdJQhzdwivKk6vKR9PPkUW3YHkpump": {
+      "symbol": "e/acc",
+      "qty": 7179.751474716576,
+      "entry_price": 0.0068943890571022915,
+      "last_price": 0.006692076630482278,
       "cost": 50.0,
-      "entry_time": "2026-10-25T08:48:10+00:00",
+      "entry_time": "2026-10-25T09:13:43+00:00",
+      "missing": 0
+    },
+    "FvXZ5vRysRHyZo4FPebGhW7RXRPBNshSiKFGLk6Mpump": {
+      "symbol": "EMU",
+      "qty": 6830610.503146679,
+      "entry_price": 7.246790016382383e-06,
+      "last_price": 6.9742266443612745e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-25T09:13:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T08:01:28+00:00",
-      "side": "sell",
-      "symbol": "STENKS",
-      "address": "cTR1ApbZG6VyhwkWC4KvFr4hZzkjbLwQd2rjk15pump",
-      "price": 3.146742023e-05,
-      "proceeds": 45.83,
-      "pnl_usd": -4.17,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-22T08:01:28+00:00",
-      "side": "sell",
-      "symbol": "FROGGY",
-      "address": "9jFkLjPsgzc7EpsoHpdbyRxYDhSoP9kzXgBCwJ2dpump",
-      "price": 2.06831478e-06,
-      "proceeds": 2.85,
-      "pnl_usd": -47.15,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-22T08:01:28+00:00",
-      "side": "sell",
-      "symbol": "ACTIII",
-      "address": "BUQGK3AqZH9rZZSVmsb5DZVH6hcx3yiY3bGW8RRCpump",
-      "price": 3.057096674e-06,
-      "proceeds": 9.22,
-      "pnl_usd": -40.78,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-22T08:01:29+00:00",
       "side": "buy",
@@ -4514,13 +4493,35 @@
       "address": "GTv58Sngivyhtb4Qxtm3ERBW2RCBFL9mTykFEL41pump",
       "price": 1.8508852081124747e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T09:13:43+00:00",
+      "side": "sell",
+      "symbol": "Big Titty",
+      "address": "GTv58Sngivyhtb4Qxtm3ERBW2RCBFL9mTykFEL41pump",
+      "price": 1.124937044e-05,
+      "proceeds": 28.79,
+      "pnl_usd": -21.21,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-25T09:13:43+00:00",
+      "side": "buy",
+      "symbol": "e/acc",
+      "address": "6wBKdeJBFqtBLCdJQhzdwivKk6vKR9PPkUW3YHkpump",
+      "price": 0.0068943890571022915,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-25T09:13:43+00:00",
+      "side": "buy",
+      "symbol": "EMU",
+      "address": "FvXZ5vRysRHyZo4FPebGhW7RXRPBNshSiKFGLk6Mpump",
+      "price": 7.246790016382383e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-05T15:59:47+00:00",
-      "equity": 567842.8
-    },
     {
       "date": "2026-10-05T16:24:18+00:00",
       "equity": 567696.3
@@ -8516,6 +8517,10 @@
     {
       "date": "2026-10-25T08:48:10+00:00",
       "equity": 5880538.28
+    },
+    {
+      "date": "2026-10-25T09:13:43+00:00",
+      "equity": 5880514.89
     }
   ]
 }
