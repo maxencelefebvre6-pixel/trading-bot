@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879594.441976812,
+  "cash": 5879680.321438795,
   "positions": {
-    "BBVp72uZ2BZ3z8r8NfrdMtpqjvSQoEXQWAGScucapump": {
-      "symbol": "Lega",
-      "qty": 3763788.0464331084,
-      "entry_price": 1.3151643872962105e-05,
-      "last_price": 1.271053811e-05,
+    "GcnYhbxdVAZimnMrB4hrUUuq4LzdsaBiN9DGQLotpump": {
+      "symbol": "민수",
+      "qty": 5817781.5960284,
+      "entry_price": 8.508397777220093e-06,
+      "last_price": 8.187679781672089e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-25T21:26:56+00:00",
-      "missing": 0
-    },
-    "FUqJKjhSLegrkGLMJwWnUo3EFtWLW3KXygjs2fsWpump": {
-      "symbol": "GTA",
-      "qty": 4555982.328981241,
-      "entry_price": 1.0864835819297098e-05,
-      "last_price": 1.028560777e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T21:26:56+00:00",
-      "missing": 0
-    },
-    "9Sxpavci2mgvRkPGpE5tj3wg4okMPzTADzw9mTs9pump": {
-      "symbol": "Tao",
-      "qty": 5978411.285150244,
-      "entry_price": 8.279791676921406e-06,
-      "last_price": 7.977240032e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-25T21:26:56+00:00",
+      "entry_time": "2026-10-25T22:48:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-22T23:29:11+00:00",
-      "side": "buy",
-      "symbol": "NOODLELANA\\",
-      "address": "9a1nu2wrdWDUPnyLGNjbQCSNYYm3qkPWYZndmFh5pump",
-      "price": 6.774991424013613e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T23:29:11+00:00",
-      "side": "buy",
-      "symbol": "TESLA SI",
-      "address": "3E8y793CNkxSvoX6NS2bccMBdrAEWhoRAq56cL3xpump",
-      "price": 0.0004050361906469295,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-22T23:58:23+00:00",
-      "side": "sell",
-      "symbol": "ヤギ",
-      "address": "4jSZwNrikbHKAonDpq2jGBv4bJoL8AnozY2H56v9pump",
-      "price": 5.846926378e-05,
-      "proceeds": 33.84,
-      "pnl_usd": -16.16,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-22T23:58:23+00:00",
-      "side": "sell",
-      "symbol": "NOODLELANA\\",
-      "address": "9a1nu2wrdWDUPnyLGNjbQCSNYYm3qkPWYZndmFh5pump",
-      "price": 1.987938663e-06,
-      "proceeds": 1.39,
-      "pnl_usd": -48.61,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-22T23:58:23+00:00",
       "side": "sell",
@@ -4528,13 +4474,47 @@
       "proceeds": 136.89,
       "pnl_usd": 86.89,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-25T22:48:36+00:00",
+      "side": "sell",
+      "symbol": "Lega",
+      "address": "BBVp72uZ2BZ3z8r8NfrdMtpqjvSQoEXQWAGScucapump",
+      "price": 1.271053811e-05,
+      "proceeds": 45.71,
+      "pnl_usd": -4.29,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T22:48:36+00:00",
+      "side": "sell",
+      "symbol": "GTA",
+      "address": "FUqJKjhSLegrkGLMJwWnUo3EFtWLW3KXygjs2fsWpump",
+      "price": 1.028560777e-05,
+      "proceeds": 44.73,
+      "pnl_usd": -5.27,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T22:48:36+00:00",
+      "side": "sell",
+      "symbol": "Tao",
+      "address": "9Sxpavci2mgvRkPGpE5tj3wg4okMPzTADzw9mTs9pump",
+      "price": 7.977240032e-06,
+      "proceeds": 45.44,
+      "pnl_usd": -4.56,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-25T22:48:36+00:00",
+      "side": "buy",
+      "symbol": "민수",
+      "address": "GcnYhbxdVAZimnMrB4hrUUuq4LzdsaBiN9DGQLotpump",
+      "price": 8.508397777220093e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T03:24:24+00:00",
-      "equity": 644737.72
-    },
     {
       "date": "2026-10-06T03:45:57+00:00",
       "equity": 645321.09
@@ -8530,6 +8510,10 @@
     {
       "date": "2026-10-25T22:21:30+00:00",
       "equity": 5879736.83
+    },
+    {
+      "date": "2026-10-25T22:48:36+00:00",
+      "equity": 5879727.96
     }
   ]
 }
