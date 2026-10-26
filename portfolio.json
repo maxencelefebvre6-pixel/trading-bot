@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5880533.061141637,
+  "cash": 5880398.4237880055,
   "positions": {
-    "FjADmnSL6EjnvL99EoURmkMQTqowseCnmj9unr9apump": {
-      "symbol": "CACHE",
-      "qty": 5647118.590889151,
-      "entry_price": 8.765532227331199e-06,
-      "last_price": 8.433423296595338e-06,
+    "BXuygUoyVY99HmeKJHARZkcpfoMmo66z57epsjJjpump": {
+      "symbol": "AI",
+      "qty": 322928.9951671838,
+      "entry_price": 0.000153284470396885,
+      "last_price": 0.00014858586552091624,
       "cost": 50.0,
-      "entry_time": "2026-10-26T15:05:12+00:00",
+      "entry_time": "2026-10-26T16:07:48+00:00",
+      "missing": 0
+    },
+    "7DDqfwRZTbUzu21LGFCGKiYmKq5miXTWP5SicjRUpump": {
+      "symbol": "Maggie",
+      "qty": 3696832.380190639,
+      "entry_price": 1.3389841602027782e-05,
+      "last_price": 1.2884081429634771e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T16:07:48+00:00",
+      "missing": 0
+    },
+    "CQkjDQhpn51an6RqLxaBiZeduXQwmRuLqcqSaLefpump": {
+      "symbol": "OBJECT",
+      "qty": 144334368.5414492,
+      "entry_price": 3.429536603112297e-07,
+      "last_price": 3.2991996850095474e-07,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T16:07:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T10:51:44+00:00",
-      "side": "buy",
-      "symbol": "PUMP",
-      "address": "HffH5YB6YhTWinZYzbqJowpDbKzqALGMX1NFAHYdpump",
-      "price": 1.4031155593186027e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T11:22:59+00:00",
-      "side": "sell",
-      "symbol": "Mind Lot",
-      "address": "BWNvZSuGuMDZ1foz7koiiE5Y3T7uFi9Tz1k4gmgDpump",
-      "price": 2.30565966e-06,
-      "proceeds": 2.41,
-      "pnl_usd": -47.59,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T11:22:59+00:00",
-      "side": "sell",
-      "symbol": "PUMP",
-      "address": "HffH5YB6YhTWinZYzbqJowpDbKzqALGMX1NFAHYdpump",
-      "price": 0.0001304851547,
-      "proceeds": 432.57,
-      "pnl_usd": 382.57,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-23T11:23:00+00:00",
-      "side": "buy",
-      "symbol": "Stockcoin",
-      "address": "DXWxmeiBj8J2fBAHgzLoEzUQWZRDuszG6jjuvdLupump",
-      "price": 5.600605992187396e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T11:58:59+00:00",
       "side": "sell",
@@ -4512,13 +4494,43 @@
       "address": "FjADmnSL6EjnvL99EoURmkMQTqowseCnmj9unr9apump",
       "price": 8.765532227331199e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T16:07:48+00:00",
+      "side": "sell",
+      "symbol": "CACHE",
+      "address": "FjADmnSL6EjnvL99EoURmkMQTqowseCnmj9unr9apump",
+      "price": 2.853814884e-06,
+      "proceeds": 15.36,
+      "pnl_usd": -34.64,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T16:07:48+00:00",
+      "side": "buy",
+      "symbol": "AI",
+      "address": "BXuygUoyVY99HmeKJHARZkcpfoMmo66z57epsjJjpump",
+      "price": 0.000153284470396885,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T16:07:48+00:00",
+      "side": "buy",
+      "symbol": "Maggie",
+      "address": "7DDqfwRZTbUzu21LGFCGKiYmKq5miXTWP5SicjRUpump",
+      "price": 1.3389841602027782e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T16:07:48+00:00",
+      "side": "buy",
+      "symbol": "OBJECT",
+      "address": "CQkjDQhpn51an6RqLxaBiZeduXQwmRuLqcqSaLefpump",
+      "price": 3.429536603112297e-07,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T10:42:52+00:00",
-      "equity": 678531.16
-    },
     {
       "date": "2026-10-06T10:59:33+00:00",
       "equity": 678526.85
@@ -8514,6 +8526,10 @@
     {
       "date": "2026-10-26T15:05:12+00:00",
       "equity": 5880580.69
+    },
+    {
+      "date": "2026-10-26T16:07:48+00:00",
+      "equity": 5880541.66
     }
   ]
 }
