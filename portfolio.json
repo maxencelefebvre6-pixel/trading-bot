@@ -1,81 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5880610.941602296,
+  "cash": 5880542.582703193,
   "positions": {
-    "8ytcTDdxKSqA6mqvyyXCwEy6Gt44j4CCm3Jqvqdipump": {
-      "symbol": "McComedian",
-      "qty": 3315554.384520961,
-      "entry_price": 1.4929629937936269e-05,
-      "last_price": 1.4462767150986353e-05,
+    "GXdztTBenAPR2epx26T8KceiKNLzCKuAxksFtpHjpump": {
+      "symbol": "BUGS",
+      "qty": 793511.9926794276,
+      "entry_price": 6.238090974889348e-05,
+      "last_price": 6.040902812731072e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-26T10:23:22+00:00",
+      "entry_time": "2026-10-26T11:07:48+00:00",
       "missing": 0
     },
-    "BXUJqMPi9wzse36qJb5tdwXtKsdCLB16iBcVuffNpump": {
-      "symbol": "SpaceX",
-      "qty": 118725.55688677129,
-      "entry_price": 0.0004169279243491628,
-      "last_price": 0.0004043889392589493,
+    "9AGp5XqiiWvvjnHxG1qVTTD8eptamxthnWiynd3Ypump": {
+      "symbol": "AOP",
+      "qty": 169.2273202223106,
+      "entry_price": 0.29250596141907126,
+      "last_price": 0.28397665562450636,
       "cost": 50.0,
-      "entry_time": "2026-10-26T10:23:22+00:00",
+      "entry_time": "2026-10-26T11:07:48+00:00",
+      "missing": 0
+    },
+    "5yeH6p7z9MDUE9ckvJEaVLEryCFhQpDzcvJsW7e7pump": {
+      "symbol": "1BOOBS",
+      "qty": 16848768.355572503,
+      "entry_price": 2.937900204653745e-06,
+      "last_price": 2.8268078206070755e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T11:07:48+00:00",
+      "missing": 0
+    },
+    "BomYPKAZKAYKDB6jVsHHpd6WeKUDViJmkRfqCsGnpump": {
+      "symbol": "🔥",
+      "qty": 1563834.4981722978,
+      "entry_price": 3.16529658719335e-05,
+      "last_price": 3.055746974792117e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T11:07:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T08:21:38+00:00",
-      "side": "sell",
-      "symbol": "$GOD",
-      "address": "DypagpH2EQEoSd1EKk9DpukD7G1Ew8MtZmnWzK2rpump",
-      "price": 4.966427787e-05,
-      "proceeds": 45.96,
-      "pnl_usd": -4.04,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T08:21:38+00:00",
-      "side": "sell",
-      "symbol": "QQn",
-      "address": "78xVwWKyJiJcUvo9m51W5yEXohFEXTs2m9zYiQjVpump",
-      "price": 8.402921542e-06,
-      "proceeds": 45.38,
-      "pnl_usd": -4.62,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T08:21:38+00:00",
-      "side": "sell",
-      "symbol": "PAIRLESS",
-      "address": "EJcJdiZkvNhSPME38aTNvgif65v7Ly4DWGMUWgGSpump",
-      "price": 2.948299797e-06,
-      "proceeds": 13.55,
-      "pnl_usd": -36.45,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T08:21:39+00:00",
-      "side": "buy",
-      "symbol": "FORMATION",
-      "address": "7kARoWTfM2qzL6kj5Egmi9uo3myc1V4Y7Suz5eGUpump",
-      "price": 1.8647633497757842e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T08:21:39+00:00",
-      "side": "buy",
-      "symbol": "LMAO",
-      "address": "7cn5FfdNJcbAJsjWiP5qaexky91VHiBBcJJD5jrVpump",
-      "price": 0.00014301529384083851,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T08:21:39+00:00",
-      "side": "buy",
-      "symbol": "USMS",
-      "address": "CTWcpPsAxhkvQh28uPvs7K5HpG7kAAmxXxJtn1Popump",
-      "price": 4.589170789188038e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T08:21:39+00:00",
       "side": "buy",
@@ -4523,13 +4487,61 @@
       "address": "BXUJqMPi9wzse36qJb5tdwXtKsdCLB16iBcVuffNpump",
       "price": 0.0004169279243491628,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T11:07:48+00:00",
+      "side": "sell",
+      "symbol": "McComedian",
+      "address": "8ytcTDdxKSqA6mqvyyXCwEy6Gt44j4CCm3Jqvqdipump",
+      "price": 2.16931347e-06,
+      "proceeds": 6.85,
+      "pnl_usd": -43.15,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-26T11:07:48+00:00",
+      "side": "sell",
+      "symbol": "SpaceX",
+      "address": "BXUJqMPi9wzse36qJb5tdwXtKsdCLB16iBcVuffNpump",
+      "price": 0.001098091814,
+      "proceeds": 124.79,
+      "pnl_usd": 74.79,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-26T11:07:48+00:00",
+      "side": "buy",
+      "symbol": "BUGS",
+      "address": "GXdztTBenAPR2epx26T8KceiKNLzCKuAxksFtpHjpump",
+      "price": 6.238090974889348e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T11:07:48+00:00",
+      "side": "buy",
+      "symbol": "AOP",
+      "address": "9AGp5XqiiWvvjnHxG1qVTTD8eptamxthnWiynd3Ypump",
+      "price": 0.29250596141907126,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T11:07:48+00:00",
+      "side": "buy",
+      "symbol": "1BOOBS",
+      "address": "5yeH6p7z9MDUE9ckvJEaVLEryCFhQpDzcvJsW7e7pump",
+      "price": 2.937900204653745e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T11:07:48+00:00",
+      "side": "buy",
+      "symbol": "🔥",
+      "address": "BomYPKAZKAYKDB6jVsHHpd6WeKUDViJmkRfqCsGnpump",
+      "price": 3.16529658719335e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T09:42:09+00:00",
-      "equity": 669473.28
-    },
     {
       "date": "2026-10-06T09:59:15+00:00",
       "equity": 669422.97
@@ -8525,6 +8537,10 @@
     {
       "date": "2026-10-26T10:23:22+00:00",
       "equity": 5880706.9
+    },
+    {
+      "date": "2026-10-26T11:07:48+00:00",
+      "equity": 5880733.99
     }
   ]
 }
