@@ -1,79 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879396.993399133,
+  "cash": 5879404.78549143,
   "positions": {
-    "HE9AqeuLhv98SGgHER8kpdc1LZNShBRp5gx1ZtcNpump": {
-      "symbol": "$JEWNEEGY",
-      "qty": 7116064.650441367,
-      "entry_price": 6.956091945697797e-06,
-      "last_price": 6.690371638e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T03:00:49+00:00",
-      "missing": 0
-    },
-    "H9YHmAab2eHDBJCQdiwaeS3gsGmosMhr3D6vzCStpump": {
-      "symbol": "grumpkin",
-      "qty": 987197.8489375197,
-      "entry_price": 5.0141924491908896e-05,
-      "last_price": 4.853669648425017e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T03:36:48+00:00",
-      "missing": 0
-    },
-    "Hw8qK5fsKiGRkrujCksoWmRPe3N2YroDfzp2qGfVpump": {
-      "symbol": "CHUDAI",
-      "qty": 2257818.9709159313,
-      "entry_price": 2.1923812598633313e-05,
-      "last_price": 2.1151558429206317e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T03:36:48+00:00",
-      "missing": 0
-    },
     "5Gc1C2vrow2wE9DMcrgg4QngWkdx8fGpgr7WNBGapump": {
       "symbol": "dolpink",
       "qty": 6327044.305944643,
       "entry_price": 7.823558300910227e-06,
-      "last_price": 7.535583324670931e-06,
+      "last_price": 7.535583325e-06,
       "cost": 50.0,
       "entry_time": "2026-10-26T03:36:48+00:00",
+      "missing": 0
+    },
+    "ADTGPbRExAAzaw4Pij5avyZgHkqtEt81eYxQWTb5pump": {
+      "symbol": "TOMODACHI",
+      "qty": 6817202.63549674,
+      "entry_price": 7.261042783480815e-06,
+      "last_price": 7.0048471075690996e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T04:17:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T05:04:51+00:00",
-      "side": "buy",
-      "symbol": "KFINE",
-      "address": "Qq5cVuXnpYR1tXbwA7HDpdJW4bG6DAJoWA9wc1gpump",
-      "price": 3.2577140635046784e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T05:04:51+00:00",
-      "side": "buy",
-      "symbol": "eCash",
-      "address": "pJWevyhv6QkY559BWNPYP3x7HHB8D9hA9igDUAmpump",
-      "price": 1.303830670950843e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T05:04:51+00:00",
-      "side": "buy",
-      "symbol": "sol",
-      "address": "2pe7M5Hb9fqcv2GZYQrnpB8LefJq5ANEwSCbzCA9pump",
-      "price": 8.87858418878259e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T05:37:42+00:00",
-      "side": "sell",
-      "symbol": "KFINE",
-      "address": "Qq5cVuXnpYR1tXbwA7HDpdJW4bG6DAJoWA9wc1gpump",
-      "price": 2.226164615e-06,
-      "proceeds": 3.24,
-      "pnl_usd": -46.76,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-23T05:37:42+00:00",
       "side": "sell",
@@ -4535,13 +4483,47 @@
       "address": "5Gc1C2vrow2wE9DMcrgg4QngWkdx8fGpgr7WNBGapump",
       "price": 7.823558300910227e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T04:17:30+00:00",
+      "side": "sell",
+      "symbol": "$JEWNEEGY",
+      "address": "HE9AqeuLhv98SGgHER8kpdc1LZNShBRp5gx1ZtcNpump",
+      "price": 6.690371638e-06,
+      "proceeds": 45.28,
+      "pnl_usd": -4.72,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T04:17:30+00:00",
+      "side": "sell",
+      "symbol": "grumpkin",
+      "address": "H9YHmAab2eHDBJCQdiwaeS3gsGmosMhr3D6vzCStpump",
+      "price": 2.21080448e-06,
+      "proceeds": 2.09,
+      "pnl_usd": -47.91,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T04:17:30+00:00",
+      "side": "sell",
+      "symbol": "CHUDAI",
+      "address": "Hw8qK5fsKiGRkrujCksoWmRPe3N2YroDfzp2qGfVpump",
+      "price": 4.824036583e-06,
+      "proceeds": 10.42,
+      "pnl_usd": -39.58,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T04:17:30+00:00",
+      "side": "buy",
+      "symbol": "TOMODACHI",
+      "address": "ADTGPbRExAAzaw4Pij5avyZgHkqtEt81eYxQWTb5pump",
+      "price": 7.261042783480815e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T06:27:10+00:00",
-      "equity": 669659.64
-    },
     {
       "date": "2026-10-06T06:53:48+00:00",
       "equity": 669575.25
@@ -8537,6 +8519,10 @@
     {
       "date": "2026-10-26T03:36:48+00:00",
       "equity": 5879587.95
+    },
+    {
+      "date": "2026-10-26T04:17:30+00:00",
+      "equity": 5879500.22
     }
   ]
 }
