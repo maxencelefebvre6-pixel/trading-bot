@@ -1,65 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880133.981058088,
+  "cash": 5880084.088813915,
   "positions": {
-    "6gQypxRHf1L8DcUNXTABdy7gMURAEeTacYbLpFAWpump": {
-      "symbol": "$FUE",
-      "qty": 3241027.3015722553,
-      "entry_price": 1.5272935212852742e-05,
-      "last_price": 1.470338234e-05,
+    "7D7teSyJP6iGbzZG6wUVYpMErVQLDwLqDGRd18bapump": {
+      "symbol": "Viva",
+      "qty": 5192282.831642246,
+      "entry_price": 9.53337897896133e-06,
+      "last_price": 9.171293015483878e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-26T19:49:16+00:00",
+      "entry_time": "2026-10-26T20:58:02+00:00",
       "missing": 0
     },
-    "5kZGfFWVqG3Ufyin53qqDikLsDWApDQ7cL4p4iK1pump": {
-      "symbol": "Squirrel",
-      "qty": 2531261.303306068,
-      "entry_price": 1.955546823054115e-05,
-      "last_price": 1.8858501877391657e-05,
+    "3mV9BQpoZMGk2EDGi3fBNr5hjfwyk3ZpFtQQzSEUpump": {
+      "symbol": "PUPPYFLOW",
+      "qty": 4330902.30368535,
+      "entry_price": 1.1429488944573589e-05,
+      "last_price": 1.0994238080279063e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-26T20:18:22+00:00",
+      "entry_time": "2026-10-26T20:58:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T15:21:10+00:00",
-      "side": "sell",
-      "symbol": "AVANZA",
-      "address": "7SdRHNxHU4czRx5JzfrKmanptxJdgZXpuvk24gnXpump",
-      "price": 3.732499661e-05,
-      "proceeds": 45.99,
-      "pnl_usd": -4.01,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T15:21:10+00:00",
-      "side": "sell",
-      "symbol": "lingling",
-      "address": "2QmYfqWc7wkiPyXrRD4SsqRzihpi3fEzHYRXiAe8pump",
-      "price": 1.27056069e-05,
-      "proceeds": 45.66,
-      "pnl_usd": -4.34,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T15:21:10+00:00",
-      "side": "sell",
-      "symbol": "LARPMAS",
-      "address": "92oM56q4Xph95vRxEJNzfd4tRbEzmDTLQmavJNZgpump",
-      "price": 2.947217977e-06,
-      "proceeds": 18.02,
-      "pnl_usd": -31.98,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T15:21:10+00:00",
-      "side": "buy",
-      "symbol": "PBJ",
-      "address": "CuqyQsyudXofzRiuPY188rNQsBhcgZuEHCHrXrZ2pump",
-      "price": 1.317023537004596e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T15:21:10+00:00",
       "side": "buy",
@@ -4523,13 +4485,45 @@
       "address": "5kZGfFWVqG3Ufyin53qqDikLsDWApDQ7cL4p4iK1pump",
       "price": 1.955546823054115e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T20:58:02+00:00",
+      "side": "sell",
+      "symbol": "$FUE",
+      "address": "6gQypxRHf1L8DcUNXTABdy7gMURAEeTacYbLpFAWpump",
+      "price": 1.470338234e-05,
+      "proceeds": 45.56,
+      "pnl_usd": -4.44,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T20:58:02+00:00",
+      "side": "sell",
+      "symbol": "Squirrel",
+      "address": "5kZGfFWVqG3Ufyin53qqDikLsDWApDQ7cL4p4iK1pump",
+      "price": 1.896414087e-06,
+      "proceeds": 4.54,
+      "pnl_usd": -45.46,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-26T20:58:02+00:00",
+      "side": "buy",
+      "symbol": "Viva",
+      "address": "7D7teSyJP6iGbzZG6wUVYpMErVQLDwLqDGRd18bapump",
+      "price": 9.53337897896133e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T20:58:02+00:00",
+      "side": "buy",
+      "symbol": "PUPPYFLOW",
+      "address": "3mV9BQpoZMGk2EDGi3fBNr5hjfwyk3ZpFtQQzSEUpump",
+      "price": 1.1429488944573589e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T13:11:39+00:00",
-      "equity": 678301.48
-    },
     {
       "date": "2026-10-06T13:35:03+00:00",
       "equity": 678216.19
@@ -8525,6 +8519,10 @@
     {
       "date": "2026-10-26T20:18:22+00:00",
       "equity": 5880229.37
+    },
+    {
+      "date": "2026-10-26T20:58:02+00:00",
+      "equity": 5880179.32
     }
   ]
 }
