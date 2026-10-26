@@ -1,101 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5879485.99976965,
+  "cash": 5879396.993399133,
   "positions": {
-    "VHcxjZk49hsVrE96kfB7reHEZCYzGwkJziijJMfpump": {
-      "symbol": "pumpfun",
-      "qty": 543103.6949916176,
-      "entry_price": 9.114281573938472e-05,
-      "last_price": 8.83631378310286e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T03:00:49+00:00",
-      "missing": 0
-    },
-    "3SmKitXBbLKJBwoVECssNCL3fXokGfvvr21LyGnqpump": {
-      "symbol": "pumpfun",
-      "qty": 1203321.7396105735,
-      "entry_price": 4.1136130405172846e-05,
-      "last_price": 3.981363366506676e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T03:00:49+00:00",
-      "missing": 0
-    },
-    "5br4iKsSRKQCamaqBPUgPsYSDYsTjFjFFBEj1oJPpump": {
-      "symbol": "ROFLAMP",
-      "qty": 924086.6882560619,
-      "entry_price": 5.3566403054043003e-05,
-      "last_price": 5.1855712017811034e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T03:00:49+00:00",
-      "missing": 0
-    },
     "HE9AqeuLhv98SGgHER8kpdc1LZNShBRp5gx1ZtcNpump": {
       "symbol": "$JEWNEEGY",
       "qty": 7116064.650441367,
       "entry_price": 6.956091945697797e-06,
-      "last_price": 6.6903716381729855e-06,
+      "last_price": 6.690371638e-06,
       "cost": 50.0,
       "entry_time": "2026-10-26T03:00:49+00:00",
+      "missing": 0
+    },
+    "H9YHmAab2eHDBJCQdiwaeS3gsGmosMhr3D6vzCStpump": {
+      "symbol": "grumpkin",
+      "qty": 987197.8489375197,
+      "entry_price": 5.0141924491908896e-05,
+      "last_price": 4.853669648425017e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T03:36:48+00:00",
+      "missing": 0
+    },
+    "Hw8qK5fsKiGRkrujCksoWmRPe3N2YroDfzp2qGfVpump": {
+      "symbol": "CHUDAI",
+      "qty": 2257818.9709159313,
+      "entry_price": 2.1923812598633313e-05,
+      "last_price": 2.1151558429206317e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T03:36:48+00:00",
+      "missing": 0
+    },
+    "5Gc1C2vrow2wE9DMcrgg4QngWkdx8fGpgr7WNBGapump": {
+      "symbol": "dolpink",
+      "qty": 6327044.305944643,
+      "entry_price": 7.823558300910227e-06,
+      "last_price": 7.535583324670931e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T03:36:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T04:27:40+00:00",
-      "side": "sell",
-      "symbol": "Dacity",
-      "address": "aJ7fTZo9EQny96bUKNBPt3YfJKqyJxzEsq58xhnpump",
-      "price": 1.861074989e-06,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-23T04:27:40+00:00",
-      "side": "sell",
-      "symbol": "Mask",
-      "address": "2qyhYq5eomJQMbSR17wCcAES9ax9FLuweuohjHQhpump",
-      "price": 2.94451291e-06,
-      "proceeds": 9.72,
-      "pnl_usd": -40.28,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T04:27:41+00:00",
-      "side": "buy",
-      "symbol": "PAL",
-      "address": "BjNwmF2iw1nzp4f4sQUHvZdeLmAkMUs1WqLs6MXEpump",
-      "price": 1.118016332505112e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T04:27:41+00:00",
-      "side": "buy",
-      "symbol": "$BTit",
-      "address": "EKGBsPpafZaVwqozdEzJvfLKAwPy8EkTa4hYijAqpump",
-      "price": 1.983385122982263e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T05:04:51+00:00",
-      "side": "sell",
-      "symbol": "PAL",
-      "address": "BjNwmF2iw1nzp4f4sQUHvZdeLmAkMUs1WqLs6MXEpump",
-      "price": 3.513213573e-06,
-      "proceeds": 14.84,
-      "pnl_usd": -35.16,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T05:04:51+00:00",
-      "side": "sell",
-      "symbol": "$BTit",
-      "address": "EKGBsPpafZaVwqozdEzJvfLKAwPy8EkTa4hYijAqpump",
-      "price": 1.215256369e-07,
-      "proceeds": 0.29,
-      "pnl_usd": -49.71,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-23T05:04:51+00:00",
       "side": "buy",
@@ -4537,13 +4481,63 @@
       "address": "HE9AqeuLhv98SGgHER8kpdc1LZNShBRp5gx1ZtcNpump",
       "price": 6.956091945697797e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T03:36:47+00:00",
+      "side": "sell",
+      "symbol": "pumpfun",
+      "address": "VHcxjZk49hsVrE96kfB7reHEZCYzGwkJziijJMfpump",
+      "price": 0.000107347649,
+      "proceeds": 55.81,
+      "pnl_usd": 5.81,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-26T03:36:47+00:00",
+      "side": "sell",
+      "symbol": "pumpfun",
+      "address": "3SmKitXBbLKJBwoVECssNCL3fXokGfvvr21LyGnqpump",
+      "price": 2.994869838e-06,
+      "proceeds": 3.46,
+      "pnl_usd": -46.54,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T03:36:47+00:00",
+      "side": "sell",
+      "symbol": "ROFLAMP",
+      "address": "5br4iKsSRKQCamaqBPUgPsYSDYsTjFjFFBEj1oJPpump",
+      "price": 1.956241972e-06,
+      "proceeds": 1.73,
+      "pnl_usd": -48.27,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-26T03:36:48+00:00",
+      "side": "buy",
+      "symbol": "grumpkin",
+      "address": "H9YHmAab2eHDBJCQdiwaeS3gsGmosMhr3D6vzCStpump",
+      "price": 5.0141924491908896e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T03:36:48+00:00",
+      "side": "buy",
+      "symbol": "CHUDAI",
+      "address": "Hw8qK5fsKiGRkrujCksoWmRPe3N2YroDfzp2qGfVpump",
+      "price": 2.1923812598633313e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T03:36:48+00:00",
+      "side": "buy",
+      "symbol": "dolpink",
+      "address": "5Gc1C2vrow2wE9DMcrgg4QngWkdx8fGpgr7WNBGapump",
+      "price": 7.823558300910227e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T05:59:15+00:00",
-      "equity": 669751.04
-    },
     {
       "date": "2026-10-06T06:27:10+00:00",
       "equity": 669659.64
@@ -8539,6 +8533,10 @@
     {
       "date": "2026-10-26T03:00:49+00:00",
       "equity": 5879677.43
+    },
+    {
+      "date": "2026-10-26T03:36:48+00:00",
+      "equity": 5879587.95
     }
   ]
 }
