@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880139.79737137,
-  "positions": {},
+  "cash": 5880089.79737137,
+  "positions": {
+    "C6nheAXVwX4yFtKAgHqMDwvzrRDNe2YezLwLdT23pump": {
+      "symbol": "memes",
+      "qty": 1720741.4059048966,
+      "entry_price": 2.8766669895973788e-05,
+      "last_price": 2.78266136321637e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T22:09:34+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-23T16:03:52+00:00",
-      "side": "sell",
-      "symbol": "PBJ",
-      "address": "CuqyQsyudXofzRiuPY188rNQsBhcgZuEHCHrXrZ2pump",
-      "price": 2.917647175e-06,
-      "proceeds": 10.48,
-      "pnl_usd": -39.52,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-23T16:03:52+00:00",
       "side": "sell",
@@ -4504,13 +4504,17 @@
       "proceeds": 1.49,
       "pnl_usd": -48.51,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-26T22:09:34+00:00",
+      "side": "buy",
+      "symbol": "memes",
+      "address": "C6nheAXVwX4yFtKAgHqMDwvzrRDNe2YezLwLdT23pump",
+      "price": 2.8766669895973788e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T13:55:02+00:00",
-      "equity": 687582.72
-    },
     {
       "date": "2026-10-06T14:17:15+00:00",
       "equity": 687546.73
@@ -8506,6 +8510,10 @@
     {
       "date": "2026-10-26T21:33:11+00:00",
       "equity": 5880139.8
+    },
+    {
+      "date": "2026-10-26T22:09:34+00:00",
+      "equity": 5880137.68
     }
   ]
 }
