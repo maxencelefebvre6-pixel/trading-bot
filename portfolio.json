@@ -1,52 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880574.150095425,
+  "cash": 5880664.997092254,
   "positions": {
-    "FsvurW8uGJNLwYACBoZ5ofJpQfjA5XKs3EX3nSpipump": {
-      "symbol": "MAHAMM",
-      "qty": 6485224.350641306,
-      "entry_price": 7.632735172084692e-06,
-      "last_price": 7.349502292e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T08:09:31+00:00",
-      "missing": 0
-    },
-    "6Q41Jj4DNNGMcxP8NxZGApyaHK34GAep1sXvETpJpump": {
-      "symbol": "ch",
-      "qty": 5670526.62122015,
-      "entry_price": 8.729347961221437e-06,
-      "last_price": 8.413149218e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T08:09:31+00:00",
-      "missing": 0
-    },
     "AqQqkK4vE2Tiz3Qj1TbH7FU9oh3rnYDky6TJMgFLpump": {
       "symbol": "Sushipoly",
       "qty": 1662655.9174961518,
       "entry_price": 2.977164395778513e-05,
-      "last_price": 2.8840648991649035e-05,
+      "last_price": 2.884064899e-05,
       "cost": 50.0,
       "entry_time": "2026-10-26T08:56:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T07:05:27+00:00",
-      "side": "buy",
-      "symbol": "$GOD",
-      "address": "DypagpH2EQEoSd1EKk9DpukD7G1Ew8MtZmnWzK2rpump",
-      "price": 5.1297770613738505e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T07:05:27+00:00",
-      "side": "buy",
-      "symbol": "QQn",
-      "address": "78xVwWKyJiJcUvo9m51W5yEXohFEXTs2m9zYiQjVpump",
-      "price": 8.736011037033513e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T07:48:06+00:00",
       "side": "sell",
@@ -4528,13 +4494,29 @@
       "address": "AqQqkK4vE2Tiz3Qj1TbH7FU9oh3rnYDky6TJMgFLpump",
       "price": 2.977164395778513e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T09:40:21+00:00",
+      "side": "sell",
+      "symbol": "MAHAMM",
+      "address": "FsvurW8uGJNLwYACBoZ5ofJpQfjA5XKs3EX3nSpipump",
+      "price": 7.349502292e-06,
+      "proceeds": 45.38,
+      "pnl_usd": -4.62,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T09:40:21+00:00",
+      "side": "sell",
+      "symbol": "ch",
+      "address": "6Q41Jj4DNNGMcxP8NxZGApyaHK34GAep1sXvETpJpump",
+      "price": 8.413149218e-06,
+      "proceeds": 45.47,
+      "pnl_usd": -4.53,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T08:57:33+00:00",
-      "equity": 669349.35
-    },
     {
       "date": "2026-10-06T09:21:22+00:00",
       "equity": 669310.59
@@ -8530,6 +8512,10 @@
     {
       "date": "2026-10-26T08:56:37+00:00",
       "equity": 5880717.47
+    },
+    {
+      "date": "2026-10-26T09:40:21+00:00",
+      "equity": 5880712.95
     }
   ]
 }
