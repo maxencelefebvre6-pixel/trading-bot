@@ -1,6 +1,6 @@
 {
   "mode": "pumpfun",
-  "cash": 5879555.450539142,
+  "cash": 5879455.450539142,
   "positions": {
     "PqBDz4yLPwbkUq9nS2YGyedzBTFZDPB6kQqvc6mpump": {
       "symbol": "SOL",
@@ -15,29 +15,31 @@
       "symbol": "dogbaton",
       "qty": 33651818.09331546,
       "entry_price": 1.4709457855364015e-06,
-      "last_price": 1.4212226387805932e-06,
+      "last_price": 1.421222639e-06,
       "cost": 50.0,
       "entry_time": "2026-10-25T23:38:31+00:00",
+      "missing": 0
+    },
+    "HNbd9cDTSytod3XXddoukgS7ezW71YZh6pVNcfhhpump": {
+      "symbol": "carti",
+      "qty": 4632959.540404733,
+      "entry_price": 1.068431519168322e-05,
+      "last_price": 1.0284982272430468e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T00:01:11+00:00",
+      "missing": 0
+    },
+    "51sawShDTkKS8HTj6KaoQToeu3oi7Y8FDvjHyiRApump": {
+      "symbol": "Bloin",
+      "qty": 6747766.404720641,
+      "entry_price": 7.335760758607546e-06,
+      "last_price": 7.0607352749560595e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T00:01:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T02:05:04+00:00",
-      "side": "buy",
-      "symbol": "McWojak",
-      "address": "Ecb5EZRo61JSkoWQG84v8mECyLg689xBh6TcDV7Jpump",
-      "price": 1.2107265690688342e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T02:05:04+00:00",
-      "side": "buy",
-      "symbol": "LMAO",
-      "address": "7WDoMWnHtazKgddJKUeLMksS7mXrSWmtVDAJBZa3pump",
-      "price": 8.286606074796067e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T02:37:49+00:00",
       "side": "sell",
@@ -4519,13 +4521,25 @@
       "address": "HNnqhcJ2hHNp3MFdenVsvx9QWMex2igy9wVNN2xppump",
       "price": 1.4709457855364015e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T00:01:11+00:00",
+      "side": "buy",
+      "symbol": "carti",
+      "address": "HNbd9cDTSytod3XXddoukgS7ezW71YZh6pVNcfhhpump",
+      "price": 1.068431519168322e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T00:01:11+00:00",
+      "side": "buy",
+      "symbol": "Bloin",
+      "address": "51sawShDTkKS8HTj6KaoQToeu3oi7Y8FDvjHyiRApump",
+      "price": 7.335760758607546e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T04:24:46+00:00",
-      "equity": 659827.33
-    },
     {
       "date": "2026-10-06T04:45:54+00:00",
       "equity": 669841.13
@@ -8521,6 +8535,10 @@
     {
       "date": "2026-10-25T23:38:31+00:00",
       "equity": 5879651.15
+    },
+    {
+      "date": "2026-10-26T00:01:11+00:00",
+      "equity": 5879646.44
     }
   ]
 }
