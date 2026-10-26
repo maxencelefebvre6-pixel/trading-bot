@@ -1,47 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5879993.787891807,
-  "positions": {
-    "9UX9S6f4m3KeqWuyw9Z5Sj8ahGpZeQC39P6i9eY8pump": {
-      "symbol": "GAMBY",
-      "qty": 5061478.677126632,
-      "entry_price": 9.779750771982076e-06,
-      "last_price": 9.409977695432092e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T22:47:13+00:00",
-      "missing": 0
-    },
-    "7uiTP1w2KjnoXct7wT9MrcKCHSzxJ6tjqeAS22copump": {
-      "symbol": "princess",
-      "qty": 5004507.094029894,
-      "entry_price": 9.891083990879106e-06,
-      "last_price": 9.51342073687796e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T22:47:13+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5880080.965949081,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-23T16:40:56+00:00",
-      "side": "sell",
-      "symbol": "PCAT",
-      "address": "8B8kHMjBAB6dLi65q7TbP4GJd7AxffBdAPoDU5CYpump",
-      "price": 3.0873127e-06,
-      "proceeds": 17.09,
-      "pnl_usd": -32.91,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T16:40:56+00:00",
-      "side": "sell",
-      "symbol": "DCT",
-      "address": "GHYP5cacAiL6FSbJwv9kLzYeCtc2jiMEiYYDUcXEpump",
-      "price": 0.0002707568965,
-      "proceeds": 244.33,
-      "pnl_usd": 194.33,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-23T16:40:57+00:00",
       "side": "buy",
@@ -4521,13 +4482,29 @@
       "address": "7uiTP1w2KjnoXct7wT9MrcKCHSzxJ6tjqeAS22copump",
       "price": 9.891083990879106e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T23:15:47+00:00",
+      "side": "sell",
+      "symbol": "GAMBY",
+      "address": "9UX9S6f4m3KeqWuyw9Z5Sj8ahGpZeQC39P6i9eY8pump",
+      "price": 2.960344846e-06,
+      "proceeds": 14.29,
+      "pnl_usd": -35.71,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T23:15:47+00:00",
+      "side": "sell",
+      "symbol": "princess",
+      "address": "7uiTP1w2KjnoXct7wT9MrcKCHSzxJ6tjqeAS22copump",
+      "price": 1.526681098e-05,
+      "proceeds": 72.89,
+      "pnl_usd": 22.89,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T14:37:38+00:00",
-      "equity": 687498.97
-    },
     {
       "date": "2026-10-06T14:57:50+00:00",
       "equity": 687373.35
@@ -8523,6 +8500,10 @@
     {
       "date": "2026-10-26T22:47:13+00:00",
       "equity": 5880089.03
+    },
+    {
+      "date": "2026-10-26T23:15:47+00:00",
+      "equity": 5880080.97
     }
   ]
 }
