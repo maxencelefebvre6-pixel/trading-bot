@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5880291.969440731,
-  "positions": {
-    "EfyENGHhKTu72qjWtgKkoZZmzRRwh421mWuy42HSpump": {
-      "symbol": "nutinu",
-      "qty": 1245616.1620241334,
-      "entry_price": 3.9739368763136645e-05,
-      "last_price": 3.8473865896888583e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T18:13:23+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5880308.500231503,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-23T14:05:32+00:00",
-      "side": "sell",
-      "symbol": "KIMCHI",
-      "address": "A3WqngzJwDfeuhd7vRtw9w367pGRF4tH4KVdmh34pump",
-      "price": 0.0001315914112,
-      "proceeds": 142.32,
-      "pnl_usd": 92.32,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-23T14:05:32+00:00",
       "side": "buy",
@@ -4512,13 +4492,19 @@
       "address": "EfyENGHhKTu72qjWtgKkoZZmzRRwh421mWuy42HSpump",
       "price": 3.9739368763136645e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T19:08:03+00:00",
+      "side": "sell",
+      "symbol": "nutinu",
+      "address": "EfyENGHhKTu72qjWtgKkoZZmzRRwh421mWuy42HSpump",
+      "price": 1.388070138e-05,
+      "proceeds": 16.53,
+      "pnl_usd": -33.47,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T11:59:22+00:00",
-      "equity": 678417.59
-    },
     {
       "date": "2026-10-06T12:27:03+00:00",
       "equity": 678356.53
@@ -8514,6 +8500,10 @@
     {
       "date": "2026-10-26T18:13:23+00:00",
       "equity": 5880339.89
+    },
+    {
+      "date": "2026-10-26T19:08:03+00:00",
+      "equity": 5880308.5
     }
   ]
 }
