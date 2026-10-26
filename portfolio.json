@@ -1,75 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880228.701656925,
+  "cash": 5880766.123165326,
   "positions": {
-    "44MTU4G9UPFLnsStuUMmcbQckkha7a2zakFd9Sddpump": {
-      "symbol": "cooper",
-      "qty": 1388978.529004872,
-      "entry_price": 3.563769991136153e-05,
-      "last_price": 3.818476105e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T04:59:25+00:00",
-      "missing": 0
-    },
-    "AKqqbnKYTf7QdnQwzGrGJHfmDJR2nKuWgyd49R9Spump": {
-      "symbol": "nudge",
-      "qty": 4215590.255491192,
-      "entry_price": 1.1742127910918694e-05,
-      "last_price": 1.1337799203506737e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T05:35:54+00:00",
-      "missing": 0
-    },
-    "3Vkkvo8jxHy6B4pxRLLV3F9EBYRS1NE8mKCxhi1Mpump": {
-      "symbol": "ASS",
-      "qty": 4959175.81051132,
-      "entry_price": 9.981497307492363e-06,
-      "last_price": 9.608474201619647e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T05:35:54+00:00",
-      "missing": 0
-    },
     "4FvD3QYN9ztzvoVxECRSKqhjDd6nN23G6uSU8vn9pump": {
       "symbol": "DICE",
       "qty": 1389682.9127580023,
       "entry_price": 3.5619636354138484e-05,
-      "last_price": 3.451713671177019e-05,
+      "last_price": 3.451713671e-05,
       "cost": 50.0,
       "entry_time": "2026-10-26T05:35:54+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T06:12:34+00:00",
-      "side": "sell",
-      "symbol": "eCash",
-      "address": "pJWevyhv6QkY559BWNPYP3x7HHB8D9hA9igDUAmpump",
-      "price": 1.259606386e-05,
-      "proceeds": 45.69,
-      "pnl_usd": -4.31,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T06:12:34+00:00",
-      "side": "sell",
-      "symbol": "Serf",
-      "address": "14uNqfAVhtCSGeyp4CdcY6KvxUFuCTPWdxE1LFvtpump",
-      "price": 3.141350811e-06,
-      "proceeds": 16.29,
-      "pnl_usd": -33.71,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T06:12:34+00:00",
-      "side": "sell",
-      "symbol": "Seeblues",
-      "address": "9Hdu6kLzspmVEcBsrbNQGJADNyDMmQz5D8P4d9pQpump",
-      "price": 3.984101066e-06,
-      "proceeds": 10.64,
-      "pnl_usd": -39.36,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-23T06:12:34+00:00",
       "side": "sell",
@@ -4541,13 +4484,39 @@
       "address": "4FvD3QYN9ztzvoVxECRSKqhjDd6nN23G6uSU8vn9pump",
       "price": 3.5619636354138484e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T06:14:23+00:00",
+      "side": "sell",
+      "symbol": "cooper",
+      "address": "44MTU4G9UPFLnsStuUMmcbQckkha7a2zakFd9Sddpump",
+      "price": 2.130919787e-05,
+      "proceeds": 28.27,
+      "pnl_usd": -21.73,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T06:14:23+00:00",
+      "side": "sell",
+      "symbol": "nudge",
+      "address": "AKqqbnKYTf7QdnQwzGrGJHfmDJR2nKuWgyd49R9Spump",
+      "price": 2.671559202e-06,
+      "proceeds": 10.75,
+      "pnl_usd": -39.25,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T06:14:23+00:00",
+      "side": "sell",
+      "symbol": "ASS",
+      "address": "3Vkkvo8jxHy6B4pxRLLV3F9EBYRS1NE8mKCxhi1Mpump",
+      "price": 0.0001089369227,
+      "proceeds": 498.4,
+      "pnl_usd": 448.4,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T07:36:24+00:00",
-      "equity": 669520.54
-    },
     {
       "date": "2026-10-06T07:55:29+00:00",
       "equity": 669476.69
@@ -8543,6 +8512,10 @@
     {
       "date": "2026-10-26T05:35:54+00:00",
       "equity": 5880425.15
+    },
+    {
+      "date": "2026-10-26T06:14:23+00:00",
+      "equity": 5880814.09
     }
   ]
 }
