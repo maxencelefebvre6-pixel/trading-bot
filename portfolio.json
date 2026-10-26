@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880540.745759619,
+  "cash": 5880533.061141637,
   "positions": {
-    "2LwqBh1GbMNmonWbT7TEkiQdNCna5JMxLNWKsuTqpump": {
-      "symbol": "ROMART",
-      "qty": 687.2094439027605,
-      "entry_price": 0.07203044201325644,
-      "last_price": 0.06990518233060712,
+    "FjADmnSL6EjnvL99EoURmkMQTqowseCnmj9unr9apump": {
+      "symbol": "CACHE",
+      "qty": 5647118.590889151,
+      "entry_price": 8.765532227331199e-06,
+      "last_price": 8.433423296595338e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-26T12:38:20+00:00",
-      "missing": 0
-    },
-    "hXaj2r2Zv5ixLx6MUnccZDeHa8inqM4RdtATE9Bpump": {
-      "symbol": "IPO",
-      "qty": 5939419.835749431,
-      "entry_price": 8.33414733574801e-06,
-      "last_price": 8.016069628933152e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T12:38:20+00:00",
+      "entry_time": "2026-10-26T15:05:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T10:14:01+00:00",
-      "side": "buy",
-      "symbol": "DAZE",
-      "address": "7HYZgusu6h3DoNpa3a1A9vgWthnFXLQcdNaRadyepump",
-      "price": 8.419055941624188e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T10:51:43+00:00",
-      "side": "sell",
-      "symbol": "DAZE",
-      "address": "7HYZgusu6h3DoNpa3a1A9vgWthnFXLQcdNaRadyepump",
-      "price": 2.462863217e-06,
-      "proceeds": 1.39,
-      "pnl_usd": -48.61,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T10:51:44+00:00",
-      "side": "buy",
-      "symbol": "Mind Lot",
-      "address": "BWNvZSuGuMDZ1foz7koiiE5Y3T7uFi9Tz1k4gmgDpump",
-      "price": 4.5353497239089067e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T10:51:44+00:00",
       "side": "buy",
@@ -4519,13 +4484,37 @@
       "address": "hXaj2r2Zv5ixLx6MUnccZDeHa8inqM4RdtATE9Bpump",
       "price": 8.33414733574801e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T15:05:12+00:00",
+      "side": "sell",
+      "symbol": "ROMART",
+      "address": "2LwqBh1GbMNmonWbT7TEkiQdNCna5JMxLNWKsuTqpump",
+      "price": 0.07193800937,
+      "proceeds": 24.47,
+      "pnl_usd": -25.53,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-26T15:05:12+00:00",
+      "side": "sell",
+      "symbol": "IPO",
+      "address": "hXaj2r2Zv5ixLx6MUnccZDeHa8inqM4RdtATE9Bpump",
+      "price": 3.152941491e-06,
+      "proceeds": 17.84,
+      "pnl_usd": -32.16,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T15:05:12+00:00",
+      "side": "buy",
+      "symbol": "CACHE",
+      "address": "FjADmnSL6EjnvL99EoURmkMQTqowseCnmj9unr9apump",
+      "price": 8.765532227331199e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T10:22:32+00:00",
-      "equity": 678652.72
-    },
     {
       "date": "2026-10-06T10:42:52+00:00",
       "equity": 678531.16
@@ -8521,6 +8510,10 @@
     {
       "date": "2026-10-26T12:38:20+00:00",
       "equity": 5880636.4
+    },
+    {
+      "date": "2026-10-26T15:05:12+00:00",
+      "equity": 5880580.69
     }
   ]
 }
