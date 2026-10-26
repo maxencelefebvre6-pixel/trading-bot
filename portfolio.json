@@ -1,40 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5880308.500231503,
-  "positions": {},
+  "cash": 5880108.500231503,
+  "positions": {
+    "9J4fGNJVX5W1ioT4jMTGiYH1BVXfNXYGqRHoE8N6pump": {
+      "symbol": "EDGE",
+      "qty": 1462560.8068017648,
+      "entry_price": 3.3844746672956086e-05,
+      "last_price": 3.274596908557371e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T19:49:16+00:00",
+      "missing": 0
+    },
+    "BMJBMD4bFVbHcys8z5aEugxe8yjCJ6GpRciZb8SKpump": {
+      "symbol": "$RENT",
+      "qty": 4289721.319795445,
+      "entry_price": 1.1539211130470455e-05,
+      "last_price": 1.1139365507693713e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T19:49:16+00:00",
+      "missing": 0
+    },
+    "6gQypxRHf1L8DcUNXTABdy7gMURAEeTacYbLpFAWpump": {
+      "symbol": "$FUE",
+      "qty": 3241027.3015722553,
+      "entry_price": 1.5272935212852742e-05,
+      "last_price": 1.4765224976875954e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T19:49:16+00:00",
+      "missing": 0
+    },
+    "hYcBxcrjuDQq6em3PEWV2yUQopZsji1LUtzxWtapump": {
+      "symbol": "beer",
+      "qty": 7831583.65535286,
+      "entry_price": 6.3205607164991365e-06,
+      "last_price": 6.085689170487664e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T19:49:16+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-23T14:05:32+00:00",
-      "side": "buy",
-      "symbol": "KANTO",
-      "address": "EdHEtSnSHP3noYkE8xQQbZNajrTB5yDGWj3y1SxGpump",
-      "price": 1.349899752200474e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T14:05:32+00:00",
-      "side": "buy",
-      "symbol": "AVANZA",
-      "address": "7SdRHNxHU4czRx5JzfrKmanptxJdgZXpuvk24gnXpump",
-      "price": 3.851186364003291e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T14:05:32+00:00",
-      "side": "buy",
-      "symbol": "lingling",
-      "address": "2QmYfqWc7wkiPyXrRD4SsqRzihpi3fEzHYRXiAe8pump",
-      "price": 1.3156726557727318e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T14:05:32+00:00",
-      "side": "buy",
-      "symbol": "NEKO AI",
-      "address": "CSEEqXLbmvecnp8Xien9RU4SgqNnYGqeZP3x4t4ypump",
-      "price": 5.088312623005374e-07,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T14:45:43+00:00",
       "side": "sell",
@@ -4502,13 +4507,41 @@
       "proceeds": 16.53,
       "pnl_usd": -33.47,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T19:49:16+00:00",
+      "side": "buy",
+      "symbol": "EDGE",
+      "address": "9J4fGNJVX5W1ioT4jMTGiYH1BVXfNXYGqRHoE8N6pump",
+      "price": 3.3844746672956086e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T19:49:16+00:00",
+      "side": "buy",
+      "symbol": "$RENT",
+      "address": "BMJBMD4bFVbHcys8z5aEugxe8yjCJ6GpRciZb8SKpump",
+      "price": 1.1539211130470455e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T19:49:16+00:00",
+      "side": "buy",
+      "symbol": "$FUE",
+      "address": "6gQypxRHf1L8DcUNXTABdy7gMURAEeTacYbLpFAWpump",
+      "price": 1.5272935212852742e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T19:49:16+00:00",
+      "side": "buy",
+      "symbol": "beer",
+      "address": "hYcBxcrjuDQq6em3PEWV2yUQopZsji1LUtzxWtapump",
+      "price": 6.3205607164991365e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T12:27:03+00:00",
-      "equity": 678356.53
-    },
     {
       "date": "2026-10-06T12:52:30+00:00",
       "equity": 678338.88
@@ -8504,6 +8537,10 @@
     {
       "date": "2026-10-26T19:08:03+00:00",
       "equity": 5880308.5
+    },
+    {
+      "date": "2026-10-26T19:49:16+00:00",
+      "equity": 5880299.69
     }
   ]
 }
