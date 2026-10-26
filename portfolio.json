@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880766.123165326,
+  "cash": 5880712.098279925,
   "positions": {
-    "4FvD3QYN9ztzvoVxECRSKqhjDd6nN23G6uSU8vn9pump": {
-      "symbol": "DICE",
-      "qty": 1389682.9127580023,
-      "entry_price": 3.5619636354138484e-05,
-      "last_price": 3.451713671e-05,
+    "12sgEXCPheQYMK2MXrq19XaX3MPZndZc3nBpJZeipump": {
+      "symbol": "Robinhood",
+      "qty": 201706.6083100245,
+      "entry_price": 0.00024540594090957175,
+      "last_price": 0.00023796166112785458,
       "cost": 50.0,
-      "entry_time": "2026-10-26T05:35:54+00:00",
+      "entry_time": "2026-10-26T07:15:59+00:00",
+      "missing": 0
+    },
+    "6zMNXXLtraGPe2qK2LjcQL6Nqy8anqU6ek2ADN6dpump": {
+      "symbol": "FOMOCAT",
+      "qty": 5493142.421345346,
+      "entry_price": 9.01123550113175e-06,
+      "last_price": 8.682707241236425e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T07:15:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T06:12:34+00:00",
-      "side": "sell",
-      "symbol": "Rockstar",
-      "address": "6rxfDZe3un6vUx8q5CwZf3WcdsjNGd69RoiXXc6pump",
-      "price": 0.0007406962845,
-      "proceeds": 92.98,
-      "pnl_usd": 42.98,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-23T06:12:34+00:00",
-      "side": "sell",
-      "symbol": "Rick",
-      "address": "CmB7LNbJer6mY98qL4MWQT5yUsxLtdNfJq2Ay3epump",
-      "price": 1.184581617e-09,
-      "proceeds": 0.01,
-      "pnl_usd": -49.99,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-23T06:12:34+00:00",
-      "side": "buy",
-      "symbol": "LAST",
-      "address": "DrxcSXsu3Joy5Yo8P1niB7f4sDD5UrawZnK7U7Sipump",
-      "price": 1.1265433451810694e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T06:12:34+00:00",
       "side": "buy",
@@ -4514,13 +4495,35 @@
       "proceeds": 498.4,
       "pnl_usd": 448.4,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-26T07:15:59+00:00",
+      "side": "sell",
+      "symbol": "DICE",
+      "address": "4FvD3QYN9ztzvoVxECRSKqhjDd6nN23G6uSU8vn9pump",
+      "price": 3.451713671e-05,
+      "proceeds": 45.98,
+      "pnl_usd": -4.02,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T07:15:59+00:00",
+      "side": "buy",
+      "symbol": "Robinhood",
+      "address": "12sgEXCPheQYMK2MXrq19XaX3MPZndZc3nBpJZeipump",
+      "price": 0.00024540594090957175,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T07:15:59+00:00",
+      "side": "buy",
+      "symbol": "FOMOCAT",
+      "address": "6zMNXXLtraGPe2qK2LjcQL6Nqy8anqU6ek2ADN6dpump",
+      "price": 9.01123550113175e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T07:55:29+00:00",
-      "equity": 669476.69
-    },
     {
       "date": "2026-10-06T08:17:46+00:00",
       "equity": 669382.68
@@ -8516,6 +8519,10 @@
     {
       "date": "2026-10-26T06:14:23+00:00",
       "equity": 5880814.09
+    },
+    {
+      "date": "2026-10-26T07:15:59+00:00",
+      "equity": 5880807.79
     }
   ]
 }
