@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879404.78549143,
+  "cash": 5880378.701656925,
   "positions": {
-    "5Gc1C2vrow2wE9DMcrgg4QngWkdx8fGpgr7WNBGapump": {
-      "symbol": "dolpink",
-      "qty": 6327044.305944643,
-      "entry_price": 7.823558300910227e-06,
-      "last_price": 7.535583325e-06,
+    "44MTU4G9UPFLnsStuUMmcbQckkha7a2zakFd9Sddpump": {
+      "symbol": "cooper",
+      "qty": 1388978.529004872,
+      "entry_price": 3.563769991136153e-05,
+      "last_price": 3.4401184546506947e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-26T03:36:48+00:00",
-      "missing": 0
-    },
-    "ADTGPbRExAAzaw4Pij5avyZgHkqtEt81eYxQWTb5pump": {
-      "symbol": "TOMODACHI",
-      "qty": 6817202.63549674,
-      "entry_price": 7.261042783480815e-06,
-      "last_price": 7.0048471075690996e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T04:17:30+00:00",
+      "entry_time": "2026-10-26T04:59:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T05:37:42+00:00",
-      "side": "sell",
-      "symbol": "sol",
-      "address": "2pe7M5Hb9fqcv2GZYQrnpB8LefJq5ANEwSCbzCA9pump",
-      "price": 1.066945606e-05,
-      "proceeds": 56.71,
-      "pnl_usd": 6.71,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-23T05:37:42+00:00",
-      "side": "buy",
-      "symbol": "Serf",
-      "address": "14uNqfAVhtCSGeyp4CdcY6KvxUFuCTPWdxE1LFvtpump",
-      "price": 9.103926717303896e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T05:37:42+00:00",
-      "side": "buy",
-      "symbol": "Seeblues",
-      "address": "9Hdu6kLzspmVEcBsrbNQGJADNyDMmQz5D8P4d9pQpump",
-      "price": 1.7731749307023317e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T05:37:42+00:00",
       "side": "buy",
@@ -4521,13 +4486,37 @@
       "address": "ADTGPbRExAAzaw4Pij5avyZgHkqtEt81eYxQWTb5pump",
       "price": 7.261042783480815e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T04:59:25+00:00",
+      "side": "sell",
+      "symbol": "dolpink",
+      "address": "5Gc1C2vrow2wE9DMcrgg4QngWkdx8fGpgr7WNBGapump",
+      "price": 7.535583325e-06,
+      "proceeds": 45.41,
+      "pnl_usd": -4.59,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T04:59:25+00:00",
+      "side": "sell",
+      "symbol": "TOMODACHI",
+      "address": "ADTGPbRExAAzaw4Pij5avyZgHkqtEt81eYxQWTb5pump",
+      "price": 0.0001509577964,
+      "proceeds": 978.51,
+      "pnl_usd": 928.51,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-26T04:59:25+00:00",
+      "side": "buy",
+      "symbol": "cooper",
+      "address": "44MTU4G9UPFLnsStuUMmcbQckkha7a2zakFd9Sddpump",
+      "price": 3.563769991136153e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T06:53:48+00:00",
-      "equity": 669575.25
-    },
     {
       "date": "2026-10-06T07:14:17+00:00",
       "equity": 669573.19
@@ -8523,6 +8512,10 @@
     {
       "date": "2026-10-26T04:17:30+00:00",
       "equity": 5879500.22
+    },
+    {
+      "date": "2026-10-26T04:59:25+00:00",
+      "equity": 5880426.48
     }
   ]
 }
