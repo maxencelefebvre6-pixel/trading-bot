@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880664.997092254,
+  "cash": 5880610.941602296,
   "positions": {
-    "AqQqkK4vE2Tiz3Qj1TbH7FU9oh3rnYDky6TJMgFLpump": {
-      "symbol": "Sushipoly",
-      "qty": 1662655.9174961518,
-      "entry_price": 2.977164395778513e-05,
-      "last_price": 2.884064899e-05,
+    "8ytcTDdxKSqA6mqvyyXCwEy6Gt44j4CCm3Jqvqdipump": {
+      "symbol": "McComedian",
+      "qty": 3315554.384520961,
+      "entry_price": 1.4929629937936269e-05,
+      "last_price": 1.4462767150986353e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-26T08:56:37+00:00",
+      "entry_time": "2026-10-26T10:23:22+00:00",
+      "missing": 0
+    },
+    "BXUJqMPi9wzse36qJb5tdwXtKsdCLB16iBcVuffNpump": {
+      "symbol": "SpaceX",
+      "qty": 118725.55688677129,
+      "entry_price": 0.0004169279243491628,
+      "last_price": 0.0004043889392589493,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T10:23:22+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T07:48:06+00:00",
-      "side": "sell",
-      "symbol": "X",
-      "address": "97kMwMsfe7b3k75wpXv5mvmimM46aJzZiFdXhXVwpump",
-      "price": 1.879248945e-06,
-      "proceeds": 0.17,
-      "pnl_usd": -49.83,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T07:48:06+00:00",
-      "side": "buy",
-      "symbol": "PAIRLESS",
-      "address": "EJcJdiZkvNhSPME38aTNvgif65v7Ly4DWGMUWgGSpump",
-      "price": 1.028047173344297e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T07:48:06+00:00",
-      "side": "buy",
-      "symbol": "Dog coin",
-      "address": "DgXQsagRN6hbnX7rC4vQcRBE9DQ5etN1CCvFEzdxpump",
-      "price": 2.423283156221208e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T08:21:38+00:00",
       "side": "sell",
@@ -4514,13 +4497,35 @@
       "proceeds": 45.47,
       "pnl_usd": -4.53,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T10:23:22+00:00",
+      "side": "sell",
+      "symbol": "Sushipoly",
+      "address": "AqQqkK4vE2Tiz3Qj1TbH7FU9oh3rnYDky6TJMgFLpump",
+      "price": 2.884064899e-05,
+      "proceeds": 45.94,
+      "pnl_usd": -4.06,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T10:23:22+00:00",
+      "side": "buy",
+      "symbol": "McComedian",
+      "address": "8ytcTDdxKSqA6mqvyyXCwEy6Gt44j4CCm3Jqvqdipump",
+      "price": 1.4929629937936269e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T10:23:22+00:00",
+      "side": "buy",
+      "symbol": "SpaceX",
+      "address": "BXUJqMPi9wzse36qJb5tdwXtKsdCLB16iBcVuffNpump",
+      "price": 0.0004169279243491628,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T09:21:22+00:00",
-      "equity": 669310.59
-    },
     {
       "date": "2026-10-06T09:42:09+00:00",
       "equity": 669473.28
@@ -8516,6 +8521,10 @@
     {
       "date": "2026-10-26T09:40:21+00:00",
       "equity": 5880712.95
+    },
+    {
+      "date": "2026-10-26T10:23:22+00:00",
+      "equity": 5880706.9
     }
   ]
 }
