@@ -1,65 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880712.098279925,
+  "cash": 5880624.150095425,
   "positions": {
-    "12sgEXCPheQYMK2MXrq19XaX3MPZndZc3nBpJZeipump": {
-      "symbol": "Robinhood",
-      "qty": 201706.6083100245,
-      "entry_price": 0.00024540594090957175,
-      "last_price": 0.00023796166112785458,
+    "FsvurW8uGJNLwYACBoZ5ofJpQfjA5XKs3EX3nSpipump": {
+      "symbol": "MAHAMM",
+      "qty": 6485224.350641306,
+      "entry_price": 7.632735172084692e-06,
+      "last_price": 7.347756069121543e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-26T07:15:59+00:00",
+      "entry_time": "2026-10-26T08:09:31+00:00",
       "missing": 0
     },
-    "6zMNXXLtraGPe2qK2LjcQL6Nqy8anqU6ek2ADN6dpump": {
-      "symbol": "FOMOCAT",
-      "qty": 5493142.421345346,
-      "entry_price": 9.01123550113175e-06,
-      "last_price": 8.682707241236425e-06,
+    "6Q41Jj4DNNGMcxP8NxZGApyaHK34GAep1sXvETpJpump": {
+      "symbol": "ch",
+      "qty": 5670526.62122015,
+      "entry_price": 8.729347961221437e-06,
+      "last_price": 8.413149217798047e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-26T07:15:59+00:00",
+      "entry_time": "2026-10-26T08:09:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T06:12:34+00:00",
-      "side": "buy",
-      "symbol": "Particle",
-      "address": "7oHuVQRtfd5HtdeVYWw4GdotDZGSvpN4gHVEeAtApump",
-      "price": 3.725760100935014e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T07:05:26+00:00",
-      "side": "sell",
-      "symbol": "$GOD",
-      "address": "4njaxqZd4AVyWi51vPpBT8XnJMmpoqCwgYe4dtbupump",
-      "price": 7.806176423e-06,
-      "proceeds": 45.38,
-      "pnl_usd": -4.62,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T07:05:26+00:00",
-      "side": "sell",
-      "symbol": "LAST",
-      "address": "DrxcSXsu3Joy5Yo8P1niB7f4sDD5UrawZnK7U7Sipump",
-      "price": 3.080819612e-06,
-      "proceeds": 12.93,
-      "pnl_usd": -37.07,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T07:05:26+00:00",
-      "side": "sell",
-      "symbol": "Particle",
-      "address": "7oHuVQRtfd5HtdeVYWw4GdotDZGSvpN4gHVEeAtApump",
-      "price": 2.126930315e-06,
-      "proceeds": 2.7,
-      "pnl_usd": -47.3,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-23T07:05:27+00:00",
       "side": "buy",
@@ -4521,13 +4483,45 @@
       "address": "6zMNXXLtraGPe2qK2LjcQL6Nqy8anqU6ek2ADN6dpump",
       "price": 9.01123550113175e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T08:09:31+00:00",
+      "side": "sell",
+      "symbol": "Robinhood",
+      "address": "12sgEXCPheQYMK2MXrq19XaX3MPZndZc3nBpJZeipump",
+      "price": 1.800917816e-06,
+      "proceeds": 0.35,
+      "pnl_usd": -49.65,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-26T08:09:31+00:00",
+      "side": "sell",
+      "symbol": "FOMOCAT",
+      "address": "6zMNXXLtraGPe2qK2LjcQL6Nqy8anqU6ek2ADN6dpump",
+      "price": 2.236198225e-06,
+      "proceeds": 11.7,
+      "pnl_usd": -38.3,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T08:09:31+00:00",
+      "side": "buy",
+      "symbol": "MAHAMM",
+      "address": "FsvurW8uGJNLwYACBoZ5ofJpQfjA5XKs3EX3nSpipump",
+      "price": 7.632735172084692e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T08:09:31+00:00",
+      "side": "buy",
+      "symbol": "ch",
+      "address": "6Q41Jj4DNNGMcxP8NxZGApyaHK34GAep1sXvETpJpump",
+      "price": 8.729347961221437e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T08:17:46+00:00",
-      "equity": 669382.68
-    },
     {
       "date": "2026-10-06T08:38:48+00:00",
       "equity": 669378.37
@@ -8523,6 +8517,10 @@
     {
       "date": "2026-10-26T07:15:59+00:00",
       "equity": 5880807.79
+    },
+    {
+      "date": "2026-10-26T08:09:31+00:00",
+      "equity": 5880719.51
     }
   ]
 }
