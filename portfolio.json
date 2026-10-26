@@ -1,45 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5880084.088813915,
-  "positions": {
-    "7D7teSyJP6iGbzZG6wUVYpMErVQLDwLqDGRd18bapump": {
-      "symbol": "Viva",
-      "qty": 5192282.831642246,
-      "entry_price": 9.53337897896133e-06,
-      "last_price": 9.171293015483878e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T20:58:02+00:00",
-      "missing": 0
-    },
-    "3mV9BQpoZMGk2EDGi3fBNr5hjfwyk3ZpFtQQzSEUpump": {
-      "symbol": "PUPPYFLOW",
-      "qty": 4330902.30368535,
-      "entry_price": 1.1429488944573589e-05,
-      "last_price": 1.0994238080279063e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T20:58:02+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5880139.79737137,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-23T15:21:10+00:00",
-      "side": "buy",
-      "symbol": "SKINWALKER",
-      "address": "DHh3dcY1vTeeTgFekakxZPo7HzUd5vjHdXv33L5Ppump",
-      "price": 1.4554616312567909e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T16:03:52+00:00",
-      "side": "sell",
-      "symbol": "$MFRG",
-      "address": "FyxMVbZvcNpzXgebUSzLDqrZ9svdTXeZTfDPJrsSpump",
-      "price": 1.406093847e-05,
-      "proceeds": 45.73,
-      "pnl_usd": -4.27,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-23T16:03:52+00:00",
       "side": "sell",
@@ -4521,13 +4484,29 @@
       "address": "3mV9BQpoZMGk2EDGi3fBNr5hjfwyk3ZpFtQQzSEUpump",
       "price": 1.1429488944573589e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T21:33:11+00:00",
+      "side": "sell",
+      "symbol": "Viva",
+      "address": "7D7teSyJP6iGbzZG6wUVYpMErVQLDwLqDGRd18bapump",
+      "price": 1.094871205e-05,
+      "proceeds": 54.22,
+      "pnl_usd": 4.22,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-26T21:33:11+00:00",
+      "side": "sell",
+      "symbol": "PUPPYFLOW",
+      "address": "3mV9BQpoZMGk2EDGi3fBNr5hjfwyk3ZpFtQQzSEUpump",
+      "price": 3.593606952e-07,
+      "proceeds": 1.49,
+      "pnl_usd": -48.51,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T13:35:03+00:00",
-      "equity": 678216.19
-    },
     {
       "date": "2026-10-06T13:55:02+00:00",
       "equity": 687582.72
@@ -8523,6 +8502,10 @@
     {
       "date": "2026-10-26T20:58:02+00:00",
       "equity": 5880179.32
+    },
+    {
+      "date": "2026-10-26T21:33:11+00:00",
+      "equity": 5880139.8
     }
   ]
 }
