@@ -1,65 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879491.080965053,
+  "cash": 5879401.788524276,
   "positions": {
-    "GkqA9nEjhXHRVgL4jiUWLGC7Q1yid6vcfftfV6K2pump": {
-      "symbol": "trust",
-      "qty": 2873420.6673628143,
-      "entry_price": 1.7226854585628917e-05,
-      "last_price": 1.6621116236347186e-05,
+    "ABp2bT8ovFYYY8etNQmJauRDXgk3tYkt2jpmGqZSpump": {
+      "symbol": "GIGATITS",
+      "qty": 270980.9470992937,
+      "entry_price": 0.00018266966932498785,
+      "last_price": 0.00017708215588460517,
       "cost": 50.0,
-      "entry_time": "2026-10-26T01:41:11+00:00",
+      "entry_time": "2026-10-26T02:19:35+00:00",
       "missing": 0
     },
-    "8Pkk8nZXoL9Zss2rF4ceBoMDrGRbJQfcrUDvRiAwpump": {
-      "symbol": "Vancepc",
-      "qty": 713.7024784242705,
-      "entry_price": 0.06935663178484022,
-      "last_price": 0.06730846256943049,
+    "2TJHvsktb5mHmBsnz2Hm3qGCBWGwCwxtBWSsDd5fpump": {
+      "symbol": "CATGPT",
+      "qty": 12405017.850400662,
+      "entry_price": 3.990320739312861e-06,
+      "last_price": 3.8638506208529355e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-26T01:41:11+00:00",
+      "entry_time": "2026-10-26T02:19:35+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T03:13:29+00:00",
-      "side": "sell",
-      "symbol": "WRHND",
-      "address": "AY3ZwLBDrTUXBJ3Abm75DNHR5TqJDi42Byn6PeNDpump",
-      "price": 0.0007191621104,
-      "proceeds": 207.36,
-      "pnl_usd": 157.36,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-23T03:13:29+00:00",
-      "side": "sell",
-      "symbol": "CYBER",
-      "address": "3vm6E891kSmb5Crgx4pxxsimPiCzSmEYXNkziotQpump",
-      "price": 2.923789092e-06,
-      "proceeds": 3.74,
-      "pnl_usd": -46.26,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T03:13:29+00:00",
-      "side": "sell",
-      "symbol": "SKRB",
-      "address": "DXc3UrGFBc3p9gbrUqUUpCRFr98EQxzRnwWYcAgSpump",
-      "price": 5.004320982e-06,
-      "proceeds": 22.67,
-      "pnl_usd": -27.33,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T03:13:30+00:00",
-      "side": "buy",
-      "symbol": "PEPSBY",
-      "address": "BX6b6JapWQTiuGi6hGRkbS7gvQQXGoPY3qr2Qatfpump",
-      "price": 3.179601703167537e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T03:13:30+00:00",
       "side": "buy",
@@ -4523,13 +4485,45 @@
       "address": "8Pkk8nZXoL9Zss2rF4ceBoMDrGRbJQfcrUDvRiAwpump",
       "price": 0.06935663178484022,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T02:19:35+00:00",
+      "side": "sell",
+      "symbol": "trust",
+      "address": "GkqA9nEjhXHRVgL4jiUWLGC7Q1yid6vcfftfV6K2pump",
+      "price": 3.167280615e-06,
+      "proceeds": 8.71,
+      "pnl_usd": -41.29,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T02:19:35+00:00",
+      "side": "sell",
+      "symbol": "Vancepc",
+      "address": "8Pkk8nZXoL9Zss2rF4ceBoMDrGRbJQfcrUDvRiAwpump",
+      "price": 0.005665219944,
+      "proceeds": 2.0,
+      "pnl_usd": -48.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-26T02:19:35+00:00",
+      "side": "buy",
+      "symbol": "GIGATITS",
+      "address": "ABp2bT8ovFYYY8etNQmJauRDXgk3tYkt2jpmGqZSpump",
+      "price": 0.00018266966932498785,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T02:19:35+00:00",
+      "side": "buy",
+      "symbol": "CATGPT",
+      "address": "2TJHvsktb5mHmBsnz2Hm3qGCBWGwCwxtBWSsDd5fpump",
+      "price": 3.990320739312861e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T05:23:09+00:00",
-      "equity": 669759.44
-    },
     {
       "date": "2026-10-06T05:43:09+00:00",
       "equity": 669740.71
@@ -8525,6 +8519,10 @@
     {
       "date": "2026-10-26T01:41:11+00:00",
       "equity": 5879586.88
+    },
+    {
+      "date": "2026-10-26T02:19:35+00:00",
+      "equity": 5879497.71
     }
   ]
 }
