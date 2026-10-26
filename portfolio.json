@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880080.965949081,
-  "positions": {},
+  "cash": 5880030.965949081,
+  "positions": {
+    "27CqDi1fLfk8bXdXfSNZN3pLFic95R7HVQmeD53Kpump": {
+      "symbol": "$BOUNCER",
+      "qty": 17935404.17559511,
+      "entry_price": 2.759904349819736e-06,
+      "last_price": 2.656199415304539e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-26T23:50:05+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-23T16:40:57+00:00",
-      "side": "buy",
-      "symbol": "CC",
-      "address": "FMp55HxbQQp4DiARXqaet59wA5jJCU5J6PUYNKQzpump",
-      "price": 1.7289112857274379e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T17:16:17+00:00",
       "side": "sell",
@@ -4502,13 +4504,17 @@
       "proceeds": 72.89,
       "pnl_usd": 22.89,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-26T23:50:05+00:00",
+      "side": "buy",
+      "symbol": "$BOUNCER",
+      "address": "27CqDi1fLfk8bXdXfSNZN3pLFic95R7HVQmeD53Kpump",
+      "price": 2.759904349819736e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T14:57:50+00:00",
-      "equity": 687373.35
-    },
     {
       "date": "2026-10-06T15:20:59+00:00",
       "equity": 687310.13
@@ -8504,6 +8510,10 @@
     {
       "date": "2026-10-26T23:15:47+00:00",
       "equity": 5880080.97
+    },
+    {
+      "date": "2026-10-26T23:50:05+00:00",
+      "equity": 5880078.61
     }
   ]
 }
