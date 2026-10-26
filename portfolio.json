@@ -1,103 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5880542.582703193,
+  "cash": 5880540.745759619,
   "positions": {
-    "GXdztTBenAPR2epx26T8KceiKNLzCKuAxksFtpHjpump": {
-      "symbol": "BUGS",
-      "qty": 793511.9926794276,
-      "entry_price": 6.238090974889348e-05,
-      "last_price": 6.040902812731072e-05,
+    "2LwqBh1GbMNmonWbT7TEkiQdNCna5JMxLNWKsuTqpump": {
+      "symbol": "ROMART",
+      "qty": 687.2094439027605,
+      "entry_price": 0.07203044201325644,
+      "last_price": 0.06990518233060712,
       "cost": 50.0,
-      "entry_time": "2026-10-26T11:07:48+00:00",
+      "entry_time": "2026-10-26T12:38:20+00:00",
       "missing": 0
     },
-    "9AGp5XqiiWvvjnHxG1qVTTD8eptamxthnWiynd3Ypump": {
-      "symbol": "AOP",
-      "qty": 169.2273202223106,
-      "entry_price": 0.29250596141907126,
-      "last_price": 0.28397665562450636,
+    "hXaj2r2Zv5ixLx6MUnccZDeHa8inqM4RdtATE9Bpump": {
+      "symbol": "IPO",
+      "qty": 5939419.835749431,
+      "entry_price": 8.33414733574801e-06,
+      "last_price": 8.016069628933152e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-26T11:07:48+00:00",
-      "missing": 0
-    },
-    "5yeH6p7z9MDUE9ckvJEaVLEryCFhQpDzcvJsW7e7pump": {
-      "symbol": "1BOOBS",
-      "qty": 16848768.355572503,
-      "entry_price": 2.937900204653745e-06,
-      "last_price": 2.8268078206070755e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T11:07:48+00:00",
-      "missing": 0
-    },
-    "BomYPKAZKAYKDB6jVsHHpd6WeKUDViJmkRfqCsGnpump": {
-      "symbol": "🔥",
-      "qty": 1563834.4981722978,
-      "entry_price": 3.16529658719335e-05,
-      "last_price": 3.055746974792117e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-26T11:07:48+00:00",
+      "entry_time": "2026-10-26T12:38:20+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T08:21:39+00:00",
-      "side": "buy",
-      "symbol": "PILL",
-      "address": "5t79nyKZH8HzSxQyFt1N6m4zj33uMBV8tfB9JcHipump",
-      "price": 1.7682178572367774e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T09:01:55+00:00",
-      "side": "sell",
-      "symbol": "Dog coin",
-      "address": "DgXQsagRN6hbnX7rC4vQcRBE9DQ5etN1CCvFEzdxpump",
-      "price": 2.33086064e-05,
-      "proceeds": 45.59,
-      "pnl_usd": -4.41,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T09:01:55+00:00",
-      "side": "sell",
-      "symbol": "FORMATION",
-      "address": "7kARoWTfM2qzL6kj5Egmi9uo3myc1V4Y7Suz5eGUpump",
-      "price": 3.609969921e-06,
-      "proceeds": 9.17,
-      "pnl_usd": -40.83,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T09:36:52+00:00",
-      "side": "sell",
-      "symbol": "LMAO",
-      "address": "7cn5FfdNJcbAJsjWiP5qaexky91VHiBBcJJD5jrVpump",
-      "price": 0.0001385717681,
-      "proceeds": 46.04,
-      "pnl_usd": -3.96,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T09:36:52+00:00",
-      "side": "sell",
-      "symbol": "USMS",
-      "address": "CTWcpPsAxhkvQh28uPvs7K5HpG7kAAmxXxJtn1Popump",
-      "price": 4.424626924e-06,
-      "proceeds": 45.03,
-      "pnl_usd": -4.97,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T09:36:52+00:00",
-      "side": "sell",
-      "symbol": "PILL",
-      "address": "5t79nyKZH8HzSxQyFt1N6m4zj33uMBV8tfB9JcHipump",
-      "price": 1.71047249e-05,
-      "proceeds": 45.81,
-      "pnl_usd": -4.19,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-23T10:14:01+00:00",
       "side": "buy",
@@ -4539,13 +4463,65 @@
       "address": "BomYPKAZKAYKDB6jVsHHpd6WeKUDViJmkRfqCsGnpump",
       "price": 3.16529658719335e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T12:38:19+00:00",
+      "side": "sell",
+      "symbol": "BUGS",
+      "address": "GXdztTBenAPR2epx26T8KceiKNLzCKuAxksFtpHjpump",
+      "price": 1.027789341e-05,
+      "proceeds": 7.82,
+      "pnl_usd": -42.18,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T12:38:19+00:00",
+      "side": "sell",
+      "symbol": "AOP",
+      "address": "9AGp5XqiiWvvjnHxG1qVTTD8eptamxthnWiynd3Ypump",
+      "price": 2.611495474e-06,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-26T12:38:19+00:00",
+      "side": "sell",
+      "symbol": "1BOOBS",
+      "address": "5yeH6p7z9MDUE9ckvJEaVLEryCFhQpDzcvJsW7e7pump",
+      "price": 2.82663455e-06,
+      "proceeds": 44.73,
+      "pnl_usd": -5.27,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T12:38:19+00:00",
+      "side": "sell",
+      "symbol": "🔥",
+      "address": "BomYPKAZKAYKDB6jVsHHpd6WeKUDViJmkRfqCsGnpump",
+      "price": 3.055746975e-05,
+      "proceeds": 45.61,
+      "pnl_usd": -4.39,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-26T12:38:20+00:00",
+      "side": "buy",
+      "symbol": "ROMART",
+      "address": "2LwqBh1GbMNmonWbT7TEkiQdNCna5JMxLNWKsuTqpump",
+      "price": 0.07203044201325644,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-26T12:38:20+00:00",
+      "side": "buy",
+      "symbol": "IPO",
+      "address": "hXaj2r2Zv5ixLx6MUnccZDeHa8inqM4RdtATE9Bpump",
+      "price": 8.33414733574801e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T09:59:15+00:00",
-      "equity": 669422.97
-    },
     {
       "date": "2026-10-06T10:22:32+00:00",
       "equity": 678652.72
@@ -8541,6 +8517,10 @@
     {
       "date": "2026-10-26T11:07:48+00:00",
       "equity": 5880733.99
+    },
+    {
+      "date": "2026-10-26T12:38:20+00:00",
+      "equity": 5880636.4
     }
   ]
 }
