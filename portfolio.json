@@ -1,110 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879775.9877893785,
+  "cash": 5879894.318221099,
   "positions": {
-    "2FVfz43CojQkRgjE6iKa2w3YqppeHv1R2SGHuDCppump": {
-      "symbol": "DOGE PAID",
-      "qty": 2662237.015141514,
-      "entry_price": 1.859338583246645e-05,
-      "last_price": 1.798384913e-05,
+    "8PxGdcjqX5huccb3k89LAx8gQf5ZgoAdnU6866Qzpump": {
+      "symbol": "LEGO",
+      "qty": 2553080.4209361193,
+      "entry_price": 1.9388343427838516e-05,
+      "last_price": 1.8761012791868234e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T03:10:11+00:00",
-      "missing": 0
-    },
-    "CUN1EsXa9QEpVooQJSNFoxYwNHrnzYe8PFU3FW62pump": {
-      "symbol": "dih",
-      "qty": 3797765.182878593,
-      "entry_price": 1.303398120114432e-05,
-      "last_price": 1.259267825e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T03:10:11+00:00",
-      "missing": 0
-    },
-    "65CDzcMYLEbT68WqWftMGS7u5JRmRNGou8ifuGtPpump": {
-      "symbol": "PSA",
-      "qty": 1846910.868378484,
-      "entry_price": 2.6801509941548548e-05,
-      "last_price": 2.5861658560250887e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T03:48:52+00:00",
-      "missing": 0
-    },
-    "4DThu1kQ96DaB3pnr9wRqUzjy8g9ZKTVDsJYAinUpump": {
-      "symbol": "COFEEE",
-      "qty": 1725645.7601427077,
-      "entry_price": 2.8684913870101845e-05,
-      "last_price": 2.768308029072044e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T03:48:52+00:00",
-      "missing": 0
-    },
-    "GygQKTR468AxQWNoGeReHVJqCbCngDsZFp6zR8BQpump": {
-      "symbol": "PUMP",
-      "qty": 1559629.526264248,
-      "entry_price": 3.1738306544225564e-05,
-      "last_price": 3.075029733044878e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T03:48:52+00:00",
+      "entry_time": "2026-10-27T04:21:42+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T19:39:36+00:00",
-      "side": "sell",
-      "symbol": "YouTube",
-      "address": "o5J4QX6kuhMcetdtUyTfYWoErpU2ikG8vTyWxeKpump",
-      "price": 9.687883947e-05,
-      "proceeds": 11.68,
-      "pnl_usd": -38.32,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T19:39:36+00:00",
-      "side": "sell",
-      "symbol": "Weazel",
-      "address": "4gwgHGZFWWRhgUug6n73MAZUdZ1HoUtp1G4k7jt1pump",
-      "price": 0.0006091268155,
-      "proceeds": 79.85,
-      "pnl_usd": 29.85,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-23T19:39:36+00:00",
-      "side": "sell",
-      "symbol": "undr",
-      "address": "43osbpT7zwuo5Fx9T7jCQ8wpMLth1sWNCxEzmmatpump",
-      "price": 1.763680877e-06,
-      "proceeds": 34.98,
-      "pnl_usd": -15.02,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T19:39:36+00:00",
-      "side": "buy",
-      "symbol": "ch",
-      "address": "6ePRkW8ABNsQ8fxD3og2vHVGcpGEGa1GZPTD6kMRpump",
-      "price": 3.765930877194441e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T19:39:36+00:00",
-      "side": "buy",
-      "symbol": "GOC",
-      "address": "AhGrL5ZQvCs4UMZBXYHQtJyfRpkUw9gRUT5SnJ4kpump",
-      "price": 1.265675895469837e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T20:07:04+00:00",
-      "side": "sell",
-      "symbol": "$BROKE",
-      "address": "6dGcPPgsZoB8sWAcRWC9AM8Dq6C1tFq7oY1KV3NDpump",
-      "price": 1.788982586e-05,
-      "proceeds": 45.75,
-      "pnl_usd": -4.25,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-23T20:07:04+00:00",
       "side": "sell",
@@ -4548,13 +4456,67 @@
       "address": "GygQKTR468AxQWNoGeReHVJqCbCngDsZFp6zR8BQpump",
       "price": 3.1738306544225564e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T04:21:42+00:00",
+      "side": "sell",
+      "symbol": "DOGE PAID",
+      "address": "2FVfz43CojQkRgjE6iKa2w3YqppeHv1R2SGHuDCppump",
+      "price": 1.798384913e-05,
+      "proceeds": 45.8,
+      "pnl_usd": -4.2,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T04:21:42+00:00",
+      "side": "sell",
+      "symbol": "dih",
+      "address": "CUN1EsXa9QEpVooQJSNFoxYwNHrnzYe8PFU3FW62pump",
+      "price": 1.259267825e-05,
+      "proceeds": 45.7,
+      "pnl_usd": -4.3,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T04:21:42+00:00",
+      "side": "sell",
+      "symbol": "PSA",
+      "address": "65CDzcMYLEbT68WqWftMGS7u5JRmRNGou8ifuGtPpump",
+      "price": 2.954785942e-06,
+      "proceeds": 5.23,
+      "pnl_usd": -44.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T04:21:42+00:00",
+      "side": "sell",
+      "symbol": "COFEEE",
+      "address": "4DThu1kQ96DaB3pnr9wRqUzjy8g9ZKTVDsJYAinUpump",
+      "price": 2.801477644e-06,
+      "proceeds": 4.63,
+      "pnl_usd": -45.37,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T04:21:42+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "GygQKTR468AxQWNoGeReHVJqCbCngDsZFp6zR8BQpump",
+      "price": 4.481085661e-05,
+      "proceeds": 66.97,
+      "pnl_usd": 16.97,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-27T04:21:42+00:00",
+      "side": "buy",
+      "symbol": "LEGO",
+      "address": "8PxGdcjqX5huccb3k89LAx8gQf5ZgoAdnU6866Qzpump",
+      "price": 1.9388343427838516e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T17:22:08+00:00",
-      "equity": 687271.77
-    },
     {
       "date": "2026-10-06T17:42:02+00:00",
       "equity": 687246.99
@@ -8550,6 +8512,10 @@
     {
       "date": "2026-10-27T03:48:52+00:00",
       "equity": 5880015.18
+    },
+    {
+      "date": "2026-10-27T04:21:42+00:00",
+      "equity": 5879942.22
     }
   ]
 }
