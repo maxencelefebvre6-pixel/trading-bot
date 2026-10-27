@@ -1,81 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5880110.892757458,
+  "cash": 5879922.92375866,
   "positions": {
-    "BXDt2QSVnAbisy93sdoVLdufEMs5BXrTukJsWTZCpump": {
-      "symbol": "Pillies",
-      "qty": 3855511.4395952253,
-      "entry_price": 1.2838763618140583e-05,
-      "last_price": 1.2370740009421686e-05,
+    "AUrVnVjBRH31Jd85uBsdb6qjaYuxUxBH49EyS9uWpump": {
+      "symbol": "FOGGY",
+      "qty": 921587.0430959977,
+      "entry_price": 5.3711692640240174e-05,
+      "last_price": 5.1998836929056216e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T02:30:08+00:00",
+      "entry_time": "2026-10-27T03:10:11+00:00",
       "missing": 0
     },
-    "7eoTekNiEXRUokBv4hThvdcyjpWGzETdZ1mTrb7Hpump": {
-      "symbol": "Ransom",
-      "qty": 663674.0945295029,
-      "entry_price": 7.458480059417105e-05,
-      "last_price": 7.225144003992228e-05,
+    "GrLZAMXj5CrkN2d21vzWJfCzfza1H9eaGvPYe5gfpump": {
+      "symbol": "PSYTOAD",
+      "qty": 667872.1518724379,
+      "entry_price": 7.411598142132805e-05,
+      "last_price": 7.17627657341269e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T02:30:08+00:00",
+      "entry_time": "2026-10-27T03:10:11+00:00",
+      "missing": 0
+    },
+    "2FVfz43CojQkRgjE6iKa2w3YqppeHv1R2SGHuDCppump": {
+      "symbol": "DOGE PAID",
+      "qty": 2662237.015141514,
+      "entry_price": 1.859338583246645e-05,
+      "last_price": 1.798443559208306e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T03:10:11+00:00",
+      "missing": 0
+    },
+    "CUN1EsXa9QEpVooQJSNFoxYwNHrnzYe8PFU3FW62pump": {
+      "symbol": "dih",
+      "qty": 3797765.182878593,
+      "entry_price": 1.303398120114432e-05,
+      "last_price": 1.2592678248187623e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T03:10:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T18:20:36+00:00",
-      "side": "buy",
-      "symbol": "GTA",
-      "address": "3mvAbgGvwuaX2LZGTqafCh1p283xTkFVfjnfvMhbpump",
-      "price": 8.927792581137144e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T18:20:36+00:00",
-      "side": "buy",
-      "symbol": "$GOAT",
-      "address": "753SufN1uanJFPo5bTRZiLrhkvBnThtzfoTFzLeBpump",
-      "price": 2.023586096959977e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T18:20:36+00:00",
-      "side": "buy",
-      "symbol": "HALLOWCAT",
-      "address": "3LQq8GVc3mzBBREePCVePsyW8sLz35L9Y1Mds4jqpump",
-      "price": 9.078362237090904e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T19:05:57+00:00",
-      "side": "sell",
-      "symbol": "GTA",
-      "address": "3mvAbgGvwuaX2LZGTqafCh1p283xTkFVfjnfvMhbpump",
-      "price": 3.03236299e-06,
-      "proceeds": 16.03,
-      "pnl_usd": -33.97,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T19:05:57+00:00",
-      "side": "sell",
-      "symbol": "$GOAT",
-      "address": "753SufN1uanJFPo5bTRZiLrhkvBnThtzfoTFzLeBpump",
-      "price": 6.009643932e-07,
-      "proceeds": 13.68,
-      "pnl_usd": -36.32,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-23T19:05:57+00:00",
-      "side": "sell",
-      "symbol": "HALLOWCAT",
-      "address": "3LQq8GVc3mzBBREePCVePsyW8sLz35L9Y1Mds4jqpump",
-      "price": 6.755032001e-07,
-      "proceeds": 3.5,
-      "pnl_usd": -46.5,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-23T19:05:57+00:00",
       "side": "buy",
@@ -4519,13 +4483,61 @@
       "address": "7eoTekNiEXRUokBv4hThvdcyjpWGzETdZ1mTrb7Hpump",
       "price": 7.458480059417105e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T03:10:11+00:00",
+      "side": "sell",
+      "symbol": "Pillies",
+      "address": "BXDt2QSVnAbisy93sdoVLdufEMs5BXrTukJsWTZCpump",
+      "price": 2.913399192e-06,
+      "proceeds": 10.73,
+      "pnl_usd": -39.27,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T03:10:11+00:00",
+      "side": "sell",
+      "symbol": "Ransom",
+      "address": "7eoTekNiEXRUokBv4hThvdcyjpWGzETdZ1mTrb7Hpump",
+      "price": 2.044114471e-06,
+      "proceeds": 1.3,
+      "pnl_usd": -48.7,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-27T03:10:11+00:00",
+      "side": "buy",
+      "symbol": "FOGGY",
+      "address": "AUrVnVjBRH31Jd85uBsdb6qjaYuxUxBH49EyS9uWpump",
+      "price": 5.3711692640240174e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T03:10:11+00:00",
+      "side": "buy",
+      "symbol": "PSYTOAD",
+      "address": "GrLZAMXj5CrkN2d21vzWJfCzfza1H9eaGvPYe5gfpump",
+      "price": 7.411598142132805e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T03:10:11+00:00",
+      "side": "buy",
+      "symbol": "DOGE PAID",
+      "address": "2FVfz43CojQkRgjE6iKa2w3YqppeHv1R2SGHuDCppump",
+      "price": 1.859338583246645e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T03:10:11+00:00",
+      "side": "buy",
+      "symbol": "dih",
+      "address": "CUN1EsXa9QEpVooQJSNFoxYwNHrnzYe8PFU3FW62pump",
+      "price": 1.303398120114432e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T16:46:19+00:00",
-      "equity": 687335.55
-    },
     {
       "date": "2026-10-06T17:02:05+00:00",
       "equity": 687276.34
@@ -8521,6 +8533,10 @@
     {
       "date": "2026-10-27T02:30:08+00:00",
       "equity": 5880206.54
+    },
+    {
+      "date": "2026-10-27T03:10:11+00:00",
+      "equity": 5880114.48
     }
   ]
 }
