@@ -1,71 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5878975.399230574,
+  "cash": 5878882.272856679,
   "positions": {
-    "3Mwn7if3tGBmFfLnHaBxrqLDErGDSHsZovbjFGWGpump": {
-      "symbol": "Darla",
-      "qty": 550290.7122925831,
-      "entry_price": 8.995245402884692e-05,
-      "last_price": 8.720816790041868e-05,
+    "DU57Zniv5pM4HbUti7qaSohUSG9LyvZoJNiWn3zXpump": {
+      "symbol": "Blackhole",
+      "qty": 2797368.311715556,
+      "entry_price": 1.7695202949390277e-05,
+      "last_price": 1.7105322913583852e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T13:37:02+00:00",
+      "entry_time": "2026-10-27T14:30:23+00:00",
       "missing": 0
     },
-    "FWDjmUB7saWe1tb6ttp6eJzWtoHtutwVKkDL5Rdipump": {
-      "symbol": "熊",
-      "qty": 3556905.506708604,
-      "entry_price": 1.3916591235454273e-05,
-      "last_price": 1.3396456880691134e-05,
+    "Es98y7fiq81CdPYJyZENuQ5fUUa9iVkB6xzqqQq1pump": {
+      "symbol": "P",
+      "qty": 2504400.9571152236,
+      "entry_price": 1.9765205670987363e-05,
+      "last_price": 1.9035706609592873e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T13:37:02+00:00",
+      "entry_time": "2026-10-27T14:30:23+00:00",
+      "missing": 0
+    },
+    "AphzFqGXwvvGa47SWKNFctzcSjGMNLzGsoTsvJUCpump": {
+      "symbol": "CHIMP",
+      "qty": 2151817.7061494724,
+      "entry_price": 2.3003807366459864e-05,
+      "last_price": 2.2145494845615834e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T14:30:23+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T02:57:45+00:00",
-      "side": "buy",
-      "symbol": "Newt",
-      "address": "GMV5cwdeTBoYPHPnEgp7PoRLBpGgyvV59PT2YTxMpump",
-      "price": 1.2149983438865536e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T02:57:45+00:00",
-      "side": "buy",
-      "symbol": "$KMALONE",
-      "address": "DzeFFRiqrgjZXWw5EDGU11XEZSyXnh2ftrUaTv8Kpump",
-      "price": 1.7916798838223668e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T02:57:45+00:00",
-      "side": "buy",
-      "symbol": "DOGE PAID",
-      "address": "2f5VzftKcNsi2jtytsftLs52MCzQLViTAk2ejyj1pump",
-      "price": 1.2447196981647698e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T03:29:57+00:00",
-      "side": "sell",
-      "symbol": "milo",
-      "address": "BXJwxDVKEyXZMsXDxxTkRa5DodbYJmcSGmwhcwuGpump",
-      "price": 4.579210717e-05,
-      "proceeds": 46.06,
-      "pnl_usd": -3.94,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T03:29:57+00:00",
-      "side": "sell",
-      "symbol": "Tweet",
-      "address": "H3YrC3gzE8yGp7uUjysb5yA3ZDT9Py3pAFhZigyApump",
-      "price": 8.925223346e-06,
-      "proceeds": 45.51,
-      "pnl_usd": -4.49,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-24T03:29:57+00:00",
       "side": "sell",
@@ -4521,13 +4486,53 @@
       "address": "FWDjmUB7saWe1tb6ttp6eJzWtoHtutwVKkDL5Rdipump",
       "price": 1.3916591235454273e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T14:30:22+00:00",
+      "side": "sell",
+      "symbol": "Darla",
+      "address": "3Mwn7if3tGBmFfLnHaBxrqLDErGDSHsZovbjFGWGpump",
+      "price": 9.417984391e-05,
+      "proceeds": 25.65,
+      "pnl_usd": -24.35,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-27T14:30:22+00:00",
+      "side": "sell",
+      "symbol": "熊",
+      "address": "FWDjmUB7saWe1tb6ttp6eJzWtoHtutwVKkDL5Rdipump",
+      "price": 9.210544174e-06,
+      "proceeds": 31.22,
+      "pnl_usd": -18.78,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T14:30:23+00:00",
+      "side": "buy",
+      "symbol": "Blackhole",
+      "address": "DU57Zniv5pM4HbUti7qaSohUSG9LyvZoJNiWn3zXpump",
+      "price": 1.7695202949390277e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T14:30:23+00:00",
+      "side": "buy",
+      "symbol": "P",
+      "address": "Es98y7fiq81CdPYJyZENuQ5fUUa9iVkB6xzqqQq1pump",
+      "price": 1.9765205670987363e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T14:30:23+00:00",
+      "side": "buy",
+      "symbol": "CHIMP",
+      "address": "AphzFqGXwvvGa47SWKNFctzcSjGMNLzGsoTsvJUCpump",
+      "price": 2.3003807366459864e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T21:53:11+00:00",
-      "equity": 686723.7
-    },
     {
       "date": "2026-10-06T22:10:33+00:00",
       "equity": 686719.15
@@ -8523,6 +8528,10 @@
     {
       "date": "2026-10-27T13:37:02+00:00",
       "equity": 5879071.04
+    },
+    {
+      "date": "2026-10-27T14:30:23+00:00",
+      "equity": 5879025.45
     }
   ]
 }
