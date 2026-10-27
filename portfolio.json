@@ -1,108 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879331.777596237,
+  "cash": 5879418.090493541,
   "positions": {
-    "7Qe6dxZKHJz2pHeDnBKJCqHZeSerxd2Xfj2EgdUppump": {
-      "symbol": "MCH",
-      "qty": 5930554.567310094,
-      "entry_price": 8.346605606303625e-06,
-      "last_price": 8.05276166e-06,
+    "25SXsMvsJFXHCHocQSyz5zrqnTbcyhA55ev9qVtRpump": {
+      "symbol": "ELON2028",
+      "qty": 547681.2079230796,
+      "entry_price": 9.038104518450475e-05,
+      "last_price": 8.762379797966318e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T06:14:16+00:00",
-      "missing": 0
-    },
-    "GpV8dWpbE94Gr1j1aVeQKcBQdPci8Vnwdm9mMXbgpump": {
-      "symbol": "Musashi",
-      "qty": 3406603.0681078746,
-      "entry_price": 1.4530603950724945e-05,
-      "last_price": 1.3996173518939776e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T07:10:54+00:00",
-      "missing": 0
-    },
-    "9AwWUFAqz9AyoxBjfKysYLpdUVD9aJN5HyjcMBTApump": {
-      "symbol": "BLUNTS",
-      "qty": 1326662.8274035277,
-      "entry_price": 3.7311665765806304e-05,
-      "last_price": 3.610249746536232e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T07:10:54+00:00",
-      "missing": 0
-    },
-    "FFawrvyCdVnpkdhiRJqacrkiKupkyUrNz6JsriUEpump": {
-      "symbol": "GHOSTED",
-      "qty": 3741268.9056439386,
-      "entry_price": 1.3230805175571889e-05,
-      "last_price": 1.274573549855426e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T07:10:54+00:00",
-      "missing": 0
-    },
-    "27EGQ8JteTZqC1oh336BQcYymgsuLwzuLpWwQ5f2pump": {
-      "symbol": "MYTHOS",
-      "qty": 5175670.316612352,
-      "entry_price": 9.563978571262513e-06,
-      "last_price": 9.223994139274695e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T07:10:54+00:00",
+      "entry_time": "2026-10-27T07:58:28+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T23:20:12+00:00",
-      "side": "sell",
-      "symbol": "Foodslop",
-      "address": "BwZmBr4XFaDFEN6pQyay5aHNLaFSgxky6TpF9SxYpump",
-      "price": 1.629078955e-05,
-      "proceeds": 33.2,
-      "pnl_usd": -16.8,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T23:20:12+00:00",
-      "side": "buy",
-      "symbol": "ANSEM",
-      "address": "4QFTfVKQZErM5DN1mmcHURwiQRtbbuezXV38JcFypump",
-      "price": 8.931596337366643e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T23:20:12+00:00",
-      "side": "buy",
-      "symbol": "HC",
-      "address": "7KmYQZDtpZVprHzW4gyET99AzTXaHrywCMfxpfshpump",
-      "price": 7.4842367398175586e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-23T23:49:49+00:00",
-      "side": "sell",
-      "symbol": "THEEND",
-      "address": "B47GsUQCz5fPmZCLJFVm9KTGDaii3rcLL4dmau27pump",
-      "price": 6.429059262e-06,
-      "proceeds": 45.28,
-      "pnl_usd": -4.72,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-23T23:49:49+00:00",
-      "side": "sell",
-      "symbol": "ANSEM",
-      "address": "4QFTfVKQZErM5DN1mmcHURwiQRtbbuezXV38JcFypump",
-      "price": 2.941375021e-06,
-      "proceeds": 15.54,
-      "pnl_usd": -34.46,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-23T23:49:49+00:00",
-      "side": "buy",
-      "symbol": "Marak",
-      "address": "35kxtG3nq6pbNe3B4tHuhW1e2L1r1K7pL6BTSypDpump",
-      "price": 4.005816392979602e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-23T23:49:49+00:00",
       "side": "buy",
@@ -4548,13 +4458,67 @@
       "address": "27EGQ8JteTZqC1oh336BQcYymgsuLwzuLpWwQ5f2pump",
       "price": 9.563978571262513e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T07:58:28+00:00",
+      "side": "sell",
+      "symbol": "MCH",
+      "address": "7Qe6dxZKHJz2pHeDnBKJCqHZeSerxd2Xfj2EgdUppump",
+      "price": 8.05276166e-06,
+      "proceeds": 45.5,
+      "pnl_usd": -4.5,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T07:58:28+00:00",
+      "side": "sell",
+      "symbol": "Musashi",
+      "address": "GpV8dWpbE94Gr1j1aVeQKcBQdPci8Vnwdm9mMXbgpump",
+      "price": 7.239799053e-06,
+      "proceeds": 23.48,
+      "pnl_usd": -26.52,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T07:58:28+00:00",
+      "side": "sell",
+      "symbol": "BLUNTS",
+      "address": "9AwWUFAqz9AyoxBjfKysYLpdUVD9aJN5HyjcMBTApump",
+      "price": 4.377829927e-05,
+      "proceeds": 55.36,
+      "pnl_usd": 5.36,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-27T07:58:28+00:00",
+      "side": "sell",
+      "symbol": "GHOSTED",
+      "address": "FFawrvyCdVnpkdhiRJqacrkiKupkyUrNz6JsriUEpump",
+      "price": 3.285820112e-06,
+      "proceeds": 11.74,
+      "pnl_usd": -38.26,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T07:58:28+00:00",
+      "side": "sell",
+      "symbol": "MYTHOS",
+      "address": "27EGQ8JteTZqC1oh336BQcYymgsuLwzuLpWwQ5f2pump",
+      "price": 4.807205432e-08,
+      "proceeds": 0.24,
+      "pnl_usd": -49.76,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-27T07:58:28+00:00",
+      "side": "buy",
+      "symbol": "ELON2028",
+      "address": "25SXsMvsJFXHCHocQSyz5zrqnTbcyhA55ev9qVtRpump",
+      "price": 9.038104518450475e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T19:02:22+00:00",
-      "equity": 687088.98
-    },
     {
       "date": "2026-10-06T19:22:44+00:00",
       "equity": 687163.05
@@ -8550,6 +8514,10 @@
     {
       "date": "2026-10-27T07:10:54+00:00",
       "equity": 5879570.54
+    },
+    {
+      "date": "2026-10-27T07:58:28+00:00",
+      "equity": 5879466.08
     }
   ]
 }
