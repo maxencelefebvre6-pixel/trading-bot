@@ -1,36 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879418.090493541,
+  "cash": 5879396.606090536,
   "positions": {
-    "25SXsMvsJFXHCHocQSyz5zrqnTbcyhA55ev9qVtRpump": {
-      "symbol": "ELON2028",
-      "qty": 547681.2079230796,
-      "entry_price": 9.038104518450475e-05,
-      "last_price": 8.762379797966318e-05,
+    "5VbaFMHRvQhRcEUvat4RrRsCZxQRspE9w7X8vgnKpump": {
+      "symbol": "CHAD",
+      "qty": 2971944.557330358,
+      "entry_price": 1.6655761588118225e-05,
+      "last_price": 1.604369616869539e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T07:58:28+00:00",
+      "entry_time": "2026-10-27T08:41:20+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-23T23:49:49+00:00",
-      "side": "buy",
-      "symbol": "MGOAT",
-      "address": "6LnxZ1ZyMENsHMNNfYwSjDQfJjNNNHEd5oac2XcFpump",
-      "price": 1.7777138705718226e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T00:15:15+00:00",
-      "side": "sell",
-      "symbol": "Caty",
-      "address": "9pfd68qgbaD5wsLgF9kkq45wCPncNJ1yrUKLS7XKpump",
-      "price": 1.984922154e-05,
-      "proceeds": 45.74,
-      "pnl_usd": -4.26,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-24T00:15:15+00:00",
       "side": "sell",
@@ -4516,13 +4498,27 @@
       "address": "25SXsMvsJFXHCHocQSyz5zrqnTbcyhA55ev9qVtRpump",
       "price": 9.038104518450475e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T08:41:19+00:00",
+      "side": "sell",
+      "symbol": "ELON2028",
+      "address": "25SXsMvsJFXHCHocQSyz5zrqnTbcyhA55ev9qVtRpump",
+      "price": 0.0001051839388,
+      "proceeds": 28.52,
+      "pnl_usd": -21.48,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-27T08:41:20+00:00",
+      "side": "buy",
+      "symbol": "CHAD",
+      "address": "5VbaFMHRvQhRcEUvat4RrRsCZxQRspE9w7X8vgnKpump",
+      "price": 1.6655761588118225e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T19:22:44+00:00",
-      "equity": 687163.05
-    },
     {
       "date": "2026-10-06T19:42:22+00:00",
       "equity": 687127.24
@@ -8518,6 +8514,10 @@
     {
       "date": "2026-10-27T07:58:28+00:00",
       "equity": 5879466.08
+    },
+    {
+      "date": "2026-10-27T08:41:20+00:00",
+      "equity": 5879444.29
     }
   ]
 }
