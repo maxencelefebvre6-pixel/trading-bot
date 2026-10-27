@@ -1,120 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879998.921692909,
+  "cash": 5880059.03241533,
   "positions": {
-    "J5WKRCKCQCWf9eStntFvkAiJfa13HLG35jQn8pEWpump": {
-      "symbol": "dogbaton",
-      "qty": 2717740.4239216154,
-      "entry_price": 1.821365998176273e-05,
-      "last_price": 1.760911203e-05,
+    "4Ch3QQaqco7C8Ysbp5ZD96twhxGvy4EZEpgSDYUvpump": {
+      "symbol": "MAXWELL",
+      "qty": 5631140.248201938,
+      "entry_price": 8.790404397369731e-06,
+      "last_price": 8.453796042096498e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-27T22:28:49+00:00",
+      "entry_time": "2026-10-27T23:39:40+00:00",
       "missing": 0
     },
-    "EUDUejW6VVS5svawpr5rttRSJ8v1ANrt26RnAjd8pump": {
-      "symbol": "$CAT",
-      "qty": 5791594.292938917,
-      "entry_price": 8.546869393173854e-06,
-      "last_price": 8.234552456e-06,
+    "CN4C29j1ZEqG5mGk5SrZRCKMRNVJtRf893cR39xLpump": {
+      "symbol": "TCORE",
+      "qty": 2600205.1360927066,
+      "entry_price": 1.903695955096181e-05,
+      "last_price": 1.841387560841424e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T22:28:49+00:00",
-      "missing": 0
-    },
-    "Akpmbr6hFeLrjLqKwp8Qy3xCLzXzidTMWvUFzt9xpump": {
-      "symbol": "JEFF",
-      "qty": 1581266.9641249536,
-      "entry_price": 3.13040119872437e-05,
-      "last_price": 3.0216359437660073e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T23:06:47+00:00",
-      "missing": 0
-    },
-    "2EeD8sf917dKBDXW1SwwamHnCH53spCtKJ5qpoM3pump": {
-      "symbol": "Cheerio",
-      "qty": 4455627.214920408,
-      "entry_price": 1.1109547009283233e-05,
-      "last_price": 1.069923666361422e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T23:06:47+00:00",
-      "missing": 0
-    },
-    "CmGaqUVNvkUku16d9StzV8qegGwEAL8uNJ6d8555pump": {
-      "symbol": "Fronglon",
-      "qty": 839646.2635585174,
-      "entry_price": 5.895339757746709e-05,
-      "last_price": 5.682389506235181e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T23:06:47+00:00",
+      "entry_time": "2026-10-27T23:39:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T09:46:05+00:00",
-      "side": "sell",
-      "symbol": "BTBB",
-      "address": "AdRr9N1qNiR6VFnfBkJNvtek99Q8f8QLBfcgRao3pump",
-      "price": 2.370364574e-05,
-      "proceeds": 45.91,
-      "pnl_usd": -4.09,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T09:46:05+00:00",
-      "side": "sell",
-      "symbol": "Hodler",
-      "address": "2iFyiaZc6wk9LeN24ZihdfrjJNMAWRns2A7nGKGLpump",
-      "price": 2.892756049e-06,
-      "proceeds": 11.02,
-      "pnl_usd": -38.98,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T10:12:02+00:00",
-      "side": "sell",
-      "symbol": "WEIRDCAT",
-      "address": "8fTwy5msHHMz6bzWuRcjSTxE85yE89Tr7WLJeBu2pump",
-      "price": 1.490171428e-05,
-      "proceeds": 45.75,
-      "pnl_usd": -4.25,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T10:12:02+00:00",
-      "side": "buy",
-      "symbol": "MrBeast",
-      "address": "CacBhQ4a6nGGYfjVLkQ5iH3ymppTSe7nsLGzE6obpump",
-      "price": 0.0004887410147465644,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T10:12:02+00:00",
-      "side": "buy",
-      "symbol": "FAWN",
-      "address": "kcikWtRg7JJXHa9KcgFp3iW15qNXyk7e33Z3MRnpump",
-      "price": 8.68188531479986e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T10:47:39+00:00",
-      "side": "sell",
-      "symbol": "MrBeast",
-      "address": "CacBhQ4a6nGGYfjVLkQ5iH3ymppTSe7nsLGzE6obpump",
-      "price": 0.001411412837,
-      "proceeds": 136.85,
-      "pnl_usd": 86.85,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-24T10:47:39+00:00",
-      "side": "sell",
-      "symbol": "FAWN",
-      "address": "kcikWtRg7JJXHa9KcgFp3iW15qNXyk7e33Z3MRnpump",
-      "price": 2.986880518e-06,
-      "proceeds": 16.23,
-      "pnl_usd": -33.77,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-24T10:47:39+00:00",
       "side": "buy",
@@ -4546,13 +4453,75 @@
       "address": "CmGaqUVNvkUku16d9StzV8qegGwEAL8uNJ6d8555pump",
       "price": 5.895339757746709e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T23:39:40+00:00",
+      "side": "sell",
+      "symbol": "dogbaton",
+      "address": "J5WKRCKCQCWf9eStntFvkAiJfa13HLG35jQn8pEWpump",
+      "price": 1.760911203e-05,
+      "proceeds": 45.79,
+      "pnl_usd": -4.21,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T23:39:40+00:00",
+      "side": "sell",
+      "symbol": "$CAT",
+      "address": "EUDUejW6VVS5svawpr5rttRSJ8v1ANrt26RnAjd8pump",
+      "price": 8.234552456e-06,
+      "proceeds": 45.44,
+      "pnl_usd": -4.56,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T23:39:40+00:00",
+      "side": "sell",
+      "symbol": "JEFF",
+      "address": "Akpmbr6hFeLrjLqKwp8Qy3xCLzXzidTMWvUFzt9xpump",
+      "price": 2.830989485e-06,
+      "proceeds": 4.29,
+      "pnl_usd": -45.71,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T23:39:40+00:00",
+      "side": "sell",
+      "symbol": "Cheerio",
+      "address": "2EeD8sf917dKBDXW1SwwamHnCH53spCtKJ5qpoM3pump",
+      "price": 2.831504305e-06,
+      "proceeds": 12.05,
+      "pnl_usd": -37.95,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T23:39:40+00:00",
+      "side": "sell",
+      "symbol": "Fronglon",
+      "address": "CmGaqUVNvkUku16d9StzV8qegGwEAL8uNJ6d8555pump",
+      "price": 6.523963596e-05,
+      "proceeds": 52.54,
+      "pnl_usd": 2.54,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-27T23:39:40+00:00",
+      "side": "buy",
+      "symbol": "MAXWELL",
+      "address": "4Ch3QQaqco7C8Ysbp5ZD96twhxGvy4EZEpgSDYUvpump",
+      "price": 8.790404397369731e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T23:39:40+00:00",
+      "side": "buy",
+      "symbol": "TCORE",
+      "address": "CN4C29j1ZEqG5mGk5SrZRCKMRNVJtRf893cR39xLpump",
+      "price": 1.903695955096181e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T02:18:35+00:00",
-      "equity": 686655.14
-    },
     {
       "date": "2026-10-07T02:38:50+00:00",
       "equity": 686644.82
@@ -8548,6 +8517,10 @@
     {
       "date": "2026-10-27T23:06:47+00:00",
       "equity": 5880237.63
+    },
+    {
+      "date": "2026-10-27T23:39:40+00:00",
+      "equity": 5880154.52
     }
   ]
 }
