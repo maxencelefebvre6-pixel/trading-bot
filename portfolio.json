@@ -1,46 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5879355.522612569,
+  "cash": 5879205.522612569,
   "positions": {
     "Fow3RE7s3eFF2HWQWX4f4aGU1d6eCQE5i4NMvwFGpump": {
       "symbol": "Dog Think",
       "qty": 6157090.546653906,
       "entry_price": 8.03951145836258e-06,
-      "last_price": 7.743904868200368e-06,
+      "last_price": 7.743904868e-06,
       "cost": 50.0,
       "entry_time": "2026-10-27T09:21:56+00:00",
+      "missing": 0
+    },
+    "HU3Bv1CXPwpZhdysiLsAhQtJsBvY34VHDSSyYQJtpump": {
+      "symbol": "Antbell",
+      "qty": 2297.753666763322,
+      "entry_price": 0.021542779243924365,
+      "last_price": 0.02090648188840595,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T10:07:18+00:00",
+      "missing": 0
+    },
+    "5bDtxo7ytnRQUTi72XNfzYA2YWCSdmRbQ3mgKJozpump": {
+      "symbol": "TOMAMI",
+      "qty": 963084.6287235223,
+      "entry_price": 5.139735234442229e-05,
+      "last_price": 4.977679763831863e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T10:07:18+00:00",
+      "missing": 0
+    },
+    "5BAB9FivV6xCPY1hUadEs66YwDLoWaLkkQoHLjaYpump": {
+      "symbol": "MINE",
+      "qty": 5585364.967640867,
+      "entry_price": 8.862446820714688e-06,
+      "last_price": 8.522265446175161e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T10:07:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T00:15:15+00:00",
-      "side": "sell",
-      "symbol": "Marak",
-      "address": "35kxtG3nq6pbNe3B4tHuhW1e2L1r1K7pL6BTSypDpump",
-      "price": 1.485086719e-05,
-      "proceeds": 17.56,
-      "pnl_usd": -32.44,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T00:15:16+00:00",
-      "side": "buy",
-      "symbol": "Rockstar",
-      "address": "9JQAhAhBS1LcpEpAyWcQwNPKouWnFGD4nUMbfPGWpump",
-      "price": 0.0004920782211349291,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T01:11:52+00:00",
-      "side": "sell",
-      "symbol": "HC",
-      "address": "7KmYQZDtpZVprHzW4gyET99AzTXaHrywCMfxpfshpump",
-      "price": 7.2040757e-06,
-      "proceeds": 45.36,
-      "pnl_usd": -4.64,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-24T01:11:52+00:00",
       "side": "sell",
@@ -4514,13 +4513,33 @@
       "address": "Fow3RE7s3eFF2HWQWX4f4aGU1d6eCQE5i4NMvwFGpump",
       "price": 8.03951145836258e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T10:07:18+00:00",
+      "side": "buy",
+      "symbol": "Antbell",
+      "address": "HU3Bv1CXPwpZhdysiLsAhQtJsBvY34VHDSSyYQJtpump",
+      "price": 0.021542779243924365,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T10:07:18+00:00",
+      "side": "buy",
+      "symbol": "TOMAMI",
+      "address": "5bDtxo7ytnRQUTi72XNfzYA2YWCSdmRbQ3mgKJozpump",
+      "price": 5.139735234442229e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T10:07:18+00:00",
+      "side": "buy",
+      "symbol": "MINE",
+      "address": "5BAB9FivV6xCPY1hUadEs66YwDLoWaLkkQoHLjaYpump",
+      "price": 8.862446820714688e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T19:57:46+00:00",
-      "equity": 686951.61
-    },
     {
       "date": "2026-10-06T20:20:32+00:00",
       "equity": 686928.24
@@ -8516,6 +8535,10 @@
     {
       "date": "2026-10-27T09:21:56+00:00",
       "equity": 5879403.2
+    },
+    {
+      "date": "2026-10-27T10:07:18+00:00",
+      "equity": 5879396.78
     }
   ]
 }
