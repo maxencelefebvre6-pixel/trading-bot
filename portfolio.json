@@ -1,39 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5878574.522869871,
+  "cash": 5880395.233635558,
   "positions": {
-    "27F9dctt8JftPmPMZrLZCX2qdhqSAd7Az345Lx9Qpump": {
-      "symbol": "PUUMP",
-      "qty": 773488.8249202946,
-      "entry_price": 6.399575327426458e-05,
-      "last_price": 6.201627586e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T17:46:55+00:00",
-      "missing": 0
-    },
-    "5zSiHfkBipn9tPdrQFJB3MHPzNWwTsxcKrWb2xMRpump": {
-      "symbol": "COCO",
-      "qty": 1013805.3785236717,
-      "entry_price": 4.882593942447131e-05,
-      "last_price": 4.726843536830588e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T18:23:45+00:00",
-      "missing": 0
-    },
-    "2BJDwUdMbnJhRRfhacFDjrDNhxUWdzE9H6LEND89pump": {
-      "symbol": "Frongus",
-      "qty": 2792244.741755458,
-      "entry_price": 1.7727672384792394e-05,
-      "last_price": 1.7073247928195674e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T18:23:45+00:00",
-      "missing": 0
-    },
     "7vmGh4jtwH4yUzEKz5TahVWL769BnvRNKTxG6F2Npump": {
       "symbol": "Test",
       "qty": 4993084.273648876,
       "entry_price": 9.913712104007027e-06,
-      "last_price": 9.562711443001173e-06,
+      "last_price": 9.562711443e-06,
       "cost": 50.0,
       "entry_time": "2026-10-27T18:23:45+00:00",
       "missing": 0
@@ -42,41 +15,13 @@
       "symbol": "Test",
       "qty": 6400505.315268811,
       "entry_price": 7.733764376683605e-06,
-      "last_price": 7.447066200792214e-06,
+      "last_price": 7.437082413e-06,
       "cost": 50.0,
       "entry_time": "2026-10-27T18:23:45+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T05:45:08+00:00",
-      "side": "sell",
-      "symbol": "MP",
-      "address": "2KrSWp8s4ksKoAo1mRoUUTq4dQwiqoeQQzyDA7xqpump",
-      "price": 2.397407956e-06,
-      "proceeds": 5.48,
-      "pnl_usd": -44.52,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T05:45:08+00:00",
-      "side": "sell",
-      "symbol": "SOLFLY",
-      "address": "36LGcntje2Dj283QGUNvtVkhQGoEf7Db8Qi9zgRZpump",
-      "price": 3.838804422e-05,
-      "proceeds": 39.97,
-      "pnl_usd": -10.03,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T05:45:08+00:00",
-      "side": "buy",
-      "symbol": "Talarico",
-      "address": "5hPDV9MRGxPJMLZvtoWkNRkvC3ZDmD591fpcuEzcpump",
-      "price": 8.227473259358733e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T06:11:59+00:00",
       "side": "sell",
@@ -4546,13 +4491,39 @@
       "address": "EK1iD5nAiyTjwpqNcDhKsRK5tNAhXNCrrWgpZcTCpump",
       "price": 7.733764376683605e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T19:16:58+00:00",
+      "side": "sell",
+      "symbol": "PUUMP",
+      "address": "27F9dctt8JftPmPMZrLZCX2qdhqSAd7Az345Lx9Qpump",
+      "price": 6.201627586e-05,
+      "proceeds": 46.01,
+      "pnl_usd": -3.99,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T19:16:58+00:00",
+      "side": "sell",
+      "symbol": "COCO",
+      "address": "5zSiHfkBipn9tPdrQFJB3MHPzNWwTsxcKrWb2xMRpump",
+      "price": 1.970257213e-06,
+      "proceeds": 1.91,
+      "pnl_usd": -48.09,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-27T19:16:58+00:00",
+      "side": "sell",
+      "symbol": "Frongus",
+      "address": "2BJDwUdMbnJhRRfhacFDjrDNhxUWdzE9H6LEND89pump",
+      "price": 0.0006934528884,
+      "proceeds": 1772.79,
+      "pnl_usd": 1722.79,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T23:39:53+00:00",
-      "equity": 686750.69
-    },
     {
       "date": "2026-10-06T23:55:37+00:00",
       "equity": 686703.12
@@ -8548,6 +8519,10 @@
     {
       "date": "2026-10-27T18:23:45+00:00",
       "equity": 5878813.5
+    },
+    {
+      "date": "2026-10-27T19:16:58+00:00",
+      "equity": 5880490.58
     }
   ]
 }
