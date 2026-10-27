@@ -1,32 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5880454.834971783,
-  "positions": {},
+  "cash": 5880304.834971783,
+  "positions": {
+    "ENAEEngknhz6thgtnXtndqi7emb3xCfbDe8C2xUpump": {
+      "symbol": "coolest",
+      "qty": 1531981.8928862335,
+      "entry_price": 3.2311086854128974e-05,
+      "last_price": 3.12714224286139e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T21:13:54+00:00",
+      "missing": 0
+    },
+    "FUjA2WdKhXMUuvCYa1UkXeE4vo1KWCSrpB3aeQKXpump": {
+      "symbol": "HEXCAT",
+      "qty": 5164775.387555449,
+      "entry_price": 9.584153479214311e-06,
+      "last_price": 9.215922030458317e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T21:13:54+00:00",
+      "missing": 0
+    },
+    "7wLQiqsisR5ERmhkptp8RvEYKoE2xfFjNwCCPs1Spump": {
+      "symbol": "DOOB",
+      "qty": 904965.2904781654,
+      "entry_price": 5.469823044135228e-05,
+      "last_price": 5.3042976557397235e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T21:13:54+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-24T07:00:41+00:00",
-      "side": "buy",
-      "symbol": "ARTOCTO",
-      "address": "9V4xAjPwxAur8rtwtny94phewyEa9g4Av3PDjmdVpump",
-      "price": 0.022422256537262566,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T07:00:41+00:00",
-      "side": "buy",
-      "symbol": "Machiato",
-      "address": "FU3qbTu8hyxJLXCojqZEvdPdXsPJ4pHSc8gFyYdpump",
-      "price": 8.083781868188103e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T07:00:41+00:00",
-      "side": "buy",
-      "symbol": "Lodds",
-      "address": "Ht3CQYmr5KZvtUX5Rt5bCPG6zpEBj3iRNXvjaGV8pump",
-      "price": 7.4159840515539855e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T07:36:49+00:00",
       "side": "sell",
@@ -4502,13 +4506,33 @@
       "proceeds": 18.72,
       "pnl_usd": -31.28,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T21:13:54+00:00",
+      "side": "buy",
+      "symbol": "coolest",
+      "address": "ENAEEngknhz6thgtnXtndqi7emb3xCfbDe8C2xUpump",
+      "price": 3.2311086854128974e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T21:13:54+00:00",
+      "side": "buy",
+      "symbol": "HEXCAT",
+      "address": "FUjA2WdKhXMUuvCYa1UkXeE4vo1KWCSrpB3aeQKXpump",
+      "price": 9.584153479214311e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T21:13:54+00:00",
+      "side": "buy",
+      "symbol": "DOOB",
+      "address": "7wLQiqsisR5ERmhkptp8RvEYKoE2xfFjNwCCPs1Spump",
+      "price": 5.469823044135228e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T00:55:51+00:00",
-      "equity": 686667.13
-    },
     {
       "date": "2026-10-07T01:18:28+00:00",
       "equity": 686733.06
@@ -8504,6 +8528,10 @@
     {
       "date": "2026-10-27T20:35:25+00:00",
       "equity": 5880454.83
+    },
+    {
+      "date": "2026-10-27T21:13:54+00:00",
+      "equity": 5880448.34
     }
   ]
 }
