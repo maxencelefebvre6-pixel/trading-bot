@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879082.205982942,
+  "cash": 5879160.68909324,
   "positions": {
-    "Gt5wj8S2pcXmM5sy8NdwF1e8YYtBfHuss9qBtRXdpump": {
-      "symbol": "DNT",
-      "qty": 2514590.338028662,
-      "entry_price": 1.968511500716495e-05,
-      "last_price": 1.904985678e-05,
+    "AV7scbKrcjRo2f5cCfQtB49a4YMNSqayx361t92hpump": {
+      "symbol": "Echo",
+      "qty": 4235441.132422417,
+      "entry_price": 1.168709431966275e-05,
+      "last_price": 1.1257342845232224e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T10:46:25+00:00",
-      "missing": 0
-    },
-    "5eCZ73eYntN84R75Pwh2Dxphs4BAZ3eqqD8moHPhpump": {
-      "symbol": "OCAINE",
-      "qty": 3919046.29844101,
-      "entry_price": 1.2630623940240516e-05,
-      "last_price": 1.2157496727539998e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T11:23:03+00:00",
+      "entry_time": "2026-10-27T12:03:37+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T01:53:17+00:00",
-      "side": "sell",
-      "symbol": "AT",
-      "address": "DVfR9oY6y6DSP1Pago7E4qxW8bWqo5mMpfM2EWQDpump",
-      "price": 1.026341058e-05,
-      "proceeds": 30.93,
-      "pnl_usd": -19.07,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T01:53:17+00:00",
-      "side": "buy",
-      "symbol": "LOPE",
-      "address": "8HswqjSxGR9gK62Eb5gxGudc4oFngNhytxbpJn4spump",
-      "price": 8.165895522748654e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T01:53:17+00:00",
-      "side": "buy",
-      "symbol": "HELIUM",
-      "address": "AorAyRoTCvAa1fMNuUw4zcxGRNtyFNZxdumuVuSapump",
-      "price": 6.874967200090335e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T02:21:37+00:00",
       "side": "sell",
@@ -4521,13 +4486,37 @@
       "address": "5eCZ73eYntN84R75Pwh2Dxphs4BAZ3eqqD8moHPhpump",
       "price": 1.2630623940240516e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T12:03:37+00:00",
+      "side": "sell",
+      "symbol": "DNT",
+      "address": "Gt5wj8S2pcXmM5sy8NdwF1e8YYtBfHuss9qBtRXdpump",
+      "price": 1.904985678e-05,
+      "proceeds": 45.85,
+      "pnl_usd": -4.15,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T12:03:37+00:00",
+      "side": "sell",
+      "symbol": "OCAINE",
+      "address": "5eCZ73eYntN84R75Pwh2Dxphs4BAZ3eqqD8moHPhpump",
+      "price": 2.27082382e-05,
+      "proceeds": 82.63,
+      "pnl_usd": 32.63,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-27T12:03:37+00:00",
+      "side": "buy",
+      "symbol": "Echo",
+      "address": "AV7scbKrcjRo2f5cCfQtB49a4YMNSqayx361t92hpump",
+      "price": 1.168709431966275e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T20:57:20+00:00",
-      "equity": 686812.69
-    },
     {
       "date": "2026-10-06T21:18:47+00:00",
       "equity": 686810.43
@@ -8523,6 +8512,10 @@
     {
       "date": "2026-10-27T11:23:03+00:00",
       "equity": 5879177.75
+    },
+    {
+      "date": "2026-10-27T12:03:37+00:00",
+      "equity": 5879208.37
     }
   ]
 }
