@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5880395.233635558,
+  "cash": 5880436.112272272,
   "positions": {
-    "7vmGh4jtwH4yUzEKz5TahVWL769BnvRNKTxG6F2Npump": {
-      "symbol": "Test",
-      "qty": 4993084.273648876,
-      "entry_price": 9.913712104007027e-06,
-      "last_price": 9.562711443e-06,
+    "G5MviPXeWwUzLW3tExipfuTG3bg3GvgdsZbneFW5pump": {
+      "symbol": "ELSE",
+      "qty": 1429018.263025496,
+      "entry_price": 3.463916541920139e-05,
+      "last_price": 3.350961495502824e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T18:23:45+00:00",
-      "missing": 0
-    },
-    "EK1iD5nAiyTjwpqNcDhKsRK5tNAhXNCrrWgpZcTCpump": {
-      "symbol": "Test",
-      "qty": 6400505.315268811,
-      "entry_price": 7.733764376683605e-06,
-      "last_price": 7.437082413e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T18:23:45+00:00",
+      "entry_time": "2026-10-27T19:56:59+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T06:11:59+00:00",
-      "side": "sell",
-      "symbol": "BBC",
-      "address": "6TyAxPBwQvf2L15bYGBHxwwfSjDnqnna5VwJQFaKpump",
-      "price": 7.691360595e-06,
-      "proceeds": 45.41,
-      "pnl_usd": -4.59,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T06:11:59+00:00",
-      "side": "buy",
-      "symbol": "Riostor",
-      "address": "6HhMLur43AXKtPaymM8PHmHdr1kSFNJLETGzktNXpump",
-      "price": 7.185494634999845e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T07:00:41+00:00",
-      "side": "sell",
-      "symbol": "Talarico",
-      "address": "5hPDV9MRGxPJMLZvtoWkNRkvC3ZDmD591fpcuEzcpump",
-      "price": 1.940773561e-06,
-      "proceeds": 1.12,
-      "pnl_usd": -48.88,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-24T07:00:41+00:00",
       "side": "sell",
@@ -4521,13 +4484,37 @@
       "proceeds": 1772.79,
       "pnl_usd": 1722.79,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-27T19:56:59+00:00",
+      "side": "sell",
+      "symbol": "Test",
+      "address": "7vmGh4jtwH4yUzEKz5TahVWL769BnvRNKTxG6F2Npump",
+      "price": 9.562711443e-06,
+      "proceeds": 45.55,
+      "pnl_usd": -4.45,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T19:56:59+00:00",
+      "side": "sell",
+      "symbol": "Test",
+      "address": "EK1iD5nAiyTjwpqNcDhKsRK5tNAhXNCrrWgpZcTCpump",
+      "price": 7.437082413e-06,
+      "proceeds": 45.33,
+      "pnl_usd": -4.67,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T19:56:59+00:00",
+      "side": "buy",
+      "symbol": "ELSE",
+      "address": "G5MviPXeWwUzLW3tExipfuTG3bg3GvgdsZbneFW5pump",
+      "price": 3.463916541920139e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T23:55:37+00:00",
-      "equity": 686703.12
-    },
     {
       "date": "2026-10-07T00:26:36+00:00",
       "equity": 686697.01
@@ -8523,6 +8510,10 @@
     {
       "date": "2026-10-27T19:16:58+00:00",
       "equity": 5880490.58
+    },
+    {
+      "date": "2026-10-27T19:56:59+00:00",
+      "equity": 5880484.0
     }
   ]
 }
