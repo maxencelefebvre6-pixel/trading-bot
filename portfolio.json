@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5880436.112272272,
-  "positions": {
-    "G5MviPXeWwUzLW3tExipfuTG3bg3GvgdsZbneFW5pump": {
-      "symbol": "ELSE",
-      "qty": 1429018.263025496,
-      "entry_price": 3.463916541920139e-05,
-      "last_price": 3.350961495502824e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T19:56:59+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5880454.834971783,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-24T07:00:41+00:00",
-      "side": "sell",
-      "symbol": "Riostor",
-      "address": "6HhMLur43AXKtPaymM8PHmHdr1kSFNJLETGzktNXpump",
-      "price": 2.67037839e-06,
-      "proceeds": 0.91,
-      "pnl_usd": -49.09,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-24T07:00:41+00:00",
       "side": "buy",
@@ -4512,13 +4492,19 @@
       "address": "G5MviPXeWwUzLW3tExipfuTG3bg3GvgdsZbneFW5pump",
       "price": 3.463916541920139e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T20:35:25+00:00",
+      "side": "sell",
+      "symbol": "ELSE",
+      "address": "G5MviPXeWwUzLW3tExipfuTG3bg3GvgdsZbneFW5pump",
+      "price": 1.369944406e-05,
+      "proceeds": 18.72,
+      "pnl_usd": -31.28,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T00:26:36+00:00",
-      "equity": 686697.01
-    },
     {
       "date": "2026-10-07T00:55:51+00:00",
       "equity": 686667.13
@@ -8514,6 +8500,10 @@
     {
       "date": "2026-10-27T19:56:59+00:00",
       "equity": 5880484.0
+    },
+    {
+      "date": "2026-10-27T20:35:25+00:00",
+      "equity": 5880454.83
     }
   ]
 }
