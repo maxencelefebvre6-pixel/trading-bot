@@ -1,66 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879119.929420085,
+  "cash": 5879082.205982942,
   "positions": {
-    "BryTFG56T6SBvJeJra4WsThxQCn1zZ3Lob4CPR5xpump": {
-      "symbol": "CC",
-      "qty": 3869396.1435986897,
-      "entry_price": 1.2792693785538087e-05,
-      "last_price": 1.2319431584823901e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-27T10:46:25+00:00",
-      "missing": 0
-    },
     "Gt5wj8S2pcXmM5sy8NdwF1e8YYtBfHuss9qBtRXdpump": {
       "symbol": "DNT",
       "qty": 2514590.338028662,
       "entry_price": 1.968511500716495e-05,
-      "last_price": 1.9049856780712617e-05,
+      "last_price": 1.904985678e-05,
       "cost": 50.0,
       "entry_time": "2026-10-27T10:46:25+00:00",
       "missing": 0
     },
-    "9fLmKwmD2ggPigRxmXrZrEssd3ZkrXbkZMBwYTcupump": {
-      "symbol": "34%",
-      "qty": 4031235.68047624,
-      "entry_price": 1.2279113384447966e-05,
-      "last_price": 1.1858400848644365e-05,
+    "5eCZ73eYntN84R75Pwh2Dxphs4BAZ3eqqD8moHPhpump": {
+      "symbol": "OCAINE",
+      "qty": 3919046.29844101,
+      "entry_price": 1.2630623940240516e-05,
+      "last_price": 1.2157496727539998e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-27T10:46:25+00:00",
+      "entry_time": "2026-10-27T11:23:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T01:53:17+00:00",
-      "side": "sell",
-      "symbol": "GTA6 Coin",
-      "address": "5iK6LNLgJAds1Nawzt93uEEFo1r1cwpK69hZqjEcpump",
-      "price": 1.808476922e-06,
-      "proceeds": 0.22,
-      "pnl_usd": -49.78,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-24T01:53:17+00:00",
-      "side": "sell",
-      "symbol": "XDOG",
-      "address": "Bs1j45ab4krjXSfrHJaaURK6ZWsuMq1eHPKHAgPzpump",
-      "price": 3.144048645e-06,
-      "proceeds": 14.56,
-      "pnl_usd": -35.44,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T01:53:17+00:00",
-      "side": "sell",
-      "symbol": "Biddy",
-      "address": "Hq9ZnEK2XRpihNK4rTi298ELCNfw6meed1H1wGxQpump",
-      "price": 0.02675502321,
-      "proceeds": 28.66,
-      "pnl_usd": -21.34,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-24T01:53:17+00:00",
       "side": "sell",
@@ -4532,13 +4493,37 @@
       "address": "9fLmKwmD2ggPigRxmXrZrEssd3ZkrXbkZMBwYTcupump",
       "price": 1.2279113384447966e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T11:23:03+00:00",
+      "side": "sell",
+      "symbol": "CC",
+      "address": "BryTFG56T6SBvJeJra4WsThxQCn1zZ3Lob4CPR5xpump",
+      "price": 3.169000932e-06,
+      "proceeds": 11.71,
+      "pnl_usd": -38.29,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-27T11:23:03+00:00",
+      "side": "sell",
+      "symbol": "34%",
+      "address": "9fLmKwmD2ggPigRxmXrZrEssd3ZkrXbkZMBwYTcupump",
+      "price": 1.465138608e-07,
+      "proceeds": 0.57,
+      "pnl_usd": -49.43,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-27T11:23:03+00:00",
+      "side": "buy",
+      "symbol": "OCAINE",
+      "address": "5eCZ73eYntN84R75Pwh2Dxphs4BAZ3eqqD8moHPhpump",
+      "price": 1.2630623940240516e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T20:41:19+00:00",
-      "equity": 686851.66
-    },
     {
       "date": "2026-10-06T20:57:20+00:00",
       "equity": 686812.69
@@ -8534,6 +8519,10 @@
     {
       "date": "2026-10-27T10:46:25+00:00",
       "equity": 5879263.3
+    },
+    {
+      "date": "2026-10-27T11:23:03+00:00",
+      "equity": 5879177.75
     }
   ]
 }
