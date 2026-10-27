@@ -1,26 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5878817.810846172,
-  "positions": {},
+  "cash": 5878717.810846172,
+  "positions": {
+    "27F9dctt8JftPmPMZrLZCX2qdhqSAd7Az345Lx9Qpump": {
+      "symbol": "PUUMP",
+      "qty": 773488.8249202946,
+      "entry_price": 6.399575327426458e-05,
+      "last_price": 6.206362776605171e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T17:46:55+00:00",
+      "missing": 0
+    },
+    "DwKc93hFePUbAyNTabPFWV1PVpycFHvHXV3Ceeuzpump": {
+      "symbol": "OOPS",
+      "qty": 1238762.9054443252,
+      "entry_price": 3.9959220430680485e-05,
+      "last_price": 3.867067913500846e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-27T17:46:55+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-24T04:37:32+00:00",
-      "side": "buy",
-      "symbol": "thebeets",
-      "address": "2P3EEoqTPUmKaDs6JtE6t5NjB9L3Ykq5GqSDJ9Rdpump",
-      "price": 3.258786706254603e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T05:09:49+00:00",
-      "side": "sell",
-      "symbol": "Ina",
-      "address": "2RHH1bwJRGLDunvXL5bnboxWkdJBVfmKgdxLiKXWpump",
-      "price": 1.217659343e-05,
-      "proceeds": 45.54,
-      "pnl_usd": -4.46,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-24T05:09:49+00:00",
       "side": "sell",
@@ -4504,13 +4505,25 @@
       "proceeds": 45.68,
       "pnl_usd": -4.32,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-27T17:46:55+00:00",
+      "side": "buy",
+      "symbol": "PUUMP",
+      "address": "27F9dctt8JftPmPMZrLZCX2qdhqSAd7Az345Lx9Qpump",
+      "price": 6.399575327426458e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-27T17:46:55+00:00",
+      "side": "buy",
+      "symbol": "OOPS",
+      "address": "DwKc93hFePUbAyNTabPFWV1PVpycFHvHXV3Ceeuzpump",
+      "price": 3.9959220430680485e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-06T23:01:02+00:00",
-      "equity": 686654.99
-    },
     {
       "date": "2026-10-06T23:21:22+00:00",
       "equity": 686778.89
@@ -8506,6 +8519,10 @@
     {
       "date": "2026-10-27T16:58:17+00:00",
       "equity": 5878817.81
+    },
+    {
+      "date": "2026-10-27T17:46:55+00:00",
+      "equity": 5878813.72
     }
   ]
 }
