@@ -1,81 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5879471.337258671,
-  "positions": {
-    "CieauCuTQDUKyKz1CSZtUHgfexh1fHuwdHf5ML1Jpump": {
-      "symbol": "JUMP",
-      "qty": 7026374.071167413,
-      "entry_price": 7.0448853845004165e-06,
-      "last_price": 6.777089346e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T07:42:38+00:00",
-      "missing": 0
-    },
-    "66NQWumSrWDZi4dTns9269uYrLLq3oabykQFJGzcpump": {
-      "symbol": "TRENCHBOT",
-      "qty": 3130196.750988412,
-      "entry_price": 1.5813702440387987e-05,
-      "last_price": 1.5245214469544448e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T08:31:55+00:00",
-      "missing": 0
-    },
-    "CuWC2WD3TdDrjfWRQ8fXyWvdw9GCAo4M5J6YLQyYpump": {
-      "symbol": "BetOnBlak",
-      "qty": 4465176.946626074,
-      "entry_price": 1.1085786877360511e-05,
-      "last_price": 1.069534703676459e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T08:31:55+00:00",
-      "missing": 0
-    },
-    "BxhDt9WeyRi6DvcJef3a2RgRd2JhuLpNgS3t7y6Zpump": {
-      "symbol": "NUHUH",
-      "qty": 3507164.785200716,
-      "entry_price": 1.4113964707012505e-05,
-      "last_price": 1.364078720344811e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T08:31:55+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5879552.959763049,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-24T17:33:51+00:00",
-      "side": "sell",
-      "symbol": "up",
-      "address": "BjMM3MKUHdJDqAHEzKSRAg1Kf3M2vL2UMBCVvPCApump",
-      "price": 0.0001039424807,
-      "proceeds": 46.09,
-      "pnl_usd": -3.91,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T17:33:51+00:00",
-      "side": "sell",
-      "symbol": "MARKET",
-      "address": "5pmUDKSTACsJJ9EvJezAagQLVdETVFHVCqQMjNxpump",
-      "price": 2.835255268e-06,
-      "proceeds": 10.27,
-      "pnl_usd": -39.73,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T17:33:51+00:00",
-      "side": "buy",
-      "symbol": "XRC",
-      "address": "xLUiMForDovNjKx1u66M7nzTEaUDdcthQG4rSY6pump",
-      "price": 0.00851652060880147,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T17:33:51+00:00",
-      "side": "buy",
-      "symbol": "Norwood",
-      "address": "2aS8LCr2bJH1y5gyFKrgQMVJG2coUCsUWX8hxozqpump",
-      "price": 5.0054056663156737e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T17:33:51+00:00",
       "side": "buy",
@@ -4539,13 +4466,49 @@
       "address": "BxhDt9WeyRi6DvcJef3a2RgRd2JhuLpNgS3t7y6Zpump",
       "price": 1.4113964707012505e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T09:24:00+00:00",
+      "side": "sell",
+      "symbol": "JUMP",
+      "address": "CieauCuTQDUKyKz1CSZtUHgfexh1fHuwdHf5ML1Jpump",
+      "price": 6.777089346e-06,
+      "proceeds": 45.3,
+      "pnl_usd": -4.7,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-28T09:24:00+00:00",
+      "side": "sell",
+      "symbol": "TRENCHBOT",
+      "address": "66NQWumSrWDZi4dTns9269uYrLLq3oabykQFJGzcpump",
+      "price": 3.051588997e-06,
+      "proceeds": 9.13,
+      "pnl_usd": -40.87,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T09:24:00+00:00",
+      "side": "sell",
+      "symbol": "BetOnBlak",
+      "address": "CuWC2WD3TdDrjfWRQ8fXyWvdw9GCAo4M5J6YLQyYpump",
+      "price": 1.069534704e-05,
+      "proceeds": 23.64,
+      "pnl_usd": -26.36,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-28T09:24:00+00:00",
+      "side": "sell",
+      "symbol": "NUHUH",
+      "address": "BxhDt9WeyRi6DvcJef3a2RgRd2JhuLpNgS3t7y6Zpump",
+      "price": 2.04409835e-06,
+      "proceeds": 3.55,
+      "pnl_usd": -46.45,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T06:28:47+00:00",
-      "equity": 735688.22
-    },
     {
       "date": "2026-10-07T06:55:03+00:00",
       "equity": 735830.12
@@ -8541,6 +8504,10 @@
     {
       "date": "2026-10-28T08:31:55+00:00",
       "equity": 5879662.27
+    },
+    {
+      "date": "2026-10-28T09:24:01+00:00",
+      "equity": 5879552.96
     }
   ]
 }
