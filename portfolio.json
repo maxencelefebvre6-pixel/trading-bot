@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5879855.272396416,
+  "cash": 5879730.802528282,
   "positions": {
-    "9EicB43ez27z6N1hkGyiyo5LjovRoNHPp8hqqU9Zpump": {
-      "symbol": "RTC",
-      "qty": 7721120.362529521,
-      "entry_price": 6.4109867060514614e-06,
-      "last_price": 6.171495808596381e-06,
+    "Ht9AME8vJNuxe2QBvprtHFeMtnMPFQRXRfdMctBBpump": {
+      "symbol": "OAK",
+      "qty": 3201235.32982414,
+      "entry_price": 1.5462780739308936e-05,
+      "last_price": 1.4898332201645006e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-28T02:55:54+00:00",
+      "entry_time": "2026-10-28T03:39:51+00:00",
+      "missing": 0
+    },
+    "EEkEmLcnc49AMjSx4uPhRtt3wwHkrvybddcnB1r2pump": {
+      "symbol": "OAK",
+      "qty": 4121082.9449888906,
+      "entry_price": 1.201140590004151e-05,
+      "last_price": 1.1565421126486229e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T03:39:51+00:00",
+      "missing": 0
+    },
+    "EzSbiRNckf4wxeQJDX5Kx5JcvNF8H8gpV7tqyvuMpump": {
+      "symbol": "SHALOM",
+      "qty": 18083737.502134174,
+      "entry_price": 2.7372660100910113e-06,
+      "last_price": 2.6352098890672125e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T03:39:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T14:00:37+00:00",
-      "side": "sell",
-      "symbol": "Glitch",
-      "address": "AERtt9N2x5imAzeviYDp3pcXRjQBVgFbRGBW2M3npump",
-      "price": 3.21159837e-06,
-      "proceeds": 28.28,
-      "pnl_usd": -21.72,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T14:00:37+00:00",
-      "side": "buy",
-      "symbol": "TOFI",
-      "address": "H8uLL2F6sfbpgDWHFT6LwncZkhfjxbffaQZkTDsApump",
-      "price": 4.6378813371598185e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T14:00:37+00:00",
-      "side": "buy",
-      "symbol": "DCY",
-      "address": "fbsPyxXB4Baj48CkdmVPx8MBxADQoF8nXCyguNxpump",
-      "price": 4.593975533176743e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T14:30:35+00:00",
-      "side": "sell",
-      "symbol": "TOFI",
-      "address": "H8uLL2F6sfbpgDWHFT6LwncZkhfjxbffaQZkTDsApump",
-      "price": 1.969553261e-06,
-      "proceeds": 2.02,
-      "pnl_usd": -47.98,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-24T14:30:35+00:00",
       "side": "sell",
@@ -4512,13 +4494,43 @@
       "address": "9EicB43ez27z6N1hkGyiyo5LjovRoNHPp8hqqU9Zpump",
       "price": 6.4109867060514614e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T03:39:51+00:00",
+      "side": "sell",
+      "symbol": "RTC",
+      "address": "9EicB43ez27z6N1hkGyiyo5LjovRoNHPp8hqqU9Zpump",
+      "price": 3.48129983e-06,
+      "proceeds": 25.53,
+      "pnl_usd": -24.47,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T03:39:51+00:00",
+      "side": "buy",
+      "symbol": "OAK",
+      "address": "Ht9AME8vJNuxe2QBvprtHFeMtnMPFQRXRfdMctBBpump",
+      "price": 1.5462780739308936e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T03:39:51+00:00",
+      "side": "buy",
+      "symbol": "OAK",
+      "address": "EEkEmLcnc49AMjSx4uPhRtt3wwHkrvybddcnB1r2pump",
+      "price": 1.201140590004151e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T03:39:51+00:00",
+      "side": "buy",
+      "symbol": "SHALOM",
+      "address": "EzSbiRNckf4wxeQJDX5Kx5JcvNF8H8gpV7tqyvuMpump",
+      "price": 2.7372660100910113e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T03:59:30+00:00",
-      "equity": 735930.55
-    },
     {
       "date": "2026-10-07T04:23:53+00:00",
       "equity": 735786.2
@@ -8514,6 +8526,10 @@
     {
       "date": "2026-10-28T02:55:54+00:00",
       "equity": 5879902.92
+    },
+    {
+      "date": "2026-10-28T03:39:51+00:00",
+      "equity": 5879873.81
     }
   ]
 }
