@@ -1,71 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5879090.871657728,
+  "cash": 5878991.328376809,
   "positions": {
-    "FnQf89U9jiTXq9mqsrzViP5pzDri3T2CzSHipMp6pump": {
-      "symbol": "Breast",
-      "qty": 3042522.601864274,
-      "entry_price": 1.6269394340626884e-05,
-      "last_price": 1.5685408338349258e-05,
+    "6CamxdgFnz8tqt1qUKzQeaFSn8XPr3ixM7CCPXBApump": {
+      "symbol": "Cxsnow",
+      "qty": 439.07266397252755,
+      "entry_price": 0.11273760373088765,
+      "last_price": 0.10940999880793467,
       "cost": 50.0,
-      "entry_time": "2026-10-28T22:22:48+00:00",
+      "entry_time": "2026-10-28T23:04:21+00:00",
       "missing": 0
     },
-    "CCtY3TDHXCZ6tKkwXjTRrH9u4bGza4i4T3qyQaZ5pump": {
-      "symbol": "CHAROC",
-      "qty": 316454.96279096353,
-      "entry_price": 0.00015642036251679062,
-      "last_price": 0.0001518006035958038,
+    "G9KT1a84FvX9BvUqyEtXFx5ikTd3RjfB5VgyXdf4pump": {
+      "symbol": "Keith",
+      "qty": 4369480.94446012,
+      "entry_price": 1.1328576695764965e-05,
+      "last_price": 1.0907909098337578e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-28T22:22:48+00:00",
+      "entry_time": "2026-10-28T23:04:21+00:00",
+      "missing": 0
+    },
+    "BFvCaYthdnwRS7PZiZv6VYZoTmbJFWeEkYc3SNrRpump": {
+      "symbol": "LaMisery",
+      "qty": 8239391.8071883805,
+      "entry_price": 6.007724982420934e-06,
+      "last_price": 5.797187876016321e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T23:04:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T21:54:40+00:00",
-      "side": "buy",
-      "symbol": "Bear",
-      "address": "74HTvZ5vYS9MSpfHc84c7W6v5nMTUXdTToXj4LP1pump",
-      "price": 4.719161725189503e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T21:54:40+00:00",
-      "side": "buy",
-      "symbol": "WILDWOOD",
-      "address": "HtFHBp2ZxwkyH297SBttaNMRkVqt4nW1iUM34BDNpump",
-      "price": 4.4519105246453674e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T21:54:40+00:00",
-      "side": "buy",
-      "symbol": "JOIAI",
-      "address": "6hF98me3HHxqMLahyM1SRTdWGaPfKpABDuGEBxxkpump",
-      "price": 9.382006267439813e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T22:20:27+00:00",
-      "side": "sell",
-      "symbol": "Bear",
-      "address": "74HTvZ5vYS9MSpfHc84c7W6v5nMTUXdTToXj4LP1pump",
-      "price": 2.222854676e-06,
-      "proceeds": 2.23,
-      "pnl_usd": -47.77,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-24T22:49:23+00:00",
-      "side": "sell",
-      "symbol": "MUSCK",
-      "address": "EnpBZh9YrWAF5sZERarctPixqh1aF9Jh81WurzVPpump",
-      "price": 2.858298119e-06,
-      "proceeds": 44.18,
-      "pnl_usd": -5.82,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-24T22:49:23+00:00",
       "side": "sell",
@@ -4521,13 +4486,53 @@
       "address": "CCtY3TDHXCZ6tKkwXjTRrH9u4bGza4i4T3qyQaZ5pump",
       "price": 0.00015642036251679062,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T23:04:20+00:00",
+      "side": "sell",
+      "symbol": "Breast",
+      "address": "FnQf89U9jiTXq9mqsrzViP5pzDri3T2CzSHipMp6pump",
+      "price": 3.803559692e-06,
+      "proceeds": 11.06,
+      "pnl_usd": -38.94,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T23:04:20+00:00",
+      "side": "sell",
+      "symbol": "CHAROC",
+      "address": "CCtY3TDHXCZ6tKkwXjTRrH9u4bGza4i4T3qyQaZ5pump",
+      "price": 0.0001296976504,
+      "proceeds": 39.4,
+      "pnl_usd": -10.6,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T23:04:21+00:00",
+      "side": "buy",
+      "symbol": "Cxsnow",
+      "address": "6CamxdgFnz8tqt1qUKzQeaFSn8XPr3ixM7CCPXBApump",
+      "price": 0.11273760373088765,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T23:04:21+00:00",
+      "side": "buy",
+      "symbol": "Keith",
+      "address": "G9KT1a84FvX9BvUqyEtXFx5ikTd3RjfB5VgyXdf4pump",
+      "price": 1.1328576695764965e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T23:04:21+00:00",
+      "side": "buy",
+      "symbol": "LaMisery",
+      "address": "BFvCaYthdnwRS7PZiZv6VYZoTmbJFWeEkYc3SNrRpump",
+      "price": 6.007724982420934e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T12:06:41+00:00",
-      "equity": 735700.14
-    },
     {
       "date": "2026-10-07T12:36:30+00:00",
       "equity": 735676.21
@@ -8523,6 +8528,10 @@
     {
       "date": "2026-10-28T22:22:48+00:00",
       "equity": 5879186.63
+    },
+    {
+      "date": "2026-10-28T23:04:21+00:00",
+      "equity": 5879134.79
     }
   ]
 }
