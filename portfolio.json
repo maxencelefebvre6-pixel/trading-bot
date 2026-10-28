@@ -1,62 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5879730.802528282,
-  "positions": {
-    "Ht9AME8vJNuxe2QBvprtHFeMtnMPFQRXRfdMctBBpump": {
-      "symbol": "OAK",
-      "qty": 3201235.32982414,
-      "entry_price": 1.5462780739308936e-05,
-      "last_price": 1.4898332201645006e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T03:39:51+00:00",
-      "missing": 0
-    },
-    "EEkEmLcnc49AMjSx4uPhRtt3wwHkrvybddcnB1r2pump": {
-      "symbol": "OAK",
-      "qty": 4121082.9449888906,
-      "entry_price": 1.201140590004151e-05,
-      "last_price": 1.1565421126486229e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T03:39:51+00:00",
-      "missing": 0
-    },
-    "EzSbiRNckf4wxeQJDX5Kx5JcvNF8H8gpV7tqyvuMpump": {
-      "symbol": "SHALOM",
-      "qty": 18083737.502134174,
-      "entry_price": 2.7372660100910113e-06,
-      "last_price": 2.6352098890672125e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T03:39:51+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5879774.843849919,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-24T14:30:35+00:00",
-      "side": "sell",
-      "symbol": "DCY",
-      "address": "fbsPyxXB4Baj48CkdmVPx8MBxADQoF8nXCyguNxpump",
-      "price": 2.363688316e-05,
-      "proceeds": 24.37,
-      "pnl_usd": -25.63,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T14:30:36+00:00",
-      "side": "buy",
-      "symbol": "Memegle",
-      "address": "6WAFc6of7UUPJEKomtp9bcLmKC4N47tt3vQ2icEBpump",
-      "price": 9.920900814383863e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T14:30:36+00:00",
-      "side": "buy",
-      "symbol": "Macchiato",
-      "address": "nfjeVpibEFuq4nH5kn5vFgbUXfS1yrNXig11yrzpump",
-      "price": 4.602254474904747e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T14:30:36+00:00",
       "side": "buy",
@@ -4528,13 +4474,39 @@
       "address": "EzSbiRNckf4wxeQJDX5Kx5JcvNF8H8gpV7tqyvuMpump",
       "price": 2.7372660100910113e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T04:23:24+00:00",
+      "side": "sell",
+      "symbol": "OAK",
+      "address": "Ht9AME8vJNuxe2QBvprtHFeMtnMPFQRXRfdMctBBpump",
+      "price": 9.070017519e-06,
+      "proceeds": 27.6,
+      "pnl_usd": -22.4,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T04:23:24+00:00",
+      "side": "sell",
+      "symbol": "OAK",
+      "address": "EEkEmLcnc49AMjSx4uPhRtt3wwHkrvybddcnB1r2pump",
+      "price": 3.178075835e-06,
+      "proceeds": 12.51,
+      "pnl_usd": -37.49,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T04:23:24+00:00",
+      "side": "sell",
+      "symbol": "SHALOM",
+      "address": "EzSbiRNckf4wxeQJDX5Kx5JcvNF8H8gpV7tqyvuMpump",
+      "price": 4.394743953e-07,
+      "proceeds": 3.93,
+      "pnl_usd": -46.07,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T04:23:53+00:00",
-      "equity": 735786.2
-    },
     {
       "date": "2026-10-07T04:46:59+00:00",
       "equity": 735777.1
@@ -8530,6 +8502,10 @@
     {
       "date": "2026-10-28T03:39:51+00:00",
       "equity": 5879873.81
+    },
+    {
+      "date": "2026-10-28T04:23:24+00:00",
+      "equity": 5879774.84
     }
   ]
 }
