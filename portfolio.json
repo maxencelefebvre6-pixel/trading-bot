@@ -1,12 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5879534.869925936,
+  "cash": 5879484.869925936,
   "positions": {
     "Hg3u4Gxf16dkNKw7o8zpuZVBF83rPzLwUBLYhkchpump": {
       "symbol": "STENKS",
       "qty": 7918094.266265304,
       "entry_price": 6.251504255372735e-06,
-      "last_price": 6.029757463999789e-06,
+      "last_price": 6.029757464e-06,
       "cost": 50.0,
       "entry_time": "2026-10-28T06:47:11+00:00",
       "missing": 0
@@ -15,7 +15,7 @@
       "symbol": "BOLTKIT",
       "qty": 3918263.659262061,
       "entry_price": 1.2633146797814645e-05,
-      "last_price": 1.2203206225761789e-05,
+      "last_price": 1.220455299e-05,
       "cost": 50.0,
       "entry_time": "2026-10-28T06:47:11+00:00",
       "missing": 0
@@ -24,21 +24,22 @@
       "symbol": "$CCOW",
       "qty": 6987214.979366256,
       "entry_price": 7.08436768385931e-06,
-      "last_price": 6.811949677606437e-06,
+      "last_price": 6.811949678e-06,
       "cost": 50.0,
       "entry_time": "2026-10-28T06:47:11+00:00",
+      "missing": 0
+    },
+    "CieauCuTQDUKyKz1CSZtUHgfexh1fHuwdHf5ML1Jpump": {
+      "symbol": "JUMP",
+      "qty": 7026374.071167413,
+      "entry_price": 7.0448853845004165e-06,
+      "last_price": 6.77708934633177e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T07:42:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T16:33:20+00:00",
-      "side": "buy",
-      "symbol": "LMAO",
-      "address": "AGo8x9oLjCowTDb8kP3mKGFZKtzPNrmNB2gY3RZBpump",
-      "price": 1.8854229756200396e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T16:33:20+00:00",
       "side": "buy",
@@ -4528,13 +4529,17 @@
       "address": "54eVDP9VozQu8hETrkGCqB2eRfrvLrPT2CzZa4RQpump",
       "price": 7.08436768385931e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T07:42:38+00:00",
+      "side": "buy",
+      "symbol": "JUMP",
+      "address": "CieauCuTQDUKyKz1CSZtUHgfexh1fHuwdHf5ML1Jpump",
+      "price": 7.0448853845004165e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T05:47:48+00:00",
-      "equity": 735765.94
-    },
     {
       "date": "2026-10-07T06:01:42+00:00",
       "equity": 735756.82
@@ -8530,6 +8535,10 @@
     {
       "date": "2026-10-28T06:47:11+00:00",
       "equity": 5879678.03
+    },
+    {
+      "date": "2026-10-28T07:42:38+00:00",
+      "equity": 5879675.65
     }
   ]
 }
