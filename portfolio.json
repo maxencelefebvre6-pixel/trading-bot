@@ -1,36 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5880009.904070618,
-  "positions": {},
+  "cash": 5879859.904070618,
+  "positions": {
+    "E3nq7HPdDn2mCVGrbS2jpL12Fq1pNmJuEk2bBcUFpump": {
+      "symbol": "SNPIE",
+      "qty": 597.0226579419437,
+      "entry_price": 0.08291142612683475,
+      "last_price": 0.08046147498711764,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T02:09:13+00:00",
+      "missing": 0
+    },
+    "4W2Es6pXgBPsNGnKvNk7MtvXWsjWBWtyDQ3T6Niapump": {
+      "symbol": "DIRECTOR",
+      "qty": 2536281.060221645,
+      "entry_price": 1.9516764437642494e-05,
+      "last_price": 1.8854898557636073e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T02:09:13+00:00",
+      "missing": 0
+    },
+    "87BzHdck2pLwQc6VGQLrVkSTuGHMBW39fibpu55Jpump": {
+      "symbol": "PEPTARDIO",
+      "qty": 2885897.813593047,
+      "entry_price": 1.7152374476617627e-05,
+      "last_price": 1.653758975104569e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T02:09:13+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-24T12:11:52+00:00",
-      "side": "buy",
-      "symbol": "8dollarclaim",
-      "address": "31VNSUS5oNfbrQPsiDwhakzVXeZ2Q8uU7wZMB1Wvpump",
-      "price": 7.2127785235662465e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T12:56:55+00:00",
-      "side": "sell",
-      "symbol": "$BWIZ",
-      "address": "FWgYGHDtq7aXAQFjSM53XPKShkEJhYVLiGMHNPdZpump",
-      "price": 6.903784517e-06,
-      "proceeds": 45.15,
-      "pnl_usd": -4.85,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T12:56:55+00:00",
-      "side": "sell",
-      "symbol": "LaMisery",
-      "address": "9gN4oz8SvaA7zkska9u5pTNReeFiyPzgNWSPCsddpump",
-      "price": 7.659773023e-06,
-      "proceeds": 45.41,
-      "pnl_usd": -4.59,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-24T13:30:29+00:00",
       "side": "sell",
@@ -4504,13 +4504,33 @@
       "proceeds": 45.38,
       "pnl_usd": -4.62,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-28T02:09:13+00:00",
+      "side": "buy",
+      "symbol": "SNPIE",
+      "address": "E3nq7HPdDn2mCVGrbS2jpL12Fq1pNmJuEk2bBcUFpump",
+      "price": 0.08291142612683475,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T02:09:13+00:00",
+      "side": "buy",
+      "symbol": "DIRECTOR",
+      "address": "4W2Es6pXgBPsNGnKvNk7MtvXWsjWBWtyDQ3T6Niapump",
+      "price": 1.9516764437642494e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T02:09:13+00:00",
+      "side": "buy",
+      "symbol": "PEPTARDIO",
+      "address": "87BzHdck2pLwQc6VGQLrVkSTuGHMBW39fibpu55Jpump",
+      "price": 1.7152374476617627e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T03:20:14+00:00",
-      "equity": 736108.28
-    },
     {
       "date": "2026-10-07T03:41:34+00:00",
       "equity": 736023.09
@@ -8506,6 +8526,10 @@
     {
       "date": "2026-10-28T01:18:22+00:00",
       "equity": 5880009.9
+    },
+    {
+      "date": "2026-10-28T02:09:13+00:00",
+      "equity": 5880003.49
     }
   ]
 }
