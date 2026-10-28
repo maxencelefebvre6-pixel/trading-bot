@@ -1,64 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5879944.514396816,
-  "positions": {
-    "J6NTA5Fa2Y9M3LBgtr5ib9Dote7Ub5wCdFzJ5EBEpump": {
-      "symbol": "ticker",
-      "qty": 2442789.3946264214,
-      "entry_price": 2.026371987240844e-05,
-      "last_price": 1.9486080782675487e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T00:11:53+00:00",
-      "missing": 0
-    },
-    "3CU4WkuLM5TJuTiWCdfoBLmdHyqW3aKUgeg9XQkUpump": {
-      "symbol": "100x",
-      "qty": 10757478.393653698,
-      "entry_price": 4.601450097190266e-06,
-      "last_price": 4.432031397232247e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T00:11:53+00:00",
-      "missing": 0
-    },
-    "CKbWUQMHBs9jfZLtQCQDZM3EUSC22moSvYzVV4JMpump": {
-      "symbol": "beer",
-      "qty": 5975624.505615578,
-      "entry_price": 8.283653022957266e-06,
-      "last_price": 7.975940638586472e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T00:11:53+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5880009.904070618,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-24T11:47:31+00:00",
-      "side": "sell",
-      "symbol": "wr.dog",
-      "address": "7WA8RfoD8PGKZ11tPsfBpZ8kPTJ2CBwoaaF1ucVepump",
-      "price": 3.212157635e-06,
-      "proceeds": 11.18,
-      "pnl_usd": -38.82,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T11:47:31+00:00",
-      "side": "buy",
-      "symbol": "COGE",
-      "address": "9AjAUFkqqbTHk3rufkaHxaau1FxfBP8HsNRGbe3Kpump",
-      "price": 8.274888731749335e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T12:11:52+00:00",
-      "side": "sell",
-      "symbol": "COGE",
-      "address": "9AjAUFkqqbTHk3rufkaHxaau1FxfBP8HsNRGbe3Kpump",
-      "price": 2.843661138e-06,
-      "proceeds": 16.21,
-      "pnl_usd": -33.79,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-24T12:11:52+00:00",
       "side": "buy",
@@ -4530,13 +4474,39 @@
       "address": "CKbWUQMHBs9jfZLtQCQDZM3EUSC22moSvYzVV4JMpump",
       "price": 8.283653022957266e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T01:18:22+00:00",
+      "side": "sell",
+      "symbol": "ticker",
+      "address": "J6NTA5Fa2Y9M3LBgtr5ib9Dote7Ub5wCdFzJ5EBEpump",
+      "price": 7.397917189e-06,
+      "proceeds": 17.26,
+      "pnl_usd": -32.74,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T01:18:22+00:00",
+      "side": "sell",
+      "symbol": "100x",
+      "address": "3CU4WkuLM5TJuTiWCdfoBLmdHyqW3aKUgeg9XQkUpump",
+      "price": 2.702478046e-07,
+      "proceeds": 2.74,
+      "pnl_usd": -47.26,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-28T01:18:22+00:00",
+      "side": "sell",
+      "symbol": "beer",
+      "address": "CKbWUQMHBs9jfZLtQCQDZM3EUSC22moSvYzVV4JMpump",
+      "price": 7.975940639e-06,
+      "proceeds": 45.38,
+      "pnl_usd": -4.62,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T02:57:06+00:00",
-      "equity": 736117.54
-    },
     {
       "date": "2026-10-07T03:20:14+00:00",
       "equity": 736108.28
@@ -8532,6 +8502,10 @@
     {
       "date": "2026-10-28T00:11:53+00:00",
       "equity": 5880087.45
+    },
+    {
+      "date": "2026-10-28T01:18:22+00:00",
+      "equity": 5880009.9
     }
   ]
 }
