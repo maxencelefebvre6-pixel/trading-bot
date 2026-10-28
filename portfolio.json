@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879859.904070618,
+  "cash": 5879855.272396416,
   "positions": {
-    "E3nq7HPdDn2mCVGrbS2jpL12Fq1pNmJuEk2bBcUFpump": {
-      "symbol": "SNPIE",
-      "qty": 597.0226579419437,
-      "entry_price": 0.08291142612683475,
-      "last_price": 0.08046147498711764,
+    "9EicB43ez27z6N1hkGyiyo5LjovRoNHPp8hqqU9Zpump": {
+      "symbol": "RTC",
+      "qty": 7721120.362529521,
+      "entry_price": 6.4109867060514614e-06,
+      "last_price": 6.171495808596381e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-28T02:09:13+00:00",
-      "missing": 0
-    },
-    "4W2Es6pXgBPsNGnKvNk7MtvXWsjWBWtyDQ3T6Niapump": {
-      "symbol": "DIRECTOR",
-      "qty": 2536281.060221645,
-      "entry_price": 1.9516764437642494e-05,
-      "last_price": 1.8854898557636073e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T02:09:13+00:00",
-      "missing": 0
-    },
-    "87BzHdck2pLwQc6VGQLrVkSTuGHMBW39fibpu55Jpump": {
-      "symbol": "PEPTARDIO",
-      "qty": 2885897.813593047,
-      "entry_price": 1.7152374476617627e-05,
-      "last_price": 1.653758975104569e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T02:09:13+00:00",
+      "entry_time": "2026-10-28T02:55:54+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T13:30:29+00:00",
-      "side": "sell",
-      "symbol": "8dollarclaim",
-      "address": "31VNSUS5oNfbrQPsiDwhakzVXeZ2Q8uU7wZMB1Wvpump",
-      "price": 6.922821266e-06,
-      "proceeds": 45.21,
-      "pnl_usd": -4.79,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T13:30:30+00:00",
-      "side": "buy",
-      "symbol": "MI",
-      "address": "CbTbAY45Tfp8Lbk2ovjkS7wthxNka19MbGbGAZAdpump",
-      "price": 0.0001608349927008656,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T13:30:30+00:00",
-      "side": "buy",
-      "symbol": "Glitch",
-      "address": "AERtt9N2x5imAzeviYDp3pcXRjQBVgFbRGBW2M3npump",
-      "price": 5.330895167456773e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T14:00:37+00:00",
-      "side": "sell",
-      "symbol": "MI",
-      "address": "CbTbAY45Tfp8Lbk2ovjkS7wthxNka19MbGbGAZAdpump",
-      "price": 0.0002152822122,
-      "proceeds": 63.39,
-      "pnl_usd": 13.39,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-24T14:00:37+00:00",
       "side": "sell",
@@ -4528,13 +4474,47 @@
       "address": "87BzHdck2pLwQc6VGQLrVkSTuGHMBW39fibpu55Jpump",
       "price": 1.7152374476617627e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T02:55:53+00:00",
+      "side": "sell",
+      "symbol": "SNPIE",
+      "address": "E3nq7HPdDn2mCVGrbS2jpL12Fq1pNmJuEk2bBcUFpump",
+      "price": 0.1004044368,
+      "proceeds": 29.67,
+      "pnl_usd": -20.33,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-28T02:55:53+00:00",
+      "side": "sell",
+      "symbol": "DIRECTOR",
+      "address": "4W2Es6pXgBPsNGnKvNk7MtvXWsjWBWtyDQ3T6Niapump",
+      "price": 3.336105684e-06,
+      "proceeds": 8.1,
+      "pnl_usd": -41.9,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T02:55:53+00:00",
+      "side": "sell",
+      "symbol": "PEPTARDIO",
+      "address": "87BzHdck2pLwQc6VGQLrVkSTuGHMBW39fibpu55Jpump",
+      "price": 4.174574437e-06,
+      "proceeds": 7.6,
+      "pnl_usd": -42.4,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-28T02:55:54+00:00",
+      "side": "buy",
+      "symbol": "RTC",
+      "address": "9EicB43ez27z6N1hkGyiyo5LjovRoNHPp8hqqU9Zpump",
+      "price": 6.4109867060514614e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T03:41:34+00:00",
-      "equity": 736023.09
-    },
     {
       "date": "2026-10-07T03:59:30+00:00",
       "equity": 735930.55
@@ -8530,6 +8510,10 @@
     {
       "date": "2026-10-28T02:09:13+00:00",
       "equity": 5880003.49
+    },
+    {
+      "date": "2026-10-28T02:55:54+00:00",
+      "equity": 5879902.92
     }
   ]
 }
