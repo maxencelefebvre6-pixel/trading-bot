@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879452.959763049,
+  "cash": 5879404.236765159,
   "positions": {
-    "8RtR4Wx9W9g1LUmJ8q63HFmm2x6nna1zFvhR4C1dpump": {
-      "symbol": "PUMPPILL",
-      "qty": 602340.9008366363,
-      "entry_price": 8.217937704586514e-05,
-      "last_price": 7.961876051555183e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T10:17:33+00:00",
-      "missing": 0
-    },
     "AAC5v7Zb6Lv4KzHYZLrFA6MNEw1h8sGGjCvy4c4Lpump": {
       "symbol": "MotoCrose",
       "qty": 6762246.06016665,
       "entry_price": 7.320053065146836e-06,
-      "last_price": 7.041371792814889e-06,
+      "last_price": 7.041371793e-06,
       "cost": 50.0,
       "entry_time": "2026-10-28T10:17:33+00:00",
+      "missing": 0
+    },
+    "CVLwFa5SL5kw8Yr7evcccEEEEuqWM3vEnJmkM3ZJpump": {
+      "symbol": "NOWS",
+      "qty": 4738588.768143418,
+      "entry_price": 1.044614808796631e-05,
+      "last_price": 1.0068194504735513e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T11:05:20+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T18:32:02+00:00",
-      "side": "sell",
-      "symbol": "MONY",
-      "address": "BEJ6VswqVH4hWquZpT6cfF497bYeppYXHeUrjYtCpump",
-      "price": 1.198931238e-05,
-      "proceeds": 45.69,
-      "pnl_usd": -4.31,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T18:32:02+00:00",
-      "side": "sell",
-      "symbol": "DOOYET",
-      "address": "8PSUFhxwcxXTDvtZDAN7E4ueHun5P3GN3vtxBSXEpump",
-      "price": 1.2057925e-05,
-      "proceeds": 45.67,
-      "pnl_usd": -4.33,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-24T18:32:02+00:00",
       "side": "sell",
@@ -4525,13 +4505,27 @@
       "address": "AAC5v7Zb6Lv4KzHYZLrFA6MNEw1h8sGGjCvy4c4Lpump",
       "price": 7.320053065146836e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T11:05:20+00:00",
+      "side": "sell",
+      "symbol": "PUMPPILL",
+      "address": "8RtR4Wx9W9g1LUmJ8q63HFmm2x6nna1zFvhR4C1dpump",
+      "price": 2.210988582e-06,
+      "proceeds": 1.28,
+      "pnl_usd": -48.72,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-28T11:05:20+00:00",
+      "side": "buy",
+      "symbol": "NOWS",
+      "address": "CVLwFa5SL5kw8Yr7evcccEEEEuqWM3vEnJmkM3ZJpump",
+      "price": 1.044614808796631e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T07:17:36+00:00",
-      "equity": 735788.6
-    },
     {
       "date": "2026-10-07T07:39:03+00:00",
       "equity": 735853.5
@@ -8527,6 +8521,10 @@
     {
       "date": "2026-10-28T10:17:33+00:00",
       "equity": 5879548.53
+    },
+    {
+      "date": "2026-10-28T11:05:20+00:00",
+      "equity": 5879499.56
     }
   ]
 }
