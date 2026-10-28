@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 5879060.044151197,
+  "cash": 5879060.044153814,
   "positions": {
-    "8n4ZB8bRvQupCpVac1MRZtMMtCavUfHfwPw7evDkpump": {
-      "symbol": "MIKA",
-      "qty": 544477.9013763417,
-      "entry_price": 9.091278061951266e-05,
-      "last_price": 8.814063623269186e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T17:59:48+00:00",
-      "missing": 0
-    },
     "NifiiukHkLhxi99YeiU4kCo3gTdHdxwTRuWpJAKpump": {
       "symbol": "$LUNA",
       "qty": 5307768.590305402,
       "entry_price": 9.3259529231194e-06,
-      "last_price": 9.003347060604602e-06,
+      "last_price": 9.003347061e-06,
       "cost": 50.0,
       "entry_time": "2026-10-28T17:59:48+00:00",
       "missing": 0
@@ -24,7 +15,7 @@
       "symbol": "SHIBKING",
       "qty": 29922196.871385217,
       "entry_price": 1.654290298695854e-06,
-      "last_price": 1.5917191471600514e-06,
+      "last_price": 1.592221715e-06,
       "cost": 50.0,
       "entry_time": "2026-10-28T17:59:48+00:00",
       "missing": 0
@@ -33,7 +24,7 @@
       "symbol": "0.77",
       "qty": 1855090.9153873657,
       "entry_price": 2.6683328342246663e-05,
-      "last_price": 2.5826051470435796e-05,
+      "last_price": 2.582605147e-05,
       "cost": 50.0,
       "entry_time": "2026-10-28T17:59:48+00:00",
       "missing": 0
@@ -42,23 +33,13 @@
       "symbol": "$LUNA",
       "qty": 5680982.434248169,
       "entry_price": 8.713281650298029e-06,
-      "last_price": 8.392975554589964e-06,
+      "last_price": 8.403248583e-06,
       "cost": 50.0,
       "entry_time": "2026-10-28T17:59:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T20:56:15+00:00",
-      "side": "sell",
-      "symbol": "FOMO",
-      "address": "C9axeACuWESYsKwvtoorWKrvmJirVD94PuDuw7VUpump",
-      "price": 0.0001728318315,
-      "proceeds": 16.29,
-      "pnl_usd": -33.71,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-24T20:56:15+00:00",
       "side": "sell",
@@ -4546,13 +4527,19 @@
       "address": "9nTnLvrdTiLnsE9SpYGNqgRr9nw5yQ84xjHcjuLfpump",
       "price": 8.713281650298029e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T18:47:21+00:00",
+      "side": "sell",
+      "symbol": "MIKA",
+      "address": "8n4ZB8bRvQupCpVac1MRZtMMtCavUfHfwPw7evDkpump",
+      "price": 5.054067496e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T10:31:08+00:00",
-      "equity": 735712.0
-    },
     {
       "date": "2026-10-07T10:50:33+00:00",
       "equity": 735727.42
@@ -8548,6 +8535,10 @@
     {
       "date": "2026-10-28T17:59:48+00:00",
       "equity": 5879299.04
+    },
+    {
+      "date": "2026-10-28T18:47:21+00:00",
+      "equity": 5879251.12
     }
   ]
 }
