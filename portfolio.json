@@ -1,90 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5879624.843849919,
+  "cash": 5879537.622631433,
   "positions": {
-    "3N1FSuxo6fzVfbA25noHRS4Ubn6Fc2APLRX2zJQxpump": {
-      "symbol": "DROYD",
-      "qty": 4577771.643770383,
-      "entry_price": 1.0813121285191586e-05,
-      "last_price": 1.0409756397033637e-05,
+    "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump": {
+      "symbol": "OF",
+      "qty": 345682.19159689924,
+      "entry_price": 0.00014319511158886097,
+      "last_price": 0.00013880652285926375,
       "cost": 50.0,
-      "entry_time": "2026-10-28T05:12:02+00:00",
+      "entry_time": "2026-10-28T05:57:01+00:00",
       "missing": 0
     },
-    "CLzv3A7PGKhZYwfwVCiRAinTofbCxprTNjAU2qTBpump": {
-      "symbol": "neuronary",
-      "qty": 5624809.613035867,
-      "entry_price": 8.800297859909869e-06,
-      "last_price": 8.464489808436734e-06,
+    "6khUk44eTrFdMfZ5CVzkruFSjVuCMh7B5WjpcWQdpump": {
+      "symbol": "clawds",
+      "qty": 4310356.20523267,
+      "entry_price": 1.1483969686753076e-05,
+      "last_price": 1.1064523149820098e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-28T05:12:02+00:00",
+      "entry_time": "2026-10-28T05:57:01+00:00",
       "missing": 0
     },
-    "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump": {
-      "symbol": "VIBE",
-      "qty": 1194226.2809213374,
-      "entry_price": 4.1449431142824197e-05,
-      "last_price": 4.011488375158042e-05,
+    "F1rzUcPPtLQ9WSwRDdvVbso13W6o5V2XCwKDqFL1pump": {
+      "symbol": "CARA",
+      "qty": 20266632.818421952,
+      "entry_price": 2.442438289749125e-06,
+      "last_price": 2.3494848691785602e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-28T05:12:02+00:00",
+      "entry_time": "2026-10-28T05:57:01+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T15:01:03+00:00",
-      "side": "buy",
-      "symbol": "MotoCrose",
-      "address": "9m3uhaHJSsGrDG6uew7NwsF9t5N3pUtteFmb1Wxgpump",
-      "price": 9.395680258859729e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T15:01:03+00:00",
-      "side": "buy",
-      "symbol": "GRASSPEPE",
-      "address": "xEcWRgL2XFpE3uJGgFMZsendYoUW8vYQXh7XTgSpump",
-      "price": 8.326428291454856e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T15:31:10+00:00",
-      "side": "sell",
-      "symbol": "Macchiato",
-      "address": "nfjeVpibEFuq4nH5kn5vFgbUXfS1yrNXig11yrzpump",
-      "price": 4.569419468e-06,
-      "proceeds": 46.27,
-      "pnl_usd": -3.73,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T15:31:10+00:00",
-      "side": "sell",
-      "symbol": "Google",
-      "address": "D3S2gH9iGvpBEFXjy7rgxbkpsEs1S1P2e6Mg92efpump",
-      "price": 8.8814835e-06,
-      "proceeds": 45.58,
-      "pnl_usd": -4.42,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T15:31:10+00:00",
-      "side": "sell",
-      "symbol": "CATANA",
-      "address": "CEV537MfYSgQv8LCqNGqAgZVCAAMjwwyUTbGEHUYpump",
-      "price": 3.00178413e-06,
-      "proceeds": 14.41,
-      "pnl_usd": -35.59,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T15:31:10+00:00",
-      "side": "buy",
-      "symbol": "KnightDog",
-      "address": "13Mknv4zuXSco5kABrg3ZauQHCYHSKKgqMtiTcVnpump",
-      "price": 1.0513518967362313e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T16:02:05+00:00",
       "side": "sell",
@@ -4530,13 +4476,63 @@
       "address": "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump",
       "price": 4.1449431142824197e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T05:57:01+00:00",
+      "side": "sell",
+      "symbol": "DROYD",
+      "address": "3N1FSuxo6fzVfbA25noHRS4Ubn6Fc2APLRX2zJQxpump",
+      "price": 3.342477217e-06,
+      "proceeds": 14.6,
+      "pnl_usd": -35.4,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T05:57:01+00:00",
+      "side": "sell",
+      "symbol": "neuronary",
+      "address": "CLzv3A7PGKhZYwfwVCiRAinTofbCxprTNjAU2qTBpump",
+      "price": 2.853196e-06,
+      "proceeds": 15.3,
+      "pnl_usd": -34.7,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T05:57:01+00:00",
+      "side": "sell",
+      "symbol": "VIBE",
+      "address": "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump",
+      "price": 2.882227488e-05,
+      "proceeds": 32.88,
+      "pnl_usd": -17.12,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T05:57:01+00:00",
+      "side": "buy",
+      "symbol": "OF",
+      "address": "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump",
+      "price": 0.00014319511158886097,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T05:57:01+00:00",
+      "side": "buy",
+      "symbol": "clawds",
+      "address": "6khUk44eTrFdMfZ5CVzkruFSjVuCMh7B5WjpcWQdpump",
+      "price": 1.1483969686753076e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T05:57:01+00:00",
+      "side": "buy",
+      "symbol": "CARA",
+      "address": "F1rzUcPPtLQ9WSwRDdvVbso13W6o5V2XCwKDqFL1pump",
+      "price": 2.442438289749125e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T05:02:55+00:00",
-      "equity": 735770.18
-    },
     {
       "date": "2026-10-07T05:25:54+00:00",
       "equity": 735772.65
@@ -8532,6 +8528,10 @@
     {
       "date": "2026-10-28T05:12:02+00:00",
       "equity": 5879768.01
+    },
+    {
+      "date": "2026-10-28T05:57:01+00:00",
+      "equity": 5879680.91
     }
   ]
 }
