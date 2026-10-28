@@ -1,57 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879404.236765159,
+  "cash": 5879404.139676345,
   "positions": {
-    "AAC5v7Zb6Lv4KzHYZLrFA6MNEw1h8sGGjCvy4c4Lpump": {
-      "symbol": "MotoCrose",
-      "qty": 6762246.06016665,
-      "entry_price": 7.320053065146836e-06,
-      "last_price": 7.041371793e-06,
+    "FfwLKF6oNc4bx2oc7f2KiVsDQ47YQFaiSkTJorHpump": {
+      "symbol": "NOSE",
+      "qty": 3700076.110340668,
+      "entry_price": 1.3378103185948385e-05,
+      "last_price": 1.2911526176349843e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-28T10:17:33+00:00",
-      "missing": 0
-    },
-    "CVLwFa5SL5kw8Yr7evcccEEEEuqWM3vEnJmkM3ZJpump": {
-      "symbol": "NOWS",
-      "qty": 4738588.768143418,
-      "entry_price": 1.044614808796631e-05,
-      "last_price": 1.0068194504735513e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T11:05:20+00:00",
+      "entry_time": "2026-10-28T11:48:14+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T18:32:02+00:00",
-      "side": "sell",
-      "symbol": "XRC",
-      "address": "xLUiMForDovNjKx1u66M7nzTEaUDdcthQG4rSY6pump",
-      "price": 0.009451663056,
-      "proceeds": 52.73,
-      "pnl_usd": 2.73,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-24T18:32:02+00:00",
-      "side": "sell",
-      "symbol": "Norwood",
-      "address": "2aS8LCr2bJH1y5gyFKrgQMVJG2coUCsUWX8hxozqpump",
-      "price": 1.980100268e-06,
-      "proceeds": 1.88,
-      "pnl_usd": -48.12,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-24T18:32:02+00:00",
-      "side": "sell",
-      "symbol": "MUM",
-      "address": "HpbGnsT942mWmmeiX4cUTPPUe2njstDfjXekC2U5pump",
-      "price": 3.52088739e-07,
-      "proceeds": 6.2,
-      "pnl_usd": -43.8,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-24T18:32:03+00:00",
       "side": "buy",
@@ -4523,13 +4484,37 @@
       "address": "CVLwFa5SL5kw8Yr7evcccEEEEuqWM3vEnJmkM3ZJpump",
       "price": 1.044614808796631e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T11:48:14+00:00",
+      "side": "sell",
+      "symbol": "MotoCrose",
+      "address": "AAC5v7Zb6Lv4KzHYZLrFA6MNEw1h8sGGjCvy4c4Lpump",
+      "price": 7.041371793e-06,
+      "proceeds": 45.3,
+      "pnl_usd": -4.7,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-28T11:48:14+00:00",
+      "side": "sell",
+      "symbol": "NOWS",
+      "address": "CVLwFa5SL5kw8Yr7evcccEEEEuqWM3vEnJmkM3ZJpump",
+      "price": 1.018986437e-06,
+      "proceeds": 4.61,
+      "pnl_usd": -45.39,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-28T11:48:14+00:00",
+      "side": "buy",
+      "symbol": "NOSE",
+      "address": "FfwLKF6oNc4bx2oc7f2KiVsDQ47YQFaiSkTJorHpump",
+      "price": 1.3378103185948385e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T07:39:03+00:00",
-      "equity": 735853.5
-    },
     {
       "date": "2026-10-07T07:58:18+00:00",
       "equity": 735851.52
@@ -8525,6 +8510,10 @@
     {
       "date": "2026-10-28T11:05:20+00:00",
       "equity": 5879499.56
+    },
+    {
+      "date": "2026-10-28T11:48:14+00:00",
+      "equity": 5879451.91
     }
   ]
 }
