@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5879404.139676345,
+  "cash": 5879304.139676345,
   "positions": {
     "FfwLKF6oNc4bx2oc7f2KiVsDQ47YQFaiSkTJorHpump": {
       "symbol": "NOSE",
       "qty": 3700076.110340668,
       "entry_price": 1.3378103185948385e-05,
-      "last_price": 1.2911526176349843e-05,
+      "last_price": 1.359450295e-05,
       "cost": 50.0,
       "entry_time": "2026-10-28T11:48:14+00:00",
+      "missing": 0
+    },
+    "EAnnxAo767c3sh7sSubCEAYeUkHLKiBvN5s76bPUpump": {
+      "symbol": "POOPIE",
+      "qty": 1581251.5886910537,
+      "entry_price": 3.1304316374458583e-05,
+      "last_price": 3.0286620868664434e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T12:24:34+00:00",
+      "missing": 0
+    },
+    "8tyqikNAMaPzHxiEu1WbhiJ4za8BR7XBuUgAK3D2pump": {
+      "symbol": "PEPEPESO",
+      "qty": 3066399.276955247,
+      "entry_price": 1.6142711867956925e-05,
+      "last_price": 1.5597363170990246e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T12:24:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T18:32:03+00:00",
-      "side": "buy",
-      "symbol": "EMOG",
-      "address": "GwxwWfzA16deFMKgcyozDAxwdMDnmjH8eQU7LJXCpump",
-      "price": 9.222123220911606e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T18:32:03+00:00",
-      "side": "buy",
-      "symbol": "gold",
-      "address": "5miJJe2tBBBBtV7YKAwRvgvHRnxxQxKPKEhNkpBxpump",
-      "price": 8.412833581319766e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T19:06:07+00:00",
       "side": "sell",
@@ -4512,13 +4514,25 @@
       "address": "FfwLKF6oNc4bx2oc7f2KiVsDQ47YQFaiSkTJorHpump",
       "price": 1.3378103185948385e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T12:24:34+00:00",
+      "side": "buy",
+      "symbol": "POOPIE",
+      "address": "EAnnxAo767c3sh7sSubCEAYeUkHLKiBvN5s76bPUpump",
+      "price": 3.1304316374458583e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T12:24:34+00:00",
+      "side": "buy",
+      "symbol": "PEPEPESO",
+      "address": "8tyqikNAMaPzHxiEu1WbhiJ4za8BR7XBuUgAK3D2pump",
+      "price": 1.6142711867956925e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T07:58:18+00:00",
-      "equity": 735851.52
-    },
     {
       "date": "2026-10-07T08:23:47+00:00",
       "equity": 735849.47
@@ -8514,6 +8528,10 @@
     {
       "date": "2026-10-28T11:48:14+00:00",
       "equity": 5879451.91
+    },
+    {
+      "date": "2026-10-28T12:24:34+00:00",
+      "equity": 5879450.16
     }
   ]
 }
