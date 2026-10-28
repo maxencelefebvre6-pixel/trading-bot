@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879351.555302244,
+  "cash": 5879291.34200291,
   "positions": {
-    "3f6LZt1MYEC8rjqDSYiJXA3SEM8NPvBsmH494ZxPpump": {
-      "symbol": "Max",
-      "qty": 5676873.882717338,
-      "entry_price": 8.719587755982687e-06,
-      "last_price": 8.393555121456148e-06,
+    "D9NXzZxiJxgp2U69EDWJ1tJDMtGcEiWh2xGGY58Gpump": {
+      "symbol": "Potpot",
+      "qty": 877922.0771317761,
+      "entry_price": 5.638313614543042e-05,
+      "last_price": 5.4581677241230894e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-28T13:30:57+00:00",
+      "entry_time": "2026-10-28T14:27:14+00:00",
+      "missing": 0
+    },
+    "8AJLFPFbKBzEHvbLiagozhmLbNDJzpwDWm5nvLxFpump": {
+      "symbol": "42069M",
+      "qty": 2755770.2608885984,
+      "entry_price": 1.7962310103469482e-05,
+      "last_price": 1.7358845324291677e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T14:27:14+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T19:06:07+00:00",
-      "side": "buy",
-      "symbol": "PUPPYFLOW",
-      "address": "5PQ316LQamj9sTmRYkuJF4bzHrBKNMmdVP4FG2DNpump",
-      "price": 9.464097369176433e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T19:33:53+00:00",
-      "side": "sell",
-      "symbol": "EMOG",
-      "address": "GwxwWfzA16deFMKgcyozDAxwdMDnmjH8eQU7LJXCpump",
-      "price": 8.890381249e-06,
-      "proceeds": 45.5,
-      "pnl_usd": -4.5,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T19:33:53+00:00",
-      "side": "sell",
-      "symbol": "gold",
-      "address": "5miJJe2tBBBBtV7YKAwRvgvHRnxxQxKPKEhNkpBxpump",
-      "price": 8.106064459e-06,
-      "proceeds": 45.45,
-      "pnl_usd": -4.55,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-24T19:33:53+00:00",
       "side": "sell",
@@ -4516,13 +4497,35 @@
       "address": "3f6LZt1MYEC8rjqDSYiJXA3SEM8NPvBsmH494ZxPpump",
       "price": 8.719587755982687e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T14:27:14+00:00",
+      "side": "sell",
+      "symbol": "Max",
+      "address": "3f6LZt1MYEC8rjqDSYiJXA3SEM8NPvBsmH494ZxPpump",
+      "price": 7.418757267e-06,
+      "proceeds": 39.79,
+      "pnl_usd": -10.21,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T14:27:14+00:00",
+      "side": "buy",
+      "symbol": "Potpot",
+      "address": "D9NXzZxiJxgp2U69EDWJ1tJDMtGcEiWh2xGGY58Gpump",
+      "price": 5.638313614543042e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T14:27:14+00:00",
+      "side": "buy",
+      "symbol": "42069M",
+      "address": "8AJLFPFbKBzEHvbLiagozhmLbNDJzpwDWm5nvLxFpump",
+      "price": 1.7962310103469482e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T08:46:11+00:00",
-      "equity": 736000.78
-    },
     {
       "date": "2026-10-07T09:02:15+00:00",
       "equity": 735865.38
@@ -8518,6 +8521,10 @@
     {
       "date": "2026-10-28T13:30:57+00:00",
       "equity": 5879399.2
+    },
+    {
+      "date": "2026-10-28T14:27:14+00:00",
+      "equity": 5879387.1
     }
   ]
 }
