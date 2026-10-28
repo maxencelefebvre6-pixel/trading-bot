@@ -1,70 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879304.139676345,
+  "cash": 5879351.555302244,
   "positions": {
-    "FfwLKF6oNc4bx2oc7f2KiVsDQ47YQFaiSkTJorHpump": {
-      "symbol": "NOSE",
-      "qty": 3700076.110340668,
-      "entry_price": 1.3378103185948385e-05,
-      "last_price": 1.359450295e-05,
+    "3f6LZt1MYEC8rjqDSYiJXA3SEM8NPvBsmH494ZxPpump": {
+      "symbol": "Max",
+      "qty": 5676873.882717338,
+      "entry_price": 8.719587755982687e-06,
+      "last_price": 8.393555121456148e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-28T11:48:14+00:00",
-      "missing": 0
-    },
-    "EAnnxAo767c3sh7sSubCEAYeUkHLKiBvN5s76bPUpump": {
-      "symbol": "POOPIE",
-      "qty": 1581251.5886910537,
-      "entry_price": 3.1304316374458583e-05,
-      "last_price": 3.0286620868664434e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T12:24:34+00:00",
-      "missing": 0
-    },
-    "8tyqikNAMaPzHxiEu1WbhiJ4za8BR7XBuUgAK3D2pump": {
-      "symbol": "PEPEPESO",
-      "qty": 3066399.276955247,
-      "entry_price": 1.6142711867956925e-05,
-      "last_price": 1.5597363170990246e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T12:24:34+00:00",
+      "entry_time": "2026-10-28T13:30:57+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T19:06:07+00:00",
-      "side": "sell",
-      "symbol": "TRUMP",
-      "address": "EnPiV3c81A8WMSLFJc6fLAqxUzuhjX5XMMsnr62rpump",
-      "price": 1.487906951e-05,
-      "proceeds": 45.86,
-      "pnl_usd": -4.14,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T19:06:07+00:00",
-      "side": "buy",
-      "symbol": "Gary",
-      "address": "3teeprs5ytYdMeJUqFnrnhAJqJBegNujXRSDRR7cpump",
-      "price": 6.4460389679348645e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T19:06:07+00:00",
-      "side": "buy",
-      "symbol": "MIAYO",
-      "address": "5pFn8fZvZNtdYZBUGDshZJSjoUq7VPHAS6JPHRCYpump",
-      "price": 2.169433181906325e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T19:06:07+00:00",
-      "side": "buy",
-      "symbol": "PUPPYFLOW",
-      "address": "4z7aXJa7vVax1MEydViMVpZqP5hZ9ooDVom85EaDpump",
-      "price": 8.934597128452624e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T19:06:07+00:00",
       "side": "buy",
@@ -4530,13 +4478,47 @@
       "address": "8tyqikNAMaPzHxiEu1WbhiJ4za8BR7XBuUgAK3D2pump",
       "price": 1.6142711867956925e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T13:30:57+00:00",
+      "side": "sell",
+      "symbol": "NOSE",
+      "address": "FfwLKF6oNc4bx2oc7f2KiVsDQ47YQFaiSkTJorHpump",
+      "price": 1.359450295e-05,
+      "proceeds": 48.07,
+      "pnl_usd": -1.93,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-28T13:30:57+00:00",
+      "side": "sell",
+      "symbol": "POOPIE",
+      "address": "EAnnxAo767c3sh7sSubCEAYeUkHLKiBvN5s76bPUpump",
+      "price": 2.436525303e-06,
+      "proceeds": 3.69,
+      "pnl_usd": -46.31,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T13:30:57+00:00",
+      "side": "sell",
+      "symbol": "PEPEPESO",
+      "address": "8tyqikNAMaPzHxiEu1WbhiJ4za8BR7XBuUgAK3D2pump",
+      "price": 1.558016433e-05,
+      "proceeds": 45.65,
+      "pnl_usd": -4.35,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-28T13:30:57+00:00",
+      "side": "buy",
+      "symbol": "Max",
+      "address": "3f6LZt1MYEC8rjqDSYiJXA3SEM8NPvBsmH494ZxPpump",
+      "price": 8.719587755982687e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T08:23:47+00:00",
-      "equity": 735849.47
-    },
     {
       "date": "2026-10-07T08:46:11+00:00",
       "equity": 736000.78
@@ -8532,6 +8514,10 @@
     {
       "date": "2026-10-28T12:24:34+00:00",
       "equity": 5879450.16
+    },
+    {
+      "date": "2026-10-28T13:30:57+00:00",
+      "equity": 5879399.2
     }
   ]
 }
