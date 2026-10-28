@@ -1,43 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5879340.496326754,
+  "cash": 5879301.2401708085,
   "positions": {
-    "8DTYHgBRZv9aU2WrDFgpAvEvz21HgT67syzUtHo1pump": {
-      "symbol": "Worth",
-      "qty": 3914813.3315400016,
-      "entry_price": 1.2644281044309152e-05,
-      "last_price": 1.217541272185737e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T15:22:57+00:00",
-      "missing": 0
-    },
     "EYXARF1NhG9ri8LbkD2DfqpP27AaJe1dYW38x9FRpump": {
       "symbol": "nothing",
       "qty": 380313.39244504174,
       "entry_price": 0.00013015581618560314,
-      "last_price": 0.00012630741313084142,
+      "last_price": 0.0001263074131,
       "cost": 50.0,
       "entry_time": "2026-10-28T15:22:57+00:00",
+      "missing": 0
+    },
+    "Dypgv2WJ2jCEiHsQk5PGcgAyLhEekqZ21RmaxbuPpump": {
+      "symbol": "e/acc",
+      "qty": 993158.790767963,
+      "entry_price": 4.9840972521346735e-05,
+      "last_price": 4.824429885892681e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T16:19:09+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T19:58:03+00:00",
-      "side": "buy",
-      "symbol": "fomocat",
-      "address": "979nyczcLe8dk1SsMVLwxjZJPLBq1tJoszVhHW5Ypump",
-      "price": 2.9186158789128166e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T19:58:03+00:00",
-      "side": "buy",
-      "symbol": "$MFRG",
-      "address": "7sSUs1iKu3cCyib1C3xnzPGw3fpsmJAW4KC8HmSEpump",
-      "price": 6.306689907359327e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T20:25:57+00:00",
       "side": "sell",
@@ -4523,13 +4507,27 @@
       "address": "EYXARF1NhG9ri8LbkD2DfqpP27AaJe1dYW38x9FRpump",
       "price": 0.00013015581618560314,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T16:19:09+00:00",
+      "side": "sell",
+      "symbol": "Worth",
+      "address": "8DTYHgBRZv9aU2WrDFgpAvEvz21HgT67syzUtHo1pump",
+      "price": 2.87249629e-06,
+      "proceeds": 10.74,
+      "pnl_usd": -39.26,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-28T16:19:09+00:00",
+      "side": "buy",
+      "symbol": "e/acc",
+      "address": "Dypgv2WJ2jCEiHsQk5PGcgAyLhEekqZ21RmaxbuPpump",
+      "price": 4.9840972521346735e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T09:26:01+00:00",
-      "equity": 735856.57
-    },
     {
       "date": "2026-10-07T09:49:23+00:00",
       "equity": 735776.78
@@ -8525,6 +8523,10 @@
     {
       "date": "2026-10-28T15:22:57+00:00",
       "equity": 5879436.2
+    },
+    {
+      "date": "2026-10-28T16:19:09+00:00",
+      "equity": 5879397.19
     }
   ]
 }
