@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5879190.846601348,
-  "positions": {
-    "cBKJEaVKgH369iWbSXEwYbTGxm8gH9gKCM3JYxtpump": {
-      "symbol": "FCK925",
-      "qty": 14600.507080199064,
-      "entry_price": 0.0033902932088660798,
-      "last_price": 0.003290488523047454,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T19:33:17+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5879190.871657728,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-24T21:24:27+00:00",
-      "side": "sell",
-      "symbol": "JEW",
-      "address": "2vnSUULWu7Z7ypq6nmRF4tYhQ92zxKXCLrEjHHCHpump",
-      "price": 2.842995672e-06,
-      "proceeds": 11.6,
-      "pnl_usd": -38.4,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-24T21:24:27+00:00",
       "side": "buy",
@@ -4512,13 +4492,19 @@
       "address": "cBKJEaVKgH369iWbSXEwYbTGxm8gH9gKCM3JYxtpump",
       "price": 0.0033902932088660798,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T21:03:26+00:00",
+      "side": "sell",
+      "symbol": "FCK925",
+      "address": "cBKJEaVKgH369iWbSXEwYbTGxm8gH9gKCM3JYxtpump",
+      "price": 1.787104702e-06,
+      "proceeds": 0.03,
+      "pnl_usd": -49.97,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T11:07:29+00:00",
-      "equity": 735723.19
-    },
     {
       "date": "2026-10-07T11:29:17+00:00",
       "equity": 735702.2
@@ -8514,6 +8500,10 @@
     {
       "date": "2026-10-28T19:33:17+00:00",
       "equity": 5879238.89
+    },
+    {
+      "date": "2026-10-28T21:03:27+00:00",
+      "equity": 5879190.87
     }
   ]
 }
