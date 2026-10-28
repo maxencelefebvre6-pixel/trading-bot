@@ -1,57 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5879301.2401708085,
+  "cash": 5879299.252406444,
   "positions": {
-    "EYXARF1NhG9ri8LbkD2DfqpP27AaJe1dYW38x9FRpump": {
-      "symbol": "nothing",
-      "qty": 380313.39244504174,
-      "entry_price": 0.00013015581618560314,
-      "last_price": 0.0001263074131,
+    "7ggjpYJDFSPciA5hhzP4SB4nJREhyRFH5ZyfUGchpump": {
+      "symbol": "PKLN",
+      "qty": 3942142.939515225,
+      "entry_price": 1.2556622314178982e-05,
+      "last_price": 1.2092342252435174e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-28T15:22:57+00:00",
-      "missing": 0
-    },
-    "Dypgv2WJ2jCEiHsQk5PGcgAyLhEekqZ21RmaxbuPpump": {
-      "symbol": "e/acc",
-      "qty": 993158.790767963,
-      "entry_price": 4.9840972521346735e-05,
-      "last_price": 4.824429885892681e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T16:19:09+00:00",
+      "entry_time": "2026-10-28T17:13:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-24T20:25:57+00:00",
-      "side": "sell",
-      "symbol": "PUPPYFLOW",
-      "address": "4z7aXJa7vVax1MEydViMVpZqP5hZ9ooDVom85EaDpump",
-      "price": 8.612922355e-06,
-      "proceeds": 45.49,
-      "pnl_usd": -4.51,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T20:25:57+00:00",
-      "side": "sell",
-      "symbol": "PUPPYFLOW",
-      "address": "5PQ316LQamj9sTmRYkuJF4bzHrBKNMmdVP4FG2DNpump",
-      "price": 9.125673911e-06,
-      "proceeds": 45.52,
-      "pnl_usd": -4.48,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-24T20:25:57+00:00",
-      "side": "sell",
-      "symbol": "Baba",
-      "address": "DqGGPdUfL9BuCWyLybF82tkqKKXX9VbsVwwcEUQmpump",
-      "price": 3.685848004e-06,
-      "proceeds": 28.79,
-      "pnl_usd": -21.21,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-24T20:25:57+00:00",
       "side": "sell",
@@ -4525,13 +4486,37 @@
       "address": "Dypgv2WJ2jCEiHsQk5PGcgAyLhEekqZ21RmaxbuPpump",
       "price": 4.9840972521346735e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T17:13:02+00:00",
+      "side": "sell",
+      "symbol": "nothing",
+      "address": "EYXARF1NhG9ri8LbkD2DfqpP27AaJe1dYW38x9FRpump",
+      "price": 0.0001263074131,
+      "proceeds": 46.11,
+      "pnl_usd": -3.89,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-28T17:13:02+00:00",
+      "side": "sell",
+      "symbol": "e/acc",
+      "address": "Dypgv2WJ2jCEiHsQk5PGcgAyLhEekqZ21RmaxbuPpump",
+      "price": 2.003003605e-06,
+      "proceeds": 1.9,
+      "pnl_usd": -48.1,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-28T17:13:03+00:00",
+      "side": "buy",
+      "symbol": "PKLN",
+      "address": "7ggjpYJDFSPciA5hhzP4SB4nJREhyRFH5ZyfUGchpump",
+      "price": 1.2556622314178982e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T09:49:23+00:00",
-      "equity": 735776.78
-    },
     {
       "date": "2026-10-07T10:06:03+00:00",
       "equity": 735763.77
@@ -8527,6 +8512,10 @@
     {
       "date": "2026-10-28T16:19:09+00:00",
       "equity": 5879397.19
+    },
+    {
+      "date": "2026-10-28T17:13:03+00:00",
+      "equity": 5879346.92
     }
   ]
 }
