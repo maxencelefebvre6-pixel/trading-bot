@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5879774.843849919,
-  "positions": {},
+  "cash": 5879624.843849919,
+  "positions": {
+    "3N1FSuxo6fzVfbA25noHRS4Ubn6Fc2APLRX2zJQxpump": {
+      "symbol": "DROYD",
+      "qty": 4577771.643770383,
+      "entry_price": 1.0813121285191586e-05,
+      "last_price": 1.0409756397033637e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T05:12:02+00:00",
+      "missing": 0
+    },
+    "CLzv3A7PGKhZYwfwVCiRAinTofbCxprTNjAU2qTBpump": {
+      "symbol": "neuronary",
+      "qty": 5624809.613035867,
+      "entry_price": 8.800297859909869e-06,
+      "last_price": 8.464489808436734e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T05:12:02+00:00",
+      "missing": 0
+    },
+    "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump": {
+      "symbol": "VIBE",
+      "qty": 1194226.2809213374,
+      "entry_price": 4.1449431142824197e-05,
+      "last_price": 4.011488375158042e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-28T05:12:02+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-24T14:30:36+00:00",
-      "side": "buy",
-      "symbol": "Google",
-      "address": "D3S2gH9iGvpBEFXjy7rgxbkpsEs1S1P2e6Mg92efpump",
-      "price": 9.197979995873084e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-24T15:01:03+00:00",
-      "side": "sell",
-      "symbol": "Memegle",
-      "address": "6WAFc6of7UUPJEKomtp9bcLmKC4N47tt3vQ2icEBpump",
-      "price": 4.096526363e-05,
-      "proceeds": 191.6,
-      "pnl_usd": 141.6,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-24T15:01:03+00:00",
-      "side": "buy",
-      "symbol": "CATANA",
-      "address": "CEV537MfYSgQv8LCqNGqAgZVCAAMjwwyUTbGEHUYpump",
-      "price": 9.833154451217602e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-24T15:01:03+00:00",
       "side": "buy",
@@ -4504,13 +4506,33 @@
       "proceeds": 3.93,
       "pnl_usd": -46.07,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-28T05:12:02+00:00",
+      "side": "buy",
+      "symbol": "DROYD",
+      "address": "3N1FSuxo6fzVfbA25noHRS4Ubn6Fc2APLRX2zJQxpump",
+      "price": 1.0813121285191586e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T05:12:02+00:00",
+      "side": "buy",
+      "symbol": "neuronary",
+      "address": "CLzv3A7PGKhZYwfwVCiRAinTofbCxprTNjAU2qTBpump",
+      "price": 8.800297859909869e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-28T05:12:02+00:00",
+      "side": "buy",
+      "symbol": "VIBE",
+      "address": "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump",
+      "price": 4.1449431142824197e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T04:46:59+00:00",
-      "equity": 735777.1
-    },
     {
       "date": "2026-10-07T05:02:55+00:00",
       "equity": 735770.18
@@ -8506,6 +8528,10 @@
     {
       "date": "2026-10-28T04:23:24+00:00",
       "equity": 5879774.84
+    },
+    {
+      "date": "2026-10-28T05:12:02+00:00",
+      "equity": 5879768.01
     }
   ]
 }
