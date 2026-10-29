@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5878793.237939126,
+  "cash": 5878745.74445372,
   "positions": {
-    "HThGzgUe3kx9oKWjiAR2cGcyvqLjbKUBUnvS78jWpump": {
-      "symbol": "SI",
-      "qty": 6161083.197671533,
-      "entry_price": 8.034301503785505e-06,
-      "last_price": 7.743634234113426e-06,
+    "5XaurykjVBt4EJMyFCvmLp11hTZtg6Gqiqm5zNgVpump": {
+      "symbol": "TOKENIZER",
+      "qty": 4225344.861548309,
+      "entry_price": 1.1715020104148737e-05,
+      "last_price": 1.130516744678404e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-29T01:24:44+00:00",
+      "entry_time": "2026-10-29T02:18:31+00:00",
       "missing": 0
     },
-    "DuLxfzQH21oH4PJkgL1FnG19xRX8Esorp5Sdkwpdpump": {
-      "symbol": "SMART",
-      "qty": 5596378.554955446,
-      "entry_price": 8.845005661057193e-06,
-      "last_price": 8.519605605899956e-06,
+    "6kjss7CiQfnRwq321Hj313QRWeZM3Km6xm2XNyxNpump": {
+      "symbol": "FERSPE",
+      "qty": 6740615.277551064,
+      "entry_price": 7.343543276361541e-06,
+      "last_price": 7.062539690457403e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-29T01:24:44+00:00",
+      "entry_time": "2026-10-29T02:18:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T03:32:09+00:00",
-      "side": "buy",
-      "symbol": "Marvin",
-      "address": "2Qm9Pgq23GNAdxZRpzb5WHCNxRNLMjeWSr6uULvwpump",
-      "price": 0.0001682629581991676,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T03:32:09+00:00",
-      "side": "buy",
-      "symbol": "RICK",
-      "address": "ABfaFvGt4VuHGLCoZjJ27z64KMBgPR8nGikgVtzppump",
-      "price": 7.211010514551881e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T04:10:11+00:00",
-      "side": "sell",
-      "symbol": "wApe",
-      "address": "AUQZcnP3SXgsbn67urzMhxVoJYky4nuDvxotAQC2pump",
-      "price": 1.009885987e-05,
-      "proceeds": 45.58,
-      "pnl_usd": -4.42,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T04:10:11+00:00",
-      "side": "sell",
-      "symbol": "Marvin",
-      "address": "4eZxnVygJcETMH2HMPjn5wCeRL45XusTFnLpbEKmpump",
-      "price": 4.677367644e-06,
-      "proceeds": 3.54,
-      "pnl_usd": -46.46,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-25T04:10:11+00:00",
       "side": "sell",
@@ -4521,13 +4485,45 @@
       "address": "DuLxfzQH21oH4PJkgL1FnG19xRX8Esorp5Sdkwpdpump",
       "price": 8.845005661057193e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T02:18:31+00:00",
+      "side": "sell",
+      "symbol": "SI",
+      "address": "HThGzgUe3kx9oKWjiAR2cGcyvqLjbKUBUnvS78jWpump",
+      "price": 3.279987971e-06,
+      "proceeds": 19.24,
+      "pnl_usd": -30.76,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T02:18:31+00:00",
+      "side": "sell",
+      "symbol": "SMART",
+      "address": "DuLxfzQH21oH4PJkgL1FnG19xRX8Esorp5Sdkwpdpump",
+      "price": 6.238357678e-06,
+      "proceeds": 33.26,
+      "pnl_usd": -16.74,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T02:18:31+00:00",
+      "side": "buy",
+      "symbol": "TOKENIZER",
+      "address": "5XaurykjVBt4EJMyFCvmLp11hTZtg6Gqiqm5zNgVpump",
+      "price": 1.1715020104148737e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T02:18:31+00:00",
+      "side": "buy",
+      "symbol": "FERSPE",
+      "address": "6kjss7CiQfnRwq321Hj313QRWeZM3Km6xm2XNyxNpump",
+      "price": 7.343543276361541e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T13:50:21+00:00",
-      "equity": 735606.39
-    },
     {
       "date": "2026-10-07T14:06:57+00:00",
       "equity": 735535.55
@@ -8523,6 +8519,10 @@
     {
       "date": "2026-10-29T01:24:44+00:00",
       "equity": 5878888.63
+    },
+    {
+      "date": "2026-10-29T02:18:31+00:00",
+      "equity": 5878841.12
     }
   ]
 }
