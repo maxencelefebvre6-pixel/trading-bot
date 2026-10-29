@@ -1,108 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5877981.822405991,
+  "cash": 5878027.061726107,
   "positions": {
-    "HyEHuuN7qywSuKwScMpP2uCq3RBbQhiWyTpf4mszpump": {
-      "symbol": "VAGINA",
-      "qty": 8842432.190018808,
-      "entry_price": 5.598007305713329e-06,
-      "last_price": 5.3917911294406216e-06,
+    "FLyqUZVTPsrDCwMpFMmyYX1LZ6AQUHDXD5qoejWLpump": {
+      "symbol": "dogs",
+      "qty": 1583657.286061355,
+      "entry_price": 3.125676270723276e-05,
+      "last_price": 3.02834118477811e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-29T20:29:33+00:00",
-      "missing": 0
-    },
-    "wAenvnzTDm9MKFRwbjBzqqtizLXbQT8tHHMEcQbpump": {
-      "symbol": "OZVAG",
-      "qty": 3888811.4439560487,
-      "entry_price": 1.2728824915626187e-05,
-      "last_price": 1.2270573855794865e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T20:29:33+00:00",
-      "missing": 0
-    },
-    "BVTfKyTwhWu7ZFgWJU8PpUBAYmoCJRU3cXxsE1rqpump": {
-      "symbol": "VAGINA",
-      "qty": 1878172.7253358692,
-      "entry_price": 2.6355403489925578e-05,
-      "last_price": 2.541669997608228e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T20:29:33+00:00",
-      "missing": 0
-    },
-    "ixaRy87PGs5ypSM1fcobz3XAtrRuS9SNLVxCNAwpump": {
-      "symbol": "VAGINA",
-      "qty": 10425784.745342318,
-      "entry_price": 4.747844043309444e-06,
-      "last_price": 4.569555722741524e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T20:29:33+00:00",
-      "missing": 0
-    },
-    "h6HUZ2k1BiNBSTjoWMBmpvv36oD4Vr4UdQSdsECpump": {
-      "symbol": "$BWIZ",
-      "qty": 1851320.1717594303,
-      "entry_price": 2.673767658079203e-05,
-      "last_price": 2.58971889367787e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T20:29:33+00:00",
+      "entry_time": "2026-10-29T21:16:42+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T15:00:05+00:00",
-      "side": "buy",
-      "symbol": "BOOBS",
-      "address": "3E7cykFqNX3771V4fRf7aybYR4wTWcyG2vUA2rUZpump",
-      "price": 1.6039616805417092e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T15:00:05+00:00",
-      "side": "buy",
-      "symbol": "ANALOS",
-      "address": "HgdBJvh8fTafnhmnWHgNHEQrYPzqBDQLu2hKZKfkpump",
-      "price": 7.71070806070929e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T15:00:05+00:00",
-      "side": "buy",
-      "symbol": "FOMO",
-      "address": "3CarF2hZt9mxA2b6mSX3hWii6rdGx8yHBtuAe1ZEpump",
-      "price": 1.0049974673133892e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T15:30:23+00:00",
-      "side": "sell",
-      "symbol": "TEMPTATION",
-      "address": "2jMLCRq5mqDNdFaH2e67XfS4bsVgdkNSo56sf9v5pump",
-      "price": 8.871036988e-05,
-      "proceeds": 24.1,
-      "pnl_usd": -25.9,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-25T15:30:23+00:00",
-      "side": "sell",
-      "symbol": "BOOBS",
-      "address": "3E7cykFqNX3771V4fRf7aybYR4wTWcyG2vUA2rUZpump",
-      "price": 2.864908459e-06,
-      "proceeds": 8.46,
-      "pnl_usd": -41.54,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T15:30:23+00:00",
-      "side": "sell",
-      "symbol": "ANALOS",
-      "address": "HgdBJvh8fTafnhmnWHgNHEQrYPzqBDQLu2hKZKfkpump",
-      "price": 0.000269057467,
-      "proceeds": 164.54,
-      "pnl_usd": 114.54,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-25T15:30:23+00:00",
       "side": "sell",
@@ -4544,13 +4454,67 @@
       "address": "h6HUZ2k1BiNBSTjoWMBmpvv36oD4Vr4UdQSdsECpump",
       "price": 2.673767658079203e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T21:16:42+00:00",
+      "side": "sell",
+      "symbol": "VAGINA",
+      "address": "HyEHuuN7qywSuKwScMpP2uCq3RBbQhiWyTpf4mszpump",
+      "price": 4.208912538e-06,
+      "proceeds": 35.31,
+      "pnl_usd": -14.69,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T21:16:42+00:00",
+      "side": "sell",
+      "symbol": "OZVAG",
+      "address": "wAenvnzTDm9MKFRwbjBzqqtizLXbQT8tHHMEcQbpump",
+      "price": 2.782224735e-06,
+      "proceeds": 10.34,
+      "pnl_usd": -39.66,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T21:16:42+00:00",
+      "side": "sell",
+      "symbol": "VAGINA",
+      "address": "BVTfKyTwhWu7ZFgWJU8PpUBAYmoCJRU3cXxsE1rqpump",
+      "price": 3.031084487e-06,
+      "proceeds": 5.45,
+      "pnl_usd": -44.55,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T21:16:42+00:00",
+      "side": "sell",
+      "symbol": "VAGINA",
+      "address": "ixaRy87PGs5ypSM1fcobz3XAtrRuS9SNLVxCNAwpump",
+      "price": 3.201924332e-06,
+      "proceeds": 31.62,
+      "pnl_usd": -18.38,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T21:16:42+00:00",
+      "side": "sell",
+      "symbol": "$BWIZ",
+      "address": "h6HUZ2k1BiNBSTjoWMBmpvv36oD4Vr4UdQSdsECpump",
+      "price": 7.051402841e-06,
+      "proceeds": 12.52,
+      "pnl_usd": -37.48,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T21:16:42+00:00",
+      "side": "buy",
+      "symbol": "dogs",
+      "address": "FLyqUZVTPsrDCwMpFMmyYX1LZ6AQUHDXD5qoejWLpump",
+      "price": 3.125676270723276e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T22:41:16+00:00",
-      "equity": 3461046.08
-    },
     {
       "date": "2026-10-07T23:16:18+00:00",
       "equity": 3461037.85
@@ -8546,6 +8510,10 @@
     {
       "date": "2026-10-29T20:29:33+00:00",
       "equity": 5878220.54
+    },
+    {
+      "date": "2026-10-29T21:16:42+00:00",
+      "equity": 5878075.02
     }
   ]
 }
