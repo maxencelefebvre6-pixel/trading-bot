@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5878328.689417643,
+  "cash": 5878357.261322181,
   "positions": {
-    "2DWLWFDATsBzMRmRxLv7umvcN2o9KuAnbnq2teswpump": {
-      "symbol": "wApe",
-      "qty": 4524012.748005307,
-      "entry_price": 1.0941613730382427e-05,
-      "last_price": 1.054578297e-05,
+    "5YgphPfCjRASJn6r1fyjWDv1UHxMc1hQH4dzWVmwpump": {
+      "symbol": "MASSIMO",
+      "qty": 3013647.6041296157,
+      "entry_price": 1.6425278102247227e-05,
+      "last_price": 1.5816689744737697e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-29T16:23:22+00:00",
-      "missing": 0
-    },
-    "BdCBEWMoJYoJPgKdyH7Nv1cn34c3N3JZXAz8AKjvpump": {
-      "symbol": "Balmaze",
-      "qty": 3196.9382972818603,
-      "entry_price": 0.015483564397250486,
-      "last_price": 0.015026033549451227,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T17:19:50+00:00",
+      "entry_time": "2026-10-29T18:08:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T12:55:35+00:00",
-      "side": "buy",
-      "symbol": "NOCOMMENT",
-      "address": "GHjpD4pZ67mZX15gfgEg3w1jnvcMM5ZZj4cWy2wgpump",
-      "price": 7.071056359099259e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T12:55:35+00:00",
-      "side": "buy",
-      "symbol": "SOOTS",
-      "address": "hQj3giDmLB85tL2RRMCLop7Hoa7pVdTDKRAiFQLpump",
-      "price": 6.87753201211792e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T13:28:49+00:00",
-      "side": "sell",
-      "symbol": "NOCOMMENT",
-      "address": "GHjpD4pZ67mZX15gfgEg3w1jnvcMM5ZZj4cWy2wgpump",
-      "price": 2.252404975e-06,
-      "proceeds": 1.51,
-      "pnl_usd": -48.49,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-25T13:28:49+00:00",
       "side": "buy",
@@ -4519,13 +4484,37 @@
       "address": "BdCBEWMoJYoJPgKdyH7Nv1cn34c3N3JZXAz8AKjvpump",
       "price": 0.015483564397250486,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T18:08:36+00:00",
+      "side": "sell",
+      "symbol": "wApe",
+      "address": "2DWLWFDATsBzMRmRxLv7umvcN2o9KuAnbnq2teswpump",
+      "price": 1.054578297e-05,
+      "proceeds": 45.48,
+      "pnl_usd": -4.52,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-29T18:08:36+00:00",
+      "side": "sell",
+      "symbol": "Balmaze",
+      "address": "BdCBEWMoJYoJPgKdyH7Nv1cn34c3N3JZXAz8AKjvpump",
+      "price": 0.020914256,
+      "proceeds": 33.1,
+      "pnl_usd": -16.9,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-29T18:08:36+00:00",
+      "side": "buy",
+      "symbol": "MASSIMO",
+      "address": "5YgphPfCjRASJn6r1fyjWDv1UHxMc1hQH4dzWVmwpump",
+      "price": 1.6425278102247227e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T21:25:51+00:00",
-      "equity": 3461349.4
-    },
     {
       "date": "2026-10-07T21:47:28+00:00",
       "equity": 3461179.0
@@ -8521,6 +8510,10 @@
     {
       "date": "2026-10-29T17:19:50+00:00",
       "equity": 5878424.44
+    },
+    {
+      "date": "2026-10-29T18:08:36+00:00",
+      "equity": 5878404.93
     }
   ]
 }
