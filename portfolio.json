@@ -1,74 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5878434.286468655,
+  "cash": 5878369.918294615,
   "positions": {
-    "BQQhjpKzfy8H5xPdfQKcv9rMu6MnDE1EHv5oYozppump": {
-      "symbol": "Moancoin",
-      "qty": 2372225.5995008517,
-      "entry_price": 2.0866480831509225e-05,
-      "last_price": 2.0122911334628382e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T07:21:40+00:00",
-      "missing": 0
-    },
     "6CdARV9aCPteSbvTdZsK3vxJUfgvHMV4ufs3iJkjpump": {
       "symbol": "PENGUTON",
       "qty": 1213460.368958383,
       "entry_price": 4.079243234164301e-05,
-      "last_price": 3.95277950995626e-05,
+      "last_price": 3.95277951e-05,
       "cost": 50.0,
       "entry_time": "2026-10-29T07:21:40+00:00",
       "missing": 0
     },
-    "DqbNVNbchYKPczbtR4voMvUT7EP4eq2CaZ39XYcTpump": {
-      "symbol": "DWTA",
-      "qty": 637141.0544890014,
-      "entry_price": 7.769080276847e-05,
-      "last_price": 7.534689165051776e-05,
+    "FL4vjeUX8knvLRQe5HxJoZjqbgNMu35iCDdWzXFhpump": {
+      "symbol": "jetset",
+      "qty": 600925.1681125243,
+      "entry_price": 8.237298523454594e-05,
+      "last_price": 7.99106596209909e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-29T07:21:40+00:00",
+      "entry_time": "2026-10-29T08:18:31+00:00",
+      "missing": 0
+    },
+    "5WU6iYL3gDPd2zRzayxDE2XwaBH8rrc2WZQyyaGupump": {
+      "symbol": "DWTA",
+      "qty": 2814495.4547425685,
+      "entry_price": 1.7587521740918064e-05,
+      "last_price": 1.7025344813587666e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T08:18:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T05:51:21+00:00",
-      "side": "buy",
-      "symbol": "SCAM",
-      "address": "9nCnjCn1u7Ev4yZyqDyzngeTaVu7W53qMU4vqciypump",
-      "price": 2.9046114657481632e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T06:20:49+00:00",
-      "side": "sell",
-      "symbol": "TOTHETOP",
-      "address": "AfMHctdjzxjYqX3hbFMhjAoLS8ZfeURHEUf8bKiVpump",
-      "price": 1.087926608e-05,
-      "proceeds": 45.62,
-      "pnl_usd": -4.38,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T06:20:49+00:00",
-      "side": "sell",
-      "symbol": "kittylick",
-      "address": "6iPDynHX634CA4bJTLKUNMeHoKAVCaYJPzDWdVeppump",
-      "price": 1.337858645e-05,
-      "proceeds": 45.71,
-      "pnl_usd": -4.29,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T06:20:49+00:00",
-      "side": "sell",
-      "symbol": "TIT",
-      "address": "CKfnhDuXmPir9xyPVrNon8c7NYokYhZ8Zxi7gUZipump",
-      "price": 2.970417893e-06,
-      "proceeds": 12.28,
-      "pnl_usd": -37.72,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-25T06:20:49+00:00",
       "side": "buy",
@@ -4530,13 +4492,45 @@
       "address": "DqbNVNbchYKPczbtR4voMvUT7EP4eq2CaZ39XYcTpump",
       "price": 7.769080276847e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T08:18:31+00:00",
+      "side": "sell",
+      "symbol": "Moancoin",
+      "address": "BQQhjpKzfy8H5xPdfQKcv9rMu6MnDE1EHv5oYozppump",
+      "price": 3.145472576e-06,
+      "proceeds": 7.14,
+      "pnl_usd": -42.86,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T08:18:31+00:00",
+      "side": "sell",
+      "symbol": "DWTA",
+      "address": "DqbNVNbchYKPczbtR4voMvUT7EP4eq2CaZ39XYcTpump",
+      "price": 4.660784123e-05,
+      "proceeds": 28.49,
+      "pnl_usd": -21.51,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T08:18:31+00:00",
+      "side": "buy",
+      "symbol": "jetset",
+      "address": "FL4vjeUX8knvLRQe5HxJoZjqbgNMu35iCDdWzXFhpump",
+      "price": 8.237298523454594e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T08:18:31+00:00",
+      "side": "buy",
+      "symbol": "DWTA",
+      "address": "5WU6iYL3gDPd2zRzayxDE2XwaBH8rrc2WZQyyaGupump",
+      "price": 1.7587521740918064e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T16:52:20+00:00",
-      "equity": 1173454.06
-    },
     {
       "date": "2026-10-07T17:58:46+00:00",
       "equity": 1173451.89
@@ -8532,6 +8526,10 @@
     {
       "date": "2026-10-29T07:21:40+00:00",
       "equity": 5878577.99
+    },
+    {
+      "date": "2026-10-29T08:18:31+00:00",
+      "equity": 5878513.82
     }
   ]
 }
