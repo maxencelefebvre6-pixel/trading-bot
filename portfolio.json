@@ -1,54 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5878521.405024588,
+  "cash": 5878532.055395022,
   "positions": {
-    "DkYABjmdxWSzA8BugkqLVvBnqF5mCBE5bAxaGmHcpump": {
-      "symbol": "KNOT",
-      "qty": 3166006.7668693764,
-      "entry_price": 1.5634837081838202e-05,
-      "last_price": 1.5056429648614478e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T04:39:49+00:00",
-      "missing": 0
-    },
-    "BQzjsnGStaYJbYQL2U2Y6QQNgYnTqhByW23N8u3Gpump": {
-      "symbol": "GIMODELO",
-      "qty": 1129363.96666742,
-      "entry_price": 4.3829979936465404e-05,
-      "last_price": 4.242136863608369e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T04:39:49+00:00",
-      "missing": 0
-    },
     "vphPCKYm9E8Fto6XFhnW3zbeAcD1TY1H15NxSjDpump": {
       "symbol": "DOOB",
       "qty": 2355613.259157244,
       "entry_price": 2.1013636176300587e-05,
-      "last_price": 2.0338071015602477e-05,
+      "last_price": 2.040475357e-05,
       "cost": 50.0,
       "entry_time": "2026-10-29T04:39:49+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T05:16:02+00:00",
-      "side": "sell",
-      "symbol": "DINO",
-      "address": "GveiLtZDc6PUU9j8nW3Q8zJVQMgSgWdxtgCBq7HJpump",
-      "price": 2.113827699e-06,
-      "proceeds": 3.23,
-      "pnl_usd": -46.77,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-25T05:16:02+00:00",
-      "side": "buy",
-      "symbol": "BamBam",
-      "address": "6ythTMxhdQUkEWQs8dFxxE3AGLkgWMWS5JEVxZsbpump",
-      "price": 0.00010877989045297378,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T05:16:02+00:00",
       "side": "buy",
@@ -4528,13 +4492,29 @@
       "address": "vphPCKYm9E8Fto6XFhnW3zbeAcD1TY1H15NxSjDpump",
       "price": 2.1013636176300587e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T05:25:29+00:00",
+      "side": "sell",
+      "symbol": "KNOT",
+      "address": "DkYABjmdxWSzA8BugkqLVvBnqF5mCBE5bAxaGmHcpump",
+      "price": 2.824730792e-06,
+      "proceeds": 8.55,
+      "pnl_usd": -41.45,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T05:25:29+00:00",
+      "side": "sell",
+      "symbol": "GIMODELO",
+      "address": "BQzjsnGStaYJbYQL2U2Y6QQNgYnTqhByW23N8u3Gpump",
+      "price": 1.944216454e-06,
+      "proceeds": 2.1,
+      "pnl_usd": -47.9,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T15:45:12+00:00",
-      "equity": 1173601.91
-    },
     {
       "date": "2026-10-07T16:04:53+00:00",
       "equity": 1173550.0
@@ -8530,6 +8510,10 @@
     {
       "date": "2026-10-29T04:39:49+00:00",
       "equity": 5878664.89
+    },
+    {
+      "date": "2026-10-29T05:25:29+00:00",
+      "equity": 5878580.12
     }
   ]
 }
