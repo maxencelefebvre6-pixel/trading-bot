@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5878027.061726107,
-  "positions": {
-    "FLyqUZVTPsrDCwMpFMmyYX1LZ6AQUHDXD5qoejWLpump": {
-      "symbol": "dogs",
-      "qty": 1583657.286061355,
-      "entry_price": 3.125676270723276e-05,
-      "last_price": 3.02834118477811e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T21:16:42+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5878073.018572378,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-25T15:30:23+00:00",
-      "side": "sell",
-      "symbol": "FOMO",
-      "address": "3CarF2hZt9mxA2b6mSX3hWii6rdGx8yHBtuAe1ZEpump",
-      "price": 2.917290651e-06,
-      "proceeds": 13.71,
-      "pnl_usd": -36.29,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-25T15:30:23+00:00",
       "side": "buy",
@@ -4512,13 +4492,19 @@
       "address": "FLyqUZVTPsrDCwMpFMmyYX1LZ6AQUHDXD5qoejWLpump",
       "price": 3.125676270723276e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T22:44:28+00:00",
+      "side": "sell",
+      "symbol": "dogs",
+      "address": "FLyqUZVTPsrDCwMpFMmyYX1LZ6AQUHDXD5qoejWLpump",
+      "price": 3.028341185e-05,
+      "proceeds": 45.96,
+      "pnl_usd": -4.04,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T23:16:18+00:00",
-      "equity": 3461037.85
-    },
     {
       "date": "2026-10-07T23:34:07+00:00",
       "equity": 3460969.15
@@ -8514,6 +8500,10 @@
     {
       "date": "2026-10-29T21:16:42+00:00",
       "equity": 5878075.02
+    },
+    {
+      "date": "2026-10-29T22:44:28+00:00",
+      "equity": 5878073.02
     }
   ]
 }
