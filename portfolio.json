@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5878570.014513418,
+  "cash": 5878561.932644883,
   "positions": {
-    "2ZyTZVkg7gsc7T78S45jzZq31QdfHLh9mz8tro6Epump": {
-      "symbol": "LMC",
-      "qty": 854417.8477238613,
-      "entry_price": 5.7934183060274585e-05,
-      "last_price": 5.617986183e-05,
+    "Hp7MZqbmzcDqo5gF9TdeHV2vas7k6hCa4wbvi9kqpump": {
+      "symbol": "NASU",
+      "qty": 5245420.8064567065,
+      "entry_price": 9.436802465699099e-06,
+      "last_price": 9.077596947722806e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-29T10:57:23+00:00",
+      "entry_time": "2026-10-29T12:22:04+00:00",
       "missing": 0
     },
-    "2ayaZ6M8X3L6r58KdQL9t81efKuUbbwR629A6LiJpump": {
-      "symbol": "wind",
-      "qty": 1285113.4888503575,
-      "entry_price": 3.8517998938974586e-05,
-      "last_price": 3.723906453e-05,
+    "6U7is6FBmE5GxJ7HDxukTe7D5YvzixeZLYQcDD52pump": {
+      "symbol": "$SLJK",
+      "qty": 1797192.9914908253,
+      "entry_price": 2.7542951833424563e-05,
+      "last_price": 2.6675940378499047e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-29T10:57:23+00:00",
+      "entry_time": "2026-10-29T12:22:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T08:11:19+00:00",
-      "side": "buy",
-      "symbol": "PP",
-      "address": "Ajm8dcq7yqNPzVA4EBCuhMz1f9CC7Zd5s4kz6dcupump",
-      "price": 1.3873633868158576e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T08:11:19+00:00",
-      "side": "buy",
-      "symbol": "PAPER",
-      "address": "CQE6WpyFixZFzY2osHCCxPB7Eh7drJVZKTsK2Hmppump",
-      "price": 2.683002862152318e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T08:48:10+00:00",
-      "side": "sell",
-      "symbol": "PP",
-      "address": "Ajm8dcq7yqNPzVA4EBCuhMz1f9CC7Zd5s4kz6dcupump",
-      "price": 3.478012258e-05,
-      "proceeds": 118.6,
-      "pnl_usd": 68.6,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-25T08:48:10+00:00",
-      "side": "sell",
-      "symbol": "PAPER",
-      "address": "CQE6WpyFixZFzY2osHCCxPB7Eh7drJVZKTsK2Hmppump",
-      "price": 5.686864077e-06,
-      "proceeds": 10.05,
-      "pnl_usd": -39.95,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-25T08:48:10+00:00",
       "side": "buy",
@@ -4519,13 +4483,45 @@
       "proceeds": 402.52,
       "pnl_usd": 352.52,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-29T12:22:04+00:00",
+      "side": "sell",
+      "symbol": "LMC",
+      "address": "2ZyTZVkg7gsc7T78S45jzZq31QdfHLh9mz8tro6Epump",
+      "price": 5.617986183e-05,
+      "proceeds": 46.04,
+      "pnl_usd": -3.96,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-29T12:22:04+00:00",
+      "side": "sell",
+      "symbol": "wind",
+      "address": "2ayaZ6M8X3L6r58KdQL9t81efKuUbbwR629A6LiJpump",
+      "price": 3.723906453e-05,
+      "proceeds": 45.88,
+      "pnl_usd": -4.12,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-29T12:22:04+00:00",
+      "side": "buy",
+      "symbol": "NASU",
+      "address": "Hp7MZqbmzcDqo5gF9TdeHV2vas7k6hCa4wbvi9kqpump",
+      "price": 9.436802465699099e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T12:22:04+00:00",
+      "side": "buy",
+      "symbol": "$SLJK",
+      "address": "6U7is6FBmE5GxJ7HDxukTe7D5YvzixeZLYQcDD52pump",
+      "price": 2.7542951833424563e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T19:32:39+00:00",
-      "equity": 1173425.12
-    },
     {
       "date": "2026-10-07T19:50:35+00:00",
       "equity": 1173325.21
@@ -8521,6 +8517,10 @@
     {
       "date": "2026-10-29T11:41:23+00:00",
       "equity": 5878665.87
+    },
+    {
+      "date": "2026-10-29T12:22:04+00:00",
+      "equity": 5878657.49
     }
   ]
 }
