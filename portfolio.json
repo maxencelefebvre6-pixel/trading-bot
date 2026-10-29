@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 5878584.286468655,
-  "positions": {},
+  "cash": 5878434.286468655,
+  "positions": {
+    "BQQhjpKzfy8H5xPdfQKcv9rMu6MnDE1EHv5oYozppump": {
+      "symbol": "Moancoin",
+      "qty": 2372225.5995008517,
+      "entry_price": 2.0866480831509225e-05,
+      "last_price": 2.0122911334628382e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T07:21:40+00:00",
+      "missing": 0
+    },
+    "6CdARV9aCPteSbvTdZsK3vxJUfgvHMV4ufs3iJkjpump": {
+      "symbol": "PENGUTON",
+      "qty": 1213460.368958383,
+      "entry_price": 4.079243234164301e-05,
+      "last_price": 3.95277950995626e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T07:21:40+00:00",
+      "missing": 0
+    },
+    "DqbNVNbchYKPczbtR4voMvUT7EP4eq2CaZ39XYcTpump": {
+      "symbol": "DWTA",
+      "qty": 637141.0544890014,
+      "entry_price": 7.769080276847e-05,
+      "last_price": 7.534689165051776e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T07:21:40+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-25T05:16:02+00:00",
-      "side": "buy",
-      "symbol": "kittylick",
-      "address": "6iPDynHX634CA4bJTLKUNMeHoKAVCaYJPzDWdVeppump",
-      "price": 1.3844721758851592e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T05:51:21+00:00",
-      "side": "sell",
-      "symbol": "BamBam",
-      "address": "6ythTMxhdQUkEWQs8dFxxE3AGLkgWMWS5JEVxZsbpump",
-      "price": 1.995748469e-06,
-      "proceeds": 0.87,
-      "pnl_usd": -49.13,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-25T05:51:21+00:00",
-      "side": "buy",
-      "symbol": "TIT",
-      "address": "CKfnhDuXmPir9xyPVrNon8c7NYokYhZ8Zxi7gUZipump",
-      "price": 1.1432250474744878e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T05:51:21+00:00",
       "side": "buy",
@@ -4504,13 +4506,33 @@
       "proceeds": 52.23,
       "pnl_usd": 2.23,
       "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-29T07:21:40+00:00",
+      "side": "buy",
+      "symbol": "Moancoin",
+      "address": "BQQhjpKzfy8H5xPdfQKcv9rMu6MnDE1EHv5oYozppump",
+      "price": 2.0866480831509225e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T07:21:40+00:00",
+      "side": "buy",
+      "symbol": "PENGUTON",
+      "address": "6CdARV9aCPteSbvTdZsK3vxJUfgvHMV4ufs3iJkjpump",
+      "price": 4.079243234164301e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T07:21:40+00:00",
+      "side": "buy",
+      "symbol": "DWTA",
+      "address": "DqbNVNbchYKPczbtR4voMvUT7EP4eq2CaZ39XYcTpump",
+      "price": 7.769080276847e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T16:29:56+00:00",
-      "equity": 1173500.96
-    },
     {
       "date": "2026-10-07T16:52:20+00:00",
       "equity": 1173454.06
@@ -8506,6 +8528,10 @@
     {
       "date": "2026-10-29T06:12:58+00:00",
       "equity": 5878584.29
+    },
+    {
+      "date": "2026-10-29T07:21:40+00:00",
+      "equity": 5878577.99
     }
   ]
 }
