@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 5878532.055395022,
-  "positions": {
-    "vphPCKYm9E8Fto6XFhnW3zbeAcD1TY1H15NxSjDpump": {
-      "symbol": "DOOB",
-      "qty": 2355613.259157244,
-      "entry_price": 2.1013636176300587e-05,
-      "last_price": 2.040475357e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T04:39:49+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 5878584.286468655,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-25T05:16:02+00:00",
-      "side": "buy",
-      "symbol": "TOTHETOP",
-      "address": "AfMHctdjzxjYqX3hbFMhjAoLS8ZfeURHEUf8bKiVpump",
-      "price": 1.126975445715485e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T05:16:02+00:00",
       "side": "buy",
@@ -4512,13 +4494,19 @@
       "proceeds": 2.1,
       "pnl_usd": -47.9,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-29T06:12:57+00:00",
+      "side": "sell",
+      "symbol": "DOOB",
+      "address": "vphPCKYm9E8Fto6XFhnW3zbeAcD1TY1H15NxSjDpump",
+      "price": 2.3163486e-05,
+      "proceeds": 52.23,
+      "pnl_usd": 2.23,
+      "reason": "take-profit"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T16:04:53+00:00",
-      "equity": 1173550.0
-    },
     {
       "date": "2026-10-07T16:29:56+00:00",
       "equity": 1173500.96
@@ -8514,6 +8502,10 @@
     {
       "date": "2026-10-29T05:25:29+00:00",
       "equity": 5878580.12
+    },
+    {
+      "date": "2026-10-29T06:12:58+00:00",
+      "equity": 5878584.29
     }
   ]
 }
