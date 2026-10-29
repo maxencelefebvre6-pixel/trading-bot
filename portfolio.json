@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5878847.814835657,
+  "cash": 5878793.237939126,
   "positions": {
-    "2ai92iksjhp1HQSp96wnikWchJ5RUne161oaAt2Apump": {
-      "symbol": "$PADO",
-      "qty": 4294591.023356926,
-      "entry_price": 1.1526126639483276e-05,
-      "last_price": 1.1088552313047514e-05,
+    "HThGzgUe3kx9oKWjiAR2cGcyvqLjbKUBUnvS78jWpump": {
+      "symbol": "SI",
+      "qty": 6161083.197671533,
+      "entry_price": 8.034301503785505e-06,
+      "last_price": 7.743634234113426e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-29T00:16:34+00:00",
+      "entry_time": "2026-10-29T01:24:44+00:00",
+      "missing": 0
+    },
+    "DuLxfzQH21oH4PJkgL1FnG19xRX8Esorp5Sdkwpdpump": {
+      "symbol": "SMART",
+      "qty": 5596378.554955446,
+      "entry_price": 8.845005661057193e-06,
+      "last_price": 8.519605605899956e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T01:24:44+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T02:59:18+00:00",
-      "side": "buy",
-      "symbol": "wApe",
-      "address": "AUQZcnP3SXgsbn67urzMhxVoJYky4nuDvxotAQC2pump",
-      "price": 1.0465940374206835e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T03:32:08+00:00",
-      "side": "sell",
-      "symbol": "cap",
-      "address": "DQDu837TRSWdrdgAzXZtWQWmGtsbU4RMG7oPPKMqpump",
-      "price": 1.744432057e-05,
-      "proceeds": 45.79,
-      "pnl_usd": -4.21,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T03:32:09+00:00",
-      "side": "buy",
-      "symbol": "Marvin",
-      "address": "4eZxnVygJcETMH2HMPjn5wCeRL45XusTFnLpbEKmpump",
-      "price": 6.269277319791848e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T03:32:09+00:00",
       "side": "buy",
@@ -4512,13 +4495,35 @@
       "address": "2ai92iksjhp1HQSp96wnikWchJ5RUne161oaAt2Apump",
       "price": 1.1526126639483276e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T01:24:44+00:00",
+      "side": "sell",
+      "symbol": "$PADO",
+      "address": "2ai92iksjhp1HQSp96wnikWchJ5RUne161oaAt2Apump",
+      "price": 1.108855231e-05,
+      "proceeds": 45.42,
+      "pnl_usd": -4.58,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-29T01:24:44+00:00",
+      "side": "buy",
+      "symbol": "SI",
+      "address": "HThGzgUe3kx9oKWjiAR2cGcyvqLjbKUBUnvS78jWpump",
+      "price": 8.034301503785505e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T01:24:44+00:00",
+      "side": "buy",
+      "symbol": "SMART",
+      "address": "DuLxfzQH21oH4PJkgL1FnG19xRX8Esorp5Sdkwpdpump",
+      "price": 8.845005661057193e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T13:27:59+00:00",
-      "equity": 735636.31
-    },
     {
       "date": "2026-10-07T13:50:21+00:00",
       "equity": 735606.39
@@ -8514,6 +8519,10 @@
     {
       "date": "2026-10-29T00:16:34+00:00",
       "equity": 5878895.44
+    },
+    {
+      "date": "2026-10-29T01:24:44+00:00",
+      "equity": 5878888.63
     }
   ]
 }
