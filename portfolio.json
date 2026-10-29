@@ -1,89 +1,54 @@
 {
   "mode": "pumpfun",
-  "cash": 5878222.359192422,
+  "cash": 5877981.822405991,
   "positions": {
-    "F3NJcHEnZMKxuQ8VS3u6syKkzxxaPREjbNSrDA3xpump": {
-      "symbol": "X",
-      "qty": 3540162.693746433,
-      "entry_price": 1.3982408234355987e-05,
-      "last_price": 1.3458115964471792e-05,
+    "HyEHuuN7qywSuKwScMpP2uCq3RBbQhiWyTpf4mszpump": {
+      "symbol": "VAGINA",
+      "qty": 8842432.190018808,
+      "entry_price": 5.598007305713329e-06,
+      "last_price": 5.3917911294406216e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-29T19:50:48+00:00",
+      "entry_time": "2026-10-29T20:29:33+00:00",
       "missing": 0
     },
-    "GfiibsARq3KSapjK3HYthoAHJU6Fc5gn5nV5iNWRpump": {
-      "symbol": "RICK",
-      "qty": 7844598.444551948,
-      "entry_price": 6.310074422531801e-06,
-      "last_price": 6.101111534776319e-06,
+    "wAenvnzTDm9MKFRwbjBzqqtizLXbQT8tHHMEcQbpump": {
+      "symbol": "OZVAG",
+      "qty": 3888811.4439560487,
+      "entry_price": 1.2728824915626187e-05,
+      "last_price": 1.2270573855794865e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-29T19:50:48+00:00",
+      "entry_time": "2026-10-29T20:29:33+00:00",
+      "missing": 0
+    },
+    "BVTfKyTwhWu7ZFgWJU8PpUBAYmoCJRU3cXxsE1rqpump": {
+      "symbol": "VAGINA",
+      "qty": 1878172.7253358692,
+      "entry_price": 2.6355403489925578e-05,
+      "last_price": 2.541669997608228e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T20:29:33+00:00",
+      "missing": 0
+    },
+    "ixaRy87PGs5ypSM1fcobz3XAtrRuS9SNLVxCNAwpump": {
+      "symbol": "VAGINA",
+      "qty": 10425784.745342318,
+      "entry_price": 4.747844043309444e-06,
+      "last_price": 4.569555722741524e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T20:29:33+00:00",
+      "missing": 0
+    },
+    "h6HUZ2k1BiNBSTjoWMBmpvv36oD4Vr4UdQSdsECpump": {
+      "symbol": "$BWIZ",
+      "qty": 1851320.1717594303,
+      "entry_price": 2.673767658079203e-05,
+      "last_price": 2.58971889367787e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T20:29:33+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T14:29:43+00:00",
-      "side": "buy",
-      "symbol": "nevergoon",
-      "address": "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
-      "price": 1.4145333040079812e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T14:29:43+00:00",
-      "side": "buy",
-      "symbol": "DOGE",
-      "address": "Fjh3MUEjp927ez5jKQEP1LwmSZyVqYohaZqGNP8Cpump",
-      "price": 8.505674895017852e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T14:29:43+00:00",
-      "side": "buy",
-      "symbol": "$ABYSS",
-      "address": "TVeb3tbu84ohXStaKEvLXp4RWrBzZskoyA6wNhFpump",
-      "price": 9.778544795012732e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T15:00:05+00:00",
-      "side": "sell",
-      "symbol": "nevergoon",
-      "address": "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
-      "price": 5.248198093e-06,
-      "proceeds": 17.51,
-      "pnl_usd": -32.49,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T15:00:05+00:00",
-      "side": "sell",
-      "symbol": "DOGE",
-      "address": "Fjh3MUEjp927ez5jKQEP1LwmSZyVqYohaZqGNP8Cpump",
-      "price": 1.881106487e-06,
-      "proceeds": 1.05,
-      "pnl_usd": -48.95,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-25T15:00:05+00:00",
-      "side": "sell",
-      "symbol": "$ABYSS",
-      "address": "TVeb3tbu84ohXStaKEvLXp4RWrBzZskoyA6wNhFpump",
-      "price": 6.275490125e-06,
-      "proceeds": 30.3,
-      "pnl_usd": -19.7,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T15:00:05+00:00",
-      "side": "buy",
-      "symbol": "TEMPTATION",
-      "address": "2jMLCRq5mqDNdFaH2e67XfS4bsVgdkNSo56sf9v5pump",
-      "price": 9.019005086804773e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T15:00:05+00:00",
       "side": "buy",
@@ -4519,13 +4484,69 @@
       "address": "GfiibsARq3KSapjK3HYthoAHJU6Fc5gn5nV5iNWRpump",
       "price": 6.310074422531801e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T20:29:33+00:00",
+      "side": "sell",
+      "symbol": "X",
+      "address": "F3NJcHEnZMKxuQ8VS3u6syKkzxxaPREjbNSrDA3xpump",
+      "price": 2.786359445e-06,
+      "proceeds": 9.43,
+      "pnl_usd": -40.57,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T20:29:33+00:00",
+      "side": "sell",
+      "symbol": "RICK",
+      "address": "GfiibsARq3KSapjK3HYthoAHJU6Fc5gn5nV5iNWRpump",
+      "price": 4.587798607e-09,
+      "proceeds": 0.03,
+      "pnl_usd": -49.97,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-29T20:29:33+00:00",
+      "side": "buy",
+      "symbol": "VAGINA",
+      "address": "HyEHuuN7qywSuKwScMpP2uCq3RBbQhiWyTpf4mszpump",
+      "price": 5.598007305713329e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T20:29:33+00:00",
+      "side": "buy",
+      "symbol": "OZVAG",
+      "address": "wAenvnzTDm9MKFRwbjBzqqtizLXbQT8tHHMEcQbpump",
+      "price": 1.2728824915626187e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T20:29:33+00:00",
+      "side": "buy",
+      "symbol": "VAGINA",
+      "address": "BVTfKyTwhWu7ZFgWJU8PpUBAYmoCJRU3cXxsE1rqpump",
+      "price": 2.6355403489925578e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T20:29:33+00:00",
+      "side": "buy",
+      "symbol": "VAGINA",
+      "address": "ixaRy87PGs5ypSM1fcobz3XAtrRuS9SNLVxCNAwpump",
+      "price": 4.747844043309444e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T20:29:33+00:00",
+      "side": "buy",
+      "symbol": "$BWIZ",
+      "address": "h6HUZ2k1BiNBSTjoWMBmpvv36oD4Vr4UdQSdsECpump",
+      "price": 2.673767658079203e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T22:21:36+00:00",
-      "equity": 3461092.32
-    },
     {
       "date": "2026-10-07T22:41:16+00:00",
       "equity": 3461046.08
@@ -8521,6 +8542,10 @@
     {
       "date": "2026-10-29T19:50:48+00:00",
       "equity": 5878317.86
+    },
+    {
+      "date": "2026-10-29T20:29:33+00:00",
+      "equity": 5878220.54
     }
   ]
 }
