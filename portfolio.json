@@ -1,45 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5878745.74445372,
+  "cash": 5878708.119289215,
   "positions": {
-    "5XaurykjVBt4EJMyFCvmLp11hTZtg6Gqiqm5zNgVpump": {
-      "symbol": "TOKENIZER",
-      "qty": 4225344.861548309,
-      "entry_price": 1.1715020104148737e-05,
-      "last_price": 1.130516744678404e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T02:18:31+00:00",
-      "missing": 0
-    },
     "6kjss7CiQfnRwq321Hj313QRWeZM3Km6xm2XNyxNpump": {
       "symbol": "FERSPE",
       "qty": 6740615.277551064,
       "entry_price": 7.343543276361541e-06,
-      "last_price": 7.062539690457403e-06,
+      "last_price": 7.06253969e-06,
       "cost": 50.0,
       "entry_time": "2026-10-29T02:18:31+00:00",
+      "missing": 0
+    },
+    "6stDtsPuZszhswCrsNyxbVQFWkVL6WdzpH5rTrZMpump": {
+      "symbol": "tommie",
+      "qty": 1250361.950929956,
+      "entry_price": 3.9588536713856655e-05,
+      "last_price": 3.8305829365780276e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T03:07:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T04:10:11+00:00",
-      "side": "sell",
-      "symbol": "Marvin",
-      "address": "2Qm9Pgq23GNAdxZRpzb5WHCNxRNLMjeWSr6uULvwpump",
-      "price": 0.0003012215562,
-      "proceeds": 84.78,
-      "pnl_usd": 34.78,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-25T04:10:11+00:00",
-      "side": "buy",
-      "symbol": "CHILLMACCA",
-      "address": "2U917zKEN4GDT5m8UhkL9uHdDE12cFCESWGsZWgdpump",
-      "price": 4.678514767643843e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T04:10:11+00:00",
       "side": "buy",
@@ -4521,13 +4503,27 @@
       "address": "6kjss7CiQfnRwq321Hj313QRWeZM3Km6xm2XNyxNpump",
       "price": 7.343543276361541e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T03:07:13+00:00",
+      "side": "sell",
+      "symbol": "TOKENIZER",
+      "address": "5XaurykjVBt4EJMyFCvmLp11hTZtg6Gqiqm5zNgVpump",
+      "price": 3.066741652e-06,
+      "proceeds": 12.37,
+      "pnl_usd": -37.63,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T03:07:13+00:00",
+      "side": "buy",
+      "symbol": "tommie",
+      "address": "6stDtsPuZszhswCrsNyxbVQFWkVL6WdzpH5rTrZMpump",
+      "price": 3.9588536713856655e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T14:06:57+00:00",
-      "equity": 735535.55
-    },
     {
       "date": "2026-10-07T14:30:56+00:00",
       "equity": 1173646.24
@@ -8523,6 +8519,10 @@
     {
       "date": "2026-10-29T02:18:31+00:00",
       "equity": 5878841.12
+    },
+    {
+      "date": "2026-10-29T03:07:13+00:00",
+      "equity": 5878803.62
     }
   ]
 }
