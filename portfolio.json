@@ -1,108 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 5878784.473307611,
+  "cash": 5878847.814835657,
   "positions": {
-    "5V7uCv2XEUwVqFFMTDYXUmUyCQFLW7xAUov5r1N7pump": {
-      "symbol": "GLOVE",
-      "qty": 909780.8932482246,
-      "entry_price": 5.44087047412793e-05,
-      "last_price": 5.266959663080454e-05,
+    "2ai92iksjhp1HQSp96wnikWchJ5RUne161oaAt2Apump": {
+      "symbol": "$PADO",
+      "qty": 4294591.023356926,
+      "entry_price": 1.1526126639483276e-05,
+      "last_price": 1.1088552313047514e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-28T23:41:15+00:00",
-      "missing": 0
-    },
-    "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump": {
-      "symbol": "ㅤㅤㅤㅤ",
-      "qty": 8180412.468375133,
-      "entry_price": 6.051039625613417e-06,
-      "last_price": 5.826892406018771e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T23:41:15+00:00",
-      "missing": 0
-    },
-    "ERSUvZn1ARrN8pCuGnbAC8HoAgVdxB6bMtesX8Ypump": {
-      "symbol": "TESLA 2027",
-      "qty": 2399497.244012493,
-      "entry_price": 2.062932146453521e-05,
-      "last_price": 1.983678120502049e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T23:41:15+00:00",
-      "missing": 0
-    },
-    "8TaEY8jxEZ7CeXeJg6F7J1GboyYEgi2EnfPTLxeCpump": {
-      "symbol": "SOOTS",
-      "qty": 2569646.806419909,
-      "entry_price": 1.9263347739592484e-05,
-      "last_price": 1.8640325057808657e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T23:41:15+00:00",
-      "missing": 0
-    },
-    "8tBg88U3wUmFnzLGiVWLEZmLkCuFJadgCjmcJfKpump": {
-      "symbol": "SOOTS",
-      "qty": 2589931.7908377643,
-      "entry_price": 1.9112472450090378e-05,
-      "last_price": 1.8476792010368866e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-28T23:41:15+00:00",
+      "entry_time": "2026-10-29T00:16:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T01:18:41+00:00",
-      "side": "sell",
-      "symbol": "Clump",
-      "address": "Ce39h753v1QvHgSH2iZ6U16SF7ZDCqSaKG7N1Dohpump",
-      "price": 0.0006610625964,
-      "proceeds": 175.58,
-      "pnl_usd": 125.58,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-25T01:52:39+00:00",
-      "side": "buy",
-      "symbol": "LMAO",
-      "address": "32HXjWFEPGt1UmHgnKgf64DBYaegkX5jFYsAfZdKpump",
-      "price": 9.245289673788148e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T02:22:36+00:00",
-      "side": "sell",
-      "symbol": "LMAO",
-      "address": "32HXjWFEPGt1UmHgnKgf64DBYaegkX5jFYsAfZdKpump",
-      "price": 8.121258068e-06,
-      "proceeds": 41.14,
-      "pnl_usd": -8.86,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T02:22:37+00:00",
-      "side": "buy",
-      "symbol": "SXSI",
-      "address": "ANj79q9YCePjbZEGzDgpbgWoNR8hCPJ89QGpi61Dpump",
-      "price": 8.672435517370197e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T02:22:37+00:00",
-      "side": "buy",
-      "symbol": "cap",
-      "address": "DQDu837TRSWdrdgAzXZtWQWmGtsbU4RMG7oPPKMqpump",
-      "price": 1.803776863231908e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T02:59:17+00:00",
-      "side": "sell",
-      "symbol": "SXSI",
-      "address": "ANj79q9YCePjbZEGzDgpbgWoNR8hCPJ89QGpi61Dpump",
-      "price": 9.549532267e-06,
-      "proceeds": 51.4,
-      "pnl_usd": 1.4,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-25T02:59:18+00:00",
       "side": "buy",
@@ -4544,13 +4454,67 @@
       "address": "8tBg88U3wUmFnzLGiVWLEZmLkCuFJadgCjmcJfKpump",
       "price": 1.9112472450090378e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T00:16:34+00:00",
+      "side": "sell",
+      "symbol": "GLOVE",
+      "address": "5V7uCv2XEUwVqFFMTDYXUmUyCQFLW7xAUov5r1N7pump",
+      "price": 2.141887744e-06,
+      "proceeds": 1.87,
+      "pnl_usd": -48.13,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-29T00:16:34+00:00",
+      "side": "sell",
+      "symbol": "ㅤㅤㅤㅤ",
+      "address": "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
+      "price": 2.872883086e-06,
+      "proceeds": 22.33,
+      "pnl_usd": -27.67,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T00:16:34+00:00",
+      "side": "sell",
+      "symbol": "TESLA 2027",
+      "address": "ERSUvZn1ARrN8pCuGnbAC8HoAgVdxB6bMtesX8Ypump",
+      "price": 1.983678121e-05,
+      "proceeds": 23.56,
+      "pnl_usd": -26.44,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-29T00:16:34+00:00",
+      "side": "sell",
+      "symbol": "SOOTS",
+      "address": "8TaEY8jxEZ7CeXeJg6F7J1GboyYEgi2EnfPTLxeCpump",
+      "price": 1.703194196e-05,
+      "proceeds": 41.9,
+      "pnl_usd": -8.1,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T00:16:34+00:00",
+      "side": "sell",
+      "symbol": "SOOTS",
+      "address": "8tBg88U3wUmFnzLGiVWLEZmLkCuFJadgCjmcJfKpump",
+      "price": 1.847679201e-05,
+      "proceeds": 23.69,
+      "pnl_usd": -26.31,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-29T00:16:34+00:00",
+      "side": "buy",
+      "symbol": "$PADO",
+      "address": "2ai92iksjhp1HQSp96wnikWchJ5RUne161oaAt2Apump",
+      "price": 1.1526126639483276e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T13:02:57+00:00",
-      "equity": 735703.74
-    },
     {
       "date": "2026-10-07T13:27:59+00:00",
       "equity": 735636.31
@@ -8546,6 +8510,10 @@
     {
       "date": "2026-10-28T23:41:15+00:00",
       "equity": 5879023.41
+    },
+    {
+      "date": "2026-10-29T00:16:34+00:00",
+      "equity": 5878895.44
     }
   ]
 }
