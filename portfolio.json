@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5878315.384818287,
+  "cash": 5878222.359192422,
   "positions": {
-    "4noPNvrJ7Q5T6T4KdJ3JsbS3tJ1DLnSHjJhEjNyLpump": {
-      "symbol": "PAGER",
-      "qty": 2576170.9748114287,
-      "entry_price": 1.921456319630467e-05,
-      "last_price": 1.8502852294261154e-05,
+    "F3NJcHEnZMKxuQ8VS3u6syKkzxxaPREjbNSrDA3xpump": {
+      "symbol": "X",
+      "qty": 3540162.693746433,
+      "entry_price": 1.3982408234355987e-05,
+      "last_price": 1.3458115964471792e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-29T19:01:10+00:00",
+      "entry_time": "2026-10-29T19:50:48+00:00",
+      "missing": 0
+    },
+    "GfiibsARq3KSapjK3HYthoAHJU6Fc5gn5nV5iNWRpump": {
+      "symbol": "RICK",
+      "qty": 7844598.444551948,
+      "entry_price": 6.310074422531801e-06,
+      "last_price": 6.101111534776319e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T19:50:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T14:00:00+00:00",
-      "side": "sell",
-      "symbol": "pussyinbio",
-      "address": "Bj1TYZBLFMyGTNVGDkTGsLPVtyC7KpcdA6xHVBt2pump",
-      "price": 6.431553448e-06,
-      "proceeds": 21.66,
-      "pnl_usd": -28.34,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T14:00:00+00:00",
-      "side": "buy",
-      "symbol": "TXP",
-      "address": "GHzwWBzVboyhu1Wb8YkmUy3MfXz3koHrV1iA4Qikpump",
-      "price": 1.0953320076033674e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T14:29:43+00:00",
-      "side": "sell",
-      "symbol": "TXP",
-      "address": "GHzwWBzVboyhu1Wb8YkmUy3MfXz3koHrV1iA4Qikpump",
-      "price": 2.505748963e-06,
-      "proceeds": 10.79,
-      "pnl_usd": -39.21,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-25T14:29:43+00:00",
       "side": "buy",
@@ -4512,13 +4493,35 @@
       "address": "4noPNvrJ7Q5T6T4KdJ3JsbS3tJ1DLnSHjJhEjNyLpump",
       "price": 1.921456319630467e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T19:50:48+00:00",
+      "side": "sell",
+      "symbol": "PAGER",
+      "address": "4noPNvrJ7Q5T6T4KdJ3JsbS3tJ1DLnSHjJhEjNyLpump",
+      "price": 2.828659722e-06,
+      "proceeds": 6.97,
+      "pnl_usd": -43.03,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T19:50:48+00:00",
+      "side": "buy",
+      "symbol": "X",
+      "address": "F3NJcHEnZMKxuQ8VS3u6syKkzxxaPREjbNSrDA3xpump",
+      "price": 1.3982408234355987e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T19:50:48+00:00",
+      "side": "buy",
+      "symbol": "RICK",
+      "address": "GfiibsARq3KSapjK3HYthoAHJU6Fc5gn5nV5iNWRpump",
+      "price": 6.310074422531801e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T22:01:26+00:00",
-      "equity": 3461140.67
-    },
     {
       "date": "2026-10-07T22:21:36+00:00",
       "equity": 3461092.32
@@ -8514,6 +8517,10 @@
     {
       "date": "2026-10-29T19:01:10+00:00",
       "equity": 5878363.05
+    },
+    {
+      "date": "2026-10-29T19:50:48+00:00",
+      "equity": 5878317.86
     }
   ]
 }
