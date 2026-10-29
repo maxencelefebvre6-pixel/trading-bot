@@ -1,44 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 5878073.018572378,
-  "positions": {},
+  "cash": 5877873.018572378,
+  "positions": {
+    "7ihhqyC3RA2yXyARSLXBBpJp9siYyeC1ff9vYjkBpump": {
+      "symbol": "ZI",
+      "qty": 571346.5258374121,
+      "entry_price": 8.6637439384879e-05,
+      "last_price": 8.398977727039553e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T23:21:33+00:00",
+      "missing": 0
+    },
+    "12U9LSGSXCu7HmcDqJmPV2VRvQLUHrtPq58jkJS8pump": {
+      "symbol": "ZERODAY",
+      "qty": 7524616.927914613,
+      "entry_price": 6.578407974014769e-06,
+      "last_price": 6.331405947395398e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T23:21:33+00:00",
+      "missing": 0
+    },
+    "Ez1UPAtVQYYRxbwpedesCiCift28iQbahfocHU3opump": {
+      "symbol": "beer",
+      "qty": 4243136.67298022,
+      "entry_price": 1.1665898087895683e-05,
+      "last_price": 1.1235062883792354e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T23:21:33+00:00",
+      "missing": 0
+    },
+    "6r1vzyBUCTgZeoBV4rrQbKA77W7f94DS8e861xsYpump": {
+      "symbol": "NVDA",
+      "qty": 3744981.583199413,
+      "entry_price": 1.321768849867378e-05,
+      "last_price": 1.277086661450367e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T23:21:33+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-25T15:30:23+00:00",
-      "side": "buy",
-      "symbol": "SI",
-      "address": "3EFodgJriYP9bBASQviEe2k645kXA4yELSNQKzCMpump",
-      "price": 1.1668122049545094e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T15:30:23+00:00",
-      "side": "buy",
-      "symbol": "Pawa",
-      "address": "RRfQrBp2wGYxSQodwAzcKTW3mxfS5DshuyrqUDRpump",
-      "price": 4.980609375295733e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T16:01:23+00:00",
-      "side": "sell",
-      "symbol": "SI",
-      "address": "3EFodgJriYP9bBASQviEe2k645kXA4yELSNQKzCMpump",
-      "price": 3.57319889e-06,
-      "proceeds": 14.46,
-      "pnl_usd": -35.54,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T16:01:23+00:00",
-      "side": "sell",
-      "symbol": "Pawa",
-      "address": "RRfQrBp2wGYxSQodwAzcKTW3mxfS5DshuyrqUDRpump",
-      "price": 2.632192076e-06,
-      "proceeds": 24.71,
-      "pnl_usd": -25.29,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-25T16:33:12+00:00",
       "side": "buy",
@@ -4502,13 +4503,41 @@
       "proceeds": 45.96,
       "pnl_usd": -4.04,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-29T23:21:33+00:00",
+      "side": "buy",
+      "symbol": "ZI",
+      "address": "7ihhqyC3RA2yXyARSLXBBpJp9siYyeC1ff9vYjkBpump",
+      "price": 8.6637439384879e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T23:21:33+00:00",
+      "side": "buy",
+      "symbol": "ZERODAY",
+      "address": "12U9LSGSXCu7HmcDqJmPV2VRvQLUHrtPq58jkJS8pump",
+      "price": 6.578407974014769e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T23:21:33+00:00",
+      "side": "buy",
+      "symbol": "beer",
+      "address": "Ez1UPAtVQYYRxbwpedesCiCift28iQbahfocHU3opump",
+      "price": 1.1665898087895683e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T23:21:33+00:00",
+      "side": "buy",
+      "symbol": "NVDA",
+      "address": "6r1vzyBUCTgZeoBV4rrQbKA77W7f94DS8e861xsYpump",
+      "price": 1.321768849867378e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T23:34:07+00:00",
-      "equity": 3460969.15
-    },
     {
       "date": "2026-10-07T23:50:47+00:00",
       "equity": 3460925.06
@@ -8504,6 +8533,10 @@
     {
       "date": "2026-10-29T22:44:28+00:00",
       "equity": 5878073.02
+    },
+    {
+      "date": "2026-10-29T23:21:33+00:00",
+      "equity": 5878064.15
     }
   ]
 }
