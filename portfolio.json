@@ -1,66 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 5878347.248007545,
+  "cash": 5878328.689417643,
   "positions": {
-    "9Pp6nueZYYXxkgFkvNNyDJoiDsHDV7CxysdooZvQpump": {
-      "symbol": "DEGENS",
-      "qty": 4739141.521785124,
-      "entry_price": 1.0444929692953019e-05,
-      "last_price": 1.006532939559834e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T16:23:22+00:00",
-      "missing": 0
-    },
-    "7vybDwNgoeXgigXrEFt4qJN5L84vfJsRM3WSxYXmpump": {
-      "symbol": "Matt",
-      "qty": 6060236.067485218,
-      "entry_price": 8.167998647046225e-06,
-      "last_price": 7.862424927298775e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T16:23:22+00:00",
-      "missing": 0
-    },
     "2DWLWFDATsBzMRmRxLv7umvcN2o9KuAnbnq2teswpump": {
       "symbol": "wApe",
       "qty": 4524012.748005307,
       "entry_price": 1.0941613730382427e-05,
-      "last_price": 1.0545782970962152e-05,
+      "last_price": 1.054578297e-05,
       "cost": 50.0,
       "entry_time": "2026-10-29T16:23:22+00:00",
+      "missing": 0
+    },
+    "BdCBEWMoJYoJPgKdyH7Nv1cn34c3N3JZXAz8AKjvpump": {
+      "symbol": "Balmaze",
+      "qty": 3196.9382972818603,
+      "entry_price": 0.015483564397250486,
+      "last_price": 0.015026033549451227,
+      "cost": 50.0,
+      "entry_time": "2026-10-29T17:19:50+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T12:55:35+00:00",
-      "side": "sell",
-      "symbol": "DOGE",
-      "address": "i87uPGAFF85wPD7QNZGs9deoRMBLvGooMrZrycVpump",
-      "price": 2.821206554e-06,
-      "proceeds": 14.71,
-      "pnl_usd": -35.29,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T12:55:35+00:00",
-      "side": "sell",
-      "symbol": "Rockstar",
-      "address": "86HCV8Kv6sJo7qhP9iLBpUASfsYWjWHzbmAon6Hepump",
-      "price": 1.786830356e-06,
-      "proceeds": 0.16,
-      "pnl_usd": -49.84,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-25T12:55:35+00:00",
-      "side": "sell",
-      "symbol": "BABA",
-      "address": "DvXyYPSRSeRN8VQXyXYmfcYsdVtGQPp1MAeHu7sUpump",
-      "price": 4.088013546e-05,
-      "proceeds": 67.05,
-      "pnl_usd": 17.05,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-25T12:55:35+00:00",
       "side": "buy",
@@ -4530,13 +4491,37 @@
       "address": "2DWLWFDATsBzMRmRxLv7umvcN2o9KuAnbnq2teswpump",
       "price": 1.0941613730382427e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-29T17:19:50+00:00",
+      "side": "sell",
+      "symbol": "DEGENS",
+      "address": "9Pp6nueZYYXxkgFkvNNyDJoiDsHDV7CxysdooZvQpump",
+      "price": 2.884314141e-06,
+      "proceeds": 13.05,
+      "pnl_usd": -36.95,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T17:19:50+00:00",
+      "side": "sell",
+      "symbol": "Matt",
+      "address": "7vybDwNgoeXgigXrEFt4qJN5L84vfJsRM3WSxYXmpump",
+      "price": 3.1861855e-06,
+      "proceeds": 18.4,
+      "pnl_usd": -31.6,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-29T17:19:50+00:00",
+      "side": "buy",
+      "symbol": "Balmaze",
+      "address": "BdCBEWMoJYoJPgKdyH7Nv1cn34c3N3JZXAz8AKjvpump",
+      "price": 0.015483564397250486,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-07T21:03:53+00:00",
-      "equity": 3461394.13
-    },
     {
       "date": "2026-10-07T21:25:51+00:00",
       "equity": 3461349.4
@@ -8532,6 +8517,10 @@
     {
       "date": "2026-10-29T16:23:22+00:00",
       "equity": 5878490.31
+    },
+    {
+      "date": "2026-10-29T17:19:50+00:00",
+      "equity": 5878424.44
     }
   ]
 }
