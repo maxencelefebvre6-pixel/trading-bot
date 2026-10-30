@@ -1,46 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 6532500.274696487,
+  "cash": 6532350.274696487,
   "positions": {
     "bBzFgxYU8Kt5UUx1nZinnNqKYNP9Qim5vaW1xBppump": {
       "symbol": "100x",
       "qty": 3336046.21450336,
       "entry_price": 1.4837923942660101e-05,
-      "last_price": 1.433537617926211e-05,
+      "last_price": 1.432995942e-05,
       "cost": 50.0,
       "entry_time": "2026-10-30T22:37:17+00:00",
+      "missing": 0
+    },
+    "3dyKznwS44LJeJRSLf74GT5piyNKKqWYYyXcDcixpump": {
+      "symbol": "Zazu",
+      "qty": 2908966.0267518805,
+      "entry_price": 1.7016355483281857e-05,
+      "last_price": 1.6386081025570905e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T23:14:40+00:00",
+      "missing": 0
+    },
+    "3k1CKGdQn1cz4BVRt8N4RoyMtBpncUBxv91qAuvupump": {
+      "symbol": "wGROKBOT",
+      "qty": 4380184.982105103,
+      "entry_price": 1.1300892588378872e-05,
+      "last_price": 1.0942742562441601e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T23:14:40+00:00",
+      "missing": 0
+    },
+    "DwvvhAcNw4YQhmM6numVrF6Fjp8cgUuiALahBUc7pump": {
+      "symbol": "ROMFPS",
+      "qty": 842.6537191149547,
+      "entry_price": 0.05874299119214736,
+      "last_price": 0.057005764636341084,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T23:14:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T07:15:59+00:00",
-      "side": "buy",
-      "symbol": "FOMOCAT",
-      "address": "6zMNXXLtraGPe2qK2LjcQL6Nqy8anqU6ek2ADN6dpump",
-      "price": 9.01123550113175e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T08:09:31+00:00",
-      "side": "sell",
-      "symbol": "Robinhood",
-      "address": "12sgEXCPheQYMK2MXrq19XaX3MPZndZc3nBpJZeipump",
-      "price": 1.800917816e-06,
-      "proceeds": 0.35,
-      "pnl_usd": -49.65,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-26T08:09:31+00:00",
-      "side": "sell",
-      "symbol": "FOMOCAT",
-      "address": "6zMNXXLtraGPe2qK2LjcQL6Nqy8anqU6ek2ADN6dpump",
-      "price": 2.236198225e-06,
-      "proceeds": 11.7,
-      "pnl_usd": -38.3,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-26T08:09:31+00:00",
       "side": "buy",
@@ -4512,13 +4511,33 @@
       "address": "bBzFgxYU8Kt5UUx1nZinnNqKYNP9Qim5vaW1xBppump",
       "price": 1.4837923942660101e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T23:14:40+00:00",
+      "side": "buy",
+      "symbol": "Zazu",
+      "address": "3dyKznwS44LJeJRSLf74GT5piyNKKqWYYyXcDcixpump",
+      "price": 1.7016355483281857e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T23:14:40+00:00",
+      "side": "buy",
+      "symbol": "wGROKBOT",
+      "address": "3k1CKGdQn1cz4BVRt8N4RoyMtBpncUBxv91qAuvupump",
+      "price": 1.1300892588378872e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T23:14:40+00:00",
+      "side": "buy",
+      "symbol": "ROMFPS",
+      "address": "DwvvhAcNw4YQhmM6numVrF6Fjp8cgUuiALahBUc7pump",
+      "price": 0.05874299119214736,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T09:55:22+00:00",
-      "equity": 3460776.34
-    },
     {
       "date": "2026-10-08T10:18:27+00:00",
       "equity": 3460765.33
@@ -8514,6 +8533,10 @@
     {
       "date": "2026-10-30T22:37:17+00:00",
       "equity": 6532548.1
+    },
+    {
+      "date": "2026-10-30T23:14:40+00:00",
+      "equity": 6532541.71
     }
   ]
 }
