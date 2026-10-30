@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6054193.96182553,
-  "positions": {
-    "5TpYLbFEehGr8hH4sg9Et6tuzFucKbf6bcWymXE9pump": {
-      "symbol": "SAFU",
-      "qty": 2761716.871274597,
-      "entry_price": 1.792363312650315e-05,
-      "last_price": 1.7278887162517365e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T09:24:57+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6054201.140926892,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-25T21:55:59+00:00",
-      "side": "buy",
-      "symbol": "uinhim",
-      "address": "DX2UR7Bk6Ne6JcU24WA8SkMfGfqKpDh5uxDsBmeTpump",
-      "price": 7.834874276538784e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T22:21:30+00:00",
       "side": "sell",
@@ -4516,13 +4498,19 @@
       "address": "5TpYLbFEehGr8hH4sg9Et6tuzFucKbf6bcWymXE9pump",
       "price": 1.792363312650315e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T10:19:20+00:00",
+      "side": "sell",
+      "symbol": "SAFU",
+      "address": "5TpYLbFEehGr8hH4sg9Et6tuzFucKbf6bcWymXE9pump",
+      "price": 2.716742073e-06,
+      "proceeds": 7.18,
+      "pnl_usd": -42.82,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T04:02:19+00:00",
-      "equity": 3461349.14
-    },
     {
       "date": "2026-10-08T04:25:11+00:00",
       "equity": 3461299.3
@@ -8518,6 +8506,10 @@
     {
       "date": "2026-10-30T09:24:57+00:00",
       "equity": 6054241.68
+    },
+    {
+      "date": "2026-10-30T10:19:20+00:00",
+      "equity": 6054201.14
     }
   ]
 }
