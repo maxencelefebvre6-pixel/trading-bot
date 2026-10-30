@@ -1,61 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6054048.07850413,
+  "cash": 6053972.966411373,
   "positions": {
-    "5pfCb3DdkYk7Pi6TFK83YY4BheJk9M9KJxZAzUJ7pump": {
-      "symbol": "Acat",
-      "qty": 2637887.8853363083,
-      "entry_price": 1.8765012825285095e-05,
-      "last_price": 1.8091905928466426e-05,
+    "2c1qFNrro8wFccdUCoh3z5e7BRPwQVfUKEmscNdppump": {
+      "symbol": "SPIRITS",
+      "qty": 4881907.630606619,
+      "entry_price": 1.0139479020386381e-05,
+      "last_price": 9.755927333829488e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-30T12:24:11+00:00",
+      "entry_time": "2026-10-30T13:31:35+00:00",
       "missing": 0
     },
-    "7bPomKxxAvdh3Ur1Q9PLWaFpPAExac3ycpiHGXfJpump": {
-      "symbol": "SI",
-      "qty": 6045464.797129652,
-      "entry_price": 8.187956039956147e-06,
-      "last_price": 7.880014014751193e-06,
+    "2R1fzYc7rxVcXnmcdoBXunxS8TbQF6vEGnsqNYpopump": {
+      "symbol": "SKELLY",
+      "qty": 2874646.7692743414,
+      "entry_price": 1.7219506942237458e-05,
+      "last_price": 1.6606582876573715e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T12:24:11+00:00",
+      "entry_time": "2026-10-30T13:31:35+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T22:48:36+00:00",
-      "side": "buy",
-      "symbol": "민수",
-      "address": "GcnYhbxdVAZimnMrB4hrUUuq4LzdsaBiN9DGQLotpump",
-      "price": 8.508397777220093e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T23:09:39+00:00",
-      "side": "sell",
-      "symbol": "민수",
-      "address": "GcnYhbxdVAZimnMrB4hrUUuq4LzdsaBiN9DGQLotpump",
-      "price": 2.841563664e-06,
-      "proceeds": 15.76,
-      "pnl_usd": -34.24,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T23:09:39+00:00",
-      "side": "buy",
-      "symbol": "maga",
-      "address": "Ax2MqDBZhFkDR54cT96xoyXHNDuZUuadWstPoBdMpump",
-      "price": 1.5490642325802907e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T23:09:39+00:00",
-      "side": "buy",
-      "symbol": "SOL",
-      "address": "PqBDz4yLPwbkUq9nS2YGyedzBTFZDPB6kQqvc6mpump",
-      "price": 1.4214949983803056e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T23:38:31+00:00",
       "side": "sell",
@@ -4519,13 +4485,45 @@
       "address": "7bPomKxxAvdh3Ur1Q9PLWaFpPAExac3ycpiHGXfJpump",
       "price": 8.187956039956147e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T13:31:35+00:00",
+      "side": "sell",
+      "symbol": "Acat",
+      "address": "5pfCb3DdkYk7Pi6TFK83YY4BheJk9M9KJxZAzUJ7pump",
+      "price": 2.698048023e-06,
+      "proceeds": 6.81,
+      "pnl_usd": -43.19,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-30T13:31:35+00:00",
+      "side": "sell",
+      "symbol": "SI",
+      "address": "7bPomKxxAvdh3Ur1Q9PLWaFpPAExac3ycpiHGXfJpump",
+      "price": 3.13894822e-06,
+      "proceeds": 18.08,
+      "pnl_usd": -31.92,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-30T13:31:35+00:00",
+      "side": "buy",
+      "symbol": "SPIRITS",
+      "address": "2c1qFNrro8wFccdUCoh3z5e7BRPwQVfUKEmscNdppump",
+      "price": 1.0139479020386381e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T13:31:35+00:00",
+      "side": "buy",
+      "symbol": "SKELLY",
+      "address": "2R1fzYc7rxVcXnmcdoBXunxS8TbQF6vEGnsqNYpopump",
+      "price": 1.7219506942237458e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T05:25:24+00:00",
-      "equity": 3461168.76
-    },
     {
       "date": "2026-10-08T05:47:08+00:00",
       "equity": 3461060.73
@@ -8521,6 +8519,10 @@
     {
       "date": "2026-10-30T12:24:11+00:00",
       "equity": 6054143.44
+    },
+    {
+      "date": "2026-10-30T13:31:35+00:00",
+      "equity": 6054068.33
     }
   ]
 }
