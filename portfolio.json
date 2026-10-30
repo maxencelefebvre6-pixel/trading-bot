@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6054532.783842282,
+  "cash": 6054478.132839331,
   "positions": {
-    "9fDLetQS6U7V7aYDm6muk8BDnsEyEyvp8Y4RHSHopump": {
-      "symbol": "HANS",
-      "qty": 6306666.673254162,
-      "entry_price": 7.848837201103988e-06,
-      "last_price": 7.5544207e-06,
+    "5XvNpVZ5ezqMPmhdmorYYpbidSwnni9PAUgC2Lijpump": {
+      "symbol": "MIP",
+      "qty": 3895432.0749055147,
+      "entry_price": 1.2707191153166403e-05,
+      "last_price": 1.2227662318823694e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-29T23:59:36+00:00",
+      "entry_time": "2026-10-30T01:51:11+00:00",
+      "missing": 0
+    },
+    "91fBfFGRG5Ry6ty4A1Q23hv1eEawsTu7rh2mvczRpump": {
+      "symbol": "CONSOLE",
+      "qty": 7958.552982162679,
+      "entry_price": 0.006219723624500987,
+      "last_price": 0.006037087002966619,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T01:51:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T17:05:14+00:00",
-      "side": "buy",
-      "symbol": "MOON",
-      "address": "4EbxnYttmS47iZAVd5FASrkh7Zq89cxagBydiZWppump",
-      "price": 0.00013141169635158174,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T17:34:40+00:00",
-      "side": "sell",
-      "symbol": "GNB",
-      "address": "7RqwT618RSzawFRapT2GxcTynJrRAuPxFZRDkn3dpump",
-      "price": 0.0001941866865,
-      "proceeds": 45.12,
-      "pnl_usd": -4.88,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T17:34:40+00:00",
-      "side": "sell",
-      "symbol": "GME",
-      "address": "6Sz9n9AqsGrGEVcVbf7VHipaeuPgVD6FHSEi81kdpump",
-      "price": 1.126588268e-06,
-      "proceeds": 4.16,
-      "pnl_usd": -45.84,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-25T17:34:41+00:00",
       "side": "buy",
@@ -4514,13 +4495,35 @@
       "proceeds": 45.7,
       "pnl_usd": -4.3,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-10-30T01:51:10+00:00",
+      "side": "sell",
+      "symbol": "HANS",
+      "address": "9fDLetQS6U7V7aYDm6muk8BDnsEyEyvp8Y4RHSHopump",
+      "price": 7.5544207e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-30T01:51:11+00:00",
+      "side": "buy",
+      "symbol": "MIP",
+      "address": "5XvNpVZ5ezqMPmhdmorYYpbidSwnni9PAUgC2Lijpump",
+      "price": 1.2707191153166403e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T01:51:11+00:00",
+      "side": "buy",
+      "symbol": "CONSOLE",
+      "address": "91fBfFGRG5Ry6ty4A1Q23hv1eEawsTu7rh2mvczRpump",
+      "price": 0.006219723624500987,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T00:39:41+00:00",
-      "equity": 3461619.52
-    },
     {
       "date": "2026-10-08T01:03:38+00:00",
       "equity": 3461610.74
@@ -8516,6 +8519,10 @@
     {
       "date": "2026-10-30T00:53:49+00:00",
       "equity": 6054580.43
+    },
+    {
+      "date": "2026-10-30T01:51:11+00:00",
+      "equity": 6054573.81
     }
   ]
 }
