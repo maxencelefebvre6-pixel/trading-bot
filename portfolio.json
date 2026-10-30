@@ -1,18 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6054201.140926892,
-  "positions": {},
+  "cash": 6054151.140926892,
+  "positions": {
+    "5yodPm7MPPLWEcvHwVJAYjTqu2n5A1KSEwRJUpt8pump": {
+      "symbol": "Kim",
+      "qty": 4378864.651283509,
+      "entry_price": 1.1304300073648274e-05,
+      "last_price": 1.0882561897080529e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T11:04:45+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-25T22:21:30+00:00",
-      "side": "sell",
-      "symbol": "Pimp",
-      "address": "71anv4fi2vgS6cYJrgg5UQLhqb1J3sU3aiGUvc94pump",
-      "price": 1.606421782e-05,
-      "proceeds": 45.79,
-      "pnl_usd": -4.21,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-25T22:21:30+00:00",
       "side": "sell",
@@ -4508,13 +4508,17 @@
       "proceeds": 7.18,
       "pnl_usd": -42.82,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-30T11:04:45+00:00",
+      "side": "buy",
+      "symbol": "Kim",
+      "address": "5yodPm7MPPLWEcvHwVJAYjTqu2n5A1KSEwRJUpt8pump",
+      "price": 1.1304300073648274e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T04:25:11+00:00",
-      "equity": 3461299.3
-    },
     {
       "date": "2026-10-08T04:47:47+00:00",
       "equity": 3461265.93
@@ -8510,6 +8514,10 @@
     {
       "date": "2026-10-30T10:19:20+00:00",
       "equity": 6054201.14
+    },
+    {
+      "date": "2026-10-30T11:04:45+00:00",
+      "equity": 6054198.79
     }
   ]
 }
