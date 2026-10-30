@@ -1,48 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6054130.350020982,
+  "cash": 6054048.07850413,
   "positions": {
-    "2fSVp8v6hT1icqjA7F13vagXSwuF5wZCQySTwPGnpump": {
-      "symbol": "GAYAF",
-      "qty": 3125519.375574166,
-      "entry_price": 1.5837367826557377e-05,
-      "last_price": 1.5313630579588847e-05,
+    "5pfCb3DdkYk7Pi6TFK83YY4BheJk9M9KJxZAzUJ7pump": {
+      "symbol": "Acat",
+      "qty": 2637887.8853363083,
+      "entry_price": 1.8765012825285095e-05,
+      "last_price": 1.8091905928466426e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T11:45:14+00:00",
+      "entry_time": "2026-10-30T12:24:11+00:00",
+      "missing": 0
+    },
+    "7bPomKxxAvdh3Ur1Q9PLWaFpPAExac3ycpiHGXfJpump": {
+      "symbol": "SI",
+      "qty": 6045464.797129652,
+      "entry_price": 8.187956039956147e-06,
+      "last_price": 7.880014014751193e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T12:24:11+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T22:48:36+00:00",
-      "side": "sell",
-      "symbol": "Lega",
-      "address": "BBVp72uZ2BZ3z8r8NfrdMtpqjvSQoEXQWAGScucapump",
-      "price": 1.271053811e-05,
-      "proceeds": 45.71,
-      "pnl_usd": -4.29,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T22:48:36+00:00",
-      "side": "sell",
-      "symbol": "GTA",
-      "address": "FUqJKjhSLegrkGLMJwWnUo3EFtWLW3KXygjs2fsWpump",
-      "price": 1.028560777e-05,
-      "proceeds": 44.73,
-      "pnl_usd": -5.27,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T22:48:36+00:00",
-      "side": "sell",
-      "symbol": "Tao",
-      "address": "9Sxpavci2mgvRkPGpE5tj3wg4okMPzTADzw9mTs9pump",
-      "price": 7.977240032e-06,
-      "proceeds": 45.44,
-      "pnl_usd": -4.56,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-25T22:48:36+00:00",
       "side": "buy",
@@ -4514,13 +4493,35 @@
       "address": "2fSVp8v6hT1icqjA7F13vagXSwuF5wZCQySTwPGnpump",
       "price": 1.5837367826557377e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T12:24:11+00:00",
+      "side": "sell",
+      "symbol": "GAYAF",
+      "address": "2fSVp8v6hT1icqjA7F13vagXSwuF5wZCQySTwPGnpump",
+      "price": 5.931432862e-06,
+      "proceeds": 17.73,
+      "pnl_usd": -32.27,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-30T12:24:11+00:00",
+      "side": "buy",
+      "symbol": "Acat",
+      "address": "5pfCb3DdkYk7Pi6TFK83YY4BheJk9M9KJxZAzUJ7pump",
+      "price": 1.8765012825285095e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T12:24:11+00:00",
+      "side": "buy",
+      "symbol": "SI",
+      "address": "7bPomKxxAvdh3Ur1Q9PLWaFpPAExac3ycpiHGXfJpump",
+      "price": 8.187956039956147e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T05:02:45+00:00",
-      "equity": 3461182.08
-    },
     {
       "date": "2026-10-08T05:25:24+00:00",
       "equity": 3461168.76
@@ -8516,6 +8517,10 @@
     {
       "date": "2026-10-30T11:45:14+00:00",
       "equity": 6054178.21
+    },
+    {
+      "date": "2026-10-30T12:24:11+00:00",
+      "equity": 6054143.44
     }
   ]
 }
