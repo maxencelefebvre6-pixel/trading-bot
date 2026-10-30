@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6053848.6655596625,
+  "cash": 6532282.785224295,
   "positions": {
-    "3pxzs3edqTzNF56AXE1cdDuKJEdCiVdSop5shmSppump": {
-      "symbol": "holderinu",
-      "qty": 4709524.289107984,
-      "entry_price": 1.0510615714305114e-05,
-      "last_price": 1.0177486800580024e-05,
+    "FJFdSM7uL3q1eW37ErZCNZFZQ7Nko2wcGsdCZBxYpump": {
+      "symbol": "$PAUSE",
+      "qty": 1328407.6617130768,
+      "entry_price": 3.7262657711689355e-05,
+      "last_price": 3.608012318116406e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T16:17:13+00:00",
+      "entry_time": "2026-10-30T17:04:30+00:00",
+      "missing": 0
+    },
+    "CmacStwtJuNPWXm8PE6q8DS5t8bvsevU5sEXcpmQpump": {
+      "symbol": "$CELL",
+      "qty": 6095323.589351516,
+      "entry_price": 8.120979842067142e-06,
+      "last_price": 7.821524659192178e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T17:04:30+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T01:41:11+00:00",
-      "side": "sell",
-      "symbol": "Bloin",
-      "address": "51sawShDTkKS8HTj6KaoQToeu3oi7Y8FDvjHyiRApump",
-      "price": 7.060735275e-06,
-      "proceeds": 45.35,
-      "pnl_usd": -4.65,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-26T01:41:11+00:00",
-      "side": "buy",
-      "symbol": "trust",
-      "address": "GkqA9nEjhXHRVgL4jiUWLGC7Q1yid6vcfftfV6K2pump",
-      "price": 1.7226854585628917e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T01:41:11+00:00",
-      "side": "buy",
-      "symbol": "Vancepc",
-      "address": "8Pkk8nZXoL9Zss2rF4ceBoMDrGRbJQfcrUDvRiAwpump",
-      "price": 0.06935663178484022,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-26T02:19:35+00:00",
       "side": "sell",
@@ -4512,13 +4495,35 @@
       "address": "3pxzs3edqTzNF56AXE1cdDuKJEdCiVdSop5shmSppump",
       "price": 1.0510615714305114e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T17:04:29+00:00",
+      "side": "sell",
+      "symbol": "holderinu",
+      "address": "3pxzs3edqTzNF56AXE1cdDuKJEdCiVdSop5shmSppump",
+      "price": 0.2052724513,
+      "proceeds": 478534.12,
+      "pnl_usd": 478484.12,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-30T17:04:30+00:00",
+      "side": "buy",
+      "symbol": "$PAUSE",
+      "address": "FJFdSM7uL3q1eW37ErZCNZFZQ7Nko2wcGsdCZBxYpump",
+      "price": 3.7262657711689355e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T17:04:30+00:00",
+      "side": "buy",
+      "symbol": "$CELL",
+      "address": "CmacStwtJuNPWXm8PE6q8DS5t8bvsevU5sEXcpmQpump",
+      "price": 8.120979842067142e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T06:58:51+00:00",
-      "equity": 3460904.02
-    },
     {
       "date": "2026-10-08T07:23:38+00:00",
       "equity": 3460901.71
@@ -8514,6 +8519,10 @@
     {
       "date": "2026-10-30T16:17:13+00:00",
       "equity": 6053896.6
+    },
+    {
+      "date": "2026-10-30T17:04:30+00:00",
+      "equity": 6532378.39
     }
   ]
 }
