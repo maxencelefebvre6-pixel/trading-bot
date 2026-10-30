@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 6532135.100804823,
+  "cash": 6532322.479765134,
   "positions": {
-    "2WVthqDUqTfmKniBvXz2guGwCAJSNTHKGnebUeBvpump": {
-      "symbol": "PILLY",
-      "qty": 2971541.9842041587,
-      "entry_price": 1.665801804690205e-05,
-      "last_price": 1.6059438757000417e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T20:00:29+00:00",
-      "missing": 0
-    },
-    "HgCek8YzYRd8mrKeib1sANAaksyufmdz5E2Vke33pump": {
-      "symbol": "PURPLEGUY",
-      "qty": 3915959.013462905,
-      "entry_price": 1.2640581739957199e-05,
-      "last_price": 1.219067312293368e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T20:00:29+00:00",
-      "missing": 0
-    },
     "2yBV7r8gysQprj5URM3TfJFxEvDwGQJShko5YR1Cpump": {
       "symbol": "SOOTS",
       "qty": 4582631.999109703,
       "entry_price": 1.0801652851378134e-05,
-      "last_price": 1.0425111592999997e-05,
+      "last_price": 1.042511159e-05,
       "cost": 50.0,
       "entry_time": "2026-10-30T20:00:29+00:00",
       "missing": 0
@@ -33,7 +15,7 @@
       "symbol": "SAVPIR",
       "qty": 5175939.911662578,
       "entry_price": 9.563480419945596e-06,
-      "last_price": 9.223686622969163e-06,
+      "last_price": 9.223686623e-06,
       "cost": 50.0,
       "entry_time": "2026-10-30T20:00:29+00:00",
       "missing": 0
@@ -42,69 +24,49 @@
       "symbol": "snurgg",
       "qty": 7264634.75234925,
       "entry_price": 6.81383189760402e-06,
-      "last_price": 6.5530418829998604e-06,
+      "last_price": 6.553041883e-06,
       "cost": 50.0,
       "entry_time": "2026-10-30T20:00:29+00:00",
+      "missing": 0
+    },
+    "HeNr6UPAGE7xU4fWhPY9EJXfgnEQQQqtkNuc8dJ6pump": {
+      "symbol": "SXSI",
+      "qty": 3504072.4797417596,
+      "entry_price": 1.4126420125775484e-05,
+      "last_price": 1.3611547415980816e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T20:40:19+00:00",
+      "missing": 0
+    },
+    "DKUf1UA2Wph1rJvATQgtg4QBGrABsZzknXoXatnNpump": {
+      "symbol": "Pumpfluencer",
+      "qty": 4500757.781438993,
+      "entry_price": 1.099814795724771e-05,
+      "last_price": 1.0592155874982389e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T20:40:19+00:00",
+      "missing": 0
+    },
+    "64sAVMw9MZxAYBj43QoaH7DoejSZDEY3NymRTDgNpump": {
+      "symbol": "TUSK",
+      "qty": 6901196.969925291,
+      "entry_price": 7.172668772636968e-06,
+      "last_price": 6.906159552952973e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T20:40:19+00:00",
+      "missing": 0
+    },
+    "EUiGxX3cXuk1dHpQAwUbtuhSPuzVvoG8rt1P5ShPpump": {
+      "symbol": "PILLY",
+      "qty": 5068184.722424862,
+      "entry_price": 9.766810546778341e-06,
+      "last_price": 9.418713314378732e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T20:40:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T03:36:48+00:00",
-      "side": "buy",
-      "symbol": "dolpink",
-      "address": "5Gc1C2vrow2wE9DMcrgg4QngWkdx8fGpgr7WNBGapump",
-      "price": 7.823558300910227e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T04:17:30+00:00",
-      "side": "sell",
-      "symbol": "$JEWNEEGY",
-      "address": "HE9AqeuLhv98SGgHER8kpdc1LZNShBRp5gx1ZtcNpump",
-      "price": 6.690371638e-06,
-      "proceeds": 45.28,
-      "pnl_usd": -4.72,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-26T04:17:30+00:00",
-      "side": "sell",
-      "symbol": "grumpkin",
-      "address": "H9YHmAab2eHDBJCQdiwaeS3gsGmosMhr3D6vzCStpump",
-      "price": 2.21080448e-06,
-      "proceeds": 2.09,
-      "pnl_usd": -47.91,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-26T04:17:30+00:00",
-      "side": "sell",
-      "symbol": "CHUDAI",
-      "address": "Hw8qK5fsKiGRkrujCksoWmRPe3N2YroDfzp2qGfVpump",
-      "price": 4.824036583e-06,
-      "proceeds": 10.42,
-      "pnl_usd": -39.58,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-26T04:17:30+00:00",
-      "side": "buy",
-      "symbol": "TOMODACHI",
-      "address": "ADTGPbRExAAzaw4Pij5avyZgHkqtEt81eYxQWTb5pump",
-      "price": 7.261042783480815e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T04:59:25+00:00",
-      "side": "sell",
-      "symbol": "dolpink",
-      "address": "5Gc1C2vrow2wE9DMcrgg4QngWkdx8fGpgr7WNBGapump",
-      "price": 7.535583325e-06,
-      "proceeds": 45.41,
-      "pnl_usd": -4.59,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-26T04:59:25+00:00",
       "side": "sell",
@@ -4546,13 +4508,61 @@
       "address": "9wcnYnid3V5VYGYJ1KSXhALMQRH4Xn3TR2n5PZLCpump",
       "price": 6.81383189760402e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T20:40:18+00:00",
+      "side": "sell",
+      "symbol": "PILLY",
+      "address": "2WVthqDUqTfmKniBvXz2guGwCAJSNTHKGnebUeBvpump",
+      "price": 0.0001349401668,
+      "proceeds": 379.43,
+      "pnl_usd": 329.43,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-30T20:40:18+00:00",
+      "side": "sell",
+      "symbol": "PURPLEGUY",
+      "address": "HgCek8YzYRd8mrKeib1sANAaksyufmdz5E2Vke33pump",
+      "price": 2.134137637e-06,
+      "proceeds": 7.95,
+      "pnl_usd": -42.05,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-30T20:40:19+00:00",
+      "side": "buy",
+      "symbol": "SXSI",
+      "address": "HeNr6UPAGE7xU4fWhPY9EJXfgnEQQQqtkNuc8dJ6pump",
+      "price": 1.4126420125775484e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T20:40:19+00:00",
+      "side": "buy",
+      "symbol": "Pumpfluencer",
+      "address": "DKUf1UA2Wph1rJvATQgtg4QBGrABsZzknXoXatnNpump",
+      "price": 1.099814795724771e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T20:40:19+00:00",
+      "side": "buy",
+      "symbol": "TUSK",
+      "address": "64sAVMw9MZxAYBj43QoaH7DoejSZDEY3NymRTDgNpump",
+      "price": 7.172668772636968e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T20:40:19+00:00",
+      "side": "buy",
+      "symbol": "PILLY",
+      "address": "EUiGxX3cXuk1dHpQAwUbtuhSPuzVvoG8rt1P5ShPpump",
+      "price": 9.766810546778341e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T08:51:27+00:00",
-      "equity": 3460788.18
-    },
     {
       "date": "2026-10-08T09:09:49+00:00",
       "equity": 3460778.16
@@ -8548,6 +8558,10 @@
     {
       "date": "2026-10-30T20:00:29+00:00",
       "equity": 6532373.68
+    },
+    {
+      "date": "2026-10-30T20:40:19+00:00",
+      "equity": 6532656.37
     }
   ]
 }
