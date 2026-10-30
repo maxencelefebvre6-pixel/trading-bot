@@ -1,38 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6054464.574802149,
+  "cash": 6054506.204666134,
   "positions": {
-    "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump": {
-      "symbol": "BITCAT",
-      "qty": 384343.75899893016,
-      "entry_price": 0.0001287909555990417,
-      "last_price": 0.0001248083219467256,
+    "3sKbgKpkEkuFXgnjWYhYtefYkWYhEF5Lf7KT6T8Zpump": {
+      "symbol": "TELEPATHY",
+      "qty": 1767549.5803374401,
+      "entry_price": 2.8004872140870883e-05,
+      "last_price": 2.7021600477256393e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T03:23:02+00:00",
+      "entry_time": "2026-10-30T04:14:25+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T18:33:56+00:00",
-      "side": "sell",
-      "symbol": "MOON",
-      "address": "4EbxnYttmS47iZAVd5FASrkh7Zq89cxagBydiZWppump",
-      "price": 0.0001275981823,
-      "proceeds": 46.13,
-      "pnl_usd": -3.87,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T18:33:56+00:00",
-      "side": "sell",
-      "symbol": "GE",
-      "address": "8RFv7vzZVMLdiBpbQHUz8dDt2wKQBofBAYChjcuspump",
-      "price": 1.423356117e-09,
-      "proceeds": 0.09,
-      "pnl_usd": -49.91,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-25T18:33:56+00:00",
       "side": "sell",
@@ -4514,13 +4494,27 @@
       "address": "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump",
       "price": 0.0001287909555990417,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T04:14:24+00:00",
+      "side": "sell",
+      "symbol": "BITCAT",
+      "address": "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump",
+      "price": 0.0002495318559,
+      "proceeds": 91.63,
+      "pnl_usd": 41.63,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-30T04:14:25+00:00",
+      "side": "buy",
+      "symbol": "TELEPATHY",
+      "address": "3sKbgKpkEkuFXgnjWYhYtefYkWYhEF5Lf7KT6T8Zpump",
+      "price": 2.8004872140870883e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T01:47:58+00:00",
-      "equity": 3461585.35
-    },
     {
       "date": "2026-10-08T02:02:43+00:00",
       "equity": 3461572.38
@@ -8516,6 +8510,10 @@
     {
       "date": "2026-10-30T03:23:02+00:00",
       "equity": 6054512.54
+    },
+    {
+      "date": "2026-10-30T04:14:25+00:00",
+      "equity": 6054553.97
     }
   ]
 }
