@@ -1,89 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6532350.274696487,
+  "cash": 6532441.879628583,
   "positions": {
-    "bBzFgxYU8Kt5UUx1nZinnNqKYNP9Qim5vaW1xBppump": {
-      "symbol": "100x",
-      "qty": 3336046.21450336,
-      "entry_price": 1.4837923942660101e-05,
-      "last_price": 1.432995942e-05,
+    "oxhVXaFoBvTZkmiZnNVvHZjKgSdRTaEw57j8MaCpump": {
+      "symbol": "LAGR",
+      "qty": 3970712.477539528,
+      "entry_price": 1.2466276588898958e-05,
+      "last_price": 1.1998634133178482e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T22:37:17+00:00",
-      "missing": 0
-    },
-    "3dyKznwS44LJeJRSLf74GT5piyNKKqWYYyXcDcixpump": {
-      "symbol": "Zazu",
-      "qty": 2908966.0267518805,
-      "entry_price": 1.7016355483281857e-05,
-      "last_price": 1.6386081025570905e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T23:14:40+00:00",
-      "missing": 0
-    },
-    "3k1CKGdQn1cz4BVRt8N4RoyMtBpncUBxv91qAuvupump": {
-      "symbol": "wGROKBOT",
-      "qty": 4380184.982105103,
-      "entry_price": 1.1300892588378872e-05,
-      "last_price": 1.0942742562441601e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T23:14:40+00:00",
-      "missing": 0
-    },
-    "DwvvhAcNw4YQhmM6numVrF6Fjp8cgUuiALahBUc7pump": {
-      "symbol": "ROMFPS",
-      "qty": 842.6537191149547,
-      "entry_price": 0.05874299119214736,
-      "last_price": 0.057005764636341084,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T23:14:40+00:00",
+      "entry_time": "2026-10-30T23:53:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T08:09:31+00:00",
-      "side": "buy",
-      "symbol": "MAHAMM",
-      "address": "FsvurW8uGJNLwYACBoZ5ofJpQfjA5XKs3EX3nSpipump",
-      "price": 7.632735172084692e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T08:09:31+00:00",
-      "side": "buy",
-      "symbol": "ch",
-      "address": "6Q41Jj4DNNGMcxP8NxZGApyaHK34GAep1sXvETpJpump",
-      "price": 8.729347961221437e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T08:56:37+00:00",
-      "side": "buy",
-      "symbol": "Sushipoly",
-      "address": "AqQqkK4vE2Tiz3Qj1TbH7FU9oh3rnYDky6TJMgFLpump",
-      "price": 2.977164395778513e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T09:40:21+00:00",
-      "side": "sell",
-      "symbol": "MAHAMM",
-      "address": "FsvurW8uGJNLwYACBoZ5ofJpQfjA5XKs3EX3nSpipump",
-      "price": 7.349502292e-06,
-      "proceeds": 45.38,
-      "pnl_usd": -4.62,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-26T09:40:21+00:00",
-      "side": "sell",
-      "symbol": "ch",
-      "address": "6Q41Jj4DNNGMcxP8NxZGApyaHK34GAep1sXvETpJpump",
-      "price": 8.413149218e-06,
-      "proceeds": 45.47,
-      "pnl_usd": -4.53,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-26T10:23:22+00:00",
       "side": "sell",
@@ -4535,13 +4464,57 @@
       "address": "DwvvhAcNw4YQhmM6numVrF6Fjp8cgUuiALahBUc7pump",
       "price": 0.05874299119214736,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T23:53:43+00:00",
+      "side": "sell",
+      "symbol": "100x",
+      "address": "bBzFgxYU8Kt5UUx1nZinnNqKYNP9Qim5vaW1xBppump",
+      "price": 1.432995942e-05,
+      "proceeds": 45.68,
+      "pnl_usd": -4.32,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-30T23:53:43+00:00",
+      "side": "sell",
+      "symbol": "Zazu",
+      "address": "3dyKznwS44LJeJRSLf74GT5piyNKKqWYYyXcDcixpump",
+      "price": 2.155396712e-05,
+      "proceeds": 58.95,
+      "pnl_usd": 8.95,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-30T23:53:43+00:00",
+      "side": "sell",
+      "symbol": "wGROKBOT",
+      "address": "3k1CKGdQn1cz4BVRt8N4RoyMtBpncUBxv91qAuvupump",
+      "price": 1.665959925e-05,
+      "proceeds": 36.12,
+      "pnl_usd": -13.88,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-30T23:53:43+00:00",
+      "side": "sell",
+      "symbol": "ROMFPS",
+      "address": "DwvvhAcNw4YQhmM6numVrF6Fjp8cgUuiALahBUc7pump",
+      "price": 0.002055032335,
+      "proceeds": 0.86,
+      "pnl_usd": -49.14,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-30T23:53:43+00:00",
+      "side": "buy",
+      "symbol": "LAGR",
+      "address": "oxhVXaFoBvTZkmiZnNVvHZjKgSdRTaEw57j8MaCpump",
+      "price": 1.2466276588898958e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T10:18:27+00:00",
-      "equity": 3460765.33
-    },
     {
       "date": "2026-10-08T10:39:50+00:00",
       "equity": 3460821.7
@@ -8537,6 +8510,10 @@
     {
       "date": "2026-10-30T23:14:40+00:00",
       "equity": 6532541.71
+    },
+    {
+      "date": "2026-10-30T23:53:43+00:00",
+      "equity": 6532489.52
     }
   ]
 }
