@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6054502.064911366,
+  "cash": 6054402.064911366,
   "positions": {
     "6qn25bfrrYjP7eQ4VtETJQB4JE65X5bUYJwySNNzpump": {
       "symbol": "cap",
       "qty": 2132488.6899853265,
       "entry_price": 2.3212315372392718e-05,
-      "last_price": 2.249922927108558e-05,
+      "last_price": 2.249922927e-05,
       "cost": 50.0,
       "entry_time": "2026-10-30T05:05:05+00:00",
+      "missing": 0
+    },
+    "5uTnZh52WkYas8AhbG3H1GeBLEFEbgHhtuSCjwWNpump": {
+      "symbol": "HEART",
+      "qty": 3883692.5853116554,
+      "entry_price": 1.2745602004445923e-05,
+      "last_price": 1.2277706800289569e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T05:49:40+00:00",
+      "missing": 0
+    },
+    "8gMxx4LxyF4Y7WNp2BJnJwavfDcZ6hZ21eTMzzG7pump": {
+      "symbol": "MGOAT",
+      "qty": 7291451.407091457,
+      "entry_price": 6.788771842031027e-06,
+      "last_price": 6.52951942602645e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T05:49:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T18:33:56+00:00",
-      "side": "buy",
-      "symbol": "OBITO",
-      "address": "8EAXxbxk113dbNR2GDUf9bevzU9Jxi6Bz8TEwvSEpump",
-      "price": 8.901699511708003e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T19:08:40+00:00",
-      "side": "buy",
-      "symbol": "Dcperps",
-      "address": "38wEYSiSUNrYFSUaT22155k163LrCTKvNvqAg8Wcpump",
-      "price": 3.1432704405666735e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T19:37:12+00:00",
       "side": "sell",
@@ -4512,13 +4514,25 @@
       "address": "6qn25bfrrYjP7eQ4VtETJQB4JE65X5bUYJwySNNzpump",
       "price": 2.3212315372392718e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T05:49:40+00:00",
+      "side": "buy",
+      "symbol": "HEART",
+      "address": "5uTnZh52WkYas8AhbG3H1GeBLEFEbgHhtuSCjwWNpump",
+      "price": 1.2745602004445923e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T05:49:40+00:00",
+      "side": "buy",
+      "symbol": "MGOAT",
+      "address": "8gMxx4LxyF4Y7WNp2BJnJwavfDcZ6hZ21eTMzzG7pump",
+      "price": 6.788771842031027e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T02:23:31+00:00",
-      "equity": 3461530.37
-    },
     {
       "date": "2026-10-08T02:43:02+00:00",
       "equity": 3461492.62
@@ -8514,6 +8528,10 @@
     {
       "date": "2026-10-30T05:05:05+00:00",
       "equity": 6054550.04
+    },
+    {
+      "date": "2026-10-30T05:49:40+00:00",
+      "equity": 6054545.34
     }
   ]
 }
