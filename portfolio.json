@@ -1,52 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6054441.566667662,
+  "cash": 6054532.783842282,
   "positions": {
-    "Ez1UPAtVQYYRxbwpedesCiCift28iQbahfocHU3opump": {
-      "symbol": "beer",
-      "qty": 4243136.67298022,
-      "entry_price": 1.1665898087895683e-05,
-      "last_price": 1.123506288e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T23:21:33+00:00",
-      "missing": 0
-    },
-    "6r1vzyBUCTgZeoBV4rrQbKA77W7f94DS8e861xsYpump": {
-      "symbol": "NVDA",
-      "qty": 3744981.583199413,
-      "entry_price": 1.321768849867378e-05,
-      "last_price": 1.277086661e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-29T23:21:33+00:00",
-      "missing": 0
-    },
     "9fDLetQS6U7V7aYDm6muk8BDnsEyEyvp8Y4RHSHopump": {
       "symbol": "HANS",
       "qty": 6306666.673254162,
       "entry_price": 7.848837201103988e-06,
-      "last_price": 7.554420700079811e-06,
+      "last_price": 7.5544207e-06,
       "cost": 50.0,
       "entry_time": "2026-10-29T23:59:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T17:05:14+00:00",
-      "side": "buy",
-      "symbol": "GME",
-      "address": "6Sz9n9AqsGrGEVcVbf7VHipaeuPgVD6FHSEi81kdpump",
-      "price": 1.2813676849700425e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T17:05:14+00:00",
-      "side": "buy",
-      "symbol": "Dog Think",
-      "address": "Ds9AEfChNAJvN7kFnatGSedmMpCcpqjSsh5hoj55pump",
-      "price": 7.820286833913876e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T17:05:14+00:00",
       "side": "buy",
@@ -4528,13 +4494,29 @@
       "address": "9fDLetQS6U7V7aYDm6muk8BDnsEyEyvp8Y4RHSHopump",
       "price": 7.848837201103988e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T00:53:48+00:00",
+      "side": "sell",
+      "symbol": "beer",
+      "address": "Ez1UPAtVQYYRxbwpedesCiCift28iQbahfocHU3opump",
+      "price": 1.123506288e-05,
+      "proceeds": 45.52,
+      "pnl_usd": -4.48,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-30T00:53:48+00:00",
+      "side": "sell",
+      "symbol": "NVDA",
+      "address": "6r1vzyBUCTgZeoBV4rrQbKA77W7f94DS8e861xsYpump",
+      "price": 1.277086661e-05,
+      "proceeds": 45.7,
+      "pnl_usd": -4.3,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T00:07:58+00:00",
-      "equity": 3461194.76
-    },
     {
       "date": "2026-10-08T00:39:41+00:00",
       "equity": 3461619.52
@@ -8530,6 +8512,10 @@
     {
       "date": "2026-10-29T23:59:36+00:00",
       "equity": 6054584.71
+    },
+    {
+      "date": "2026-10-30T00:53:49+00:00",
+      "equity": 6054580.43
     }
   ]
 }
