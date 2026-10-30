@@ -1,63 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6532233.848670533,
+  "cash": 6532212.531817058,
   "positions": {
-    "CmacStwtJuNPWXm8PE6q8DS5t8bvsevU5sEXcpmQpump": {
-      "symbol": "$CELL",
-      "qty": 6095323.589351516,
-      "entry_price": 8.120979842067142e-06,
-      "last_price": 7.818969076e-06,
+    "2NUS2vHZZ2c6hbNgU78dsNUTvk5dmsojrEw8ccF2pump": {
+      "symbol": "Gemma",
+      "qty": 585206.5386978561,
+      "entry_price": 8.458552105405814e-05,
+      "last_price": 8.199733770535083e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T17:04:30+00:00",
+      "entry_time": "2026-10-30T18:23:51+00:00",
       "missing": 0
     },
-    "HtchajuQXEtEdPE8LFQVS9CdoRAB2zHUZ6NjVNCQpump": {
-      "symbol": "LaMisery",
-      "qty": 5715790.557115101,
-      "entry_price": 8.660219352926021e-06,
-      "last_price": 8.34656020963688e-06,
+    "3v7uHjarpSn8HGku6Bw1Z8CBsyD5f6C7BnAeXpWBpump": {
+      "symbol": "Timmy",
+      "qty": 2726540.7489069426,
+      "entry_price": 1.8154872623797873e-05,
+      "last_price": 1.750625071251917e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T17:46:21+00:00",
+      "entry_time": "2026-10-30T18:23:51+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T02:19:35+00:00",
-      "side": "buy",
-      "symbol": "GIGATITS",
-      "address": "ABp2bT8ovFYYY8etNQmJauRDXgk3tYkt2jpmGqZSpump",
-      "price": 0.00018266966932498785,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T02:19:35+00:00",
-      "side": "buy",
-      "symbol": "CATGPT",
-      "address": "2TJHvsktb5mHmBsnz2Hm3qGCBWGwCwxtBWSsDd5fpump",
-      "price": 3.990320739312861e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T03:00:49+00:00",
-      "side": "sell",
-      "symbol": "GIGATITS",
-      "address": "ABp2bT8ovFYYY8etNQmJauRDXgk3tYkt2jpmGqZSpump",
-      "price": 0.001099034303,
-      "proceeds": 283.98,
-      "pnl_usd": 233.98,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-26T03:00:49+00:00",
-      "side": "sell",
-      "symbol": "CATGPT",
-      "address": "2TJHvsktb5mHmBsnz2Hm3qGCBWGwCwxtBWSsDd5fpump",
-      "price": 3.76000705e-08,
-      "proceeds": 0.23,
-      "pnl_usd": -49.77,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-26T03:00:49+00:00",
       "side": "buy",
@@ -4519,13 +4483,45 @@
       "address": "HtchajuQXEtEdPE8LFQVS9CdoRAB2zHUZ6NjVNCQpump",
       "price": 8.660219352926021e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T18:23:50+00:00",
+      "side": "sell",
+      "symbol": "$CELL",
+      "address": "CmacStwtJuNPWXm8PE6q8DS5t8bvsevU5sEXcpmQpump",
+      "price": 7.818969076e-06,
+      "proceeds": 45.39,
+      "pnl_usd": -4.61,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-30T18:23:50+00:00",
+      "side": "sell",
+      "symbol": "LaMisery",
+      "address": "HtchajuQXEtEdPE8LFQVS9CdoRAB2zHUZ6NjVNCQpump",
+      "price": 6.11036856e-06,
+      "proceeds": 33.29,
+      "pnl_usd": -16.71,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-30T18:23:51+00:00",
+      "side": "buy",
+      "symbol": "Gemma",
+      "address": "2NUS2vHZZ2c6hbNgU78dsNUTvk5dmsojrEw8ccF2pump",
+      "price": 8.458552105405814e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T18:23:51+00:00",
+      "side": "buy",
+      "symbol": "Timmy",
+      "address": "3v7uHjarpSn8HGku6Bw1Z8CBsyD5f6C7BnAeXpWBpump",
+      "price": 1.8154872623797873e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T07:45:55+00:00",
-      "equity": 3460881.99
-    },
     {
       "date": "2026-10-08T08:02:26+00:00",
       "equity": 3460861.36
@@ -8521,6 +8517,10 @@
     {
       "date": "2026-10-30T17:46:21+00:00",
       "equity": 6532329.22
+    },
+    {
+      "date": "2026-10-30T18:23:51+00:00",
+      "equity": 6532308.25
     }
   ]
 }
