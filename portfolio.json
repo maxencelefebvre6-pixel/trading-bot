@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6054381.813655062,
+  "cash": 6054378.050530009,
   "positions": {
-    "BFpqkEEqfaetapbwD4ksx8UesWah8HjUYH36D47fpump": {
-      "symbol": "$KIRK",
-      "qty": 14242238.264829969,
-      "entry_price": 3.4755772989865056e-06,
-      "last_price": 3.353166550236404e-06,
+    "z26TpaiBRXeLVNfscNSa1qrGmxz2C4DNhgg8Lrgpump": {
+      "symbol": "WATT",
+      "qty": 798226.7433827746,
+      "entry_price": 6.201245499521332e-05,
+      "last_price": 6.005140585036363e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T06:28:34+00:00",
-      "missing": 0
-    },
-    "3dWmP2i2YThdigtKQSQXso1GBejayXhPZaYcSe9Upump": {
-      "symbol": "NDC",
-      "qty": 6346738.167030202,
-      "entry_price": 7.799281882643395e-06,
-      "last_price": 7.509211107542407e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T06:28:34+00:00",
+      "entry_time": "2026-10-30T07:37:04+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T20:28:05+00:00",
-      "side": "sell",
-      "symbol": "Dcperps",
-      "address": "38wEYSiSUNrYFSUaT22155k163LrCTKvNvqAg8Wcpump",
-      "price": 2.842290449e-06,
-      "proceeds": 42.1,
-      "pnl_usd": -7.9,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-25T20:28:05+00:00",
-      "side": "sell",
-      "symbol": "BARRON",
-      "address": "58mAuasApeJkRAP2uTyY7AfLuftAzd5WHbFuGKi2pump",
-      "price": 1.798940735e-06,
-      "proceeds": 0.21,
-      "pnl_usd": -49.79,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-25T20:58:27+00:00",
-      "side": "buy",
-      "symbol": "Claude AI",
-      "address": "eA68N4ka8Aueggre9nTAG6SQnAJdD9KfdAKhEfhpump",
-      "price": 0.00035189685419949595,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T20:58:27+00:00",
       "side": "buy",
@@ -4521,13 +4484,37 @@
       "address": "3dWmP2i2YThdigtKQSQXso1GBejayXhPZaYcSe9Upump",
       "price": 7.799281882643395e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T07:37:04+00:00",
+      "side": "sell",
+      "symbol": "$KIRK",
+      "address": "BFpqkEEqfaetapbwD4ksx8UesWah8HjUYH36D47fpump",
+      "price": 6.269228316e-08,
+      "proceeds": 0.84,
+      "pnl_usd": -49.16,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-30T07:37:04+00:00",
+      "side": "sell",
+      "symbol": "NDC",
+      "address": "3dWmP2i2YThdigtKQSQXso1GBejayXhPZaYcSe9Upump",
+      "price": 7.51197485e-06,
+      "proceeds": 45.4,
+      "pnl_usd": -4.6,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-30T07:37:04+00:00",
+      "side": "buy",
+      "symbol": "WATT",
+      "address": "z26TpaiBRXeLVNfscNSa1qrGmxz2C4DNhgg8Lrgpump",
+      "price": 6.201245499521332e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T02:59:42+00:00",
-      "equity": 3461461.37
-    },
     {
       "date": "2026-10-08T03:23:04+00:00",
       "equity": 3461389.43
@@ -8523,6 +8510,10 @@
     {
       "date": "2026-10-30T06:28:34+00:00",
       "equity": 6054477.23
+    },
+    {
+      "date": "2026-10-30T07:37:04+00:00",
+      "equity": 6054425.99
     }
   ]
 }
