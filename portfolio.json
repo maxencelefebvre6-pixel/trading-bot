@@ -1,47 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6532282.785224295,
+  "cash": 6532233.848670533,
   "positions": {
-    "FJFdSM7uL3q1eW37ErZCNZFZQ7Nko2wcGsdCZBxYpump": {
-      "symbol": "$PAUSE",
-      "qty": 1328407.6617130768,
-      "entry_price": 3.7262657711689355e-05,
-      "last_price": 3.608012318116406e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T17:04:30+00:00",
-      "missing": 0
-    },
     "CmacStwtJuNPWXm8PE6q8DS5t8bvsevU5sEXcpmQpump": {
       "symbol": "$CELL",
       "qty": 6095323.589351516,
       "entry_price": 8.120979842067142e-06,
-      "last_price": 7.821524659192178e-06,
+      "last_price": 7.818969076e-06,
       "cost": 50.0,
       "entry_time": "2026-10-30T17:04:30+00:00",
+      "missing": 0
+    },
+    "HtchajuQXEtEdPE8LFQVS9CdoRAB2zHUZ6NjVNCQpump": {
+      "symbol": "LaMisery",
+      "qty": 5715790.557115101,
+      "entry_price": 8.660219352926021e-06,
+      "last_price": 8.34656020963688e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-30T17:46:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T02:19:35+00:00",
-      "side": "sell",
-      "symbol": "trust",
-      "address": "GkqA9nEjhXHRVgL4jiUWLGC7Q1yid6vcfftfV6K2pump",
-      "price": 3.167280615e-06,
-      "proceeds": 8.71,
-      "pnl_usd": -41.29,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-26T02:19:35+00:00",
-      "side": "sell",
-      "symbol": "Vancepc",
-      "address": "8Pkk8nZXoL9Zss2rF4ceBoMDrGRbJQfcrUDvRiAwpump",
-      "price": 0.005665219944,
-      "proceeds": 2.0,
-      "pnl_usd": -48.0,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-26T02:19:35+00:00",
       "side": "buy",
@@ -4521,13 +4501,27 @@
       "address": "CmacStwtJuNPWXm8PE6q8DS5t8bvsevU5sEXcpmQpump",
       "price": 8.120979842067142e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T17:46:21+00:00",
+      "side": "sell",
+      "symbol": "$PAUSE",
+      "address": "FJFdSM7uL3q1eW37ErZCNZFZQ7Nko2wcGsdCZBxYpump",
+      "price": 8.351860819e-07,
+      "proceeds": 1.06,
+      "pnl_usd": -48.94,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-30T17:46:21+00:00",
+      "side": "buy",
+      "symbol": "LaMisery",
+      "address": "HtchajuQXEtEdPE8LFQVS9CdoRAB2zHUZ6NjVNCQpump",
+      "price": 8.660219352926021e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T07:23:38+00:00",
-      "equity": 3460901.71
-    },
     {
       "date": "2026-10-08T07:45:55+00:00",
       "equity": 3460881.99
@@ -8523,6 +8517,10 @@
     {
       "date": "2026-10-30T17:04:30+00:00",
       "equity": 6532378.39
+    },
+    {
+      "date": "2026-10-30T17:46:21+00:00",
+      "equity": 6532329.22
     }
   ]
 }
