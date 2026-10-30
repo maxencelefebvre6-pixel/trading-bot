@@ -1,87 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6054179.423009685,
+  "cash": 6054193.96182553,
   "positions": {
-    "27KXUPxyo1kgw3MuKnDAbqt2zpQjV93TsuKDctpSpump": {
-      "symbol": "TERMINAL",
-      "qty": 4227762.794813561,
-      "entry_price": 1.1708320074325002e-05,
-      "last_price": 1.1280055765092643e-05,
+    "5TpYLbFEehGr8hH4sg9Et6tuzFucKbf6bcWymXE9pump": {
+      "symbol": "SAFU",
+      "qty": 2761716.871274597,
+      "entry_price": 1.792363312650315e-05,
+      "last_price": 1.7278887162517365e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-30T08:30:09+00:00",
-      "missing": 0
-    },
-    "AtKvRVDF738YA925jmxNeh4iV2qCVBBJeMxQNyrupump": {
-      "symbol": "DUOTIDE",
-      "qty": 1155355.6637313564,
-      "entry_price": 4.284394974975407e-05,
-      "last_price": 4.146238030572493e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T08:30:09+00:00",
-      "missing": 0
-    },
-    "31dxsov55n3H4WkToJHv2eJazs2LutYC8FTEbbeTpump": {
-      "symbol": "HedgeFi",
-      "qty": 14367928.43512823,
-      "entry_price": 3.4451730618992484e-06,
-      "last_price": 3.314048209597713e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T08:30:09+00:00",
-      "missing": 0
-    },
-    "HTw3mnhQTcmH8RZ8tGyFqN4c9riMrdPKg2zRG1nCpump": {
-      "symbol": "$GTA6",
-      "qty": 4092584.525105477,
-      "entry_price": 1.2095046466688248e-05,
-      "last_price": 1.1680972333397263e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T08:30:09+00:00",
+      "entry_time": "2026-10-30T09:24:57+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T21:26:56+00:00",
-      "side": "buy",
-      "symbol": "Lega",
-      "address": "BBVp72uZ2BZ3z8r8NfrdMtpqjvSQoEXQWAGScucapump",
-      "price": 1.3151643872962105e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T21:26:56+00:00",
-      "side": "buy",
-      "symbol": "GTA",
-      "address": "FUqJKjhSLegrkGLMJwWnUo3EFtWLW3KXygjs2fsWpump",
-      "price": 1.0864835819297098e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T21:26:56+00:00",
-      "side": "buy",
-      "symbol": "Tao",
-      "address": "9Sxpavci2mgvRkPGpE5tj3wg4okMPzTADzw9mTs9pump",
-      "price": 8.279791676921406e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T21:55:59+00:00",
-      "side": "sell",
-      "symbol": "희망이",
-      "address": "4za3s1LwdU5TUuWvEEeXSATazfAMTdw3Fv6McxBRpump",
-      "price": 7.119471799e-06,
-      "proceeds": 22.05,
-      "pnl_usd": -27.95,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-25T21:55:59+00:00",
-      "side": "buy",
-      "symbol": "GENNY",
-      "address": "DsySnSucgCjd1Mcih2pocvdvomEPiGf8cbFyW5afpump",
-      "price": 1.910224769277186e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-25T21:55:59+00:00",
       "side": "buy",
@@ -4537,13 +4468,57 @@
       "address": "HTw3mnhQTcmH8RZ8tGyFqN4c9riMrdPKg2zRG1nCpump",
       "price": 1.2095046466688248e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T09:24:57+00:00",
+      "side": "sell",
+      "symbol": "TERMINAL",
+      "address": "27KXUPxyo1kgw3MuKnDAbqt2zpQjV93TsuKDctpSpump",
+      "price": 4.960527822e-06,
+      "proceeds": 19.96,
+      "pnl_usd": -30.04,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-30T09:24:57+00:00",
+      "side": "sell",
+      "symbol": "DUOTIDE",
+      "address": "AtKvRVDF738YA925jmxNeh4iV2qCVBBJeMxQNyrupump",
+      "price": 2.067599237e-06,
+      "proceeds": 2.29,
+      "pnl_usd": -47.71,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-30T09:24:57+00:00",
+      "side": "sell",
+      "symbol": "HedgeFi",
+      "address": "31dxsov55n3H4WkToJHv2eJazs2LutYC8FTEbbeTpump",
+      "price": 3.044792667e-06,
+      "proceeds": 41.23,
+      "pnl_usd": -8.77,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-30T09:24:57+00:00",
+      "side": "sell",
+      "symbol": "$GTA6",
+      "address": "HTw3mnhQTcmH8RZ8tGyFqN4c9riMrdPKg2zRG1nCpump",
+      "price": 2.716546046e-07,
+      "proceeds": 1.06,
+      "pnl_usd": -48.94,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-30T09:24:57+00:00",
+      "side": "buy",
+      "symbol": "SAFU",
+      "address": "5TpYLbFEehGr8hH4sg9Et6tuzFucKbf6bcWymXE9pump",
+      "price": 1.792363312650315e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T03:45:29+00:00",
-      "equity": 3461383.47
-    },
     {
       "date": "2026-10-08T04:02:19+00:00",
       "equity": 3461349.14
@@ -8539,6 +8514,10 @@
     {
       "date": "2026-10-30T08:30:09+00:00",
       "equity": 6054370.44
+    },
+    {
+      "date": "2026-10-30T09:24:57+00:00",
+      "equity": 6054241.68
     }
   ]
 }
