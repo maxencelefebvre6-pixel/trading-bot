@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6054438.176841447,
+  "cash": 6054464.574802149,
   "positions": {
-    "91fBfFGRG5Ry6ty4A1Q23hv1eEawsTu7rh2mvczRpump": {
-      "symbol": "CONSOLE",
-      "qty": 7958.552982162679,
-      "entry_price": 0.006219723624500987,
-      "last_price": 0.00647234149,
+    "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump": {
+      "symbol": "BITCAT",
+      "qty": 384343.75899893016,
+      "entry_price": 0.0001287909555990417,
+      "last_price": 0.0001248083219467256,
       "cost": 50.0,
-      "entry_time": "2026-10-30T01:51:11+00:00",
-      "missing": 0
-    },
-    "FrE4wkPwzZ5Sxif28oabQD4P5ZbDT7oehBmZLm1Gpump": {
-      "symbol": "laptop",
-      "qty": 4802694.340739107,
-      "entry_price": 1.030671462477086e-05,
-      "last_price": 9.922949781490766e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-30T02:35:19+00:00",
+      "entry_time": "2026-10-30T03:23:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-25T18:01:41+00:00",
-      "side": "buy",
-      "symbol": "GE",
-      "address": "8RFv7vzZVMLdiBpbQHUz8dDt2wKQBofBAYChjcuspump",
-      "price": 7.272491687807997e-07,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T18:01:41+00:00",
-      "side": "buy",
-      "symbol": "🔥",
-      "address": "JDz8BGjjwq9t1cc7vKQSDaj5gDd7Ny8meobx4B7dpump",
-      "price": 1.1400467176964902e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-25T18:33:56+00:00",
-      "side": "sell",
-      "symbol": "Dog Think",
-      "address": "Ds9AEfChNAJvN7kFnatGSedmMpCcpqjSsh5hoj55pump",
-      "price": 7.530571075e-06,
-      "proceeds": 45.39,
-      "pnl_usd": -4.61,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-25T18:33:56+00:00",
       "side": "sell",
@@ -4521,13 +4486,37 @@
       "address": "FrE4wkPwzZ5Sxif28oabQD4P5ZbDT7oehBmZLm1Gpump",
       "price": 1.030671462477086e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-30T03:23:01+00:00",
+      "side": "sell",
+      "symbol": "CONSOLE",
+      "address": "91fBfFGRG5Ry6ty4A1Q23hv1eEawsTu7rh2mvczRpump",
+      "price": 0.008202047425,
+      "proceeds": 62.65,
+      "pnl_usd": 12.65,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-30T03:23:01+00:00",
+      "side": "sell",
+      "symbol": "laptop",
+      "address": "FrE4wkPwzZ5Sxif28oabQD4P5ZbDT7oehBmZLm1Gpump",
+      "price": 2.99982574e-06,
+      "proceeds": 13.75,
+      "pnl_usd": -36.25,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-30T03:23:02+00:00",
+      "side": "buy",
+      "symbol": "BITCAT",
+      "address": "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump",
+      "price": 0.0001287909555990417,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T01:25:49+00:00",
-      "equity": 3461609.13
-    },
     {
       "date": "2026-10-08T01:47:58+00:00",
       "equity": 3461585.35
@@ -8523,6 +8512,10 @@
     {
       "date": "2026-10-30T02:35:19+00:00",
       "equity": 6054537.34
+    },
+    {
+      "date": "2026-10-30T03:23:02+00:00",
+      "equity": 6054512.54
     }
   ]
 }
