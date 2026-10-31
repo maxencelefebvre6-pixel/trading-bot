@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6531951.137545253,
-  "positions": {},
+  "cash": 6531801.137545253,
+  "positions": {
+    "7uLg4kWZTn78mw8NCiXMuVZp7YEY5DPL5Cnmj8bHpump": {
+      "symbol": "Wu",
+      "qty": 4683603.133286521,
+      "entry_price": 1.0568786165548886e-05,
+      "last_price": 1.0233372427953741e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T11:55:31+00:00",
+      "missing": 0
+    },
+    "CWPq4sTQqFFrE9qBX7xn8mr3fKPuTqjyanBkL7rYpump": {
+      "symbol": "GHOST20",
+      "qty": 2817.7875060728757,
+      "entry_price": 0.017566974050853,
+      "last_price": 0.017048569429136132,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T11:55:31+00:00",
+      "missing": 0
+    },
+    "5q72BqPB1XG9AAjX5r3b8s36bKjiHs7BthLEEucUpump": {
+      "symbol": "$Tenure",
+      "qty": 1063302.6270431627,
+      "entry_price": 4.655306846899255e-05,
+      "last_price": 4.513255659718345e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T11:55:31+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-26T22:47:13+00:00",
-      "side": "buy",
-      "symbol": "GAMBY",
-      "address": "9UX9S6f4m3KeqWuyw9Z5Sj8ahGpZeQC39P6i9eY8pump",
-      "price": 9.779750771982076e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T22:47:13+00:00",
-      "side": "buy",
-      "symbol": "princess",
-      "address": "7uiTP1w2KjnoXct7wT9MrcKCHSzxJ6tjqeAS22copump",
-      "price": 9.891083990879106e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T23:15:47+00:00",
-      "side": "sell",
-      "symbol": "GAMBY",
-      "address": "9UX9S6f4m3KeqWuyw9Z5Sj8ahGpZeQC39P6i9eY8pump",
-      "price": 2.960344846e-06,
-      "proceeds": 14.29,
-      "pnl_usd": -35.71,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-26T23:15:47+00:00",
       "side": "sell",
@@ -4502,13 +4504,33 @@
       "proceeds": 0.22,
       "pnl_usd": -49.78,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T11:55:31+00:00",
+      "side": "buy",
+      "symbol": "Wu",
+      "address": "7uLg4kWZTn78mw8NCiXMuVZp7YEY5DPL5Cnmj8bHpump",
+      "price": 1.0568786165548886e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T11:55:31+00:00",
+      "side": "buy",
+      "symbol": "GHOST20",
+      "address": "CWPq4sTQqFFrE9qBX7xn8mr3fKPuTqjyanBkL7rYpump",
+      "price": 0.017566974050853,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T11:55:31+00:00",
+      "side": "buy",
+      "symbol": "$Tenure",
+      "address": "5q72BqPB1XG9AAjX5r3b8s36bKjiHs7BthLEEucUpump",
+      "price": 4.655306846899255e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T16:27:44+00:00",
-      "equity": 3600113.11
-    },
     {
       "date": "2026-10-08T16:52:06+00:00",
       "equity": 3600357.68
@@ -8504,6 +8526,10 @@
     {
       "date": "2026-10-31T11:17:30+00:00",
       "equity": 6531951.14
+    },
+    {
+      "date": "2026-10-31T11:55:31+00:00",
+      "equity": 6531945.1
     }
   ]
 }
