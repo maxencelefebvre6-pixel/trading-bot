@@ -1,46 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 6532111.282750059,
-  "positions": {},
+  "cash": 6531911.282750059,
+  "positions": {
+    "DvzyEwBMf8PPR6fKvrFGz8TtU31bf1nm2KcNQ8Vbpump": {
+      "symbol": "Ape",
+      "qty": 571769.6697141179,
+      "entry_price": 8.657332247922448e-05,
+      "last_price": 8.392724831065287e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T07:15:48+00:00",
+      "missing": 0
+    },
+    "6LL4ejfPXUP1AQ9qQtrZjHrNdRpJ4wtLBEiDToKXpump": {
+      "symbol": "HI",
+      "qty": 4564059.155536131,
+      "entry_price": 1.084560876910574e-05,
+      "last_price": 1.0441988000365086e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T07:15:48+00:00",
+      "missing": 0
+    },
+    "CMp19dfScaorHdW8YHoxiKA1Vy3ojMo9gLMQZjQLpump": {
+      "symbol": "ABC",
+      "qty": 3840345.1723301397,
+      "entry_price": 1.2889466383555763e-05,
+      "last_price": 1.245247434141651e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T07:15:48+00:00",
+      "missing": 0
+    },
+    "7ZHHyEWbV6ZcnzGQrPJwFNnP5r7Q41qXKamXfdzGpump": {
+      "symbol": "DEBIT",
+      "qty": 1156030.5206184739,
+      "entry_price": 4.28189387019969e-05,
+      "last_price": 4.144853365957001e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T07:15:48+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-26T17:32:07+00:00",
-      "side": "buy",
-      "symbol": "NetAInyahu",
-      "address": "Dq2XNipoaP4EUCbA5i4No68MJaEEgtWNUr2JKGQspump",
-      "price": 1.8881339439022288e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T18:13:23+00:00",
-      "side": "sell",
-      "symbol": "inkINTERN",
-      "address": "Gvuuun1E8zaYWyAtTj4J3mpvaV7A1P99AokYsQxvpump",
-      "price": 2.845996546e-06,
-      "proceeds": 12.03,
-      "pnl_usd": -37.97,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-26T18:13:23+00:00",
-      "side": "sell",
-      "symbol": "BibiAI",
-      "address": "J6AjcgCpZnD3hqKrfGfMfkgXJ5xBmYU9vzS5RkCLpump",
-      "price": 2.922535121e-06,
-      "proceeds": 10.89,
-      "pnl_usd": -39.11,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-26T18:13:23+00:00",
-      "side": "sell",
-      "symbol": "NetAInyahu",
-      "address": "Dq2XNipoaP4EUCbA5i4No68MJaEEgtWNUr2JKGQspump",
-      "price": 2.875745054e-06,
-      "proceeds": 7.21,
-      "pnl_usd": -42.79,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-26T18:13:23+00:00",
       "side": "buy",
@@ -4504,13 +4503,41 @@
       "proceeds": 10.96,
       "pnl_usd": -39.04,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T07:15:48+00:00",
+      "side": "buy",
+      "symbol": "Ape",
+      "address": "DvzyEwBMf8PPR6fKvrFGz8TtU31bf1nm2KcNQ8Vbpump",
+      "price": 8.657332247922448e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T07:15:48+00:00",
+      "side": "buy",
+      "symbol": "HI",
+      "address": "6LL4ejfPXUP1AQ9qQtrZjHrNdRpJ4wtLBEiDToKXpump",
+      "price": 1.084560876910574e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T07:15:48+00:00",
+      "side": "buy",
+      "symbol": "ABC",
+      "address": "CMp19dfScaorHdW8YHoxiKA1Vy3ojMo9gLMQZjQLpump",
+      "price": 1.2889466383555763e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T07:15:48+00:00",
+      "side": "buy",
+      "symbol": "DEBIT",
+      "address": "7ZHHyEWbV6ZcnzGQrPJwFNnP5r7Q41qXKamXfdzGpump",
+      "price": 4.28189387019969e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T13:49:12+00:00",
-      "equity": 3460329.02
-    },
     {
       "date": "2026-10-08T14:06:26+00:00",
       "equity": 3460306.74
@@ -8506,6 +8533,10 @@
     {
       "date": "2026-10-31T06:12:35+00:00",
       "equity": 6532111.28
+    },
+    {
+      "date": "2026-10-31T07:15:48+00:00",
+      "equity": 6532102.67
     }
   ]
 }
