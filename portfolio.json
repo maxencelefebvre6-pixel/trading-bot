@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6531913.9175229035,
+  "cash": 6531947.905874221,
   "positions": {
-    "8jfFxhQmsnCWNrvdtURtc6Q65EmetNPdT2cxZSSJpump": {
-      "symbol": "TANUKIMU",
-      "qty": 4435819.867076871,
-      "entry_price": 1.1159154673388405e-05,
-      "last_price": 1.077099882e-05,
+    "6wQWiPPQtW8RVucJvaaW11aE8r4w5zvfmTG1J325pump": {
+      "symbol": "BETR",
+      "qty": 2898690.6211091,
+      "entry_price": 1.707667580649233e-05,
+      "last_price": 1.6544273208381228e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T08:05:31+00:00",
-      "missing": 0
-    },
-    "A8DcgSiXTM611B2H4KvpyWxskLhiHhydMcVzht9Bpump": {
-      "symbol": "c²",
-      "qty": 4297880.68947592,
-      "entry_price": 1.1517304359148226e-05,
-      "last_price": 1.1151899874954748e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T08:48:29+00:00",
+      "entry_time": "2026-10-31T09:25:20+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T20:58:02+00:00",
-      "side": "sell",
-      "symbol": "$FUE",
-      "address": "6gQypxRHf1L8DcUNXTABdy7gMURAEeTacYbLpFAWpump",
-      "price": 1.470338234e-05,
-      "proceeds": 45.56,
-      "pnl_usd": -4.44,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-26T20:58:02+00:00",
-      "side": "sell",
-      "symbol": "Squirrel",
-      "address": "5kZGfFWVqG3Ufyin53qqDikLsDWApDQ7cL4p4iK1pump",
-      "price": 1.896414087e-06,
-      "proceeds": 4.54,
-      "pnl_usd": -45.46,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-26T20:58:02+00:00",
-      "side": "buy",
-      "symbol": "Viva",
-      "address": "7D7teSyJP6iGbzZG6wUVYpMErVQLDwLqDGRd18bapump",
-      "price": 9.53337897896133e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-26T20:58:02+00:00",
       "side": "buy",
@@ -4521,13 +4484,37 @@
       "address": "A8DcgSiXTM611B2H4KvpyWxskLhiHhydMcVzht9Bpump",
       "price": 1.1517304359148226e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T09:25:20+00:00",
+      "side": "sell",
+      "symbol": "TANUKIMU",
+      "address": "8jfFxhQmsnCWNrvdtURtc6Q65EmetNPdT2cxZSSJpump",
+      "price": 1.077099882e-05,
+      "proceeds": 45.61,
+      "pnl_usd": -4.39,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-31T09:25:20+00:00",
+      "side": "sell",
+      "symbol": "c²",
+      "address": "A8DcgSiXTM611B2H4KvpyWxskLhiHhydMcVzht9Bpump",
+      "price": 1.804025313e-05,
+      "proceeds": 38.38,
+      "pnl_usd": -11.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T09:25:20+00:00",
+      "side": "buy",
+      "symbol": "BETR",
+      "address": "6wQWiPPQtW8RVucJvaaW11aE8r4w5zvfmTG1J325pump",
+      "price": 1.707667580649233e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T14:54:50+00:00",
-      "equity": 3600281.81
-    },
     {
       "date": "2026-10-08T15:16:22+00:00",
       "equity": 3600150.97
@@ -8523,6 +8510,10 @@
     {
       "date": "2026-10-31T08:48:29+00:00",
       "equity": 6532009.63
+    },
+    {
+      "date": "2026-10-31T09:25:20+00:00",
+      "equity": 6531995.86
     }
   ]
 }
