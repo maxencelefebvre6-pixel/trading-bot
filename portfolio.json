@@ -1,44 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 6532441.879628583,
+  "cash": 6532291.879628583,
   "positions": {
     "oxhVXaFoBvTZkmiZnNVvHZjKgSdRTaEw57j8MaCpump": {
       "symbol": "LAGR",
       "qty": 3970712.477539528,
       "entry_price": 1.2466276588898958e-05,
-      "last_price": 1.1998634133178482e-05,
+      "last_price": 1.199079125e-05,
       "cost": 50.0,
       "entry_time": "2026-10-30T23:53:43+00:00",
+      "missing": 0
+    },
+    "9oVCy22VN1qUfYaZ47zvDMeCuquqWGFw4yYrWfgfpump": {
+      "symbol": "67oween",
+      "qty": 5196363.458558619,
+      "entry_price": 9.525892558279678e-06,
+      "last_price": 9.188341320159157e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T00:44:32+00:00",
+      "missing": 0
+    },
+    "7UJ2XmhB2TU1GgviTquvWKpdADsf6MwfvxRhUredpump": {
+      "symbol": "CNMRL",
+      "qty": 7553921.293654142,
+      "entry_price": 6.5528879737711454e-06,
+      "last_price": 6.349285104751673e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T00:44:32+00:00",
+      "missing": 0
+    },
+    "J26NEZnqkwgetHFn7ChEjbwLUYGpFQKkcHG6Uz7dpump": {
+      "symbol": "CNMRL",
+      "qty": 3150552.344320968,
+      "entry_price": 1.571153073816605e-05,
+      "last_price": 1.5189185737057729e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T00:44:32+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T10:23:22+00:00",
-      "side": "sell",
-      "symbol": "Sushipoly",
-      "address": "AqQqkK4vE2Tiz3Qj1TbH7FU9oh3rnYDky6TJMgFLpump",
-      "price": 2.884064899e-05,
-      "proceeds": 45.94,
-      "pnl_usd": -4.06,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-26T10:23:22+00:00",
-      "side": "buy",
-      "symbol": "McComedian",
-      "address": "8ytcTDdxKSqA6mqvyyXCwEy6Gt44j4CCm3Jqvqdipump",
-      "price": 1.4929629937936269e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T10:23:22+00:00",
-      "side": "buy",
-      "symbol": "SpaceX",
-      "address": "BXUJqMPi9wzse36qJb5tdwXtKsdCLB16iBcVuffNpump",
-      "price": 0.0004169279243491628,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-26T11:07:48+00:00",
       "side": "sell",
@@ -4512,13 +4513,33 @@
       "address": "oxhVXaFoBvTZkmiZnNVvHZjKgSdRTaEw57j8MaCpump",
       "price": 1.2466276588898958e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T00:44:32+00:00",
+      "side": "buy",
+      "symbol": "67oween",
+      "address": "9oVCy22VN1qUfYaZ47zvDMeCuquqWGFw4yYrWfgfpump",
+      "price": 9.525892558279678e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T00:44:32+00:00",
+      "side": "buy",
+      "symbol": "CNMRL",
+      "address": "7UJ2XmhB2TU1GgviTquvWKpdADsf6MwfvxRhUredpump",
+      "price": 6.5528879737711454e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T00:44:32+00:00",
+      "side": "buy",
+      "symbol": "CNMRL",
+      "address": "J26NEZnqkwgetHFn7ChEjbwLUYGpFQKkcHG6Uz7dpump",
+      "price": 1.571153073816605e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T10:39:50+00:00",
-      "equity": 3460821.7
-    },
     {
       "date": "2026-10-08T10:58:42+00:00",
       "equity": 3460746.46
@@ -8514,6 +8535,10 @@
     {
       "date": "2026-10-30T23:53:43+00:00",
       "equity": 6532489.52
+    },
+    {
+      "date": "2026-10-31T00:44:32+00:00",
+      "equity": 6532483.05
     }
   ]
 }
