@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6532059.569827729,
+  "cash": 6532100.327172367,
   "positions": {
-    "CqFs1josy2N22Ke8eK11TAJJZ5Has6Tbz2cGofX7pump": {
-      "symbol": "iEarly",
-      "qty": 6130680.618203856,
-      "entry_price": 8.074144305123226e-06,
-      "last_price": 7.776612686e-06,
+    "6beU5DRNgTWmfJ8T2CzgfoB5y7KsfpbJMgeNgtfDpump": {
+      "symbol": "anon",
+      "qty": 3800069.4297003425,
+      "entry_price": 1.3026077790347994e-05,
+      "last_price": 1.2545933564464169e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T04:07:19+00:00",
-      "missing": 0
-    },
-    "BNigjpG4TdCELdEJChTR5XJF5gBi3SYGwhWwp4hnpump": {
-      "symbol": "Grok",
-      "qty": 6753575.208325066,
-      "entry_price": 7.329451212593566e-06,
-      "last_price": 7.054317183e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T04:07:19+00:00",
+      "entry_time": "2026-10-31T05:29:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T17:32:07+00:00",
-      "side": "sell",
-      "symbol": "AudaCity",
-      "address": "DPQWwTEtb8BF3MJL6a9qumyXJLj9SJNkFCiN5RwLpump",
-      "price": 2.884471005e-05,
-      "proceeds": 52.8,
-      "pnl_usd": 2.8,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-26T17:32:07+00:00",
-      "side": "sell",
-      "symbol": "SOB",
-      "address": "BEGt58ELcKNLYkbYjBEpZqnRFCT6Kfvd3wHjAB5Tpump",
-      "price": 2.219669991e-05,
-      "proceeds": 68.77,
-      "pnl_usd": 18.77,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-26T17:32:07+00:00",
-      "side": "buy",
-      "symbol": "inkINTERN",
-      "address": "Gvuuun1E8zaYWyAtTj4J3mpvaV7A1P99AokYsQxvpump",
-      "price": 1.1177854728470968e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-26T17:32:07+00:00",
       "side": "buy",
@@ -4521,13 +4484,37 @@
       "proceeds": 41.59,
       "pnl_usd": -8.41,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T05:29:02+00:00",
+      "side": "sell",
+      "symbol": "iEarly",
+      "address": "CqFs1josy2N22Ke8eK11TAJJZ5Has6Tbz2cGofX7pump",
+      "price": 7.776612686e-06,
+      "proceeds": 45.41,
+      "pnl_usd": -4.59,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-31T05:29:02+00:00",
+      "side": "sell",
+      "symbol": "Grok",
+      "address": "BNigjpG4TdCELdEJChTR5XJF5gBi3SYGwhWwp4hnpump",
+      "price": 7.054317183e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-31T05:29:02+00:00",
+      "side": "buy",
+      "symbol": "anon",
+      "address": "6beU5DRNgTWmfJ8T2CzgfoB5y7KsfpbJMgeNgtfDpump",
+      "price": 1.3026077790347994e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T12:58:55+00:00",
-      "equity": 3460605.97
-    },
     {
       "date": "2026-10-08T13:25:45+00:00",
       "equity": 3460466.36
@@ -8523,6 +8510,10 @@
     {
       "date": "2026-10-31T04:51:58+00:00",
       "equity": 6532154.89
+    },
+    {
+      "date": "2026-10-31T05:29:02+00:00",
+      "equity": 6532148.0
     }
   ]
 }
