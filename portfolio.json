@@ -1,30 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 6531197.4183601,
+  "cash": 6531190.929332423,
   "positions": {
-    "yaiiGG34yT1c2YPeGwUErub2mpGMsTGratHGnp4pump": {
-      "symbol": "GETPAID",
-      "qty": 6681753.404618617,
-      "entry_price": 7.4082350847884025e-06,
-      "last_price": 7.131020626e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T19:53:07+00:00",
-      "missing": 0
-    },
-    "fu7JWsUtgQyJ84VaStM5yypTk6rtLPitpJrQKxvpump": {
-      "symbol": "RUBLE",
-      "qty": 854219.4843163346,
-      "entry_price": 5.7947636302883904e-05,
-      "last_price": 5.611007980186064e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T20:24:42+00:00",
-      "missing": 0
-    },
     "HNfGR2wiL3KLFQCSmKysHDbD5cvb5PCyCKfWuV88pump": {
       "symbol": "OLC",
       "qty": 4860574.04551053,
       "entry_price": 1.0183982290264806e-05,
-      "last_price": 9.825029919671451e-06,
+      "last_price": 9.769850997e-06,
       "cost": 50.0,
       "entry_time": "2026-10-31T20:24:42+00:00",
       "missing": 0
@@ -33,49 +15,31 @@
       "symbol": "thebeets",
       "qty": 7222044.772259326,
       "entry_price": 6.854014556948606e-06,
-      "last_price": 6.592672477275106e-06,
+      "last_price": 6.592672477e-06,
       "cost": 50.0,
       "entry_time": "2026-10-31T20:24:42+00:00",
+      "missing": 0
+    },
+    "DYgmLoWBUnfa3gd1CqaSrCNj9xA5kqwWoewD5VANpump": {
+      "symbol": "Gatsby",
+      "qty": 17552275.751366246,
+      "entry_price": 2.8201471251468336e-06,
+      "last_price": 2.718733465586112e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T21:03:17+00:00",
+      "missing": 0
+    },
+    "EbDB1SY1A19N1DCPcQ7GzytyY5ABVxoZ6YJeKPLkpump": {
+      "symbol": "BARRON",
+      "qty": 6020283.425312985,
+      "entry_price": 8.22220425567864e-06,
+      "last_price": 7.913500038048765e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T21:03:17+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T10:07:18+00:00",
-      "side": "buy",
-      "symbol": "TOMAMI",
-      "address": "5bDtxo7ytnRQUTi72XNfzYA2YWCSdmRbQ3mgKJozpump",
-      "price": 5.139735234442229e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T10:07:18+00:00",
-      "side": "buy",
-      "symbol": "MINE",
-      "address": "5BAB9FivV6xCPY1hUadEs66YwDLoWaLkkQoHLjaYpump",
-      "price": 8.862446820714688e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T10:46:25+00:00",
-      "side": "sell",
-      "symbol": "Dog Think",
-      "address": "Fow3RE7s3eFF2HWQWX4f4aGU1d6eCQE5i4NMvwFGpump",
-      "price": 7.743904868e-06,
-      "proceeds": 45.42,
-      "pnl_usd": -4.58,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-27T10:46:25+00:00",
-      "side": "sell",
-      "symbol": "Antbell",
-      "address": "HU3Bv1CXPwpZhdysiLsAhQtJsBvY34VHDSSyYQJtpump",
-      "price": 5.409195571e-05,
-      "proceeds": 0.06,
-      "pnl_usd": -49.94,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-27T10:46:25+00:00",
       "side": "sell",
@@ -4537,13 +4501,45 @@
       "address": "42oE7GcsvWjtw1hpDgoSMc6VhD85mNikaXFBhGCypump",
       "price": 6.854014556948606e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T21:03:16+00:00",
+      "side": "sell",
+      "symbol": "GETPAID",
+      "address": "yaiiGG34yT1c2YPeGwUErub2mpGMsTGratHGnp4pump",
+      "price": 7.131020626e-06,
+      "proceeds": 45.36,
+      "pnl_usd": -4.64,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-31T21:03:16+00:00",
+      "side": "sell",
+      "symbol": "RUBLE",
+      "address": "fu7JWsUtgQyJ84VaStM5yypTk6rtLPitpJrQKxvpump",
+      "price": 0.000113882235,
+      "proceeds": 48.15,
+      "pnl_usd": -1.85,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T21:03:17+00:00",
+      "side": "buy",
+      "symbol": "Gatsby",
+      "address": "DYgmLoWBUnfa3gd1CqaSrCNj9xA5kqwWoewD5VANpump",
+      "price": 2.8201471251468336e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T21:03:17+00:00",
+      "side": "buy",
+      "symbol": "BARRON",
+      "address": "EbDB1SY1A19N1DCPcQ7GzytyY5ABVxoZ6YJeKPLkpump",
+      "price": 8.22220425567864e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T21:52:03+00:00",
-      "equity": 3600012.88
-    },
     {
       "date": "2026-10-08T22:31:44+00:00",
       "equity": 3600006.91
@@ -8539,6 +8535,10 @@
     {
       "date": "2026-10-31T20:24:42+00:00",
       "equity": 6531388.36
+    },
+    {
+      "date": "2026-10-31T21:03:17+00:00",
+      "equity": 6531381.39
     }
   ]
 }
