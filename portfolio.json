@@ -1,74 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6531325.248096887,
+  "cash": 6531268.761318499,
   "positions": {
-    "Df7kaKskbRMAYEkPEGJ1e33n4RPWDNs9GP9pzPjgpump": {
-      "symbol": "Satoshi",
-      "qty": 2604813.2479684385,
-      "entry_price": 1.9003281728011147e-05,
-      "last_price": 1.856657697e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T18:26:12+00:00",
-      "missing": 0
-    },
-    "3X5PUFtm4MmAZ97QiUx93zZjMi2GDvqnsvxhmRDKpump": {
-      "symbol": "Vamp",
-      "qty": 10829965.090819689,
-      "entry_price": 4.570651852050752e-06,
-      "last_price": 4.397153539989267e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T19:15:21+00:00",
-      "missing": 0
-    },
     "27PHzH9KZR3ZMtrbcvRifeqqDj2Z9i9LuXPuyGSUpump": {
       "symbol": "MUSTARD",
       "qty": 6298125.188568561,
       "entry_price": 7.859481753370857e-06,
-      "last_price": 7.573508156989638e-06,
+      "last_price": 7.573508157e-06,
       "cost": 50.0,
       "entry_time": "2026-10-31T19:15:21+00:00",
+      "missing": 0
+    },
+    "8varCmgmfw1k3dTrSyiTWiguhs9a7wGNYZVYSp7bpump": {
+      "symbol": "KIM",
+      "qty": 805243.5561530347,
+      "entry_price": 6.147208459075535e-05,
+      "last_price": 5.952835917396594e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T19:53:07+00:00",
+      "missing": 0
+    },
+    "yaiiGG34yT1c2YPeGwUErub2mpGMsTGratHGnp4pump": {
+      "symbol": "GETPAID",
+      "qty": 6681753.404618617,
+      "entry_price": 7.4082350847884025e-06,
+      "last_price": 7.131020626327132e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T19:53:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T07:58:28+00:00",
-      "side": "sell",
-      "symbol": "BLUNTS",
-      "address": "9AwWUFAqz9AyoxBjfKysYLpdUVD9aJN5HyjcMBTApump",
-      "price": 4.377829927e-05,
-      "proceeds": 55.36,
-      "pnl_usd": 5.36,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-27T07:58:28+00:00",
-      "side": "sell",
-      "symbol": "GHOSTED",
-      "address": "FFawrvyCdVnpkdhiRJqacrkiKupkyUrNz6JsriUEpump",
-      "price": 3.285820112e-06,
-      "proceeds": 11.74,
-      "pnl_usd": -38.26,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T07:58:28+00:00",
-      "side": "sell",
-      "symbol": "MYTHOS",
-      "address": "27EGQ8JteTZqC1oh336BQcYymgsuLwzuLpWwQ5f2pump",
-      "price": 4.807205432e-08,
-      "proceeds": 0.24,
-      "pnl_usd": -49.76,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-27T07:58:28+00:00",
-      "side": "buy",
-      "symbol": "ELON2028",
-      "address": "25SXsMvsJFXHCHocQSyz5zrqnTbcyhA55ev9qVtRpump",
-      "price": 9.038104518450475e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T08:41:19+00:00",
       "side": "sell",
@@ -4530,13 +4492,45 @@
       "address": "27PHzH9KZR3ZMtrbcvRifeqqDj2Z9i9LuXPuyGSUpump",
       "price": 7.859481753370857e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T19:53:07+00:00",
+      "side": "sell",
+      "symbol": "Satoshi",
+      "address": "Df7kaKskbRMAYEkPEGJ1e33n4RPWDNs9GP9pzPjgpump",
+      "price": 6.176439161e-06,
+      "proceeds": 15.38,
+      "pnl_usd": -34.62,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T19:53:07+00:00",
+      "side": "sell",
+      "symbol": "Vamp",
+      "address": "3X5PUFtm4MmAZ97QiUx93zZjMi2GDvqnsvxhmRDKpump",
+      "price": 2.744008414e-06,
+      "proceeds": 28.13,
+      "pnl_usd": -21.87,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T19:53:07+00:00",
+      "side": "buy",
+      "symbol": "KIM",
+      "address": "8varCmgmfw1k3dTrSyiTWiguhs9a7wGNYZVYSp7bpump",
+      "price": 6.147208459075535e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T19:53:07+00:00",
+      "side": "buy",
+      "symbol": "GETPAID",
+      "address": "yaiiGG34yT1c2YPeGwUErub2mpGMsTGratHGnp4pump",
+      "price": 7.4082350847884025e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T21:08:49+00:00",
-      "equity": 3600188.44
-    },
     {
       "date": "2026-10-08T21:31:05+00:00",
       "equity": 3600154.42
@@ -8532,6 +8526,10 @@
     {
       "date": "2026-10-31T19:15:21+00:00",
       "equity": 6531468.93
+    },
+    {
+      "date": "2026-10-31T19:53:07+00:00",
+      "equity": 6531412.04
     }
   ]
 }
