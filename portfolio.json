@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6532164.253639045,
+  "cash": 6532164.053964517,
   "positions": {
-    "5q72BqPB1XG9AAjX5r3b8s36bKjiHs7BthLEEucUpump": {
-      "symbol": "$Tenure",
-      "qty": 1063302.6270431627,
-      "entry_price": 4.655306846899255e-05,
-      "last_price": 4.516084727e-05,
+    "DqTK9UcMfQ46grhED8pgwM9uAWNisK89ogHFZP1cpump": {
+      "symbol": "SXSN",
+      "qty": 7392302.287171836,
+      "entry_price": 6.696154740032665e-06,
+      "last_price": 6.439789306269487e-06,
       "cost": 50.0,
-      "entry_time": "2026-10-31T11:55:31+00:00",
-      "missing": 0
-    },
-    "dsRuFYFcPrLMqzkVDZxTiwNkGXdHt95gHDzd1tmpump": {
-      "symbol": "PUMPE",
-      "qty": 2053747.052701414,
-      "entry_price": 2.4102286566833896e-05,
-      "last_price": 2.3251061291124297e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T12:41:03+00:00",
+      "entry_time": "2026-10-31T13:30:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T00:17:27+00:00",
-      "side": "buy",
-      "symbol": "PONS",
-      "address": "7kC62Ke2qJxysUbCsEQBdvUYneUzBCGMUkMNQPuMpump",
-      "price": 9.514494783370578e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T00:17:27+00:00",
-      "side": "buy",
-      "symbol": "JB",
-      "address": "4EedivUGV4Vx26mMkVWyYbZooGFrL8j1CWuY63xEpump",
-      "price": 1.9121472572014725e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T01:12:10+00:00",
-      "side": "sell",
-      "symbol": "PONS",
-      "address": "7kC62Ke2qJxysUbCsEQBdvUYneUzBCGMUkMNQPuMpump",
-      "price": 3.208012276e-06,
-      "proceeds": 15.92,
-      "pnl_usd": -34.08,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-27T01:12:10+00:00",
       "side": "sell",
@@ -4519,13 +4484,37 @@
       "address": "dsRuFYFcPrLMqzkVDZxTiwNkGXdHt95gHDzd1tmpump",
       "price": 2.4102286566833896e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T13:30:31+00:00",
+      "side": "sell",
+      "symbol": "$Tenure",
+      "address": "5q72BqPB1XG9AAjX5r3b8s36bKjiHs7BthLEEucUpump",
+      "price": 4.516084727e-05,
+      "proceeds": 46.05,
+      "pnl_usd": -3.95,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-31T13:30:31+00:00",
+      "side": "sell",
+      "symbol": "PUMPE",
+      "address": "dsRuFYFcPrLMqzkVDZxTiwNkGXdHt95gHDzd1tmpump",
+      "price": 1.918472747e-06,
+      "proceeds": 3.75,
+      "pnl_usd": -46.25,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T13:30:31+00:00",
+      "side": "buy",
+      "symbol": "SXSN",
+      "address": "DqTK9UcMfQ46grhED8pgwM9uAWNisK89ogHFZP1cpump",
+      "price": 6.696154740032665e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T17:10:21+00:00",
-      "equity": 3600355.31
-    },
     {
       "date": "2026-10-08T17:32:54+00:00",
       "equity": 3600353.26
@@ -8521,6 +8510,10 @@
     {
       "date": "2026-10-31T12:41:03+00:00",
       "equity": 6532260.03
+    },
+    {
+      "date": "2026-10-31T13:30:31+00:00",
+      "equity": 6532211.66
     }
   ]
 }
