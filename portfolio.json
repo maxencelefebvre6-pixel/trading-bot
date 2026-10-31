@@ -1,66 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 6531574.520963403,
+  "cash": 6531388.87027776,
   "positions": {
-    "HUruNLrdNFsMjcJHqffpy7UUENi8ssJhsDE3Nxsjpump": {
-      "symbol": "ERIC",
-      "qty": 5601334.410054448,
-      "entry_price": 8.837179924688487e-06,
-      "last_price": 8.49868096834104e-06,
+    "BJVWrJnwMkZ5upJcQqeQ4eShsfuvcEgzxnr6jprBpump": {
+      "symbol": "pissdog",
+      "qty": 1383497.574190151,
+      "entry_price": 3.577888456289885e-05,
+      "last_price": 3.4526087812336715e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T17:51:00+00:00",
+      "entry_time": "2026-10-31T18:26:12+00:00",
+      "missing": 0
+    },
+    "Df7kaKskbRMAYEkPEGJ1e33n4RPWDNs9GP9pzPjgpump": {
+      "symbol": "Satoshi",
+      "qty": 2604813.2479684385,
+      "entry_price": 1.9003281728011147e-05,
+      "last_price": 1.832741977886967e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T18:26:12+00:00",
+      "missing": 0
+    },
+    "HFYREUWqczyFxP1doY63bzBry1dGqsLuCMEK6eCzpump": {
+      "symbol": "Mika",
+      "qty": 412770.03863726585,
+      "entry_price": 0.00011992149469816442,
+      "last_price": 0.00011620948316163654,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T18:26:12+00:00",
+      "missing": 0
+    },
+    "CEB3egedvQ8V3jRzwcAvuj3ZDLQiwN2EnXqP8pCypump": {
+      "symbol": "Satoshi",
+      "qty": 3381328.467747181,
+      "entry_price": 1.4639216648768673e-05,
+      "last_price": 1.4112841082163379e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T18:26:12+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T07:10:53+00:00",
-      "side": "sell",
-      "symbol": "ONC",
-      "address": "4KSx1MAyyDB47y42WRF2LHBFErt7iNFZd9TePmySpump",
-      "price": 2.611031431e-06,
-      "proceeds": 3.34,
-      "pnl_usd": -46.66,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T07:10:53+00:00",
-      "side": "sell",
-      "symbol": "DINO STAR",
-      "address": "DdyMJPQW5N7eVJyYhUroboSnFcrXtQsJHvqbx4Bspump",
-      "price": 2.056484223e-09,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-27T07:10:53+00:00",
-      "side": "sell",
-      "symbol": "MBOAR",
-      "address": "2oQrNrww7oS2rPnTpNVBQyn7zMekcFDMzTgt39aDpump",
-      "price": 2.824554863e-06,
-      "proceeds": 14.54,
-      "pnl_usd": -35.46,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T07:10:53+00:00",
-      "side": "sell",
-      "symbol": "BPCATE",
-      "address": "CreahLymARdsRX1tFikSyMim1BEnBWCHQ4pv6Y4zpump",
-      "price": 3.879058693e-09,
-      "proceeds": 0.06,
-      "pnl_usd": -49.94,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-27T07:10:54+00:00",
-      "side": "buy",
-      "symbol": "Musashi",
-      "address": "GpV8dWpbE94Gr1j1aVeQKcBQdPci8Vnwdm9mMXbgpump",
-      "price": 1.4530603950724945e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T07:10:54+00:00",
       "side": "buy",
@@ -4516,13 +4495,51 @@
       "address": "HUruNLrdNFsMjcJHqffpy7UUENi8ssJhsDE3Nxsjpump",
       "price": 8.837179924688487e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T18:26:12+00:00",
+      "side": "sell",
+      "symbol": "ERIC",
+      "address": "HUruNLrdNFsMjcJHqffpy7UUENi8ssJhsDE3Nxsjpump",
+      "price": 2.687242275e-06,
+      "proceeds": 14.35,
+      "pnl_usd": -35.65,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T18:26:12+00:00",
+      "side": "buy",
+      "symbol": "pissdog",
+      "address": "BJVWrJnwMkZ5upJcQqeQ4eShsfuvcEgzxnr6jprBpump",
+      "price": 3.577888456289885e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T18:26:12+00:00",
+      "side": "buy",
+      "symbol": "Satoshi",
+      "address": "Df7kaKskbRMAYEkPEGJ1e33n4RPWDNs9GP9pzPjgpump",
+      "price": 1.9003281728011147e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T18:26:12+00:00",
+      "side": "buy",
+      "symbol": "Mika",
+      "address": "HFYREUWqczyFxP1doY63bzBry1dGqsLuCMEK6eCzpump",
+      "price": 0.00011992149469816442,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T18:26:12+00:00",
+      "side": "buy",
+      "symbol": "Satoshi",
+      "address": "CEB3egedvQ8V3jRzwcAvuj3ZDLQiwN2EnXqP8pCypump",
+      "price": 1.4639216648768673e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T20:28:03+00:00",
-      "equity": 3600304.92
-    },
     {
       "date": "2026-10-08T20:51:24+00:00",
       "equity": 3600223.3
@@ -8518,6 +8535,10 @@
     {
       "date": "2026-10-31T17:51:00+00:00",
       "equity": 6531622.12
+    },
+    {
+      "date": "2026-10-31T18:26:12+00:00",
+      "equity": 6531580.06
     }
   ]
 }
