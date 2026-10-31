@@ -1,28 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6531955.3860255545,
+  "cash": 6531905.3860255545,
   "positions": {
     "G6oYq7R1ui8y6e1cY2fBB2xEws13c7Jz3AHddgsbpump": {
       "symbol": "song",
       "qty": 4984879.169046068,
       "entry_price": 9.930030061184527e-06,
-      "last_price": 9.576292240120901e-06,
+      "last_price": 9.57629224e-06,
       "cost": 50.0,
       "entry_time": "2026-10-31T10:08:55+00:00",
+      "missing": 0
+    },
+    "7mDBmYJ72rakqXq6kCaUMwtqQfySi4nCr3tdYM2kpump": {
+      "symbol": "Bottominu",
+      "qty": 4691371.462448996,
+      "entry_price": 1.0551285566749802e-05,
+      "last_price": 1.0216513029923704e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T10:46:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T21:33:11+00:00",
-      "side": "sell",
-      "symbol": "PUPPYFLOW",
-      "address": "3mV9BQpoZMGk2EDGi3fBNr5hjfwyk3ZpFtQQzSEUpump",
-      "price": 3.593606952e-07,
-      "proceeds": 1.49,
-      "pnl_usd": -48.51,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-26T22:09:34+00:00",
       "side": "buy",
@@ -4512,13 +4511,17 @@
       "address": "G6oYq7R1ui8y6e1cY2fBB2xEws13c7Jz3AHddgsbpump",
       "price": 9.930030061184527e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T10:46:18+00:00",
+      "side": "buy",
+      "symbol": "Bottominu",
+      "address": "7mDBmYJ72rakqXq6kCaUMwtqQfySi4nCr3tdYM2kpump",
+      "price": 1.0551285566749802e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T15:40:33+00:00",
-      "equity": 3600121.11
-    },
     {
       "date": "2026-10-08T16:01:10+00:00",
       "equity": 3600119.71
@@ -8514,6 +8517,10 @@
     {
       "date": "2026-10-31T10:08:55+00:00",
       "equity": 6532003.12
+    },
+    {
+      "date": "2026-10-31T10:46:18+00:00",
+      "equity": 6532001.05
     }
   ]
 }
