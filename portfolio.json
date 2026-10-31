@@ -1,99 +1,63 @@
 {
   "mode": "pumpfun",
-  "cash": 6531879.018371989,
+  "cash": 6531666.269352059,
   "positions": {
-    "9iyQ42oSQmFALrBokvmAztX1Eac586ALneSfypB3pump": {
-      "symbol": "trump",
-      "qty": 2874815.860156265,
-      "entry_price": 1.721849412550178e-05,
-      "last_price": 1.665832182e-05,
+    "BEFkdkzpAar5d8kbsqzcEQLjPZ61hHbiJ2pdCZM4pump": {
+      "symbol": "CHAIRMAN",
+      "qty": 3988510.582904856,
+      "entry_price": 1.2410647777183244e-05,
+      "last_price": 1.1945124582937852e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T14:54:00+00:00",
+      "entry_time": "2026-10-31T16:05:23+00:00",
       "missing": 0
     },
-    "B7i9DeqRPxwpMrdzGSykf8aig5nL5iv9JifNxvm2pump": {
-      "symbol": "bbyduck",
-      "qty": 3764903.666412293,
-      "entry_price": 1.3147746764838278e-05,
-      "last_price": 1.2662545645761779e-05,
+    "9FH8p4Rn5F2qojH6rGZoUR5AsVgVzCocme5P5eZppump": {
+      "symbol": "SpaceX",
+      "qty": 410438.73874989187,
+      "entry_price": 0.00012060265108202592,
+      "last_price": 0.00011687200613341551,
       "cost": 50.0,
-      "entry_time": "2026-10-31T15:27:07+00:00",
+      "entry_time": "2026-10-31T16:05:23+00:00",
+      "missing": 0
+    },
+    "48osrTSzFEu4z6Cpm9utz3U2TVhAjTsuiJEHVAP6pump": {
+      "symbol": "ROCCO",
+      "qty": 2622759.478003727,
+      "entry_price": 1.8873251785053568e-05,
+      "last_price": 1.818079606910913e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T16:05:23+00:00",
+      "missing": 0
+    },
+    "5D66et62hQ8mv7ymhycuvdyB3pR7871AQL2GK6eTpump": {
+      "symbol": "CHAIRMAN",
+      "qty": 2646491.567245095,
+      "entry_price": 1.870400820945285e-05,
+      "last_price": 1.801581639576042e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T16:05:23+00:00",
+      "missing": 0
+    },
+    "9iHTo4x6Ha3kVT9cZobGfggaMwtspNxhK6GFDdULpump": {
+      "symbol": "ROCCO",
+      "qty": 2749919.2498520967,
+      "entry_price": 1.800052856194317e-05,
+      "last_price": 1.733842483075345e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T16:05:23+00:00",
+      "missing": 0
+    },
+    "HgYtCC9fGS8o7gNJW2QNDCoKa4D8vkFcPNhVU8uZpump": {
+      "symbol": "JUMP",
+      "qty": 5371957.849646605,
+      "entry_price": 9.214517571699929e-06,
+      "last_price": 8.883148771022456e-06,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T16:05:23+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T04:21:42+00:00",
-      "side": "sell",
-      "symbol": "dih",
-      "address": "CUN1EsXa9QEpVooQJSNFoxYwNHrnzYe8PFU3FW62pump",
-      "price": 1.259267825e-05,
-      "proceeds": 45.7,
-      "pnl_usd": -4.3,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-27T04:21:42+00:00",
-      "side": "sell",
-      "symbol": "PSA",
-      "address": "65CDzcMYLEbT68WqWftMGS7u5JRmRNGou8ifuGtPpump",
-      "price": 2.954785942e-06,
-      "proceeds": 5.23,
-      "pnl_usd": -44.77,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T04:21:42+00:00",
-      "side": "sell",
-      "symbol": "COFEEE",
-      "address": "4DThu1kQ96DaB3pnr9wRqUzjy8g9ZKTVDsJYAinUpump",
-      "price": 2.801477644e-06,
-      "proceeds": 4.63,
-      "pnl_usd": -45.37,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T04:21:42+00:00",
-      "side": "sell",
-      "symbol": "PUMP",
-      "address": "GygQKTR468AxQWNoGeReHVJqCbCngDsZFp6zR8BQpump",
-      "price": 4.481085661e-05,
-      "proceeds": 66.97,
-      "pnl_usd": 16.97,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-27T04:21:42+00:00",
-      "side": "buy",
-      "symbol": "LEGO",
-      "address": "8PxGdcjqX5huccb3k89LAx8gQf5ZgoAdnU6866Qzpump",
-      "price": 1.9388343427838516e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T05:01:06+00:00",
-      "side": "buy",
-      "symbol": "ELUN",
-      "address": "GVKcQQurZKZxV2pQG5MvkCnuMxgqTiup3d1azCiCpump",
-      "price": 3.795758671071016e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T05:01:06+00:00",
-      "side": "buy",
-      "symbol": "Melon",
-      "address": "4zdaiBDzu3cq3dMqftrMVgp7T5LwfCLNbbjEjEfbpump",
-      "price": 1.6533461587600332e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T05:01:06+00:00",
-      "side": "buy",
-      "symbol": "RICK",
-      "address": "7EXT4mMbgw1dCLVsCNpKUzFWtrQZxd7VKL7WYsQbpump",
-      "price": 8.506531810477069e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T05:36:02+00:00",
       "side": "sell",
@@ -4523,13 +4487,77 @@
       "address": "B7i9DeqRPxwpMrdzGSykf8aig5nL5iv9JifNxvm2pump",
       "price": 1.3147746764838278e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "side": "sell",
+      "symbol": "trump",
+      "address": "9iyQ42oSQmFALrBokvmAztX1Eac586ALneSfypB3pump",
+      "price": 1.665832182e-05,
+      "proceeds": 45.82,
+      "pnl_usd": -4.18,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "side": "sell",
+      "symbol": "bbyduck",
+      "address": "B7i9DeqRPxwpMrdzGSykf8aig5nL5iv9JifNxvm2pump",
+      "price": 1.153525351e-05,
+      "proceeds": 41.44,
+      "pnl_usd": -8.56,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "side": "buy",
+      "symbol": "CHAIRMAN",
+      "address": "BEFkdkzpAar5d8kbsqzcEQLjPZ61hHbiJ2pdCZM4pump",
+      "price": 1.2410647777183244e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "side": "buy",
+      "symbol": "SpaceX",
+      "address": "9FH8p4Rn5F2qojH6rGZoUR5AsVgVzCocme5P5eZppump",
+      "price": 0.00012060265108202592,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "side": "buy",
+      "symbol": "ROCCO",
+      "address": "48osrTSzFEu4z6Cpm9utz3U2TVhAjTsuiJEHVAP6pump",
+      "price": 1.8873251785053568e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "side": "buy",
+      "symbol": "CHAIRMAN",
+      "address": "5D66et62hQ8mv7ymhycuvdyB3pR7871AQL2GK6eTpump",
+      "price": 1.870400820945285e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "side": "buy",
+      "symbol": "ROCCO",
+      "address": "9iHTo4x6Ha3kVT9cZobGfggaMwtspNxhK6GFDdULpump",
+      "price": 1.800052856194317e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "side": "buy",
+      "symbol": "JUMP",
+      "address": "HgYtCC9fGS8o7gNJW2QNDCoKa4D8vkFcPNhVU8uZpump",
+      "price": 9.214517571699929e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T19:02:28+00:00",
-      "equity": 3600306.86
-    },
     {
       "date": "2026-10-08T19:25:32+00:00",
       "equity": 3600300.26
@@ -8525,6 +8553,10 @@
     {
       "date": "2026-10-31T15:27:07+00:00",
       "equity": 6531974.58
+    },
+    {
+      "date": "2026-10-31T16:05:23+00:00",
+      "equity": 6531952.64
     }
   ]
 }
