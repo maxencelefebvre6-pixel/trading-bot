@@ -1,51 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6531638.82316603,
+  "cash": 6531618.581030362,
   "positions": {
-    "8bSKcTxbcTWcgVykPHfRt4owiThLXcVmXcuVca9Mpump": {
-      "symbol": "DOUGHBRIKS",
-      "qty": 574809.3618886191,
-      "entry_price": 8.611550764824116e-05,
-      "last_price": 8.348307708933779e-05,
+    "aZB283v7vPiiYdTyHAb5jh8NDVw2ceFmEEALEqrpump": {
+      "symbol": "JAMES",
+      "qty": 2310006.734744819,
+      "entry_price": 2.1428508954311837e-05,
+      "last_price": 2.0659153113516752e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T16:41:38+00:00",
-      "missing": 0
-    },
-    "BsHJV6vkERPVWNZHwDf2NqYc4waJRSHedUfPaNtDpump": {
-      "symbol": "trench",
-      "qty": 3423718.228436029,
-      "entry_price": 1.4457965491690546e-05,
-      "last_price": 1.3987298703866754e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T16:41:38+00:00",
+      "entry_time": "2026-10-31T17:14:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T06:14:16+00:00",
-      "side": "buy",
-      "symbol": "ONC",
-      "address": "4KSx1MAyyDB47y42WRF2LHBFErt7iNFZd9TePmySpump",
-      "price": 3.7114261792367885e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T06:14:16+00:00",
-      "side": "buy",
-      "symbol": "DINO STAR",
-      "address": "DdyMJPQW5N7eVJyYhUroboSnFcrXtQsJHvqbx4Bspump",
-      "price": 5.573756832722714e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T06:14:16+00:00",
-      "side": "buy",
-      "symbol": "MBOAR",
-      "address": "2oQrNrww7oS2rPnTpNVBQyn7zMekcFDMzTgt39aDpump",
-      "price": 9.167490721153374e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T06:14:16+00:00",
       "side": "buy",
@@ -4519,13 +4486,37 @@
       "address": "BsHJV6vkERPVWNZHwDf2NqYc4waJRSHedUfPaNtDpump",
       "price": 1.4457965491690546e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T17:14:55+00:00",
+      "side": "sell",
+      "symbol": "DOUGHBRIKS",
+      "address": "8bSKcTxbcTWcgVykPHfRt4owiThLXcVmXcuVca9Mpump",
+      "price": 0.0001033060186,
+      "proceeds": 29.39,
+      "pnl_usd": -20.61,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T17:14:55+00:00",
+      "side": "sell",
+      "symbol": "trench",
+      "address": "BsHJV6vkERPVWNZHwDf2NqYc4waJRSHedUfPaNtDpump",
+      "price": 1.112647071e-07,
+      "proceeds": 0.36,
+      "pnl_usd": -49.64,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T17:14:56+00:00",
+      "side": "buy",
+      "symbol": "JAMES",
+      "address": "aZB283v7vPiiYdTyHAb5jh8NDVw2ceFmEEALEqrpump",
+      "price": 2.1428508954311837e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T19:47:25+00:00",
-      "equity": 3600207.64
-    },
     {
       "date": "2026-10-08T20:03:22+00:00",
       "equity": 3600312.04
@@ -8521,6 +8512,10 @@
     {
       "date": "2026-10-31T16:41:38+00:00",
       "equity": 6531734.7
+    },
+    {
+      "date": "2026-10-31T17:14:56+00:00",
+      "equity": 6531666.3
     }
   ]
 }
