@@ -1,85 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6532203.873142538,
-  "positions": {
-    "J26NEZnqkwgetHFn7ChEjbwLUYGpFQKkcHG6Uz7dpump": {
-      "symbol": "CNMRL",
-      "qty": 3150552.344320968,
-      "entry_price": 1.571153073816605e-05,
-      "last_price": 1.518918574e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T00:44:32+00:00",
-      "missing": 0
-    },
-    "H9n8ouEmHHeFyDFaK1gQyMAz5dXGgAbGp1hWyXsLpump": {
-      "symbol": "KOJIMA",
-      "qty": 1826272.3980952005,
-      "entry_price": 2.7104390370039228e-05,
-      "last_price": 2.6208562697239963e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T01:42:59+00:00",
-      "missing": 0
-    },
-    "CgwwHw9icEWAsFvoCA21W72s8yuR1bhNGEmE44x7pump": {
-      "symbol": "PINCHAN",
-      "qty": 5551402.647718589,
-      "entry_price": 8.916665416143536e-06,
-      "last_price": 8.574277894551425e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T01:42:59+00:00",
-      "missing": 0
-    },
-    "T4b7577eySmbeyCuWwkeRZkTTC7ejz17eDv8w6tpump": {
-      "symbol": "Gambler",
-      "qty": 5922205.565691817,
-      "entry_price": 8.358372476423408e-06,
-      "last_price": 8.053194975913774e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T01:42:59+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6532279.782050296,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-26T12:38:19+00:00",
-      "side": "sell",
-      "symbol": "BUGS",
-      "address": "GXdztTBenAPR2epx26T8KceiKNLzCKuAxksFtpHjpump",
-      "price": 1.027789341e-05,
-      "proceeds": 7.82,
-      "pnl_usd": -42.18,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-26T12:38:19+00:00",
-      "side": "sell",
-      "symbol": "AOP",
-      "address": "9AGp5XqiiWvvjnHxG1qVTTD8eptamxthnWiynd3Ypump",
-      "price": 2.611495474e-06,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-26T12:38:19+00:00",
-      "side": "sell",
-      "symbol": "1BOOBS",
-      "address": "5yeH6p7z9MDUE9ckvJEaVLEryCFhQpDzcvJsW7e7pump",
-      "price": 2.82663455e-06,
-      "proceeds": 44.73,
-      "pnl_usd": -5.27,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-26T12:38:19+00:00",
-      "side": "sell",
-      "symbol": "🔥",
-      "address": "BomYPKAZKAYKDB6jVsHHpd6WeKUDViJmkRfqCsGnpump",
-      "price": 3.055746975e-05,
-      "proceeds": 45.61,
-      "pnl_usd": -4.39,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-26T12:38:20+00:00",
       "side": "buy",
@@ -4539,13 +4462,49 @@
       "address": "T4b7577eySmbeyCuWwkeRZkTTC7ejz17eDv8w6tpump",
       "price": 8.358372476423408e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T02:30:06+00:00",
+      "side": "sell",
+      "symbol": "CNMRL",
+      "address": "J26NEZnqkwgetHFn7ChEjbwLUYGpFQKkcHG6Uz7dpump",
+      "price": 1.518918574e-05,
+      "proceeds": 45.76,
+      "pnl_usd": -4.24,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-31T02:30:06+00:00",
+      "side": "sell",
+      "symbol": "KOJIMA",
+      "address": "H9n8ouEmHHeFyDFaK1gQyMAz5dXGgAbGp1hWyXsLpump",
+      "price": 5.169914867e-06,
+      "proceeds": 9.04,
+      "pnl_usd": -40.96,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T02:30:06+00:00",
+      "side": "sell",
+      "symbol": "PINCHAN",
+      "address": "CgwwHw9icEWAsFvoCA21W72s8yuR1bhNGEmE44x7pump",
+      "price": 2.74031637e-06,
+      "proceeds": 14.5,
+      "pnl_usd": -35.5,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T02:30:06+00:00",
+      "side": "sell",
+      "symbol": "Gambler",
+      "address": "T4b7577eySmbeyCuWwkeRZkTTC7ejz17eDv8w6tpump",
+      "price": 1.171938443e-06,
+      "proceeds": 6.61,
+      "pnl_usd": -43.39,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T11:22:40+00:00",
-      "equity": 3460707.23
-    },
     {
       "date": "2026-10-08T11:43:32+00:00",
       "equity": 3460671.52
@@ -8541,6 +8500,10 @@
     {
       "date": "2026-10-31T01:42:59+00:00",
       "equity": 6532394.88
+    },
+    {
+      "date": "2026-10-31T02:30:06+00:00",
+      "equity": 6532279.78
     }
   ]
 }
