@@ -1,26 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6532100.327172367,
-  "positions": {
-    "6beU5DRNgTWmfJ8T2CzgfoB5y7KsfpbJMgeNgtfDpump": {
-      "symbol": "anon",
-      "qty": 3800069.4297003425,
-      "entry_price": 1.3026077790347994e-05,
-      "last_price": 1.2545933564464169e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T05:29:02+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6532111.282750059,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-26T17:32:07+00:00",
-      "side": "buy",
-      "symbol": "BibiAI",
-      "address": "J6AjcgCpZnD3hqKrfGfMfkgXJ5xBmYU9vzS5RkCLpump",
-      "price": 1.2695404848509032e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-26T17:32:07+00:00",
       "side": "buy",
@@ -4512,13 +4494,19 @@
       "address": "6beU5DRNgTWmfJ8T2CzgfoB5y7KsfpbJMgeNgtfDpump",
       "price": 1.3026077790347994e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T06:12:35+00:00",
+      "side": "sell",
+      "symbol": "anon",
+      "address": "6beU5DRNgTWmfJ8T2CzgfoB5y7KsfpbJMgeNgtfDpump",
+      "price": 3.018366616e-06,
+      "proceeds": 10.96,
+      "pnl_usd": -39.04,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T13:25:45+00:00",
-      "equity": 3460466.36
-    },
     {
       "date": "2026-10-08T13:49:12+00:00",
       "equity": 3460329.02
@@ -8514,6 +8502,10 @@
     {
       "date": "2026-10-31T05:29:02+00:00",
       "equity": 6532148.0
+    },
+    {
+      "date": "2026-10-31T06:12:35+00:00",
+      "equity": 6532111.28
     }
   ]
 }
