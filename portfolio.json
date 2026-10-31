@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6531299.55130953,
+  "cash": 6531243.624345826,
   "positions": {
-    "DYgmLoWBUnfa3gd1CqaSrCNj9xA5kqwWoewD5VANpump": {
-      "symbol": "Gatsby",
-      "qty": 17552275.751366246,
-      "entry_price": 2.8201471251468336e-06,
-      "last_price": 2.675893961e-06,
+    "7rcrgqNi276rAhFnnRDzAiUCvai3ct2xgpgSgoukpump": {
+      "symbol": "KIM",
+      "qty": 576075.5450251827,
+      "entry_price": 8.59262303832671e-05,
+      "last_price": 8.329956283121398e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T21:03:17+00:00",
+      "entry_time": "2026-10-31T22:15:10+00:00",
+      "missing": 0
+    },
+    "2nuNhLbYMbt4Hq8sLFNbjauPWcGLqMNyGV28HMLRpump": {
+      "symbol": "$CCOW",
+      "qty": 1613681.6260807388,
+      "entry_price": 3.067519589984061e-05,
+      "last_price": 2.9606939575489054e-05,
+      "cost": 50.0,
+      "entry_time": "2026-10-31T22:15:10+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T10:46:25+00:00",
-      "side": "buy",
-      "symbol": "DNT",
-      "address": "Gt5wj8S2pcXmM5sy8NdwF1e8YYtBfHuss9qBtRXdpump",
-      "price": 1.968511500716495e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T10:46:25+00:00",
-      "side": "buy",
-      "symbol": "34%",
-      "address": "9fLmKwmD2ggPigRxmXrZrEssd3ZkrXbkZMBwYTcupump",
-      "price": 1.2279113384447966e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T11:23:03+00:00",
-      "side": "sell",
-      "symbol": "CC",
-      "address": "BryTFG56T6SBvJeJra4WsThxQCn1zZ3Lob4CPR5xpump",
-      "price": 3.169000932e-06,
-      "proceeds": 11.71,
-      "pnl_usd": -38.29,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-27T11:23:03+00:00",
       "side": "sell",
@@ -4512,13 +4495,35 @@
       "proceeds": 18.02,
       "pnl_usd": -31.98,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T22:15:10+00:00",
+      "side": "sell",
+      "symbol": "Gatsby",
+      "address": "DYgmLoWBUnfa3gd1CqaSrCNj9xA5kqwWoewD5VANpump",
+      "price": 2.675893961e-06,
+      "proceeds": 44.07,
+      "pnl_usd": -5.93,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-10-31T22:15:10+00:00",
+      "side": "buy",
+      "symbol": "KIM",
+      "address": "7rcrgqNi276rAhFnnRDzAiUCvai3ct2xgpgSgoukpump",
+      "price": 8.59262303832671e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T22:15:10+00:00",
+      "side": "buy",
+      "symbol": "$CCOW",
+      "address": "2nuNhLbYMbt4Hq8sLFNbjauPWcGLqMNyGV28HMLRpump",
+      "price": 3.067519589984061e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T22:52:04+00:00",
-      "equity": 3600015.2
-    },
     {
       "date": "2026-10-08T23:08:59+00:00",
       "equity": 3599948.66
@@ -8514,6 +8519,10 @@
     {
       "date": "2026-10-31T21:38:53+00:00",
       "equity": 6531346.52
+    },
+    {
+      "date": "2026-10-31T22:15:10+00:00",
+      "equity": 6531339.39
     }
   ]
 }
