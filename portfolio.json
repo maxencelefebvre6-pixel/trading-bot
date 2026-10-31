@@ -1,139 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6531666.269352059,
+  "cash": 6531638.82316603,
   "positions": {
-    "BEFkdkzpAar5d8kbsqzcEQLjPZ61hHbiJ2pdCZM4pump": {
-      "symbol": "CHAIRMAN",
-      "qty": 3988510.582904856,
-      "entry_price": 1.2410647777183244e-05,
-      "last_price": 1.1945124582937852e-05,
+    "8bSKcTxbcTWcgVykPHfRt4owiThLXcVmXcuVca9Mpump": {
+      "symbol": "DOUGHBRIKS",
+      "qty": 574809.3618886191,
+      "entry_price": 8.611550764824116e-05,
+      "last_price": 8.348307708933779e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T16:05:23+00:00",
+      "entry_time": "2026-10-31T16:41:38+00:00",
       "missing": 0
     },
-    "9FH8p4Rn5F2qojH6rGZoUR5AsVgVzCocme5P5eZppump": {
-      "symbol": "SpaceX",
-      "qty": 410438.73874989187,
-      "entry_price": 0.00012060265108202592,
-      "last_price": 0.00011687200613341551,
+    "BsHJV6vkERPVWNZHwDf2NqYc4waJRSHedUfPaNtDpump": {
+      "symbol": "trench",
+      "qty": 3423718.228436029,
+      "entry_price": 1.4457965491690546e-05,
+      "last_price": 1.3987298703866754e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T16:05:23+00:00",
-      "missing": 0
-    },
-    "48osrTSzFEu4z6Cpm9utz3U2TVhAjTsuiJEHVAP6pump": {
-      "symbol": "ROCCO",
-      "qty": 2622759.478003727,
-      "entry_price": 1.8873251785053568e-05,
-      "last_price": 1.818079606910913e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T16:05:23+00:00",
-      "missing": 0
-    },
-    "5D66et62hQ8mv7ymhycuvdyB3pR7871AQL2GK6eTpump": {
-      "symbol": "CHAIRMAN",
-      "qty": 2646491.567245095,
-      "entry_price": 1.870400820945285e-05,
-      "last_price": 1.801581639576042e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T16:05:23+00:00",
-      "missing": 0
-    },
-    "9iHTo4x6Ha3kVT9cZobGfggaMwtspNxhK6GFDdULpump": {
-      "symbol": "ROCCO",
-      "qty": 2749919.2498520967,
-      "entry_price": 1.800052856194317e-05,
-      "last_price": 1.733842483075345e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T16:05:23+00:00",
-      "missing": 0
-    },
-    "HgYtCC9fGS8o7gNJW2QNDCoKa4D8vkFcPNhVU8uZpump": {
-      "symbol": "JUMP",
-      "qty": 5371957.849646605,
-      "entry_price": 9.214517571699929e-06,
-      "last_price": 8.883148771022456e-06,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T16:05:23+00:00",
+      "entry_time": "2026-10-31T16:41:38+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T05:36:02+00:00",
-      "side": "sell",
-      "symbol": "LEGO",
-      "address": "8PxGdcjqX5huccb3k89LAx8gQf5ZgoAdnU6866Qzpump",
-      "price": 1.876101279e-05,
-      "proceeds": 45.84,
-      "pnl_usd": -4.16,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-27T05:36:02+00:00",
-      "side": "sell",
-      "symbol": "ELUN",
-      "address": "GVKcQQurZKZxV2pQG5MvkCnuMxgqTiup3d1azCiCpump",
-      "price": 3.663556745e-06,
-      "proceeds": 4.58,
-      "pnl_usd": -45.42,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T05:36:02+00:00",
-      "side": "sell",
-      "symbol": "Melon",
-      "address": "4zdaiBDzu3cq3dMqftrMVgp7T5LwfCLNbbjEjEfbpump",
-      "price": 2.964152018e-06,
-      "proceeds": 8.49,
-      "pnl_usd": -41.51,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T05:36:02+00:00",
-      "side": "buy",
-      "symbol": "Naspig",
-      "address": "2mmY4y9bENg2q2TcmxNMV2nX99HA6f5kj1cCJSHNpump",
-      "price": 1.0711116763668365e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T05:36:02+00:00",
-      "side": "buy",
-      "symbol": "$MFRG",
-      "address": "BMhRCf318r8iinsLgUh6dW5mJM4aAXRpL8cdRuDJpump",
-      "price": 2.908696791231594e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T06:14:15+00:00",
-      "side": "sell",
-      "symbol": "RICK",
-      "address": "7EXT4mMbgw1dCLVsCNpKUzFWtrQZxd7VKL7WYsQbpump",
-      "price": 8.206933299e-06,
-      "proceeds": 45.49,
-      "pnl_usd": -4.51,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-27T06:14:15+00:00",
-      "side": "sell",
-      "symbol": "Naspig",
-      "address": "2mmY4y9bENg2q2TcmxNMV2nX99HA6f5kj1cCJSHNpump",
-      "price": 2.256356201e-06,
-      "proceeds": 9.91,
-      "pnl_usd": -40.09,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T06:14:15+00:00",
-      "side": "sell",
-      "symbol": "$MFRG",
-      "address": "BMhRCf318r8iinsLgUh6dW5mJM4aAXRpL8cdRuDJpump",
-      "price": 3.2791074e-07,
-      "proceeds": 5.21,
-      "pnl_usd": -44.79,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-27T06:14:16+00:00",
       "side": "buy",
@@ -4555,13 +4443,85 @@
       "address": "HgYtCC9fGS8o7gNJW2QNDCoKa4D8vkFcPNhVU8uZpump",
       "price": 9.214517571699929e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "side": "sell",
+      "symbol": "CHAIRMAN",
+      "address": "BEFkdkzpAar5d8kbsqzcEQLjPZ61hHbiJ2pdCZM4pump",
+      "price": 2.871543429e-06,
+      "proceeds": 10.94,
+      "pnl_usd": -39.06,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "side": "sell",
+      "symbol": "SpaceX",
+      "address": "9FH8p4Rn5F2qojH6rGZoUR5AsVgVzCocme5P5eZppump",
+      "price": 1.769893156e-06,
+      "proceeds": 0.7,
+      "pnl_usd": -49.3,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "side": "sell",
+      "symbol": "ROCCO",
+      "address": "48osrTSzFEu4z6Cpm9utz3U2TVhAjTsuiJEHVAP6pump",
+      "price": 2.684143644e-06,
+      "proceeds": 6.74,
+      "pnl_usd": -43.26,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "side": "sell",
+      "symbol": "CHAIRMAN",
+      "address": "5D66et62hQ8mv7ymhycuvdyB3pR7871AQL2GK6eTpump",
+      "price": 1.010570614e-05,
+      "proceeds": 25.43,
+      "pnl_usd": -24.57,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "side": "sell",
+      "symbol": "ROCCO",
+      "address": "9iHTo4x6Ha3kVT9cZobGfggaMwtspNxhK6GFDdULpump",
+      "price": 1.959171796e-06,
+      "proceeds": 5.13,
+      "pnl_usd": -44.87,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "side": "sell",
+      "symbol": "JUMP",
+      "address": "HgYtCC9fGS8o7gNJW2QNDCoKa4D8vkFcPNhVU8uZpump",
+      "price": 8.883148771e-06,
+      "proceeds": 23.62,
+      "pnl_usd": -26.38,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "side": "buy",
+      "symbol": "DOUGHBRIKS",
+      "address": "8bSKcTxbcTWcgVykPHfRt4owiThLXcVmXcuVca9Mpump",
+      "price": 8.611550764824116e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "side": "buy",
+      "symbol": "trench",
+      "address": "BsHJV6vkERPVWNZHwDf2NqYc4waJRSHedUfPaNtDpump",
+      "price": 1.4457965491690546e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T19:25:32+00:00",
-      "equity": 3600300.26
-    },
     {
       "date": "2026-10-08T19:47:25+00:00",
       "equity": 3600207.64
@@ -8557,6 +8517,10 @@
     {
       "date": "2026-10-31T16:05:23+00:00",
       "equity": 6531952.64
+    },
+    {
+      "date": "2026-10-31T16:41:38+00:00",
+      "equity": 6531734.7
     }
   ]
 }
