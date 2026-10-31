@@ -1,105 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6531911.282750059,
+  "cash": 6531909.398120068,
   "positions": {
-    "DvzyEwBMf8PPR6fKvrFGz8TtU31bf1nm2KcNQ8Vbpump": {
-      "symbol": "Ape",
-      "qty": 571769.6697141179,
-      "entry_price": 8.657332247922448e-05,
-      "last_price": 8.392724831065287e-05,
+    "CcSRXUReR3VVG92C4rE8FqsLomzwmH6Dn1WhTGebpump": {
+      "symbol": "发发",
+      "qty": 2057102.2691003594,
+      "entry_price": 2.4062974769673474e-05,
+      "last_price": 2.3225207385811e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T07:15:48+00:00",
+      "entry_time": "2026-10-31T08:05:31+00:00",
       "missing": 0
     },
-    "6LL4ejfPXUP1AQ9qQtrZjHrNdRpJ4wtLBEiDToKXpump": {
-      "symbol": "HI",
-      "qty": 4564059.155536131,
-      "entry_price": 1.084560876910574e-05,
-      "last_price": 1.0441988000365086e-05,
+    "HqoWGuGe6Ki4Zkn8pinDeVPwvtjDiqUbV9tpvQZDpump": {
+      "symbol": "Anoninu",
+      "qty": 3794829.336106933,
+      "entry_price": 1.3044064861894795e-05,
+      "last_price": 1.2561611235579109e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T07:15:48+00:00",
+      "entry_time": "2026-10-31T08:05:31+00:00",
       "missing": 0
     },
-    "CMp19dfScaorHdW8YHoxiKA1Vy3ojMo9gLMQZjQLpump": {
-      "symbol": "ABC",
-      "qty": 3840345.1723301397,
-      "entry_price": 1.2889466383555763e-05,
-      "last_price": 1.245247434141651e-05,
+    "8jfFxhQmsnCWNrvdtURtc6Q65EmetNPdT2cxZSSJpump": {
+      "symbol": "TANUKIMU",
+      "qty": 4435819.867076871,
+      "entry_price": 1.1159154673388405e-05,
+      "last_price": 1.0770998818909572e-05,
       "cost": 50.0,
-      "entry_time": "2026-10-31T07:15:48+00:00",
-      "missing": 0
-    },
-    "7ZHHyEWbV6ZcnzGQrPJwFNnP5r7Q41qXKamXfdzGpump": {
-      "symbol": "DEBIT",
-      "qty": 1156030.5206184739,
-      "entry_price": 4.28189387019969e-05,
-      "last_price": 4.144853365957001e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T07:15:48+00:00",
+      "entry_time": "2026-10-31T08:05:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-26T18:13:23+00:00",
-      "side": "buy",
-      "symbol": "nutinu",
-      "address": "EfyENGHhKTu72qjWtgKkoZZmzRRwh421mWuy42HSpump",
-      "price": 3.9739368763136645e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T19:08:03+00:00",
-      "side": "sell",
-      "symbol": "nutinu",
-      "address": "EfyENGHhKTu72qjWtgKkoZZmzRRwh421mWuy42HSpump",
-      "price": 1.388070138e-05,
-      "proceeds": 16.53,
-      "pnl_usd": -33.47,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-26T19:49:16+00:00",
-      "side": "buy",
-      "symbol": "EDGE",
-      "address": "9J4fGNJVX5W1ioT4jMTGiYH1BVXfNXYGqRHoE8N6pump",
-      "price": 3.3844746672956086e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T19:49:16+00:00",
-      "side": "buy",
-      "symbol": "$RENT",
-      "address": "BMJBMD4bFVbHcys8z5aEugxe8yjCJ6GpRciZb8SKpump",
-      "price": 1.1539211130470455e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T19:49:16+00:00",
-      "side": "buy",
-      "symbol": "$FUE",
-      "address": "6gQypxRHf1L8DcUNXTABdy7gMURAEeTacYbLpFAWpump",
-      "price": 1.5272935212852742e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T19:49:16+00:00",
-      "side": "buy",
-      "symbol": "beer",
-      "address": "hYcBxcrjuDQq6em3PEWV2yUQopZsji1LUtzxWtapump",
-      "price": 6.3205607164991365e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-26T20:18:22+00:00",
-      "side": "sell",
-      "symbol": "EDGE",
-      "address": "9J4fGNJVX5W1ioT4jMTGiYH1BVXfNXYGqRHoE8N6pump",
-      "price": 2.722013499e-06,
-      "proceeds": 3.81,
-      "pnl_usd": -46.19,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-26T20:18:22+00:00",
       "side": "sell",
@@ -4535,13 +4466,73 @@
       "address": "7ZHHyEWbV6ZcnzGQrPJwFNnP5r7Q41qXKamXfdzGpump",
       "price": 4.28189387019969e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T08:05:31+00:00",
+      "side": "sell",
+      "symbol": "Ape",
+      "address": "DvzyEwBMf8PPR6fKvrFGz8TtU31bf1nm2KcNQ8Vbpump",
+      "price": 0.0001026033829,
+      "proceeds": 29.04,
+      "pnl_usd": -20.96,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T08:05:31+00:00",
+      "side": "sell",
+      "symbol": "HI",
+      "address": "6LL4ejfPXUP1AQ9qQtrZjHrNdRpJ4wtLBEiDToKXpump",
+      "price": 3.09230225e-06,
+      "proceeds": 13.46,
+      "pnl_usd": -36.54,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-10-31T08:05:31+00:00",
+      "side": "sell",
+      "symbol": "ABC",
+      "address": "CMp19dfScaorHdW8YHoxiKA1Vy3ojMo9gLMQZjQLpump",
+      "price": 2.802128774e-05,
+      "proceeds": 102.93,
+      "pnl_usd": 52.93,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-10-31T08:05:31+00:00",
+      "side": "sell",
+      "symbol": "DEBIT",
+      "address": "7ZHHyEWbV6ZcnzGQrPJwFNnP5r7Q41qXKamXfdzGpump",
+      "price": 2.425812554e-06,
+      "proceeds": 2.68,
+      "pnl_usd": -47.32,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-10-31T08:05:31+00:00",
+      "side": "buy",
+      "symbol": "发发",
+      "address": "CcSRXUReR3VVG92C4rE8FqsLomzwmH6Dn1WhTGebpump",
+      "price": 2.4062974769673474e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T08:05:31+00:00",
+      "side": "buy",
+      "symbol": "Anoninu",
+      "address": "HqoWGuGe6Ki4Zkn8pinDeVPwvtjDiqUbV9tpvQZDpump",
+      "price": 1.3044064861894795e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-10-31T08:05:31+00:00",
+      "side": "buy",
+      "symbol": "TANUKIMU",
+      "address": "8jfFxhQmsnCWNrvdtURtc6Q65EmetNPdT2cxZSSJpump",
+      "price": 1.1159154673388405e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T14:06:26+00:00",
-      "equity": 3460306.74
-    },
     {
       "date": "2026-10-08T14:32:41+00:00",
       "equity": 3600175.21
@@ -8537,6 +8528,10 @@
     {
       "date": "2026-10-31T07:15:48+00:00",
       "equity": 6532102.67
+    },
+    {
+      "date": "2026-10-31T08:05:31+00:00",
+      "equity": 6532052.62
     }
   ]
 }
