@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6530552.915209857,
+  "cash": 6530498.525010056,
   "positions": {
-    "27RxD7C4ZnXonKcPzD5aN5uB4w3o6JpD9dCpKjAXpump": {
-      "symbol": "PUMP",
-      "qty": 4081027.7625923376,
-      "entry_price": 1.2129297539636625e-05,
-      "last_price": 1.1709078738417898e-05,
+    "CruVU1zeSND9jfSoaFCb6x2MHSrQeqVtMFYqAt8qpump": {
+      "symbol": "HACKERTUBE",
+      "qty": 4429060.491807432,
+      "entry_price": 1.1176185128101469e-05,
+      "last_price": 1.0760641662902454e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-01T17:10:03+00:00",
+      "entry_time": "2026-11-01T18:17:57+00:00",
+      "missing": 0
+    },
+    "HSkLj82mk3vS6McvWWvnTFFrXmW91HvamJSMBxmRpump": {
+      "symbol": "income",
+      "qty": 2767138.4372810503,
+      "entry_price": 1.788851592428385e-05,
+      "last_price": 1.7305862341607445e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-01T18:17:57+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T02:55:53+00:00",
-      "side": "sell",
-      "symbol": "PEPTARDIO",
-      "address": "87BzHdck2pLwQc6VGQLrVkSTuGHMBW39fibpu55Jpump",
-      "price": 4.174574437e-06,
-      "proceeds": 7.6,
-      "pnl_usd": -42.4,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-28T02:55:54+00:00",
-      "side": "buy",
-      "symbol": "RTC",
-      "address": "9EicB43ez27z6N1hkGyiyo5LjovRoNHPp8hqqU9Zpump",
-      "price": 6.4109867060514614e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T03:39:51+00:00",
-      "side": "sell",
-      "symbol": "RTC",
-      "address": "9EicB43ez27z6N1hkGyiyo5LjovRoNHPp8hqqU9Zpump",
-      "price": 3.48129983e-06,
-      "proceeds": 25.53,
-      "pnl_usd": -24.47,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-28T03:39:51+00:00",
       "side": "buy",
@@ -4512,13 +4493,35 @@
       "address": "27RxD7C4ZnXonKcPzD5aN5uB4w3o6JpD9dCpKjAXpump",
       "price": 1.2129297539636625e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T18:17:57+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "27RxD7C4ZnXonKcPzD5aN5uB4w3o6JpD9dCpKjAXpump",
+      "price": 1.170633432e-05,
+      "proceeds": 45.61,
+      "pnl_usd": -4.39,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-01T18:17:57+00:00",
+      "side": "buy",
+      "symbol": "HACKERTUBE",
+      "address": "CruVU1zeSND9jfSoaFCb6x2MHSrQeqVtMFYqAt8qpump",
+      "price": 1.1176185128101469e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T18:17:57+00:00",
+      "side": "buy",
+      "symbol": "income",
+      "address": "HSkLj82mk3vS6McvWWvnTFFrXmW91HvamJSMBxmRpump",
+      "price": 1.788851592428385e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T08:13:08+00:00",
-      "equity": 3599502.87
-    },
     {
       "date": "2026-10-09T08:37:50+00:00",
       "equity": 3599431.67
@@ -8514,6 +8517,10 @@
     {
       "date": "2026-11-01T17:10:03+00:00",
       "equity": 6530600.7
+    },
+    {
+      "date": "2026-11-01T18:17:57+00:00",
+      "equity": 6530594.07
     }
   ]
 }
