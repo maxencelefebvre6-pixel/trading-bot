@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6530412.760339415,
-  "positions": {
-    "AhqvUPE48EYQWbFkodHF7fSho2m3Mt7W2k7Hu1C3pump": {
-      "symbol": "AODF",
-      "qty": 357.0793627915668,
-      "entry_price": 0.13862464526938786,
-      "last_price": 0.1384810488,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T20:19:13+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6530460.855732434,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-28T05:57:01+00:00",
-      "side": "sell",
-      "symbol": "VIBE",
-      "address": "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump",
-      "price": 2.882227488e-05,
-      "proceeds": 32.88,
-      "pnl_usd": -17.12,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-28T05:57:01+00:00",
       "side": "buy",
@@ -4512,13 +4492,19 @@
       "proceeds": 7.42,
       "pnl_usd": -42.58,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-01T21:36:07+00:00",
+      "side": "sell",
+      "symbol": "AODF",
+      "address": "AhqvUPE48EYQWbFkodHF7fSho2m3Mt7W2k7Hu1C3pump",
+      "price": 0.1402743411,
+      "proceeds": 48.1,
+      "pnl_usd": -1.9,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T10:26:47+00:00",
-      "equity": 3599300.35
-    },
     {
       "date": "2026-10-09T10:49:48+00:00",
       "equity": 3599226.62
@@ -8514,6 +8500,10 @@
     {
       "date": "2026-11-01T20:57:58+00:00",
       "equity": 6530462.21
+    },
+    {
+      "date": "2026-11-01T21:36:07+00:00",
+      "equity": 6530460.86
     }
   ]
 }
