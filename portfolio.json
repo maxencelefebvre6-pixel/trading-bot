@@ -1,37 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530405.337535787,
+  "cash": 6530412.760339415,
   "positions": {
     "AhqvUPE48EYQWbFkodHF7fSho2m3Mt7W2k7Hu1C3pump": {
       "symbol": "AODF",
       "qty": 357.0793627915668,
       "entry_price": 0.13862464526938786,
-      "last_price": 0.13458009015590464,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T20:19:13+00:00",
-      "missing": 0
-    },
-    "FbAfmhDxnxA9tgNCMTZ7nag7pPD1KA9B2P8Zimorpump": {
-      "symbol": "CVE",
-      "qty": 2160195.5885688313,
-      "entry_price": 2.291459174434971e-05,
-      "last_price": 2.2101238810092185e-05,
+      "last_price": 0.1384810488,
       "cost": 50.0,
       "entry_time": "2026-11-01T20:19:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T05:57:01+00:00",
-      "side": "sell",
-      "symbol": "neuronary",
-      "address": "CLzv3A7PGKhZYwfwVCiRAinTofbCxprTNjAU2qTBpump",
-      "price": 2.853196e-06,
-      "proceeds": 15.3,
-      "pnl_usd": -34.7,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-28T05:57:01+00:00",
       "side": "sell",
@@ -4521,13 +4502,19 @@
       "address": "FbAfmhDxnxA9tgNCMTZ7nag7pPD1KA9B2P8Zimorpump",
       "price": 2.291459174434971e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T20:57:58+00:00",
+      "side": "sell",
+      "symbol": "CVE",
+      "address": "FbAfmhDxnxA9tgNCMTZ7nag7pPD1KA9B2P8Zimorpump",
+      "price": 3.590271301e-06,
+      "proceeds": 7.42,
+      "pnl_usd": -42.58,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T10:02:08+00:00",
-      "equity": 3599384.31
-    },
     {
       "date": "2026-10-09T10:26:47+00:00",
       "equity": 3599300.35
@@ -8523,6 +8510,10 @@
     {
       "date": "2026-11-01T20:19:13+00:00",
       "equity": 6530501.14
+    },
+    {
+      "date": "2026-11-01T20:57:58+00:00",
+      "equity": 6530462.21
     }
   ]
 }
