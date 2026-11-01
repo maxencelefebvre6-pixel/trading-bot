@@ -1,89 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530557.61487657,
+  "cash": 6530697.045303455,
   "positions": {
-    "HTYXLCpUpeMC7qRzJBZiNxhr3yF17ZjUCxdoqKXFpump": {
-      "symbol": "BILL",
-      "qty": 5220510.9448891925,
-      "entry_price": 9.481830518612322e-06,
-      "last_price": 9.179434471920673e-06,
+    "GkcWTAos5Tt1erfyLPDWQVur9JWS9oP1LzmCu384pump": {
+      "symbol": "TYSON",
+      "qty": 2906234.667218818,
+      "entry_price": 1.703234792370365e-05,
+      "last_price": 1.6441688054935534e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-01T09:01:41+00:00",
-      "missing": 0
-    },
-    "7LsQHJzmUxMbke8S5JrjMpiCCjBxLGrZRomCg4Gkpump": {
-      "symbol": "paws",
-      "qty": 525730.0935833558,
-      "entry_price": 9.415477752587823e-05,
-      "last_price": 9.1227372892186e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T09:01:41+00:00",
-      "missing": 0
-    },
-    "5xtbUHKKwXfveeQupKiCzn1bWrQL9sH6gUndtxNrpump": {
-      "symbol": "sol",
-      "qty": 6763650.608415629,
-      "entry_price": 7.3185329736592165e-06,
-      "last_price": 7.042988269018231e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T09:01:41+00:00",
-      "missing": 0
-    },
-    "CXoF54L8SxhzQMNobiQmDVHRziifkorx3GbpaRXTpump": {
-      "symbol": "WEIRDCAT",
-      "qty": 2878383.964871506,
-      "entry_price": 1.7197149721548607e-05,
-      "last_price": 1.6613599127832837e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T09:01:41+00:00",
+      "entry_time": "2026-11-01T09:45:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T22:28:49+00:00",
-      "side": "sell",
-      "symbol": "SF",
-      "address": "2cRhjCGvMQViKtTpgdQUBUxUBfQQpvG2VjnEYZmQpump",
-      "price": 0.0001578221165,
-      "proceeds": 35.63,
-      "pnl_usd": -14.37,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T22:28:49+00:00",
-      "side": "sell",
-      "symbol": "hampter",
-      "address": "HEwMEYbWfM6rQ4NVhYCk18LhywxefjsHbRuRHSj4pump",
-      "price": 3.441171337e-06,
-      "proceeds": 7.91,
-      "pnl_usd": -42.09,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T22:28:49+00:00",
-      "side": "buy",
-      "symbol": "LEGEND",
-      "address": "92pnTL3ZcyhgzFqPUzSSoXys9L5FKRSgycWGXCZFpump",
-      "price": 1.2629592675977618e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T22:28:49+00:00",
-      "side": "buy",
-      "symbol": "Girlies",
-      "address": "EFyTTApQsC3kudWrMcgZV9iwpXhWyk5ZUqgWCmQBpump",
-      "price": 3.196858822937867e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T22:28:49+00:00",
-      "side": "buy",
-      "symbol": "STARSH",
-      "address": "DzdSFwh8mTBU1EFboJYoe53RWXr6feSFkMXk5yMepump",
-      "price": 6.232527046354678e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T22:28:49+00:00",
       "side": "buy",
@@ -4537,13 +4466,57 @@
       "address": "CXoF54L8SxhzQMNobiQmDVHRziifkorx3GbpaRXTpump",
       "price": 1.7197149721548607e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T09:45:18+00:00",
+      "side": "sell",
+      "symbol": "BILL",
+      "address": "HTYXLCpUpeMC7qRzJBZiNxhr3yF17ZjUCxdoqKXFpump",
+      "price": 1.672986849e-05,
+      "proceeds": 43.23,
+      "pnl_usd": -6.77,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T09:45:18+00:00",
+      "side": "sell",
+      "symbol": "paws",
+      "address": "7LsQHJzmUxMbke8S5JrjMpiCCjBxLGrZRomCg4Gkpump",
+      "price": 1.787786305e-06,
+      "proceeds": 0.9,
+      "pnl_usd": -49.1,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T09:45:18+00:00",
+      "side": "sell",
+      "symbol": "sol",
+      "address": "5xtbUHKKwXfveeQupKiCzn1bWrQL9sH6gUndtxNrpump",
+      "price": 2.246944376e-05,
+      "proceeds": 143.96,
+      "pnl_usd": 93.96,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-11-01T09:45:18+00:00",
+      "side": "sell",
+      "symbol": "WEIRDCAT",
+      "address": "CXoF54L8SxhzQMNobiQmDVHRziifkorx3GbpaRXTpump",
+      "price": 4.851909829e-07,
+      "proceeds": 1.34,
+      "pnl_usd": -48.66,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T09:45:18+00:00",
+      "side": "buy",
+      "symbol": "TYSON",
+      "address": "GkcWTAos5Tt1erfyLPDWQVur9JWS9oP1LzmCu384pump",
+      "price": 1.703234792370365e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T03:50:18+00:00",
-      "equity": 3599950.03
-    },
     {
       "date": "2026-10-09T04:06:31+00:00",
       "equity": 3599864.81
@@ -8539,6 +8512,10 @@
     {
       "date": "2026-11-01T09:01:41+00:00",
       "equity": 6530748.95
+    },
+    {
+      "date": "2026-11-01T09:45:18+00:00",
+      "equity": 6530744.83
     }
   ]
 }
