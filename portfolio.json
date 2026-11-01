@@ -1,36 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530801.608170088,
+  "cash": 6530752.2133538695,
   "positions": {
-    "HFeAGvamVwEKArFcGccHXjvFpTUDdwjoTwtie8bhpump": {
-      "symbol": "GTA 6 Coin",
-      "qty": 362436.0789237008,
-      "entry_price": 0.00013657580709678914,
-      "last_price": 0.00013236315146621444,
+    "EGzMaTe4E9oJqXzVgN1ZzzS9n2XKoFjtpY1DdrrUpump": {
+      "symbol": "OURCOIN",
+      "qty": 5295452.419426553,
+      "entry_price": 9.347643237886062e-06,
+      "last_price": 8.992374960935739e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-01T04:32:15+00:00",
+      "entry_time": "2026-11-01T05:24:21+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T19:56:59+00:00",
-      "side": "sell",
-      "symbol": "Test",
-      "address": "EK1iD5nAiyTjwpqNcDhKsRK5tNAhXNCrrWgpZcTCpump",
-      "price": 7.437082413e-06,
-      "proceeds": 45.33,
-      "pnl_usd": -4.67,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-27T19:56:59+00:00",
-      "side": "buy",
-      "symbol": "ELSE",
-      "address": "G5MviPXeWwUzLW3tExipfuTG3bg3GvgdsZbneFW5pump",
-      "price": 3.463916541920139e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T20:35:25+00:00",
       "side": "sell",
@@ -4512,13 +4494,27 @@
       "address": "HFeAGvamVwEKArFcGccHXjvFpTUDdwjoTwtie8bhpump",
       "price": 0.00013657580709678914,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T05:24:21+00:00",
+      "side": "sell",
+      "symbol": "GTA 6 Coin",
+      "address": "HFeAGvamVwEKArFcGccHXjvFpTUDdwjoTwtie8bhpump",
+      "price": 1.74474793e-06,
+      "proceeds": 0.61,
+      "pnl_usd": -49.39,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T05:24:21+00:00",
+      "side": "buy",
+      "symbol": "OURCOIN",
+      "address": "EGzMaTe4E9oJqXzVgN1ZzzS9n2XKoFjtpY1DdrrUpump",
+      "price": 9.347643237886062e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T02:07:20+00:00",
-      "equity": 3599735.85
-    },
     {
       "date": "2026-10-09T02:28:09+00:00",
       "equity": 3599842.14
@@ -8514,6 +8510,10 @@
     {
       "date": "2026-11-01T04:32:15+00:00",
       "equity": 6530849.58
+    },
+    {
+      "date": "2026-11-01T05:24:21+00:00",
+      "equity": 6530799.83
     }
   ]
 }
