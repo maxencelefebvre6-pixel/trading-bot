@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6530461.367536306,
+  "cash": 6530405.337535787,
   "positions": {
-    "27SfKMEc6yizAkeffgpTh2DmXGc6Dspgae4D6WmVpump": {
-      "symbol": "PUMP",
-      "qty": 5427963.203383927,
-      "entry_price": 9.119442808518021e-06,
-      "last_price": 8.497146734e-06,
+    "AhqvUPE48EYQWbFkodHF7fSho2m3Mt7W2k7Hu1C3pump": {
+      "symbol": "AODF",
+      "qty": 357.0793627915668,
+      "entry_price": 0.13862464526938786,
+      "last_price": 0.13458009015590464,
       "cost": 50.0,
-      "entry_time": "2026-11-01T19:09:43+00:00",
+      "entry_time": "2026-11-01T20:19:13+00:00",
+      "missing": 0
+    },
+    "FbAfmhDxnxA9tgNCMTZ7nag7pPD1KA9B2P8Zimorpump": {
+      "symbol": "CVE",
+      "qty": 2160195.5885688313,
+      "entry_price": 2.291459174434971e-05,
+      "last_price": 2.2101238810092185e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-01T20:19:13+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T05:12:02+00:00",
-      "side": "buy",
-      "symbol": "neuronary",
-      "address": "CLzv3A7PGKhZYwfwVCiRAinTofbCxprTNjAU2qTBpump",
-      "price": 8.800297859909869e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T05:12:02+00:00",
-      "side": "buy",
-      "symbol": "VIBE",
-      "address": "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump",
-      "price": 4.1449431142824197e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T05:57:01+00:00",
-      "side": "sell",
-      "symbol": "DROYD",
-      "address": "3N1FSuxo6fzVfbA25noHRS4Ubn6Fc2APLRX2zJQxpump",
-      "price": 3.342477217e-06,
-      "proceeds": 14.6,
-      "pnl_usd": -35.4,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-28T05:57:01+00:00",
       "side": "sell",
@@ -4512,13 +4495,35 @@
       "proceeds": 2.05,
       "pnl_usd": -47.95,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-01T20:19:13+00:00",
+      "side": "sell",
+      "symbol": "PUMP",
+      "address": "27SfKMEc6yizAkeffgpTh2DmXGc6Dspgae4D6WmVpump",
+      "price": 8.497146734e-06,
+      "proceeds": 43.97,
+      "pnl_usd": -6.03,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-01T20:19:13+00:00",
+      "side": "buy",
+      "symbol": "AODF",
+      "address": "AhqvUPE48EYQWbFkodHF7fSho2m3Mt7W2k7Hu1C3pump",
+      "price": 0.13862464526938786,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T20:19:13+00:00",
+      "side": "buy",
+      "symbol": "CVE",
+      "address": "FbAfmhDxnxA9tgNCMTZ7nag7pPD1KA9B2P8Zimorpump",
+      "price": 2.291459174434971e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T09:22:40+00:00",
-      "equity": 3599392.71
-    },
     {
       "date": "2026-10-09T10:02:08+00:00",
       "equity": 3599384.31
@@ -8514,6 +8519,10 @@
     {
       "date": "2026-11-01T19:49:32+00:00",
       "equity": 6530507.49
+    },
+    {
+      "date": "2026-11-01T20:19:13+00:00",
+      "equity": 6530501.14
     }
   ]
 }
