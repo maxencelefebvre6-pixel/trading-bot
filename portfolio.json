@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530597.053873659,
+  "cash": 6530579.160805829,
   "positions": {
-    "7ZNrRbvRHrQyphuDcxazWZFu3MMMQS8QnNxu9b6Bpump": {
-      "symbol": "relax_gay",
-      "qty": 15612673.474740481,
-      "entry_price": 3.1705012008408e-06,
-      "last_price": 3.0581985826677745e-06,
+    "FtYQ8jjjU37cVz7RYWTs5xJ11GMc2347dTHDwkMbpump": {
+      "symbol": "RDL",
+      "qty": 3087520.846996312,
+      "entry_price": 1.6032280412990884e-05,
+      "last_price": 1.550343292125138e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-01T10:23:01+00:00",
-      "missing": 0
-    },
-    "2UwoECks6Waut8qJZwtPEnwBauovbZygXZdS19BSpump": {
-      "symbol": "$CAT",
-      "qty": 34926003.911014915,
-      "entry_price": 1.417282095200956e-06,
-      "last_price": 1.366144609775823e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T10:23:01+00:00",
+      "entry_time": "2026-11-01T11:05:28+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T23:06:47+00:00",
-      "side": "sell",
-      "symbol": "Girlies",
-      "address": "EFyTTApQsC3kudWrMcgZV9iwpXhWyk5ZUqgWCmQBpump",
-      "price": 2.836680173e-06,
-      "proceeds": 41.33,
-      "pnl_usd": -8.67,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T23:06:47+00:00",
-      "side": "sell",
-      "symbol": "STARSH",
-      "address": "DzdSFwh8mTBU1EFboJYoe53RWXr6feSFkMXk5yMepump",
-      "price": 7.349132087e-05,
-      "proceeds": 28.89,
-      "pnl_usd": -21.11,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-27T23:06:47+00:00",
-      "side": "buy",
-      "symbol": "JEFF",
-      "address": "Akpmbr6hFeLrjLqKwp8Qy3xCLzXzidTMWvUFzt9xpump",
-      "price": 3.13040119872437e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T23:06:47+00:00",
       "side": "buy",
@@ -4523,13 +4486,37 @@
       "address": "2UwoECks6Waut8qJZwtPEnwBauovbZygXZdS19BSpump",
       "price": 1.417282095200956e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T11:05:28+00:00",
+      "side": "sell",
+      "symbol": "relax_gay",
+      "address": "7ZNrRbvRHrQyphuDcxazWZFu3MMMQS8QnNxu9b6Bpump",
+      "price": 2.047172906e-06,
+      "proceeds": 30.02,
+      "pnl_usd": -19.98,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-01T11:05:28+00:00",
+      "side": "sell",
+      "symbol": "$CAT",
+      "address": "2UwoECks6Waut8qJZwtPEnwBauovbZygXZdS19BSpump",
+      "price": 6.582929162e-08,
+      "proceeds": 2.09,
+      "pnl_usd": -47.91,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T11:05:28+00:00",
+      "side": "buy",
+      "symbol": "RDL",
+      "address": "FtYQ8jjjU37cVz7RYWTs5xJ11GMc2347dTHDwkMbpump",
+      "price": 1.6032280412990884e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T04:29:55+00:00",
-      "equity": 3599733.6
-    },
     {
       "date": "2026-10-09T04:51:36+00:00",
       "equity": 3599656.5
@@ -8525,6 +8512,10 @@
     {
       "date": "2026-11-01T10:23:01+00:00",
       "equity": 6530692.51
+    },
+    {
+      "date": "2026-11-01T11:05:28+00:00",
+      "equity": 6530627.03
     }
   ]
 }
