@@ -1,52 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530336.172985177,
+  "cash": 6530557.534452445,
   "positions": {
-    "5kqk1EXamkFcpJgW48k4cxdAZoCchcbYwcJUEswJpump": {
-      "symbol": "bob",
-      "qty": 4518460.902674061,
-      "entry_price": 1.0955057721248734e-05,
-      "last_price": 1.0607852180405394e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T15:16:08+00:00",
-      "missing": 0
-    },
-    "FTYCfHouNB2Soc3HVJm3wtMioYcB176DYeX15BfHpump": {
-      "symbol": "bob",
-      "qty": 4460401.812875896,
-      "entry_price": 1.1097654892235887e-05,
-      "last_price": 1.0745566470413523e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T15:16:08+00:00",
-      "missing": 0
-    },
     "5CDqGDU6SuYJAqWS3uawgaKJhtFh4BLLuUYAqAx9pump": {
       "symbol": "MGOAT",
       "qty": 6446194.938265397,
       "entry_price": 7.67894866259194e-06,
-      "last_price": 7.39352426368633e-06,
+      "last_price": 7.393524264e-06,
       "cost": 50.0,
       "entry_time": "2026-11-01T15:16:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T02:09:13+00:00",
-      "side": "buy",
-      "symbol": "DIRECTOR",
-      "address": "4W2Es6pXgBPsNGnKvNk7MtvXWsjWBWtyDQ3T6Niapump",
-      "price": 1.9516764437642494e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T02:09:13+00:00",
-      "side": "buy",
-      "symbol": "PEPTARDIO",
-      "address": "87BzHdck2pLwQc6VGQLrVkSTuGHMBW39fibpu55Jpump",
-      "price": 1.7152374476617627e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-28T02:55:53+00:00",
       "side": "sell",
@@ -4528,13 +4494,29 @@
       "address": "5CDqGDU6SuYJAqWS3uawgaKJhtFh4BLLuUYAqAx9pump",
       "price": 7.67894866259194e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T15:54:03+00:00",
+      "side": "sell",
+      "symbol": "bob",
+      "address": "5kqk1EXamkFcpJgW48k4cxdAZoCchcbYwcJUEswJpump",
+      "price": 3.815089948e-05,
+      "proceeds": 85.33,
+      "pnl_usd": 35.33,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T15:54:03+00:00",
+      "side": "sell",
+      "symbol": "bob",
+      "address": "FTYCfHouNB2Soc3HVJm3wtMioYcB176DYeX15BfHpump",
+      "price": 6.161138552e-05,
+      "proceeds": 136.03,
+      "pnl_usd": 86.03,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T07:06:37+00:00",
-      "equity": 3599552.78
-    },
     {
       "date": "2026-10-09T07:31:24+00:00",
       "equity": 3599537.28
@@ -8530,6 +8512,10 @@
     {
       "date": "2026-11-01T15:16:08+00:00",
       "equity": 6530479.69
+    },
+    {
+      "date": "2026-11-01T15:54:03+00:00",
+      "equity": 6530605.19
     }
   ]
 }
