@@ -1,56 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530479.160805829,
+  "cash": 6530555.741265395,
   "positions": {
-    "FtYQ8jjjU37cVz7RYWTs5xJ11GMc2347dTHDwkMbpump": {
-      "symbol": "RDL",
-      "qty": 3087520.846996312,
-      "entry_price": 1.6032280412990884e-05,
-      "last_price": 1.550343292e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T11:05:28+00:00",
-      "missing": 0
-    },
-    "13MCrkR544PXEDNZX3tkR7c8e7byvrXZMc4SzHVppump": {
-      "symbol": "Leopar",
-      "qty": 689.1918925854578,
-      "entry_price": 0.07182324767969052,
-      "last_price": 0.06970162665668166,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T11:40:31+00:00",
-      "missing": 0
-    },
     "BiXHqbGGV6Dc4FvkTZuDk61reN7Sm8x7wXeeAxCRpump": {
       "symbol": "STOLON",
       "qty": 655952.0669887514,
       "entry_price": 7.546283103769662e-05,
-      "last_price": 7.26716999080839e-05,
+      "last_price": 7.275009435e-05,
       "cost": 50.0,
       "entry_time": "2026-11-01T11:40:31+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T23:39:40+00:00",
-      "side": "sell",
-      "symbol": "dogbaton",
-      "address": "J5WKRCKCQCWf9eStntFvkAiJfa13HLG35jQn8pEWpump",
-      "price": 1.760911203e-05,
-      "proceeds": 45.79,
-      "pnl_usd": -4.21,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-27T23:39:40+00:00",
-      "side": "sell",
-      "symbol": "$CAT",
-      "address": "EUDUejW6VVS5svawpr5rttRSJ8v1ANrt26RnAjd8pump",
-      "price": 8.234552456e-06,
-      "proceeds": 45.44,
-      "pnl_usd": -4.56,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-27T23:39:40+00:00",
       "side": "sell",
@@ -4532,13 +4494,29 @@
       "address": "BiXHqbGGV6Dc4FvkTZuDk61reN7Sm8x7wXeeAxCRpump",
       "price": 7.546283103769662e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T12:17:58+00:00",
+      "side": "sell",
+      "symbol": "RDL",
+      "address": "FtYQ8jjjU37cVz7RYWTs5xJ11GMc2347dTHDwkMbpump",
+      "price": 1.550343292e-05,
+      "proceeds": 45.78,
+      "pnl_usd": -4.22,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-01T12:17:58+00:00",
+      "side": "sell",
+      "symbol": "Leopar",
+      "address": "13MCrkR544PXEDNZX3tkR7c8e7byvrXZMc4SzHVppump",
+      "price": 0.09028369257,
+      "proceeds": 30.8,
+      "pnl_usd": -19.2,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T05:09:22+00:00",
-      "equity": 3599616.2
-    },
     {
       "date": "2026-10-09T05:32:19+00:00",
       "equity": 3599609.8
@@ -8534,6 +8512,10 @@
     {
       "date": "2026-11-01T11:40:31+00:00",
       "equity": 6530622.73
+    },
+    {
+      "date": "2026-11-01T12:17:58+00:00",
+      "equity": 6530603.46
     }
   ]
 }
