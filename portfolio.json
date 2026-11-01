@@ -1,106 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6530952.149905269,
+  "cash": 6530863.648925585,
   "positions": {
-    "Bz6GyoaD9tx167ubrWZRQq96qdEKpVaDRTAvH9Wbpump": {
-      "symbol": "デン",
-      "qty": 2544614.637713287,
-      "entry_price": 1.945284730598071e-05,
-      "last_price": 1.876055709331253e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T23:26:55+00:00",
-      "missing": 0
-    },
-    "5Lg3i3dLNnp13NLYW6cPjQ3U5xPfxDLfYm9rtRY9pump": {
-      "symbol": "Sinklon",
-      "qty": 1065060.2733674445,
-      "entry_price": 4.6476242929889624e-05,
-      "last_price": 4.498435418962095e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T23:26:55+00:00",
-      "missing": 0
-    },
-    "8sz1pPak1J6ynFbDJ1we8nRjiAWcbxyZvPiEjAfrpump": {
-      "symbol": "fomo",
-      "qty": 2604446.148605817,
-      "entry_price": 1.9005960260110497e-05,
-      "last_price": 1.8324701838616744e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T23:26:55+00:00",
-      "missing": 0
-    },
-    "Hr5wVMPBgqN4nWcBkQ6CfzUUffinAeNcb3jXgU6Tpump": {
-      "symbol": "$FROINK",
-      "qty": 740010.3383053868,
-      "entry_price": 6.689095737953377e-05,
-      "last_price": 6.481656124259616e-05,
-      "cost": 50.0,
-      "entry_time": "2026-10-31T23:26:55+00:00",
-      "missing": 0
-    },
     "9iRUjqoEsThaeRCGBEtgqFN4FjZzzANG5FeAUd2Npump": {
       "symbol": "SOL",
       "qty": 6208533.261660839,
       "entry_price": 7.972897609436065e-06,
-      "last_price": 7.677710489724577e-06,
+      "last_price": 7.674634647e-06,
       "cost": 50.0,
       "entry_time": "2026-10-31T23:26:55+00:00",
+      "missing": 0
+    },
+    "4gJFKg4NAHqjsmbtAzny2sw88VPpDxN9gpSQu1eHpump": {
+      "symbol": "Kongo",
+      "qty": 81423903.90973358,
+      "entry_price": 6.07929583613132e-07,
+      "last_price": 5.888341591295833e-07,
+      "cost": 50.0,
+      "entry_time": "2026-11-01T00:02:02+00:00",
+      "missing": 0
+    },
+    "9qCX6zjc8gTjLdXC5ALu7AnJ7MtmDF6yBGgwQtW2pump": {
+      "symbol": "Normie",
+      "qty": 5101506.23965282,
+      "entry_price": 9.70301665324802e-06,
+      "last_price": 9.333509191631893e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-01T00:02:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T13:37:02+00:00",
-      "side": "buy",
-      "symbol": "熊",
-      "address": "FWDjmUB7saWe1tb6ttp6eJzWtoHtutwVKkDL5Rdipump",
-      "price": 1.3916591235454273e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T14:30:22+00:00",
-      "side": "sell",
-      "symbol": "Darla",
-      "address": "3Mwn7if3tGBmFfLnHaBxrqLDErGDSHsZovbjFGWGpump",
-      "price": 9.417984391e-05,
-      "proceeds": 25.65,
-      "pnl_usd": -24.35,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-27T14:30:22+00:00",
-      "side": "sell",
-      "symbol": "熊",
-      "address": "FWDjmUB7saWe1tb6ttp6eJzWtoHtutwVKkDL5Rdipump",
-      "price": 9.210544174e-06,
-      "proceeds": 31.22,
-      "pnl_usd": -18.78,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T14:30:23+00:00",
-      "side": "buy",
-      "symbol": "Blackhole",
-      "address": "DU57Zniv5pM4HbUti7qaSohUSG9LyvZoJNiWn3zXpump",
-      "price": 1.7695202949390277e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T14:30:23+00:00",
-      "side": "buy",
-      "symbol": "P",
-      "address": "Es98y7fiq81CdPYJyZENuQ5fUUa9iVkB6xzqqQq1pump",
-      "price": 1.9765205670987363e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T14:30:23+00:00",
-      "side": "buy",
-      "symbol": "CHIMP",
-      "address": "AphzFqGXwvvGa47SWKNFctzcSjGMNLzGsoTsvJUCpump",
-      "price": 2.3003807366459864e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T15:22:42+00:00",
       "side": "sell",
@@ -4544,13 +4474,65 @@
       "address": "9iRUjqoEsThaeRCGBEtgqFN4FjZzzANG5FeAUd2Npump",
       "price": 7.972897609436065e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T00:02:02+00:00",
+      "side": "sell",
+      "symbol": "デン",
+      "address": "Bz6GyoaD9tx167ubrWZRQq96qdEKpVaDRTAvH9Wbpump",
+      "price": 2.013042898e-06,
+      "proceeds": 4.89,
+      "pnl_usd": -45.11,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-01T00:02:02+00:00",
+      "side": "sell",
+      "symbol": "Sinklon",
+      "address": "5Lg3i3dLNnp13NLYW6cPjQ3U5xPfxDLfYm9rtRY9pump",
+      "price": 1.912555627e-06,
+      "proceeds": 1.95,
+      "pnl_usd": -48.05,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T00:02:02+00:00",
+      "side": "sell",
+      "symbol": "fomo",
+      "address": "8sz1pPak1J6ynFbDJ1we8nRjiAWcbxyZvPiEjAfrpump",
+      "price": 1.867529431e-06,
+      "proceeds": 4.62,
+      "pnl_usd": -45.38,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T00:02:02+00:00",
+      "side": "sell",
+      "symbol": "$FROINK",
+      "address": "Hr5wVMPBgqN4nWcBkQ6CfzUUffinAeNcb3jXgU6Tpump",
+      "price": 5.304268092e-08,
+      "proceeds": 0.04,
+      "pnl_usd": -49.96,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T00:02:02+00:00",
+      "side": "buy",
+      "symbol": "Kongo",
+      "address": "4gJFKg4NAHqjsmbtAzny2sw88VPpDxN9gpSQu1eHpump",
+      "price": 6.07929583613132e-07,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T00:02:02+00:00",
+      "side": "buy",
+      "symbol": "Normie",
+      "address": "9qCX6zjc8gTjLdXC5ALu7AnJ7MtmDF6yBGgwQtW2pump",
+      "price": 9.70301665324802e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-08T23:48:08+00:00",
-      "equity": 3599898.13
-    },
     {
       "date": "2026-10-09T00:02:02+00:00",
       "equity": 3599872.98
@@ -8546,6 +8528,10 @@
     {
       "date": "2026-10-31T23:26:55+00:00",
       "equity": 6531191.16
+    },
+    {
+      "date": "2026-11-01T00:02:02+00:00",
+      "equity": 6531006.86
     }
   ]
 }
