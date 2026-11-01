@@ -1,73 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530359.781549046,
+  "cash": 6530461.367536306,
   "positions": {
-    "HSkLj82mk3vS6McvWWvnTFFrXmW91HvamJSMBxmRpump": {
-      "symbol": "income",
-      "qty": 2767138.4372810503,
-      "entry_price": 1.788851592428385e-05,
-      "last_price": 1.730586234e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T18:17:57+00:00",
-      "missing": 0
-    },
-    "DCnGuMWkBXxSnVSKyEuHgLFPyyzfvZYumohkNaJ6pump": {
-      "symbol": "LaMisery",
-      "qty": 3436413.8976654266,
-      "entry_price": 1.4404551219405928e-05,
-      "last_price": 1.3932097271381352e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T19:09:43+00:00",
-      "missing": 0
-    },
-    "5xQeHUtRnbJHGPn1FukgtEurxXDNFRXFCcVm2ZU5pump": {
-      "symbol": "$HONK",
-      "qty": 6448701.62644823,
-      "entry_price": 7.675963762532344e-06,
-      "last_price": 7.390783029306918e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T19:09:43+00:00",
-      "missing": 0
-    },
     "27SfKMEc6yizAkeffgpTh2DmXGc6Dspgae4D6WmVpump": {
       "symbol": "PUMP",
       "qty": 5427963.203383927,
       "entry_price": 9.119442808518021e-06,
-      "last_price": 8.788792696756124e-06,
+      "last_price": 8.497146734e-06,
       "cost": 50.0,
       "entry_time": "2026-11-01T19:09:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T04:23:24+00:00",
-      "side": "sell",
-      "symbol": "OAK",
-      "address": "EEkEmLcnc49AMjSx4uPhRtt3wwHkrvybddcnB1r2pump",
-      "price": 3.178075835e-06,
-      "proceeds": 12.51,
-      "pnl_usd": -37.49,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-28T04:23:24+00:00",
-      "side": "sell",
-      "symbol": "SHALOM",
-      "address": "EzSbiRNckf4wxeQJDX5Kx5JcvNF8H8gpV7tqyvuMpump",
-      "price": 4.394743953e-07,
-      "proceeds": 3.93,
-      "pnl_usd": -46.07,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-28T05:12:02+00:00",
-      "side": "buy",
-      "symbol": "DROYD",
-      "address": "3N1FSuxo6fzVfbA25noHRS4Ubn6Fc2APLRX2zJQxpump",
-      "price": 1.0813121285191586e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-28T05:12:02+00:00",
       "side": "buy",
@@ -4537,13 +4482,39 @@
       "address": "27SfKMEc6yizAkeffgpTh2DmXGc6Dspgae4D6WmVpump",
       "price": 9.119442808518021e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T19:49:32+00:00",
+      "side": "sell",
+      "symbol": "income",
+      "address": "HSkLj82mk3vS6McvWWvnTFFrXmW91HvamJSMBxmRpump",
+      "price": 1.730586234e-05,
+      "proceeds": 45.82,
+      "pnl_usd": -4.18,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-01T19:49:32+00:00",
+      "side": "sell",
+      "symbol": "LaMisery",
+      "address": "DCnGuMWkBXxSnVSKyEuHgLFPyyzfvZYumohkNaJ6pump",
+      "price": 1.63512953e-05,
+      "proceeds": 53.71,
+      "pnl_usd": 3.71,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-11-01T19:49:32+00:00",
+      "side": "sell",
+      "symbol": "$HONK",
+      "address": "5xQeHUtRnbJHGPn1FukgtEurxXDNFRXFCcVm2ZU5pump",
+      "price": 3.317667379e-07,
+      "proceeds": 2.05,
+      "pnl_usd": -47.95,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T08:58:12+00:00",
-      "equity": 3599394.93
-    },
     {
       "date": "2026-10-09T09:22:40+00:00",
       "equity": 3599392.71
@@ -8539,6 +8510,10 @@
     {
       "date": "2026-11-01T19:09:43+00:00",
       "equity": 6530550.91
+    },
+    {
+      "date": "2026-11-01T19:49:32+00:00",
+      "equity": 6530507.49
     }
   ]
 }
