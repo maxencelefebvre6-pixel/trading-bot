@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6530697.045303455,
+  "cash": 6530597.053873659,
   "positions": {
-    "GkcWTAos5Tt1erfyLPDWQVur9JWS9oP1LzmCu384pump": {
-      "symbol": "TYSON",
-      "qty": 2906234.667218818,
-      "entry_price": 1.703234792370365e-05,
-      "last_price": 1.6441688054935534e-05,
+    "7ZNrRbvRHrQyphuDcxazWZFu3MMMQS8QnNxu9b6Bpump": {
+      "symbol": "relax_gay",
+      "qty": 15612673.474740481,
+      "entry_price": 3.1705012008408e-06,
+      "last_price": 3.0581985826677745e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-01T09:45:18+00:00",
+      "entry_time": "2026-11-01T10:23:01+00:00",
+      "missing": 0
+    },
+    "2UwoECks6Waut8qJZwtPEnwBauovbZygXZdS19BSpump": {
+      "symbol": "$CAT",
+      "qty": 34926003.911014915,
+      "entry_price": 1.417282095200956e-06,
+      "last_price": 1.366144609775823e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-01T10:23:01+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T22:28:49+00:00",
-      "side": "buy",
-      "symbol": "dogbaton",
-      "address": "J5WKRCKCQCWf9eStntFvkAiJfa13HLG35jQn8pEWpump",
-      "price": 1.821365998176273e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T22:28:49+00:00",
-      "side": "buy",
-      "symbol": "$CAT",
-      "address": "EUDUejW6VVS5svawpr5rttRSJ8v1ANrt26RnAjd8pump",
-      "price": 8.546869393173854e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T23:06:47+00:00",
-      "side": "sell",
-      "symbol": "LEGEND",
-      "address": "92pnTL3ZcyhgzFqPUzSSoXys9L5FKRSgycWGXCZFpump",
-      "price": 2.850618056e-06,
-      "proceeds": 10.67,
-      "pnl_usd": -39.33,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-27T23:06:47+00:00",
       "side": "sell",
@@ -4514,13 +4497,35 @@
       "address": "GkcWTAos5Tt1erfyLPDWQVur9JWS9oP1LzmCu384pump",
       "price": 1.703234792370365e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T10:23:01+00:00",
+      "side": "sell",
+      "symbol": "TYSON",
+      "address": "GkcWTAos5Tt1erfyLPDWQVur9JWS9oP1LzmCu384pump",
+      "price": 3.081117739e-09,
+      "proceeds": 0.01,
+      "pnl_usd": -49.99,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T10:23:01+00:00",
+      "side": "buy",
+      "symbol": "relax_gay",
+      "address": "7ZNrRbvRHrQyphuDcxazWZFu3MMMQS8QnNxu9b6Bpump",
+      "price": 3.1705012008408e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T10:23:01+00:00",
+      "side": "buy",
+      "symbol": "$CAT",
+      "address": "2UwoECks6Waut8qJZwtPEnwBauovbZygXZdS19BSpump",
+      "price": 1.417282095200956e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T04:06:31+00:00",
-      "equity": 3599864.81
-    },
     {
       "date": "2026-10-09T04:29:55+00:00",
       "equity": 3599733.6
@@ -8516,6 +8521,10 @@
     {
       "date": "2026-11-01T09:45:18+00:00",
       "equity": 6530744.83
+    },
+    {
+      "date": "2026-11-01T10:23:01+00:00",
+      "equity": 6530692.51
     }
   ]
 }
