@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6530460.431703633,
-  "positions": {
-    "5QWLoy5rqNhLgGKfsKfmWaYp3U26X9YGnLsLVRfgpump": {
-      "symbol": "MrBeast",
-      "qty": 424149.4128941607,
-      "entry_price": 0.00011670415776893196,
-      "last_price": 0.00011309545924310654,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T22:53:23+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6530461.11853356,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-28T06:47:10+00:00",
-      "side": "sell",
-      "symbol": "OF",
-      "address": "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump",
-      "price": 0.0004080661716,
-      "proceeds": 134.7,
-      "pnl_usd": 84.7,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-28T06:47:10+00:00",
       "side": "sell",
@@ -4514,13 +4494,19 @@
       "address": "5QWLoy5rqNhLgGKfsKfmWaYp3U26X9YGnLsLVRfgpump",
       "price": 0.00011670415776893196,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T23:27:37+00:00",
+      "side": "sell",
+      "symbol": "MrBeast",
+      "address": "5QWLoy5rqNhLgGKfsKfmWaYp3U26X9YGnLsLVRfgpump",
+      "price": 1.694292037e-06,
+      "proceeds": 0.69,
+      "pnl_usd": -49.31,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T11:26:59+00:00",
-      "equity": 3599034.39
-    },
     {
       "date": "2026-10-09T11:48:22+00:00",
       "equity": 3598996.97
@@ -8516,6 +8502,10 @@
     {
       "date": "2026-11-01T22:53:23+00:00",
       "equity": 6530508.4
+    },
+    {
+      "date": "2026-11-01T23:27:37+00:00",
+      "equity": 6530461.12
     }
   ]
 }
