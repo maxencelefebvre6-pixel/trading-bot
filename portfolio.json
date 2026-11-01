@@ -1,34 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530716.289898831,
+  "cash": 6530712.183510872,
   "positions": {
-    "Cr669ynGpXhJ59tjw2j6C6R1T33DApq97ANrfARCpump": {
-      "symbol": "NAIWA",
-      "qty": 2332205.71409446,
-      "entry_price": 2.122454280119954e-05,
-      "last_price": 2.0543405275548303e-05,
+    "AUvCuKpQ8CpwuKRfBVLgw3f4DnGe59ubULFAtegnpump": {
+      "symbol": "Bi",
+      "qty": 6010146.830963801,
+      "entry_price": 8.23607166217303e-06,
+      "last_price": 7.93429356864194e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-01T06:10:55+00:00",
+      "entry_time": "2026-11-01T07:16:40+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T21:13:54+00:00",
-      "side": "buy",
-      "symbol": "HEXCAT",
-      "address": "FUjA2WdKhXMUuvCYa1UkXeE4vo1KWCSrpB3aeQKXpump",
-      "price": 9.584153479214311e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T21:13:54+00:00",
-      "side": "buy",
-      "symbol": "DOOB",
-      "address": "7wLQiqsisR5ERmhkptp8RvEYKoE2xfFjNwCCPs1Spump",
-      "price": 5.469823044135228e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T21:53:28+00:00",
       "side": "sell",
@@ -4512,13 +4496,27 @@
       "address": "Cr669ynGpXhJ59tjw2j6C6R1T33DApq97ANrfARCpump",
       "price": 2.122454280119954e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T07:16:40+00:00",
+      "side": "sell",
+      "symbol": "NAIWA",
+      "address": "Cr669ynGpXhJ59tjw2j6C6R1T33DApq97ANrfARCpump",
+      "price": 2.055585845e-05,
+      "proceeds": 45.89,
+      "pnl_usd": -4.11,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-01T07:16:40+00:00",
+      "side": "buy",
+      "symbol": "Bi",
+      "address": "AUvCuKpQ8CpwuKRfBVLgw3f4DnGe59ubULFAtegnpump",
+      "price": 8.23607166217303e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T02:48:47+00:00",
-      "equity": 3599850.34
-    },
     {
       "date": "2026-10-09T03:03:30+00:00",
       "equity": 3599713.02
@@ -8514,6 +8512,10 @@
     {
       "date": "2026-11-01T06:10:55+00:00",
       "equity": 6530764.2
+    },
+    {
+      "date": "2026-11-01T07:16:40+00:00",
+      "equity": 6530759.87
     }
   ]
 }
