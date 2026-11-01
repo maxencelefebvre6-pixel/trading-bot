@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6530557.534452445,
-  "positions": {
-    "5CDqGDU6SuYJAqWS3uawgaKJhtFh4BLLuUYAqAx9pump": {
-      "symbol": "MGOAT",
-      "qty": 6446194.938265397,
-      "entry_price": 7.67894866259194e-06,
-      "last_price": 7.393524264e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-01T15:16:08+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6530602.915209857,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-28T02:55:53+00:00",
-      "side": "sell",
-      "symbol": "SNPIE",
-      "address": "E3nq7HPdDn2mCVGrbS2jpL12Fq1pNmJuEk2bBcUFpump",
-      "price": 0.1004044368,
-      "proceeds": 29.67,
-      "pnl_usd": -20.33,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-28T02:55:53+00:00",
       "side": "sell",
@@ -4514,13 +4494,19 @@
       "proceeds": 136.03,
       "pnl_usd": 86.03,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T16:29:55+00:00",
+      "side": "sell",
+      "symbol": "MGOAT",
+      "address": "5CDqGDU6SuYJAqWS3uawgaKJhtFh4BLLuUYAqAx9pump",
+      "price": 7.393524264e-06,
+      "proceeds": 45.38,
+      "pnl_usd": -4.62,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T07:31:24+00:00",
-      "equity": 3599537.28
-    },
     {
       "date": "2026-10-09T07:53:09+00:00",
       "equity": 3599535.28
@@ -8516,6 +8502,10 @@
     {
       "date": "2026-11-01T15:54:03+00:00",
       "equity": 6530605.19
+    },
+    {
+      "date": "2026-11-01T16:29:55+00:00",
+      "equity": 6530602.92
     }
   ]
 }
