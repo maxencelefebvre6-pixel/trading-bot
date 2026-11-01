@@ -1,92 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6530796.338055122,
+  "cash": 6530738.007754049,
   "positions": {
-    "J6DjXyn3RHAZNRJsSwaBMhd59b2MatCnMjP9sueApump": {
+    "4annndMn1YDmSxBaxWm79S6F1wuZDCryc17ftwX4pump": {
       "symbol": "Amazon",
-      "qty": 287682.29307559354,
-      "entry_price": 0.00017206481313395612,
-      "last_price": 0.00016679892025571312,
+      "qty": 335756.23717122746,
+      "entry_price": 0.0001474283855961735,
+      "last_price": 0.00014289952403908102,
       "cost": 50.0,
-      "entry_time": "2026-11-01T01:05:32+00:00",
+      "entry_time": "2026-11-01T02:05:48+00:00",
       "missing": 0
     },
-    "59yoH4Z51hkEJEAB13wtFhMVtvve79p6JpyWMj6fpump": {
-      "symbol": "UwU",
-      "qty": 4193955.406418979,
-      "entry_price": 1.1802700601975575e-05,
-      "last_price": 1.1396282375214193e-05,
+    "HRz6eSLbv1sPysUEwBYpxCmbgNwVQCu5F44vaGUUpump": {
+      "symbol": "satoshi",
+      "qty": 3219733.622211238,
+      "entry_price": 1.5373942632559943e-05,
+      "last_price": 1.4861855454116694e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-01T01:05:32+00:00",
+      "entry_time": "2026-11-01T02:05:48+00:00",
       "missing": 0
     },
-    "8Vwgbc7kEDpP7R4FXvncFagURtAwwc7ru6rJWnkXpump": {
-      "symbol": "UwU",
-      "qty": 5010101.59877508,
-      "entry_price": 9.880039161701282e-06,
-      "last_price": 9.530759489456489e-06,
+    "Bp6XGV1Ta25shQXDzVKtsAmaWM9sHnGYSTCyDGy6pump": {
+      "symbol": "$SLJK",
+      "qty": 6899877.590801715,
+      "entry_price": 7.174040314278744e-06,
+      "last_price": 6.902055656921316e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-01T01:05:32+00:00",
+      "entry_time": "2026-11-01T02:05:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-27T15:22:43+00:00",
-      "side": "buy",
-      "symbol": "HANS",
-      "address": "8WgTPa7hdo5LVwxqexJEmz8o2zAEzkZEezwHceLXpump",
-      "price": 1.2528578968873597e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-27T16:10:16+00:00",
-      "side": "sell",
-      "symbol": "Maxxing",
-      "address": "Gy6ok5MhVCqjh2EKDDh9SgDRmW8em3akWgtVnRdMpump",
-      "price": 0.0001027133213,
-      "proceeds": 27.9,
-      "pnl_usd": -22.1,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-27T16:10:16+00:00",
-      "side": "sell",
-      "symbol": "FRIA",
-      "address": "4WBYJYA5Ma4MciyoNbRQCDJZ8qWA2myvm9Ffrva8pump",
-      "price": 2.89645671e-06,
-      "proceeds": 4.81,
-      "pnl_usd": -45.19,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-27T16:58:17+00:00",
-      "side": "sell",
-      "symbol": "GNB",
-      "address": "FgrXdPnHpBxSqaYLzwSgVRtBg1Fvsk7kQ8oyeXrgpump",
-      "price": 1.052255422e-05,
-      "proceeds": 45.59,
-      "pnl_usd": -4.41,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-27T16:58:17+00:00",
-      "side": "sell",
-      "symbol": "HANS",
-      "address": "8WgTPa7hdo5LVwxqexJEmz8o2zAEzkZEezwHceLXpump",
-      "price": 1.210166041e-05,
-      "proceeds": 45.68,
-      "pnl_usd": -4.32,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-27T17:46:55+00:00",
-      "side": "buy",
-      "symbol": "PUUMP",
-      "address": "27F9dctt8JftPmPMZrLZCX2qdhqSAd7Az345Lx9Qpump",
-      "price": 6.399575327426458e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-27T17:46:55+00:00",
       "side": "buy",
@@ -4530,13 +4474,63 @@
       "address": "8Vwgbc7kEDpP7R4FXvncFagURtAwwc7ru6rJWnkXpump",
       "price": 9.880039161701282e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T02:05:48+00:00",
+      "side": "sell",
+      "symbol": "Amazon",
+      "address": "J6DjXyn3RHAZNRJsSwaBMhd59b2MatCnMjP9sueApump",
+      "price": 1.720579053e-06,
+      "proceeds": 0.47,
+      "pnl_usd": -49.53,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-01T02:05:48+00:00",
+      "side": "sell",
+      "symbol": "UwU",
+      "address": "59yoH4Z51hkEJEAB13wtFhMVtvve79p6JpyWMj6fpump",
+      "price": 1.139628238e-05,
+      "proceeds": 45.64,
+      "pnl_usd": -4.36,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-01T02:05:48+00:00",
+      "side": "sell",
+      "symbol": "UwU",
+      "address": "8Vwgbc7kEDpP7R4FXvncFagURtAwwc7ru6rJWnkXpump",
+      "price": 9.530759489e-06,
+      "proceeds": 45.55,
+      "pnl_usd": -4.45,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-01T02:05:48+00:00",
+      "side": "buy",
+      "symbol": "Amazon",
+      "address": "4annndMn1YDmSxBaxWm79S6F1wuZDCryc17ftwX4pump",
+      "price": 0.0001474283855961735,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T02:05:48+00:00",
+      "side": "buy",
+      "symbol": "satoshi",
+      "address": "HRz6eSLbv1sPysUEwBYpxCmbgNwVQCu5F44vaGUUpump",
+      "price": 1.5373942632559943e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-01T02:05:48+00:00",
+      "side": "buy",
+      "symbol": "$SLJK",
+      "address": "Bp6XGV1Ta25shQXDzVKtsAmaWM9sHnGYSTCyDGy6pump",
+      "price": 7.174040314278744e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T00:37:07+00:00",
-      "equity": 3599849.74
-    },
     {
       "date": "2026-10-09T01:04:57+00:00",
       "equity": 3599810.5
@@ -8532,6 +8526,10 @@
     {
       "date": "2026-11-01T01:05:32+00:00",
       "equity": 6530939.87
+    },
+    {
+      "date": "2026-11-01T02:05:48+00:00",
+      "equity": 6530881.46
     }
   ]
 }
