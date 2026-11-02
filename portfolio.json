@@ -1,70 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6530311.11853356,
+  "cash": 6530328.503382377,
   "positions": {
-    "7yhyJaE5AcNyUGVcfmATy5AxcgFfq1Jtvw71BjGcpump": {
-      "symbol": "megatron",
-      "qty": 5527487.001744983,
-      "entry_price": 8.955244939404335e-06,
-      "last_price": 8.620113734206847e-06,
+    "CCq2wyPifiDYaABfyrV8f6se4znvVqVu2TX6dByrpump": {
+      "symbol": "MEMECOINS",
+      "qty": 3577535.879235579,
+      "entry_price": 1.3836339220887643e-05,
+      "last_price": 1.3312533987679118e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-02T01:03:49+00:00",
-      "missing": 0
-    },
-    "A1jH8c51jzjc6YPPAMwLb3CWPzF4bcgTBUGqURxDpump": {
-      "symbol": "CRDCLCH",
-      "qty": 437.3917998578529,
-      "entry_price": 0.11317084594655617,
-      "last_price": 0.10982298035099701,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T01:03:49+00:00",
-      "missing": 0
-    },
-    "6HdACkfQxNtzmbCc8pYiCDZC9YWMhCn2JFXVE3Aspump": {
-      "symbol": "$BWIZ",
-      "qty": 6687769.372143201,
-      "entry_price": 7.401571023992556e-06,
-      "last_price": 7.123912622165285e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T01:03:49+00:00",
+      "entry_time": "2026-11-02T02:07:35+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T06:47:11+00:00",
-      "side": "buy",
-      "symbol": "BOLTKIT",
-      "address": "5paHbNJZuPUwsPaWrVVMZJq2cfiMhkirjEGinRTppump",
-      "price": 1.2633146797814645e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T06:47:11+00:00",
-      "side": "buy",
-      "symbol": "$CCOW",
-      "address": "54eVDP9VozQu8hETrkGCqB2eRfrvLrPT2CzZa4RQpump",
-      "price": 7.08436768385931e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T07:42:38+00:00",
-      "side": "buy",
-      "symbol": "JUMP",
-      "address": "CieauCuTQDUKyKz1CSZtUHgfexh1fHuwdHf5ML1Jpump",
-      "price": 7.0448853845004165e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T08:31:54+00:00",
-      "side": "sell",
-      "symbol": "STENKS",
-      "address": "Hg3u4Gxf16dkNKw7o8zpuZVBF83rPzLwUBLYhkchpump",
-      "price": 6.029757464e-06,
-      "proceeds": 45.54,
-      "pnl_usd": -4.46,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-28T08:31:54+00:00",
       "side": "sell",
@@ -4528,13 +4476,47 @@
       "address": "6HdACkfQxNtzmbCc8pYiCDZC9YWMhCn2JFXVE3Aspump",
       "price": 7.401571023992556e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T02:07:35+00:00",
+      "side": "sell",
+      "symbol": "megatron",
+      "address": "7yhyJaE5AcNyUGVcfmATy5AxcgFfq1Jtvw71BjGcpump",
+      "price": 4.172306203e-06,
+      "proceeds": 21.93,
+      "pnl_usd": -28.07,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T02:07:35+00:00",
+      "side": "sell",
+      "symbol": "CRDCLCH",
+      "address": "A1jH8c51jzjc6YPPAMwLb3CWPzF4bcgTBUGqURxDpump",
+      "price": 0.0005013457494,
+      "proceeds": 0.11,
+      "pnl_usd": -49.89,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T02:07:35+00:00",
+      "side": "sell",
+      "symbol": "$BWIZ",
+      "address": "6HdACkfQxNtzmbCc8pYiCDZC9YWMhCn2JFXVE3Aspump",
+      "price": 7.123912622e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-02T02:07:35+00:00",
+      "side": "buy",
+      "symbol": "MEMECOINS",
+      "address": "CCq2wyPifiDYaABfyrV8f6se4znvVqVu2TX6dByrpump",
+      "price": 1.3836339220887643e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T12:03:09+00:00",
-      "equity": 3598994.96
-    },
     {
       "date": "2026-10-09T12:30:02+00:00",
       "equity": 3598971.58
@@ -8530,6 +8512,10 @@
     {
       "date": "2026-11-02T01:03:49+00:00",
       "equity": 6530454.44
+    },
+    {
+      "date": "2026-11-02T02:07:35+00:00",
+      "equity": 6530376.13
     }
   ]
 }
