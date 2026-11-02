@@ -1,62 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6529225.004920083,
+  "cash": 6529246.964720368,
   "positions": {
-    "D9BkjvQ5spAw2t9RDSVrdNDZGEnCVHCLVrPieyXVpump": {
-      "symbol": "Kevin",
-      "qty": 1949658.109559819,
-      "entry_price": 2.538906680986021e-05,
-      "last_price": 2.448225855297318e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T23:18:36+00:00",
-      "missing": 0
-    },
-    "GYXxcgvMr3NeACqXdx7waSB8r8MZP7vfLE1hNR5npump": {
-      "symbol": "att",
-      "qty": 4565781.105019731,
-      "entry_price": 1.0841518430565689e-05,
-      "last_price": 1.0453813127487553e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T23:18:36+00:00",
-      "missing": 0
-    },
     "4cy2zjLVJzReYqD1tdBsejfyNYAe8TfNQgKw5D1fpump": {
       "symbol": "dmd",
       "qty": 6066635.040805619,
       "entry_price": 8.159383194646013e-06,
-      "last_price": 7.860462494321047e-06,
+      "last_price": 7.860462494e-06,
       "cost": 50.0,
       "entry_time": "2026-11-02T23:18:36+00:00",
+      "missing": 0
+    },
+    "8fpZM9y8UxmFQnXScNbzYKBpkeRJ4AzA6aDCdoRpump": {
+      "symbol": "Ansum",
+      "qty": 1458139.7105860326,
+      "entry_price": 3.394736433047677e-05,
+      "last_price": 3.28404518190688e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T23:54:26+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T07:21:40+00:00",
-      "side": "buy",
-      "symbol": "PENGUTON",
-      "address": "6CdARV9aCPteSbvTdZsK3vxJUfgvHMV4ufs3iJkjpump",
-      "price": 4.079243234164301e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T07:21:40+00:00",
-      "side": "buy",
-      "symbol": "DWTA",
-      "address": "DqbNVNbchYKPczbtR4voMvUT7EP4eq2CaZ39XYcTpump",
-      "price": 7.769080276847e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T08:18:31+00:00",
-      "side": "sell",
-      "symbol": "Moancoin",
-      "address": "BQQhjpKzfy8H5xPdfQKcv9rMu6MnDE1EHv5oYozppump",
-      "price": 3.145472576e-06,
-      "proceeds": 7.14,
-      "pnl_usd": -42.86,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-29T08:18:31+00:00",
       "side": "sell",
@@ -4528,13 +4493,37 @@
       "address": "4cy2zjLVJzReYqD1tdBsejfyNYAe8TfNQgKw5D1fpump",
       "price": 8.159383194646013e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T23:54:25+00:00",
+      "side": "sell",
+      "symbol": "Kevin",
+      "address": "D9BkjvQ5spAw2t9RDSVrdNDZGEnCVHCLVrPieyXVpump",
+      "price": 3.190717686e-06,
+      "proceeds": 5.96,
+      "pnl_usd": -44.04,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T23:54:25+00:00",
+      "side": "sell",
+      "symbol": "att",
+      "address": "GYXxcgvMr3NeACqXdx7waSB8r8MZP7vfLE1hNR5npump",
+      "price": 1.515049603e-05,
+      "proceeds": 66.0,
+      "pnl_usd": 16.0,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-11-02T23:54:26+00:00",
+      "side": "buy",
+      "symbol": "Ansum",
+      "address": "8fpZM9y8UxmFQnXScNbzYKBpkeRJ4AzA6aDCdoRpump",
+      "price": 3.394736433047677e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T20:44:17+00:00",
-      "equity": 3597901.13
-    },
     {
       "date": "2026-10-09T21:00:51+00:00",
       "equity": 3597855.44
@@ -8530,6 +8519,10 @@
     {
       "date": "2026-11-02T23:18:36+00:00",
       "equity": 6529368.15
+    },
+    {
+      "date": "2026-11-02T23:54:26+00:00",
+      "equity": 6529342.54
     }
   ]
 }
