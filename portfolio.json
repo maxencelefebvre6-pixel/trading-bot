@@ -1,152 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6529433.661248369,
+  "cash": 6529449.534704062,
   "positions": {
-    "CPzNYMMUkKLEf5fsXasqXtahwb7uQtKaUkSx5RuGpump": {
-      "symbol": "FRANK",
-      "qty": 4203568.412590885,
-      "entry_price": 1.1775709383421333e-05,
-      "last_price": 1.1402997808079102e-05,
+    "8HHqVoSZ7MYS9sZEf6vqVMWhD58BYcAvfXdqRihwpump": {
+      "symbol": "SQQQ",
+      "qty": 6840145.906612588,
+      "entry_price": 7.236687736755259e-06,
+      "last_price": 6.958694090710213e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-02T17:40:25+00:00",
+      "entry_time": "2026-11-02T18:35:35+00:00",
       "missing": 0
     },
-    "9sbKo1acrtnj77PZphxpRB2dpj6tB1MpcYbEiVmCpump": {
-      "symbol": "Valerie",
-      "qty": 1662805.8921975738,
-      "entry_price": 2.9768958741528462e-05,
-      "last_price": 2.8708886573961997e-05,
+    "4E3zDnUbndUyJA9AA1WLTssc45TRqpHh111BxNCcpump": {
+      "symbol": "$SLEEVE",
+      "qty": 1192000.592043944,
+      "entry_price": 4.152682501199223e-05,
+      "last_price": 4.018484161598823e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-02T17:40:25+00:00",
-      "missing": 0
-    },
-    "CMGSEp7VpQCpcNY8ErwzQzwputAFt6UCdaG8jgCPpump": {
-      "symbol": "XFIELD",
-      "qty": 1469083.382850573,
-      "entry_price": 3.3694479549521166e-05,
-      "last_price": 3.259721979659387e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T17:40:25+00:00",
-      "missing": 0
-    },
-    "d1y9b9svg232oeH7C35D9ihLQ65CPpS7vn58NyEpump": {
-      "symbol": "FOMO",
-      "qty": 352120.0605583756,
-      "entry_price": 0.0001405770518200673,
-      "last_price": 0.0001362338006013028,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T17:40:25+00:00",
-      "missing": 0
-    },
-    "CxaTtZm2RxNDAhnEhjTunHsfxPTs5cmJKpbabVZtpump": {
-      "symbol": "Trbeag",
-      "qty": 600.8457071563824,
-      "entry_price": 0.08238387894001648,
-      "last_price": 0.07995239137136524,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T17:40:25+00:00",
-      "missing": 0
-    },
-    "CeuGL5JC8oHTHVVzgugKbtkArdV3t4WbhFSbkqE6pump": {
-      "symbol": "FRANK",
-      "qty": 482705568.3856009,
-      "entry_price": 1.0254698358991746e-07,
-      "last_price": 9.924919038024871e-08,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T17:40:25+00:00",
-      "missing": 0
-    },
-    "BycqRx7ztaUJ8eZrZ84GSRX4h7jfnTjpcHAQ2KLkpump": {
-      "symbol": "UPLINK",
-      "qty": 4747278.30893601,
-      "entry_price": 1.0427027188783936e-05,
-      "last_price": 1.0044387929333038e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T17:40:25+00:00",
+      "entry_time": "2026-11-02T18:35:35+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T01:24:44+00:00",
-      "side": "buy",
-      "symbol": "SMART",
-      "address": "DuLxfzQH21oH4PJkgL1FnG19xRX8Esorp5Sdkwpdpump",
-      "price": 8.845005661057193e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T02:18:31+00:00",
-      "side": "sell",
-      "symbol": "SI",
-      "address": "HThGzgUe3kx9oKWjiAR2cGcyvqLjbKUBUnvS78jWpump",
-      "price": 3.279987971e-06,
-      "proceeds": 19.24,
-      "pnl_usd": -30.76,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T02:18:31+00:00",
-      "side": "sell",
-      "symbol": "SMART",
-      "address": "DuLxfzQH21oH4PJkgL1FnG19xRX8Esorp5Sdkwpdpump",
-      "price": 6.238357678e-06,
-      "proceeds": 33.26,
-      "pnl_usd": -16.74,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T02:18:31+00:00",
-      "side": "buy",
-      "symbol": "TOKENIZER",
-      "address": "5XaurykjVBt4EJMyFCvmLp11hTZtg6Gqiqm5zNgVpump",
-      "price": 1.1715020104148737e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T02:18:31+00:00",
-      "side": "buy",
-      "symbol": "FERSPE",
-      "address": "6kjss7CiQfnRwq321Hj313QRWeZM3Km6xm2XNyxNpump",
-      "price": 7.343543276361541e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T03:07:13+00:00",
-      "side": "sell",
-      "symbol": "TOKENIZER",
-      "address": "5XaurykjVBt4EJMyFCvmLp11hTZtg6Gqiqm5zNgVpump",
-      "price": 3.066741652e-06,
-      "proceeds": 12.37,
-      "pnl_usd": -37.63,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T03:07:13+00:00",
-      "side": "buy",
-      "symbol": "tommie",
-      "address": "6stDtsPuZszhswCrsNyxbVQFWkVL6WdzpH5rTrZMpump",
-      "price": 3.9588536713856655e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T03:54:04+00:00",
-      "side": "sell",
-      "symbol": "FERSPE",
-      "address": "6kjss7CiQfnRwq321Hj313QRWeZM3Km6xm2XNyxNpump",
-      "price": 7.06253969e-06,
-      "proceeds": 45.27,
-      "pnl_usd": -4.73,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-29T03:54:04+00:00",
-      "side": "buy",
-      "symbol": "STUMP",
-      "address": "G5d9WXrYr2zf5U9auBJYuvrkiG4qwaRHpeczbn2Fpump",
-      "price": 3.027294555952122e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-29T03:54:04+00:00",
       "side": "buy",
@@ -4560,13 +4435,95 @@
       "address": "BycqRx7ztaUJ8eZrZ84GSRX4h7jfnTjpcHAQ2KLkpump",
       "price": 1.0427027188783936e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "sell",
+      "symbol": "FRANK",
+      "address": "CPzNYMMUkKLEf5fsXasqXtahwb7uQtKaUkSx5RuGpump",
+      "price": 1.767070535e-05,
+      "proceeds": 36.77,
+      "pnl_usd": -13.23,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "sell",
+      "symbol": "Valerie",
+      "address": "9sbKo1acrtnj77PZphxpRB2dpj6tB1MpcYbEiVmCpump",
+      "price": 3.935385498e-06,
+      "proceeds": 6.27,
+      "pnl_usd": -43.73,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "sell",
+      "symbol": "XFIELD",
+      "address": "CMGSEp7VpQCpcNY8ErwzQzwputAFt6UCdaG8jgCPpump",
+      "price": 4.613740803e-06,
+      "proceeds": 6.5,
+      "pnl_usd": -43.5,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "d1y9b9svg232oeH7C35D9ihLQ65CPpS7vn58NyEpump",
+      "price": 1.681673896e-06,
+      "proceeds": 0.57,
+      "pnl_usd": -49.43,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "sell",
+      "symbol": "Trbeag",
+      "address": "CxaTtZm2RxNDAhnEhjTunHsfxPTs5cmJKpbabVZtpump",
+      "price": 0.09155784249,
+      "proceeds": 27.23,
+      "pnl_usd": -22.77,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "sell",
+      "symbol": "FRANK",
+      "address": "CeuGL5JC8oHTHVVzgugKbtkArdV3t4WbhFSbkqE6pump",
+      "price": 9.924919038e-08,
+      "proceeds": 23.71,
+      "pnl_usd": -26.29,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "sell",
+      "symbol": "UPLINK",
+      "address": "BycqRx7ztaUJ8eZrZ84GSRX4h7jfnTjpcHAQ2KLkpump",
+      "price": 3.276850251e-06,
+      "proceeds": 14.83,
+      "pnl_usd": -35.17,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "buy",
+      "symbol": "SQQQ",
+      "address": "8HHqVoSZ7MYS9sZEf6vqVMWhD58BYcAvfXdqRihwpump",
+      "price": 7.236687736755259e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "side": "buy",
+      "symbol": "$SLEEVE",
+      "address": "4E3zDnUbndUyJA9AA1WLTssc45TRqpHh111BxNCcpump",
+      "price": 4.152682501199223e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T18:50:34+00:00",
-      "equity": 3598234.34
-    },
     {
       "date": "2026-10-09T19:06:17+00:00",
       "equity": 3598194.97
@@ -8562,6 +8519,10 @@
     {
       "date": "2026-11-02T17:40:25+00:00",
       "equity": 6529768.82
+    },
+    {
+      "date": "2026-11-02T18:35:35+00:00",
+      "equity": 6529545.03
     }
   ]
 }
