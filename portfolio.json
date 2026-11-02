@@ -1,73 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6529944.031192897,
+  "cash": 6529850.920271944,
   "positions": {
-    "AmWhVXWtiuDsL6SLXBZ7CTvKwEHdMMHfFQqkXVsupump": {
-      "symbol": "pump",
-      "qty": 4894680.902074535,
-      "entry_price": 1.0113018803538385e-05,
-      "last_price": 9.167356251e-06,
+    "MhS9V89S8sjXsR2Rr4FepejadW9m1airQiJ44DKpump": {
+      "symbol": "XTX",
+      "qty": 353.40633798109087,
+      "entry_price": 0.14006539974008195,
+      "last_price": 0.13597884181936593,
       "cost": 50.0,
-      "entry_time": "2026-11-02T09:34:27+00:00",
+      "entry_time": "2026-11-02T11:28:07+00:00",
       "missing": 0
     },
-    "32iwiNx2HtZTgGzyTGCQZZrjxEoHJhSMa4upYrNhpump": {
-      "symbol": "Piepad",
-      "qty": 5642368.999131224,
-      "entry_price": 8.772910812394881e-06,
-      "last_price": 8.441994315772477e-06,
+    "FKwHYovU8paVeLimcN9oESdfvyFEqY8q6B1HuoUpump": {
+      "symbol": "0DAY",
+      "qty": 375008.43320890045,
+      "entry_price": 0.0001319970315772226,
+      "last_price": 0.00012791456809174974,
       "cost": 50.0,
-      "entry_time": "2026-11-02T10:33:28+00:00",
+      "entry_time": "2026-11-02T11:28:07+00:00",
+      "missing": 0
+    },
+    "65VEMytUn65Y2dzqJ7S5bdWgdKHdbKxnV2Uw67r5pump": {
+      "symbol": "DWTA",
+      "qty": 2077347.0950513748,
+      "entry_price": 2.3828468587612613e-05,
+      "last_price": 2.3071688062802853e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T11:28:07+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T15:22:56+00:00",
-      "side": "sell",
-      "symbol": "Potpot",
-      "address": "D9NXzZxiJxgp2U69EDWJ1tJDMtGcEiWh2xGGY58Gpump",
-      "price": 0.000150250434,
-      "proceeds": 125.48,
-      "pnl_usd": 75.48,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-28T15:22:56+00:00",
-      "side": "sell",
-      "symbol": "42069M",
-      "address": "8AJLFPFbKBzEHvbLiagozhmLbNDJzpwDWm5nvLxFpump",
-      "price": 1.735884532e-05,
-      "proceeds": 23.68,
-      "pnl_usd": -26.32,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-28T15:22:57+00:00",
-      "side": "buy",
-      "symbol": "Worth",
-      "address": "8DTYHgBRZv9aU2WrDFgpAvEvz21HgT67syzUtHo1pump",
-      "price": 1.2644281044309152e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T15:22:57+00:00",
-      "side": "buy",
-      "symbol": "nothing",
-      "address": "EYXARF1NhG9ri8LbkD2DfqpP27AaJe1dYW38x9FRpump",
-      "price": 0.00013015581618560314,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T16:19:09+00:00",
-      "side": "sell",
-      "symbol": "Worth",
-      "address": "8DTYHgBRZv9aU2WrDFgpAvEvz21HgT67syzUtHo1pump",
-      "price": 2.87249629e-06,
-      "proceeds": 10.74,
-      "pnl_usd": -39.26,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-28T16:19:09+00:00",
       "side": "buy",
@@ -4521,13 +4484,53 @@
       "address": "32iwiNx2HtZTgGzyTGCQZZrjxEoHJhSMa4upYrNhpump",
       "price": 8.772910812394881e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T11:28:07+00:00",
+      "side": "sell",
+      "symbol": "pump",
+      "address": "AmWhVXWtiuDsL6SLXBZ7CTvKwEHdMMHfFQqkXVsupump",
+      "price": 9.167356251e-06,
+      "proceeds": 42.78,
+      "pnl_usd": -7.22,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-02T11:28:07+00:00",
+      "side": "sell",
+      "symbol": "Piepad",
+      "address": "32iwiNx2HtZTgGzyTGCQZZrjxEoHJhSMa4upYrNhpump",
+      "price": 2.623185916e-06,
+      "proceeds": 14.11,
+      "pnl_usd": -35.89,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T11:28:07+00:00",
+      "side": "buy",
+      "symbol": "XTX",
+      "address": "MhS9V89S8sjXsR2Rr4FepejadW9m1airQiJ44DKpump",
+      "price": 0.14006539974008195,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T11:28:07+00:00",
+      "side": "buy",
+      "symbol": "0DAY",
+      "address": "FKwHYovU8paVeLimcN9oESdfvyFEqY8q6B1HuoUpump",
+      "price": 0.0001319970315772226,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T11:28:07+00:00",
+      "side": "buy",
+      "symbol": "DWTA",
+      "address": "65VEMytUn65Y2dzqJ7S5bdWgdKHdbKxnV2Uw67r5pump",
+      "price": 2.3828468587612613e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T16:21:12+00:00",
-      "equity": 3598917.08
-    },
     {
       "date": "2026-10-09T16:42:58+00:00",
       "equity": 3598878.13
@@ -8523,6 +8526,10 @@
     {
       "date": "2026-11-02T10:33:28+00:00",
       "equity": 6530036.54
+    },
+    {
+      "date": "2026-11-02T11:28:07+00:00",
+      "equity": 6529994.87
     }
   ]
 }
