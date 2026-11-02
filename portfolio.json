@@ -1,76 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6529805.756293716,
+  "cash": 6529811.061483212,
   "positions": {
-    "75EkgozJMjCR7XGn2uMmYTmJGwPQVjNVaN82Pcd6pump": {
-      "symbol": "pempfen",
-      "qty": 14478742.617947167,
-      "entry_price": 3.418805161895905e-06,
-      "last_price": 3.2935122346763478e-06,
+    "Hh4z2SLHVQYLcqL2GeyrokgrN9YC48TKL2ymyvgwpump": {
+      "symbol": "Muu-chan",
+      "qty": 3351663.1289183875,
+      "entry_price": 1.4768787344083146e-05,
+      "last_price": 1.4213263102436133e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-02T13:43:48+00:00",
-      "missing": 0
-    },
-    "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump": {
-      "symbol": "CLIPPED",
-      "qty": 1217137.0529780264,
-      "entry_price": 4.0669208022946985e-05,
-      "last_price": 3.9353777596521747e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T13:43:48+00:00",
-      "missing": 0
-    },
-    "FYeW77DBFbgjdkVjpLsPyg71AywuHt2n2cLco7WQpump": {
-      "symbol": "NUCLEARINU",
-      "qty": 4205086.15743,
-      "entry_price": 1.1771459167974018e-05,
-      "last_price": 1.1391592258191988e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T13:43:48+00:00",
+      "entry_time": "2026-11-02T14:42:29+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T18:47:21+00:00",
-      "side": "sell",
-      "symbol": "MIKA",
-      "address": "8n4ZB8bRvQupCpVac1MRZtMMtCavUfHfwPw7evDkpump",
-      "price": 5.054067496e-12,
-      "proceeds": 0.0,
-      "pnl_usd": -50.0,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-28T19:33:17+00:00",
-      "side": "sell",
-      "symbol": "$LUNA",
-      "address": "NifiiukHkLhxi99YeiU4kCo3gTdHdxwTRuWpJAKpump",
-      "price": 9.003347061e-06,
-      "proceeds": 45.54,
-      "pnl_usd": -4.46,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-28T19:33:17+00:00",
-      "side": "sell",
-      "symbol": "SHIBKING",
-      "address": "Dto9fVdBKGjar1hbRtDLQDPiGDU3sXrnLfNawTNvpump",
-      "price": 1.592221715e-06,
-      "proceeds": 43.92,
-      "pnl_usd": -6.08,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-28T19:33:17+00:00",
-      "side": "sell",
-      "symbol": "0.77",
-      "address": "GPaFnWhWiz6CFpzd92qiBopTgg6MHG8wWZkrF57Gpump",
-      "price": 2.582605147e-05,
-      "proceeds": 45.86,
-      "pnl_usd": -4.14,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-28T19:33:17+00:00",
       "side": "sell",
@@ -4532,13 +4474,47 @@
       "address": "FYeW77DBFbgjdkVjpLsPyg71AywuHt2n2cLco7WQpump",
       "price": 1.1771459167974018e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T14:42:29+00:00",
+      "side": "sell",
+      "symbol": "pempfen",
+      "address": "75EkgozJMjCR7XGn2uMmYTmJGwPQVjNVaN82Pcd6pump",
+      "price": 2.640229758e-06,
+      "proceeds": 36.02,
+      "pnl_usd": -13.98,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T14:42:29+00:00",
+      "side": "sell",
+      "symbol": "CLIPPED",
+      "address": "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump",
+      "price": 8.17887159e-06,
+      "proceeds": 9.53,
+      "pnl_usd": -40.47,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T14:42:29+00:00",
+      "side": "sell",
+      "symbol": "NUCLEARINU",
+      "address": "FYeW77DBFbgjdkVjpLsPyg71AywuHt2n2cLco7WQpump",
+      "price": 4.68557066e-06,
+      "proceeds": 9.75,
+      "pnl_usd": -40.25,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T14:42:29+00:00",
+      "side": "buy",
+      "symbol": "Muu-chan",
+      "address": "Hh4z2SLHVQYLcqL2GeyrokgrN9YC48TKL2ymyvgwpump",
+      "price": 1.4768787344083146e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T17:22:44+00:00",
-      "equity": 3598671.27
-    },
     {
       "date": "2026-10-09T17:42:55+00:00",
       "equity": 3598444.79
@@ -8534,6 +8510,10 @@
     {
       "date": "2026-11-02T13:43:48+00:00",
       "equity": 6529949.24
+    },
+    {
+      "date": "2026-11-02T14:42:29+00:00",
+      "equity": 6529858.7
     }
   ]
 }
