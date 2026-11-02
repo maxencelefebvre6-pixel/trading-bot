@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6529329.611757147,
-  "positions": {
-    "Fc1zeVwmAzmSBxDJ5tRsFQLwdwQUsgsCWdBikBRxpump": {
-      "symbol": "fg",
-      "qty": 6352959.383031949,
-      "entry_price": 7.791644337001274e-06,
-      "last_price": 7.502993848e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T19:33:47+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6529375.004920083,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-29T05:25:29+00:00",
-      "side": "sell",
-      "symbol": "KNOT",
-      "address": "DkYABjmdxWSzA8BugkqLVvBnqF5mCBE5bAxaGmHcpump",
-      "price": 2.824730792e-06,
-      "proceeds": 8.55,
-      "pnl_usd": -41.45,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-29T05:25:29+00:00",
       "side": "sell",
@@ -4514,13 +4494,19 @@
       "proceeds": 4.96,
       "pnl_usd": -45.04,
       "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T21:10:33+00:00",
+      "side": "sell",
+      "symbol": "fg",
+      "address": "Fc1zeVwmAzmSBxDJ5tRsFQLwdwQUsgsCWdBikBRxpump",
+      "price": 7.502993848e-06,
+      "proceeds": 45.39,
+      "pnl_usd": -4.61,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T19:47:14+00:00",
-      "equity": 3598105.67
-    },
     {
       "date": "2026-10-09T20:00:45+00:00",
       "equity": 3598039.74
@@ -8516,6 +8502,10 @@
     {
       "date": "2026-11-02T20:23:01+00:00",
       "equity": 6529377.28
+    },
+    {
+      "date": "2026-11-02T21:10:33+00:00",
+      "equity": 6529375.0
     }
   ]
 }
