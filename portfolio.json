@@ -1,134 +1,45 @@
 {
   "mode": "pumpfun",
-  "cash": 6529573.205330083,
+  "cash": 6529510.345661992,
   "positions": {
-    "txv8rZPMuy5r1622eruUEtC7PugfHD232DNCP5apump": {
-      "symbol": "HTO",
-      "qty": 584499.5265458736,
-      "entry_price": 8.468783592096728e-05,
-      "last_price": 8.209665898140255e-05,
+    "7FTfxhJ5v546uG4ypHUwHATT6cyauWsjciRjqzPGpump": {
+      "symbol": "TESLA SI",
+      "qty": 417792.7239168555,
+      "entry_price": 0.00011847980389876521,
+      "last_price": 0.00011481137965447806,
       "cost": 50.0,
-      "entry_time": "2026-11-02T15:39:45+00:00",
+      "entry_time": "2026-11-02T16:43:02+00:00",
       "missing": 0
     },
-    "4RWKWQD4x8sKnchHDPVbMaMouW9PuiuVZKb9g8rGpump": {
-      "symbol": "SPX7900",
-      "qty": 3926793.407120642,
-      "entry_price": 1.2605705181800319e-05,
-      "last_price": 1.213651783288234e-05,
+    "8fwK4rrCqNLrbd6k7U3CAY8PNJKZ36gkbSXoWpupump": {
+      "symbol": "USD",
+      "qty": 5828222.467069075,
+      "entry_price": 8.493155551231523e-06,
+      "last_price": 8.16741543326903e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-02T15:39:45+00:00",
+      "entry_time": "2026-11-02T16:43:02+00:00",
       "missing": 0
     },
-    "5oAXntXHChKqZyTpkpxChtZgYaUyrZS1MxuqWtVhpump": {
-      "symbol": "HTO",
-      "qty": 4961813.867146532,
-      "entry_price": 9.976190426600331e-06,
-      "last_price": 9.658147025957237e-06,
+    "9RtW41CxyhFvk1kmMMaNtPDDzmQPLsYxiLVzYdNwpump": {
+      "symbol": "Artcoin",
+      "qty": 1545068.6036401838,
+      "entry_price": 3.2037412373391014e-05,
+      "last_price": 3.098302564925911e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-02T15:39:45+00:00",
+      "entry_time": "2026-11-02T16:43:02+00:00",
       "missing": 0
     },
-    "EQ1vnQwWkRc9eyfsbS3H3Lt1B1q7GdMR4SFhoXBUpump": {
-      "symbol": "FOMO",
-      "qty": 5299472.331437813,
-      "entry_price": 9.340552587915867e-06,
-      "last_price": 8.985291670724929e-06,
+    "3BdWodRFoo42yeYyYpLfeMKM5mgY366Ygo7o5Lecpump": {
+      "symbol": "THE GOAT",
+      "qty": 4062329.7122256635,
+      "entry_price": 1.218512614843368e-05,
+      "last_price": 1.1768353512928306e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-02T15:39:45+00:00",
-      "missing": 0
-    },
-    "J3AmoQkMW78aV6f8aGW1ErEottrjTUF1mw4XtYyHpump": {
-      "symbol": "BRN",
-      "qty": 1474144.142795509,
-      "entry_price": 3.3578805873169326e-05,
-      "last_price": 3.245860288942557e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T15:39:45+00:00",
+      "entry_time": "2026-11-02T16:43:02+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T23:04:20+00:00",
-      "side": "sell",
-      "symbol": "CHAROC",
-      "address": "CCtY3TDHXCZ6tKkwXjTRrH9u4bGza4i4T3qyQaZ5pump",
-      "price": 0.0001296976504,
-      "proceeds": 39.4,
-      "pnl_usd": -10.6,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-28T23:04:21+00:00",
-      "side": "buy",
-      "symbol": "Cxsnow",
-      "address": "6CamxdgFnz8tqt1qUKzQeaFSn8XPr3ixM7CCPXBApump",
-      "price": 0.11273760373088765,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T23:04:21+00:00",
-      "side": "buy",
-      "symbol": "Keith",
-      "address": "G9KT1a84FvX9BvUqyEtXFx5ikTd3RjfB5VgyXdf4pump",
-      "price": 1.1328576695764965e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T23:04:21+00:00",
-      "side": "buy",
-      "symbol": "LaMisery",
-      "address": "BFvCaYthdnwRS7PZiZv6VYZoTmbJFWeEkYc3SNrRpump",
-      "price": 6.007724982420934e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T23:41:15+00:00",
-      "side": "sell",
-      "symbol": "Cxsnow",
-      "address": "6CamxdgFnz8tqt1qUKzQeaFSn8XPr3ixM7CCPXBApump",
-      "price": 0.1407497629,
-      "proceeds": 30.59,
-      "pnl_usd": -19.41,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-28T23:41:15+00:00",
-      "side": "sell",
-      "symbol": "Keith",
-      "address": "G9KT1a84FvX9BvUqyEtXFx5ikTd3RjfB5VgyXdf4pump",
-      "price": 2.872952518e-06,
-      "proceeds": 11.99,
-      "pnl_usd": -38.01,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-28T23:41:15+00:00",
-      "side": "sell",
-      "symbol": "LaMisery",
-      "address": "BFvCaYthdnwRS7PZiZv6VYZoTmbJFWeEkYc3SNrRpump",
-      "price": 7.250616074e-08,
-      "proceeds": 0.57,
-      "pnl_usd": -49.43,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-28T23:41:15+00:00",
-      "side": "buy",
-      "symbol": "GLOVE",
-      "address": "5V7uCv2XEUwVqFFMTDYXUmUyCQFLW7xAUov5r1N7pump",
-      "price": 5.44087047412793e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T23:41:15+00:00",
-      "side": "buy",
-      "symbol": "ㅤㅤㅤㅤ",
-      "address": "4T9jRi66Sk3htDSkXjzaLwNiKASDNE5enqZLE2XXpump",
-      "price": 6.051039625613417e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-28T23:41:15+00:00",
       "side": "buy",
@@ -4544,13 +4455,91 @@
       "address": "J3AmoQkMW78aV6f8aGW1ErEottrjTUF1mw4XtYyHpump",
       "price": 3.3578805873169326e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "sell",
+      "symbol": "HTO",
+      "address": "txv8rZPMuy5r1622eruUEtC7PugfHD232DNCP5apump",
+      "price": 4.673487848e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "sell",
+      "symbol": "SPX7900",
+      "address": "4RWKWQD4x8sKnchHDPVbMaMouW9PuiuVZKb9g8rGpump",
+      "price": 1.868165287e-06,
+      "proceeds": 6.96,
+      "pnl_usd": -43.04,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "sell",
+      "symbol": "HTO",
+      "address": "5oAXntXHChKqZyTpkpxChtZgYaUyrZS1MxuqWtVhpump",
+      "price": 4.51805688e-05,
+      "proceeds": 110.97,
+      "pnl_usd": 60.97,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "sell",
+      "symbol": "FOMO",
+      "address": "EQ1vnQwWkRc9eyfsbS3H3Lt1B1q7GdMR4SFhoXBUpump",
+      "price": 2.620189363e-06,
+      "proceeds": 13.24,
+      "pnl_usd": -36.76,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "sell",
+      "symbol": "BRN",
+      "address": "J3AmoQkMW78aV6f8aGW1ErEottrjTUF1mw4XtYyHpump",
+      "price": 4.228789051e-06,
+      "proceeds": 5.97,
+      "pnl_usd": -44.03,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "buy",
+      "symbol": "TESLA SI",
+      "address": "7FTfxhJ5v546uG4ypHUwHATT6cyauWsjciRjqzPGpump",
+      "price": 0.00011847980389876521,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "buy",
+      "symbol": "USD",
+      "address": "8fwK4rrCqNLrbd6k7U3CAY8PNJKZ36gkbSXoWpupump",
+      "price": 8.493155551231523e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "buy",
+      "symbol": "Artcoin",
+      "address": "9RtW41CxyhFvk1kmMMaNtPDDzmQPLsYxiLVzYdNwpump",
+      "price": 3.2037412373391014e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "side": "buy",
+      "symbol": "THE GOAT",
+      "address": "3BdWodRFoo42yeYyYpLfeMKM5mgY366Ygo7o5Lecpump",
+      "price": 1.218512614843368e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T17:59:54+00:00",
-      "equity": 3598440.4
-    },
     {
       "date": "2026-10-09T18:25:29+00:00",
       "equity": 3598357.79
@@ -8546,6 +8535,10 @@
     {
       "date": "2026-11-02T15:39:45+00:00",
       "equity": 6529812.24
+    },
+    {
+      "date": "2026-11-02T16:43:02+00:00",
+      "equity": 6529701.59
     }
   ]
 }
