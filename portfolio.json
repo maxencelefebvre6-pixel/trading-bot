@@ -1,21 +1,12 @@
 {
   "mode": "pumpfun",
-  "cash": 6529850.920271944,
+  "cash": 6529810.426581862,
   "positions": {
     "MhS9V89S8sjXsR2Rr4FepejadW9m1airQiJ44DKpump": {
       "symbol": "XTX",
       "qty": 353.40633798109087,
       "entry_price": 0.14006539974008195,
-      "last_price": 0.13597884181936593,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T11:28:07+00:00",
-      "missing": 0
-    },
-    "FKwHYovU8paVeLimcN9oESdfvyFEqY8q6B1HuoUpump": {
-      "symbol": "0DAY",
-      "qty": 375008.43320890045,
-      "entry_price": 0.0001319970315772226,
-      "last_price": 0.00012791456809174974,
+      "last_price": 0.1456308461,
       "cost": 50.0,
       "entry_time": "2026-11-02T11:28:07+00:00",
       "missing": 0
@@ -24,41 +15,31 @@
       "symbol": "DWTA",
       "qty": 2077347.0950513748,
       "entry_price": 2.3828468587612613e-05,
-      "last_price": 2.3071688062802853e-05,
+      "last_price": 2.307168806e-05,
       "cost": 50.0,
       "entry_time": "2026-11-02T11:28:07+00:00",
+      "missing": 0
+    },
+    "DC2uVZt2LwGsHtKZ9WY9rX8jCV2YM8UjnDzdv9f5pump": {
+      "symbol": "Ahsoka",
+      "qty": 4692874.180149548,
+      "entry_price": 1.0547906911585382e-05,
+      "last_price": 1.0142948667402076e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T12:26:22+00:00",
+      "missing": 0
+    },
+    "C92nSrmZMGEPHEj1UaJCf4PMHHQc3rEWNWFifnx2pump": {
+      "symbol": "GOODBOY",
+      "qty": 5067865.607166024,
+      "entry_price": 9.767425546961308e-06,
+      "last_price": 9.42137482564581e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T12:26:22+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T16:19:09+00:00",
-      "side": "buy",
-      "symbol": "e/acc",
-      "address": "Dypgv2WJ2jCEiHsQk5PGcgAyLhEekqZ21RmaxbuPpump",
-      "price": 4.9840972521346735e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T17:13:02+00:00",
-      "side": "sell",
-      "symbol": "nothing",
-      "address": "EYXARF1NhG9ri8LbkD2DfqpP27AaJe1dYW38x9FRpump",
-      "price": 0.0001263074131,
-      "proceeds": 46.11,
-      "pnl_usd": -3.89,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-28T17:13:02+00:00",
-      "side": "sell",
-      "symbol": "e/acc",
-      "address": "Dypgv2WJ2jCEiHsQk5PGcgAyLhEekqZ21RmaxbuPpump",
-      "price": 2.003003605e-06,
-      "proceeds": 1.9,
-      "pnl_usd": -48.1,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-28T17:13:03+00:00",
       "side": "buy",
@@ -4528,13 +4509,35 @@
       "address": "65VEMytUn65Y2dzqJ7S5bdWgdKHdbKxnV2Uw67r5pump",
       "price": 2.3828468587612613e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T12:26:22+00:00",
+      "side": "sell",
+      "symbol": "0DAY",
+      "address": "FKwHYovU8paVeLimcN9oESdfvyFEqY8q6B1HuoUpump",
+      "price": 0.0001658594543,
+      "proceeds": 59.51,
+      "pnl_usd": 9.51,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-11-02T12:26:22+00:00",
+      "side": "buy",
+      "symbol": "Ahsoka",
+      "address": "DC2uVZt2LwGsHtKZ9WY9rX8jCV2YM8UjnDzdv9f5pump",
+      "price": 1.0547906911585382e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T12:26:22+00:00",
+      "side": "buy",
+      "symbol": "GOODBOY",
+      "address": "C92nSrmZMGEPHEj1UaJCf4PMHHQc3rEWNWFifnx2pump",
+      "price": 9.767425546961308e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T16:42:58+00:00",
-      "equity": 3598878.13
-    },
     {
       "date": "2026-10-09T17:01:51+00:00",
       "equity": 3598766.75
@@ -8530,6 +8533,10 @@
     {
       "date": "2026-11-02T11:28:07+00:00",
       "equity": 6529994.87
+    },
+    {
+      "date": "2026-11-02T12:26:22+00:00",
+      "equity": 6530005.17
     }
   ]
 }
