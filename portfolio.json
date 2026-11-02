@@ -1,36 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6530461.11853356,
-  "positions": {},
+  "cash": 6530311.11853356,
+  "positions": {
+    "7yhyJaE5AcNyUGVcfmATy5AxcgFfq1Jtvw71BjGcpump": {
+      "symbol": "megatron",
+      "qty": 5527487.001744983,
+      "entry_price": 8.955244939404335e-06,
+      "last_price": 8.620113734206847e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T01:03:49+00:00",
+      "missing": 0
+    },
+    "A1jH8c51jzjc6YPPAMwLb3CWPzF4bcgTBUGqURxDpump": {
+      "symbol": "CRDCLCH",
+      "qty": 437.3917998578529,
+      "entry_price": 0.11317084594655617,
+      "last_price": 0.10982298035099701,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T01:03:49+00:00",
+      "missing": 0
+    },
+    "6HdACkfQxNtzmbCc8pYiCDZC9YWMhCn2JFXVE3Aspump": {
+      "symbol": "$BWIZ",
+      "qty": 6687769.372143201,
+      "entry_price": 7.401571023992556e-06,
+      "last_price": 7.123912622165285e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T01:03:49+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-28T06:47:10+00:00",
-      "side": "sell",
-      "symbol": "clawds",
-      "address": "6khUk44eTrFdMfZ5CVzkruFSjVuCMh7B5WjpcWQdpump",
-      "price": 2.88095406e-06,
-      "proceeds": 11.86,
-      "pnl_usd": -38.14,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-28T06:47:10+00:00",
-      "side": "sell",
-      "symbol": "CARA",
-      "address": "F1rzUcPPtLQ9WSwRDdvVbso13W6o5V2XCwKDqFL1pump",
-      "price": 3.688544582e-08,
-      "proceeds": 0.69,
-      "pnl_usd": -49.31,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-28T06:47:11+00:00",
-      "side": "buy",
-      "symbol": "STENKS",
-      "address": "Hg3u4Gxf16dkNKw7o8zpuZVBF83rPzLwUBLYhkchpump",
-      "price": 6.251504255372735e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-28T06:47:11+00:00",
       "side": "buy",
@@ -4504,13 +4504,33 @@
       "proceeds": 0.69,
       "pnl_usd": -49.31,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T01:03:49+00:00",
+      "side": "buy",
+      "symbol": "megatron",
+      "address": "7yhyJaE5AcNyUGVcfmATy5AxcgFfq1Jtvw71BjGcpump",
+      "price": 8.955244939404335e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T01:03:49+00:00",
+      "side": "buy",
+      "symbol": "CRDCLCH",
+      "address": "A1jH8c51jzjc6YPPAMwLb3CWPzF4bcgTBUGqURxDpump",
+      "price": 0.11317084594655617,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T01:03:49+00:00",
+      "side": "buy",
+      "symbol": "$BWIZ",
+      "address": "6HdACkfQxNtzmbCc8pYiCDZC9YWMhCn2JFXVE3Aspump",
+      "price": 7.401571023992556e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T11:48:22+00:00",
-      "equity": 3598996.97
-    },
     {
       "date": "2026-10-09T12:03:09+00:00",
       "equity": 3598994.96
@@ -8506,6 +8526,10 @@
     {
       "date": "2026-11-01T23:27:37+00:00",
       "equity": 6530461.12
+    },
+    {
+      "date": "2026-11-02T01:03:49+00:00",
+      "equity": 6530454.44
     }
   ]
 }
