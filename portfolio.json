@@ -1,103 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6529810.426581862,
+  "cash": 6529805.756293716,
   "positions": {
-    "MhS9V89S8sjXsR2Rr4FepejadW9m1airQiJ44DKpump": {
-      "symbol": "XTX",
-      "qty": 353.40633798109087,
-      "entry_price": 0.14006539974008195,
-      "last_price": 0.1456308461,
+    "75EkgozJMjCR7XGn2uMmYTmJGwPQVjNVaN82Pcd6pump": {
+      "symbol": "pempfen",
+      "qty": 14478742.617947167,
+      "entry_price": 3.418805161895905e-06,
+      "last_price": 3.2935122346763478e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-02T11:28:07+00:00",
+      "entry_time": "2026-11-02T13:43:48+00:00",
       "missing": 0
     },
-    "65VEMytUn65Y2dzqJ7S5bdWgdKHdbKxnV2Uw67r5pump": {
-      "symbol": "DWTA",
-      "qty": 2077347.0950513748,
-      "entry_price": 2.3828468587612613e-05,
-      "last_price": 2.307168806e-05,
+    "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump": {
+      "symbol": "CLIPPED",
+      "qty": 1217137.0529780264,
+      "entry_price": 4.0669208022946985e-05,
+      "last_price": 3.9353777596521747e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-02T11:28:07+00:00",
+      "entry_time": "2026-11-02T13:43:48+00:00",
       "missing": 0
     },
-    "DC2uVZt2LwGsHtKZ9WY9rX8jCV2YM8UjnDzdv9f5pump": {
-      "symbol": "Ahsoka",
-      "qty": 4692874.180149548,
-      "entry_price": 1.0547906911585382e-05,
-      "last_price": 1.0142948667402076e-05,
+    "FYeW77DBFbgjdkVjpLsPyg71AywuHt2n2cLco7WQpump": {
+      "symbol": "NUCLEARINU",
+      "qty": 4205086.15743,
+      "entry_price": 1.1771459167974018e-05,
+      "last_price": 1.1391592258191988e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-02T12:26:22+00:00",
-      "missing": 0
-    },
-    "C92nSrmZMGEPHEj1UaJCf4PMHHQc3rEWNWFifnx2pump": {
-      "symbol": "GOODBOY",
-      "qty": 5067865.607166024,
-      "entry_price": 9.767425546961308e-06,
-      "last_price": 9.42137482564581e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T12:26:22+00:00",
+      "entry_time": "2026-11-02T13:43:48+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T17:13:03+00:00",
-      "side": "buy",
-      "symbol": "PKLN",
-      "address": "7ggjpYJDFSPciA5hhzP4SB4nJREhyRFH5ZyfUGchpump",
-      "price": 1.2556622314178982e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T17:59:48+00:00",
-      "side": "sell",
-      "symbol": "PKLN",
-      "address": "7ggjpYJDFSPciA5hhzP4SB4nJREhyRFH5ZyfUGchpump",
-      "price": 2.865478368e-06,
-      "proceeds": 10.79,
-      "pnl_usd": -39.21,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-28T17:59:48+00:00",
-      "side": "buy",
-      "symbol": "MIKA",
-      "address": "8n4ZB8bRvQupCpVac1MRZtMMtCavUfHfwPw7evDkpump",
-      "price": 9.091278061951266e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T17:59:48+00:00",
-      "side": "buy",
-      "symbol": "$LUNA",
-      "address": "NifiiukHkLhxi99YeiU4kCo3gTdHdxwTRuWpJAKpump",
-      "price": 9.3259529231194e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T17:59:48+00:00",
-      "side": "buy",
-      "symbol": "SHIBKING",
-      "address": "Dto9fVdBKGjar1hbRtDLQDPiGDU3sXrnLfNawTNvpump",
-      "price": 1.654290298695854e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T17:59:48+00:00",
-      "side": "buy",
-      "symbol": "0.77",
-      "address": "GPaFnWhWiz6CFpzd92qiBopTgg6MHG8wWZkrF57Gpump",
-      "price": 2.6683328342246663e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T17:59:48+00:00",
-      "side": "buy",
-      "symbol": "$LUNA",
-      "address": "9nTnLvrdTiLnsE9SpYGNqgRr9nw5yQ84xjHcjuLfpump",
-      "price": 8.713281650298029e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-28T18:47:21+00:00",
       "side": "sell",
@@ -4535,13 +4468,73 @@
       "address": "C92nSrmZMGEPHEj1UaJCf4PMHHQc3rEWNWFifnx2pump",
       "price": 9.767425546961308e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T13:43:48+00:00",
+      "side": "sell",
+      "symbol": "XTX",
+      "address": "MhS9V89S8sjXsR2Rr4FepejadW9m1airQiJ44DKpump",
+      "price": 0.1587490729,
+      "proceeds": 53.87,
+      "pnl_usd": 3.87,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-11-02T13:43:48+00:00",
+      "side": "sell",
+      "symbol": "DWTA",
+      "address": "65VEMytUn65Y2dzqJ7S5bdWgdKHdbKxnV2Uw67r5pump",
+      "price": 2.307168806e-05,
+      "proceeds": 45.9,
+      "pnl_usd": -4.1,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-02T13:43:48+00:00",
+      "side": "sell",
+      "symbol": "Ahsoka",
+      "address": "DC2uVZt2LwGsHtKZ9WY9rX8jCV2YM8UjnDzdv9f5pump",
+      "price": 3.441568365e-09,
+      "proceeds": 0.02,
+      "pnl_usd": -49.98,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T13:43:48+00:00",
+      "side": "sell",
+      "symbol": "GOODBOY",
+      "address": "C92nSrmZMGEPHEj1UaJCf4PMHHQc3rEWNWFifnx2pump",
+      "price": 9.421374826e-06,
+      "proceeds": 45.55,
+      "pnl_usd": -4.45,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-02T13:43:48+00:00",
+      "side": "buy",
+      "symbol": "pempfen",
+      "address": "75EkgozJMjCR7XGn2uMmYTmJGwPQVjNVaN82Pcd6pump",
+      "price": 3.418805161895905e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T13:43:48+00:00",
+      "side": "buy",
+      "symbol": "CLIPPED",
+      "address": "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump",
+      "price": 4.0669208022946985e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T13:43:48+00:00",
+      "side": "buy",
+      "symbol": "NUCLEARINU",
+      "address": "FYeW77DBFbgjdkVjpLsPyg71AywuHt2n2cLco7WQpump",
+      "price": 1.1771459167974018e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T17:01:51+00:00",
-      "equity": 3598766.75
-    },
     {
       "date": "2026-10-09T17:22:44+00:00",
       "equity": 3598671.27
@@ -8537,6 +8530,10 @@
     {
       "date": "2026-11-02T12:26:22+00:00",
       "equity": 6530005.17
+    },
+    {
+      "date": "2026-11-02T13:43:48+00:00",
+      "equity": 6529949.24
     }
   ]
 }
