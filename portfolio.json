@@ -1,53 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6530243.568555552,
+  "cash": 6530143.681292782,
   "positions": {
     "FWP2npAn1bg3wbhRZGPBuN8mkigZhHGyxnaE8jTxpump": {
       "symbol": "CHIMP",
       "qty": 2940248.321984113,
       "entry_price": 1.6835312728483026e-05,
-      "last_price": 1.6283151675586323e-05,
+      "last_price": 1.628315168e-05,
       "cost": 50.0,
       "entry_time": "2026-11-02T04:52:00+00:00",
       "missing": 0
     },
-    "2WBKypmCU24yPM4zbKUqVcP3H7RJgj6u4rBK6fL4pump": {
-      "symbol": "RICK",
-      "qty": 11473837.822496586,
-      "entry_price": 4.314162424620128e-06,
-      "last_price": 4.170309157603635e-06,
+    "4up4SS5hVaZw65N4EKSrYmhiWeduk9aXWDMceGN4pump": {
+      "symbol": "ELON",
+      "qty": 400798.4181173395,
+      "entry_price": 0.00012350348145712532,
+      "last_price": 0.00011968971632481586,
       "cost": 50.0,
-      "entry_time": "2026-11-02T04:52:00+00:00",
+      "entry_time": "2026-11-02T05:50:43+00:00",
+      "missing": 0
+    },
+    "9Wwmag8HsEHW7YozZoMqhNUbs5f5me5UuZM2qgbtpump": {
+      "symbol": "e",
+      "qty": 6943330.922565193,
+      "entry_price": 7.1291431377884515e-06,
+      "last_price": 6.859486262431305e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T05:50:43+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T08:31:55+00:00",
-      "side": "buy",
-      "symbol": "BetOnBlak",
-      "address": "CuWC2WD3TdDrjfWRQ8fXyWvdw9GCAo4M5J6YLQyYpump",
-      "price": 1.1085786877360511e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T08:31:55+00:00",
-      "side": "buy",
-      "symbol": "NUHUH",
-      "address": "BxhDt9WeyRi6DvcJef3a2RgRd2JhuLpNgS3t7y6Zpump",
-      "price": 1.4113964707012505e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T09:24:00+00:00",
-      "side": "sell",
-      "symbol": "JUMP",
-      "address": "CieauCuTQDUKyKz1CSZtUHgfexh1fHuwdHf5ML1Jpump",
-      "price": 6.777089346e-06,
-      "proceeds": 45.3,
-      "pnl_usd": -4.7,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-28T09:24:00+00:00",
       "side": "sell",
@@ -4521,13 +4504,35 @@
       "address": "2WBKypmCU24yPM4zbKUqVcP3H7RJgj6u4rBK6fL4pump",
       "price": 4.314162424620128e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T05:50:43+00:00",
+      "side": "sell",
+      "symbol": "RICK",
+      "address": "2WBKypmCU24yPM4zbKUqVcP3H7RJgj6u4rBK6fL4pump",
+      "price": 1.053536654e-08,
+      "proceeds": 0.11,
+      "pnl_usd": -49.89,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T05:50:43+00:00",
+      "side": "buy",
+      "symbol": "ELON",
+      "address": "4up4SS5hVaZw65N4EKSrYmhiWeduk9aXWDMceGN4pump",
+      "price": 0.00012350348145712532,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T05:50:43+00:00",
+      "side": "buy",
+      "symbol": "e",
+      "address": "9Wwmag8HsEHW7YozZoMqhNUbs5f5me5UuZM2qgbtpump",
+      "price": 7.1291431377884515e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T13:45:09+00:00",
-      "equity": 3598938.86
-    },
     {
       "date": "2026-10-09T14:54:25+00:00",
       "equity": 3598938.86
@@ -8523,6 +8528,10 @@
     {
       "date": "2026-11-02T04:52:00+00:00",
       "equity": 6530339.29
+    },
+    {
+      "date": "2026-11-02T05:50:43+00:00",
+      "equity": 6530287.16
     }
   ]
 }
