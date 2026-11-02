@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6529937.405553875,
+  "cash": 6529994.031192897,
   "positions": {
-    "65mq6pUtfu2ixhYHC1bKJGmwMg2XgJbBhafvBgjhpump": {
-      "symbol": "dov",
-      "qty": 4716552.417018944,
-      "entry_price": 1.0494953861084416e-05,
-      "last_price": 1.0099255418983558e-05,
+    "AmWhVXWtiuDsL6SLXBZ7CTvKwEHdMMHfFQqkXVsupump": {
+      "symbol": "pump",
+      "qty": 4894680.902074535,
+      "entry_price": 1.0113018803538385e-05,
+      "last_price": 9.740754270007152e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-02T08:24:59+00:00",
-      "missing": 0
-    },
-    "EhmLL5PCyWAfLriFWCGJhP8YiqcMTC7inGrbMPLJpump": {
-      "symbol": "LAGR",
-      "qty": 3268430.6765961396,
-      "entry_price": 1.5144882941666386e-05,
-      "last_price": 1.4641187705602734e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T08:24:59+00:00",
-      "missing": 0
-    },
-    "5kNeFa2qTAqKr3qRqRfvTk6aHrJrPWNDwKH4L7G3pump": {
-      "symbol": "GOOPER",
-      "qty": 4462071.9297607895,
-      "entry_price": 1.109350113113342e-05,
-      "last_price": 1.0693295224797616e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T08:24:59+00:00",
+      "entry_time": "2026-11-02T09:34:27+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T13:30:57+00:00",
-      "side": "sell",
-      "symbol": "PEPEPESO",
-      "address": "8tyqikNAMaPzHxiEu1WbhiJ4za8BR7XBuUgAK3D2pump",
-      "price": 1.558016433e-05,
-      "proceeds": 45.65,
-      "pnl_usd": -4.35,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-28T13:30:57+00:00",
-      "side": "buy",
-      "symbol": "Max",
-      "address": "3f6LZt1MYEC8rjqDSYiJXA3SEM8NPvBsmH494ZxPpump",
-      "price": 8.719587755982687e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-28T14:27:14+00:00",
-      "side": "sell",
-      "symbol": "Max",
-      "address": "3f6LZt1MYEC8rjqDSYiJXA3SEM8NPvBsmH494ZxPpump",
-      "price": 7.418757267e-06,
-      "proceeds": 39.79,
-      "pnl_usd": -10.21,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-28T14:27:14+00:00",
-      "side": "buy",
-      "symbol": "Potpot",
-      "address": "D9NXzZxiJxgp2U69EDWJ1tJDMtGcEiWh2xGGY58Gpump",
-      "price": 5.638313614543042e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-28T14:27:14+00:00",
       "side": "buy",
@@ -4528,13 +4474,47 @@
       "address": "5kNeFa2qTAqKr3qRqRfvTk6aHrJrPWNDwKH4L7G3pump",
       "price": 1.109350113113342e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T09:34:27+00:00",
+      "side": "sell",
+      "symbol": "dov",
+      "address": "65mq6pUtfu2ixhYHC1bKJGmwMg2XgJbBhafvBgjhpump",
+      "price": 3.588895972e-06,
+      "proceeds": 16.13,
+      "pnl_usd": -33.87,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-02T09:34:27+00:00",
+      "side": "sell",
+      "symbol": "LAGR",
+      "address": "EhmLL5PCyWAfLriFWCGJhP8YiqcMTC7inGrbMPLJpump",
+      "price": 1.464118771e-05,
+      "proceeds": 45.75,
+      "pnl_usd": -4.25,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-02T09:34:27+00:00",
+      "side": "sell",
+      "symbol": "GOOPER",
+      "address": "5kNeFa2qTAqKr3qRqRfvTk6aHrJrPWNDwKH4L7G3pump",
+      "price": 1.050474278e-05,
+      "proceeds": 44.74,
+      "pnl_usd": -5.26,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-02T09:34:27+00:00",
+      "side": "buy",
+      "symbol": "pump",
+      "address": "AmWhVXWtiuDsL6SLXBZ7CTvKwEHdMMHfFQqkXVsupump",
+      "price": 1.0113018803538385e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T15:37:22+00:00",
-      "equity": 3598893.99
-    },
     {
       "date": "2026-10-09T15:58:19+00:00",
       "equity": 3598944.85
@@ -8530,6 +8510,10 @@
     {
       "date": "2026-11-02T08:24:59+00:00",
       "equity": 6530080.61
+    },
+    {
+      "date": "2026-11-02T09:34:27+00:00",
+      "equity": 6530041.71
     }
   ]
 }
