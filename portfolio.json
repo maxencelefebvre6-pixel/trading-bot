@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6530328.503382377,
-  "positions": {
-    "CCq2wyPifiDYaABfyrV8f6se4znvVqVu2TX6dByrpump": {
-      "symbol": "MEMECOINS",
-      "qty": 3577535.879235579,
-      "entry_price": 1.3836339220887643e-05,
-      "last_price": 1.3312533987679118e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T02:07:35+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6530343.568555552,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-28T08:31:54+00:00",
-      "side": "sell",
-      "symbol": "BOLTKIT",
-      "address": "5paHbNJZuPUwsPaWrVVMZJq2cfiMhkirjEGinRTppump",
-      "price": 1.220455299e-05,
-      "proceeds": 45.69,
-      "pnl_usd": -4.31,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-28T08:31:54+00:00",
       "side": "sell",
@@ -4514,13 +4494,19 @@
       "address": "CCq2wyPifiDYaABfyrV8f6se4znvVqVu2TX6dByrpump",
       "price": 1.3836339220887643e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T02:58:02+00:00",
+      "side": "sell",
+      "symbol": "MEMECOINS",
+      "address": "CCq2wyPifiDYaABfyrV8f6se4znvVqVu2TX6dByrpump",
+      "price": 4.413061528e-06,
+      "proceeds": 15.07,
+      "pnl_usd": -34.93,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T12:30:02+00:00",
-      "equity": 3598971.58
-    },
     {
       "date": "2026-10-09T12:56:32+00:00",
       "equity": 3598928.71
@@ -8516,6 +8502,10 @@
     {
       "date": "2026-11-02T02:07:35+00:00",
       "equity": 6530376.13
+    },
+    {
+      "date": "2026-11-02T02:58:03+00:00",
+      "equity": 6530343.57
     }
   ]
 }
