@@ -1,26 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6529994.031192897,
+  "cash": 6529944.031192897,
   "positions": {
     "AmWhVXWtiuDsL6SLXBZ7CTvKwEHdMMHfFQqkXVsupump": {
       "symbol": "pump",
       "qty": 4894680.902074535,
       "entry_price": 1.0113018803538385e-05,
-      "last_price": 9.740754270007152e-06,
+      "last_price": 9.167356251e-06,
       "cost": 50.0,
       "entry_time": "2026-11-02T09:34:27+00:00",
+      "missing": 0
+    },
+    "32iwiNx2HtZTgGzyTGCQZZrjxEoHJhSMa4upYrNhpump": {
+      "symbol": "Piepad",
+      "qty": 5642368.999131224,
+      "entry_price": 8.772910812394881e-06,
+      "last_price": 8.441994315772477e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-02T10:33:28+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-28T14:27:14+00:00",
-      "side": "buy",
-      "symbol": "42069M",
-      "address": "8AJLFPFbKBzEHvbLiagozhmLbNDJzpwDWm5nvLxFpump",
-      "price": 1.7962310103469482e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-28T15:22:56+00:00",
       "side": "sell",
@@ -4512,13 +4513,17 @@
       "address": "AmWhVXWtiuDsL6SLXBZ7CTvKwEHdMMHfFQqkXVsupump",
       "price": 1.0113018803538385e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T10:33:28+00:00",
+      "side": "buy",
+      "symbol": "Piepad",
+      "address": "32iwiNx2HtZTgGzyTGCQZZrjxEoHJhSMa4upYrNhpump",
+      "price": 8.772910812394881e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T15:58:19+00:00",
-      "equity": 3598944.85
-    },
     {
       "date": "2026-10-09T16:21:12+00:00",
       "equity": 3598917.08
@@ -8514,6 +8519,10 @@
     {
       "date": "2026-11-02T09:34:27+00:00",
       "equity": 6530041.71
+    },
+    {
+      "date": "2026-11-02T10:33:28+00:00",
+      "equity": 6530036.54
     }
   ]
 }
