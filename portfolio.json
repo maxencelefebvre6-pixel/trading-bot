@@ -1,69 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6529293.361226525,
+  "cash": 6529329.611757147,
   "positions": {
-    "97kUc4H7X2pHGyUPrcXouhUY4gHiawenpEWhosKupump": {
-      "symbol": "KOBE",
-      "qty": 206872.45036064248,
-      "entry_price": 0.00023927787346118942,
-      "last_price": 0.0002319262928803725,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T19:33:47+00:00",
-      "missing": 0
-    },
-    "4KGQnSW5RGxszcqztMe8MxGMWLVFUNtssfpbRYKQpump": {
-      "symbol": "RAILWRK",
-      "qty": 379.77570382680824,
-      "entry_price": 0.13034009153617113,
-      "last_price": 0.1264905050375152,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T19:33:47+00:00",
-      "missing": 0
-    },
-    "4HYRFBxbPKj4jUGRBbARna8UKv51TwhjwKMgZE6opump": {
-      "symbol": "RI",
-      "qty": 2030970.529107109,
-      "entry_price": 2.437258408755053e-05,
-      "last_price": 2.3507641822383517e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T19:33:47+00:00",
-      "missing": 0
-    },
     "Fc1zeVwmAzmSBxDJ5tRsFQLwdwQUsgsCWdBikBRxpump": {
       "symbol": "fg",
       "qty": 6352959.383031949,
       "entry_price": 7.791644337001274e-06,
-      "last_price": 7.502993848464222e-06,
+      "last_price": 7.502993848e-06,
       "cost": 50.0,
       "entry_time": "2026-11-02T19:33:47+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T04:39:49+00:00",
-      "side": "buy",
-      "symbol": "KNOT",
-      "address": "DkYABjmdxWSzA8BugkqLVvBnqF5mCBE5bAxaGmHcpump",
-      "price": 1.5634837081838202e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T04:39:49+00:00",
-      "side": "buy",
-      "symbol": "GIMODELO",
-      "address": "BQzjsnGStaYJbYQL2U2Y6QQNgYnTqhByW23N8u3Gpump",
-      "price": 4.3829979936465404e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T04:39:49+00:00",
-      "side": "buy",
-      "symbol": "DOOB",
-      "address": "vphPCKYm9E8Fto6XFhnW3zbeAcD1TY1H15NxSjDpump",
-      "price": 2.1013636176300587e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-29T05:25:29+00:00",
       "side": "sell",
@@ -4535,13 +4484,39 @@
       "address": "Fc1zeVwmAzmSBxDJ5tRsFQLwdwQUsgsCWdBikBRxpump",
       "price": 7.791644337001274e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-02T20:23:01+00:00",
+      "side": "sell",
+      "symbol": "KOBE",
+      "address": "97kUc4H7X2pHGyUPrcXouhUY4gHiawenpEWhosKupump",
+      "price": 1.665436438e-06,
+      "proceeds": 0.33,
+      "pnl_usd": -49.67,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T20:23:01+00:00",
+      "side": "sell",
+      "symbol": "RAILWRK",
+      "address": "4KGQnSW5RGxszcqztMe8MxGMWLVFUNtssfpbRYKQpump",
+      "price": 0.1647001628,
+      "proceeds": 30.96,
+      "pnl_usd": -19.04,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-02T20:23:01+00:00",
+      "side": "sell",
+      "symbol": "RI",
+      "address": "4HYRFBxbPKj4jUGRBbARna8UKv51TwhjwKMgZE6opump",
+      "price": 2.549058068e-06,
+      "proceeds": 4.96,
+      "pnl_usd": -45.04,
+      "reason": "stop-loss"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T19:27:48+00:00",
-      "equity": 3598190.4
-    },
     {
       "date": "2026-10-09T19:47:14+00:00",
       "equity": 3598105.67
@@ -8537,6 +8512,10 @@
     {
       "date": "2026-11-02T19:33:47+00:00",
       "equity": 6529484.79
+    },
+    {
+      "date": "2026-11-02T20:23:01+00:00",
+      "equity": 6529377.28
     }
   ]
 }
