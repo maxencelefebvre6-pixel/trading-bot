@@ -1,53 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6529246.964720368,
+  "cash": 6529314.452657858,
   "positions": {
-    "4cy2zjLVJzReYqD1tdBsejfyNYAe8TfNQgKw5D1fpump": {
-      "symbol": "dmd",
-      "qty": 6066635.040805619,
-      "entry_price": 8.159383194646013e-06,
-      "last_price": 7.860462494e-06,
+    "E1HLdwiCCLq6EgQw4DWgMxZUGcAvKwAUXBBqGbH8pump": {
+      "symbol": "$GOAT",
+      "qty": 6844361.798269591,
+      "entry_price": 7.232230185802673e-06,
+      "last_price": 6.970553954927638e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-02T23:18:36+00:00",
-      "missing": 0
-    },
-    "8fpZM9y8UxmFQnXScNbzYKBpkeRJ4AzA6aDCdoRpump": {
-      "symbol": "Ansum",
-      "qty": 1458139.7105860326,
-      "entry_price": 3.394736433047677e-05,
-      "last_price": 3.28404518190688e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-02T23:54:26+00:00",
+      "entry_time": "2026-11-03T00:47:58+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T08:18:31+00:00",
-      "side": "sell",
-      "symbol": "DWTA",
-      "address": "DqbNVNbchYKPczbtR4voMvUT7EP4eq2CaZ39XYcTpump",
-      "price": 4.660784123e-05,
-      "proceeds": 28.49,
-      "pnl_usd": -21.51,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T08:18:31+00:00",
-      "side": "buy",
-      "symbol": "jetset",
-      "address": "FL4vjeUX8knvLRQe5HxJoZjqbgNMu35iCDdWzXFhpump",
-      "price": 8.237298523454594e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T08:18:31+00:00",
-      "side": "buy",
-      "symbol": "DWTA",
-      "address": "5WU6iYL3gDPd2zRzayxDE2XwaBH8rrc2WZQyyaGupump",
-      "price": 1.7587521740918064e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-29T09:13:56+00:00",
       "side": "sell",
@@ -4521,13 +4486,37 @@
       "address": "8fpZM9y8UxmFQnXScNbzYKBpkeRJ4AzA6aDCdoRpump",
       "price": 3.394736433047677e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-03T00:47:57+00:00",
+      "side": "sell",
+      "symbol": "dmd",
+      "address": "4cy2zjLVJzReYqD1tdBsejfyNYAe8TfNQgKw5D1fpump",
+      "price": 7.860462494e-06,
+      "proceeds": 45.43,
+      "pnl_usd": -4.57,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-03T00:47:57+00:00",
+      "side": "sell",
+      "symbol": "Ansum",
+      "address": "8fpZM9y8UxmFQnXScNbzYKBpkeRJ4AzA6aDCdoRpump",
+      "price": 5.183039395e-05,
+      "proceeds": 72.06,
+      "pnl_usd": 22.06,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-11-03T00:47:58+00:00",
+      "side": "buy",
+      "symbol": "$GOAT",
+      "address": "E1HLdwiCCLq6EgQw4DWgMxZUGcAvKwAUXBBqGbH8pump",
+      "price": 7.232230185802673e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T21:00:51+00:00",
-      "equity": 3597855.44
-    },
     {
       "date": "2026-10-09T21:22:50+00:00",
       "equity": 3597849.04
@@ -8523,6 +8512,10 @@
     {
       "date": "2026-11-02T23:54:26+00:00",
       "equity": 6529342.54
+    },
+    {
+      "date": "2026-11-03T00:47:58+00:00",
+      "equity": 6529362.16
     }
   ]
 }
