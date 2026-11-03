@@ -1,38 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6529314.452657858,
+  "cash": 6529214.452657858,
   "positions": {
     "E1HLdwiCCLq6EgQw4DWgMxZUGcAvKwAUXBBqGbH8pump": {
       "symbol": "$GOAT",
       "qty": 6844361.798269591,
       "entry_price": 7.232230185802673e-06,
-      "last_price": 6.970553954927638e-06,
+      "last_price": 6.970553955e-06,
       "cost": 50.0,
       "entry_time": "2026-11-03T00:47:58+00:00",
+      "missing": 0
+    },
+    "ByoFCExhUHcroicrx5B8WAcCXgGU2Gsy6YgUaSE6pump": {
+      "symbol": "Rockstar",
+      "qty": 353399.6174716346,
+      "entry_price": 0.0001400680633276947,
+      "last_price": 0.0001357458574622888,
+      "cost": 50.0,
+      "entry_time": "2026-11-03T01:47:19+00:00",
+      "missing": 0
+    },
+    "CSJY8mu1PnPHcYH6r3L7QHg87dnSwRNJ86eR2Jyupump": {
+      "symbol": "DOPPLER",
+      "qty": 599995.2078084112,
+      "entry_price": 8.250065893160634e-05,
+      "last_price": 7.997363565490923e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-03T01:47:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T09:13:56+00:00",
-      "side": "sell",
-      "symbol": "PENGUTON",
-      "address": "6CdARV9aCPteSbvTdZsK3vxJUfgvHMV4ufs3iJkjpump",
-      "price": 3.95277951e-05,
-      "proceeds": 45.97,
-      "pnl_usd": -4.03,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-29T09:13:56+00:00",
-      "side": "sell",
-      "symbol": "DWTA",
-      "address": "5WU6iYL3gDPd2zRzayxDE2XwaBH8rrc2WZQyyaGupump",
-      "price": 7.06672281e-08,
-      "proceeds": 0.19,
-      "pnl_usd": -49.81,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-29T10:08:55+00:00",
       "side": "sell",
@@ -4514,13 +4512,25 @@
       "address": "E1HLdwiCCLq6EgQw4DWgMxZUGcAvKwAUXBBqGbH8pump",
       "price": 7.232230185802673e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-03T01:47:19+00:00",
+      "side": "buy",
+      "symbol": "Rockstar",
+      "address": "ByoFCExhUHcroicrx5B8WAcCXgGU2Gsy6YgUaSE6pump",
+      "price": 0.0001400680633276947,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-03T01:47:19+00:00",
+      "side": "buy",
+      "symbol": "DOPPLER",
+      "address": "CSJY8mu1PnPHcYH6r3L7QHg87dnSwRNJ86eR2Jyupump",
+      "price": 8.250065893160634e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T21:22:50+00:00",
-      "equity": 3597849.04
-    },
     {
       "date": "2026-10-09T21:43:25+00:00",
       "equity": 3597803.26
@@ -8516,6 +8526,10 @@
     {
       "date": "2026-11-03T00:47:58+00:00",
       "equity": 6529362.16
+    },
+    {
+      "date": "2026-11-03T01:47:19+00:00",
+      "equity": 6529358.12
     }
   ]
 }
