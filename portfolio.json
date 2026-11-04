@@ -1,106 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6528889.2194002215,
+  "cash": 6528887.717390645,
   "positions": {
-    "HwT1GLTsngUcvHWtqVyT2iQz4XomdhhUpMcvVXWtpump": {
-      "symbol": "Mag",
-      "qty": 591109.0403026883,
-      "entry_price": 8.374089486882591e-05,
-      "last_price": 8.11779351581233e-05,
+    "FEMab3YMKrJmqVc5vc549eQ5P6sGFu5htezuXqgepump": {
+      "symbol": "BTC",
+      "qty": 4489660.613517197,
+      "entry_price": 1.1025332260297897e-05,
+      "last_price": 1.063671534056761e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-03T22:01:42+00:00",
-      "missing": 0
-    },
-    "FeEGprZBu8Qmj6AGxyK1eMerhafwMQmcgWpGaoypump": {
-      "symbol": "BARRON",
-      "qty": 416248.0534599671,
-      "entry_price": 0.00011891947503067589,
-      "last_price": 0.0001152415404812098,
-      "cost": 50.0,
-      "entry_time": "2026-11-03T22:01:42+00:00",
-      "missing": 0
-    },
-    "EmE1K4UrnQ35BvPHtjTB9c1sJFqmh178U5bgcftZpump": {
-      "symbol": "AMD",
-      "qty": 898250.2941442316,
-      "entry_price": 5.5107134751521505e-05,
-      "last_price": 5.334773966736208e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-03T22:01:42+00:00",
-      "missing": 0
-    },
-    "GLNDjV8BtUisNDaPFs5mJUh4fXYwoAGry4e4L1Gpump": {
-      "symbol": "NVIDIA",
-      "qty": 404820.7626100348,
-      "entry_price": 0.0001222763370160525,
-      "last_price": 0.00011849663555727686,
-      "cost": 50.0,
-      "entry_time": "2026-11-03T22:01:42+00:00",
-      "missing": 0
-    },
-    "8xjiJ15BDtLYz7YzcUCnkbK7XYS9mzKgGWS53A5apump": {
-      "symbol": "nipple",
-      "qty": 4994783.653103704,
-      "entry_price": 9.910339153376793e-06,
-      "last_price": 9.560306789138728e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-03T22:01:42+00:00",
+      "entry_time": "2026-11-04T02:13:19+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T13:33:04+00:00",
-      "side": "buy",
-      "symbol": "CHLOE",
-      "address": "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump",
-      "price": 4.55114098505117e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T13:33:04+00:00",
-      "side": "buy",
-      "symbol": "trench",
-      "address": "BfDiFmAgBJGyPvmA6EChm7gbKoeTVvCe4TUdgHaSpump",
-      "price": 1.1551803355386505e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T14:28:44+00:00",
-      "side": "sell",
-      "symbol": "CHLOE",
-      "address": "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump",
-      "price": 2.00519339e-06,
-      "proceeds": 2.09,
-      "pnl_usd": -47.91,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-29T14:28:44+00:00",
-      "side": "sell",
-      "symbol": "trench",
-      "address": "BfDiFmAgBJGyPvmA6EChm7gbKoeTVvCe4TUdgHaSpump",
-      "price": 9.005165678e-09,
-      "proceeds": 0.04,
-      "pnl_usd": -49.96,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-29T14:28:45+00:00",
-      "side": "buy",
-      "symbol": "IOF",
-      "address": "AcBX8a8eHbzQghgqMfqXeAz4kQSRbtHWKUSGXvwMpump",
-      "price": 0.006979428056087815,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T14:28:45+00:00",
-      "side": "buy",
-      "symbol": "ALPRUBY",
-      "address": "H4AQsyGH9XiBZYivjNW4YYiYSK5ex5aHzepnyDxPpump",
-      "price": 6.727463760640316e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-29T14:28:45+00:00",
       "side": "buy",
@@ -4544,13 +4456,67 @@
       "address": "8xjiJ15BDtLYz7YzcUCnkbK7XYS9mzKgGWS53A5apump",
       "price": 9.910339153376793e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-04T02:13:19+00:00",
+      "side": "sell",
+      "symbol": "Mag",
+      "address": "HwT1GLTsngUcvHWtqVyT2iQz4XomdhhUpMcvVXWtpump",
+      "price": 4.65926682e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-04T02:13:19+00:00",
+      "side": "sell",
+      "symbol": "BARRON",
+      "address": "FeEGprZBu8Qmj6AGxyK1eMerhafwMQmcgWpGaoypump",
+      "price": 1.812979833e-06,
+      "proceeds": 0.72,
+      "pnl_usd": -49.28,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-04T02:13:19+00:00",
+      "side": "sell",
+      "symbol": "AMD",
+      "address": "EmE1K4UrnQ35BvPHtjTB9c1sJFqmh178U5bgcftZpump",
+      "price": 1.823484175e-06,
+      "proceeds": 1.57,
+      "pnl_usd": -48.43,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-04T02:13:19+00:00",
+      "side": "sell",
+      "symbol": "NVIDIA",
+      "address": "GLNDjV8BtUisNDaPFs5mJUh4fXYwoAGry4e4L1Gpump",
+      "price": 1.675799867e-06,
+      "proceeds": 0.65,
+      "pnl_usd": -49.35,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-04T02:13:19+00:00",
+      "side": "sell",
+      "symbol": "nipple",
+      "address": "8xjiJ15BDtLYz7YzcUCnkbK7XYS9mzKgGWS53A5apump",
+      "price": 9.560160853e-06,
+      "proceeds": 45.56,
+      "pnl_usd": -4.44,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-04T02:13:19+00:00",
+      "side": "buy",
+      "symbol": "BTC",
+      "address": "FEMab3YMKrJmqVc5vc549eQ5P6sGFu5htezuXqgepump",
+      "price": 1.1025332260297897e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T22:59:27+00:00",
-      "equity": 3597727.94
-    },
     {
       "date": "2026-10-09T23:20:29+00:00",
       "equity": 3597697.03
@@ -8546,6 +8512,10 @@
     {
       "date": "2026-11-03T22:01:42+00:00",
       "equity": 6529128.81
+    },
+    {
+      "date": "2026-11-04T02:13:19+00:00",
+      "equity": 6528935.47
     }
   ]
 }
