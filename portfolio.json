@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6528833.137091294,
+  "cash": 6528872.737428128,
   "positions": {
-    "HDopstb4KaJk9XEAZ2jUbU6VDNEx9cEfF6gp4RZApump": {
-      "symbol": "DOGE",
-      "qty": 24550928.360154964,
-      "entry_price": 2.0162170356187524e-06,
-      "last_price": 1.944269677472237e-06,
+    "EuVn8X7oTzNDmyr47XQwLHXQdyAsCGQRSBt8Pm11pump": {
+      "symbol": "ELON",
+      "qty": 423206.83805289934,
+      "entry_price": 0.00011696408363281851,
+      "last_price": 0.00011334816187801406,
       "cost": 50.0,
-      "entry_time": "2026-11-04T09:27:18+00:00",
-      "missing": 0
-    },
-    "D7i5z9fZyc3BkLBnrTmXaiS4oLcZ3CQ7uL55vTSmpump": {
-      "symbol": "DOOROC",
-      "qty": 6501404.897703564,
-      "entry_price": 7.613738996241331e-06,
-      "last_price": 7.328248213771871e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-04T09:27:18+00:00",
+      "entry_time": "2026-11-04T17:26:56+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T15:25:12+00:00",
-      "side": "sell",
-      "symbol": "ALPRUBY",
-      "address": "H4AQsyGH9XiBZYivjNW4YYiYSK5ex5aHzepnyDxPpump",
-      "price": 0.0001032908546,
-      "proceeds": 37.62,
-      "pnl_usd": -12.38,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-29T15:25:13+00:00",
-      "side": "buy",
-      "symbol": "WANTED",
-      "address": "8Lgivur5fsuYUvG7bJkryjfuvQwCkLDTcFcWJ9A9pump",
-      "price": 1.1547803573391664e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T16:23:22+00:00",
-      "side": "sell",
-      "symbol": "Oren",
-      "address": "GjiTt7EHQQ3oMi79nmsv1S6TQmrVKh1i2hpgbT9xpump",
-      "price": 7.008479745e-06,
-      "proceeds": 45.34,
-      "pnl_usd": -4.66,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-29T16:23:22+00:00",
       "side": "sell",
@@ -4521,13 +4484,37 @@
       "address": "D7i5z9fZyc3BkLBnrTmXaiS4oLcZ3CQ7uL55vTSmpump",
       "price": 7.613738996241331e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-04T17:26:56+00:00",
+      "side": "sell",
+      "symbol": "DOGE",
+      "address": "HDopstb4KaJk9XEAZ2jUbU6VDNEx9cEfF6gp4RZApump",
+      "price": 1.939976578e-06,
+      "proceeds": 44.25,
+      "pnl_usd": -5.75,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-04T17:26:56+00:00",
+      "side": "sell",
+      "symbol": "DOOROC",
+      "address": "D7i5z9fZyc3BkLBnrTmXaiS4oLcZ3CQ7uL55vTSmpump",
+      "price": 7.328248214e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-04T17:26:56+00:00",
+      "side": "buy",
+      "symbol": "ELON",
+      "address": "EuVn8X7oTzNDmyr47XQwLHXQdyAsCGQRSBt8Pm11pump",
+      "price": 0.00011696408363281851,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T23:38:54+00:00",
-      "equity": 3597674.5
-    },
     {
       "date": "2026-10-09T23:55:15+00:00",
       "equity": 3597597.47
@@ -8523,6 +8510,10 @@
     {
       "date": "2026-11-04T09:27:18+00:00",
       "equity": 6528928.51
+    },
+    {
+      "date": "2026-11-04T17:26:56+00:00",
+      "equity": 6528920.71
     }
   ]
 }
