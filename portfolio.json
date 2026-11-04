@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6528887.717390645,
+  "cash": 6528833.137091294,
   "positions": {
-    "FEMab3YMKrJmqVc5vc549eQ5P6sGFu5htezuXqgepump": {
-      "symbol": "BTC",
-      "qty": 4489660.613517197,
-      "entry_price": 1.1025332260297897e-05,
-      "last_price": 1.063671534056761e-05,
+    "HDopstb4KaJk9XEAZ2jUbU6VDNEx9cEfF6gp4RZApump": {
+      "symbol": "DOGE",
+      "qty": 24550928.360154964,
+      "entry_price": 2.0162170356187524e-06,
+      "last_price": 1.944269677472237e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-04T02:13:19+00:00",
+      "entry_time": "2026-11-04T09:27:18+00:00",
+      "missing": 0
+    },
+    "D7i5z9fZyc3BkLBnrTmXaiS4oLcZ3CQ7uL55vTSmpump": {
+      "symbol": "DOOROC",
+      "qty": 6501404.897703564,
+      "entry_price": 7.613738996241331e-06,
+      "last_price": 7.328248213771871e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-04T09:27:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T14:28:45+00:00",
-      "side": "buy",
-      "symbol": "Oren",
-      "address": "GjiTt7EHQQ3oMi79nmsv1S6TQmrVKh1i2hpgbT9xpump",
-      "price": 7.282224909837717e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T15:25:12+00:00",
-      "side": "sell",
-      "symbol": "NODF",
-      "address": "YEurBji8cCciF5R9nHVWfjqERyS6pQY7cyRcHKxpump",
-      "price": 0.1613231062,
-      "proceeds": 50.12,
-      "pnl_usd": 0.12,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-29T15:25:12+00:00",
-      "side": "sell",
-      "symbol": "IOF",
-      "address": "AcBX8a8eHbzQghgqMfqXeAz4kQSRbtHWKUSGXvwMpump",
-      "price": 0.00789455577,
-      "proceeds": 53.74,
-      "pnl_usd": 3.74,
-      "reason": "take-profit"
-    },
     {
       "date": "2026-10-29T15:25:12+00:00",
       "side": "sell",
@@ -4514,13 +4495,35 @@
       "address": "FEMab3YMKrJmqVc5vc549eQ5P6sGFu5htezuXqgepump",
       "price": 1.1025332260297897e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-04T09:27:18+00:00",
+      "side": "sell",
+      "symbol": "BTC",
+      "address": "FEMab3YMKrJmqVc5vc549eQ5P6sGFu5htezuXqgepump",
+      "price": 1.060298545e-05,
+      "proceeds": 45.42,
+      "pnl_usd": -4.58,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-04T09:27:18+00:00",
+      "side": "buy",
+      "symbol": "DOGE",
+      "address": "HDopstb4KaJk9XEAZ2jUbU6VDNEx9cEfF6gp4RZApump",
+      "price": 2.0162170356187524e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-04T09:27:18+00:00",
+      "side": "buy",
+      "symbol": "DOOROC",
+      "address": "D7i5z9fZyc3BkLBnrTmXaiS4oLcZ3CQ7uL55vTSmpump",
+      "price": 7.613738996241331e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-09T23:20:29+00:00",
-      "equity": 3597697.03
-    },
     {
       "date": "2026-10-09T23:38:54+00:00",
       "equity": 3597674.5
@@ -8516,6 +8519,10 @@
     {
       "date": "2026-11-04T02:13:19+00:00",
       "equity": 6528935.47
+    },
+    {
+      "date": "2026-11-04T09:27:18+00:00",
+      "equity": 6528928.51
     }
   ]
 }
