@@ -1,82 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6528706.103004619,
+  "cash": 6528739.0482182205,
   "positions": {
-    "5izkW6J9Kp1Ph9P72J8YxYN9qpybMeZusd4M37hFpump": {
-      "symbol": "gatito",
-      "qty": 2657043.7997429715,
-      "entry_price": 1.8629726768067718e-05,
-      "last_price": 1.7934671547756427e-05,
+    "7zd3MMVgw6RbuAJkcRgc17hJBHdT9XnjYjNyGZCgpump": {
+      "symbol": "GTA 6 Coin",
+      "qty": 462650.97566065274,
+      "entry_price": 0.00010699210118235539,
+      "last_price": 0.00010367157724294246,
       "cost": 50.0,
-      "entry_time": "2026-11-05T18:17:09+00:00",
+      "entry_time": "2026-11-05T23:43:24+00:00",
       "missing": 0
     },
-    "2bn7MEma3t73Js5DgvJcZDRUN1KzhjxTEYndgCpHpump": {
-      "symbol": "MCCAT",
-      "qty": 3456640.8511638595,
-      "entry_price": 1.4320261239559565e-05,
-      "last_price": 1.3790100447932565e-05,
+    "9a2U1tPBEMCw4zozAsJQZ2qcEFCwTZhDUJ57HbNSpump": {
+      "symbol": "SOLPLZ",
+      "qty": 5784307.33757705,
+      "entry_price": 8.55763656927931e-06,
+      "last_price": 8.246309210417837e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-05T18:17:09+00:00",
-      "missing": 0
-    },
-    "27aADrcCfn7NGARCukYg4ytBdg4WtDsNrdDwBEYDpump": {
-      "symbol": "RAM",
-      "qty": 6688780.853663429,
-      "entry_price": 7.400451753908034e-06,
-      "last_price": 7.122471830298743e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-05T18:17:09+00:00",
+      "entry_time": "2026-11-05T23:43:24+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T19:50:48+00:00",
-      "side": "sell",
-      "symbol": "PAGER",
-      "address": "4noPNvrJ7Q5T6T4KdJ3JsbS3tJ1DLnSHjJhEjNyLpump",
-      "price": 2.828659722e-06,
-      "proceeds": 6.97,
-      "pnl_usd": -43.03,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T19:50:48+00:00",
-      "side": "buy",
-      "symbol": "X",
-      "address": "F3NJcHEnZMKxuQ8VS3u6syKkzxxaPREjbNSrDA3xpump",
-      "price": 1.3982408234355987e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T19:50:48+00:00",
-      "side": "buy",
-      "symbol": "RICK",
-      "address": "GfiibsARq3KSapjK3HYthoAHJU6Fc5gn5nV5iNWRpump",
-      "price": 6.310074422531801e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T20:29:33+00:00",
-      "side": "sell",
-      "symbol": "X",
-      "address": "F3NJcHEnZMKxuQ8VS3u6syKkzxxaPREjbNSrDA3xpump",
-      "price": 2.786359445e-06,
-      "proceeds": 9.43,
-      "pnl_usd": -40.57,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T20:29:33+00:00",
-      "side": "sell",
-      "symbol": "RICK",
-      "address": "GfiibsARq3KSapjK3HYthoAHJU6Fc5gn5nV5iNWRpump",
-      "price": 4.587798607e-09,
-      "proceeds": 0.03,
-      "pnl_usd": -49.97,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-29T20:29:33+00:00",
       "side": "buy",
@@ -4528,13 +4473,55 @@
       "address": "27aADrcCfn7NGARCukYg4ytBdg4WtDsNrdDwBEYDpump",
       "price": 7.400451753908034e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-05T23:43:24+00:00",
+      "side": "sell",
+      "symbol": "gatito",
+      "address": "5izkW6J9Kp1Ph9P72J8YxYN9qpybMeZusd4M37hFpump",
+      "price": 3.599437834e-05,
+      "proceeds": 81.71,
+      "pnl_usd": 31.71,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-05T23:43:24+00:00",
+      "side": "sell",
+      "symbol": "MCCAT",
+      "address": "2bn7MEma3t73Js5DgvJcZDRUN1KzhjxTEYndgCpHpump",
+      "price": 1.798912522e-06,
+      "proceeds": 5.89,
+      "pnl_usd": -44.11,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-05T23:43:24+00:00",
+      "side": "sell",
+      "symbol": "RAM",
+      "address": "27aADrcCfn7NGARCukYg4ytBdg4WtDsNrdDwBEYDpump",
+      "price": 7.12247183e-06,
+      "proceeds": 45.34,
+      "pnl_usd": -4.66,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-05T23:43:24+00:00",
+      "side": "buy",
+      "symbol": "GTA 6 Coin",
+      "address": "7zd3MMVgw6RbuAJkcRgc17hJBHdT9XnjYjNyGZCgpump",
+      "price": 0.00010699210118235539,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-05T23:43:24+00:00",
+      "side": "buy",
+      "symbol": "SOLPLZ",
+      "address": "9a2U1tPBEMCw4zozAsJQZ2qcEFCwTZhDUJ57HbNSpump",
+      "price": 8.55763656927931e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T01:37:33+00:00",
-      "equity": 3597554.91
-    },
     {
       "date": "2026-10-10T01:55:54+00:00",
       "equity": 3597606.46
@@ -8530,6 +8517,10 @@
     {
       "date": "2026-11-05T18:17:09+00:00",
       "equity": 6528849.06
+    },
+    {
+      "date": "2026-11-05T23:43:24+00:00",
+      "equity": 6528834.71
     }
   ]
 }
