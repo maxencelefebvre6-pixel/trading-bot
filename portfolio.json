@@ -1,46 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6528863.68729045,
+  "cash": 6528809.646195062,
   "positions": {
-    "9fSq31SErYruMHB6a7iW6KohM5GLtVBZCGBNvVx9pump": {
-      "symbol": "USMS",
-      "qty": 625233.381008562,
-      "entry_price": 7.917043699770429e-05,
-      "last_price": 7.659435214750916e-05,
+    "55WebWtSwW45nTf8PTvqYytLn3yBLBivNAwr2KBBpump": {
+      "symbol": "STONK",
+      "qty": 3292798.994906602,
+      "entry_price": 1.5032803422428168e-05,
+      "last_price": 1.4533463400038622e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-05T02:55:34+00:00",
+      "entry_time": "2026-11-05T10:37:47+00:00",
+      "missing": 0
+    },
+    "G5BQbte9bqZ5CpDb57XwcFMj4mGhF41CPbeJBbYVpump": {
+      "symbol": "FIL",
+      "qty": 14518827.633247705,
+      "entry_price": 3.4093661864713097e-06,
+      "last_price": 3.2948300148918605e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-05T10:37:47+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T17:19:50+00:00",
-      "side": "sell",
-      "symbol": "DEGENS",
-      "address": "9Pp6nueZYYXxkgFkvNNyDJoiDsHDV7CxysdooZvQpump",
-      "price": 2.884314141e-06,
-      "proceeds": 13.05,
-      "pnl_usd": -36.95,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T17:19:50+00:00",
-      "side": "sell",
-      "symbol": "Matt",
-      "address": "7vybDwNgoeXgigXrEFt4qJN5L84vfJsRM3WSxYXmpump",
-      "price": 3.1861855e-06,
-      "proceeds": 18.4,
-      "pnl_usd": -31.6,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T17:19:50+00:00",
-      "side": "buy",
-      "symbol": "Balmaze",
-      "address": "BdCBEWMoJYoJPgKdyH7Nv1cn34c3N3JZXAz8AKjvpump",
-      "price": 0.015483564397250486,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-29T18:08:36+00:00",
       "side": "sell",
@@ -4514,13 +4495,35 @@
       "address": "9fSq31SErYruMHB6a7iW6KohM5GLtVBZCGBNvVx9pump",
       "price": 7.917043699770429e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-05T10:37:47+00:00",
+      "side": "sell",
+      "symbol": "USMS",
+      "address": "9fSq31SErYruMHB6a7iW6KohM5GLtVBZCGBNvVx9pump",
+      "price": 7.661936225e-05,
+      "proceeds": 45.96,
+      "pnl_usd": -4.04,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-05T10:37:47+00:00",
+      "side": "buy",
+      "symbol": "STONK",
+      "address": "55WebWtSwW45nTf8PTvqYytLn3yBLBivNAwr2KBBpump",
+      "price": 1.5032803422428168e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-05T10:37:47+00:00",
+      "side": "buy",
+      "symbol": "FIL",
+      "address": "G5BQbte9bqZ5CpDb57XwcFMj4mGhF41CPbeJBbYVpump",
+      "price": 3.4093661864713097e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T00:54:43+00:00",
-      "equity": 3597594.98
-    },
     {
       "date": "2026-10-10T01:16:22+00:00",
       "equity": 3597590.27
@@ -8516,6 +8519,10 @@
     {
       "date": "2026-11-05T02:55:34+00:00",
       "equity": 6528911.58
+    },
+    {
+      "date": "2026-11-05T10:37:47+00:00",
+      "equity": 6528905.34
     }
   ]
 }
