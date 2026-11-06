@@ -1,43 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6528739.0482182205,
-  "positions": {
-    "7zd3MMVgw6RbuAJkcRgc17hJBHdT9XnjYjNyGZCgpump": {
-      "symbol": "GTA 6 Coin",
-      "qty": 462650.97566065274,
-      "entry_price": 0.00010699210118235539,
-      "last_price": 0.00010367157724294246,
-      "cost": 50.0,
-      "entry_time": "2026-11-05T23:43:24+00:00",
-      "missing": 0
-    },
-    "9a2U1tPBEMCw4zozAsJQZ2qcEFCwTZhDUJ57HbNSpump": {
-      "symbol": "SOLPLZ",
-      "qty": 5784307.33757705,
-      "entry_price": 8.55763656927931e-06,
-      "last_price": 8.246309210417837e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-05T23:43:24+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6528785.22625722,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-29T20:29:33+00:00",
-      "side": "buy",
-      "symbol": "VAGINA",
-      "address": "HyEHuuN7qywSuKwScMpP2uCq3RBbQhiWyTpf4mszpump",
-      "price": 5.598007305713329e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T20:29:33+00:00",
-      "side": "buy",
-      "symbol": "OZVAG",
-      "address": "wAenvnzTDm9MKFRwbjBzqqtizLXbQT8tHHMEcQbpump",
-      "price": 1.2728824915626187e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-29T20:29:33+00:00",
       "side": "buy",
@@ -4519,13 +4484,29 @@
       "address": "9a2U1tPBEMCw4zozAsJQZ2qcEFCwTZhDUJ57HbNSpump",
       "price": 8.55763656927931e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-06T03:42:22+00:00",
+      "side": "sell",
+      "symbol": "GTA 6 Coin",
+      "address": "7zd3MMVgw6RbuAJkcRgc17hJBHdT9XnjYjNyGZCgpump",
+      "price": 1.632161672e-06,
+      "proceeds": 0.72,
+      "pnl_usd": -49.28,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-06T03:42:22+00:00",
+      "side": "sell",
+      "symbol": "SOLPLZ",
+      "address": "9a2U1tPBEMCw4zozAsJQZ2qcEFCwTZhDUJ57HbNSpump",
+      "price": 8.24630921e-06,
+      "proceeds": 45.46,
+      "pnl_usd": -4.54,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T01:55:54+00:00",
-      "equity": 3597606.46
-    },
     {
       "date": "2026-10-10T02:16:48+00:00",
       "equity": 3597554.12
@@ -8521,6 +8502,10 @@
     {
       "date": "2026-11-05T23:43:24+00:00",
       "equity": 6528834.71
+    },
+    {
+      "date": "2026-11-06T03:42:22+00:00",
+      "equity": 6528785.23
     }
   ]
 }
