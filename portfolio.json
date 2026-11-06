@@ -1,75 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6528685.22625722,
+  "cash": 6528588.247008422,
   "positions": {
-    "3sTuu1ppMYhq5ExmbzgLMA9hq676UXFX61GPDhbBpump": {
-      "symbol": "FALLOUT",
-      "qty": 9863437.209232043,
-      "entry_price": 5.018534507794978e-06,
-      "last_price": 4.830913216028406e-06,
+    "9q9bduemFCx1GRGorwwqahUVxhfnFDLBmHA7r8hypump": {
+      "symbol": "BetOnBlak",
+      "qty": 6975201.571573132,
+      "entry_price": 7.096569108731314e-06,
+      "last_price": 6.827823096992899e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-06T11:35:19+00:00",
+      "entry_time": "2026-11-06T18:27:03+00:00",
       "missing": 0
     },
-    "Ht6SCSUkkLQAjusDsaxxmNpTVPs6uKtAZVbtaiaspump": {
-      "symbol": "BLISS",
-      "qty": 8618933.193540758,
-      "entry_price": 5.743170168333191e-06,
-      "last_price": 5.52945247790846e-06,
+    "56AkuTfHWQmzoc2PECvsNpp71CNkvLmMseH4omx4pump": {
+      "symbol": "NULL",
+      "qty": 4942986.814791646,
+      "entry_price": 1.0014188152773072e-05,
+      "last_price": 9.640763546571094e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-06T11:35:19+00:00",
+      "entry_time": "2026-11-06T18:27:03+00:00",
+      "missing": 0
+    },
+    "3NTz1j1Fi93yDC9Py6G9Rknr7sLLyXnzwPhkf2NApump": {
+      "symbol": "Lincoln",
+      "qty": 50807764.6422481,
+      "entry_price": 9.742605357378652e-07,
+      "last_price": 9.429557440757193e-07,
+      "cost": 50.0,
+      "entry_time": "2026-11-06T18:27:03+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T20:29:33+00:00",
-      "side": "buy",
-      "symbol": "$BWIZ",
-      "address": "h6HUZ2k1BiNBSTjoWMBmpvv36oD4Vr4UdQSdsECpump",
-      "price": 2.673767658079203e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T21:16:42+00:00",
-      "side": "sell",
-      "symbol": "VAGINA",
-      "address": "HyEHuuN7qywSuKwScMpP2uCq3RBbQhiWyTpf4mszpump",
-      "price": 4.208912538e-06,
-      "proceeds": 35.31,
-      "pnl_usd": -14.69,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T21:16:42+00:00",
-      "side": "sell",
-      "symbol": "OZVAG",
-      "address": "wAenvnzTDm9MKFRwbjBzqqtizLXbQT8tHHMEcQbpump",
-      "price": 2.782224735e-06,
-      "proceeds": 10.34,
-      "pnl_usd": -39.66,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T21:16:42+00:00",
-      "side": "sell",
-      "symbol": "VAGINA",
-      "address": "BVTfKyTwhWu7ZFgWJU8PpUBAYmoCJRU3cXxsE1rqpump",
-      "price": 3.031084487e-06,
-      "proceeds": 5.45,
-      "pnl_usd": -44.55,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T21:16:42+00:00",
-      "side": "sell",
-      "symbol": "VAGINA",
-      "address": "ixaRy87PGs5ypSM1fcobz3XAtrRuS9SNLVxCNAwpump",
-      "price": 3.201924332e-06,
-      "proceeds": 31.62,
-      "pnl_usd": -18.38,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-29T21:16:42+00:00",
       "side": "sell",
@@ -4523,13 +4484,53 @@
       "address": "Ht6SCSUkkLQAjusDsaxxmNpTVPs6uKtAZVbtaiaspump",
       "price": 5.743170168333191e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-06T18:27:03+00:00",
+      "side": "sell",
+      "symbol": "FALLOUT",
+      "address": "3sTuu1ppMYhq5ExmbzgLMA9hq676UXFX61GPDhbBpump",
+      "price": 2.368678468e-06,
+      "proceeds": 22.14,
+      "pnl_usd": -27.86,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-06T18:27:03+00:00",
+      "side": "sell",
+      "symbol": "BLISS",
+      "address": "Ht6SCSUkkLQAjusDsaxxmNpTVPs6uKtAZVbtaiaspump",
+      "price": 3.774128302e-06,
+      "proceeds": 30.88,
+      "pnl_usd": -19.12,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-06T18:27:03+00:00",
+      "side": "buy",
+      "symbol": "BetOnBlak",
+      "address": "9q9bduemFCx1GRGorwwqahUVxhfnFDLBmHA7r8hypump",
+      "price": 7.096569108731314e-06,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-06T18:27:03+00:00",
+      "side": "buy",
+      "symbol": "NULL",
+      "address": "56AkuTfHWQmzoc2PECvsNpp71CNkvLmMseH4omx4pump",
+      "price": 1.0014188152773072e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-06T18:27:03+00:00",
+      "side": "buy",
+      "symbol": "Lincoln",
+      "address": "3NTz1j1Fi93yDC9Py6G9Rknr7sLLyXnzwPhkf2NApump",
+      "price": 9.742605357378652e-07,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T02:37:36+00:00",
-      "equity": 3597458.53
-    },
     {
       "date": "2026-10-10T02:55:56+00:00",
       "equity": 3597317.08
@@ -8525,6 +8526,10 @@
     {
       "date": "2026-11-06T11:35:19+00:00",
       "equity": 6528780.53
+    },
+    {
+      "date": "2026-11-06T18:27:03+00:00",
+      "equity": 6528731.44
     }
   ]
 }
