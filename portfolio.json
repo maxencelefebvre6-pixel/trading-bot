@@ -1,88 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6528588.247008422,
+  "cash": 6528499.941808721,
   "positions": {
-    "9q9bduemFCx1GRGorwwqahUVxhfnFDLBmHA7r8hypump": {
-      "symbol": "BetOnBlak",
-      "qty": 6975201.571573132,
-      "entry_price": 7.096569108731314e-06,
-      "last_price": 6.827823096992899e-06,
+    "5jqzgwyQMGjJyZPUHXbFCiQ7KmxdGK67ipJAowjHpump": {
+      "symbol": "ape",
+      "qty": 3225849.113766483,
+      "entry_price": 1.534479706095245e-05,
+      "last_price": 1.4778746359196982e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-06T18:27:03+00:00",
+      "entry_time": "2026-11-06T23:26:41+00:00",
       "missing": 0
     },
-    "56AkuTfHWQmzoc2PECvsNpp71CNkvLmMseH4omx4pump": {
-      "symbol": "NULL",
-      "qty": 4942986.814791646,
-      "entry_price": 1.0014188152773072e-05,
-      "last_price": 9.640763546571094e-06,
+    "BLYdKSwcRnEmtesj5aP6NzV9EyRA9Dr83sL5yhW8pump": {
+      "symbol": "POKEHOOD",
+      "qty": 1407143.0192495116,
+      "entry_price": 3.517766092205782e-05,
+      "last_price": 3.402643064813395e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-06T18:27:03+00:00",
+      "entry_time": "2026-11-06T23:26:41+00:00",
       "missing": 0
     },
-    "3NTz1j1Fi93yDC9Py6G9Rknr7sLLyXnzwPhkf2NApump": {
-      "symbol": "Lincoln",
-      "qty": 50807764.6422481,
-      "entry_price": 9.742605357378652e-07,
-      "last_price": 9.429557440757193e-07,
+    "CQW7LM5yfoTobKzTozrJWKrzbqBRuFNgbLAbmuGHpump": {
+      "symbol": "XAU",
+      "qty": 3560757.3246363387,
+      "entry_price": 1.3901537085247856e-05,
+      "last_price": 1.3433431303135928e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-06T18:27:03+00:00",
+      "entry_time": "2026-11-06T23:26:41+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T21:16:42+00:00",
-      "side": "sell",
-      "symbol": "$BWIZ",
-      "address": "h6HUZ2k1BiNBSTjoWMBmpvv36oD4Vr4UdQSdsECpump",
-      "price": 7.051402841e-06,
-      "proceeds": 12.52,
-      "pnl_usd": -37.48,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T21:16:42+00:00",
-      "side": "buy",
-      "symbol": "dogs",
-      "address": "FLyqUZVTPsrDCwMpFMmyYX1LZ6AQUHDXD5qoejWLpump",
-      "price": 3.125676270723276e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T22:44:28+00:00",
-      "side": "sell",
-      "symbol": "dogs",
-      "address": "FLyqUZVTPsrDCwMpFMmyYX1LZ6AQUHDXD5qoejWLpump",
-      "price": 3.028341185e-05,
-      "proceeds": 45.96,
-      "pnl_usd": -4.04,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-29T23:21:33+00:00",
-      "side": "buy",
-      "symbol": "ZI",
-      "address": "7ihhqyC3RA2yXyARSLXBBpJp9siYyeC1ff9vYjkBpump",
-      "price": 8.6637439384879e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T23:21:33+00:00",
-      "side": "buy",
-      "symbol": "ZERODAY",
-      "address": "12U9LSGSXCu7HmcDqJmPV2VRvQLUHrtPq58jkJS8pump",
-      "price": 6.578407974014769e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T23:21:33+00:00",
-      "side": "buy",
-      "symbol": "beer",
-      "address": "Ez1UPAtVQYYRxbwpedesCiCift28iQbahfocHU3opump",
-      "price": 1.1665898087895683e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-29T23:21:33+00:00",
       "side": "buy",
@@ -4528,13 +4476,63 @@
       "address": "3NTz1j1Fi93yDC9Py6G9Rknr7sLLyXnzwPhkf2NApump",
       "price": 9.742605357378652e-07,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-06T23:26:41+00:00",
+      "side": "sell",
+      "symbol": "BetOnBlak",
+      "address": "9q9bduemFCx1GRGorwwqahUVxhfnFDLBmHA7r8hypump",
+      "price": 6.834164826e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-06T23:26:41+00:00",
+      "side": "sell",
+      "symbol": "NULL",
+      "address": "56AkuTfHWQmzoc2PECvsNpp71CNkvLmMseH4omx4pump",
+      "price": 3.092738676e-06,
+      "proceeds": 14.59,
+      "pnl_usd": -35.41,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-06T23:26:41+00:00",
+      "side": "sell",
+      "symbol": "Lincoln",
+      "address": "3NTz1j1Fi93yDC9Py6G9Rknr7sLLyXnzwPhkf2NApump",
+      "price": 3.870581949e-08,
+      "proceeds": 1.76,
+      "pnl_usd": -48.24,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-06T23:26:41+00:00",
+      "side": "buy",
+      "symbol": "ape",
+      "address": "5jqzgwyQMGjJyZPUHXbFCiQ7KmxdGK67ipJAowjHpump",
+      "price": 1.534479706095245e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-06T23:26:41+00:00",
+      "side": "buy",
+      "symbol": "POKEHOOD",
+      "address": "BLYdKSwcRnEmtesj5aP6NzV9EyRA9Dr83sL5yhW8pump",
+      "price": 3.517766092205782e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-06T23:26:41+00:00",
+      "side": "buy",
+      "symbol": "XAU",
+      "address": "CQW7LM5yfoTobKzTozrJWKrzbqBRuFNgbLAbmuGHpump",
+      "price": 1.3901537085247856e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T02:55:56+00:00",
-      "equity": 3597317.08
-    },
     {
       "date": "2026-10-10T03:16:54+00:00",
       "equity": 3597269.47
@@ -8530,6 +8528,10 @@
     {
       "date": "2026-11-06T18:27:03+00:00",
       "equity": 6528731.44
+    },
+    {
+      "date": "2026-11-06T23:26:41+00:00",
+      "equity": 6528643.33
     }
   ]
 }
