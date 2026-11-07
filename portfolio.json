@@ -1,54 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6529307.17080755,
+  "cash": 6529391.993038414,
   "positions": {
-    "E3A4yLRVByWVrJvHM3KMgm2dBWrR76SK7U3iH46Vpump": {
-      "symbol": "Alice",
-      "qty": 1207234.675000483,
-      "entry_price": 4.10027983995574e-05,
-      "last_price": 3.9683942765758574e-05,
+    "14DmQKF6uahijBzaMhg6k6Z16yfBPksFqxMjoznqpump": {
+      "symbol": "Roo",
+      "qty": 615920.0030478623,
+      "entry_price": 8.036757980752481e-05,
+      "last_price": 7.790260610698051e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-07T10:00:19+00:00",
+      "entry_time": "2026-11-07T16:20:36+00:00",
+      "missing": 0
+    },
+    "8pnnYNo2jspazKiAMcBrGb28eLYKMEMZCDbfUT1rpump": {
+      "symbol": "Pump Farm",
+      "qty": 2874260.833589795,
+      "entry_price": 1.72218190574504e-05,
+      "last_price": 1.665808338423401e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-07T16:20:36+00:00",
+      "missing": 0
+    },
+    "CKyyGVkifzTPT9v3BcNha8ifdpw4R3XX4RDuewG9pump": {
+      "symbol": "PC",
+      "qty": 5853460.941994548,
+      "entry_price": 8.456535456634146e-06,
+      "last_price": 8.151222424090062e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-07T16:20:36+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-30T01:51:10+00:00",
-      "side": "sell",
-      "symbol": "HANS",
-      "address": "9fDLetQS6U7V7aYDm6muk8BDnsEyEyvp8Y4RHSHopump",
-      "price": 7.5544207e-06,
-      "proceeds": 45.35,
-      "pnl_usd": -4.65,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-30T01:51:11+00:00",
-      "side": "buy",
-      "symbol": "MIP",
-      "address": "5XvNpVZ5ezqMPmhdmorYYpbidSwnni9PAUgC2Lijpump",
-      "price": 1.2707191153166403e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T01:51:11+00:00",
-      "side": "buy",
-      "symbol": "CONSOLE",
-      "address": "91fBfFGRG5Ry6ty4A1Q23hv1eEawsTu7rh2mvczRpump",
-      "price": 0.006219723624500987,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T02:35:19+00:00",
-      "side": "sell",
-      "symbol": "MIP",
-      "address": "5XvNpVZ5ezqMPmhdmorYYpbidSwnni9PAUgC2Lijpump",
-      "price": 2.698796184e-06,
-      "proceeds": 10.04,
-      "pnl_usd": -39.96,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-30T02:35:19+00:00",
       "side": "buy",
@@ -4512,13 +4494,43 @@
       "address": "E3A4yLRVByWVrJvHM3KMgm2dBWrR76SK7U3iH46Vpump",
       "price": 4.10027983995574e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-07T16:20:36+00:00",
+      "side": "sell",
+      "symbol": "Alice",
+      "address": "E3A4yLRVByWVrJvHM3KMgm2dBWrR76SK7U3iH46Vpump",
+      "price": 0.000392954539,
+      "proceeds": 234.82,
+      "pnl_usd": 184.82,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-07T16:20:36+00:00",
+      "side": "buy",
+      "symbol": "Roo",
+      "address": "14DmQKF6uahijBzaMhg6k6Z16yfBPksFqxMjoznqpump",
+      "price": 8.036757980752481e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-07T16:20:36+00:00",
+      "side": "buy",
+      "symbol": "Pump Farm",
+      "address": "8pnnYNo2jspazKiAMcBrGb28eLYKMEMZCDbfUT1rpump",
+      "price": 1.72218190574504e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-07T16:20:36+00:00",
+      "side": "buy",
+      "symbol": "PC",
+      "address": "CKyyGVkifzTPT9v3BcNha8ifdpw4R3XX4RDuewG9pump",
+      "price": 8.456535456634146e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T03:56:47+00:00",
-      "equity": 3597749.5
-    },
     {
       "date": "2026-10-10T04:18:55+00:00",
       "equity": 3597742.81
@@ -8514,6 +8526,10 @@
     {
       "date": "2026-11-07T10:00:19+00:00",
       "equity": 6529355.08
+    },
+    {
+      "date": "2026-11-07T16:20:36+00:00",
+      "equity": 6529535.57
     }
   ]
 }
