@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6529391.993038414,
+  "cash": 6529433.276534402,
   "positions": {
-    "14DmQKF6uahijBzaMhg6k6Z16yfBPksFqxMjoznqpump": {
-      "symbol": "Roo",
-      "qty": 615920.0030478623,
-      "entry_price": 8.036757980752481e-05,
-      "last_price": 7.790260610698051e-05,
+    "4sTc9uCmxKzE2EQodFdzqmbTc2UEpciHL1kQ4z3Rpump": {
+      "symbol": "RICK",
+      "qty": 5225102.923800767,
+      "entry_price": 9.473497598396289e-06,
+      "last_price": 9.134142933927277e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-07T16:20:36+00:00",
-      "missing": 0
-    },
-    "8pnnYNo2jspazKiAMcBrGb28eLYKMEMZCDbfUT1rpump": {
-      "symbol": "Pump Farm",
-      "qty": 2874260.833589795,
-      "entry_price": 1.72218190574504e-05,
-      "last_price": 1.665808338423401e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-07T16:20:36+00:00",
-      "missing": 0
-    },
-    "CKyyGVkifzTPT9v3BcNha8ifdpw4R3XX4RDuewG9pump": {
-      "symbol": "PC",
-      "qty": 5853460.941994548,
-      "entry_price": 8.456535456634146e-06,
-      "last_price": 8.151222424090062e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-07T16:20:36+00:00",
+      "entry_time": "2026-11-07T20:22:08+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-30T02:35:19+00:00",
-      "side": "buy",
-      "symbol": "laptop",
-      "address": "FrE4wkPwzZ5Sxif28oabQD4P5ZbDT7oehBmZLm1Gpump",
-      "price": 1.030671462477086e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T03:23:01+00:00",
-      "side": "sell",
-      "symbol": "CONSOLE",
-      "address": "91fBfFGRG5Ry6ty4A1Q23hv1eEawsTu7rh2mvczRpump",
-      "price": 0.008202047425,
-      "proceeds": 62.65,
-      "pnl_usd": 12.65,
-      "reason": "take-profit"
-    },
-    {
-      "date": "2026-10-30T03:23:01+00:00",
-      "side": "sell",
-      "symbol": "laptop",
-      "address": "FrE4wkPwzZ5Sxif28oabQD4P5ZbDT7oehBmZLm1Gpump",
-      "price": 2.99982574e-06,
-      "proceeds": 13.75,
-      "pnl_usd": -36.25,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-30T03:23:02+00:00",
-      "side": "buy",
-      "symbol": "BITCAT",
-      "address": "9hzqsjCkxq3dQkfSkpRM1zk3NmLofHVBcwzKdvj3pump",
-      "price": 0.0001287909555990417,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-30T04:14:24+00:00",
       "side": "sell",
@@ -4528,13 +4474,47 @@
       "address": "CKyyGVkifzTPT9v3BcNha8ifdpw4R3XX4RDuewG9pump",
       "price": 8.456535456634146e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-07T20:22:08+00:00",
+      "side": "sell",
+      "symbol": "Roo",
+      "address": "14DmQKF6uahijBzaMhg6k6Z16yfBPksFqxMjoznqpump",
+      "price": 4.45302287e-12,
+      "proceeds": 0.0,
+      "pnl_usd": -50.0,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-07T20:22:08+00:00",
+      "side": "sell",
+      "symbol": "Pump Farm",
+      "address": "8pnnYNo2jspazKiAMcBrGb28eLYKMEMZCDbfUT1rpump",
+      "price": 1.665808338e-05,
+      "proceeds": 45.8,
+      "pnl_usd": -4.2,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-07T20:22:08+00:00",
+      "side": "sell",
+      "symbol": "PC",
+      "address": "CKyyGVkifzTPT9v3BcNha8ifdpw4R3XX4RDuewG9pump",
+      "price": 8.151222424e-06,
+      "proceeds": 45.48,
+      "pnl_usd": -4.52,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-07T20:22:08+00:00",
+      "side": "buy",
+      "symbol": "RICK",
+      "address": "4sTc9uCmxKzE2EQodFdzqmbTc2UEpciHL1kQ4z3Rpump",
+      "price": 9.473497598396289e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T04:18:55+00:00",
-      "equity": 3597742.81
-    },
     {
       "date": "2026-10-10T04:41:35+00:00",
       "equity": 3597647.57
@@ -8530,6 +8510,10 @@
     {
       "date": "2026-11-07T16:20:36+00:00",
       "equity": 6529535.57
+    },
+    {
+      "date": "2026-11-07T20:22:08+00:00",
+      "equity": 6529481.0
     }
   ]
 }
