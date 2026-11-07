@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6528499.941808721,
+  "cash": 6528668.736772021,
   "positions": {
-    "5jqzgwyQMGjJyZPUHXbFCiQ7KmxdGK67ipJAowjHpump": {
-      "symbol": "ape",
-      "qty": 3225849.113766483,
-      "entry_price": 1.534479706095245e-05,
-      "last_price": 1.4778746359196982e-05,
+    "BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump": {
+      "symbol": "Alice",
+      "qty": 2182343.9804450646,
+      "entry_price": 2.2682033833137996e-05,
+      "last_price": 2.1892652900806275e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-06T23:26:41+00:00",
-      "missing": 0
-    },
-    "BLYdKSwcRnEmtesj5aP6NzV9EyRA9Dr83sL5yhW8pump": {
-      "symbol": "POKEHOOD",
-      "qty": 1407143.0192495116,
-      "entry_price": 3.517766092205782e-05,
-      "last_price": 3.402643064813395e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-06T23:26:41+00:00",
-      "missing": 0
-    },
-    "CQW7LM5yfoTobKzTozrJWKrzbqBRuFNgbLAbmuGHpump": {
-      "symbol": "XAU",
-      "qty": 3560757.3246363387,
-      "entry_price": 1.3901537085247856e-05,
-      "last_price": 1.3433431303135928e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-06T23:26:41+00:00",
+      "entry_time": "2026-11-07T03:05:50+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-29T23:21:33+00:00",
-      "side": "buy",
-      "symbol": "NVDA",
-      "address": "6r1vzyBUCTgZeoBV4rrQbKA77W7f94DS8e861xsYpump",
-      "price": 1.321768849867378e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-29T23:59:35+00:00",
-      "side": "sell",
-      "symbol": "ZI",
-      "address": "7ihhqyC3RA2yXyARSLXBBpJp9siYyeC1ff9vYjkBpump",
-      "price": 0.6244268789,
-      "proceeds": 176598.24,
-      "pnl_usd": 176548.24,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-29T23:59:35+00:00",
-      "side": "sell",
-      "symbol": "ZERODAY",
-      "address": "12U9LSGSXCu7HmcDqJmPV2VRvQLUHrtPq58jkJS8pump",
-      "price": 2.838652711e-06,
-      "proceeds": 20.3,
-      "pnl_usd": -29.7,
-      "reason": "stop-loss"
-    },
-    {
-      "date": "2026-10-29T23:59:36+00:00",
-      "side": "buy",
-      "symbol": "HANS",
-      "address": "9fDLetQS6U7V7aYDm6muk8BDnsEyEyvp8Y4RHSHopump",
-      "price": 7.848837201103988e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-30T00:53:48+00:00",
       "side": "sell",
@@ -4530,13 +4476,47 @@
       "address": "CQW7LM5yfoTobKzTozrJWKrzbqBRuFNgbLAbmuGHpump",
       "price": 1.3901537085247856e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-07T03:05:50+00:00",
+      "side": "sell",
+      "symbol": "ape",
+      "address": "5jqzgwyQMGjJyZPUHXbFCiQ7KmxdGK67ipJAowjHpump",
+      "price": 3.094915395e-06,
+      "proceeds": 9.55,
+      "pnl_usd": -40.45,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-07T03:05:50+00:00",
+      "side": "sell",
+      "symbol": "POKEHOOD",
+      "address": "BLYdKSwcRnEmtesj5aP6NzV9EyRA9Dr83sL5yhW8pump",
+      "price": 0.0001391389438,
+      "proceeds": 185.57,
+      "pnl_usd": 135.57,
+      "reason": "take-profit"
+    },
+    {
+      "date": "2026-11-07T03:05:50+00:00",
+      "side": "sell",
+      "symbol": "XAU",
+      "address": "CQW7LM5yfoTobKzTozrJWKrzbqBRuFNgbLAbmuGHpump",
+      "price": 1.34334313e-05,
+      "proceeds": 23.68,
+      "pnl_usd": -26.32,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-07T03:05:50+00:00",
+      "side": "buy",
+      "symbol": "Alice",
+      "address": "BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump",
+      "price": 2.2682033833137996e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T03:16:54+00:00",
-      "equity": 3597269.47
-    },
     {
       "date": "2026-10-10T03:38:27+00:00",
       "equity": 3597775.52
@@ -8532,6 +8512,10 @@
     {
       "date": "2026-11-06T23:26:41+00:00",
       "equity": 6528643.33
+    },
+    {
+      "date": "2026-11-07T03:05:50+00:00",
+      "equity": 6528716.51
     }
   ]
 }
