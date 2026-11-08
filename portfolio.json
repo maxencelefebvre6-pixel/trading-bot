@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6529328.8880571285,
+  "cash": 6529330.311228934,
   "positions": {
-    "D7sksgsd2D4QsdLfttwPTqTZqhYbyZ3TA2dujCu7pump": {
-      "symbol": "Abdel",
-      "qty": 2367582.5023313463,
-      "entry_price": 2.0907402361378158e-05,
-      "last_price": 2.0153379396879305e-05,
+    "A2pt7pU7hoHh9Hu5EtTnzyZEo8oZYw8koJ9zwUVipump": {
+      "symbol": "STENKS",
+      "qty": 7766342.913389699,
+      "entry_price": 6.3736562436174e-06,
+      "last_price": 6.14460566219401e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-08T02:46:36+00:00",
-      "missing": 0
-    },
-    "FZToTQvRHGmn3Rw7RUyZvgUiZ9pKKQiiCZyqwSKJpump": {
-      "symbol": "DEGEN",
-      "qty": 3742088.1687683393,
-      "entry_price": 1.3227908527952268e-05,
-      "last_price": 1.2781026378975591e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-08T02:46:36+00:00",
+      "entry_time": "2026-11-08T09:36:05+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-30T05:49:40+00:00",
-      "side": "buy",
-      "symbol": "MGOAT",
-      "address": "8gMxx4LxyF4Y7WNp2BJnJwavfDcZ6hZ21eTMzzG7pump",
-      "price": 6.788771842031027e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T06:28:34+00:00",
-      "side": "sell",
-      "symbol": "cap",
-      "address": "6qn25bfrrYjP7eQ4VtETJQB4JE65X5bUYJwySNNzpump",
-      "price": 2.249922927e-05,
-      "proceeds": 45.94,
-      "pnl_usd": -4.06,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-30T06:28:34+00:00",
-      "side": "sell",
-      "symbol": "HEART",
-      "address": "5uTnZh52WkYas8AhbG3H1GeBLEFEbgHhtuSCjwWNpump",
-      "price": 2.759944934e-06,
-      "proceeds": 10.24,
-      "pnl_usd": -39.76,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-30T06:28:34+00:00",
       "side": "sell",
@@ -4521,13 +4484,37 @@
       "address": "FZToTQvRHGmn3Rw7RUyZvgUiZ9pKKQiiCZyqwSKJpump",
       "price": 1.3227908527952268e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-08T09:36:05+00:00",
+      "side": "sell",
+      "symbol": "Abdel",
+      "address": "D7sksgsd2D4QsdLfttwPTqTZqhYbyZ3TA2dujCu7pump",
+      "price": 2.523343241e-06,
+      "proceeds": 5.72,
+      "pnl_usd": -44.28,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-08T09:36:05+00:00",
+      "side": "sell",
+      "symbol": "DEGEN",
+      "address": "FZToTQvRHGmn3Rw7RUyZvgUiZ9pKKQiiCZyqwSKJpump",
+      "price": 1.278102638e-05,
+      "proceeds": 45.7,
+      "pnl_usd": -4.3,
+      "reason": "durée max"
+    },
+    {
+      "date": "2026-11-08T09:36:05+00:00",
+      "side": "buy",
+      "symbol": "STENKS",
+      "address": "A2pt7pU7hoHh9Hu5EtTnzyZEo8oZYw8koJ9zwUVipump",
+      "price": 6.3736562436174e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T05:20:45+00:00",
-      "equity": 3597643.32
-    },
     {
       "date": "2026-10-10T05:40:40+00:00",
       "equity": 3597681.58
@@ -8523,6 +8510,10 @@
     {
       "date": "2026-11-08T02:46:36+00:00",
       "equity": 6529424.43
+    },
+    {
+      "date": "2026-11-08T09:36:05+00:00",
+      "equity": 6529378.03
     }
   ]
 }
