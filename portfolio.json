@@ -1,55 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6529275.139579304,
+  "cash": 6529325.596949686,
   "positions": {
-    "gC1VNEFrwSWy4vWxd6pU3ZMaT1Xw88Y6JvaqGdCpump": {
-      "symbol": "TA",
-      "qty": 4025410.7252960172,
-      "entry_price": 1.2296881828464823e-05,
-      "last_price": 1.1847144539466655e-05,
+    "HwwntB7qYqCdLaVst3BcieWkBq1kPMJvHq4B4TB3pump": {
+      "symbol": "CORGI",
+      "qty": 1530210.8710214298,
+      "entry_price": 3.234848277280784e-05,
+      "last_price": 3.12001814476361e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-08T16:19:55+00:00",
-      "missing": 0
-    },
-    "CcNkAr9KqLgf8AMjFx1YV93MAtAAAVTCyoUdXHtMpump": {
-      "symbol": "slkd",
-      "qty": 5160099.252714983,
-      "entry_price": 9.592838737347078e-06,
-      "last_price": 9.270979095468442e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-08T16:19:55+00:00",
+      "entry_time": "2026-11-08T20:39:34+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-30T07:37:04+00:00",
-      "side": "sell",
-      "symbol": "$KIRK",
-      "address": "BFpqkEEqfaetapbwD4ksx8UesWah8HjUYH36D47fpump",
-      "price": 6.269228316e-08,
-      "proceeds": 0.84,
-      "pnl_usd": -49.16,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-30T07:37:04+00:00",
-      "side": "sell",
-      "symbol": "NDC",
-      "address": "3dWmP2i2YThdigtKQSQXso1GBejayXhPZaYcSe9Upump",
-      "price": 7.51197485e-06,
-      "proceeds": 45.4,
-      "pnl_usd": -4.6,
-      "reason": "durée max"
-    },
-    {
-      "date": "2026-10-30T07:37:04+00:00",
-      "side": "buy",
-      "symbol": "WATT",
-      "address": "z26TpaiBRXeLVNfscNSa1qrGmxz2C4DNhgg8Lrgpump",
-      "price": 6.201245499521332e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-30T08:30:09+00:00",
       "side": "sell",
@@ -4521,13 +4484,37 @@
       "address": "CcNkAr9KqLgf8AMjFx1YV93MAtAAAVTCyoUdXHtMpump",
       "price": 9.592838737347078e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-08T20:39:34+00:00",
+      "side": "sell",
+      "symbol": "TA",
+      "address": "gC1VNEFrwSWy4vWxd6pU3ZMaT1Xw88Y6JvaqGdCpump",
+      "price": 4.084370683e-05,
+      "proceeds": 81.38,
+      "pnl_usd": 31.38,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-08T20:39:34+00:00",
+      "side": "sell",
+      "symbol": "slkd",
+      "address": "CcNkAr9KqLgf8AMjFx1YV93MAtAAAVTCyoUdXHtMpump",
+      "price": 3.879471555e-06,
+      "proceeds": 19.07,
+      "pnl_usd": -30.93,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-08T20:39:34+00:00",
+      "side": "buy",
+      "symbol": "CORGI",
+      "address": "HwwntB7qYqCdLaVst3BcieWkBq1kPMJvHq4B4TB3pump",
+      "price": 3.234848277280784e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T05:57:20+00:00",
-      "equity": 3597833.86
-    },
     {
       "date": "2026-10-10T06:23:50+00:00",
       "equity": 3597842.31
@@ -8523,6 +8510,10 @@
     {
       "date": "2026-11-08T16:19:55+00:00",
       "equity": 6529370.67
+    },
+    {
+      "date": "2026-11-08T20:39:34+00:00",
+      "equity": 6529373.34
     }
   ]
 }
