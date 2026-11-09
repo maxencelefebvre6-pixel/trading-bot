@@ -1,44 +1,27 @@
 {
   "mode": "pumpfun",
-  "cash": 6529325.596949686,
+  "cash": 6529228.901555456,
   "positions": {
-    "HwwntB7qYqCdLaVst3BcieWkBq1kPMJvHq4B4TB3pump": {
-      "symbol": "CORGI",
-      "qty": 1530210.8710214298,
-      "entry_price": 3.234848277280784e-05,
-      "last_price": 3.12001814476361e-05,
+    "DWFb6Rd8QBrPQFSp2wy18CeX4BEfjAfoLW25utxMpump": {
+      "symbol": "PUSSY",
+      "qty": 1251152.017865947,
+      "entry_price": 3.956353767820371e-05,
+      "last_price": 3.828535381045228e-05,
       "cost": 50.0,
-      "entry_time": "2026-11-08T20:39:34+00:00",
+      "entry_time": "2026-11-09T00:04:18+00:00",
+      "missing": 0
+    },
+    "EFNXhdnk6envPtYuB885B4iZgGYoM6fcwv3SfPyYpump": {
+      "symbol": "PumpBank",
+      "qty": 3107309.0246202517,
+      "entry_price": 1.5930182549529158e-05,
+      "last_price": 1.5340359722507e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-09T00:04:18+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-30T08:30:09+00:00",
-      "side": "sell",
-      "symbol": "WATT",
-      "address": "z26TpaiBRXeLVNfscNSa1qrGmxz2C4DNhgg8Lrgpump",
-      "price": 1.800629778e-06,
-      "proceeds": 1.37,
-      "pnl_usd": -48.63,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-30T08:30:09+00:00",
-      "side": "buy",
-      "symbol": "TERMINAL",
-      "address": "27KXUPxyo1kgw3MuKnDAbqt2zpQjV93TsuKDctpSpump",
-      "price": 1.1708320074325002e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T08:30:09+00:00",
-      "side": "buy",
-      "symbol": "DUOTIDE",
-      "address": "AtKvRVDF738YA925jmxNeh4iV2qCVBBJeMxQNyrupump",
-      "price": 4.284394974975407e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-30T08:30:09+00:00",
       "side": "buy",
@@ -4512,13 +4495,35 @@
       "address": "HwwntB7qYqCdLaVst3BcieWkBq1kPMJvHq4B4TB3pump",
       "price": 3.234848277280784e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-09T00:04:18+00:00",
+      "side": "sell",
+      "symbol": "CORGI",
+      "address": "HwwntB7qYqCdLaVst3BcieWkBq1kPMJvHq4B4TB3pump",
+      "price": 2.254274859e-06,
+      "proceeds": 3.3,
+      "pnl_usd": -46.7,
+      "reason": "stop-loss"
+    },
+    {
+      "date": "2026-11-09T00:04:18+00:00",
+      "side": "buy",
+      "symbol": "PUSSY",
+      "address": "DWFb6Rd8QBrPQFSp2wy18CeX4BEfjAfoLW25utxMpump",
+      "price": 3.956353767820371e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-09T00:04:18+00:00",
+      "side": "buy",
+      "symbol": "PumpBank",
+      "address": "EFNXhdnk6envPtYuB885B4iZgGYoM6fcwv3SfPyYpump",
+      "price": 1.5930182549529158e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T06:23:50+00:00",
-      "equity": 3597842.31
-    },
     {
       "date": "2026-10-10T06:49:35+00:00",
       "equity": 3597783.93
@@ -8514,6 +8519,10 @@
     {
       "date": "2026-11-08T20:39:34+00:00",
       "equity": 6529373.34
+    },
+    {
+      "date": "2026-11-09T00:04:18+00:00",
+      "equity": 6529324.47
     }
   ]
 }
