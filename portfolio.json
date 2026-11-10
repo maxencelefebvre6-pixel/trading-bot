@@ -1,16 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6529043.266737633,
-  "positions": {},
+  "cash": 6528993.266737633,
+  "positions": {
+    "CMeAztgP7trYU1sTAsqKKYnWzEnZarHXJy7XkmmDpump": {
+      "symbol": "$PEW",
+      "qty": 4408242.93009539,
+      "entry_price": 1.12289637356553e-05,
+      "last_price": 1.0839602841374981e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-10T15:48:40+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-30T13:31:35+00:00",
-      "side": "buy",
-      "symbol": "SPIRITS",
-      "address": "2c1qFNrro8wFccdUCoh3z5e7BRPwQVfUKEmscNdppump",
-      "price": 1.0139479020386381e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-30T13:31:35+00:00",
       "side": "buy",
@@ -4502,13 +4504,17 @@
       "proceeds": 0.16,
       "pnl_usd": -49.84,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-10T15:48:40+00:00",
+      "side": "buy",
+      "symbol": "$PEW",
+      "address": "CMeAztgP7trYU1sTAsqKKYnWzEnZarHXJy7XkmmDpump",
+      "price": 1.12289637356553e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T08:01:03+00:00",
-      "equity": 3597747.16
-    },
     {
       "date": "2026-10-10T08:22:59+00:00",
       "equity": 3597805.27
@@ -8504,6 +8510,10 @@
     {
       "date": "2026-11-10T07:40:18+00:00",
       "equity": 6529043.27
+    },
+    {
+      "date": "2026-11-10T15:48:40+00:00",
+      "equity": 6529041.05
     }
   ]
 }
