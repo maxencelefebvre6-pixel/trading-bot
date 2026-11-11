@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6528955.236708162,
-  "positions": {
-    "FBRjUy1JCrFdQ6Nygy32FQRruuMSHgCc3qLXkztDpump": {
-      "symbol": "$CAT",
-      "qty": 5090835.865278621,
-      "entry_price": 9.723354142609127e-06,
-      "last_price": 9.378148742344068e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-10T21:30:02+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6529000.77682207,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-30T14:29:56+00:00",
-      "side": "sell",
-      "symbol": "SKELLY",
-      "address": "2R1fzYc7rxVcXnmcdoBXunxS8TbQF6vEGnsqNYpopump",
-      "price": 1.975725386e-06,
-      "proceeds": 5.41,
-      "pnl_usd": -44.59,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-30T14:29:56+00:00",
       "side": "buy",
@@ -4512,13 +4492,19 @@
       "address": "FBRjUy1JCrFdQ6Nygy32FQRruuMSHgCc3qLXkztDpump",
       "price": 9.723354142609127e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-11T01:27:17+00:00",
+      "side": "sell",
+      "symbol": "$CAT",
+      "address": "FBRjUy1JCrFdQ6Nygy32FQRruuMSHgCc3qLXkztDpump",
+      "price": 9.378148742e-06,
+      "proceeds": 45.54,
+      "pnl_usd": -4.46,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T08:43:31+00:00",
-      "equity": 3597725.7
-    },
     {
       "date": "2026-10-10T08:59:22+00:00",
       "equity": 3597717.69
@@ -8514,6 +8500,10 @@
     {
       "date": "2026-11-10T21:30:02+00:00",
       "equity": 6529002.98
+    },
+    {
+      "date": "2026-11-11T01:27:17+00:00",
+      "equity": 6529000.78
     }
   ]
 }
