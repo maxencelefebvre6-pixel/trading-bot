@@ -1,45 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6528900.77682207,
-  "positions": {
-    "8oGD1rEraxCCXd98JYdNnb38bENjfR6pGcRuqmfMpump": {
-      "symbol": "MEOWLAND",
-      "qty": 313690.2997339452,
-      "entry_price": 0.00015779895024482161,
-      "last_price": 0.00015294802390450828,
-      "cost": 50.0,
-      "entry_time": "2026-11-11T16:20:58+00:00",
-      "missing": 0
-    },
-    "4mVZR3ziK8GU6MzWXiVGyuyktdbrSXP1Zgh3TUQjpump": {
-      "symbol": "KZMB",
-      "qty": 6753391.327994972,
-      "entry_price": 7.329650777796133e-06,
-      "last_price": 7.054720008478231e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-11T16:20:58+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6528946.601660461,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-30T15:24:16+00:00",
-      "side": "buy",
-      "symbol": "YouTube",
-      "address": "DJTNNoHVJCmaAsWCgVDaL7B1uPev84PCMbuDdkvpump",
-      "price": 0.00013391438457184353,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T16:17:13+00:00",
-      "side": "sell",
-      "symbol": "YouTube",
-      "address": "DJTNNoHVJCmaAsWCgVDaL7B1uPev84PCMbuDdkvpump",
-      "price": 1.704872979e-06,
-      "proceeds": 0.6,
-      "pnl_usd": -49.4,
-      "reason": "liquidité effondrée"
-    },
     {
       "date": "2026-10-30T16:17:13+00:00",
       "side": "buy",
@@ -4519,13 +4482,29 @@
       "address": "4mVZR3ziK8GU6MzWXiVGyuyktdbrSXP1Zgh3TUQjpump",
       "price": 7.329650777796133e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-11T22:53:18+00:00",
+      "side": "sell",
+      "symbol": "MEOWLAND",
+      "address": "8oGD1rEraxCCXd98JYdNnb38bENjfR6pGcRuqmfMpump",
+      "price": 1.583490964e-06,
+      "proceeds": 0.48,
+      "pnl_usd": -49.52,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-11T22:53:18+00:00",
+      "side": "sell",
+      "symbol": "KZMB",
+      "address": "4mVZR3ziK8GU6MzWXiVGyuyktdbrSXP1Zgh3TUQjpump",
+      "price": 7.054720008e-06,
+      "proceeds": 45.35,
+      "pnl_usd": -4.65,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T09:41:07+00:00",
-      "equity": 3597650.12
-    },
     {
       "date": "2026-10-10T09:57:39+00:00",
       "equity": 3597597.43
@@ -8521,6 +8500,10 @@
     {
       "date": "2026-11-11T16:20:58+00:00",
       "equity": 6528996.4
+    },
+    {
+      "date": "2026-11-11T22:53:19+00:00",
+      "equity": 6528946.6
     }
   ]
 }
