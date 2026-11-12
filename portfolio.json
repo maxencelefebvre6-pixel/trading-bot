@@ -1,72 +1,18 @@
 {
   "mode": "pumpfun",
-  "cash": 6528796.601660461,
+  "cash": 6528750.592016895,
   "positions": {
-    "7KcJQEPhiBoTqNfpiS3H7CPuSko3BEAmeNA8MzfKpump": {
-      "symbol": "Rockstar",
-      "qty": 494080.46353306377,
-      "entry_price": 0.00010018611067119732,
-      "last_price": 9.705911237671429e-05,
+    "J3CJndiwmQxp2LbcXhGXAXryVyuqUcBbF5mMUC4Zpump": {
+      "symbol": "GETPAID",
+      "qty": 6088087.653241602,
+      "entry_price": 8.130631951996245e-06,
+      "last_price": 7.83156469036108e-06,
       "cost": 50.0,
-      "entry_time": "2026-11-12T03:37:52+00:00",
-      "missing": 0
-    },
-    "ByB6rdDtrKp194NeyUkJFrEoTEG65kdcWs3FCu59pump": {
-      "symbol": "Anthropic",
-      "qty": 606884.4886999135,
-      "entry_price": 8.156412121529158e-05,
-      "last_price": 7.899447871661075e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-12T03:37:52+00:00",
-      "missing": 0
-    },
-    "5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump": {
-      "symbol": "GABOON",
-      "qty": 1514527.9431180274,
-      "entry_price": 3.268345112081069e-05,
-      "last_price": 3.161681539008461e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-12T03:37:52+00:00",
+      "entry_time": "2026-11-12T11:51:39+00:00",
       "missing": 0
     }
   },
   "trades": [
-    {
-      "date": "2026-10-30T17:04:30+00:00",
-      "side": "buy",
-      "symbol": "$CELL",
-      "address": "CmacStwtJuNPWXm8PE6q8DS5t8bvsevU5sEXcpmQpump",
-      "price": 8.120979842067142e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T17:46:21+00:00",
-      "side": "sell",
-      "symbol": "$PAUSE",
-      "address": "FJFdSM7uL3q1eW37ErZCNZFZQ7Nko2wcGsdCZBxYpump",
-      "price": 8.351860819e-07,
-      "proceeds": 1.06,
-      "pnl_usd": -48.94,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-30T17:46:21+00:00",
-      "side": "buy",
-      "symbol": "LaMisery",
-      "address": "HtchajuQXEtEdPE8LFQVS9CdoRAB2zHUZ6NjVNCQpump",
-      "price": 8.660219352926021e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T18:23:50+00:00",
-      "side": "sell",
-      "symbol": "$CELL",
-      "address": "CmacStwtJuNPWXm8PE6q8DS5t8bvsevU5sEXcpmQpump",
-      "price": 7.818969076e-06,
-      "proceeds": 45.39,
-      "pnl_usd": -4.61,
-      "reason": "durée max"
-    },
     {
       "date": "2026-10-30T18:23:50+00:00",
       "side": "sell",
@@ -4528,13 +4474,47 @@
       "address": "5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump",
       "price": 3.268345112081069e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-12T11:51:39+00:00",
+      "side": "sell",
+      "symbol": "Rockstar",
+      "address": "7KcJQEPhiBoTqNfpiS3H7CPuSko3BEAmeNA8MzfKpump",
+      "price": 1.521200013e-06,
+      "proceeds": 0.72,
+      "pnl_usd": -49.28,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-12T11:51:39+00:00",
+      "side": "sell",
+      "symbol": "Anthropic",
+      "address": "ByB6rdDtrKp194NeyUkJFrEoTEG65kdcWs3FCu59pump",
+      "price": 1.537813381e-06,
+      "proceeds": 0.89,
+      "pnl_usd": -49.11,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-12T11:51:39+00:00",
+      "side": "sell",
+      "symbol": "GABOON",
+      "address": "5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump",
+      "price": 1.646599728e-06,
+      "proceeds": 2.38,
+      "pnl_usd": -47.62,
+      "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-12T11:51:39+00:00",
+      "side": "buy",
+      "symbol": "GETPAID",
+      "address": "J3CJndiwmQxp2LbcXhGXAXryVyuqUcBbF5mMUC4Zpump",
+      "price": 8.130631951996245e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T10:18:34+00:00",
-      "equity": 3598428.43
-    },
     {
       "date": "2026-10-10T10:37:23+00:00",
       "equity": 3598401.93
@@ -8530,6 +8510,10 @@
     {
       "date": "2026-11-12T03:37:52+00:00",
       "equity": 6528940.38
+    },
+    {
+      "date": "2026-11-12T11:51:39+00:00",
+      "equity": 6528798.27
     }
   ]
 }
