@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6528750.592016895,
-  "positions": {
-    "J3CJndiwmQxp2LbcXhGXAXryVyuqUcBbF5mMUC4Zpump": {
-      "symbol": "GETPAID",
-      "qty": 6088087.653241602,
-      "entry_price": 8.130631951996245e-06,
-      "last_price": 7.83156469036108e-06,
-      "cost": 50.0,
-      "entry_time": "2026-11-12T11:51:39+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6528774.193246781,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-30T18:23:50+00:00",
-      "side": "sell",
-      "symbol": "LaMisery",
-      "address": "HtchajuQXEtEdPE8LFQVS9CdoRAB2zHUZ6NjVNCQpump",
-      "price": 6.11036856e-06,
-      "proceeds": 33.29,
-      "pnl_usd": -16.71,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-30T18:23:51+00:00",
       "side": "buy",
@@ -4512,13 +4492,19 @@
       "address": "J3CJndiwmQxp2LbcXhGXAXryVyuqUcBbF5mMUC4Zpump",
       "price": 8.130631951996245e-06,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-12T19:27:48+00:00",
+      "side": "sell",
+      "symbol": "GETPAID",
+      "address": "J3CJndiwmQxp2LbcXhGXAXryVyuqUcBbF5mMUC4Zpump",
+      "price": 7.83156469e-06,
+      "proceeds": 23.6,
+      "pnl_usd": -26.4,
+      "reason": "liquidité effondrée"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T10:37:23+00:00",
-      "equity": 3598401.93
-    },
     {
       "date": "2026-10-10T10:54:12+00:00",
       "equity": 3598358.92
@@ -8514,6 +8500,10 @@
     {
       "date": "2026-11-12T11:51:39+00:00",
       "equity": 6528798.27
+    },
+    {
+      "date": "2026-11-12T19:27:48+00:00",
+      "equity": 6528774.19
     }
   ]
 }
