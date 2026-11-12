@@ -1,34 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6528946.601660461,
-  "positions": {},
+  "cash": 6528796.601660461,
+  "positions": {
+    "7KcJQEPhiBoTqNfpiS3H7CPuSko3BEAmeNA8MzfKpump": {
+      "symbol": "Rockstar",
+      "qty": 494080.46353306377,
+      "entry_price": 0.00010018611067119732,
+      "last_price": 9.705911237671429e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-12T03:37:52+00:00",
+      "missing": 0
+    },
+    "ByB6rdDtrKp194NeyUkJFrEoTEG65kdcWs3FCu59pump": {
+      "symbol": "Anthropic",
+      "qty": 606884.4886999135,
+      "entry_price": 8.156412121529158e-05,
+      "last_price": 7.899447871661075e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-12T03:37:52+00:00",
+      "missing": 0
+    },
+    "5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump": {
+      "symbol": "GABOON",
+      "qty": 1514527.9431180274,
+      "entry_price": 3.268345112081069e-05,
+      "last_price": 3.161681539008461e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-12T03:37:52+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-30T16:17:13+00:00",
-      "side": "buy",
-      "symbol": "holderinu",
-      "address": "3pxzs3edqTzNF56AXE1cdDuKJEdCiVdSop5shmSppump",
-      "price": 1.0510615714305114e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T17:04:29+00:00",
-      "side": "sell",
-      "symbol": "holderinu",
-      "address": "3pxzs3edqTzNF56AXE1cdDuKJEdCiVdSop5shmSppump",
-      "price": 0.2052724513,
-      "proceeds": 478534.12,
-      "pnl_usd": 478484.12,
-      "reason": "liquidité effondrée"
-    },
-    {
-      "date": "2026-10-30T17:04:30+00:00",
-      "side": "buy",
-      "symbol": "$PAUSE",
-      "address": "FJFdSM7uL3q1eW37ErZCNZFZQ7Nko2wcGsdCZBxYpump",
-      "price": 3.7262657711689355e-05,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-30T17:04:30+00:00",
       "side": "buy",
@@ -4502,13 +4504,33 @@
       "proceeds": 45.35,
       "pnl_usd": -4.65,
       "reason": "durée max"
+    },
+    {
+      "date": "2026-11-12T03:37:52+00:00",
+      "side": "buy",
+      "symbol": "Rockstar",
+      "address": "7KcJQEPhiBoTqNfpiS3H7CPuSko3BEAmeNA8MzfKpump",
+      "price": 0.00010018611067119732,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-12T03:37:52+00:00",
+      "side": "buy",
+      "symbol": "Anthropic",
+      "address": "ByB6rdDtrKp194NeyUkJFrEoTEG65kdcWs3FCu59pump",
+      "price": 8.156412121529158e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-12T03:37:52+00:00",
+      "side": "buy",
+      "symbol": "GABOON",
+      "address": "5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump",
+      "price": 3.268345112081069e-05,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T09:57:39+00:00",
-      "equity": 3597597.43
-    },
     {
       "date": "2026-10-10T10:18:34+00:00",
       "equity": 3598428.43
@@ -8504,6 +8526,10 @@
     {
       "date": "2026-11-11T22:53:19+00:00",
       "equity": 6528946.6
+    },
+    {
+      "date": "2026-11-12T03:37:52+00:00",
+      "equity": 6528940.38
     }
   ]
 }
