@@ -1,28 +1,8 @@
 {
   "mode": "pumpfun",
-  "cash": 6528674.894827259,
-  "positions": {
-    "CiXQR7GfJ7XQRiSHsiBXBoGNcztK2RaSvsDryhiTpump": {
-      "symbol": "AILZRD",
-      "qty": 1335978.8259757704,
-      "entry_price": 3.7051485425935744e-05,
-      "last_price": 3.590999663024802e-05,
-      "cost": 50.0,
-      "entry_time": "2026-11-13T07:21:12+00:00",
-      "missing": 0
-    }
-  },
+  "cash": 6528720.889460521,
+  "positions": {},
   "trades": [
-    {
-      "date": "2026-10-30T19:17:56+00:00",
-      "side": "sell",
-      "symbol": "Timmy",
-      "address": "3v7uHjarpSn8HGku6Bw1Z8CBsyD5f6C7BnAeXpWBpump",
-      "price": 2.677042744e-06,
-      "proceeds": 6.98,
-      "pnl_usd": -43.02,
-      "reason": "stop-loss"
-    },
     {
       "date": "2026-10-30T19:17:56+00:00",
       "side": "buy",
@@ -4512,13 +4492,19 @@
       "address": "CiXQR7GfJ7XQRiSHsiBXBoGNcztK2RaSvsDryhiTpump",
       "price": 3.7051485425935744e-05,
       "cost": 50.0
+    },
+    {
+      "date": "2026-11-13T15:33:35+00:00",
+      "side": "sell",
+      "symbol": "AILZRD",
+      "address": "CiXQR7GfJ7XQRiSHsiBXBoGNcztK2RaSvsDryhiTpump",
+      "price": 3.591446466e-05,
+      "proceeds": 45.99,
+      "pnl_usd": -4.01,
+      "reason": "durée max"
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T11:31:17+00:00",
-      "equity": 3598304.47
-    },
     {
       "date": "2026-10-10T11:49:37+00:00",
       "equity": 3598299.94
@@ -8514,6 +8500,10 @@
     {
       "date": "2026-11-13T07:21:12+00:00",
       "equity": 6528722.87
+    },
+    {
+      "date": "2026-11-13T15:33:35+00:00",
+      "equity": 6528720.89
     }
   ]
 }
