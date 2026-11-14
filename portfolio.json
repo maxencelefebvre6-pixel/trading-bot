@@ -1,32 +1,36 @@
 {
   "mode": "pumpfun",
-  "cash": 6528671.069666009,
-  "positions": {},
+  "cash": 6528521.069666009,
+  "positions": {
+    "5v97WifgdT7sR7AZYbNg8vLw4Twg4v8ncpmSDdZjpump": {
+      "symbol": "SOLFLY",
+      "qty": 1651331.0718693957,
+      "entry_price": 2.997581820098821e-05,
+      "last_price": 2.887938603056397e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-14T15:06:11+00:00",
+      "missing": 0
+    },
+    "AmEjzzKeLFEomcjEQDnLBxDdcrbYMcyCzqxupipWpump": {
+      "symbol": "CHLOEAI",
+      "qty": 1375060.36543582,
+      "entry_price": 3.599841959251816e-05,
+      "last_price": 3.480836106190542e-05,
+      "cost": 50.0,
+      "entry_time": "2026-11-14T15:06:11+00:00",
+      "missing": 0
+    },
+    "CsH7YSAdidmFq6StErMmwkEdiV7TmS2c6cPjYpc4pump": {
+      "symbol": "WSJH",
+      "qty": 23004867.079234853,
+      "entry_price": 2.1517185832680057e-06,
+      "last_price": 2.0720994391613418e-06,
+      "cost": 50.0,
+      "entry_time": "2026-11-14T15:06:11+00:00",
+      "missing": 0
+    }
+  },
   "trades": [
-    {
-      "date": "2026-10-30T20:00:29+00:00",
-      "side": "buy",
-      "symbol": "SOOTS",
-      "address": "2yBV7r8gysQprj5URM3TfJFxEvDwGQJShko5YR1Cpump",
-      "price": 1.0801652851378134e-05,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T20:00:29+00:00",
-      "side": "buy",
-      "symbol": "SAVPIR",
-      "address": "2b9CEAPA1Rfit9NHdVWNUwVc6QqZ5Bh8HpgL4vtGpump",
-      "price": 9.563480419945596e-06,
-      "cost": 50.0
-    },
-    {
-      "date": "2026-10-30T20:00:29+00:00",
-      "side": "buy",
-      "symbol": "snurgg",
-      "address": "9wcnYnid3V5VYGYJ1KSXhALMQRH4Xn3TR2n5PZLCpump",
-      "price": 6.81383189760402e-06,
-      "cost": 50.0
-    },
     {
       "date": "2026-10-30T20:40:18+00:00",
       "side": "sell",
@@ -4504,13 +4508,33 @@
       "proceeds": 0.04,
       "pnl_usd": -49.96,
       "reason": "liquidité effondrée"
+    },
+    {
+      "date": "2026-11-14T15:06:11+00:00",
+      "side": "buy",
+      "symbol": "SOLFLY",
+      "address": "5v97WifgdT7sR7AZYbNg8vLw4Twg4v8ncpmSDdZjpump",
+      "price": 2.997581820098821e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-14T15:06:11+00:00",
+      "side": "buy",
+      "symbol": "CHLOEAI",
+      "address": "AmEjzzKeLFEomcjEQDnLBxDdcrbYMcyCzqxupipWpump",
+      "price": 3.599841959251816e-05,
+      "cost": 50.0
+    },
+    {
+      "date": "2026-11-14T15:06:11+00:00",
+      "side": "buy",
+      "symbol": "WSJH",
+      "address": "CsH7YSAdidmFq6StErMmwkEdiV7TmS2c6cPjYpc4pump",
+      "price": 2.1517185832680057e-06,
+      "cost": 50.0
     }
   ],
   "equity_log": [
-    {
-      "date": "2026-10-10T12:53:32+00:00",
-      "equity": 3598242.47
-    },
     {
       "date": "2026-10-10T13:33:02+00:00",
       "equity": 3598238.34
@@ -8506,6 +8530,10 @@
     {
       "date": "2026-11-14T08:09:18+00:00",
       "equity": 6528671.07
+    },
+    {
+      "date": "2026-11-14T15:06:11+00:00",
+      "equity": 6528664.29
     }
   ]
 }
